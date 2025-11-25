@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.anmstream" name="[B][COLOR#FF8C00]Anm[/COLOR][COLOR#00BFFF]Stream[/COLOR] [COLOR#00FF00]B[/COLOR][COLOR#FFFF00]R[/COLOR][/B]" version="2.1.2" provider-name="PacDT">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.22.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="pt-br">Player de Animes BR</summary>
+        <description lang="pt-br">Player de Animes Dublados (PT-BR) e Legendados (PT-BR). Todos os dados, links e episódios dos animes que contém nesse Addon foram retirados do site AnimeFire.plus.</description>
+        <platform>all</platform>
+	<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
