@@ -6,19 +6,23 @@
     "episodios": [
         {
             "numero": 1,
-            "url": "https://lightspeedst.net/s3/mp4/i-wish-you-were-here/sd/1.mp4"
+            "url": "https://lightspeedst.net/s3/mp4/i-wish-you-were-here/sd/1.mp4",
+            "nome": "Encounter"
         },
         {
             "numero": 2,
-            "url": "https://lightspeedst.net/s3/mp4/i-wish-you-were-here/sd/2.mp4"
+            "url": "https://lightspeedst.net/s3/mp4/i-wish-you-were-here/sd/2.mp4",
+            "nome": "Farewell"
         },
         {
             "numero": 3,
-            "url": "https://lightspeedst.net/s3/mp4/i-wish-you-were-here/sd/3.mp4"
+            "url": "https://lightspeedst.net/s3/mp4/i-wish-you-were-here/sd/3.mp4",
+            "nome": "Notice"
         },
         {
             "numero": 4,
-            "url": "https://lightspeedst.net/s3/mp4/i-wish-you-were-here/sd/4.mp4"
+            "url": "https://lightspeedst.net/s3/mp4/i-wish-you-were-here/sd/4.mp4",
+            "nome": "Presence"
         }
     ],
     "metadata_completo": {
