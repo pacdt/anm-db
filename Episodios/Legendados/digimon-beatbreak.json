@@ -2,7 +2,7 @@
     "nome": "Digimon Beatbreak",
     "slug": "digimon-beatbreak",
     "imagem": "https://animefire.plus/img/animes/digimon-beatbreak.webp",
-    "total_episodios": 8,
+    "total_episodios": 9,
     "episodios": [
         {
             "numero": 1,
@@ -41,7 +41,13 @@
         },
         {
             "numero": 8,
-            "url": "https://lightspeedst.net/s2/mp4/digimon-beatbreak/hd/8.mp4"
+            "url": "https://lightspeedst.net/s2/mp4/digimon-beatbreak/hd/8.mp4",
+            "nome": "The Vanishing Classroom"
+        },
+        {
+            "numero": 9,
+            "url": "https://lightspeedst.net/s2/mp4_temp/digimon-beatbreak/9/720p.mp4",
+            "nome": "Utopia"
         }
     ],
     "metadata_completo": {
