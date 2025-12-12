@@ -1,0 +1,11 @@
+# Scripts
+animes_manager_ultimate.py
+update_database.bat
+# Json
+status.json
+# Python caches
+__pycache__/
+*.pyc
+# Ambientes virtuais
+venv/
+.venv/

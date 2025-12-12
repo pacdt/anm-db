@@ -1,8 +1,13 @@
 {
+    "id_slug": "futari-solo-camp",
     "nome": "Futari Solo Camp",
-    "slug": "futari-solo-camp",
-    "imagem": "https://animefire.plus/img/animes/futari-solo-camp.webp",
-    "total_episodios": 22,
+    "tipo": "Legendado",
+    "link_site": "https://animefire.plus/animes/futari-solo-camp-todos-os-episodios",
+    "imagem": "https://cdn.myanimelist.net/images/anime/1904/150649l.jpg",
+    "sinopse": "Sinopse:A história se concentra em Gen Kinokura, um campista solo dedicado que valoriza sua solidão. Durante uma de suas viagens de acampamento habituais, ele inesperadamente cruza os caminhos com Shizuku Kusano, um novato no acampamento. O que começa como um encontro acidental evolui para uma parceria incomum, pois os dois embarcam no que só pode ser descrito como \"acampamento solo para dois\".",
+    "nota": 6.62,
+    "classificacao": "PG-13 - Teens 13 or older",
+    "generos": [],
     "episodios": [
         {
             "numero": 1,
@@ -113,8 +118,15 @@
             "numero": 22,
             "url": "https://lightspeedst.net/s2/mp4/futari-solo-camp/hd/22.mp4",
             "nome": "A Dream Spun With Someone"
+        },
+        {
+            "numero": 23,
+            "url": "https://lightspeedst.net/s2/mp4/futari-solo-camp/hd/23.mp4"
         }
     ],
+    "total_episodios": 23,
+    "last_update": 1765483213.528636,
+    "slug": "futari-solo-camp",
     "metadata_completo": {
         "titulo_oficial": "Futari Solo Camp",
         "titulo_ingles": "Solo Camping for Two",
@@ -131,10 +143,7 @@
         "imagem_capa": "https://cdn.myanimelist.net/images/anime/1904/150649.jpg",
         "id_mal": 60665
     },
-    "generos": [
-        "Gourmet",
-        "Slice of Life"
-    ],
-    "nota": 6.61,
-    "ano": 2025
+    "ano": "Jul 11, 2025",
+    "id_mal": 60665,
+    "titulo_ingles": "Solo Camping for Two"
 }

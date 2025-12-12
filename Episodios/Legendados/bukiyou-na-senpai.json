@@ -1,8 +1,13 @@
 {
+    "id_slug": "bukiyou-na-senpai",
     "nome": "Bukiyou na Senpai.",
-    "slug": "bukiyou-na-senpai",
-    "imagem": "https://animefire.plus/img/animes/bukiyou-na-senpai.webp",
-    "total_episodios": 10,
+    "tipo": "Legendado",
+    "link_site": "https://animefire.plus/animes/bukiyou-na-senpai-todos-os-episodios",
+    "imagem": "https://cdn.myanimelist.net/images/anime/1257/152233l.jpg",
+    "sinopse": "Sinopse:Kannawa-senpai é considerado muitas coisas, mas definitivamente não é uma delas. Então ela conhece Kamegawa, seu novo Kouhai. Ele é fofo, um pouco nerd e fácil de conversar. Como esse senpai estranho será capaz de lidar com esses novos sentimentos?!",
+    "nota": 6.85,
+    "classificacao": "PG-13 - Teens 13 or older",
+    "generos": [],
     "episodios": [
         {
             "numero": 1,
@@ -53,8 +58,15 @@
             "numero": 10,
             "url": "https://lightspeedst.net/s2/mp4/bukiyou-na-senpai/hd/10.mp4",
             "nome": "I'm Gonna Visit My Junior!"
+        },
+        {
+            "numero": 11,
+            "url": "https://lightspeedst.net/s2/mp4_temp/bukiyou-na-senpai/11/720p.mp4"
         }
     ],
+    "total_episodios": 11,
+    "last_update": 1765483189.787394,
+    "slug": "bukiyou-na-senpai",
     "metadata_completo": {
         "titulo_oficial": "Bukiyou na Senpai.",
         "titulo_ingles": "My Awkward Senpai",
@@ -71,10 +83,7 @@
         "imagem_capa": "https://cdn.myanimelist.net/images/anime/1257/152233.jpg",
         "id_mal": 60531
     },
-    "generos": [
-        "Comedy",
-        "Romance"
-    ],
-    "nota": 6.84,
-    "ano": 2025
+    "ano": "Oct 2, 2025",
+    "id_mal": 60531,
+    "titulo_ingles": "My Awkward Senpai"
 }
