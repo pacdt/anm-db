@@ -1,13 +1,8 @@
 {
-    "id_slug": "futari-solo-camp",
     "nome": "Futari Solo Camp",
-    "tipo": "Legendado",
-    "link_site": "https://animefire.plus/animes/futari-solo-camp-todos-os-episodios",
+    "slug": "futari-solo-camp",
     "imagem": "https://cdn.myanimelist.net/images/anime/1904/150649l.jpg",
-    "sinopse": "Sinopse:A história se concentra em Gen Kinokura, um campista solo dedicado que valoriza sua solidão. Durante uma de suas viagens de acampamento habituais, ele inesperadamente cruza os caminhos com Shizuku Kusano, um novato no acampamento. O que começa como um encontro acidental evolui para uma parceria incomum, pois os dois embarcam no que só pode ser descrito como \"acampamento solo para dois\".",
-    "nota": 6.62,
-    "classificacao": "PG-13 - Teens 13 or older",
-    "generos": [],
+    "total_episodios": 24,
     "episodios": [
         {
             "numero": 1,
@@ -121,12 +116,23 @@
         },
         {
             "numero": 23,
-            "url": "https://lightspeedst.net/s2/mp4/futari-solo-camp/hd/23.mp4"
+            "url": "https://lightspeedst.net/s2/mp4/futari-solo-camp/hd/23.mp4",
+            "nome": "Are You Giving It Serious Thought?"
+        },
+        {
+            "numero": 24,
+            "url": "https://lightspeedst.net/s2/mp4/futari-solo-camp/hd/24.mp4",
+            "nome": "We're Solo Campers For Two"
         }
     ],
-    "total_episodios": 23,
+    "id_slug": "futari-solo-camp",
+    "tipo": "Legendado",
+    "link_site": "https://animefire.plus/animes/futari-solo-camp-todos-os-episodios",
+    "sinopse": "Sinopse:A história se concentra em Gen Kinokura, um campista solo dedicado que valoriza sua solidão. Durante uma de suas viagens de acampamento habituais, ele inesperadamente cruza os caminhos com Shizuku Kusano, um novato no acampamento. O que começa como um encontro acidental evolui para uma parceria incomum, pois os dois embarcam no que só pode ser descrito como \"acampamento solo para dois\".",
+    "nota": 6.62,
+    "classificacao": "PG-13 - Teens 13 or older",
+    "generos": [],
     "last_update": 1765483213.528636,
-    "slug": "futari-solo-camp",
     "metadata_completo": {
         "titulo_oficial": "Futari Solo Camp",
         "titulo_ingles": "Solo Camping for Two",
