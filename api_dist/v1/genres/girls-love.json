@@ -1,0 +1,362 @@
+{
+  "name": "Girls Love",
+  "animes": [
+    {
+      "title": "Watashi no Oshi wa Akuyaku Reijou. (Dublado)",
+      "slug": "watashi-no-oshi-wa-akuyaku-reijou-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1531/137711l.webp",
+      "score": 7.35,
+      "type": "dublados"
+    },
+    {
+      "title": "Watashi no Yuri wa Oshigoto desu! (Dublado)",
+      "slug": "watashi-no-yuri-wa-oshigoto-desu-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1708/133360l.webp",
+      "score": 6.68,
+      "type": "dublados"
+    },
+    {
+      "title": "Adachi to Shimamura (Dublado)",
+      "slug": "adachi-to-shimamura-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1649/109056l.webp",
+      "score": 7.08,
+      "type": "dublados"
+    },
+    {
+      "title": "Watashi wo Tabetai, Hitodenashi",
+      "slug": "watashi-wo-tabetai-hitodenashi",
+      "image": "https://cdn.myanimelist.net/images/anime/1191/152368l.webp",
+      "score": 7.44,
+      "type": "legendados"
+    },
+    {
+      "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+      "slug": "watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta",
+      "image": "https://cdn.myanimelist.net/images/anime/1887/150496l.webp",
+      "score": 7.67,
+      "type": "legendados"
+    },
+    {
+      "title": "Sasayaku You ni Koi wo Utau",
+      "slug": "sasayaku-you-ni-koi-wo-utau",
+      "image": "https://cdn.myanimelist.net/images/anime/1455/141858l.webp",
+      "score": 6.68,
+      "type": "legendados"
+    },
+    {
+      "title": "Mahou Shoujo ni Akogarete",
+      "slug": "mahou-shoujo-ni-akogarete",
+      "image": "https://cdn.myanimelist.net/images/anime/1525/139345l.webp",
+      "score": 7.61,
+      "type": "legendados"
+    },
+    {
+      "title": "Watashi no Oshi wa Akuyaku Reijou.",
+      "slug": "watashi-no-oshi-wa-akuyaku-reijou",
+      "image": "https://cdn.myanimelist.net/images/anime/1531/137711l.webp",
+      "score": 7.35,
+      "type": "legendados"
+    },
+    {
+      "title": "Watashi no Yuri wa Oshigoto desu!",
+      "slug": "watashi-no-yuri-wa-oshigoto-desu",
+      "image": "https://cdn.myanimelist.net/images/anime/1708/133360l.webp",
+      "score": 6.68,
+      "type": "legendados"
+    },
+    {
+      "title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+      "slug": "tensei-oujo-to-tensai-reijou-no-mahou-kakumei",
+      "image": "https://cdn.myanimelist.net/images/anime/1053/129004l.webp",
+      "score": 7.46,
+      "type": "legendados"
+    },
+    {
+      "title": "Kuttsukiboshi",
+      "slug": "kuttsukiboshi",
+      "image": "https://cdn.myanimelist.net/images/anime/3/29484l.webp",
+      "score": 5.97,
+      "type": "legendados"
+    },
+    {
+      "title": "Ice",
+      "slug": "ice",
+      "image": "https://cdn.myanimelist.net/images/anime/1/2329l.webp",
+      "score": 5.27,
+      "type": "legendados"
+    },
+    {
+      "title": "Adachi to Shimamura",
+      "slug": "adachi-to-shimamura",
+      "image": "https://cdn.myanimelist.net/images/anime/1649/109056l.webp",
+      "score": 7.08,
+      "type": "legendados"
+    },
+    {
+      "title": "Oniisama e...",
+      "slug": "oniisama-e",
+      "image": "https://cdn.myanimelist.net/images/anime/12/18531l.webp",
+      "score": 7.86,
+      "type": "legendados"
+    },
+    {
+      "title": "Netsuzou TRap",
+      "slug": "netsuzou-trap",
+      "image": "https://cdn.myanimelist.net/images/anime/10/86667l.webp",
+      "score": 5.3,
+      "type": "legendados"
+    },
+    {
+      "title": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+      "slug": "candy-boy-episode-ex01---mirai-yohouzu",
+      "image": "https://cdn.myanimelist.net/images/anime/10/35525l.webp",
+      "score": 6.74,
+      "type": "legendados"
+    },
+    {
+      "title": "Candy☆Boy: Side Story For Archive",
+      "slug": "candy-boy-side-story-for-archive",
+      "image": "https://cdn.myanimelist.net/images/anime/3/35473l.webp",
+      "score": 6.75,
+      "type": "legendados"
+    },
+    {
+      "title": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron",
+      "slug": "candy-boy-episode-ex02---shiawase-kyouyuu-riron",
+      "image": "https://cdn.myanimelist.net/images/anime/4/14762l.webp",
+      "score": 6.71,
+      "type": "legendados"
+    },
+    {
+      "title": "Blue Drop: Tenshi-tachi no Gikyoku",
+      "slug": "blue-drop-tenshi-tachi-no-gikyoku",
+      "image": "https://cdn.myanimelist.net/images/anime/3/50485l.webp",
+      "score": 6.66,
+      "type": "legendados"
+    },
+    {
+      "title": "Yuru Yuri San☆Hai!",
+      "slug": "yuru-yuri-san-hai",
+      "image": "https://cdn.myanimelist.net/images/anime/7/76667l.webp",
+      "score": 7.9,
+      "type": "legendados"
+    },
+    {
+      "title": "Gokujo.: Gokurakuin Joshikou Ryou Monogatari",
+      "slug": "gokujo-gokurakuin-joshikou-ryou-monogatari",
+      "image": "https://cdn.myanimelist.net/images/anime/11/35659l.webp",
+      "score": 6.12,
+      "type": "legendados"
+    },
+    {
+      "title": "Mini Yuri",
+      "slug": "mini-yuri",
+      "image": "https://cdn.myanimelist.net/images/anime/1606/116670l.webp",
+      "score": 6.74,
+      "type": "legendados"
+    },
+    {
+      "title": "Valkyrie Drive: Mermaid",
+      "slug": "valkyrie-drive-mermaid",
+      "image": "https://cdn.myanimelist.net/images/anime/13/75528l.webp",
+      "score": 6.05,
+      "type": "legendados"
+    },
+    {
+      "title": "Simoun",
+      "slug": "simoun",
+      "image": "https://cdn.myanimelist.net/images/anime/9/29109l.webp",
+      "score": 7.41,
+      "type": "legendados"
+    },
+    {
+      "title": "Aoi Hana",
+      "slug": "aoi-hana",
+      "image": "https://cdn.myanimelist.net/images/anime/3/80255l.webp",
+      "score": 7.08,
+      "type": "legendados"
+    },
+    {
+      "title": "Yami To Boushi To Hon No Tabibito",
+      "slug": "yami-to-boushi-to-hon-no-tabibito",
+      "image": "https://cdn.myanimelist.net/images/anime/1894/124184l.webp",
+      "score": 6.5,
+      "type": "legendados"
+    },
+    {
+      "title": "Kanamemo",
+      "slug": "kanamemo",
+      "image": "https://cdn.myanimelist.net/images/anime/6/52677l.webp",
+      "score": 6.82,
+      "type": "legendados"
+    },
+    {
+      "title": "Yuru Yuri",
+      "slug": "yuru-yuri",
+      "image": "https://cdn.myanimelist.net/images/anime/12/75173l.webp",
+      "score": 7.56,
+      "type": "legendados"
+    },
+    {
+      "title": "Konohana Kitan",
+      "slug": "konohana-kitan",
+      "image": "https://cdn.myanimelist.net/images/anime/3/88431l.webp",
+      "score": 7.47,
+      "type": "legendados"
+    },
+    {
+      "title": "Asagao to Kase-san.",
+      "slug": "asagao-to-kase-san",
+      "image": "https://cdn.myanimelist.net/images/anime/1578/94205l.webp",
+      "score": 7.68,
+      "type": "legendados"
+    },
+    {
+      "title": "Sasameki Koto",
+      "slug": "sasameki-koto",
+      "image": "https://cdn.myanimelist.net/images/anime/9/75225l.webp",
+      "score": 7.05,
+      "type": "legendados"
+    },
+    {
+      "title": "Kannazuki no Miko",
+      "slug": "kannazuki-no-miko",
+      "image": "https://cdn.myanimelist.net/images/anime/8/73955l.webp",
+      "score": 6.8,
+      "type": "legendados"
+    },
+    {
+      "title": "Koutetsu Tenshi Kurumi 2",
+      "slug": "koutetsu-tenshi-kurumi-2",
+      "image": "https://cdn.myanimelist.net/images/anime/1019/151452l.webp",
+      "score": 6.26,
+      "type": "legendados"
+    },
+    {
+      "title": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+      "slug": "candy-boy-nonchalant-talk-of-the-certain-twin-sisters-in-daily-life",
+      "image": "https://cdn.myanimelist.net/images/anime/10/13663l.webp",
+      "score": 6.75,
+      "type": "legendados"
+    },
+    {
+      "title": "Mnemosyne: Mnemosyne no Musume-tachi",
+      "slug": "mnemosyne-mnemosyne-no-musume-tachi",
+      "image": "https://cdn.myanimelist.net/images/anime/1463/153332l.webp",
+      "score": 7.23,
+      "type": "legendados"
+    },
+    {
+      "title": "Strawberry Panic",
+      "slug": "strawberry-panic",
+      "image": "https://cdn.myanimelist.net/images/anime/1699/110686l.webp",
+      "score": 7.26,
+      "type": "legendados"
+    },
+    {
+      "title": "Sakura Trick",
+      "slug": "sakura-trick",
+      "image": "https://cdn.myanimelist.net/images/anime/2/56189l.webp",
+      "score": 6.94,
+      "type": "legendados"
+    },
+    {
+      "title": "Yagate Kimi ni Naru",
+      "slug": "yagate-kimi-ni-naru",
+      "image": "https://cdn.myanimelist.net/images/anime/1783/96153l.webp",
+      "score": 7.88,
+      "type": "legendados"
+    },
+    {
+      "title": "Maria†Holic",
+      "slug": "maria-holic",
+      "image": "https://cdn.myanimelist.net/images/anime/1240/111304l.webp",
+      "score": 6.99,
+      "type": "legendados"
+    },
+    {
+      "title": "Yuri Kuma Arashi",
+      "slug": "yuri-kuma-arashi",
+      "image": "https://cdn.myanimelist.net/images/anime/3/69203l.webp",
+      "score": 7.03,
+      "type": "legendados"
+    },
+    {
+      "title": "Maria-sama ga Miteru",
+      "slug": "maria-sama-ga-miteru",
+      "image": "https://cdn.myanimelist.net/images/anime/1994/114208l.webp",
+      "score": 7.27,
+      "type": "legendados"
+    },
+    {
+      "title": "Happy Sugar Life",
+      "slug": "happy-sugar-life",
+      "image": "https://cdn.myanimelist.net/images/anime/1386/103920l.webp",
+      "score": 6.75,
+      "type": "legendados"
+    },
+    {
+      "title": "Maria-sama ga Miteru: Haru",
+      "slug": "maria-sama-ga-miteru-haru",
+      "image": "https://cdn.myanimelist.net/images/anime/9/75208l.webp",
+      "score": 7.61,
+      "type": "legendados"
+    },
+    {
+      "title": "Tachibanakan Triangle",
+      "slug": "tachibanakan-triangle",
+      "image": "https://cdn.myanimelist.net/images/anime/1594/108629l.webp",
+      "score": 5.62,
+      "type": "legendados"
+    },
+    {
+      "title": "Uchi no Maid ga Uzasugiru!",
+      "slug": "uchi-no-maid-ga-uzasugiru",
+      "image": "https://cdn.myanimelist.net/images/anime/1786/95330l.webp",
+      "score": 6.85,
+      "type": "legendados"
+    },
+    {
+      "title": "Inugami-san to Nekoyama-san",
+      "slug": "inugami-san-to-nekoyama-san",
+      "image": "https://cdn.myanimelist.net/images/anime/4/61921l.webp",
+      "score": 6.5,
+      "type": "legendados"
+    },
+    {
+      "title": "Maria-sama ga Miteru 4th",
+      "slug": "maria-sama-ga-miteru-4th",
+      "image": "https://cdn.myanimelist.net/images/anime/4/75206l.webp",
+      "score": 7.74,
+      "type": "legendados"
+    },
+    {
+      "title": "Akuma no Riddle",
+      "slug": "akuma-no-riddle",
+      "image": "https://cdn.myanimelist.net/images/anime/6/60479l.webp",
+      "score": 6.59,
+      "type": "legendados"
+    },
+    {
+      "title": "Kashimashi: Girl Meets Girl",
+      "slug": "kashimashi-girl-meets-girl",
+      "image": "https://cdn.myanimelist.net/images/anime/1516/143740l.webp",
+      "score": 6.61,
+      "type": "legendados"
+    },
+    {
+      "title": "Mai-HiME",
+      "slug": "mai-hime",
+      "image": "https://cdn.myanimelist.net/images/anime/13/7226l.webp",
+      "score": 7.39,
+      "type": "legendados"
+    },
+    {
+      "title": "Maria†Holic Alive",
+      "slug": "maria-holic-alive",
+      "image": "https://cdn.myanimelist.net/images/anime/6/78775l.webp",
+      "score": 6.94,
+      "type": "legendados"
+    }
+  ]
+}
