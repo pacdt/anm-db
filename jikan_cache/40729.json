@@ -1,0 +1,237 @@
+{
+  "mal_id": 40729,
+  "url": "https://myanimelist.net/anime/40729/Nomad__Megalo_Box_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1190/113352.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1190/113352t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/113352l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1190/113352.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1190/113352t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/113352l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/bjl0qMgrugQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nomad: Megalo Box 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "NOMAD メガロボクス2"
+    },
+    {
+      "type": "English",
+      "title": "Megalobox 2: Nomad"
+    }
+  ],
+  "title": "Nomad: Megalo Box 2",
+  "title_english": "Megalobox 2: Nomad",
+  "title_japanese": "NOMAD メガロボクス2",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-04T00:00:00+00:00",
+    "to": "2021-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 4, 2021 to Jun 27, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.18,
+  "scored_by": 90513,
+  "rank": 450,
+  "popularity": 1212,
+  "members": 227744,
+  "favorites": 2231,
+  "synopsis": "Megalo Box is an advanced form of boxing where competitors wear metal frames called Gear. When the first ever Megalonia tournament took place, \"Gearless\" Joe became its champion and known to all as a legendary fighter. However, soon after, he lost an exhibition match against the second champion and vanished from the public eye.\n\nSeven years later, Joe now goes by \"Nomad\" and keeps a low profile, occasionally fighting in a few underground matches to get by. He is haunted by hallucinations and relies on a set of painkillers to numb his mind.\n\nDuring a match, Joe wins against an opponent, Chief, who purposefully loses for some extra cash from gamblers. Subsequently, Joe discovers that Chief is from a community of immigrants called the Casa. Chief is gradually trying to make enough money to purchase the land where they live illegally. At first, Joe hesitates to get involved, but eventually decides to lend the Casa a helping hand.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 36563,
+          "type": "anime",
+          "name": "Megalo Box",
+          "url": "https://myanimelist.net/anime/36563/Megalo_Box"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 48678,
+          "type": "anime",
+          "name": "Nomad: Megalo Box 2 Short Anime",
+          "url": "https://myanimelist.net/anime/48678/Nomad__Megalo_Box_2_Short_Anime"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"The theme of the NOMAD\" by mabanua"
+    ],
+    "endings": [
+      "\"El Canto del Colibrí\" by mabanua"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://megalobox.com/"
+    },
+    {
+      "name": "@joe50_megalobox",
+      "url": "https://twitter.com/joe50_megalobox"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15271"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23970"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Megalo_Box#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AC%E3%83%AD%E3%83%9C%E3%82%AF%E3%82%B9#%E7%AC%AC2%E6%9C%9F"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/5989"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "name": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://www.hulu.com/"
+    }
+  ]
+}

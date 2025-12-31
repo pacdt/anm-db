@@ -1,0 +1,139 @@
+{
+  "mal_id": 2094,
+  "url": "https://myanimelist.net/anime/2094/Relic_Armor_Legaciam",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/53359.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/53359t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/53359l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/53359.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/53359t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/53359l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Relic Armor Legaciam"
+    },
+    {
+      "type": "Japanese",
+      "title": "レリック・アーマー レガシアム"
+    }
+  ],
+  "title": "Relic Armor Legaciam",
+  "title_english": null,
+  "title_japanese": "レリック・アーマー レガシアム",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1987-11-28T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 11,
+        "year": 1987
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 28, 1987"
+  },
+  "duration": "49 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.5,
+  "scored_by": 1371,
+  "rank": 12664,
+  "popularity": 10883,
+  "members": 3140,
+  "favorites": 0,
+  "synopsis": "The planet Libertia was once known as “the planet of death”, until humanity built three giant mirrors and created what seemed like an ideal land. It is on this planet that Professor Grace and his granddaughter Alcia live peacefully… until their home is attacked by Guild soldiers looking for the professor and for Legaciam – a special Armor that can resist extreme heat, allowing it to go to areas where humans would not survive normally. Alcia, who was at the time piloting Legaciam in order to help her grandfather with the testing, manages to get away… barely. But the Guild is determined to get Legaciam by any means necessary…\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 1448,
+      "type": "anime",
+      "name": "Network",
+      "url": "https://myanimelist.net/anime/producer/1448/Network"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"We Need Love\" by Jun Hiroe"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5013"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7259"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/レリックアーマーLEGACIAM"
+    }
+  ],
+  "streaming": []
+}

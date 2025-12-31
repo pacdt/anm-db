@@ -1,0 +1,224 @@
+{
+  "mal_id": 58614,
+  "url": "https://myanimelist.net/anime/58614/Teogonia",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1066/148358.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1066/148358t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1066/148358l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1066/148358.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1066/148358t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1066/148358l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_qzw-m-nR3A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Teogonia"
+    },
+    {
+      "type": "Japanese",
+      "title": "神統記 (テオゴニア)"
+    },
+    {
+      "type": "English",
+      "title": "Teogonia"
+    }
+  ],
+  "title": "Teogonia",
+  "title_english": "Teogonia",
+  "title_japanese": "神統記 (テオゴニア)",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-12T00:00:00+00:00",
+    "to": "2025-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2025
+      }
+    },
+    "string": "Apr 12, 2025 to Jun 28, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.9,
+  "scored_by": 15809,
+  "rank": 4990,
+  "popularity": 4101,
+  "members": 37166,
+  "favorites": 104,
+  "synopsis": "In the harsh region known as the borderlands, humans must fight an endless battle against demi-human creatures that come at them relentlessly, intent on taking their land and their gods. A young boy named Kai, fighting to defend his village, sustains a life-threatening injury that causes him to regain memories from a past life. If you're not a guardian bearer, it's like you're playing life on hard mode... Kai's newfound knowledge gives him a new sense of the unfair \"rule set\" that governs the world around him. One thing is clear: For those without a god to serve as their guardian, life is a constant struggle for survival. Thus begins the epic tale of a young boy's ascent into a vast world filled with magic, bloodshed, and mystery.\n\n(Source: J-Novel Club)",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 2408,
+      "type": "anime",
+      "name": "WOWMAX",
+      "url": "https://myanimelist.net/anime/producer/2408/WOWMAX"
+    },
+    {
+      "mal_id": 2730,
+      "type": "anime",
+      "name": "Shufu to Seikatsusha",
+      "url": "https://myanimelist.net/anime/producer/2730/Shufu_to_Seikatsusha"
+    },
+    {
+      "mal_id": 3155,
+      "type": "anime",
+      "name": "Team-MAX",
+      "url": "https://myanimelist.net/anime/producer/3155/Team-MAX"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 406,
+      "type": "anime",
+      "name": "Asahi Production",
+      "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 131061,
+          "type": "manga",
+          "name": "Teogonia",
+          "url": "https://myanimelist.net/manga/131061/Teogonia"
+        },
+        {
+          "mal_id": 122877,
+          "type": "manga",
+          "name": "Teogonia",
+          "url": "https://myanimelist.net/manga/122877/Teogonia"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Shoudou (衝動)\" by Emi Noda (野田愛)"
+    ],
+    "endings": [
+      "\"Tsuki to Boku to Atarashii Jibun (月と僕と新しい自分)\" by STU48"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://teogonia-anime.com/"
+    },
+    {
+      "name": "@teogonia_anime",
+      "url": "https://twitter.com/teogonia_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18583"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32649"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Teogonia#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%B1%E8%A8%98%EF%BC%88%E3%83%86%E3%82%AA%E3%82%B4%E3%83%8B%E3%82%A2%EF%BC%89#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7406"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283960"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    }
+  ]
+}

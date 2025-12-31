@@ -1,0 +1,276 @@
+{
+  "mal_id": 38480,
+  "url": "https://myanimelist.net/anime/38480/Toaru_Kagaku_no_Accelerator",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1160/99995.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/99995t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/99995l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1160/99995.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/99995t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/99995l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1En9K5B1jNg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Toaru Kagaku no Accelerator"
+    },
+    {
+      "type": "Synonym",
+      "title": "To Aru Majutsu no Index Gaiden"
+    },
+    {
+      "type": "Synonym",
+      "title": "Toaru Kagaku no Ippou Tsuukou"
+    },
+    {
+      "type": "Japanese",
+      "title": "とある科学の一方通行〈アクセラレータ〉"
+    },
+    {
+      "type": "English",
+      "title": "A Certain Scientific Accelerator"
+    },
+    {
+      "type": "German",
+      "title": "A Certain Scientific Accelerator"
+    },
+    {
+      "type": "Spanish",
+      "title": "A Certain Scientific Accelerator"
+    },
+    {
+      "type": "French",
+      "title": "A Certain Scientific Accelerator"
+    }
+  ],
+  "title": "Toaru Kagaku no Accelerator",
+  "title_english": "A Certain Scientific Accelerator",
+  "title_japanese": "とある科学の一方通行〈アクセラレータ〉",
+  "title_synonyms": [
+    "To Aru Majutsu no Index Gaiden",
+    "Toaru Kagaku no Ippou Tsuukou"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-12T00:00:00+00:00",
+    "to": "2019-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Jul 12, 2019 to Sep 27, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.21,
+  "scored_by": 106453,
+  "rank": 3459,
+  "popularity": 1069,
+  "members": 255067,
+  "favorites": 972,
+  "synopsis": "Academy City stands at the forefront of scientific and technological progress, best known for their development of espers: those capable of wielding superhuman abilities that alter the rules of reality. The most powerful among them are the Level 5s, and the one known as Accelerator reigns supreme, even after being weakened by a severe brain injury. By his side is the young girl known as Last Order, whom despite his cold demeanor, he holds closely and vows to protect at all costs.\n\nThough Accelerator may be recovering from his injury, the dark side of Academy City never rests, and so he finds himself unwillingly caught up in the midst of a new conflict. When a mysterious young woman approaches Accelerator in pursuit of Last Order, the highest-ranked esper is confronted by a venomous organization that has taken root in Anti-Skill, Academy City's peacekeeping organization. With dangerous forces on the move that threaten to put Last Order and her sisters at risk, the self-proclaimed villain prepares to step into the darkness once again.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 57989,
+          "type": "manga",
+          "name": "Toaru Majutsu no Index Gaiden: Toaru Kagaku no Accelerator",
+          "url": "https://myanimelist.net/manga/57989/Toaru_Majutsu_no_Index_Gaiden__Toaru_Kagaku_no_Accelerator"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 40280,
+          "type": "anime",
+          "name": "Toaru Kagaku no Accelerator: Tobidase Ippou-san - Hachamecha Kaishingeki",
+          "url": "https://myanimelist.net/anime/40280/Toaru_Kagaku_no_Accelerator__Tobidase_Ippou-san_-_Hachamecha_Kaishingeki"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 4654,
+          "type": "anime",
+          "name": "Toaru Majutsu no Index",
+          "url": "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Shadow is the Light \" by THE SIXTH LIE (eps 2-7, 9-12)"
+    ],
+    "endings": [
+      "\"Parole\" by sajou no hana (eps 2-12)",
+      "\"Shadow is the Light\" by THE SIXTH LIE (eps 1)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://toaru-project.com/accelerator/"
+    },
+    {
+      "name": "@toaru_project",
+      "url": "https://twitter.com/toaru_project"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14440"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21485"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Certain_Scientific_Accelerator#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%82%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%AE%E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278389"
+    }
+  ]
+}

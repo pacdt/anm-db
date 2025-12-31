@@ -1,0 +1,164 @@
+{
+  "mal_id": 38157,
+  "url": "https://myanimelist.net/anime/38157/Circlet_Princess",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1760/97712.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1760/97712t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1760/97712l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1760/97712.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1760/97712t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1760/97712l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/jqU11N6hlyw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Circlet Princess"
+    },
+    {
+      "type": "Japanese",
+      "title": "CIRCLET PRINCESS（サークレット・プリンセス）"
+    }
+  ],
+  "title": "Circlet Princess",
+  "title_english": null,
+  "title_japanese": "CIRCLET PRINCESS（サークレット・プリンセス）",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-08T00:00:00+00:00",
+    "to": "2019-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Jan 8, 2019 to Mar 26, 2019"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.95,
+  "scored_by": 5340,
+  "rank": 10551,
+  "popularity": 5467,
+  "members": 19253,
+  "favorites": 26,
+  "synopsis": "Virtual Reality and the arrival of Circlet Technology has changed people's lives. A new competitive electronic sport called Circlet Bout emerges, and schools duel to determine the strongest Circlet Bout Club and player. One day, Yuuka Sasaki gets mistaken for a challenger and battles against Chikage Fujimura, the best player in Japan, tying the intense fight despite her inexperience. These events lead to her passion for the sport, deciding to become a Circlet Bout player. \n\nTwo years later, Yuuka moves to Tokyo and enrolls in Union School, a place where she can practice and pursue her dream of fighting Chikage again. After her arrival at the Union School, she discovers the club closed. Now her first goal is to help the athletic Miyuki Kasahara and club manager Ayumu Aizawa reopen Union's Circle Bout Club and return it to its former glory.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 112530,
+          "type": "manga",
+          "name": "Circlet Princess: First Bout",
+          "url": "https://myanimelist.net/manga/112530/Circlet_Princess__First_Bout"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"HEAT:Moment\" by Miyuki Hashimoto"
+    ],
+    "endings": [
+      "\"Circle-Lets Friends!\" by Miyuki Hashimoto, Sayaka Sasaki, Aki Misato, CooRie, yozuca*, Minami"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://cirpri-anime.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14255"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21272"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Circlet_Princess"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,203 @@
+{
+  "mal_id": 36214,
+  "url": "https://myanimelist.net/anime/36214/Asagao_to_Kase-san",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1578/94205.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1578/94205t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1578/94205l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1578/94205.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1578/94205t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1578/94205l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/k94x6pAb_k0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Asagao to Kase-san."
+    },
+    {
+      "type": "Synonym",
+      "title": "Morning Glory and Kase-san"
+    },
+    {
+      "type": "Japanese",
+      "title": "あさがおと加瀬さん。"
+    },
+    {
+      "type": "English",
+      "title": "Kase-san and Morning Glories"
+    },
+    {
+      "type": "German",
+      "title": "Kase-san and Morning Glories"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kase-san and Morning Glories"
+    },
+    {
+      "type": "French",
+      "title": "Kase-san and Morning Glories"
+    }
+  ],
+  "title": "Asagao to Kase-san.",
+  "title_english": "Kase-san and Morning Glories",
+  "title_japanese": "あさがおと加瀬さん。",
+  "title_synonyms": [
+    "Morning Glory and Kase-san"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-06-09T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 6,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 9, 2018"
+  },
+  "duration": "58 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.68,
+  "scored_by": 54978,
+  "rank": 1411,
+  "popularity": 1931,
+  "members": 130597,
+  "favorites": 1283,
+  "synopsis": "Yui Yamada, a high school girl with a fondness for plants and gardening, starts dating Tomoka Kase, the ace of her school's track team. Yui is shy, girly, and has never been in a relationship. On the other hand, Tomoka is vivacious, tomboyish, and popular among her friends. Despite being different in so many ways, they try to understand and support each other while experiencing the rush of exhilaration that accompanies the magic of first love.\n\nAsagao to Kase-san is a heartwarming tale of two girls dealing with their ever-increasing feelings for each other along with other concerns that plague the hearts of maidens in love.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 26,
+      "type": "anime",
+      "name": "Girls Love",
+      "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 38105,
+          "type": "manga",
+          "name": "Kase-san Series",
+          "url": "https://myanimelist.net/manga/38105/Kase-san_Series"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 35159,
+          "type": "anime",
+          "name": "Kimi no Hikari: Asagao to Kase-san.",
+          "url": "https://myanimelist.net/anime/35159/Kimi_no_Hikari__Asagao_to_Kase-san"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Asu e no Tobira (明日への扉)\" by Yui Yamada (Minami Takahashi) & Tomoka Kase (Ayane Sakura)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.asagao-anime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13409"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20752"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kase-san"
+    }
+  ],
+  "streaming": []
+}

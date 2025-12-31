@@ -1,0 +1,175 @@
+{
+  "mal_id": 1593,
+  "url": "https://myanimelist.net/anime/1593/Azumanga_Web_Daiou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1186/139941.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1186/139941t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1186/139941l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1186/139941.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1186/139941t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1186/139941l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Azumanga Web Daiou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Azumanga Web Diaoh"
+    },
+    {
+      "type": "Synonym",
+      "title": "Azumanga Daioh - Web Daioh"
+    },
+    {
+      "type": "Synonym",
+      "title": "Azumanga Diaoh - Web Diaoh"
+    },
+    {
+      "type": "Japanese",
+      "title": "あずまんがWEB大王"
+    },
+    {
+      "type": "English",
+      "title": "Azumanga Web Daioh"
+    }
+  ],
+  "title": "Azumanga Web Daiou",
+  "title_english": "Azumanga Web Daioh",
+  "title_japanese": "あずまんがWEB大王",
+  "title_synonyms": [
+    "Azumanga Web Diaoh",
+    "Azumanga Daioh - Web Daioh",
+    "Azumanga Diaoh - Web Diaoh"
+  ],
+  "type": "ONA",
+  "source": "4-koma manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-12-28T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 12,
+        "year": 2000
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 28, 2000"
+  },
+  "duration": "3 min",
+  "rating": "G - All Ages",
+  "score": 6.73,
+  "scored_by": 19622,
+  "rank": 5896,
+  "popularity": 4117,
+  "members": 36969,
+  "favorites": 39,
+  "synopsis": "Chiyo brings a video camera to school for a class project. But when Tomo gets a hold of it, heaps of trouble happen all over campus.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Ajia-do",
+      "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 66,
+          "type": "anime",
+          "name": "Azumanga Daiou The Animation",
+          "url": "https://myanimelist.net/anime/66/Azumanga_Daiou_The_Animation"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8792"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2255"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Azumanga"
+    }
+  ],
+  "streaming": []
+}

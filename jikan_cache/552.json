@@ -1,0 +1,354 @@
+{
+  "mal_id": 552,
+  "url": "https://myanimelist.net/anime/552/Digimon_Adventure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1471/99249.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/99249t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/99249l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1471/99249.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/99249t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/99249l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Digimon Adventure"
+    },
+    {
+      "type": "Synonym",
+      "title": "Digimon Adventure 01"
+    },
+    {
+      "type": "Japanese",
+      "title": "デジモンアドベンチャー"
+    },
+    {
+      "type": "English",
+      "title": "Digimon: Digital Monsters"
+    },
+    {
+      "type": "French",
+      "title": "Digimon: Digital Monsters"
+    }
+  ],
+  "title": "Digimon Adventure",
+  "title_english": "Digimon: Digital Monsters",
+  "title_japanese": "デジモンアドベンチャー",
+  "title_synonyms": [
+    "Digimon Adventure 01"
+  ],
+  "type": "TV",
+  "source": "Other",
+  "episodes": 54,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-03-07T00:00:00+00:00",
+    "to": "2000-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 3,
+        "year": 1999
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2000
+      }
+    },
+    "string": "Mar 7, 1999 to Mar 26, 2000"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 7.78,
+  "scored_by": 267275,
+  "rank": 1134,
+  "popularity": 617,
+  "members": 421866,
+  "favorites": 5719,
+  "synopsis": "When a group of seven children go to summer camp, the last thing that they expect is snow falling in July. In the confusion that follows this phenomenon, they each receive an odd device that transports them to another world. As soon as they wake up in this new world, they encounter strange creatures who call themselves \"Digimon.\" The Digimon tell them that they've landed in the \"Digital World,\" far from home.\n\nWith only the Digimon and the \"Digivices\" as protection, the seven children set off to find their way home and learn the reason why they were brought here. Led by the impulsive Taichi Yagami and his hungry Digimon partner Agumon, this group will have to fight unknown evils as they discover more about this outlandish Digital World.\n\n[Written by MAL Rewrite]",
+  "background": "Digimon Adventure was originally planned to be a short film, but it was expanded into a full-fledged series before production could begin.",
+  "season": "spring",
+  "year": 1999,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "09:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 09:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 841,
+      "type": "anime",
+      "name": "Saban Entertainment",
+      "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+    },
+    {
+      "mal_id": 1163,
+      "type": "anime",
+      "name": "Flatiron Film Company",
+      "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 2961,
+          "type": "anime",
+          "name": "Digimon Adventure Movie",
+          "url": "https://myanimelist.net/anime/2961/Digimon_Adventure_Movie"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 2397,
+          "type": "anime",
+          "name": "Digimon Adventure: Bokura no War Game!",
+          "url": "https://myanimelist.net/anime/2397/Digimon_Adventure__Bokura_no_War_Game"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 2387,
+          "type": "manga",
+          "name": "Digimon Adventure",
+          "url": "https://myanimelist.net/manga/2387/Digimon_Adventure"
+        },
+        {
+          "mal_id": 124700,
+          "type": "manga",
+          "name": "Shousetsu Digimon Adventure",
+          "url": "https://myanimelist.net/manga/124700/Shousetsu_Digimon_Adventure"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 8490,
+          "type": "anime",
+          "name": "Digimon Adventure 3D: Digimon Grand Prix!",
+          "url": "https://myanimelist.net/anime/8490/Digimon_Adventure_3D__Digimon_Grand_Prix"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 874,
+          "type": "anime",
+          "name": "Digimon Tamers",
+          "url": "https://myanimelist.net/anime/874/Digimon_Tamers"
+        },
+        {
+          "mal_id": 1132,
+          "type": "anime",
+          "name": "Digimon Frontier",
+          "url": "https://myanimelist.net/anime/1132/Digimon_Frontier"
+        },
+        {
+          "mal_id": 2123,
+          "type": "anime",
+          "name": "Digimon X-Evolution",
+          "url": "https://myanimelist.net/anime/2123/Digimon_X-Evolution"
+        },
+        {
+          "mal_id": 859,
+          "type": "anime",
+          "name": "Digimon Savers",
+          "url": "https://myanimelist.net/anime/859/Digimon_Savers"
+        },
+        {
+          "mal_id": 8624,
+          "type": "anime",
+          "name": "Digimon Xros Wars",
+          "url": "https://myanimelist.net/anime/8624/Digimon_Xros_Wars"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 41074,
+          "type": "anime",
+          "name": "Digimon Adventure:",
+          "url": "https://myanimelist.net/anime/41074/Digimon_Adventure_"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 33314,
+          "type": "anime",
+          "name": "Digimon Universe: Appli Monsters",
+          "url": "https://myanimelist.net/anime/33314/Digimon_Universe__Appli_Monsters"
+        },
+        {
+          "mal_id": 40156,
+          "type": "anime",
+          "name": "Digimon Survive: Prologue Movie",
+          "url": "https://myanimelist.net/anime/40156/Digimon_Survive__Prologue_Movie"
+        },
+        {
+          "mal_id": 49515,
+          "type": "anime",
+          "name": "Digimon Ghost Game",
+          "url": "https://myanimelist.net/anime/49515/Digimon_Ghost_Game"
+        },
+        {
+          "mal_id": 61286,
+          "type": "anime",
+          "name": "Digimon Adventure 25-shuunen Kinen PV: Digimon Adventure - Beyond",
+          "url": "https://myanimelist.net/anime/61286/Digimon_Adventure_25-shuunen_Kinen_PV__Digimon_Adventure_-_Beyond"
+        },
+        {
+          "mal_id": 61269,
+          "type": "anime",
+          "name": "Digimon Beatbreak",
+          "url": "https://myanimelist.net/anime/61269/Digimon_Beatbreak"
+        },
+        {
+          "mal_id": 62807,
+          "type": "anime",
+          "name": "Digimon Story: Time Stranger Prelude",
+          "url": "https://myanimelist.net/anime/62807/Digimon_Story__Time_Stranger_Prelude"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Butter-Fly\" by Kouji Wada"
+    ],
+    "endings": [
+      "1: \"I Wish\" by AiM (eps 1-26)",
+      "2: \"Keep On\" by AiM (eps 27-54)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.toei-anim.co.jp/tv/dejimon/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=234"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=794"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digimon_Adventure_(1999_TV_series)"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280454"
+    }
+  ]
+}

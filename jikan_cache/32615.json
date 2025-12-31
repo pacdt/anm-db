@@ -1,0 +1,325 @@
+{
+  "mal_id": 32615,
+  "url": "https://myanimelist.net/anime/32615/Youjo_Senki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/82890t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/82890l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/82890.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/82890t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/82890l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/hc8fErNQNHc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Youjo Senki"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Military Chronicles of a Little Girl"
+    },
+    {
+      "type": "Japanese",
+      "title": "幼女戦記"
+    },
+    {
+      "type": "English",
+      "title": "Saga of Tanya the Evil"
+    },
+    {
+      "type": "German",
+      "title": "Saga of Tanya the Evil"
+    },
+    {
+      "type": "Spanish",
+      "title": "Saga of Tanya the Evil (Youjo Senki)"
+    },
+    {
+      "type": "French",
+      "title": "Saga of Tanya the Evil"
+    }
+  ],
+  "title": "Youjo Senki",
+  "title_english": "Saga of Tanya the Evil",
+  "title_japanese": "幼女戦記",
+  "title_synonyms": [
+    "The Military Chronicles of a Little Girl"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-06T00:00:00+00:00",
+    "to": "2017-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 6, 2017 to Mar 31, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.96,
+  "scored_by": 550226,
+  "rank": 755,
+  "popularity": 177,
+  "members": 1019691,
+  "favorites": 13502,
+  "synopsis": "Tanya Degurechaff is a young soldier infamous for predatorial-like ruthlessness and an uncanny, tactical aptitude, earning her the nickname of the \"Devil of the Rhine.\" Underneath her innocuous appearance, however, lies the soul of a man who challenged Being X, the self-proclaimed God, to a battle of wits—which resulted in him being reincarnated as a little girl into a world of magical warfare. Hellbent on defiance, Tanya resolves to ascend the ranks of her country's military as it slowly plunges into world war, with only Being X proving to be the strongest obstacle in recreating the peaceful life she once knew. But her perceptive actions and combat initiative have an unintended side effect: propelling the mighty Empire into becoming one of the most powerful nations in mankind's history.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 392,
+      "type": "anime",
+      "name": "Enterbrain",
+      "url": "https://myanimelist.net/anime/producer/392/Enterbrain"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1567,
+      "type": "anime",
+      "name": "Nut",
+      "url": "https://myanimelist.net/anime/producer/1567/Nut"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 37055,
+          "type": "anime",
+          "name": "Youjo Senki Movie",
+          "url": "https://myanimelist.net/anime/37055/Youjo_Senki_Movie"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 98436,
+          "type": "manga",
+          "name": "Youjo Senki",
+          "url": "https://myanimelist.net/manga/98436/Youjo_Senki"
+        },
+        {
+          "mal_id": 88930,
+          "type": "manga",
+          "name": "Youjo Senki",
+          "url": "https://myanimelist.net/manga/88930/Youjo_Senki"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 49236,
+          "type": "anime",
+          "name": "Youjo Senki: Sabaku no Pasta Daisakusen",
+          "url": "https://myanimelist.net/anime/49236/Youjo_Senki__Sabaku_no_Pasta_Daisakusen"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 34904,
+          "type": "anime",
+          "name": "Youjo Senki: Senkyou Houkoku",
+          "url": "https://myanimelist.net/anime/34904/Youjo_Senki__Senkyou_Houkoku"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 38472,
+          "type": "anime",
+          "name": "Isekai Quartet",
+          "url": "https://myanimelist.net/anime/38472/Isekai_Quartet"
+        },
+        {
+          "mal_id": 39988,
+          "type": "anime",
+          "name": "Isekai Quartet 2",
+          "url": "https://myanimelist.net/anime/39988/Isekai_Quartet_2"
+        },
+        {
+          "mal_id": 41567,
+          "type": "anime",
+          "name": "Isekai Quartet Movie: Another World",
+          "url": "https://myanimelist.net/anime/41567/Isekai_Quartet_Movie__Another_World"
+        },
+        {
+          "mal_id": 61851,
+          "type": "anime",
+          "name": "Isekai Quartet 3",
+          "url": "https://myanimelist.net/anime/61851/Isekai_Quartet_3"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 34723,
+          "type": "anime",
+          "name": "Youjo Shenki Episode 0",
+          "url": "https://myanimelist.net/anime/34723/Youjo_Shenki_Episode_0"
+        },
+        {
+          "mal_id": 34742,
+          "type": "anime",
+          "name": "Youjo Shenki",
+          "url": "https://myanimelist.net/anime/34742/Youjo_Shenki"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"JINGO JUNGLE\" by MYTH & ROID (eps 3-4, 7-11)"
+    ],
+    "endings": [
+      "1: \"JINGO JUNGLE\" by MYTH & ROID (eps 2,12)",
+      "2: \"Los! Los! Los!\" by Tanya Degurechaff (Aoi Yuuki) (eps 3-4, 6-7, 9-11)",
+      "3: \"Sensen no Realism (戦線のリアリズム)\" by Mako Niina (eps 8)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://youjo-senki.jp/tv/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11905"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18692"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Saga_of_Tanya_the_Evil"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272175"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

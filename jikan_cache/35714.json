@@ -1,0 +1,205 @@
+{
+  "mal_id": 35714,
+  "url": "https://myanimelist.net/anime/35714/Yami_Shibai_5",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/86158.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86158t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86158l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/86158.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86158t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86158l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai 5"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories Fifth Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Theater of Darkness 5th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Japanese Ghost Stories 5"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居 5期"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai 5"
+    },
+    {
+      "type": "German",
+      "title": "Theatre of Darkness, Yamishibai 5"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yamishibai: Historias Japonesas de Fantasmas Temporada 5"
+    },
+    {
+      "type": "French",
+      "title": "Theater of Darkness:Yamishibai 5"
+    }
+  ],
+  "title": "Yami Shibai 5",
+  "title_english": "Theatre of Darkness: Yamishibai 5",
+  "title_japanese": "闇芝居 5期",
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories Fifth Season",
+    "Theater of Darkness 5th Season",
+    "Japanese Ghost Stories 5"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-03T00:00:00+00:00",
+    "to": "2017-10-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": 2,
+        "month": 10,
+        "year": 2017
+      }
+    },
+    "string": "Jul 3, 2017 to Oct 2, 2017"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.33,
+  "scored_by": 13773,
+  "rank": 8362,
+  "popularity": 4616,
+  "members": 28907,
+  "favorites": 11,
+  "synopsis": "The mysterious masked Storyteller returns to tell more twisted tales of horror. Continuing his particular style of kamishibai inspired storytelling, he now finds that his audience is an eerie crowd of young girls, who eagerly await his devilish stories.\n\nHe recounts ghostly legends involving girls of all ages: a housewife who receives a barrage of chilling phone calls; a strange girl whose flower readings are always right; a mother and daughter's ominous meeting with the \"crow lady\"; and a young girl whose demands from others grow more and more outrageous with each request. Witness once again the Storyteller's haunting and gripping tales, which are sure to leave one with more than just chills...\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2017,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "03:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 03:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 34467,
+          "type": "anime",
+          "name": "Yami Shibai 4",
+          "url": "https://myanimelist.net/anime/34467/Yami_Shibai_4"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 37893,
+          "type": "anime",
+          "name": "Yami Shibai 6",
+          "url": "https://myanimelist.net/anime/37893/Yami_Shibai_6"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Yawarakai Kamen (やわらかい仮面)\" by ヒグチアイ (Ai Higuchi)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/yamishibai/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13219"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19761"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255589"
+    }
+  ]
+}

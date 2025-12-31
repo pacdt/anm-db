@@ -1,0 +1,191 @@
+{
+  "mal_id": 37655,
+  "url": "https://myanimelist.net/anime/37655/Sword_Gai_The_Animation_Part_II",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1805/91647.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1805/91647t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1805/91647l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1805/91647.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1805/91647t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1805/91647l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sword Gai The Animation Part II"
+    },
+    {
+      "type": "Japanese",
+      "title": "ソードガイ The Animation Part II"
+    },
+    {
+      "type": "German",
+      "title": "Sword Gai The Animation Teil 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sword Gai The Animation Part 2"
+    },
+    {
+      "type": "French",
+      "title": "Sword Gai The Animation Partie 2"
+    }
+  ],
+  "title": "Sword Gai The Animation Part II",
+  "title_english": null,
+  "title_japanese": "ソードガイ The Animation Part II",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-30T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 30,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 30, 2018"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.74,
+  "scored_by": 17474,
+  "rank": 11684,
+  "popularity": 4282,
+  "members": 34180,
+  "favorites": 29,
+  "synopsis": "Part II of Sword Gai: The Animation.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 276,
+      "type": "anime",
+      "name": "DLE",
+      "url": "https://myanimelist.net/anime/producer/276/DLE"
+    },
+    {
+      "mal_id": 563,
+      "type": "anime",
+      "name": "LandQ studios",
+      "url": "https://myanimelist.net/anime/producer/563/LandQ_studios"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 27783,
+          "type": "anime",
+          "name": "Sword Gai The Animation",
+          "url": "https://myanimelist.net/anime/27783/Sword_Gai_The_Animation"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 59993,
+          "type": "manga",
+          "name": "Sword Gai",
+          "url": "https://myanimelist.net/manga/59993/Sword_Gai"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Sadamegoto (サダメゴト)\" by Yuuto Uemura"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://swordgai-anime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14000"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21243"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sword_Gai"
+    }
+  ],
+  "streaming": []
+}

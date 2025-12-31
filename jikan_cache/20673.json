@@ -1,0 +1,151 @@
+{
+  "mal_id": 20673,
+  "url": "https://myanimelist.net/anime/20673/Hinata_no_Aoshigure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1775/121961.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1775/121961t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1775/121961l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1775/121961.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1775/121961t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1775/121961l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/SUfWjDfYGtM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hinata no Aoshigure"
+    },
+    {
+      "type": "Synonym",
+      "title": "Rain in the Sunshine"
+    },
+    {
+      "type": "Japanese",
+      "title": "陽なたのアオシグレ"
+    },
+    {
+      "type": "English",
+      "title": "Sonny Boy & Dewdrop Girl"
+    }
+  ],
+  "title": "Hinata no Aoshigure",
+  "title_english": "Sonny Boy & Dewdrop Girl",
+  "title_japanese": "陽なたのアオシグレ",
+  "title_synonyms": [
+    "Rain in the Sunshine"
+  ],
+  "type": "Movie",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-11-09T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 11,
+        "year": 2013
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 9, 2013"
+  },
+  "duration": "18 min",
+  "rating": "PG - Children",
+  "score": 6.86,
+  "scored_by": 10002,
+  "rank": 5240,
+  "popularity": 4721,
+  "members": 27571,
+  "favorites": 47,
+  "synopsis": "Clumsy and awkward Hinata harbors a crush on his classmate Shigure, and he loves to imagine them on all sorts of fantastical adventures. When Shigure asks Hinata to help her care for the school's birds, he is overjoyed for the opportunity to grow closer to her. However, when a troublesome situation involving Shigure's parents threatens to change Hinata's relationship with her forever, he must find the courage to convey his feelings if he does not want to be forgotten.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1033,
+      "type": "anime",
+      "name": "Studio Colorido",
+      "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://colorido.co.jp/2013/aoshigure/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10086"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19756"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283057"
+    }
+  ]
+}

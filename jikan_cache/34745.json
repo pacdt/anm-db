@@ -1,0 +1,270 @@
+{
+  "mal_id": 34745,
+  "url": "https://myanimelist.net/anime/34745/Mahoujin_Guruguru_2017",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/103168.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/103168t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/103168l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/103168.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/103168t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/103168l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/hKMHvrDcNKU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mahoujin Guruguru (2017)"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔法陣グルグル"
+    },
+    {
+      "type": "English",
+      "title": "Magical Circle"
+    },
+    {
+      "type": "German",
+      "title": "Magical Circle Guru-Guru"
+    },
+    {
+      "type": "Spanish",
+      "title": "Magical Circle Guru-Guru"
+    },
+    {
+      "type": "French",
+      "title": "Magical Circle Guru-Guru"
+    }
+  ],
+  "title": "Mahoujin Guruguru (2017)",
+  "title_english": "Magical Circle",
+  "title_japanese": "魔法陣グルグル",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-11T00:00:00+00:00",
+    "to": "2017-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2017
+      }
+    },
+    "string": "Jul 11, 2017 to Dec 20, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.79,
+  "scored_by": 10924,
+  "rank": 1114,
+  "popularity": 4229,
+  "members": 35086,
+  "favorites": 243,
+  "synopsis": "Nike was a simple boy from Boering Village, and the last thing he ever wanted was to become a hero. But when a sign appears from the king of Ainshent Castle Town recruiting heroes to slay the Demon Lord Giri, Nike's father enthusiastically forces him out the door. Along with Kukuri, a member of the Migu Migu Clan, Nike sets out on an adventure to become the legendary hero that the world needs.\n\nAs Nike and Kukuri travel across different continents, they attempt to learn the secrets of Guru Guru Magic, a strange but powerful type of magic used to seal Demon Lord Giri's power. While reluctantly taking on their assigned quest, the duo does not fail to acquire new comrades and have fun along the way.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2017,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 4080,
+          "type": "manga",
+          "name": "Mahoujin Guruguru",
+          "url": "https://myanimelist.net/manga/4080/Mahoujin_Guruguru"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 331,
+          "type": "anime",
+          "name": "Mahoujin Guruguru",
+          "url": "https://myanimelist.net/anime/331/Mahoujin_Guruguru"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 35909,
+          "type": "anime",
+          "name": "Guruguru Petit Anime Gekijou",
+          "url": "https://myanimelist.net/anime/35909/Guruguru_Petit_Anime_Gekijou"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Trip Trip Trip\" by ORESAMA (eps 1-7, 9-11, 13-16)",
+      "2: \"Ryuusei Dance Floor (流星ダンスフロア)\" by ORESAMA (eps 17-19, 21-23)"
+    ],
+    "endings": [
+      "1: \"Round&Round&Round\" by TECHNOBOYS PULCRAFT GREEN-FUND feat. Bonjour Suzuki (eps 1, 3-16)",
+      "2: \"Magical Circle\" by TECHNOBOYS PULCRAFT GREEN-FUND feat Shoko Nakagawa (eps 17-24)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://guruguru-anime.jp"
+    },
+    {
+      "name": "@magical_grgr",
+      "url": "https://twitter.com/magical_grgr"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12723"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19008"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magical_Circle_Guru_Guru"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E9%99%A3%E3%82%B0%E3%83%AB%E3%82%B0%E3%83%AB"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/4628"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273747"
+    }
+  ]
+}

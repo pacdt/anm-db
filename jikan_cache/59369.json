@@ -1,0 +1,187 @@
+{
+  "mal_id": 59369,
+  "url": "https://myanimelist.net/anime/59369/Lycoris_Recoil__Friends_Are_Thieves_of_Time",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1314/147593.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/147593t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/147593l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1314/147593.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/147593t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/147593l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kal-KjsPStU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lycoris Recoil: Friends Are Thieves of Time."
+    },
+    {
+      "type": "Japanese",
+      "title": "『リコリス・リコイル』Friends are thieves of time."
+    },
+    {
+      "type": "English",
+      "title": "Lycoris Recoil: Friends are thieves of time."
+    }
+  ],
+  "title": "Lycoris Recoil: Friends Are Thieves of Time.",
+  "title_english": "Lycoris Recoil: Friends are thieves of time.",
+  "title_japanese": "『リコリス・リコイル』Friends are thieves of time.",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Original",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-16T00:00:00+00:00",
+    "to": "2025-05-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 21,
+        "month": 5,
+        "year": 2025
+      }
+    },
+    "string": "Apr 16, 2025 to May 21, 2025"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.71,
+  "scored_by": 20565,
+  "rank": 1335,
+  "popularity": 3312,
+  "members": 55149,
+  "favorites": 152,
+  "synopsis": "Six short movies featuring the daily lives of Chisato, Takina, and their friends. Each movie will have a different director and storyboard.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 150973,
+          "type": "manga",
+          "name": "Lycoris Recoil",
+          "url": "https://myanimelist.net/manga/150973/Lycoris_Recoil"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 50709,
+          "type": "anime",
+          "name": "Lycoris Recoil",
+          "url": "https://myanimelist.net/anime/50709/Lycoris_Recoil"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Hana no Tou (花の塔)\" by Sayuri (eps 6)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://lycoris-recoil.com/shortmovie/"
+    },
+    {
+      "name": "@lycoris_recoil",
+      "url": "https://twitter.com/lycoris_recoil"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17864"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32964"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lycoris_Recoil"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%AB"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7448"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282895"
+    }
+  ]
+}

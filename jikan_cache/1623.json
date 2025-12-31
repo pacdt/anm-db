@@ -1,0 +1,183 @@
+{
+  "mal_id": 1623,
+  "url": "https://myanimelist.net/anime/1623/G-On_Riders",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/4447.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/4447t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/4447l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/4447.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/4447t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/4447l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "G-On Riders"
+    },
+    {
+      "type": "Japanese",
+      "title": "G-on らいだーす"
+    }
+  ],
+  "title": "G-On Riders",
+  "title_english": null,
+  "title_japanese": "G-on らいだーす",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-07-02T00:00:00+00:00",
+    "to": "2002-10-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2002
+      },
+      "to": {
+        "day": 1,
+        "month": 10,
+        "year": 2002
+      }
+    },
+    "string": "Jul 2, 2002 to Oct 1, 2002"
+  },
+  "duration": "22 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.75,
+  "scored_by": 1990,
+  "rank": 11642,
+  "popularity": 8781,
+  "members": 5934,
+  "favorites": 6,
+  "synopsis": "At Saint Hoshikawa School there is a secret group called the G-On Riders. Students with superior strength and ability are chosen to be in the group, which was formed to fight against alien attacks on the earth. However, many of the problems that the members face are ones amongst themselves, and the same is true for the invaders. And another student at the school, Ichiro, tries desperately to confess his love to Yuki, one of the Riders. \n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2002,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    },
+    {
+      "mal_id": 120,
+      "type": "anime",
+      "name": "TNK",
+      "url": "https://myanimelist.net/anime/producer/120/TNK"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 24637,
+          "type": "anime",
+          "name": "G-On Riders Special",
+          "url": "https://myanimelist.net/anime/24637/G-On_Riders_Special"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 20032,
+          "type": "manga",
+          "name": "G-on Riders",
+          "url": "https://myanimelist.net/manga/20032/G-on_Riders"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Tokimeite, G-on G! (トキメイテ, G-on G!)\" by Shima Ryouka, Omi Minami & Kurata Masayo"
+    ],
+    "endings": [
+      "1: \"Miracle☆Pajama (ミラクル☆パジャマ)\" by Lolivaders Z, Machii Miki, Mizuhashi Kaori, Tamura Yukari, Uemura Takako",
+      "2: \"Yell\" by Cutie Pai"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=480"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1118"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/G-On_Riders"
+    }
+  ],
+  "streaming": []
+}

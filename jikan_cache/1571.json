@@ -1,0 +1,204 @@
+{
+  "mal_id": 1571,
+  "url": "https://myanimelist.net/anime/1571/Ghost_Hunt",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73908t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73908l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73908t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73908l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/i39YnrNdkcI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ghost Hunt"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゴーストハント"
+    },
+    {
+      "type": "English",
+      "title": "Ghost Hunt"
+    }
+  ],
+  "title": "Ghost Hunt",
+  "title_english": "Ghost Hunt",
+  "title_japanese": "ゴーストハント",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-10-04T00:00:00+00:00",
+    "to": "2007-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2006
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2007
+      }
+    },
+    "string": "Oct 4, 2006 to Mar 28, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.74,
+  "scored_by": 103674,
+  "rank": 1248,
+  "popularity": 1145,
+  "members": 241068,
+  "favorites": 3109,
+  "synopsis": "While at school, Mai Taniyama and her friends like to exchange ghost stories. Apparently, there is an abandoned school building on their campus that is the center of many ghost stories. During the story, they are interrupted by a mysterious male figure. The person turns out to be Kazuya Shibuya, a 17-year-old who is president of the Shibuya Psychic Research Company. He was called by the principal to investigate the stories surrounding the abandoned school building.\n\nThe next day, on the way to school, Mai passes the school building in question. While examining a strange camera she spotted inside, she gets surprised by Kazuya's assistant. Unknowingly interfering with the investigation, Mai breaks the camera and Kazuya's assistant gets injured.\n\nKazuya forcefully hires Mai in order to pay for the camera and replace his injured assistant. From that point on, Mai begins to learn about the paranormal world and the profession of ghost hunting.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "Avex Entertainment",
+      "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    },
+    {
+      "mal_id": 711,
+      "type": "anime",
+      "name": "Delfi Sound",
+      "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 158,
+          "type": "manga",
+          "name": "Ghost Hunt",
+          "url": "https://myanimelist.net/manga/158/Ghost_Hunt"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Main Theme\" by Toshio Masuda (増田俊郎)"
+    ],
+    "endings": [
+      "\"Ending Theme\" by Toshio Masuda (増田俊郎)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.ghosthunt.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4564"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6817"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ghost_Hunt_(anime)"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283028"
+    }
+  ]
+}

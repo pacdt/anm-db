@@ -1,0 +1,220 @@
+{
+  "mal_id": 1472,
+  "url": "https://myanimelist.net/anime/1472/City_Hunter_3",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1147/94393.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1147/94393t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1147/94393l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1147/94393.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1147/94393t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1147/94393l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "City Hunter 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "シティーハンター3"
+    },
+    {
+      "type": "Spanish",
+      "title": "City Hunter Serie 3"
+    },
+    {
+      "type": "French",
+      "title": "Nicky Larson Saison 3"
+    }
+  ],
+  "title": "City Hunter 3",
+  "title_english": null,
+  "title_japanese": "シティーハンター3",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1989-10-15T00:00:00+00:00",
+    "to": "1990-01-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 10,
+        "year": 1989
+      },
+      "to": {
+        "day": 21,
+        "month": 1,
+        "year": 1990
+      }
+    },
+    "string": "Oct 15, 1989 to Jan 21, 1990"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.8,
+  "scored_by": 21657,
+  "rank": 1088,
+  "popularity": 4133,
+  "members": 36671,
+  "favorites": 52,
+  "synopsis": "Ryo Saeba is a \"sweeper\" know as the City Hunter. He and his sidekick Kaori Makimura are hired to solve problems that the police can't (or won't) handle. When he's not keeping the streets of Tokyo clean, Ryo is chasing the ladies, and Kaori chases after him with a giant anti-ecchi hammer. \n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 1989,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 1471,
+          "type": "anime",
+          "name": "City Hunter 2",
+          "url": "https://myanimelist.net/anime/1471/City_Hunter_2"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 1473,
+          "type": "anime",
+          "name": "City Hunter '91",
+          "url": "https://myanimelist.net/anime/1473/City_Hunter_91"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 792,
+          "type": "manga",
+          "name": "City Hunter",
+          "url": "https://myanimelist.net/manga/792/City_Hunter"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 1475,
+          "type": "anime",
+          "name": "City Hunter: Bay City Wars",
+          "url": "https://myanimelist.net/anime/1475/City_Hunter__Bay_City_Wars"
+        },
+        {
+          "mal_id": 1476,
+          "type": "anime",
+          "name": "City Hunter: Hyakuman Dollar no Inbou",
+          "url": "https://myanimelist.net/anime/1476/City_Hunter__Hyakuman_Dollar_no_Inbou"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Running To Horizon\" by Tetsuya Komuro"
+    ],
+    "endings": [
+      "\"Atsuku Naretara (熱くなれたら; If I Could Become Passionate)\" by Kiyomi Suzuki"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1564"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=546"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278982"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "mal_id": 37902,
+  "url": "https://myanimelist.net/anime/37902/One_Piece__Episode_of_Sorajima",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1533/92968.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1533/92968t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1533/92968l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1533/92968.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1533/92968t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1533/92968l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "One Piece: Episode of Sorajima"
+    },
+    {
+      "type": "Japanese",
+      "title": "ONE PIECE エピソードオブ空島"
+    },
+    {
+      "type": "English",
+      "title": "One Piece: Episode of Skypiea"
+    }
+  ],
+  "title": "One Piece: Episode of Sorajima",
+  "title_english": "One Piece: Episode of Skypiea",
+  "title_japanese": "ONE PIECE エピソードオブ空島",
+  "title_synonyms": [],
+  "type": "TV Special",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-08-25T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 8,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 25, 2018"
+  },
+  "duration": "1 hr 45 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.19,
+  "scored_by": 15347,
+  "rank": 3543,
+  "popularity": 4281,
+  "members": 34209,
+  "favorites": 25,
+  "synopsis": "The Straw Hats embark on a dangerous trip to the sky where their destination comes straight out of a fairytale. The island of Skypiea and its grand city of gold await among the clouds, but a clash of winged clans and a man who calls himself God won’t make things easy! Only Luffy can resist this God’s mighty power and light the mysteries of the past.\n\n(Source: Funimation)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Full Story",
+      "entry": [
+        {
+          "mal_id": 21,
+          "type": "anime",
+          "name": "One Piece",
+          "url": "https://myanimelist.net/anime/21/One_Piece"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Hope\" by Namie Amuro"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://one-piece.com/news/detail/20180519_7229.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=69"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257631"
+    }
+  ]
+}

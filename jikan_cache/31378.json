@@ -1,0 +1,197 @@
+{
+  "mal_id": 31378,
+  "url": "https://myanimelist.net/anime/31378/Owari_no_Seraph__Kyuuketsuki_Shahar",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1272/121985.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/121985t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/121985l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1272/121985.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/121985t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/121985l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Owari no Seraph: Kyuuketsuki Shahar"
+    },
+    {
+      "type": "Synonym",
+      "title": "Owari no Seraph: Jump Festa 2015 Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Owari no Seraph: Vampire Shahar"
+    },
+    {
+      "type": "Synonym",
+      "title": "Owari no Seraph OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "終わりのセラフ 吸血鬼シャハル"
+    },
+    {
+      "type": "English",
+      "title": "Seraph of the End: Vampire Shahar"
+    }
+  ],
+  "title": "Owari no Seraph: Kyuuketsuki Shahar",
+  "title_english": "Seraph of the End: Vampire Shahar",
+  "title_japanese": "終わりのセラフ 吸血鬼シャハル",
+  "title_synonyms": [
+    "Owari no Seraph: Jump Festa 2015 Special",
+    "Owari no Seraph: Vampire Shahar",
+    "Owari no Seraph OVA"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-05-02T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 5,
+        "year": 2016
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "May 2, 2016"
+  },
+  "duration": "23 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.18,
+  "scored_by": 38209,
+  "rank": 3620,
+  "popularity": 2467,
+  "members": 91850,
+  "favorites": 127,
+  "synopsis": "The story is set before the main story's \"Battle in Nagoya\" arc.\n\nThe Shinoa Squad receives another mission from Guren; to rescue a human girl named Riko from a mysterious vampire, Shahar, and bring her back to her family. However, Ferid and Crowley also appear when they find Shahar. Can Yuuichirou save the girl?\n\n(Source: Crunchyroll)",
+  "background": "It was initially screened at the Jump Special Anime Festa on November 3, 2015. The OVA was bundled with Vol. 11 of the manga, released on May 2, 2016.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 43661,
+          "type": "manga",
+          "name": "Owari no Seraph",
+          "url": "https://myanimelist.net/manga/43661/Owari_no_Seraph"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 26243,
+          "type": "anime",
+          "name": "Owari no Seraph",
+          "url": "https://myanimelist.net/anime/26243/Owari_no_Seraph"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Orarion (オラリオン)\" by Nagi Yanagi"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11809"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17481"
+    }
+  ],
+  "streaming": []
+}

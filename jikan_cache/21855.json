@@ -1,0 +1,214 @@
+{
+  "mal_id": 21855,
+  "url": "https://myanimelist.net/anime/21855/Hanamonogatari",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/65755.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/65755t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/65755.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/65755t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/njPnn2rmIO8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hanamonogatari"
+    },
+    {
+      "type": "Synonym",
+      "title": "Monogatari Series: Second Season +α"
+    },
+    {
+      "type": "Japanese",
+      "title": "花物語"
+    },
+    {
+      "type": "English",
+      "title": "Hanamonogatari"
+    }
+  ],
+  "title": "Hanamonogatari",
+  "title_english": "Hanamonogatari",
+  "title_japanese": "花物語",
+  "title_synonyms": [
+    "Monogatari Series: Second Season +α"
+  ],
+  "type": "TV Special",
+  "source": "Light novel",
+  "episodes": 5,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-08-16T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 8,
+        "year": 2014
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 16, 2014"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.91,
+  "scored_by": 253317,
+  "rank": 840,
+  "popularity": 571,
+  "members": 449768,
+  "favorites": 1106,
+  "synopsis": "Now that Koyomi Araragi and Hitagi Senjougahara have graduated, very few familiar faces remain at Naoetsu Private High School. One of these is Suruga Kanbaru, holder of the Monkey's Paw. When she begins to hear talk of a mysterious being known as the \"Devil\" who will magically solve any problem, Kanbaru immediately thinks these rumors are about her and decides to investigate.\n\nShe discovers the Devil is actually Rouka Numachi, a former basketball rival from junior high who is no longer able to play due to a leg injury. Rouka provides free advice to those who seek her out. Acting as a collector of misfortune, she enjoys relieving the stress of her clients by providing them with the false hope of having their problems solved. Although Kanbaru sees no real harm being done, she reprimands Rouka for lying and heads home, relieved she is not the cause of the rumors. But she may have a reason to worry after all: she finds that her left hand has reverted back to its human form.\n\n[Written by MAL Rewrite]",
+  "background": "Hanamonogatari adapts the third volume of NisiOisiN's Monogatari Series: Second Season.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 17074,
+          "type": "anime",
+          "name": "Monogatari Series: Second Season",
+          "url": "https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 28025,
+          "type": "anime",
+          "name": "Tsukimonogatari",
+          "url": "https://myanimelist.net/anime/28025/Tsukimonogatari"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 23751,
+          "type": "manga",
+          "name": "Monogatari Series: Second Season",
+          "url": "https://myanimelist.net/manga/23751/Monogatari_Series__Second_Season"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Hana Ato: Shirushi (花痕 -shirushi-)\" by Marina Kawano (TV broadcast; ending theme in BD/DVD version)",
+      "2: \"The Last Day of My Adolescence (花物語」劇伴音楽集其ノ壹)\" by Suruga Kanbaru (Miyuki Sawashiro)"
+    ],
+    "endings": [
+      "\"the last day of my adolescence\" by Suruga Kanbaru (Miyuki Sawashiro) (TV broadcast; opening theme in BD/DVD version)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.monogatari-series.com/2ndseason/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10046"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15973"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monogatari_%28series%29"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255593"
+    }
+  ]
+}

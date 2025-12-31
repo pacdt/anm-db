@@ -1,0 +1,193 @@
+{
+  "mal_id": 60551,
+  "url": "https://myanimelist.net/anime/60551/Hyakushou_Kizoku_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1223/151728.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1223/151728t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1223/151728l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1223/151728.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1223/151728t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1223/151728l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5N3jFCGINkw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hyakushou Kizoku 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Noble Farmer Season 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "百姓貴族 3rd Season"
+    }
+  ],
+  "title": "Hyakushou Kizoku 3rd Season",
+  "title_english": null,
+  "title_japanese": "百姓貴族 3rd Season",
+  "title_synonyms": [
+    "Noble Farmer Season 3"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-10-03T00:00:00+00:00",
+    "to": "2025-12-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2025
+      },
+      "to": {
+        "day": 19,
+        "month": 12,
+        "year": 2025
+      }
+    },
+    "string": "Oct 3, 2025 to Dec 19, 2025"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.66,
+  "scored_by": 357,
+  "rank": 6383,
+  "popularity": 13386,
+  "members": 1501,
+  "favorites": 0,
+  "synopsis": "Third season of Hyakushou Kizoku.",
+  "background": "",
+  "season": "fall",
+  "year": 2025,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 21:54 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1229,
+      "type": "anime",
+      "name": "Pie in the sky",
+      "url": "https://myanimelist.net/anime/producer/1229/Pie_in_the_sky"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 57562,
+          "type": "anime",
+          "name": "Hyakushou Kizoku 2nd Season",
+          "url": "https://myanimelist.net/anime/57562/Hyakushou_Kizoku_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 63153,
+          "type": "anime",
+          "name": "Hyakushou Kizoku 3rd Season Specials",
+          "url": "https://myanimelist.net/anime/63153/Hyakushou_Kizoku_3rd_Season_Specials"
+        },
+        {
+          "mal_id": 63128,
+          "type": "anime",
+          "name": "Hyakushou Kizoku 4th Season",
+          "url": "https://myanimelist.net/anime/63128/Hyakushou_Kizoku_4th_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 21389,
+          "type": "manga",
+          "name": "Hyakushou Kizoku",
+          "url": "https://myanimelist.net/manga/21389/Hyakushou_Kizoku"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://s.mxtv.jp/anime/hyakusho_kizoku/"
+    },
+    {
+      "name": "@anime_hyakusho",
+      "url": "https://twitter.com/anime_hyakusho"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19065"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34219"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hyakush%C5%8D_Kizoku#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BE%E5%A7%93%E8%B2%B4%E6%97%8F#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7590"
+    }
+  ],
+  "streaming": []
+}

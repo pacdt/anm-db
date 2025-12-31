@@ -1,0 +1,228 @@
+{
+  "mal_id": 20021,
+  "url": "https://myanimelist.net/anime/20021/Sword_Art_Online__Extra_Edition",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1927/121997.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/121997t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/121997l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1927/121997.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/121997t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/121997l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WqHLQvIIFVs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sword Art Online: Extra Edition"
+    },
+    {
+      "type": "Synonym",
+      "title": "S.A.O: Extra Edition"
+    },
+    {
+      "type": "Synonym",
+      "title": "SAO: Extra Edition"
+    },
+    {
+      "type": "Japanese",
+      "title": "ソードアート・オンライン Extra Edition"
+    },
+    {
+      "type": "English",
+      "title": "Sword Art Online: Extra Edition"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sword Art Online Extra Edition"
+    }
+  ],
+  "title": "Sword Art Online: Extra Edition",
+  "title_english": "Sword Art Online: Extra Edition",
+  "title_japanese": "ソードアート・オンライン Extra Edition",
+  "title_synonyms": [
+    "S.A.O: Extra Edition",
+    "SAO: Extra Edition"
+  ],
+  "type": "Special",
+  "source": "Light novel",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-12-31T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 12,
+        "year": 2013
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 31, 2013"
+  },
+  "duration": "1 hr 41 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.55,
+  "scored_by": 196354,
+  "rank": 7045,
+  "popularity": 811,
+  "members": 332646,
+  "favorites": 596,
+  "synopsis": "The story is set a couple of years after the events of Sword Art Online, where Kazuto \"Kirito\" Kirigaya and his sister Suguha meet up with Asuna Yuuki, Rika \"Lisbeth\" Shinozaki, and Keiko \"Silica\" Ayano at the SAO Survivor School. Kirito then attends emergency counseling, while the girls go for a swim at the pool. It turns out that said \"emergency counseling\" is a subterfuge set up by Seijirou Kikuoka, aiming to rehash the incident of Sword Art Online in hopes of determining Akihiko Kayaba's motives. What will the girls get up to in the pool, and what awaits Kirito and his \"counseling\"?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 11757,
+          "type": "anime",
+          "name": "Sword Art Online",
+          "url": "https://myanimelist.net/anime/11757/Sword_Art_Online"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 21881,
+          "type": "anime",
+          "name": "Sword Art Online II",
+          "url": "https://myanimelist.net/anime/21881/Sword_Art_Online_II"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 21479,
+          "type": "manga",
+          "name": "Sword Art Online",
+          "url": "https://myanimelist.net/manga/21479/Sword_Art_Online"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 21879,
+          "type": "anime",
+          "name": "Sword Art Online: Sword Art Offline - Extra Edition",
+          "url": "https://myanimelist.net/anime/21879/Sword_Art_Online__Sword_Art_Offline_-_Extra_Edition"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"crossing field\" by LiSA"
+    ],
+    "endings": [
+      "\"Niji no Oto (虹の音)\" by Eir Aoi"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.swordart-online.net/extra/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10022"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15743"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-246948"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

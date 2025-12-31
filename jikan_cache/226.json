@@ -1,0 +1,270 @@
+{
+  "mal_id": 226,
+  "url": "https://myanimelist.net/anime/226/Elfen_Lied",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1780/121555.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/121555t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/121555l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1780/121555.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/121555t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/121555l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/IItTqRrRkqI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Elfen Lied"
+    },
+    {
+      "type": "Synonym",
+      "title": "Elfen Song"
+    },
+    {
+      "type": "Synonym",
+      "title": "Elfic Song"
+    },
+    {
+      "type": "Synonym",
+      "title": "Elf Song"
+    },
+    {
+      "type": "Japanese",
+      "title": "エルフェンリート"
+    },
+    {
+      "type": "English",
+      "title": "Elfen Lied"
+    }
+  ],
+  "title": "Elfen Lied",
+  "title_english": "Elfen Lied",
+  "title_japanese": "エルフェンリート",
+  "title_synonyms": [
+    "Elfen Song",
+    "Elfic Song",
+    "Elf Song"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-07-25T00:00:00+00:00",
+    "to": "2004-10-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 7,
+        "year": 2004
+      },
+      "to": {
+        "day": 17,
+        "month": 10,
+        "year": 2004
+      }
+    },
+    "string": "Jul 25, 2004 to Oct 17, 2004"
+  },
+  "duration": "25 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.46,
+  "scored_by": 913761,
+  "rank": 2218,
+  "popularity": 80,
+  "members": 1596666,
+  "favorites": 24921,
+  "synopsis": "Lucy is a special breed of human referred to as Diclonius, born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government. However, once circumstances present her an opportunity to escape, Lucy, corrupted by the confinement and torture, unleashes a torrent of bloodshed as she escapes her captors.\n\nDuring her breakout, she receives a crippling head injury that leaves her with a split personality: someone with the mentality of a harmless child possessing limited speech capacity. In this state of instability, she stumbles upon two college students, Kouta and his cousin Yuka, who unknowingly take an injured fugitive into their care, unaware of her murderous tendencies. This act of kindness will change their lives, as they soon find themselves dragged into the shadowy world of government secrecy and conspiracy.\n\n[Written by MAL Rewrite]",
+  "background": "Elfen Lied follows the source manga through the first seven volumes, with several alterations to the story, and concludes with an original ending. In an interview, director Mamoru Kanbe expressed his disappointment in having to condense the story into 13 episodes and felt that more were needed to include significant plot details that would have made the series more emotive. The artistic design of both the opening and ending sequences are heavily inspired by the works of Austrian symbolist painter Gustav Klimt. Colors and patterns resembling Klimt's distinct style were used and characters of the series were drawn to recreate several paintings from the artist's golden period, including The Kiss. The opening theme, \"LILIUM,\" which is sung in Ecclesiastical Latin, uses lyrics taken from The Bible, the Renaissance hymn \"Ave mundi spes Maria,\" as well as the alchemical compendium Theatrum Chemicum.",
+  "season": "summer",
+  "year": 2004,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 1392,
+      "type": "anime",
+      "name": "Zack Promotion",
+      "url": "https://myanimelist.net/anime/producer/1392/Zack_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Arms",
+      "url": "https://myanimelist.net/anime/producer/38/Arms"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 933,
+          "type": "manga",
+          "name": "Elfen Lied",
+          "url": "https://myanimelist.net/manga/933/Elfen_Lied"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 376,
+          "type": "anime",
+          "name": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",
+          "url": "https://myanimelist.net/anime/376/Elfen_Lied__Tooriame_nite_Arui_wa_Shoujo_wa_Ikani_Shite_Sono_Shinjou_ni_Itatta_ka_-_Regenschauer"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"LILIUM\" by Kumiko Noma (野間久美子)"
+    ],
+    "endings": [
+      "\"Be Your Girl\" by Chieko Kawabe"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.vap.co.jp/elfenlied/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1544"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4148"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Elfen_lied"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%95%E3%82%A7%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%88#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/392"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "HIDIVE",
+      "url": "https://www.hidive.com/tv/elfen-lied"
+    }
+  ]
+}

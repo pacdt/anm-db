@@ -1,0 +1,189 @@
+{
+  "mal_id": 40358,
+  "url": "https://myanimelist.net/anime/40358/Gal_to_Kyouryuu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1603/111352.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1603/111352t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1603/111352l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1603/111352.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1603/111352t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1603/111352l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/6PbCJNNffFg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gal to Kyouryuu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gal and Dinosaur"
+    },
+    {
+      "type": "Synonym",
+      "title": "My Roomie Is a Dino"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gyaru to Kyouryuu"
+    },
+    {
+      "type": "Japanese",
+      "title": "ギャルと恐竜"
+    },
+    {
+      "type": "English",
+      "title": "Gal & Dino"
+    }
+  ],
+  "title": "Gal to Kyouryuu",
+  "title_english": "Gal & Dino",
+  "title_japanese": "ギャルと恐竜",
+  "title_synonyms": [
+    "Gal and Dinosaur",
+    "My Roomie Is a Dino",
+    "Gyaru to Kyouryuu"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-05T00:00:00+00:00",
+    "to": "2020-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2020
+      }
+    },
+    "string": "Apr 5, 2020 to Dec 20, 2020"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.45,
+  "scored_by": 10746,
+  "rank": 7660,
+  "popularity": 4194,
+  "members": 35522,
+  "favorites": 96,
+  "synopsis": "Wasted from the night before, Kaede wakes up the next morning to find herself at home with a dinosaur she had brought along with her. The two start living together as an odd pair consisting of a typical gal girl and a mute dinosaur going about daily lives. Although not the most experienced paleontologist, Kaede begins to learn more about her new prehistoric roommate through a series of comedic gags and adventures.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 437,
+      "type": "anime",
+      "name": "Kamikaze Douga",
+      "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+    },
+    {
+      "mal_id": 1045,
+      "type": "anime",
+      "name": "Space Neko Company",
+      "url": "https://myanimelist.net/anime/producer/1045/Space_Neko_Company"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 117081,
+          "type": "manga",
+          "name": "Gal to Kyouryuu",
+          "url": "https://myanimelist.net/manga/117081/Gal_to_Kyouryuu"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kyouryuu Agemizawa☆ (恐竜あげみざわ☆)\" by Kyouruu Friends [Kaede (Miyuri Shimabukuro, Yamada (Yuko Natsuyoshi), Senpai (Youki Kudou), Shouta (Seiichirou Yamashita)]"
+    ],
+    "endings": [
+      "\"Peaceful Days\" by Ryuuko Takahashi (高橋竜子)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://galkyo.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15072"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22492"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Roomie_Is_a_Dino#Anime"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283254"
+    }
+  ]
+}

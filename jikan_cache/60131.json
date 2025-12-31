@@ -1,0 +1,223 @@
+{
+  "mal_id": 60131,
+  "url": "https://myanimelist.net/anime/60131/Karaoke_Iko",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1801/150665.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/150665t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/150665l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1801/150665.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/150665t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/150665l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/j5k7BgIqkI0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Karaoke Iko!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Let's Go to Karaoke!"
+    },
+    {
+      "type": "Japanese",
+      "title": "カラオケ行こ!"
+    },
+    {
+      "type": "English",
+      "title": "Let's Go Karaoke!"
+    }
+  ],
+  "title": "Karaoke Iko!",
+  "title_english": "Let's Go Karaoke!",
+  "title_japanese": "カラオケ行こ!",
+  "title_synonyms": [
+    "Let's Go to Karaoke!"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 5,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-07-24T00:00:00+00:00",
+    "to": "2025-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 7,
+        "year": 2025
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2025
+      }
+    },
+    "string": "Jul 24, 2025 to Sep 25, 2025"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.6,
+  "scored_by": 7323,
+  "rank": 1652,
+  "popularity": 5219,
+  "members": 21630,
+  "favorites": 132,
+  "synopsis": "Middle school student Satomi Oka ought to be proud that his choir group placed second at a national competition. However, he views this achievement as a failure caused by his inadequacies. Furthermore, since graduation is fast approaching, his time as leader of the choir is coming to an end. \n\nWhile Satomi is preoccupied with his inner turmoil, a smooth-talking gangster named Kyouji Narita approaches him and requests him as a singing teacher. Every year, Kyouji and his colleagues participate in a karaoke competition, where their boss personally designs a tattoo for the loser. To avoid such cruel and unusual punishment, Kyouji asks Satomi to help him find the best song suited for his vocal range.\n\nAlbeit reluctantly, Satomi sets his fears aside and agrees to join Kyouji at his karaoke practice sessions. But it remains to be seen whether the mismatched duo will overcome their respective obstacles or fail miserably.\n\n[Written by MAL Rewrite]",
+  "background": "Episodes 1-4 adapt the entirety of the Karaoke Iko! manga. Episode 5 is an anime original addition that aired five weeks after episodes 1-4.",
+  "season": "summer",
+  "year": 2025,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1366,
+      "type": "anime",
+      "name": "Nagoya Broadcasting Network",
+      "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 68,
+      "type": "anime",
+      "name": "Organized Crime",
+      "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 130181,
+          "type": "manga",
+          "name": "Karaoke Iko!",
+          "url": "https://myanimelist.net/manga/130181/Karaoke_Iko"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"HOWL\" by Ayumu Imazu"
+    ],
+    "endings": [
+      "\"Seishun Jidai (青春時代)\" by Koichi Morita & Top Gallants (森田公一とトップギャラン) (eps 1)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://karaoke-muchusa.com/"
+    },
+    {
+      "name": "@karaokemuchusa",
+      "url": "https://twitter.com/karaokemuchusa"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18929"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33755"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Let%27s_Go_Karaoke!#Adaptations"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%E8%A1%8C%E3%81%93!"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7528"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-284007"
+    },
+    {
+      "name": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    }
+  ]
+}

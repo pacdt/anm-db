@@ -1,0 +1,234 @@
+{
+  "mal_id": 55310,
+  "url": "https://myanimelist.net/anime/55310/Atarashii_Joushi_wa_Do_Tennen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1630/138388.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/138388t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/138388l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1630/138388.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/138388t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/138388l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Qb9YyEvdkEc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Atarashii Joushi wa Do Tennen"
+    },
+    {
+      "type": "Japanese",
+      "title": "新しい上司はど天然"
+    },
+    {
+      "type": "English",
+      "title": "My New Boss Is Goofy"
+    }
+  ],
+  "title": "Atarashii Joushi wa Do Tennen",
+  "title_english": "My New Boss Is Goofy",
+  "title_japanese": "新しい上司はど天然",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-07T00:00:00+00:00",
+    "to": "2023-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2023
+      }
+    },
+    "string": "Oct 7, 2023 to Dec 23, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.91,
+  "scored_by": 27176,
+  "rank": 851,
+  "popularity": 2903,
+  "members": 70073,
+  "favorites": 649,
+  "synopsis": "After 26-year-old Kentarou Momose develops health problems due to his boss' abuse, he quits his job and joins a different company. Now, he hopes to start anew under the care of his mentor and direct supervisor, 34-year-old Yuusei Shirosaki.\n\nShirosaki is a capable boss admired by his coworkers, which makes Momose fear letting him down and reliving the past traumas. However, Momose can rest easy, as Shirosaki is always delighted to help—even if he looks absolutely ridiculous doing it. Although it may take some adjusting, Momose realizes that there is no need for caution around his new, endearingly eccentric boss after all.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    },
+    {
+      "mal_id": 2548,
+      "type": "anime",
+      "name": "ABC Frontier",
+      "url": "https://myanimelist.net/anime/producer/2548/ABC_Frontier"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 124129,
+          "type": "manga",
+          "name": "Atarashii Joushi wa Do Tennen",
+          "url": "https://myanimelist.net/manga/124129/Atarashii_Joushi_wa_Do_Tennen"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Planetaria (プラネタリア)\" by Fujifabric"
+    ],
+    "endings": [
+      "\"Hanataba (花束)\" by Lenny code fiction"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://do-tennen.com/"
+    },
+    {
+      "name": "@do_tennen_anime",
+      "url": "https://twitter.com/do_tennen_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18029"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28237"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_New_Boss_Is_Goofy#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E3%81%97%E3%81%84%E4%B8%8A%E5%8F%B8%E3%81%AF%E3%81%A9%E5%A4%A9%E7%84%B6"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6855"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283754"
+    }
+  ]
+}

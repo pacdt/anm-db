@@ -1,0 +1,216 @@
+{
+  "mal_id": 6979,
+  "url": "https://myanimelist.net/anime/6979/Shukufuku_no_Campanella",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/75556.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75556t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75556l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/75556.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75556t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75556l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/yEvXE3n3wiA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shukufuku no Campanella"
+    },
+    {
+      "type": "Synonym",
+      "title": "La Campanella Della Benedizione"
+    },
+    {
+      "type": "Japanese",
+      "title": "祝福のカンパネラ"
+    },
+    {
+      "type": "English",
+      "title": "Blessing of the Campanella"
+    }
+  ],
+  "title": "Shukufuku no Campanella",
+  "title_english": "Blessing of the Campanella",
+  "title_japanese": "祝福のカンパネラ",
+  "title_synonyms": [
+    "La Campanella Della Benedizione"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-07-03T00:00:00+00:00",
+    "to": "2010-09-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2010
+      },
+      "to": {
+        "day": 18,
+        "month": 9,
+        "year": 2010
+      }
+    },
+    "string": "Jul 3, 2010 to Sep 18, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.26,
+  "scored_by": 12314,
+  "rank": 8824,
+  "popularity": 4315,
+  "members": 33722,
+  "favorites": 29,
+  "synopsis": "The story takes place in a trading city Ert'Aria. Leicester Maycraft is an item engineer belonging to an adventurer guild \"Oasis.\" One night, he is at a party with his friends to see a meteor stream on the rooftop of a chapel. One meteor grazes them and hits the steeple of the chapel. There he finds a secret room and a sleeping girl. The girl wakes up and says \"You must be my father!\" The encounter with the mysterious girl brings an unexpected adventure to Leicester.",
+  "background": "",
+  "season": "summer",
+  "year": 2010,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 711,
+      "type": "anime",
+      "name": "Delfi Sound",
+      "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 9924,
+          "type": "anime",
+          "name": "Shukufuku no Campanella: La Campanella Della Benedizione",
+          "url": "https://myanimelist.net/anime/9924/Shukufuku_no_Campanella__La_Campanella_Della_Benedizione"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 16381,
+          "type": "manga",
+          "name": "Shukufuku no Campanella",
+          "url": "https://myanimelist.net/manga/16381/Shukufuku_no_Campanella"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 9167,
+          "type": "anime",
+          "name": "Shukufuku no Campanella Specials",
+          "url": "https://myanimelist.net/anime/9167/Shukufuku_no_Campanella_Specials"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Shiawase wa Tsuki Yori Takaku (シアワセは月より高く)\" by Aki Misato (eps 2-7, 9-11)",
+      "2: \"Yume no Preparation\" by Mai Goto, Ari Yunohara and Hiroki Yasumoto (eps 8)"
+    ],
+    "endings": [
+      "1: \"Mirai Kaikisen (未来回帰線)\" by Miyuki Hashimoto (eps 1-8)",
+      "2: \"Amelia\" by Yuko Goto (eps 9-11)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.mmv.co.jp/special/campanella/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7280"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11225"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shukufuku_no_Campanella"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274985"
+    }
+  ]
+}

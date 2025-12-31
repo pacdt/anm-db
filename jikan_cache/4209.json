@@ -1,0 +1,170 @@
+{
+  "mal_id": 4209,
+  "url": "https://myanimelist.net/anime/4209/Mission-E",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1605/106039.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1605/106039t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1605/106039l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1605/106039.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1605/106039t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1605/106039l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mission-E"
+    },
+    {
+      "type": "Japanese",
+      "title": "MISSION-E"
+    }
+  ],
+  "title": "Mission-E",
+  "title_english": null,
+  "title_japanese": "MISSION-E",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-07-08T00:00:00+00:00",
+    "to": "2008-09-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2008
+      },
+      "to": {
+        "day": 23,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Jul 8, 2008 to Sep 23, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 6.42,
+  "scored_by": 2613,
+  "rank": 7873,
+  "popularity": 8308,
+  "members": 6748,
+  "favorites": 5,
+  "synopsis": "Chinami and her friends have formed an organization called OZ, with the financial backing of the Kujo Group. Their goal is to peacefully integrate people with Type-E abilities into society, and oppose the Foundation, an organization which seeks to capture and control Type-E users for their own mysterious purposes.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 2564,
+          "type": "anime",
+          "name": "Code-E",
+          "url": "https://myanimelist.net/anime/2564/Code-E"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"E☆Secrets (E☆シークレッツ)\" by ZOOM FLICKER"
+    ],
+    "endings": [
+      "\"Feel so Easy!\" by Momoi Haruko"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://avexmovie.jp/lineup/mission-e/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5870"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9686"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mission-E"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,171 @@
+{
+  "mal_id": 40924,
+  "url": "https://myanimelist.net/anime/40924/22_7__8_3_",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1259/109909.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1259/109909t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1259/109909l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1259/109909.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1259/109909t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1259/109909l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "22/7: 8+3=?"
+    },
+    {
+      "type": "Synonym",
+      "title": "22/7 Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nanabun no Nijyuuni Episode 13"
+    },
+    {
+      "type": "Japanese",
+      "title": "22/7: 8＋3=?"
+    }
+  ],
+  "title": "22/7: 8+3=?",
+  "title_english": null,
+  "title_japanese": "22/7: 8＋3=?",
+  "title_synonyms": [
+    "22/7 Special",
+    "Nanabun no Nijyuuni Episode 13"
+  ],
+  "type": "Special",
+  "source": "Other",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-09-16T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 9,
+        "year": 2020
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 16, 2020"
+  },
+  "duration": "24 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.52,
+  "scored_by": 3818,
+  "rank": 7187,
+  "popularity": 7560,
+  "members": 8599,
+  "favorites": 10,
+  "synopsis": "Thirteenth episode included in sixth Blu-ray volume.\n\nThis episode centers on the story of Mikami Kamiki, Yuuki Toujou, and Tsubomi Hiiragi.\n\n(Source: Official Website)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 40148,
+          "type": "anime",
+          "name": "22/7",
+          "url": "https://myanimelist.net/anime/40148/22_7"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Muzui (ムズイ)\" by 22/7"
+    ],
+    "endings": [
+      "\"Kamisama ni Yubi wo Sasareta Bokutachi (神様に指を差された僕たち)\" by Mikami Kamiki (CV: Moe Suzuhana), Yuuki Toujou (CV: Urara Takatsuji), Tsubomi Hiiragi (CV: Aina Takeda)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://227anime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13299"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/22/7_(TV_series)"
+    }
+  ],
+  "streaming": []
+}

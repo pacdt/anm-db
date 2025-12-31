@@ -1,0 +1,183 @@
+{
+  "mal_id": 342,
+  "url": "https://myanimelist.net/anime/342/Starship_Operators",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1185/131231.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1185/131231t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1185/131231l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1185/131231.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1185/131231t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1185/131231l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wQo1i_4iWmM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Starship Operators"
+    },
+    {
+      "type": "Japanese",
+      "title": "スターシップ・オペレーターズ"
+    }
+  ],
+  "title": "Starship Operators",
+  "title_english": null,
+  "title_japanese": "スターシップ・オペレーターズ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-01-05T00:00:00+00:00",
+    "to": "2005-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2005
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2005
+      }
+    },
+    "string": "Jan 5, 2005 to Mar 30, 2005"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.92,
+  "scored_by": 6013,
+  "rank": 4881,
+  "popularity": 5668,
+  "members": 17487,
+  "favorites": 38,
+  "synopsis": "For the 73rd class of cadets of the Defense University of the small planet Kibi, a shakedown cruise on the fleet's new starship \"Amaterasu\" is a fitting lead-up to graduation. As they are returning to their home planet, however, they are shocked to hear news of a declaration of war by the aggressive Kingdom against Kibi. When their planetary government surrenders without a struggle, the cadets decide to launch their own war, aboard the \"Amaterasu\". To gain funding, they make a deal with a galactic news network - and find themselves the \"stars\" of their own \"reality show\". Unfortunately, this is the kind of reality show that can get you killed... \n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2005,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 42127,
+          "type": "manga",
+          "name": "Starship Operators",
+          "url": "https://myanimelist.net/manga/42127/Starship_Operators"
+        },
+        {
+          "mal_id": 42125,
+          "type": "manga",
+          "name": "Starship Operators",
+          "url": "https://myanimelist.net/manga/42125/Starship_Operators"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"radiance\" by Mami Kawada"
+    ],
+    "endings": [
+      "\"Chi ni Kaeru ~on the Earth~\" by KOTOKO"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/starship_o/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2745"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4811"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Starship_Operators"
+    }
+  ],
+  "streaming": []
+}

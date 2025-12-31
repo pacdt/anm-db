@@ -1,0 +1,255 @@
+{
+  "mal_id": 40682,
+  "url": "https://myanimelist.net/anime/40682/Kingdom_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1443/111830.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1443/111830.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CasaH4vvYEw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kingdom 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "キングダム 第3シリーズ"
+    },
+    {
+      "type": "English",
+      "title": "Kingdom: Season 3"
+    }
+  ],
+  "title": "Kingdom 3rd Season",
+  "title_english": "Kingdom: Season 3",
+  "title_japanese": "キングダム 第3シリーズ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-06T00:00:00+00:00",
+    "to": "2021-10-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 17,
+        "month": 10,
+        "year": 2021
+      }
+    },
+    "string": "Apr 6, 2020 to Oct 17, 2021"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.84,
+  "scored_by": 52277,
+  "rank": 31,
+  "popularity": 1961,
+  "members": 128114,
+  "favorites": 2631,
+  "synopsis": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]",
+  "background": "Kingdom 3rd Season adapts chapters 261-364 of the original manga.",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:10",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:10 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    },
+    {
+      "mal_id": 1998,
+      "type": "anime",
+      "name": "Studio Signpost",
+      "url": "https://myanimelist.net/anime/producer/1998/Studio_Signpost"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 17389,
+          "type": "anime",
+          "name": "Kingdom 2nd Season",
+          "url": "https://myanimelist.net/anime/17389/Kingdom_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 50160,
+          "type": "anime",
+          "name": "Kingdom 4th Season",
+          "url": "https://myanimelist.net/anime/50160/Kingdom_4th_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 16765,
+          "type": "manga",
+          "name": "Kingdom",
+          "url": "https://myanimelist.net/manga/16765/Kingdom"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"TOMORROW\" by BiSH",
+      "2: \"STACKiNG\" by BiSH"
+    ],
+    "endings": [
+      "\"Deep inside\" by waterweed",
+      "2: \"kIng\" by Emiko Suzuki (鈴木瑛美子)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://kingdom-anime.com/"
+    },
+    {
+      "name": "@kingdom_animePR",
+      "url": "https://twitter.com/kingdom_animePR"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15259"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22931"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_(manga)#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/5644"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274043"
+    },
+    {
+      "name": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "name": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "name": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Starzplay",
+      "url": "https://starzplay.com/"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "mal_id": 23835,
+  "url": "https://myanimelist.net/anime/23835/Moonrakers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/61635.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/61635t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/61635l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/61635.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/61635t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/61635l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Moonrakers"
+    },
+    {
+      "type": "Japanese",
+      "title": "ムーンレイカーズ"
+    }
+  ],
+  "title": "Moonrakers",
+  "title_english": null,
+  "title_japanese": "ムーンレイカーズ",
+  "title_synonyms": [],
+  "type": "PV",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-04-15T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 4,
+        "year": 2014
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 15, 2014"
+  },
+  "duration": "2 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.52,
+  "scored_by": 1062,
+  "rank": null,
+  "popularity": 12415,
+  "members": 2033,
+  "favorites": 1,
+  "synopsis": "An accident leaves Taishi stranded on the lunar surface, unable to return to Earth. A girl helps him in his despair, but he is oblivious to her true identity.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 70701,
+          "type": "manga",
+          "name": "Moonrakers",
+          "url": "https://myanimelist.net/manga/70701/Moonrakers"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://youngjump.jp/miraclejump/award.html"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/watch?v=GRrNfbOF_KE"
+    }
+  ],
+  "streaming": []
+}

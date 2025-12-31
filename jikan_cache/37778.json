@@ -1,0 +1,137 @@
+{
+  "mal_id": 37778,
+  "url": "https://myanimelist.net/anime/37778/Pastel_Life",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1616/98803.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1616/98803t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1616/98803l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1616/98803.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1616/98803t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1616/98803l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pastel Life"
+    },
+    {
+      "type": "Japanese",
+      "title": "ぱすてるらいふ"
+    }
+  ],
+  "title": "Pastel Life",
+  "title_english": null,
+  "title_japanese": "ぱすてるらいふ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Mixed media",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-05-17T00:00:00+00:00",
+    "to": "2018-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 5,
+        "year": 2018
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "May 17, 2018 to Jun 21, 2018"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.53,
+  "scored_by": 3404,
+  "rank": 7137,
+  "popularity": 8322,
+  "members": 6719,
+  "favorites": 10,
+  "synopsis": "A Nico Live broadcast of BanG Dream! franchise on Monday has announced a spin-off anime featuring one of the units in the franchise, Pastel*Palettes. Titled Pastel Life, the slice-of-life series is yet to announce its type and broadcast details.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1209,
+      "type": "anime",
+      "name": "Studio A-CAT",
+      "url": "https://myanimelist.net/anime/producer/1209/Studio_A-CAT"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 33573,
+          "type": "anime",
+          "name": "BanG Dream!",
+          "url": "https://myanimelist.net/anime/33573/BanG_Dream"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Shuwarin☆Dreaming (しゅわりん☆どり〜みん)\" by Pastel＊Palettes"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14049"
+    }
+  ],
+  "streaming": []
+}

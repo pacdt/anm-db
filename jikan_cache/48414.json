@@ -1,0 +1,314 @@
+{
+  "mal_id": 48414,
+  "url": "https://myanimelist.net/anime/48414/Sabikui_Bisco",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1446/118840.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1446/118840t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1446/118840l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1446/118840.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1446/118840t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1446/118840l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HF-ZL91ZkTQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sabikui Bisco"
+    },
+    {
+      "type": "Synonym",
+      "title": "Rust-Eater Bisco"
+    },
+    {
+      "type": "Japanese",
+      "title": "錆喰いビスコ"
+    },
+    {
+      "type": "English",
+      "title": "Sabikui Bisco"
+    }
+  ],
+  "title": "Sabikui Bisco",
+  "title_english": "Sabikui Bisco",
+  "title_japanese": "錆喰いビスコ",
+  "title_synonyms": [
+    "Rust-Eater Bisco"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-01-11T00:00:00+00:00",
+    "to": "2022-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2022
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2022
+      }
+    },
+    "string": "Jan 11, 2022 to Mar 29, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.14,
+  "scored_by": 110892,
+  "rank": 3811,
+  "popularity": 998,
+  "members": 274462,
+  "favorites": 1458,
+  "synopsis": "An apocalyptic event has ravaged Japan, leaving nothing but endless sandy plains behind, and a strange rusting disease terrorizes the remnants of civilization. According to the government, the horrific state of the new world is the result of mushroom spores being spread by the likes of Bisco Akaboshi, labeled the \"Man-Eating Mushroom.\"\n\nBut Bisco would beg to differ. In reality, he is a \"Mushroom Protector,\" determined to uncover the legendary \"Sabikui\" mushroom—said to be the ultimate cure for the rusting disease. Joining him on his quest are his giant crab Akutagawa and the kind doctor Milo Nekoyanagi, who is actively searching for a rust poisoning treatment for his sick sister. Despite the prejudice aimed toward him by the common folk, Bisco refuses to give up on his quest to purify the rotting world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2022,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2204,
+      "type": "anime",
+      "name": "OZ",
+      "url": "https://myanimelist.net/anime/producer/2204/OZ"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 56008,
+          "type": "anime",
+          "name": "Sabikui Bisco Season 2",
+          "url": "https://myanimelist.net/anime/56008/Sabikui_Bisco_Season_2"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 119373,
+          "type": "manga",
+          "name": "Sabikui Bisco",
+          "url": "https://myanimelist.net/manga/119373/Sabikui_Bisco"
+        },
+        {
+          "mal_id": 143423,
+          "type": "manga",
+          "name": "Sabikui Bisco 2",
+          "url": "https://myanimelist.net/manga/143423/Sabikui_Bisco_2"
+        },
+        {
+          "mal_id": 116777,
+          "type": "manga",
+          "name": "Sabikui Bisco",
+          "url": "https://myanimelist.net/manga/116777/Sabikui_Bisco"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kaze no Oto sae Kikoenai (風の音さえ聞こえない)\" by JUNNA"
+    ],
+    "endings": [
+      "\"Houkou (咆哮)\" by Bisco Akaboshi (CV: Ryouta Suzuki) & Milo Nekoyanagi (CV: Natsuki Hanae)",
+      "2: \"Houkou (咆哮)\" by Milo (CV: Natsuki Hanae) (eps 10)",
+      "3: \"Buchi Nuke!! (ぶち抜け!!)\" by Takeshi Ueda (eps 12)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://sabikuibisco.jp/"
+    },
+    {
+      "name": "@SABIKUI_BISCO",
+      "url": "https://twitter.com/SABIKUI_BISCO"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16103"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24110"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sabikui_Bisco#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%8C%86%E5%96%B0%E3%81%84%E3%83%93%E3%82%B9%E3%82%B3"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6219"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282197"
+    },
+    {
+      "name": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "name": "Genflix",
+      "url": "https://genflix.co.id/"
+    },
+    {
+      "name": "Laftel",
+      "url": "https://laftel.net/"
+    },
+    {
+      "name": "MeWatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "name": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "name": "Sushiroll",
+      "url": "https://sushiroll.co.id/"
+    },
+    {
+      "name": "TrueID",
+      "url": "https://home.trueid.net/"
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://www.iq.com/"
+    }
+  ]
+}

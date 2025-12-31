@@ -1,0 +1,201 @@
+{
+  "mal_id": 48466,
+  "url": "https://myanimelist.net/anime/48466/Kyoukai_Senki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1772/116668.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1772/116668t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1772/116668l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1772/116668.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1772/116668t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1772/116668l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/lJRMO_V50lk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kyoukai Senki"
+    },
+    {
+      "type": "Japanese",
+      "title": "境界戦機"
+    },
+    {
+      "type": "English",
+      "title": "AMAIM Warrior at the Borderline"
+    }
+  ],
+  "title": "Kyoukai Senki",
+  "title_english": "AMAIM Warrior at the Borderline",
+  "title_japanese": "境界戦機",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-05T00:00:00+00:00",
+    "to": "2021-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2021
+      }
+    },
+    "string": "Oct 5, 2021 to Dec 28, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.31,
+  "scored_by": 11580,
+  "rank": 8513,
+  "popularity": 4167,
+  "members": 36043,
+  "favorites": 136,
+  "synopsis": "Futuristic post-war Japan is divided into four military regions, each led by conflicting nations trying to gain complete control over the country. While the Boundary War—fought with the help of humanoid mecha weapons called AMAIM—has long been over, the rivalry between these factions is still ongoing, and, as a result, the Japanese are heavily oppressed.\n\nAmou Shiiba, a 16-year-old orphan boy who is secretly rebuilding an abandoned AMAIM named Kenbu, stumbles upon Gai, an autonomous AI in need of battery power. By choosing to help one another, Amou and Gai find themselves at the center of a disaster, and Amou is labeled a terrorist and cast out of society. Even so, Amou refuses to remain idle in the face of injustice, and he embarks on a long journey rife with struggle and companionship. His aim transitions from leading a peaceful life to liberating the Japanese people.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1992,
+      "type": "anime",
+      "name": "Bandai Spirits",
+      "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2004,
+      "type": "anime",
+      "name": "Sunrise Beyond",
+      "url": "https://myanimelist.net/anime/producer/2004/Sunrise_Beyond"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 50678,
+          "type": "anime",
+          "name": "Kyoukai Senki Part 2",
+          "url": "https://myanimelist.net/anime/50678/Kyoukai_Senki_Part_2"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 54495,
+          "type": "anime",
+          "name": "Kyoukai Senki: Kyokkou no Souki",
+          "url": "https://myanimelist.net/anime/54495/Kyoukai_Senki__Kyokkou_no_Souki"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"enemy\" by Blank Paper"
+    ],
+    "endings": [
+      "\"You're my perfect mirror\" by Yuuna Fukinbara (富金原佑菜)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.kyoukai-senki.net"
+    },
+    {
+      "name": "@kyoukai_senki",
+      "url": "https://twitter.com/kyoukai_senki"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16128"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24151"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amaim_Warrior_at_the_Borderline"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E6%88%A6%E6%A9%9F"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6128"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/330894"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282571"
+    }
+  ]
+}

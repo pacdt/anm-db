@@ -1,0 +1,211 @@
+{
+  "mal_id": 27629,
+  "url": "https://myanimelist.net/anime/27629/Tantei_Kageki_Milky_Holmes_TD",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/66891.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/66891t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/66891l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/66891.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/66891t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/66891l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tantei Kageki Milky Holmes TD"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tantei Opera Milky Holmes TD"
+    },
+    {
+      "type": "Japanese",
+      "title": "探偵歌劇ミルキィホームズTD"
+    }
+  ],
+  "title": "Tantei Kageki Milky Holmes TD",
+  "title_english": null,
+  "title_japanese": "探偵歌劇ミルキィホームズTD",
+  "title_synonyms": [
+    "Tantei Opera Milky Holmes TD"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-01-03T00:00:00+00:00",
+    "to": "2015-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 1,
+        "year": 2015
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2015
+      }
+    },
+    "string": "Jan 3, 2015 to Mar 28, 2015"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.44,
+  "scored_by": 3787,
+  "rank": 7716,
+  "popularity": 6976,
+  "members": 10452,
+  "favorites": 9,
+  "synopsis": "There have been many cases of stolen songs happening among the idols in Yokohama District recently. Even super idol Marine Amagi's hit song \"Kiseki no Uta\" was taken away. At the request of Marine, the Milky Holmes team starts investigating the case.\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "winter",
+  "year": 2015,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 1288,
+      "type": "anime",
+      "name": "Chrono Gear Creative",
+      "url": "https://myanimelist.net/anime/producer/1288/Chrono_Gear_Creative"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Nomad",
+      "url": "https://myanimelist.net/anime/producer/70/Nomad"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 17267,
+          "type": "anime",
+          "name": "Futari wa Milky Holmes",
+          "url": "https://myanimelist.net/anime/17267/Futari_wa_Milky_Holmes"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 31486,
+          "type": "anime",
+          "name": "Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes",
+          "url": "https://myanimelist.net/anime/31486/Tantei_Opera_Milky_Holmes_Movie__Gyakushuu_no_Milky_Holmes"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"MILKY A GO GO (ミルキィ A GO GO)\" by Milky Holmes"
+    ],
+    "endings": [
+      "\"Tankyuu Dreaming (探求Dreaming)\" by Emi Nitta"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.milky-holmes-anime.com/td/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10841"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16300"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tantei_Opera_Milky_Holmes"
+    }
+  ],
+  "streaming": []
+}

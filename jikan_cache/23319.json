@@ -1,0 +1,204 @@
+{
+  "mal_id": 23319,
+  "url": "https://myanimelist.net/anime/23319/Suisei_no_Gargantia__Meguru_Kouro_Haruka",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/67547.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/67547t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/67547l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/67547.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/67547t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/67547l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DY5-Fu7rW2M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Suisei no Gargantia: Meguru Kouro, Haruka"
+    },
+    {
+      "type": "Synonym",
+      "title": "Suisei no Gargantia OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gargantia on the Verdurous Planet OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Suisei no Galgantia OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "翠星のガルガンティア～めぐる航路、遥か～"
+    },
+    {
+      "type": "English",
+      "title": "Gargantia on the Verdurous Planet: Far Beyond the Voyage"
+    },
+    {
+      "type": "French",
+      "title": "Gargantia on the Verdurous Planet OAV"
+    }
+  ],
+  "title": "Suisei no Gargantia: Meguru Kouro, Haruka",
+  "title_english": "Gargantia on the Verdurous Planet: Far Beyond the Voyage",
+  "title_japanese": "翠星のガルガンティア～めぐる航路、遥か～",
+  "title_synonyms": [
+    "Suisei no Gargantia OVA",
+    "Gargantia on the Verdurous Planet OVA",
+    "Suisei no Galgantia OVA"
+  ],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-09-27T00:00:00+00:00",
+    "to": "2015-04-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 9,
+        "year": 2014
+      },
+      "to": {
+        "day": 4,
+        "month": 4,
+        "year": 2015
+      }
+    },
+    "string": "Sep 27, 2014 to Apr 4, 2015"
+  },
+  "duration": "53 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.33,
+  "scored_by": 20556,
+  "rank": 2804,
+  "popularity": 3699,
+  "members": 45456,
+  "favorites": 29,
+  "synopsis": "A 2-episode OVA for Suisei no Gargantia revealed during an announcement at AnimeJapan 2014.\n\n(Source: MAL News)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 16524,
+          "type": "anime",
+          "name": "Suisei no Gargantia",
+          "url": "https://myanimelist.net/anime/16524/Suisei_no_Gargantia"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 89736,
+          "type": "manga",
+          "name": "Suisei no Gargantia: Meguru Kouro, Haruka",
+          "url": "https://myanimelist.net/manga/89736/Suisei_no_Gargantia__Meguru_Kouro_Haruka"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Hajimari no Tsubasa (はじまりの翼)\" by TRUE"
+    ],
+    "endings": [
+      "\"Taisetsu na Takaramono (大切な宝物)\" by Choucho"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.gargantia.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10549"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16335"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gargantia_on_the_Verdurous_Planet"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-254063"
+    }
+  ]
+}

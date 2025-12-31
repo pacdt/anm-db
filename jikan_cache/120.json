@@ -1,0 +1,239 @@
+{
+  "mal_id": 120,
+  "url": "https://myanimelist.net/anime/120/Fruits_Basket",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75204.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75204t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75204l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75204.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75204t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75204l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fruits Basket"
+    },
+    {
+      "type": "Synonym",
+      "title": "Furuba"
+    },
+    {
+      "type": "Japanese",
+      "title": "フルーツバスケット"
+    },
+    {
+      "type": "English",
+      "title": "Fruits Basket"
+    }
+  ],
+  "title": "Fruits Basket",
+  "title_english": "Fruits Basket",
+  "title_japanese": "フルーツバスケット",
+  "title_synonyms": [
+    "Furuba"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-07-05T00:00:00+00:00",
+    "to": "2001-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2001
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2001
+      }
+    },
+    "string": "Jul 5, 2001 to Dec 27, 2001"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.69,
+  "scored_by": 292693,
+  "rank": 1376,
+  "popularity": 435,
+  "members": 562639,
+  "favorites": 9908,
+  "synopsis": "After the accident in which she lost her mother, 16-year-old Tooru moves in with her grandfather, but due to his home being renovated, is unable to continue living with him. Claiming she will find someone to stay with but also fearing the criticism of her family and not wanting to burden any of her friends, Tooru resorts to secretly living on her own in a tent in the woods.\n\nOne night on her way back from work, she finds her tent buried underneath a landslide. Yuki Souma, the \"prince\" of her school, and his cousin Shigure Souma, a famous author, stumble across Tooru's situation and invite her to stay with them until her grandfather's home renovations are complete.\n\nUpon arriving at the Souma house, Tooru discovers their secret: if a Souma is hugged by someone of the opposite gender, they temporarily transform into one of the animals of the zodiac! However, this strange phenomenon is no laughing matter; rather, it is a terrible curse that holds a dark history. As she continues her journey, meeting more members of the zodiac family, will Tooru's kindhearted yet resilient nature be enough to prepare her for what lies behind the Souma household's doors?\n\n[Written by MAL Rewrite]",
+  "background": "Fruits Basket won the 2001 Animage's Anime Grand Prix Award.",
+  "season": "summer",
+  "year": 2001,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 102,
+          "type": "manga",
+          "name": "Fruits Basket",
+          "url": "https://myanimelist.net/manga/102/Fruits_Basket"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 38680,
+          "type": "anime",
+          "name": "Fruits Basket 1st Season",
+          "url": "https://myanimelist.net/anime/38680/Fruits_Basket_1st_Season"
+        },
+        {
+          "mal_id": 40417,
+          "type": "anime",
+          "name": "Fruits Basket 2nd Season",
+          "url": "https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"For Fruits Basket (For フルーツバスケット)\" by Ritsuko Okazaki"
+    ],
+    "endings": [
+      "1: \"Chiisana Inori (小さな祈り)\" by Ritsuko Okazaki (eps 1-24,26)",
+      "2: \"Serenade (セレナーデ) Pf Solo Ver.\" by Ritsuko Okazaki (eps 25)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/fruits_basket/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=34"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=348"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fruits_Basket"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283087"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

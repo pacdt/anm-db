@@ -1,0 +1,189 @@
+{
+  "mal_id": 34539,
+  "url": "https://myanimelist.net/anime/34539/Saint_Seiya__Saintia_Shou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1022/93948.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/93948t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/93948l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1022/93948.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/93948t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/93948l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/c58CvMIRQX4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "type": "Japanese",
+      "title": "聖闘士星矢 セインティア翔"
+    },
+    {
+      "type": "German",
+      "title": "Saint Seiya: Saintia Sho"
+    },
+    {
+      "type": "Spanish",
+      "title": "Saint Seiya: Saintia Sho"
+    }
+  ],
+  "title": "Saint Seiya: Saintia Shou",
+  "title_english": null,
+  "title_japanese": "聖闘士星矢 セインティア翔",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 10,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-12-10T00:00:00+00:00",
+    "to": "2019-02-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 12,
+        "year": 2018
+      },
+      "to": {
+        "day": 18,
+        "month": 2,
+        "year": 2019
+      }
+    },
+    "string": "Dec 10, 2018 to Feb 18, 2019"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.64,
+  "scored_by": 6209,
+  "rank": 12133,
+  "popularity": 5904,
+  "members": 15686,
+  "favorites": 37,
+  "synopsis": "The whole Sanctuary was misled into danger due to the civil war instigated by the Gemini Gold Saint, Saga. Our story begins right after the end of those events... This is a story of the girls protecting Athena. These are the records of love and fierce fights they meet while opposing destiny on their way to maturity...\n \n(Source: MangaSeven)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 54761,
+          "type": "manga",
+          "name": "Saint Seiya: Saintia Shou",
+          "url": "https://myanimelist.net/manga/54761/Saint_Seiya__Saintia_Shou"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 1254,
+          "type": "anime",
+          "name": "Saint Seiya",
+          "url": "https://myanimelist.net/anime/1254/Saint_Seiya"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"The Beautiful Brave\" by Shouko (Aina Suzuki), Kyouko (Mao Ichimichi (M.A.O)), Saori Kido (Inori Minase), Mii (Megumi Nakajima)"
+    ],
+    "endings": [
+      "1: \"Hohoemi no Resonance (微笑みのレゾナンス)\" by Shouko (Aina Suzuki), Kyouko (Mao Ichimichi (M.A.O)) (eps 1-6, 8-10)",
+      "2: \"Arasoi Shiniyukumono-tachi ni Shukufuku wo (争い死にゆく者たちに祝福を)\" by Eris (Mao Ichimichi (M.A.O))  (eps 7)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.saintia-sho.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12648"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21285"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saint_Seiya:_Saintia_Sh%C5%8D"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277265"
+    }
+  ]
+}

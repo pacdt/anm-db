@@ -1,0 +1,218 @@
+{
+  "mal_id": 584,
+  "url": "https://myanimelist.net/anime/584/Noein__Mou_Hitori_no_Kimi_e",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1087/152978.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1087/152978t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1087/152978l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1087/152978.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1087/152978t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1087/152978l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/o4wCKA9wiPg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Noein: Mou Hitori no Kimi e"
+    },
+    {
+      "type": "Synonym",
+      "title": "Noein: Toward Another You"
+    },
+    {
+      "type": "Japanese",
+      "title": "ノエイン もうひとりの君へ"
+    },
+    {
+      "type": "English",
+      "title": "Noein: To Your Other Self"
+    }
+  ],
+  "title": "Noein: Mou Hitori no Kimi e",
+  "title_english": "Noein: To Your Other Self",
+  "title_japanese": "ノエイン もうひとりの君へ",
+  "title_synonyms": [
+    "Noein: Toward Another You"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-10-12T00:00:00+00:00",
+    "to": "2006-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 10,
+        "year": 2005
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Oct 12, 2005 to Mar 29, 2006"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.55,
+  "scored_by": 31165,
+  "rank": 1833,
+  "popularity": 2391,
+  "members": 96290,
+  "favorites": 738,
+  "synopsis": "During their last summer of elementary school, four friends decide to undertake a test of courage at their local graveyard. Before the test begins, Haruka Kaminogi makes a last effort to pull Yuu Gotou away from his controlling mother. While doing so, Haruka suddenly has a strange vision of blue snow followed by the appearance of an imposing silver-haired man. Later, a similar vision occurs at the graveyard to both Haruka and her friends before they try to escape what they assume are ghosts.\n\nUnbeknownst to the children, the people who appeared before them are Dragon Soldiers: an elite military group from a dimension known as La'cryma. The soldiers have traveled to this dimension to secure the \"Dragon Torque\"—an entity they believe to be their last hope for survival.  However, both the Dragon Soldiers and Haruka are shocked to learn that the Dragon Torque is Haruka herself. She attempts to escape from the Dragon Soldiers as she finds her own last ray of hope—the strange silver-haired man who claims to be another version of Yuu himself.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2005,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 741,
+      "type": "anime",
+      "name": "Toshiba Entertainment",
+      "url": "https://myanimelist.net/anime/producer/741/Toshiba_Entertainment"
+    },
+    {
+      "mal_id": 1588,
+      "type": "anime",
+      "name": "Bandai Channel",
+      "url": "https://myanimelist.net/anime/producer/1588/Bandai_Channel"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 947,
+      "type": "anime",
+      "name": "Manga Entertainment",
+      "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"Idea\" by eufonius"
+    ],
+    "endings": [
+      "\"Yoake no Ashioto\" by solua"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.noein.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3512"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5887"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Noein"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A8%E3%82%A4%E3%83%B3_%E3%82%82%E3%81%86%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%AE%E5%90%9B%E3%81%B8"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/686"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274777"
+    }
+  ]
+}

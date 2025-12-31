@@ -1,0 +1,210 @@
+{
+  "mal_id": 1642,
+  "url": "https://myanimelist.net/anime/1642/Sugar_Sugar_Rune",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/74728.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/74728t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/74728l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/74728.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/74728t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/74728l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sugar Sugar Rune"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chocola et Vanilla - Sugar Sugar Rune"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sugar² Rune"
+    },
+    {
+      "type": "Japanese",
+      "title": "シュガシュガルーン"
+    },
+    {
+      "type": "English",
+      "title": "Sugar Sugar Rune"
+    }
+  ],
+  "title": "Sugar Sugar Rune",
+  "title_english": "Sugar Sugar Rune",
+  "title_japanese": "シュガシュガルーン",
+  "title_synonyms": [
+    "Chocola et Vanilla - Sugar Sugar Rune",
+    "Sugar² Rune"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 51,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-07-02T00:00:00+00:00",
+    "to": "2006-06-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2005
+      },
+      "to": {
+        "day": 24,
+        "month": 6,
+        "year": 2006
+      }
+    },
+    "string": "Jul 2, 2005 to Jun 24, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 7.5,
+  "scored_by": 18889,
+  "rank": 2039,
+  "popularity": 3609,
+  "members": 47429,
+  "favorites": 533,
+  "synopsis": "Chocolat Meilleure and Vanilla Mieux are both witches and childhood friends, pitted against each other in a contest to see who will become the next queen of the Magic World! In order to win, the two queen candidates must attend school in the human world, cultivating relationships to bring out their classmates hearts of friendship and love... But if a witch gives their heart to a human, they'll die?! \n\nIn an exciting adventure filled with transformations, mystery, jealousy, and romance, join Chocolat and Vanilla as they work alongside their knights to protect the kingdom from the threat of the Ogres and do their best to become the next queen!",
+  "background": "",
+  "season": "summer",
+  "year": 2005,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "07:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 07:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 429,
+          "type": "manga",
+          "name": "Sugar Sugar Rune",
+          "url": "https://myanimelist.net/manga/429/Sugar_Sugar_Rune"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 61997,
+          "type": "anime",
+          "name": "Sugar Sugar Rune: Les deux sorcières",
+          "url": "https://myanimelist.net/anime/61997/Sugar_Sugar_Rune__Les_deux_sorcières"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Chocolate ni Muchuu\" by Karia Nomoto"
+    ],
+    "endings": [
+      "1: \"Tsuki no Mukou no Sekai\" by Karia Nomoto",
+      "2: \"DATE?DATE\" by Marika Matsumoto & Juri Ihata"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.magilove.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3320"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5334"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sugar_Sugar_Rune"
+    }
+  ],
+  "streaming": []
+}

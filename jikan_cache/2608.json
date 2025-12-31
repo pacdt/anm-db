@@ -1,0 +1,161 @@
+{
+  "mal_id": 2608,
+  "url": "https://myanimelist.net/anime/2608/Wangan_Midnight",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/86159.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/86159t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/86159l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/86159.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/86159t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/86159l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wangan Midnight"
+    },
+    {
+      "type": "Japanese",
+      "title": "湾岸ミッドナイト"
+    }
+  ],
+  "title": "Wangan Midnight",
+  "title_english": null,
+  "title_japanese": "湾岸ミッドナイト",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-06-15T00:00:00+00:00",
+    "to": "2008-09-13T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 6,
+        "year": 2007
+      },
+      "to": {
+        "day": 13,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Jun 15, 2007 to Sep 13, 2008"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.49,
+  "scored_by": 19301,
+  "rank": 2094,
+  "popularity": 3513,
+  "members": 49776,
+  "favorites": 674,
+  "synopsis": "From dusk until dawn, street racers gather on a Tokyo highway—the Wangan Route—in search of only one thing: speed. Among them, a newcomer attracts the attention of the route's veterans after he purchases a Nissan Fairlady Z, a car infamously nicknamed The Devil Z. The newcomer ignores the warnings of Eriko Asakura, who lost her brother, Akio, in an accident involving the same vehicle. The Devil Z's new owner, who coincidentally shares the exact same name as Eriko's brother, becomes bewitched by the car's mysterious power—even after crashing twice.\n\nNow a high school dropout who works to pay for his car repairs, Akio befriends regular street racers of the area: the legendary owner of the Porsche 911 Turbo, a car known on the streets as \"Blackbird;\" the genius surgeon Tatsuya Shima; and Reina Akikawa, who works as a model by day and displays unparalleled skill in her Nissan Skyline GT-R by night. Thanks to these connections, Akio manages to find the retired designer of The Devil Z's engine, a solitary man named Jun Kitami. Following his meeting with Akio, Jun resumes building overpowered yet dangerous engines. Meanwhile, the racers of the Wangan Route are caught in a desperate race against The Devil Z with no clear end in sight.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2007,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 67,
+      "type": "anime",
+      "name": "OB Planning",
+      "url": "https://myanimelist.net/anime/producer/67/OB_Planning"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 179,
+      "type": "anime",
+      "name": "A.C.G.T.",
+      "url": "https://myanimelist.net/anime/producer/179/ACGT"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 10354,
+          "type": "manga",
+          "name": "Wangan Midnight",
+          "url": "https://myanimelist.net/manga/10354/Wangan_Midnight"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"lights and any more\" by TRF"
+    ],
+    "endings": [
+      "\"Talking bout good days\" by Mother Ninja"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.ppvj.co.jp/anime/0706wanganmidnight"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5088"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7646"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,180 @@
+{
+  "mal_id": 5132,
+  "url": "https://myanimelist.net/anime/5132/Lets_Nupu_Nupu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/58797.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/58797t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/58797l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/58797.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/58797t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/58797l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Let's Nupu Nupu"
+    },
+    {
+      "type": "Japanese",
+      "title": "LET'S　ぬぷぬぷっ"
+    },
+    {
+      "type": "English",
+      "title": "Let's Nupu Nupu"
+    }
+  ],
+  "title": "Let's Nupu Nupu",
+  "title_english": "Let's Nupu Nupu",
+  "title_japanese": "LET'S　ぬぷぬぷっ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "4-koma manga",
+  "episodes": 16,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-10-07T00:00:00+00:00",
+    "to": "1998-11-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 1998
+      },
+      "to": {
+        "day": 3,
+        "month": 11,
+        "year": 1998
+      }
+    },
+    "string": "Oct 7, 1998 to Nov 3, 1998"
+  },
+  "duration": "5 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.18,
+  "scored_by": 2854,
+  "rank": 9296,
+  "popularity": 7118,
+  "members": 9966,
+  "favorites": 25,
+  "synopsis": "With four-frame comic origins, this animated title preserves the same quick pace by following the regular cast of colorful characters through separate but interwoven story lines in every episode. From Ms. Shitara's relentless but always ineffective sexual pursuit of young Takagi to the adventures of the heroicly stupid but cute Sushi Cat, you will be mystified at the silliness of it all but find yourself laughing for the same reason! \n\n(Source: AniDB)",
+  "background": "",
+  "season": "fall",
+  "year": 1998,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Ajia-do",
+      "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
+    },
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 42729,
+          "type": "manga",
+          "name": "Let's Nupu Nupu",
+          "url": "https://myanimelist.net/manga/42729/Lets_Nupu_Nupu"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Maybe True\" by Fanatic Crisis"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3297"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=383"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/LET%27S_%E3%81%AC%E3%81%B7%E3%81%AC%E3%81%B7%E3%81%A3"
+    }
+  ],
+  "streaming": []
+}

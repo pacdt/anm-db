@@ -1,0 +1,199 @@
+{
+  "mal_id": 10350,
+  "url": "https://myanimelist.net/anime/10350/Hakuouki__Sekkaroku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/71799.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/71799t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/71799l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/71799.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/71799t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/71799l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hakuouki: Sekkaroku"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hakuouki Hekketsuroku OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "薄桜鬼 雪華録"
+    },
+    {
+      "type": "English",
+      "title": "Hakuoki: Demon of the Fleeting Blossom - A Memory of Snow Flowers"
+    }
+  ],
+  "title": "Hakuouki: Sekkaroku",
+  "title_english": "Hakuoki: Demon of the Fleeting Blossom - A Memory of Snow Flowers",
+  "title_japanese": "薄桜鬼 雪華録",
+  "title_synonyms": [
+    "Hakuouki Hekketsuroku OVA"
+  ],
+  "type": "OVA",
+  "source": "Visual novel",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-08-05T00:00:00+00:00",
+    "to": "2012-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 8,
+        "year": 2011
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2012
+      }
+    },
+    "string": "Aug 5, 2011 to Jun 27, 2012"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.57,
+  "scored_by": 11890,
+  "rank": 1757,
+  "popularity": 4613,
+  "members": 28941,
+  "favorites": 76,
+  "synopsis": "Rumors about a potential plot to dismantle the Shinsengumi by setting fire to their headquarters have spread amok. As most of the talk stems from an inn in Shimabara, the Shinsengumi place trust in Chizuru Yukimura for help with the investigation. Disguised as a geisha, Chizuru infiltrates the inn to provide intel for the Shinsengumi but quickly finds that the operation is more intricate than they could ever imagine.\n\nAt the same time, each member of the Shinsengumi has their own reservations and concerns about using their sole female colleague to gather intelligence. Knowing what dangers await her, they all resolve to protect her at any cost.\n\n[Written by MAL Rewrite]",
+  "background": "Hakuouki Sekkaroku was released on DVD by Sentai Filmworks as Hakuoki: A Memory of Snow Flowers on April 23, 2013.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 114526,
+          "type": "manga",
+          "name": "Hakuouki Sekkaroku",
+          "url": "https://myanimelist.net/manga/114526/Hakuouki_Sekkaroku"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 6895,
+          "type": "anime",
+          "name": "Hakuouki",
+          "url": "https://myanimelist.net/anime/6895/Hakuouki"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Yume no Ukifune (夢ノ浮舟)\" by Aika Yoshioka"
+    ],
+    "endings": [
+      "1: \"Mugen - a true love tale- (夢幻 -a true love tale-)\" by Maon Kurosaki (eps 1)",
+      "2: \"Kazahana -The whisper of snow falling- (風花 -The whisper of snow falling-)\" by Maon Kurosaki (eps 2)",
+      "3: \"Ran -The end of struggle- (蘭 -The end of struggle-)\" by Maon Kurosaki (eps 3)",
+      "4: \"Hikari -I promise you- (光 -I promise you-)\" by Maon Kurosaki (eps 4)",
+      "5: \"Shinjitsu -The light lasting- (真実 -The light lasting-)\" by Maon Kurosaki (eps 5)",
+      "6: \"Hiyoku -Contract with you- (比翼-Contract with you-)\" by Maon Kurosaki (eps 6)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.geneonuniversal.jp/rondorobe/anime/hakuoki/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8268"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12620"
+    }
+  ],
+  "streaming": []
+}

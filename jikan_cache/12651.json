@@ -1,0 +1,202 @@
+{
+  "mal_id": 12651,
+  "url": "https://myanimelist.net/anime/12651/Danball_Senki_W",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/56963.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56963t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56963l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/56963.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56963t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56963l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Danball Senki W"
+    },
+    {
+      "type": "Synonym",
+      "title": "Danbooru Senki W"
+    },
+    {
+      "type": "Japanese",
+      "title": "ダンボール戦機 Ｗ"
+    },
+    {
+      "type": "English",
+      "title": "LBX: Little Battlers eXperience Season 2"
+    }
+  ],
+  "title": "Danball Senki W",
+  "title_english": "LBX: Little Battlers eXperience Season 2",
+  "title_japanese": "ダンボール戦機 Ｗ",
+  "title_synonyms": [
+    "Danbooru Senki W"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 58,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-18T00:00:00+00:00",
+    "to": "2013-03-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 20,
+        "month": 3,
+        "year": 2013
+      }
+    },
+    "string": "Jan 18, 2012 to Mar 20, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.05,
+  "scored_by": 3605,
+  "rank": 4303,
+  "popularity": 7951,
+  "members": 7540,
+  "favorites": 32,
+  "synopsis": "One year after the fight with the Innovators, a new terrorist organization called the Detectors threatens the world using LBXs. Ban joins up with new and old friends to stop the Detectors.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 791,
+      "type": "anime",
+      "name": "Dentsu Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/791/Dentsu_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 7081,
+          "type": "anime",
+          "name": "Danball Senki",
+          "url": "https://myanimelist.net/anime/7081/Danball_Senki"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 17917,
+          "type": "anime",
+          "name": "Danball Senki Wars",
+          "url": "https://myanimelist.net/anime/17917/Danball_Senki_Wars"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 15785,
+          "type": "anime",
+          "name": "Inazuma Eleven Go vs. Danball Senki W Movie",
+          "url": "https://myanimelist.net/anime/15785/Inazuma_Eleven_Go_vs_Danball_Senki_W_Movie"
+        },
+        {
+          "mal_id": 36458,
+          "type": "anime",
+          "name": "Soukou Musume Senki",
+          "url": "https://myanimelist.net/anime/36458/Soukou_Musume_Senki"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"BRAVE HERO\" by Little Blue boX (eps 1-16)",
+      "2: \"Sanmi Ittai (三位一体)\" by Little Blue boX (eps 17-34)",
+      "3: \"2 Spirits (2スピリッツ)\" by Little Blue boX (eps 35-45)",
+      "4: \"Telepathy (テレパシー)\" by Little Blue boX (eps 46-58)"
+    ],
+    "endings": [
+      "1: \"Do Wak Parappa (Do Wak パラッパ)\" by Hiroki Maekawa (eps 1-16)",
+      "2: \"Me wo Tojite... (目を閉じて…)\" by Hiroki Maekawa (eps 17-34)",
+      "3: \"Umarekawattemo Boku de Iiyo (生まれ変わっても僕でいいよ)\" by Hiroki Maekawa (eps 35-45)",
+      "4: \"Chikyuu no Kizuna (地球の絆)\" by Dream5 (eps 46-57)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/lbxw/index2.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8903"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13893"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Danball_Senki"
+    }
+  ],
+  "streaming": []
+}

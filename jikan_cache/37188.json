@@ -1,0 +1,163 @@
+{
+  "mal_id": 37188,
+  "url": "https://myanimelist.net/anime/37188/Fumikiri_Jikan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1598/91857.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1598/91857t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1598/91857l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1598/91857.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1598/91857t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1598/91857l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/v32Eic2a4JY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fumikiri Jikan"
+    },
+    {
+      "type": "Japanese",
+      "title": "踏切時間"
+    },
+    {
+      "type": "English",
+      "title": "Crossing Time"
+    },
+    {
+      "type": "German",
+      "title": "Crossing Time"
+    },
+    {
+      "type": "Spanish",
+      "title": "Crossing Time"
+    },
+    {
+      "type": "French",
+      "title": "Crossing Time"
+    }
+  ],
+  "title": "Fumikiri Jikan",
+  "title_english": "Crossing Time",
+  "title_japanese": "踏切時間",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-10T00:00:00+00:00",
+    "to": "2018-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Apr 10, 2018 to Jun 26, 2018"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.36,
+  "scored_by": 20580,
+  "rank": 8193,
+  "popularity": 3657,
+  "members": 46396,
+  "favorites": 28,
+  "synopsis": "Every day, all kinds of different people stop at railroad crossings on their way to work or school, resulting in all sorts of different conversations. Friends, enemies, acquaintances, and complete strangers—there's always a new encounter to be had.\n\nFumikiri Jikan documents the discussions that take place at these locations. Whether these are funny or depressing, expected or completely unexpected, they certainly have the potential to be quite interesting.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:15 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1794,
+      "type": "anime",
+      "name": "EKACHI EPILKA",
+      "url": "https://myanimelist.net/anime/producer/1794/EKACHI_EPILKA"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 110243,
+          "type": "manga",
+          "name": "Fumikiri Jikan",
+          "url": "https://myanimelist.net/manga/110243/Fumikiri_Jikan"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Tomare no Susume (トマレのススメ)\" by Yuri Komagata"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://fumikirijikan.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13753"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20578"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crossing_Time"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-276109"
+    }
+  ]
+}

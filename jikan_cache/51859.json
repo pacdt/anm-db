@@ -1,0 +1,239 @@
+{
+  "mal_id": 51859,
+  "url": "https://myanimelist.net/anime/51859/Touken_Ranbu_Kai__Kyoden_Moyuru_Honnouji",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1941/142048.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1941/142048t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1941/142048l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1941/142048.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1941/142048t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1941/142048l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/lLMm6Wsg3kk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    },
+    {
+      "type": "Japanese",
+      "title": "刀剣乱舞 廻 -虚伝 燃ゆる本能寺-"
+    },
+    {
+      "type": "English",
+      "title": "Touken Ranbu Kai Kyoden"
+    }
+  ],
+  "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+  "title_english": "Touken Ranbu Kai Kyoden",
+  "title_japanese": "刀剣乱舞 廻 -虚伝 燃ゆる本能寺-",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Other",
+  "episodes": 8,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-04-02T00:00:00+00:00",
+    "to": "2024-05-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2024
+      },
+      "to": {
+        "day": 21,
+        "month": 5,
+        "year": 2024
+      }
+    },
+    "string": "Apr 2, 2024 to May 21, 2024"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.1,
+  "scored_by": 2296,
+  "rank": 9745,
+  "popularity": 6122,
+  "members": 14240,
+  "favorites": 52,
+  "synopsis": "Anime adaptation of the stage play Touken Ranbu: Kyoden Moyuru Honnouji.",
+  "background": "",
+  "season": "spring",
+  "year": 2024,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 459,
+      "type": "anime",
+      "name": "Nitroplus",
+      "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 2297,
+      "type": "anime",
+      "name": "EXNOA",
+      "url": "https://myanimelist.net/anime/producer/2297/EXNOA"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1380,
+      "type": "anime",
+      "name": "domerica",
+      "url": "https://myanimelist.net/anime/producer/1380/domerica"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 58894,
+          "type": "anime",
+          "name": "Touken Ranbu Kai: Douden Chikashi Haberau Monora",
+          "url": "https://myanimelist.net/anime/58894/Touken_Ranbu_Kai__Douden_Chikashi_Haberau_Monora"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 33023,
+          "type": "anime",
+          "name": "Touken Ranbu: Hanamaru",
+          "url": "https://myanimelist.net/anime/33023/Touken_Ranbu__Hanamaru"
+        },
+        {
+          "mal_id": 33018,
+          "type": "anime",
+          "name": "Katsugeki/Touken Ranbu",
+          "url": "https://myanimelist.net/anime/33018/Katsugeki_Touken_Ranbu"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Whatever Happens\" by INI"
+    ],
+    "endings": [
+      "\"DAYBREAK\" by [Mikazuki Munechika (CV: Kousuke Toriumi), Yamanbagiri Kunihiro (CV: Tomoaki Maeno), Souza Samonji (CV: Yuuki Tai), Fudou Yukimitsu (CV: Daisuke Sakaguchi), Heshikiri Hasebe (CV: Tarusuke Shingaki), Heshikiri Hasebe (CV: Tarusuke Shingaki)",
+      "cont. Toushirou Yagen (CV: Seiichirou Yamash), Kousetsu Samonji (CV: Takuya Satou), Ichigo Hitofuri (CV: Atsushi Tamaru), Namazuo Toushirou (CV: Souma Saitou), Shokudaikiri Mitsutada (CV: Takuya Satou), Tsurumaru Kuninaga (CV: Souma Saitou)]"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://touken-kai.jp/"
+    },
+    {
+      "name": "@touken_kai",
+      "url": "https://twitter.com/touken_kai"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18408"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=31517"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Touken_Ranbu#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7024"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283844"
+    }
+  ]
+}

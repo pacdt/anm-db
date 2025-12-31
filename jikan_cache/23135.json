@@ -1,0 +1,298 @@
+{
+  "mal_id": 23135,
+  "url": "https://myanimelist.net/anime/23135/PriPara",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/75258.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75258t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75258l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/75258.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75258t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75258l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wYZbRrStwDI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "PriPara"
+    },
+    {
+      "type": "Synonym",
+      "title": "Puri Para"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pri Para"
+    },
+    {
+      "type": "Synonym",
+      "title": "PuriPara"
+    },
+    {
+      "type": "Synonym",
+      "title": "Prism Paradise"
+    },
+    {
+      "type": "Japanese",
+      "title": "プリパラ"
+    }
+  ],
+  "title": "PriPara",
+  "title_english": null,
+  "title_japanese": "プリパラ",
+  "title_synonyms": [
+    "Puri Para",
+    "Pri Para",
+    "PuriPara",
+    "Prism Paradise"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 140,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-07-05T00:00:00+00:00",
+    "to": "2017-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2014
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jul 5, 2014 to Mar 28, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG - Children",
+  "score": 7.53,
+  "scored_by": 7218,
+  "rank": 1954,
+  "popularity": 4958,
+  "members": 24515,
+  "favorites": 483,
+  "synopsis": "Every little girl waits for the day she'll get her special ticket, one that will grant her entry into the world of PriPara (Prism Paradise). PriPara is a world of music, fashion, and daily auditions for a chance to become a pop idol. Laala Manaka's friends and classmates aspire to become idols, but her school forbids elementary school students from participating in the idol competitions.\n\nLuckily, Laala is only interested in watching the idol shows. Yet somehow despite all this, she manages to bumble her way into the PriPara world, and debut as a fresh new talent. After being told all her life that she's too loud, Laala has finally found a place where she can be as loud as she wants and sing from her heart.\n\nAnd not only that, but there's a possibility that she might be the legendary Prism Voice. Adventure, fashion, and music awaits as Laala climbs her way to the top, on her way to become the cutest and most beloved pop idol in the world of PriPara!",
+  "background": "",
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "17:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 17:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    },
+    {
+      "mal_id": 1025,
+      "type": "anime",
+      "name": "Dongwoo A&E",
+      "url": "https://myanimelist.net/anime/producer/1025/Dongwoo_A_E"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 34787,
+          "type": "anime",
+          "name": "Idol Time PriPara",
+          "url": "https://myanimelist.net/anime/34787/Idol_Time_PriPara"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Setting",
+      "entry": [
+        {
+          "mal_id": 10257,
+          "type": "anime",
+          "name": "Pretty Rhythm: Aurora Dream",
+          "url": "https://myanimelist.net/anime/10257/Pretty_Rhythm__Aurora_Dream"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 21707,
+          "type": "anime",
+          "name": "Pretty Rhythm Movie: All Star Selection - Prism Show☆Best Ten",
+          "url": "https://myanimelist.net/anime/21707/Pretty_Rhythm_Movie__All_Star_Selection_-_Prism_Show☆Best_Ten"
+        },
+        {
+          "mal_id": 22215,
+          "type": "anime",
+          "name": "Pretty Rhythm: All Star Selection",
+          "url": "https://myanimelist.net/anime/22215/Pretty_Rhythm__All_Star_Selection"
+        },
+        {
+          "mal_id": 61558,
+          "type": "anime",
+          "name": "Aikatsu! x PriPara the Movie: Deai no Kiseki!",
+          "url": "https://myanimelist.net/anime/61558/Aikatsu_x_PriPara_the_Movie__Deai_no_Kiseki"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 25857,
+          "type": "anime",
+          "name": "PriPara Movie: Mi~nna Atsumare! Prism☆Tours",
+          "url": "https://myanimelist.net/anime/25857/PriPara_Movie__Minna_Atsumare_Prism☆Tours"
+        },
+        {
+          "mal_id": 31055,
+          "type": "anime",
+          "name": "Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix",
+          "url": "https://myanimelist.net/anime/31055/Tobidasu_PriPara__Minna_de_Mezase_Idol☆Grand_Prix"
+        },
+        {
+          "mal_id": 31919,
+          "type": "anime",
+          "name": "PriPara Movie: Mi~nna no Akogare♪ Let's Go☆Prix Paris",
+          "url": "https://myanimelist.net/anime/31919/PriPara_Movie__Minna_no_Akogare♪_Lets_Go☆Prix_Paris"
+        },
+        {
+          "mal_id": 34304,
+          "type": "anime",
+          "name": "PriPara Movie: Mi~nna de Kagayake! Kirarin☆Star Live!",
+          "url": "https://myanimelist.net/anime/34304/PriPara_Movie__Minna_de_Kagayake_Kirarin☆Star_Live"
+        },
+        {
+          "mal_id": 37398,
+          "type": "anime",
+          "name": "PriPara & Kiratto Pri☆chan Movie: Kirakira Memorial Live",
+          "url": "https://myanimelist.net/anime/37398/PriPara___Kiratto_Pri☆chan_Movie__Kirakira_Memorial_Live"
+        },
+        {
+          "mal_id": 44376,
+          "type": "anime",
+          "name": "Idol Land PriPara",
+          "url": "https://myanimelist.net/anime/44376/Idol_Land_PriPara"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Make it!\" by i☆Ris (eps 1-13)",
+      "2: \"Miracle☆Paradise (ミラクル☆パラダイス)\" by i☆Ris (eps 14-26)",
+      "3: \"Realize!\" by i☆Ris (eps 27-38)",
+      "4: \"Dream Parade (ドリームパレード)\" by i☆Ris (eps 39-64)",
+      "5: \"Bright Fantasy (ブライトファンタジー)\" by i☆Ris (eps 65-77)",
+      "6: \"Goin'on\" by i☆Ris (eps 78-89)",
+      "7: \"Ready Smile!!\" by i☆Ris (eps 90-102)",
+      "8: \"Brand New Dreamer\" by Laala Manaka (Himika Akaneya) with Triangle (Minami Tanaka)  (eps 103-106, 113, 120-121, 128-129)",
+      "9: \"Brand New Dreamer\" by Laala Manaka (Himika Akaneya) with Junon (Minami Tanaka)  (eps 107-108, 114-115, 122-123)",
+      "10: \"Brand New Dreamer\" by Laala Manaka (Himika Akaneya) with Pinon (Minami Tanaka) (eps 109-110, 116-117, 124-125)",
+      "11: \"Shining Star\" by i☆Ris (eps 131-)"
+    ],
+    "endings": [
+      "1: \"Jumpin' Dancin'\" by Prizmmy☆ (eps 1-13)",
+      "2: \"Kiraki Runway☆ (キラキランウェイ☆)\" by Prism☆Box [Prizmmy☆ & Prism☆Mates (プリズム☆メイツ)]  (eps 14-26)",
+      "3: \"I Just Wanna Be With You ~Virtual and Real no Hazama de~ (I Just Wanna Be With You ～仮想（ヴァーチャル）と真実（リアル）の狭間で～) \" by Prizmmy☆ (eps 27-38)",
+      "4: \"Idol Kinryoku♥Lesson Go! (アイドルキンリョク♥Lesson GO!)\" by Laala with Prism☆Idol Kenkyuusei's (らぁらwithプリズム☆アイドル研究生's)  (eps 39-51)",
+      "5: \"Mune Kyun Love Song (胸キュンLove Song)\" by SUPER☆GiRLS (eps 52-64)",
+      "6: \"Rainbow Melody♪ (レインボウ・メロディー♪)\" by PriPara Dream☆All Stars (プリパラドリーム☆オールスターズ)  (eps 65-70, 72, 74-77)",
+      "7: \"ThankYou ♥ Birthday\" by Laala Manaka (Himika Akaneya) (eps 71)",
+      "8: \"Pure Amore Ai (純（ビュ）・アモーレ・愛)\" by Hibiki Shikyouin (Mitsuki Saiga)  (eps 73)",
+      "9: \"LOVE TROOPER\" by Prizmmy☆ (eps 78-89)",
+      "10: \"PriPara☆Dancing!!! (プリパラ☆ダンシング!!!)\" by Laala Manaka (Himika Akaneya) and Gaaruru (Asami Sanada) (eps 90-115)",
+      "11: \"Growin' Jewel!\" by SoLaMi Dressing (Himika Akaneya, Yuu Serizawa, Miyu Kubota, Saki Yamakita, Azuki Shibuya, Yuki Wakai) (eps 116-121, 123-131, 133-)",
+      "12: \"Brand New Dreamer\" by Laala with Kanon (らぁら with かのん（茜屋日海夏 with 田中美海）) (eps 122)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/pripara/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10515"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15916"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/PriPara"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

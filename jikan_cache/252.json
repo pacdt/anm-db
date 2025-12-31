@@ -1,0 +1,171 @@
+{
+  "mal_id": 252,
+  "url": "https://myanimelist.net/anime/252/Madlax",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/57237.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57237t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57237l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/57237.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57237t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57237l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Madlax"
+    },
+    {
+      "type": "Japanese",
+      "title": "マドラックス"
+    }
+  ],
+  "title": "Madlax",
+  "title_english": null,
+  "title_japanese": "マドラックス",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-04-06T00:00:00+00:00",
+    "to": "2004-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Apr 6, 2004 to Sep 28, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.01,
+  "scored_by": 14608,
+  "rank": 4488,
+  "popularity": 3694,
+  "members": 45575,
+  "favorites": 158,
+  "synopsis": "In the country of Gazth-Sonika, civil war rages. There, a mercenary called Madlax plies her trade, with almost supernatural skill. In the seemingly peaceful country of Nafrece, Margaret Burton lives a tranquil life. As separate as their lives may seem, the two are connected by ties of mystery, and by a holy book that is also sought by the shadowy organisation, Enfant. As Margaret and Madlax follow the path of their destiny, they come ever closer to uncovering the truth - with no guarantee that it is a truth they can bear to learn.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Bee Train",
+      "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"Hitomi no Kakera\" (瞳の欠片, Fragments of a Gaze) by FictionJunction YUUKA"
+    ],
+    "endings": [
+      "\"Inside your heart\" by FictionJunction YUUKA"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/madlax/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1654"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3714"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Madlax"
+    }
+  ],
+  "streaming": []
+}

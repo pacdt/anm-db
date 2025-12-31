@@ -1,0 +1,160 @@
+{
+  "mal_id": 12079,
+  "url": "https://myanimelist.net/anime/12079/Black★Rock_Shooter",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/54331.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/54331t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/54331l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/54331.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/54331t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/54331l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Black★Rock Shooter"
+    },
+    {
+      "type": "Synonym",
+      "title": "BRS"
+    },
+    {
+      "type": "Synonym",
+      "title": "Supercell: Black Rock Shooter"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hatsune Miku's Black★Rock Shooter"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブラック★ロックシューター"
+    }
+  ],
+  "title": "Black★Rock Shooter",
+  "title_english": null,
+  "title_japanese": "ブラック★ロックシューター",
+  "title_synonyms": [
+    "BRS",
+    "Supercell: Black Rock Shooter",
+    "Hatsune Miku's Black★Rock Shooter"
+  ],
+  "type": "Music",
+  "source": "Other",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-06-13T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 6,
+        "year": 2008
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 13, 2008"
+  },
+  "duration": "4 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.03,
+  "scored_by": 34657,
+  "rank": null,
+  "popularity": 2893,
+  "members": 70659,
+  "favorites": 317,
+  "synopsis": "The official music video that eventually spawned the entire Black Rock Shooter franchise. Inspired by the first official illustration by huke, the song was composed by ryo of supercell, illustrated by huke and sung by Hatsune Miku, a VOCALOID.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 7059,
+          "type": "anime",
+          "name": "Black★Rock Shooter (OVA)",
+          "url": "https://myanimelist.net/anime/7059/Black★Rock_Shooter_OVA"
+        },
+        {
+          "mal_id": 11285,
+          "type": "anime",
+          "name": "Black★Rock Shooter (TV)",
+          "url": "https://myanimelist.net/anime/11285/Black★Rock_Shooter_TV"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6820"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Black_Rock_Shooter"
+    }
+  ],
+  "streaming": []
+}

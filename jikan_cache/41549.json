@@ -1,0 +1,226 @@
+{
+  "mal_id": 41549,
+  "url": "https://myanimelist.net/anime/41549/Majutsushi_Orphen_Hagure_Tabi__Tennin_no_Isan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1319/106804.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/106804t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/106804l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1319/106804.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/106804t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/106804l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Majutsushi Orphen Hagure Tabi: Tennin no Isan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Majutsushi Orphen Hagure Tabi Episode 14"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sorcerous Stabber Orphen Episode 14"
+    },
+    {
+      "type": "Synonym",
+      "title": "Majutsushi Orphen Hagure Tabi Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sorcerous Stabber Orphen Special"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔術士オーフェンはぐれ旅 天人の遺産"
+    },
+    {
+      "type": "English",
+      "title": "Sorcerous Stabber Orphen: Celestial Artifacts"
+    }
+  ],
+  "title": "Majutsushi Orphen Hagure Tabi: Tennin no Isan",
+  "title_english": "Sorcerous Stabber Orphen: Celestial Artifacts",
+  "title_japanese": "魔術士オーフェンはぐれ旅 天人の遺産",
+  "title_synonyms": [
+    "Majutsushi Orphen Hagure Tabi Episode 14",
+    "Sorcerous Stabber Orphen Episode 14",
+    "Majutsushi Orphen Hagure Tabi Special",
+    "Sorcerous Stabber Orphen Special"
+  ],
+  "type": "Special",
+  "source": "Light novel",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-05-08T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 5,
+        "year": 2020
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "May 8, 2020"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.06,
+  "scored_by": 4268,
+  "rank": 9992,
+  "popularity": 6615,
+  "members": 11844,
+  "favorites": 5,
+  "synopsis": "Unaired episode included in the 2nd volume of the Blu-ray/DVD box.",
+  "background": "This OVA tries to fill in the gaps of important information from the volume 2, which was cut from the first season.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 2222,
+      "type": "anime",
+      "name": "MediaNet Pictures",
+      "url": "https://myanimelist.net/anime/producer/2222/MediaNet_Pictures"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 37576,
+          "type": "anime",
+          "name": "Majutsushi Orphen Hagure Tabi",
+          "url": "https://myanimelist.net/anime/37576/Majutsushi_Orphen_Hagure_Tabi"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 41573,
+          "type": "anime",
+          "name": "Majutsushi Orphen Hagure Tabi: Kimluck-hen",
+          "url": "https://myanimelist.net/anime/41573/Majutsushi_Orphen_Hagure_Tabi__Kimluck-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 39745,
+          "type": "manga",
+          "name": "Majutsushi Orphen Hagure Tabi",
+          "url": "https://myanimelist.net/manga/39745/Majutsushi_Orphen_Hagure_Tabi"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://ssorphen-anime.com/br-dvd/02.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13964"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23953"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sorcerous_Stabber_Orphen"
+    }
+  ],
+  "streaming": []
+}

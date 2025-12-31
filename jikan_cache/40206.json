@@ -1,0 +1,182 @@
+{
+  "mal_id": 40206,
+  "url": "https://myanimelist.net/anime/40206/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia_-_Initium_Iter",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1864/102399.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/102399t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/102399l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1864/102399.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/102399t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/102399l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_oLEbJyTdlI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia Episode 0"
+    },
+    {
+      "type": "Japanese",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- Initium Iter"
+    },
+    {
+      "type": "English",
+      "title": "Fate/Grand Order: Absolute Demonic Front - Babylonia Initium Iter"
+    }
+  ],
+  "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter",
+  "title_english": "Fate/Grand Order: Absolute Demonic Front - Babylonia Initium Iter",
+  "title_japanese": "Fate/Grand Order -絶対魔獣戦線バビロニア- Initium Iter",
+  "title_synonyms": [
+    "Fate/Grand Order: Zettai Majuu Sensen Babylonia Episode 0"
+  ],
+  "type": "Special",
+  "source": "Game",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-08-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 8,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 4, 2019"
+  },
+  "duration": "27 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.13,
+  "scored_by": 42546,
+  "rank": 3919,
+  "popularity": 2764,
+  "members": 76223,
+  "favorites": 67,
+  "synopsis": "The year 2010 AD. Romani Archaman has been posted to Chaldea. There, he becomes the primary doctor for a young girl. Mash Kyrielight, Chaldea's second successful summoning experiment, is interested in the word \"Senpai.\" The interaction between the two gives Mash a reason to hope. That hope becomes a wave and starts to spread. That is your story, the story of a normal \"somebody.\" The story at the beginning of a journey that weaves the future.\n\n(Source: AniplexUS)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 703,
+      "type": "anime",
+      "name": "Notes",
+      "url": "https://myanimelist.net/anime/producer/703/Notes"
+    },
+    {
+      "mal_id": 2008,
+      "type": "anime",
+      "name": "Delightworks",
+      "url": "https://myanimelist.net/anime/producer/2008/Delightworks"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1835,
+      "type": "anime",
+      "name": "CloverWorks",
+      "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 38084,
+          "type": "anime",
+          "name": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+          "url": "https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://anime.fate-go.jp/ep7-tv/"
+    },
+    {
+      "name": "@FGOAP_ep7",
+      "url": "https://twitter.com/FGOAP_ep7"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14238"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23547"
+    }
+  ],
+  "streaming": []
+}

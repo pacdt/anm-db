@@ -1,0 +1,280 @@
+{
+  "mal_id": 39808,
+  "url": "https://myanimelist.net/anime/39808/Non_Non_Biyori_Nonstop",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1033/111540.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1033/111540t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1033/111540l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1033/111540.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1033/111540t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1033/111540l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/57Fk9kOTvXE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Non Non Biyori Nonstop"
+    },
+    {
+      "type": "Synonym",
+      "title": "Non Non Biyori 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Non Non Biyori Third Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "のんのんびより のんすとっぷ"
+    },
+    {
+      "type": "English",
+      "title": "Non Non Biyori Nonstop"
+    }
+  ],
+  "title": "Non Non Biyori Nonstop",
+  "title_english": "Non Non Biyori Nonstop",
+  "title_japanese": "のんのんびより のんすとっぷ",
+  "title_synonyms": [
+    "Non Non Biyori 3rd Season",
+    "Non Non Biyori Third Season"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-11T00:00:00+00:00",
+    "to": "2021-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2021
+      }
+    },
+    "string": "Jan 11, 2021 to Mar 29, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.35,
+  "scored_by": 52939,
+  "rank": 256,
+  "popularity": 1872,
+  "members": 137011,
+  "favorites": 978,
+  "synopsis": "The carefree journeys of the four girls continue! As their fleeting yet eventful summer becomes a distant memory, the arrival of fall signals a new school year with limitless opportunities. Even as the four girls return to their peaceful routine, the appearance of new faces enlivens the anything but exciting rural life of Asahigaoka.\n\nNon Non Biyori Nonstop leisurely walks back into the lives of Hotaru Ichijou, Komari Koshigaya, Natsumi Koshigaya, and Renge Miyauchi as they fully embrace their rural lifestyles and turn anything they find into nothing but fun!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2106,
+      "type": "anime",
+      "name": "Sony Music Solutions",
+      "url": "https://myanimelist.net/anime/producer/2106/Sony_Music_Solutions"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 36990,
+          "type": "anime",
+          "name": "Non Non Biyori Movie: Vacation",
+          "url": "https://myanimelist.net/anime/36990/Non_Non_Biyori_Movie__Vacation"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 49521,
+          "type": "anime",
+          "name": "Non Non Biyori Nonstop: Bukatsu wo Ganbatta",
+          "url": "https://myanimelist.net/anime/49521/Non_Non_Biyori_Nonstop__Bukatsu_wo_Ganbatta"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 17552,
+          "type": "manga",
+          "name": "Non Non Biyori",
+          "url": "https://myanimelist.net/manga/17552/Non_Non_Biyori"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Tsugihagi Moyou (つぎはぎもよう)\" by nano.RIPE"
+    ],
+    "endings": [
+      "\"Tadaima (ただいま)\" by Renge Miyauchi (Kotori Koiwai), Hotaru Ichijou (Rie Murakawa), Natsumi Koshigaya (Ayane Sakura), Komari Koshigaya (Kana Asumi)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.nonnontv.com/"
+    },
+    {
+      "name": "@nonnontv",
+      "url": "https://twitter.com/nonnontv"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14914"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22215"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Non_Non_Biyori#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%AE%E3%82%93%E3%81%AE%E3%82%93%E3%81%B3%E3%82%88%E3%82%8A"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/5830"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/282684"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257295"
+    },
+    {
+      "name": "HIDIVE",
+      "url": "https://www.hidive.com/"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "mal_id": 58886,
+  "url": "https://myanimelist.net/anime/58886/Darwin_Jihen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1341/152829.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/152829t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/152829l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1341/152829.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/152829t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/152829l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zRann2zoXx0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Darwin Jihen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Darwin’s Incident"
+    },
+    {
+      "type": "Japanese",
+      "title": "ダーウィン事変"
+    },
+    {
+      "type": "English",
+      "title": "The Darwin Incident"
+    }
+  ],
+  "title": "Darwin Jihen",
+  "title_english": "The Darwin Incident",
+  "title_japanese": "ダーウィン事変",
+  "title_synonyms": [
+    "Darwin’s Incident"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": null,
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-07T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 7, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 6147,
+  "members": 14146,
+  "favorites": 14,
+  "synopsis": "The Animal Liberation Alliance, an eco-terrorist organization, rescues a pregnant chimpanzee from an animal testing lab—only for it to give birth to a half-human, half-chimpanzee \"humanzee\" named Charlie! Fifteen years later, Charlie's human foster parents are finally ready to send him to a normal high school, where he makes his first friend: a human girl named Lucy. In the meantime, however, the ALA's stance has become ever more extreme, and now they're here to drag Charlie into their terrorist plot...\n\n(Source: Kodansha USA)",
+  "background": "",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3044,
+      "type": "anime",
+      "name": "Bellnox Films",
+      "url": "https://myanimelist.net/anime/producer/3044/Bellnox_Films"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 130755,
+          "type": "manga",
+          "name": "Darwin Jihen",
+          "url": "https://myanimelist.net/manga/130755/Darwin_Jihen"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Make Me Wonder\" by Official HIGE DANdism (Official髭男dism)"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://darwinsincident.net/"
+    },
+    {
+      "name": "@darwins_anime",
+      "url": "https://twitter.com/darwins_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18646"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32752"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Darwin_Incident#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ダーウィン事変"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7695"
+    }
+  ],
+  "streaming": []
+}

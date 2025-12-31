@@ -1,0 +1,214 @@
+{
+  "mal_id": 14921,
+  "url": "https://myanimelist.net/anime/14921/RDG__Red_Data_Girl",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50313.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50313t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50313l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50313.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50313t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50313l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/J9-mLrm-anM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "RDG: Red Data Girl"
+    },
+    {
+      "type": "Synonym",
+      "title": "RDG"
+    },
+    {
+      "type": "Japanese",
+      "title": "RDG レッドデータガール"
+    },
+    {
+      "type": "English",
+      "title": "Red Data Girl"
+    }
+  ],
+  "title": "RDG: Red Data Girl",
+  "title_english": "Red Data Girl",
+  "title_japanese": "RDG レッドデータガール",
+  "title_synonyms": [
+    "RDG"
+  ],
+  "type": "TV",
+  "source": "Novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-04-04T00:00:00+00:00",
+    "to": "2013-06-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2013
+      },
+      "to": {
+        "day": 20,
+        "month": 6,
+        "year": 2013
+      }
+    },
+    "string": "Apr 4, 2013 to Jun 20, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.55,
+  "scored_by": 50369,
+  "rank": 7037,
+  "popularity": 2097,
+  "members": 117707,
+  "favorites": 249,
+  "synopsis": "Fifteen-year-old Izumiko Suzuhara just wants to be a normal girl, but that is easier said than done. Raised in a shrine deep in the mountains, she grew up extremely sheltered and painfully shy. She also has the unfortunate tendency to destroy any electronic device simply by touching it.\n\nDespite this, she still wants to try and change her life. To mark her determination to follow through on this transformation, Izumiko begins by cutting her bangs, which shocks both her classmates and protectors. And that's only the start! Her guardian, Yukimasa Sagara, forces his son, Miyuki, to come to the mountain shrine and become Izumiko's lifelong servant and protector. Too bad Izumiko and Miyuki cannot stand each other. They have known each other since they were children, and Miyuki bullied her terribly. He simply does not understand what is so special about Izumiko. His father calls Izumiko a goddess, but that cannot be true…can it? Will Izumiko and Miyuki work past their differences? Is she actually a literal goddess? Find out in RDG: Red Data Girl!",
+  "background": "",
+  "season": "spring",
+  "year": 2013,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 132,
+      "type": "anime",
+      "name": "P.A. Works",
+      "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 45605,
+          "type": "manga",
+          "name": "RDG: Red Data Girl",
+          "url": "https://myanimelist.net/manga/45605/RDG__Red_Data_Girl"
+        },
+        {
+          "mal_id": 41259,
+          "type": "manga",
+          "name": "RDG: Red Data Girl",
+          "url": "https://myanimelist.net/manga/41259/RDG__Red_Data_Girl"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Small worldrop (スモルワールドロップ)\" by Annabel  (eps 1-2, 4-11)"
+    ],
+    "endings": [
+      "1: \"Yokan (予感)\" by Masumi Itou (eps 1-2, 4-7, 9-12)",
+      "2: \"Yokan (Izumiko version) (予感 (泉水子バージョン))\" by Izumiko Suzuhara (Saori Hayami) (eps 3, 8)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://rdg-anime.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9328"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14862"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/RDG_Red_Data_Girl"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/RDG_%E3%83%AC%E3%83%83%E3%83%89%E3%83%87%E3%83%BC%E3%82%BF%E3%82%AC%E3%83%BC%E3%83%AB#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/2921"
+    }
+  ],
+  "streaming": []
+}

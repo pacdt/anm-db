@@ -1,0 +1,275 @@
+{
+  "mal_id": 27441,
+  "url": "https://myanimelist.net/anime/27441/Show_By_Rock",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/73674.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73674t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73674l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/73674.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73674t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73674l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WubzNbFbFpY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Show By Rock!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "SB69"
+    },
+    {
+      "type": "Japanese",
+      "title": "SHOW BY ROCK!!（ショウ・バイ・ロック!!）"
+    }
+  ],
+  "title": "Show By Rock!!",
+  "title_english": null,
+  "title_japanese": "SHOW BY ROCK!!（ショウ・バイ・ロック!!）",
+  "title_synonyms": [
+    "SB69"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-04-05T00:00:00+00:00",
+    "to": "2015-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2015
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 2015
+      }
+    },
+    "string": "Apr 5, 2015 to Jun 21, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.03,
+  "scored_by": 29413,
+  "rank": 4426,
+  "popularity": 2463,
+  "members": 92039,
+  "favorites": 390,
+  "synopsis": "The great music adventure in Show by Rock!! begins after Cyan decides to play her favorite rhythm game and suddenly gets sucked in, finding herself in a world called Midi City where music reigns supreme. She learns that anyone who delivers amazing and powerful music also has the ability to control the city. However, not all music is pure. An evil plan is set in motion to engulf the whole Midi City in darkness. Is it too late for Cyan to do something?\n\nCyan Hijirikawa always regards herself as nothing but an ordinary girl living in a mediocre world. She has great talent and extreme guitar skills, but she also lacks the confidence to take the first step in realizing her dream to play in a band and be a music millionaire! Little did she know that an eminent power resides deep within herself—the power to defeat evil with her magical music!\n\nJoin Cyan, Chuchu, Retoree and Moa in a world where music is everything.",
+  "background": "",
+  "season": "spring",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 150,
+      "type": "anime",
+      "name": "Sanrio",
+      "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1253,
+      "type": "anime",
+      "name": "Studio GOONEYS",
+      "url": "https://myanimelist.net/anime/producer/1253/Studio_GOONEYS"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1590,
+      "type": "anime",
+      "name": "FuRyu",
+      "url": "https://myanimelist.net/anime/producer/1590/FuRyu"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 32038,
+          "type": "anime",
+          "name": "Show By Rock!! #",
+          "url": "https://myanimelist.net/anime/32038/Show_By_Rock_"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 32039,
+          "type": "anime",
+          "name": "Show By Rock!! Short!!",
+          "url": "https://myanimelist.net/anime/32039/Show_By_Rock_Short"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 40763,
+          "type": "anime",
+          "name": "Show By Rock!! Mashumairesh!!",
+          "url": "https://myanimelist.net/anime/40763/Show_By_Rock_Mashumairesh"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 31072,
+          "type": "anime",
+          "name": "Show By Rock!!: Legend of Shingan Crimsonz",
+          "url": "https://myanimelist.net/anime/31072/Show_By_Rock__Legend_of_Shingan_Crimsonz"
+        },
+        {
+          "mal_id": 31073,
+          "type": "anime",
+          "name": "Show By Rock!!: Plasmagica na Gogo",
+          "url": "https://myanimelist.net/anime/31073/Show_By_Rock__Plasmagica_na_Gogo"
+        },
+        {
+          "mal_id": 33855,
+          "type": "anime",
+          "name": "Show By Rock!! x Joysound",
+          "url": "https://myanimelist.net/anime/33855/Show_By_Rock_x_Joysound"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Seishun wa Non-Stop! (青春はNon-Stop!)\" by Plasmagica"
+    ],
+    "endings": [
+      "\"Have a nice MUSIC!!\" by Plasmagica"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.showbyrock-anime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10830"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16311"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Show_by_Rock!!"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271529"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "mal_id": 39489,
+  "url": "https://myanimelist.net/anime/39489/Spriggan_ONA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1195/123948.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/123948t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/123948l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1195/123948.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/123948t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/123948l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/GOWA9xG0HTw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Spriggan (ONA)"
+    },
+    {
+      "type": "Japanese",
+      "title": "スプリガン"
+    },
+    {
+      "type": "German",
+      "title": "Spriggan"
+    },
+    {
+      "type": "Spanish",
+      "title": "Spriggan"
+    },
+    {
+      "type": "French",
+      "title": "Spriggan"
+    }
+  ],
+  "title": "Spriggan (ONA)",
+  "title_english": null,
+  "title_japanese": "スプリガン",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-06-18T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 6,
+        "year": 2022
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 18, 2022"
+  },
+  "duration": "45 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.84,
+  "scored_by": 19278,
+  "rank": 5307,
+  "popularity": 3292,
+  "members": 55695,
+  "favorites": 144,
+  "synopsis": "Deep in the Ararat Mountains of Turkey, a secret organization known as ARCAM has found what is believed to be Noah's Ark. However, the U.S. Machine Corps., a rogue organization of the Pentagon, wants to take over the Ark as a means of global supremacy. Only a special ARCAM operative known as a Spriggan stands in their way. Japanese Spriggan Yu Ominae teams up with French Spriggan Jean-Jacques Mondo to combat members of the U.S. Machine Corps. led by Col. MacDougall—a genetically-enhanced boy with deadly psionic powers. However, they must act fast and stop MacDougall before he uses the Ark for his own agenda.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "Avex Entertainment",
+      "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1705,
+          "type": "manga",
+          "name": "Spriggan",
+          "url": "https://myanimelist.net/manga/1705/Spriggan"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 420,
+          "type": "anime",
+          "name": "Spriggan",
+          "url": "https://myanimelist.net/anime/420/Spriggan"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Seeking the Truth featuring YAHZARAH\" by Taisei Iwasaki"
+    ],
+    "endings": [
+      "\"Ancient Creations featuring Shing02\" by Taisei Iwasaki"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://spriggan-anime.jp/"
+    },
+    {
+      "name": "@spriggan_anime",
+      "url": "https://twitter.com/spriggan_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14734"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24363"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spriggan_(manga)#Anime_series"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%AA%E3%82%AC%E3%83%B3_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
+  "streaming": []
+}

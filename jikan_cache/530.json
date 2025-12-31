@@ -1,0 +1,246 @@
+{
+  "mal_id": 530,
+  "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1440/92258t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/92258l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1440/92258t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/92258l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/UL_F6L1tSAM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bishoujo Senshi Sailor Moon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pretty Soldier Sailor Moon"
+    },
+    {
+      "type": "Japanese",
+      "title": "美少女戦士セーラームーン"
+    },
+    {
+      "type": "English",
+      "title": "Sailor Moon"
+    },
+    {
+      "type": "German",
+      "title": "Sailor Moon"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sailor Moon"
+    },
+    {
+      "type": "French",
+      "title": "Sailor Moon"
+    }
+  ],
+  "title": "Bishoujo Senshi Sailor Moon",
+  "title_english": "Sailor Moon",
+  "title_japanese": "美少女戦士セーラームーン",
+  "title_synonyms": [
+    "Pretty Soldier Sailor Moon"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 46,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1992-03-07T00:00:00+00:00",
+    "to": "1993-02-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 3,
+        "year": 1992
+      },
+      "to": {
+        "day": 27,
+        "month": 2,
+        "year": 1993
+      }
+    },
+    "string": "Mar 7, 1992 to Feb 27, 1993"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.75,
+  "scored_by": 199814,
+  "rank": 1207,
+  "popularity": 644,
+  "members": 409058,
+  "favorites": 10960,
+  "synopsis": "Usagi Tsukino is an average student and crybaby klutz who constantly scores low on her tests. Unexpectedly, her humdrum life is turned upside down when she saves a cat with a crescent moon on its head from danger. The cat, named Luna, later reveals that their meeting was not an accident: Usagi is destined to become Sailor Moon, a planetary guardian with the power to protect the Earth. Given a special brooch that allows her to transform, she must use her new powers to save the city from evil energy-stealing monsters sent by the malevolent Queen Beryl of the Dark Kingdom.\n\nBut getting accustomed to her powers and fighting villains are not the only things she has to worry about. She must find the lost princess of the Moon Kingdom, the other Sailor Guardians, and the Legendary Silver Crystal in order to save the planet from destruction.\n\n[Written by MAL Rewrite]",
+  "background": "The series won the 1992 Animage's Anime Grand Prix Award.",
+  "season": "spring",
+  "year": 1992,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 2292,
+      "type": "anime",
+      "name": "Toei Advertising",
+      "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 269,
+      "type": "anime",
+      "name": "DiC Entertainment",
+      "url": "https://myanimelist.net/anime/producer/269/DiC_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 740,
+          "type": "anime",
+          "name": "Bishoujo Senshi Sailor Moon R",
+          "url": "https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 92,
+          "type": "manga",
+          "name": "Bishoujo Senshi Sailor Moon",
+          "url": "https://myanimelist.net/manga/92/Bishoujo_Senshi_Sailor_Moon"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 8756,
+          "type": "anime",
+          "name": "Bishoujo Senshi Sailor Moon Memorial",
+          "url": "https://myanimelist.net/anime/8756/Bishoujo_Senshi_Sailor_Moon_Memorial"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 14751,
+          "type": "anime",
+          "name": "Bishoujo Senshi Sailor Moon Crystal",
+          "url": "https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Moonlight Densetsu\" by DALI"
+    ],
+    "endings": [
+      "1: \"Heart Moving\" by Misae Takamatsu (eps 1-26)",
+      "2: \"Princess Moon\" by Ushio Hashimoto (eps 27-46)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.toei-anim.co.jp/lineup/tv/sailor_moon/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=235"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=363"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sailor_Moon_(season_1)"
+    }
+  ],
+  "streaming": []
+}

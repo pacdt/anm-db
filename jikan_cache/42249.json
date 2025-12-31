@@ -1,0 +1,304 @@
+{
+  "mal_id": 42249,
+  "url": "https://myanimelist.net/anime/42249/Tokyo_Revengers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1839/122012.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1839/122012t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1839/122012l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1839/122012.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1839/122012t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1839/122012l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/r9M34VgTfzY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tokyo Revengers"
+    },
+    {
+      "type": "Japanese",
+      "title": "東京リベンジャーズ"
+    },
+    {
+      "type": "English",
+      "title": "Tokyo Revengers"
+    }
+  ],
+  "title": "Tokyo Revengers",
+  "title_english": "Tokyo Revengers",
+  "title_japanese": "東京リベンジャーズ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-11T00:00:00+00:00",
+    "to": "2021-09-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 19,
+        "month": 9,
+        "year": 2021
+      }
+    },
+    "string": "Apr 11, 2021 to Sep 19, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.83,
+  "scored_by": 764150,
+  "rank": 1016,
+  "popularity": 105,
+  "members": 1379920,
+  "favorites": 25317,
+  "synopsis": "Takemichi Hanagaki's second year of middle school was the highest point in his life. He had respect, a gang of friends he could count on, and even a girlfriend. But that was twelve years ago. Today, he's a nobody: a washed-up nonentity made fun of by children and always forced to apologize to his younger boss. A sudden news report on the Tokyo Manji Gang's cruel murder of the only girlfriend he ever had alongside her brother only adds insult to injury. Half a second before a train ends his pitiful life for good, Takemichi flashes back to that same day 12 years ago, when he was still dating Hinata Tachibana.\n\nAfter being forced to relive the very same day that began his downward spiral, Takemichi meets Hinata's younger brother. Without thinking, he admits to his seeming death before flashing back to the past. Takemichi urges him to protect his sister before inexplicably returning to the future. Miraculously, he is not dead. Stranger still, the future has changed. It seems as though Takemichi can alter the flow of time. Given the chance to prevent his ex-girlfriend's tragic death at the hands of the Tokyo Manji Gang, Takemichi decides to fly through time to change the course of the future.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:08",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 02:08 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "Delinquents",
+      "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 50608,
+          "type": "anime",
+          "name": "Tokyo Revengers: Seiya Kessen-hen",
+          "url": "https://myanimelist.net/anime/50608/Tokyo_Revengers__Seiya_Kessen-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 104565,
+          "type": "manga",
+          "name": "Tokyo卍Revengers",
+          "url": "https://myanimelist.net/manga/104565/Tokyo卍Revengers"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 48735,
+          "type": "anime",
+          "name": "Chibi Revenger",
+          "url": "https://myanimelist.net/anime/48735/Chibi_Revenger"
+        },
+        {
+          "mal_id": 57751,
+          "type": "anime",
+          "name": "Coffee Kousou",
+          "url": "https://myanimelist.net/anime/57751/Coffee_Kousou"
+        },
+        {
+          "mal_id": 59091,
+          "type": "anime",
+          "name": "Douwa Revenger",
+          "url": "https://myanimelist.net/anime/59091/Douwa_Revenger"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Cry Baby\" by Official HiGE DANdism"
+    ],
+    "endings": [
+      "1: \"Koko de Iki wo shite (ここで息をして)\" by eill (eps 1-12)",
+      "2: \"Tokyo Wonder. (トーキョーワンダー。)\" by Nakimushi (泣き虫☔︎) (eps 13-)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://tokyo-revengers-anime.com/"
+    },
+    {
+      "name": "@anime_toman",
+      "url": "https://twitter.com/anime_toman"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15601"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23847"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tokyo_Revengers#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%8D%8D%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/5939"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/308936"
+    },
+    {
+      "name": "Baidu Baike",
+      "url": "https://baike.baidu.com/item/%E4%B8%9C%E4%BA%AC%E5%A4%8D%E4%BB%87%E8%80%85/51094156?fromModule=lemma-qiyi_sense-lemma"
+    },
+    {
+      "name": "Douban",
+      "url": "https://movie.douban.com/subject/35128793/"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281197"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    }
+  ]
+}

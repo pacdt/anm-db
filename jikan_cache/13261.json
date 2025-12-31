@@ -1,0 +1,195 @@
+{
+  "mal_id": 13261,
+  "url": "https://myanimelist.net/anime/13261/Inazuma_Eleven_Go__Chrono_Stone",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1619/94705.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1619/94705t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1619/94705l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1619/94705.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1619/94705t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1619/94705l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Inazuma Eleven Go: Chrono Stone"
+    },
+    {
+      "type": "Japanese",
+      "title": "イナズマイレブンGO クロノ・ストーン"
+    },
+    {
+      "type": "English",
+      "title": "Inazuma Eleven Go: Chrono Stones"
+    }
+  ],
+  "title": "Inazuma Eleven Go: Chrono Stone",
+  "title_english": "Inazuma Eleven Go: Chrono Stones",
+  "title_japanese": "イナズマイレブンGO クロノ・ストーン",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 51,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-18T00:00:00+00:00",
+    "to": "2013-05-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      }
+    },
+    "string": "Apr 18, 2012 to May 1, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.3,
+  "scored_by": 39346,
+  "rank": 2933,
+  "popularity": 2999,
+  "members": 66205,
+  "favorites": 402,
+  "synopsis": "Inazuma Eleven Go: Chrono Stone is set after the Holy Road Soccer Tournament. The hero of of the moment, Tenma Matsukaze, traveled all over Japan to teach soccer to kids.\n\nHe returns to Raimon Junior High School after completing his mission, but to his surprise, it's no longer the same Raimon Junior High that he remembers. The soccer club is non-existent, and the members of the champion team in the Holy Road Soccer Tournament have no recollection of taking part in the tournament. They neither remember Tenma nor the game of soccer they loved. As Tenma is baffled by this twist, Alpha, the leader of the Route Agents and captain of Protocol Omega team, suddenly appears before him. Alpha declares that he and his team are responsible for wiping out passion for soccer in Raimon along with the memories of the soccer club members: and Tenma himself is next.\n\nThat's when a strange boy named Fei Rune appears just in time to save him. Just who is Fei, and why does Alpha want to eliminate soccer for good? Tenma knows that he needs to do everything in his power to emerge victorious. It's a battle that could seal the fate of soccer forever.",
+  "background": "The series won the 2012 Animage's Anime Grand Prix Award.",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 10507,
+          "type": "anime",
+          "name": "Inazuma Eleven Go",
+          "url": "https://myanimelist.net/anime/10507/Inazuma_Eleven_Go"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 18097,
+          "type": "anime",
+          "name": "Inazuma Eleven Go: Galaxy",
+          "url": "https://myanimelist.net/anime/18097/Inazuma_Eleven_Go__Galaxy"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 15785,
+          "type": "anime",
+          "name": "Inazuma Eleven Go vs. Danball Senki W Movie",
+          "url": "https://myanimelist.net/anime/15785/Inazuma_Eleven_Go_vs_Danball_Senki_W_Movie"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Jounetsu de Mune ATSU! (情熱で胸アツ!)\" by T-Pistonz+KMC (eps 1-17)",
+      "2: \"Kandou Kyouyuu! (感動共有!)\" by T-Pistonz+KMC (eps 2-18)",
+      "3: \"Shoshin wo KEEP ON! (初心をKEEP ON!)\" by T-Pistonz+KMC (eps 19-35)",
+      "4: \"Raimei! Blue Train! (ライメイ! ブルートレイン)\" by T-Pistonz+KMC (eps 36-51)"
+    ],
+    "endings": [
+      "1: \"Natsu ga Yattekuru (夏がやってくる)\" by Aoi Sorano (CV: Sayaka Kitahara) (eps 1-18)",
+      "2: \"Te wo Tsunagou\" by Aoi Sorano (CV: Sayaka Kitahara), Matsukaze Tenma (CV: Terasaki Yuka), Tsurugi Kyousuke (CV: Oohara Takashi) (eps 19-35)",
+      "3: \"Bokutachi no Shiro (僕たちの城)\" by Inazuma Eleven GO Allstars (Matsukaze Tenma [CV: Terasaki Yuka], Tsurugi Kyousuke [CV: Oohara Takashi], Shindou Takuto [CV: Mitsuki Saiga], Kirino Ranmaru [CV: Kobayashi Yuu], Nishizono Shinsuke [CV: Tomatsu",
+      "4: \"Seishun oden (青春おでん)\" by Aoi Sorano (Sayaka Kitahara) & Midori Seto (Mina) & Akane Yamada (Yurin) & Kinako Nanobana (Aoi Yuuki) (eps 40-51)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.inazuma.jp/go2/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9045"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14151"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8A%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3GO"
+    }
+  ],
+  "streaming": []
+}

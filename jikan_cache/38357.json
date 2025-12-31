@@ -1,0 +1,203 @@
+{
+  "mal_id": 38357,
+  "url": "https://myanimelist.net/anime/38357/Majimoji_Rurumo__Kanketsu-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1375/109425.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1375/109425t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1375/109425l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1375/109425.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1375/109425t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1375/109425l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/SrBRDVFPWYM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Majimoji Rurumo: Kanketsu-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Majimoji Rurumo OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Majimoji Rurumo OAD"
+    },
+    {
+      "type": "Synonym",
+      "title": "Magimoji Rurumo OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Magimoji Rurumo OAD"
+    },
+    {
+      "type": "Japanese",
+      "title": "まじもじるるも 完結編"
+    }
+  ],
+  "title": "Majimoji Rurumo: Kanketsu-hen",
+  "title_english": null,
+  "title_japanese": "まじもじるるも 完結編",
+  "title_synonyms": [
+    "Majimoji Rurumo OVA",
+    "Majimoji Rurumo OAD",
+    "Magimoji Rurumo OVA",
+    "Magimoji Rurumo OAD"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-09T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 9, 2019"
+  },
+  "duration": "27 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.4,
+  "scored_by": 4392,
+  "rank": 2447,
+  "popularity": 7103,
+  "members": 10016,
+  "favorites": 16,
+  "synopsis": "Bundled with the with the ninth limited edition volume of the Majimoji Rurumo: Houkago no Mahou Chuugakusei manga.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 23945,
+          "type": "anime",
+          "name": "Majimoji Rurumo",
+          "url": "https://myanimelist.net/anime/23945/Majimoji_Rurumo"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 13254,
+          "type": "manga",
+          "name": "Majimoji Rurumo",
+          "url": "https://myanimelist.net/manga/13254/Majimoji_Rurumo"
+        },
+        {
+          "mal_id": 42925,
+          "type": "manga",
+          "name": "Majimoji Rurumo: Makai-hen",
+          "url": "https://myanimelist.net/manga/42925/Majimoji_Rurumo__Makai-hen"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Futari no Chronostasis (ふたりのクロノスタシス)\" by Yurika Endou"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14406"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Magimoji_Rurumo"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-261711"
+    }
+  ]
+}

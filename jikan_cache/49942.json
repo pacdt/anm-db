@@ -1,0 +1,147 @@
+{
+  "mal_id": 49942,
+  "url": "https://myanimelist.net/anime/49942/Tales_of_Luminaria__The_Fateful_Crossroad",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1544/120624.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/120624t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/120624l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1544/120624.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/120624t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/120624l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WklEHDfEq24?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tales of Luminaria: The Fateful Crossroad"
+    },
+    {
+      "type": "Japanese",
+      "title": "TALES OF LUMINARIA The Fateful Crossroad"
+    },
+    {
+      "type": "English",
+      "title": "Tales of Luminaria the Fateful Crossroad"
+    }
+  ],
+  "title": "Tales of Luminaria: The Fateful Crossroad",
+  "title_english": "Tales of Luminaria the Fateful Crossroad",
+  "title_japanese": "TALES OF LUMINARIA The Fateful Crossroad",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-01-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 1,
+        "year": 2022
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 21, 2022"
+  },
+  "duration": "27 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.16,
+  "scored_by": 2033,
+  "rank": 9425,
+  "popularity": 8481,
+  "members": 6431,
+  "favorites": 12,
+  "synopsis": "Long ago, this land was home to beasts the size of mountains that have now become petrified. Mana overflowed from their remains, drawing people who sought its power, and civilizations sprang up. People came to revere these mana-producing creatures, which they named 'Primordial Beasts'. They built their lives around them. Thus began the worship of the Primordial Beasts.\n\nTime flowed ever onward, to the present day... War erupts between the Jerle Federation, an alliance of countries who worship the Primordial Beasts, and the Gildllan Empire, which has enjoyed explosive development thanks to advanced technology. The fires of war burn ever brighter.\n\nThe special animated feature will tell an important juncture in the story of Luminaria, congealing and bringing to life the game's theme of \"confronting antagonistic ideas of justice\"!\n\n(Source: Official website)",
+  "background": "Based on Bandai Namco Entertainment's Tales of Luminaria mobile RPG, part of the Tales of series.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 298,
+      "type": "anime",
+      "name": "Anima",
+      "url": "https://myanimelist.net/anime/producer/298/Anima"
+    },
+    {
+      "mal_id": 437,
+      "type": "anime",
+      "name": "Kamikaze Douga",
+      "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://luminaria-en.tales-ch.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16796"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24771"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tales_of_Luminaria"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%83%AB%E3%83%9F%E3%83%8A%E3%83%AA%E3%82%A2"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282295"
+    }
+  ]
+}

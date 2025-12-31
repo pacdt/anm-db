@@ -1,0 +1,241 @@
+{
+  "mal_id": 49040,
+  "url": "https://myanimelist.net/anime/49040/Lupin_III__Part_6",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1976/118542.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/118542t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/118542l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1976/118542.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/118542t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/118542l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/JvsZQmvq1ms?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lupin III: Part 6"
+    },
+    {
+      "type": "Synonym",
+      "title": "Lupin III: Part VI"
+    },
+    {
+      "type": "Synonym",
+      "title": "Lupin Sansei Part VI"
+    },
+    {
+      "type": "Japanese",
+      "title": "ルパン三世 PART6"
+    },
+    {
+      "type": "English",
+      "title": "Lupin the Third Part 6"
+    }
+  ],
+  "title": "Lupin III: Part 6",
+  "title_english": "Lupin the Third Part 6",
+  "title_japanese": "ルパン三世 PART6",
+  "title_synonyms": [
+    "Lupin III: Part VI",
+    "Lupin Sansei Part VI"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-17T00:00:00+00:00",
+    "to": "2022-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2022
+      }
+    },
+    "string": "Oct 17, 2021 to Mar 27, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.2,
+  "scored_by": 6687,
+  "rank": 3522,
+  "popularity": 4908,
+  "members": 25061,
+  "favorites": 141,
+  "synopsis": "The infamous Arsene Lupin III takes his gang of thieves to Great Britain to investigate the existence of the Raven's hidden treasure. The Raven, an underground society rumored to be pulling the strings behind the British government, has evaded Lupin's grasp for nearly 10 years. But finding clues proves difficult when he is pursued by not only Interpol's Inspector Kouichi Zenigata but also the MI6, Scotland Yard, and Britain's finest: the consulting detective Sherlock Holmes, who appears to have his own score to settle with the gentleman thief.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2841,
+      "type": "anime",
+      "name": "Maruga Factory",
+      "url": "https://myanimelist.net/anime/producer/2841/Maruga_Factory"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 35857,
+          "type": "anime",
+          "name": "Lupin III: Part 5",
+          "url": "https://myanimelist.net/anime/35857/Lupin_III__Part_5"
+        },
+        {
+          "mal_id": 50094,
+          "type": "anime",
+          "name": "Lupin III: Part 6 - Jidai",
+          "url": "https://myanimelist.net/anime/50094/Lupin_III__Part_6_-_Jidai"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"THEME FROM LUPIN III 2021\" by Yuji Ohno & Lupintic Six with Friends"
+    ],
+    "endings": [
+      "\"MILK TEA \" by Akari Dritschler",
+      "2: \"BITTER RAIN\" by Sakura Fujiwara"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://lupin-pt6.com/"
+    },
+    {
+      "name": "Official Site",
+      "url": "https://www.lupinpart6.com/"
+    },
+    {
+      "name": "@lupin_anime",
+      "url": "https://twitter.com/lupin_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16350"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24385"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lupin_the_3rd_Part_6"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%91%E3%83%B3%E4%B8%89%E4%B8%96_PART6"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6141"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/337430"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281936"
+    },
+    {
+      "name": "HIDIVE",
+      "url": "https://www.hidive.com/tv/lupin-the-3rd-part-6?q=Lupin+the+3rd%3A+Part+6"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "mal_id": 2559,
+  "url": "https://myanimelist.net/anime/2559/Romeo_no_Aoi_Sora",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/17979.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/17979t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/17979l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/17979.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/17979t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/17979l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Romeo no Aoi Sora"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sekai Meisaku Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Romeo and the Black Brothers"
+    },
+    {
+      "type": "Synonym",
+      "title": "Romio no Aoi Sora"
+    },
+    {
+      "type": "Japanese",
+      "title": "ロミオの青い空"
+    },
+    {
+      "type": "English",
+      "title": "Romeo's Blue Skies"
+    }
+  ],
+  "title": "Romeo no Aoi Sora",
+  "title_english": "Romeo's Blue Skies",
+  "title_japanese": "ロミオの青い空",
+  "title_synonyms": [
+    "Sekai Meisaku Gekijou",
+    "Romeo and the Black Brothers",
+    "Romio no Aoi Sora"
+  ],
+  "type": "TV",
+  "source": "Novel",
+  "episodes": 33,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1995-01-15T00:00:00+00:00",
+    "to": "1995-12-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 1,
+        "year": 1995
+      },
+      "to": {
+        "day": 17,
+        "month": 12,
+        "year": 1995
+      }
+    },
+    "string": "Jan 15, 1995 to Dec 17, 1995"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.31,
+  "scored_by": 18904,
+  "rank": 290,
+  "popularity": 3307,
+  "members": 55258,
+  "favorites": 689,
+  "synopsis": "Romeo is a kindhearted and courageous boy living with his family in a small village in Switzerland. Unfortunately, Romeo becomes the interest of a man named Luini, known as \"The God of Death,\" who is infamous for buying children and selling them as chimney sweeps in Milan. While visiting the village, Luini burns down Romeo's family cornfield in an attempt to have Romeo as his own. With the cornfield gone and his father sustaining a head injury trying to put out the fire, Romeo bravely sells himself to the God of Death in order to help his family afford a doctor. \n\nOn his way to Milan, Romeo meets a boy named Alfredo Martini and they quickly become friends. Just as Alfredo is sold to a different master, the two boys swear eternal friendship and vow to meet again. As a chimney sweep, Romeo faces many hardships and abuse, especially from his master's family and a gang known as the Wolf Pack. But after reuniting with Alfredo, the two form a fraternity of chimney sweeps called \"The Black Brothers,\" who will learn to fight against the Wolf Pack and help each other in times of need.\n\n[Written by MAL Rewrite]",
+  "background": "Romeo no Aoi Sora is based on the 1941 German novel Die schwarzen Brüder by Lisa Tetzner.",
+  "season": "winter",
+  "year": 1995,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 19:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 310,
+      "type": "anime",
+      "name": "AnimEigo",
+      "url": "https://myanimelist.net/anime/producer/310/AnimEigo"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Nippon Animation",
+      "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 23581,
+          "type": "anime",
+          "name": "Romeo no Aoi Sora Specials",
+          "url": "https://myanimelist.net/anime/23581/Romeo_no_Aoi_Sora_Specials"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Sora e...\" by Hiroko Kasahara"
+    ],
+    "endings": [
+      "\"Si Si Ciao -Romana no Oka de-\" by Hiroko Kasahara"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.nippon-animation.co.jp/work/1713/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2023"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2019"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Romeo's_Blue_Skies"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9F%E3%82%AA%E3%81%AE%E9%9D%92%E3%81%84%E7%A9%BA"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/721"
+    }
+  ],
+  "streaming": []
+}

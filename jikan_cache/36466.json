@@ -1,0 +1,207 @@
+{
+  "mal_id": 36466,
+  "url": "https://myanimelist.net/anime/36466/Digimon_Adventure_tri_6__Bokura_no_Mirai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/88936.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88936t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88936l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/88936.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88936t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88936l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1w-rHlqTWQs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Digimon Adventure tri. 6: Bokura no Mirai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Digimon tri. 6"
+    },
+    {
+      "type": "Japanese",
+      "title": "デジモンアドベンチャーtri.（トライ）第６章「ぼくらの未来」"
+    },
+    {
+      "type": "English",
+      "title": "Digimon Adventure tri. Future"
+    },
+    {
+      "type": "German",
+      "title": "Digimon Adventure tri. Film 6 - Our Future"
+    },
+    {
+      "type": "Spanish",
+      "title": "Digimon Adventure tri Película 6: Nuestro Futuro"
+    },
+    {
+      "type": "French",
+      "title": "Digimon Adventure tri. Film 6: Bokura no Mirai"
+    }
+  ],
+  "title": "Digimon Adventure tri. 6: Bokura no Mirai",
+  "title_english": "Digimon Adventure tri. Future",
+  "title_japanese": "デジモンアドベンチャーtri.（トライ）第６章「ぼくらの未来」",
+  "title_synonyms": [
+    "Digimon tri. 6"
+  ],
+  "type": "Movie",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-05-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 5,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "May 5, 2018"
+  },
+  "duration": "1 hr 38 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.21,
+  "scored_by": 25792,
+  "rank": 3417,
+  "popularity": 3491,
+  "members": 50342,
+  "favorites": 53,
+  "synopsis": "The Chosen Children are distraught; believing they have lost one of their friends, the group struggles to find a way to defeat the rampaging Ordinemon. With few options left, they turn to Yamato Ishida for guidance and leadership, but Yamato himself is unsure of what to do.\n\nDetermined to save the world despite their tragedy, Yamato and his friends must take on the ferocious digital monster. As some of the children are missing their partners, they are at a significant disadvantage. Nevertheless, the Chosen Children resolve to fight until the end to secure their future and that of their friends.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1858,
+      "type": "anime",
+      "name": "Sonilude",
+      "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1737,
+      "type": "anime",
+      "name": "Shout! Factory",
+      "url": "https://myanimelist.net/anime/producer/1737/Shout_Factory"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 34962,
+          "type": "anime",
+          "name": "Digimon Adventure tri. 5: Kyousei",
+          "url": "https://myanimelist.net/anime/34962/Digimon_Adventure_tri_5__Kyousei"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 41206,
+          "type": "anime",
+          "name": "Digimon Adventure: 20-shuunen Memorial Story",
+          "url": "https://myanimelist.net/anime/41206/Digimon_Adventure__20-shuunen_Memorial_Story"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Butter-Fly ~tri.Version~\" by Erabareshi Kodomo-tachi, Digimon Singers (Saying), Ayumi Miyazaki, AiM with Koji Wada"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.toei-anim.co.jp/movie/digimon-adventure/tri/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10764"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20474"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Digimon_Adventure_tri."
+    }
+  ],
+  "streaming": []
+}

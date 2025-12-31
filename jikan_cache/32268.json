@@ -1,0 +1,248 @@
+{
+  "mal_id": 32268,
+  "url": "https://myanimelist.net/anime/32268/Koyomimonogatari",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/77744t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/77744l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/77744.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/77744t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/77744l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koyomimonogatari"
+    },
+    {
+      "type": "Synonym",
+      "title": "Calendar Story"
+    },
+    {
+      "type": "Japanese",
+      "title": "暦物語"
+    },
+    {
+      "type": "English",
+      "title": "Koyomimonogatari"
+    }
+  ],
+  "title": "Koyomimonogatari",
+  "title_english": "Koyomimonogatari",
+  "title_japanese": "暦物語",
+  "title_synonyms": [
+    "Calendar Story"
+  ],
+  "type": "ONA",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-01-10T00:00:00+00:00",
+    "to": "2016-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2016
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2016
+      }
+    },
+    "string": "Jan 10, 2016 to Mar 27, 2016"
+  },
+  "duration": "12 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.61,
+  "scored_by": 145812,
+  "rank": 1634,
+  "popularity": 1028,
+  "members": 267242,
+  "favorites": 371,
+  "synopsis": "Whether it is investigating stone shrines, tracking rumors, or simply playing hide and seek, Koyomi Araragi is always there to fulfill the requests of his friends from both the human and supernatural worlds. In this series of short stories, Koyomi helps each of the girls in his cohort solve a mystery or kill some time, all while slowly unraveling the truth about his town and its many supernatural occurrences.\n\n[Written by MAL Rewrite]",
+  "background": "Koyomimonogatari adapts the second volume of NisiOisiN's Monogatari Series: Final Season.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 31181,
+          "type": "anime",
+          "name": "Owarimonogatari",
+          "url": "https://myanimelist.net/anime/31181/Owarimonogatari"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 35247,
+          "type": "anime",
+          "name": "Owarimonogatari 2nd Season",
+          "url": "https://myanimelist.net/anime/35247/Owarimonogatari_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 44227,
+          "type": "manga",
+          "name": "Monogatari Series: Final Season",
+          "url": "https://myanimelist.net/manga/44227/Monogatari_Series__Final_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 5081,
+          "type": "anime",
+          "name": "Bakemonogatari",
+          "url": "https://myanimelist.net/anime/5081/Bakemonogatari"
+        },
+        {
+          "mal_id": 11597,
+          "type": "anime",
+          "name": "Nisemonogatari",
+          "url": "https://myanimelist.net/anime/11597/Nisemonogatari"
+        },
+        {
+          "mal_id": 15689,
+          "type": "anime",
+          "name": "Nekomonogatari: Kuro",
+          "url": "https://myanimelist.net/anime/15689/Nekomonogatari__Kuro"
+        },
+        {
+          "mal_id": 17074,
+          "type": "anime",
+          "name": "Monogatari Series: Second Season",
+          "url": "https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season"
+        },
+        {
+          "mal_id": 28025,
+          "type": "anime",
+          "name": "Tsukimonogatari",
+          "url": "https://myanimelist.net/anime/28025/Tsukimonogatari"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"perfect slumbers\" by Yui Horie (eps 1)",
+      "2: \"staple stable\" by Chiwa Saito (eps 2)",
+      "3: \"Kaerimichi (帰り道)\" by Emiri Katou (eps 3)",
+      "4: \"ambivalent world\" by Miyuki Sawashiro (eps 4)",
+      "5: \"Ren'ai Circulation (恋愛サーキュレーション)\" by Kana Hanazawa (eps 5)",
+      "6: \"marshmallow justice\" by Eri Kitamura (eps 6)",
+      "7: \"Platinum Disco (白金ディスコ)\" by Yuka Iguchi (eps 7)",
+      "8: \"decent black\" by Kaori Mizuhashi (eps 8)",
+      "9: \"mein schatz\" by meg rock (eps 9)",
+      "10: \"Orange Mint (オレンジミント)\" by Saori Hayami (eps 10)"
+    ],
+    "endings": [
+      "\"whiz\" by TrySail"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.monogatari-series.com/koyomimonogatari/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11827"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17938"
+    }
+  ],
+  "streaming": []
+}

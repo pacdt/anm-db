@@ -1,0 +1,153 @@
+{
+  "mal_id": 671,
+  "url": "https://myanimelist.net/anime/671/Lemon_Angel_Project",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/36417.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/36417t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/36417l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/36417.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/36417t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/36417l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lemon Angel Project"
+    },
+    {
+      "type": "Japanese",
+      "title": "レモン エンジェル プロジェクト"
+    }
+  ],
+  "title": "Lemon Angel Project",
+  "title_english": null,
+  "title_japanese": "レモン エンジェル プロジェクト",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Other",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-01-06T00:00:00+00:00",
+    "to": "2006-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2006
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Jan 6, 2006 to Mar 31, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 6.49,
+  "scored_by": 3370,
+  "rank": 7408,
+  "popularity": 7254,
+  "members": 9502,
+  "favorites": 18,
+  "synopsis": "Lemon Angel was once the greatest girl band of Japan, but then it broke up and most of its members vanished. When a music producer decides to put together a new Lemon Angel, average high schooler Tomo Minaguchi is approached to audition for the group. Little does she know of the mystery behind the original Lemon Angel...\n\n(Source: ANN)",
+  "background": "This series is loosely based on the 80's J-pop group Lemon Angel.",
+  "season": "winter",
+  "year": 2006,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 81,
+      "type": "anime",
+      "name": "Radix",
+      "url": "https://myanimelist.net/anime/producer/81/Radix"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "1: \"Angel Addict\" by Ryou Shihono, Ami Koshimizu, Miki Maruyama (eps 1-5)",
+      "2: \"Angel Addict\" by Mai Kadowaki (eps 06)",
+      "3: \"Angel Addict\" by Juri Hirama (eps 07)",
+      "4: \"Angel Addict\" by Ryou Shihono (eps 08)",
+      "5: \"Angel Addict\" by Minori Chihara (eps 09)",
+      "6: \"Angel Addict\" by Ami Koshimizu (eps 10)",
+      "7: \"Angel Addict\" by Miki Maruyama (eps 11)",
+      "8: \"Angel Addict\" by Kaori Shimizu, Ryou Shihono (eps 12)",
+      "9: \"Angel Addict\" by Ryou Shihono, Mai Kadowaki, Ami Koshimizu, Minori Chihara, Juri Hirama, Miki Maruyama (eps 13)"
+    ],
+    "endings": [
+      "\"Girls in Love~Koi suru Kimochi~\" by Nao Nagasawa"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.lemon-angel-project.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4023"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6095"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Lemon_Angel_Project"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,215 @@
+{
+  "mal_id": 25939,
+  "url": "https://myanimelist.net/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/72718.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/72718t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/72718l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/72718.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/72718t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/72718l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pLTKJ9y68_0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mahou Shoujo Lyrical Nanoha ViVid"
+    },
+    {
+      "type": "Synonym",
+      "title": "Magical Girl Lyrical Nanoha ViVid"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔法少女リリカルなのはViVid"
+    }
+  ],
+  "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+  "title_english": null,
+  "title_japanese": "魔法少女リリカルなのはViVid",
+  "title_synonyms": [
+    "Magical Girl Lyrical Nanoha ViVid"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-04-03T00:00:00+00:00",
+    "to": "2015-06-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2015
+      },
+      "to": {
+        "day": 19,
+        "month": 6,
+        "year": 2015
+      }
+    },
+    "string": "Apr 3, 2015 to Jun 19, 2015"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.71,
+  "scored_by": 10955,
+  "rank": 6027,
+  "popularity": 4644,
+  "members": 28550,
+  "favorites": 46,
+  "synopsis": "Vivio Takamachi, a Sankt Kaiser royalty of ancient Belka, was previously subjected to mistreatment. Fortunately, she now lives a peaceful life with family and friends while practicing martial arts with her coach, Nove Nakajima. However, Vivio soon becomes the target of the mysterious fighter Heidi E. S. Ingvalt, who demands Nove to reveal the location of the ancient Belkan royals. Refusing to disclose this information, Nove finds herself in a losing battle but Heidi soon falls unconscious. In addition, Nove discovers Heidi's true identity to be a middle school student named Einhald Stratos.\n\nWhen she regains consciousness, Einhald clarifies that she has no animosity toward ancient Belkan royals. Having inherited the passion to defend and harboring regretful memories of her ancestor, the ancient Belkan ruler Claus Ingvalt, she simply wants to prove that her fighting ability is strong enough to protect others. Intrigued by the girl's situation, Nove arranges for Einhald to meet with Vivio. Although they get off to an unconventional start, Vivio enthusiastically trains with Einhald, assisting her in finding peace of mind while developing a vivid friendship along the way.\n\n[Written by MAL Rewrite]",
+  "background": "Mahou Shoujo Lyrical Nanoha ViVid was released on Blu-ray in Japan on November 23, 2016,.",
+  "season": "spring",
+  "year": 2015,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 1915,
+          "type": "anime",
+          "name": "Mahou Shoujo Lyrical Nanoha StrikerS",
+          "url": "https://myanimelist.net/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 14238,
+          "type": "manga",
+          "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+          "url": "https://myanimelist.net/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 33589,
+          "type": "anime",
+          "name": "ViVid Strike!",
+          "url": "https://myanimelist.net/anime/33589/ViVid_Strike"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 31137,
+          "type": "anime",
+          "name": "Mahou Shoujo Lyrical Nanoha ViVid: Special Program",
+          "url": "https://myanimelist.net/anime/31137/Mahou_Shoujo_Lyrical_Nanoha_ViVid__Special_Program"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Angel Blossom\" by Nana Mizuki"
+    ],
+    "endings": [
+      "\"Pleasure treasure\" by Yukari Tamura"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.nanoha-vivid.tv/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10795"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16298"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magical_Girl_Lyrical_Nanoha_ViVid"
+    }
+  ],
+  "streaming": []
+}

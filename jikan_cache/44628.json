@@ -1,0 +1,142 @@
+{
+  "mal_id": 44628,
+  "url": "https://myanimelist.net/anime/44628/Quanzhi_Fashi__Q_Ban_Xiao_Juchang_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1937/123047.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/123047t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/123047l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1937/123047.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/123047t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/123047l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Quanzhi Fashi: Q Ban Xiao Juchang 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Quan Zhi Fa Shi: Q Ban Xiao Ju Chang 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "全职法师Q版小剧场 第2季"
+    }
+  ],
+  "title": "Quanzhi Fashi: Q Ban Xiao Juchang 2nd Season",
+  "title_english": null,
+  "title_japanese": "全职法师Q版小剧场 第2季",
+  "title_synonyms": [
+    "Quan Zhi Fa Shi: Q Ban Xiao Ju Chang 2nd Season"
+  ],
+  "type": "ONA",
+  "source": "Web novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-09-15T00:00:00+00:00",
+    "to": "2017-11-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 9,
+        "year": 2017
+      },
+      "to": {
+        "day": 24,
+        "month": 11,
+        "year": 2017
+      }
+    },
+    "string": "Sep 15, 2017 to Nov 24, 2017"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6,
+  "scored_by": 132,
+  "rank": 10309,
+  "popularity": 17065,
+  "members": 600,
+  "favorites": 0,
+  "synopsis": null,
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 44627,
+          "type": "anime",
+          "name": "Quanzhi Fashi: Q Ban Xiao Juchang",
+          "url": "https://myanimelist.net/anime/44627/Quanzhi_Fashi__Q_Ban_Xiao_Juchang"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 36318,
+          "type": "anime",
+          "name": "Quanzhi Fashi II",
+          "url": "https://myanimelist.net/anime/36318/Quanzhi_Fashi_II"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://v.qq.com/x/cover/pw6ma2qsl4c8jun/y0024vaasy5.html?ptag=10524"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13469"
+    }
+  ],
+  "streaming": []
+}

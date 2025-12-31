@@ -1,0 +1,197 @@
+{
+  "mal_id": 33562,
+  "url": "https://myanimelist.net/anime/33562/Heibai_Wushuang",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/88093.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88093t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88093l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/88093.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88093t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88093l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xaPuIWm56GA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Heibai Wushuang"
+    },
+    {
+      "type": "Synonym",
+      "title": "Black and White Warriors"
+    },
+    {
+      "type": "Japanese",
+      "title": "黑白无双"
+    },
+    {
+      "type": "English",
+      "title": "The Unparalleled Black & White"
+    }
+  ],
+  "title": "Heibai Wushuang",
+  "title_english": "The Unparalleled Black & White",
+  "title_japanese": "黑白无双",
+  "title_synonyms": [
+    "Black and White Warriors"
+  ],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-09T00:00:00+00:00",
+    "to": "2016-02-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 25,
+        "month": 2,
+        "year": 2016
+      }
+    },
+    "string": "Jul 9, 2015 to Feb 25, 2016"
+  },
+  "duration": "10 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.13,
+  "scored_by": 1613,
+  "rank": 9562,
+  "popularity": 6412,
+  "members": 12761,
+  "favorites": 25,
+  "synopsis": "A story about two young demons who are always slacking off at work, a place that happens to be an organization that vows to keep the balance between the worlds of the living and dead by killing humans!\n\n(Source: Cave Scanlations)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1772,
+      "type": "anime",
+      "name": "Wawayu Animation",
+      "url": "https://myanimelist.net/anime/producer/1772/Wawayu_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 36544,
+          "type": "anime",
+          "name": "Heibai Wushuang 2nd Season",
+          "url": "https://myanimelist.net/anime/36544/Heibai_Wushuang_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 47695,
+          "type": "manga",
+          "name": "Heibai Wushuang",
+          "url": "https://myanimelist.net/manga/47695/Heibai_Wushuang"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://heibai.dmzj.com/"
+    },
+    {
+      "name": "Official Site",
+      "url": "https://weibo.com/u/5670693244"
+    },
+    {
+      "name": "Official Site",
+      "url": "https://www.wawayu.tv/production/18.html"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/watch?v=5WOeP-e0eDI&t=1s"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md3252"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13428"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/127166"
+    },
+    {
+      "name": "Baidu Baike",
+      "url": "https://baike.baidu.com/item/%E9%BB%91%E7%99%BD%E6%97%A0%E5%8F%8C/17752585"
+    },
+    {
+      "name": "Douban",
+      "url": "https://movie.douban.com/subject/26470088/"
+    },
+    {
+      "name": "Moegirl",
+      "url": "https://zh.moegirl.org.cn/%E9%BB%91%E7%99%BD%E6%97%A0%E5%8F%8C"
+    }
+  ],
+  "streaming": []
+}

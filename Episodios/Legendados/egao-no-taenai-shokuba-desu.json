@@ -1,77 +1,89 @@
 {
-    "nome": "Egao no Taenai Shokuba desu.",
-    "slug": "egao-no-taenai-shokuba-desu",
-    "imagem": "https://animefire.plus/img/animes/egao-no-taenai-shokuba-desu.webp",
-    "total_episodios": 10,
-    "episodios": [
-        {
-            "numero": 1,
-            "url": "https://lightspeedst.net/s5/mp4_temp/egao-no-taenai-shokuba-desu/1/720p.mp4",
-            "nome": "A Certain Mangaka and Her Editor."
-        },
-        {
-            "numero": 2,
-            "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/2.mp4",
-            "nome": "She's a Truly Dependable Assistant"
-        },
-        {
-            "numero": 3,
-            "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/3.mp4",
-            "nome": "I'm So Swamped, I'd Even Take Help from a Cat"
-        },
-        {
-            "numero": 4,
-            "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/4.mp4",
-            "nome": "It's a Job I Can't Do Alone"
-        },
-        {
-            "numero": 5,
-            "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/5.mp4",
-            "nome": "My Senpai Calls Herself My Rival"
-        },
-        {
-            "numero": 6,
-            "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/6.mp4",
-            "nome": "It's a Strange Dynamic Between the Three of Us"
-        },
-        {
-            "numero": 7,
-            "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/7.mp4",
-            "nome": "I Didn't See It Coming"
-        },
-        {
-            "numero": 8,
-            "url": "https://lightspeedst.net/s2/mp4/egao-no-taenai-shokuba-desu/hd/8.mp4",
-            "nome": "This Is Also Part of a Mangaka's Work"
-        },
-        {
-            "numero": 9,
-            "url": "https://lightspeedst.net/s2/mp4/egao-no-taenai-shokuba-desu/hd/9.mp4",
-            "nome": "A Treasure I Found on a Walk."
-        },
-        {
-            "numero": 10,
-            "url": "https://lightspeedst.net/s2/mp4_temp/egao-no-taenai-shokuba-desu/10/720p.mp4"
-        }
-    ],
-    "metadata_completo": {
-        "titulo_oficial": "Egao no Taenai Shokuba desu.",
-        "titulo_ingles": "A Mangaka's Weirdly Wonderful Workplace",
-        "generos": [
-            "Comedy"
-        ],
-        "classificacao": "PG-13 - Teens 13 or older",
-        "popularidade": 5569,
-        "nota_media": 6.88,
-        "sinopse": "New shoujo manga artist Nana Futami works hard every day while being supported by Kaede Satou, her female editor who is older than her, and Mizuki Hazama, her assistant. According to the girl herself, she sometimes drums up intense daydream delusions of occupational illness! A working girls comedy set in the entertainment industry, brought to you by an author who always draws various girls.\n\n(Source: Kodansha, translated)",
-        "ano": 2025,
-        "status": "Currently Airing",
-        "imagem_capa": "https://cdn.myanimelist.net/images/anime/1617/151874.jpg",
-        "id_mal": 57859
+  "nome": "Egao no Taenai Shokuba desu.",
+  "slug": "egao-no-taenai-shokuba-desu",
+  "imagem": "https://animefire.plus/img/animes/egao-no-taenai-shokuba-desu.webp",
+  "episodios": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s5/mp4_temp/egao-no-taenai-shokuba-desu/1/720p.mp4",
+      "nome": "A Certain Mangaka and Her Editor."
     },
+    {
+      "numero": 2,
+      "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/2.mp4",
+      "nome": "She's a Truly Dependable Assistant"
+    },
+    {
+      "numero": 3,
+      "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/3.mp4",
+      "nome": "I'm So Swamped, I'd Even Take Help from a Cat"
+    },
+    {
+      "numero": 4,
+      "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/4.mp4",
+      "nome": "It's a Job I Can't Do Alone"
+    },
+    {
+      "numero": 5,
+      "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/5.mp4",
+      "nome": "My Senpai Calls Herself My Rival"
+    },
+    {
+      "numero": 6,
+      "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/6.mp4",
+      "nome": "It's a Strange Dynamic Between the Three of Us"
+    },
+    {
+      "numero": 7,
+      "url": "https://lightspeedst.net/s5/mp4/egao-no-taenai-shokuba-desu/hd/7.mp4",
+      "nome": "I Didn't See It Coming"
+    },
+    {
+      "numero": 8,
+      "url": "https://lightspeedst.net/s2/mp4/egao-no-taenai-shokuba-desu/hd/8.mp4",
+      "nome": "This Is Also Part of a Mangaka's Work"
+    },
+    {
+      "numero": 9,
+      "url": "https://lightspeedst.net/s2/mp4/egao-no-taenai-shokuba-desu/hd/9.mp4",
+      "nome": "A Treasure I Found on a Walk."
+    },
+    {
+      "numero": 10,
+      "url": "https://lightspeedst.net/s2/mp4_temp/egao-no-taenai-shokuba-desu/10/720p.mp4"
+    },
+    {
+      "numero": 11,
+      "url": "https://lightspeedst.net/s2/mp4_temp/egao-no-taenai-shokuba-desu/11/720p.mp4"
+    },
+    {
+      "numero": 12,
+      "url": "https://lightspeedst.net/s2/mp4_temp/egao-no-taenai-shokuba-desu/12/720p.mp4"
+    },
+    {
+      "numero": 13,
+      "url": "https://lightspeedst.net/s2/mp4/egao-no-taenai-shokuba-desu/hd/13.mp4"
+    }
+  ],
+  "total_episodios": 10,
+  "metadata_completo": {
+    "titulo_oficial": "Egao no Taenai Shokuba desu.",
+    "titulo_ingles": "A Mangaka's Weirdly Wonderful Workplace",
     "generos": [
-        "Comedy"
+      "Comedy"
     ],
-    "nota": 6.88,
-    "ano": 2025
+    "classificacao": "PG-13 - Teens 13 or older",
+    "popularidade": 5569,
+    "nota_media": 6.88,
+    "sinopse": "New shoujo manga artist Nana Futami works hard every day while being supported by Kaede Satou, her female editor who is older than her, and Mizuki Hazama, her assistant. According to the girl herself, she sometimes drums up intense daydream delusions of occupational illness! A working girls comedy set in the entertainment industry, brought to you by an author who always draws various girls.\n\n(Source: Kodansha, translated)",
+    "ano": 2025,
+    "status": "Currently Airing",
+    "imagem_capa": "https://cdn.myanimelist.net/images/anime/1617/151874.jpg",
+    "id_mal": 57859
+  },
+  "generos": [
+    "Comedy"
+  ],
+  "nota": 6.88,
+  "ano": 2025
 }

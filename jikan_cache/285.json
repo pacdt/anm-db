@@ -1,0 +1,207 @@
+{
+  "mal_id": 285,
+  "url": "https://myanimelist.net/anime/285/Argento_Soma",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/9440.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/9440t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/9440l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/9440.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/9440t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/9440l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/D8wYxHJ57iE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Argento Soma"
+    },
+    {
+      "type": "Synonym",
+      "title": "AΠHENTO ΣOMA"
+    },
+    {
+      "type": "Japanese",
+      "title": "アルジェント ソーマ"
+    }
+  ],
+  "title": "Argento Soma",
+  "title_english": null,
+  "title_japanese": "アルジェント ソーマ",
+  "title_synonyms": [
+    "AΠHENTO ΣOMA"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-10-06T00:00:00+00:00",
+    "to": "2001-03-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2000
+      },
+      "to": {
+        "day": 22,
+        "month": 3,
+        "year": 2001
+      }
+    },
+    "string": "Oct 6, 2000 to Mar 22, 2001"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.74,
+  "scored_by": 7993,
+  "rank": 5864,
+  "popularity": 4521,
+  "members": 30390,
+  "favorites": 91,
+  "synopsis": "The 21st century was supposed to mark the beginning of mankind's golden age of space travel. However, humanity's lingering dreams of the stars are shelved when Earth suddenly comes under attack by alien entities. Trampling across the planet's surface, these giant invaders leave nothing but death and destruction in their wake.\n\nHaving suffered personal losses from the invasion, Takuto Kaneshiro joins the fight against the extraterrestrial enemies. In his quest for vengeance, the disillusioned young Takuto must seek out any possible allies, but the line between friend and foe is dangerously thin. When old powers crumble and new opportunities arise, many are prepared to capitalize on the chaos. Takuto soon realizes that the aliens may be the least complicated obstacle to uncovering the greater truth behind the catastrophic invasion.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2000,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:15 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 4176,
+          "type": "manga",
+          "name": "Argento Soma",
+          "url": "https://myanimelist.net/manga/4176/Argento_Soma"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 1789,
+          "type": "anime",
+          "name": "Argento Soma: Hitori to Hitori",
+          "url": "https://myanimelist.net/anime/1789/Argento_Soma__Hitori_to_Hitori"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Silent Wind\" by Eri Sugai (eps 1-24)"
+    ],
+    "endings": [
+      "1: \"Horizon\" by Sphere (eps 1-24)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=28"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=50"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=413"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Argento_Soma"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%BD%E3%83%BC%E3%83%9E"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/532"
+    }
+  ],
+  "streaming": []
+}

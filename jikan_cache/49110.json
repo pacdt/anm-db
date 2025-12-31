@@ -1,0 +1,221 @@
+{
+  "mal_id": 49110,
+  "url": "https://myanimelist.net/anime/49110/Yami_Shibai_9",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/115566.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/115566t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/115566l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/115566.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/115566t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/115566l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai 9"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories Ninth Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories 9"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居 九期"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai 9"
+    }
+  ],
+  "title": "Yami Shibai 9",
+  "title_english": "Theatre of Darkness: Yamishibai 9",
+  "title_japanese": "闇芝居 九期",
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories Ninth Season",
+    "Yamishibai: Japanese Ghost Stories 9"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-07-12T00:00:00+00:00",
+    "to": "2021-10-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 7,
+        "year": 2021
+      },
+      "to": {
+        "day": 4,
+        "month": 10,
+        "year": 2021
+      }
+    },
+    "string": "Jul 12, 2021 to Oct 4, 2021"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.92,
+  "scored_by": 5545,
+  "rank": 10769,
+  "popularity": 6165,
+  "members": 14059,
+  "favorites": 40,
+  "synopsis": "Ninth season of Yami Shibai.",
+  "background": "",
+  "season": "summer",
+  "year": 2021,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "03:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 03:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2056,
+      "type": "anime",
+      "name": "DRAWIZ",
+      "url": "https://myanimelist.net/anime/producer/2056/DRAWIZ"
+    },
+    {
+      "mal_id": 2438,
+      "type": "anime",
+      "name": "yell",
+      "url": "https://myanimelist.net/anime/producer/2438/yell"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 44208,
+          "type": "anime",
+          "name": "Yami Shibai 8",
+          "url": "https://myanimelist.net/anime/44208/Yami_Shibai_8"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 50599,
+          "type": "anime",
+          "name": "Yami Shibai 10",
+          "url": "https://myanimelist.net/anime/50599/Yami_Shibai_10"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 50046,
+          "type": "anime",
+          "name": "Yami Shibai: Furuido",
+          "url": "https://myanimelist.net/anime/50046/Yami_Shibai__Furuido"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"fall\" by Emi Okamoto (おかもとえみ)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.tv-tokyo.co.jp/anime/yamishibai9/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16363"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24416"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yamishibai:_Japanese_Ghost_Stories"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255589"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    }
+  ]
+}

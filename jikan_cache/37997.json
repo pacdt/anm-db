@@ -1,0 +1,204 @@
+{
+  "mal_id": 37997,
+  "url": "https://myanimelist.net/anime/37997/Devils_Line__Anytime_Anywhere",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1471/93329.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/93329t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/93329l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1471/93329.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/93329t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/93329l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Devils Line: Anytime Anywhere"
+    },
+    {
+      "type": "Synonym",
+      "title": "Devils Line OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "デビルズライン エニタイム エニウェア"
+    },
+    {
+      "type": "French",
+      "title": "Devils Line OAV"
+    }
+  ],
+  "title": "Devils Line: Anytime Anywhere",
+  "title_english": null,
+  "title_japanese": "デビルズライン エニタイム エニウェア",
+  "title_synonyms": [
+    "Devils Line OVA"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-08-23T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 8,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 23, 2018"
+  },
+  "duration": "26 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.93,
+  "scored_by": 9826,
+  "rank": 4837,
+  "popularity": 4845,
+  "members": 25905,
+  "favorites": 33,
+  "synopsis": "Bundled with the limited edition of the manga' 12th compiled volume.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1471,
+      "type": "anime",
+      "name": "Platinum Vision",
+      "url": "https://myanimelist.net/anime/producer/1471/Platinum_Vision"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 35928,
+          "type": "anime",
+          "name": "Devils Line",
+          "url": "https://myanimelist.net/anime/35928/Devils_Line"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 91711,
+          "type": "manga",
+          "name": "Devils Line",
+          "url": "https://myanimelist.net/manga/91711/Devils_Line"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Eclipse\" by Shouta Aoi"
+    ],
+    "endings": [
+      "\"Sotto Tokete Yuku You ni (そっと溶けてゆくように)\" by Mamoru Miyano"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://devilsline.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14124"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Devils'_Line"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283223"
+    }
+  ]
+}

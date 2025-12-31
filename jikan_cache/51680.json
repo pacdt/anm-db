@@ -1,0 +1,234 @@
+{
+  "mal_id": 51680,
+  "url": "https://myanimelist.net/anime/51680/Cool_Doji_Danshi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1123/134677.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1123/134677t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1123/134677l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1123/134677.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1123/134677t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1123/134677l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/o8Ig5Bt8kCw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cool Doji Danshi"
+    },
+    {
+      "type": "Japanese",
+      "title": "クールドジ男子"
+    },
+    {
+      "type": "English",
+      "title": "Play It Cool, Guys"
+    }
+  ],
+  "title": "Cool Doji Danshi",
+  "title_english": "Play It Cool, Guys",
+  "title_japanese": "クールドジ男子",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-11T00:00:00+00:00",
+    "to": "2023-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Oct 11, 2022 to Mar 28, 2023"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.85,
+  "scored_by": 33291,
+  "rank": 983,
+  "popularity": 2178,
+  "members": 110718,
+  "favorites": 1139,
+  "synopsis": "Despite their distinctive personalities, Souma Shiki, Hayate Ichikura, Shun Futami, and Takayuki Mima all have one thing in common: though naturally clumsy, the four disguise their embarrassment from tiny slip-ups by maintaining a composed demeanor. However, it is actually the guys' airheaded natures that makes the girls' hearts throb. No matter what happens in their daily lives, the boys do their best not to lose their cool!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 122615,
+          "type": "manga",
+          "name": "Cool Doji Danshi",
+          "url": "https://myanimelist.net/manga/122615/Cool_Doji_Danshi"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 53560,
+          "type": "anime",
+          "name": "Seishun Kippu",
+          "url": "https://myanimelist.net/anime/53560/Seishun_Kippu"
+        },
+        {
+          "mal_id": 54718,
+          "type": "anime",
+          "name": "Petit Cool Doji Danshi no Hitokoma",
+          "url": "https://myanimelist.net/anime/54718/Petit_Cool_Doji_Danshi_no_Hitokoma"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"青春切符\" by Mafumafu (eps 1-12)",
+      "\"笑うな！\" by syudou (eps 13-)"
+    ],
+    "endings": [
+      "\"Flash!\" by PICG [Hayate Ichikura (CV: Chiaki Kobayashi), Shun Futami (CV: Kouki Uchiyama), Takayuki Mima (CV: Yuuichirou Umehara), Souma Shiki (CV: Shouya Chiba)]",
+      "\"たいせつ\" by PICG [Hayate Ichikura (CV: Chiaki Kobayashi), Shun Futami (CV: Kouki Uchiyama), Takayuki Mima (CV: Yuuichirou Umehara), Souma Shiki (CV: Shouya Chiba)]"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://cooldoji-pr.com/"
+    },
+    {
+      "name": "@cooldoji_PR",
+      "url": "https://twitter.com/cooldoji_PR"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17330"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25572"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Play_It_Cool,_Guys#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B8%E7%94%B7%E5%AD%90"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6469"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283195"
+    },
+    {
+      "name": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Laftel",
+      "url": "https://laftel.net/"
+    }
+  ]
+}

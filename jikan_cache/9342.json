@@ -1,0 +1,142 @@
+{
+  "mal_id": 9342,
+  "url": "https://myanimelist.net/anime/9342/Twinkle_Nora_Rock_Me",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/25874.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/25874t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/25874l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/25874.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/25874t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/25874l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Twinkle Nora Rock Me!"
+    },
+    {
+      "type": "Japanese",
+      "title": "トゥインクル NORA(ノーラ) ロック・ミー!"
+    }
+  ],
+  "title": "Twinkle Nora Rock Me!",
+  "title_english": null,
+  "title_japanese": "トゥインクル NORA(ノーラ) ロック・ミー!",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1985-11-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 11,
+        "year": 1985
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 21, 1985"
+  },
+  "duration": "29 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 2.99,
+  "scored_by": 3278,
+  "rank": 14502,
+  "popularity": 8813,
+  "members": 5881,
+  "favorites": 13,
+  "synopsis": "Based on a 1980 manga by Mikuriya Satomi, this adaptation differs considerably from the original. The story started in its prequel was completed with this second OVA.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 426,
+      "type": "anime",
+      "name": "Filmlink International",
+      "url": "https://myanimelist.net/anime/producer/426/Filmlink_International"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 2088,
+          "type": "anime",
+          "name": "Nora",
+          "url": "https://myanimelist.net/anime/2088/Nora"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Rock Me! Rhythm & Nora (ROCK ME!~リズム&ノーラ)\" by Kojima Yumi"
+    ],
+    "endings": [
+      "\"Love Me! Rock 'n' Nora (LOVE ME!~ロックン・ノーラ)\" by Yukio Yamagata"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7600"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1704"
+    }
+  ],
+  "streaming": []
+}

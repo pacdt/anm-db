@@ -1,0 +1,218 @@
+{
+  "mal_id": 5040,
+  "url": "https://myanimelist.net/anime/5040/One_Outs",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/21065.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/21065t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/21065l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/21065.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/21065t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/21065l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/frCs_tLwelw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "One Outs"
+    },
+    {
+      "type": "Synonym",
+      "title": "ONE OUTS Nobody wins"
+    },
+    {
+      "type": "Synonym",
+      "title": "but I!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワンナウツ"
+    },
+    {
+      "type": "English",
+      "title": "One Outs"
+    }
+  ],
+  "title": "One Outs",
+  "title_english": "One Outs",
+  "title_japanese": "ワンナウツ",
+  "title_synonyms": [
+    "ONE OUTS Nobody wins",
+    "but I!"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-08T00:00:00+00:00",
+    "to": "2009-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2009
+      }
+    },
+    "string": "Oct 8, 2008 to Apr 1, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.32,
+  "scored_by": 121860,
+  "rank": 281,
+  "popularity": 1073,
+  "members": 253730,
+  "favorites": 4224,
+  "synopsis": "Toua Tokuchi is a prodigy when it comes to both baseball and gambling. Pitching nothing but mediocre fastballs, he has made a name for himself by attaining 499 consecutive victories in the game of One Outs: a one-on-one showdown between a pitcher and a batter. Despite his remarkable abilities, however, Tokuchi sees the sport as nothing more than a way to make some quick money.\n\nWhen Hiromichi Kojima, a legendary hitter for the struggling Saikyou Saitama Lycaons, witnesses Tokuchi's skills firsthand, he realizes that the man might be exactly what the team needs to get out of their slump. Determined to recruit Tokuchi no matter what, Kojima places his own career on the line and defeats Tokuchi at his own specialty—One Outs.\n\nForced to become a Lycaon, Tokuchi soon finds himself at odds with the team's owner, Tsuneo Saikawa. After Saikawa refuses to give him a reasonable salary, Tokuchi proposes a special contract: pitching an out will earn him five million yen, but giving up a run will cost him fifty million. With every game having the potential to either make or break him, Tokuchi must outwit all who stand in his way.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:59",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:59 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1791,
+      "type": "anime",
+      "name": "D.N. Dream Partners",
+      "url": "https://myanimelist.net/anime/producer/1791/DN_Dream_Partners"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 11327,
+          "type": "manga",
+          "name": "One Outs",
+          "url": "https://myanimelist.net/manga/11327/One_Outs"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Bury\" by Pay money To my pain"
+    ],
+    "endings": [
+      "\"Moment\" by Tribal Chair"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.ntv.co.jp/oneouts/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6139"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10199"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/One_Outs"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ONE_OUTS#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/1502"
+    }
+  ],
+  "streaming": []
+}

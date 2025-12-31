@@ -1,0 +1,209 @@
+{
+  "mal_id": 59744,
+  "url": "https://myanimelist.net/anime/59744/Maebashi_Witches",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1907/148540.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1907/148540t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1907/148540l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1907/148540.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1907/148540t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1907/148540l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/H1sea8gfWnA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Maebashi Witches"
+    },
+    {
+      "type": "Japanese",
+      "title": "前橋ウィッチーズ"
+    },
+    {
+      "type": "English",
+      "title": "Maebashi Witches"
+    }
+  ],
+  "title": "Maebashi Witches",
+  "title_english": "Maebashi Witches",
+  "title_japanese": "前橋ウィッチーズ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-06T00:00:00+00:00",
+    "to": "2025-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2025
+      }
+    },
+    "string": "Apr 6, 2025 to Jun 22, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.02,
+  "scored_by": 3482,
+  "rank": 4474,
+  "popularity": 6455,
+  "members": 12569,
+  "favorites": 48,
+  "synopsis": "In the city of Maebashi, Yuina Akagi is a free-spirited high school girl with a hobby of buying trendy clothes online and taking photos of her life's highlights. One day, a talking frog suddenly speaks to her, sees in her the potential to become a witch, and transports her to the Witch-Verse. There, the frog introduces Yuina to four other girls he has recruited—the cheerful Choco Mitsumata; the composed Kyouka Kitahara; the easygoing Mai Kamiizumi; and the short-fused Azu Niisato who is apprehensive of Yuina's arrival.\n\nDespite the initial clash of personalities, the five girls aim to become true witches. To achieve that goal, they must grant people's wishes in the real world through music—the most efficient conduit for channeling magic. As Yuina learns to control her newfound powers, her journey into a magical life helping others will be far more vibrant than any photo her camera can ever hope to capture.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1734,
+      "type": "anime",
+      "name": "Tohan Corporation",
+      "url": "https://myanimelist.net/anime/producer/1734/Tohan_Corporation"
+    },
+    {
+      "mal_id": 2228,
+      "type": "anime",
+      "name": "Bushiroad Move",
+      "url": "https://myanimelist.net/anime/producer/2228/Bushiroad_Move"
+    },
+    {
+      "mal_id": 2424,
+      "type": "anime",
+      "name": "Bandai Namco Filmworks",
+      "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    },
+    {
+      "mal_id": 3109,
+      "type": "anime",
+      "name": "Koshidaka Holdings",
+      "url": "https://myanimelist.net/anime/producer/3109/Koshidaka_Holdings"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"Sugo Sugi Maebashi Witches! (スゴすぎ前橋ウィッチーズ！)\" by Maebashi Witches [Yuina Akagi (CV: Sakura Kasuga), Azu Niisato (CV: Hinano Sakikawa), Kyouka Kitahara (CV: Rena Motomura), Choco Mitsumata (CV: Haruka Minami),",
+      "cont. Mai Kamiizumi (CV: Honami Momose)]"
+    ],
+    "endings": [
+      "\"Sorezore no Door (それぞれのドア)\" by Maebashi Witches [Yuina Akagi (CV: Sakura Kasuga), Azu Niisato (CV: Hinano Sakikawa), Kyouka Kitahara (CV: Rena Motomura), Choco Mitsumata (CV: Haruka Minami), Mai Kamiizumi (CV: Honami Momose)]"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://maebashi-witches.com/"
+    },
+    {
+      "name": "@maebashiwitches",
+      "url": "https://twitter.com/maebashiwitches"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18855"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=33470"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maebashi_Witches"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E6%A9%8B%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7368"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283976"
+    }
+  ]
+}

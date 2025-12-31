@@ -1,0 +1,149 @@
+{
+  "mal_id": 42268,
+  "url": "https://myanimelist.net/anime/42268/Shouxi_Yu_Ling_Shi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1457/108134.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1457/108134t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1457/108134l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1457/108134.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1457/108134t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1457/108134l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shouxi Yu Ling Shi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chief Soul Manipulator"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chief Soul Master"
+    },
+    {
+      "type": "Japanese",
+      "title": "首席御灵师"
+    }
+  ],
+  "title": "Shouxi Yu Ling Shi",
+  "title_english": null,
+  "title_japanese": "首席御灵师",
+  "title_synonyms": [
+    "Chief Soul Manipulator",
+    "Chief Soul Master"
+  ],
+  "type": "ONA",
+  "source": "Original",
+  "episodes": 40,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-06-20T00:00:00+00:00",
+    "to": "2020-10-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 6,
+        "year": 2020
+      },
+      "to": {
+        "day": 24,
+        "month": 10,
+        "year": 2020
+      }
+    },
+    "string": "Jun 20, 2020 to Oct 24, 2020"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.42,
+  "scored_by": 435,
+  "rank": 7816,
+  "popularity": 12946,
+  "members": 1709,
+  "favorites": 8,
+  "synopsis": "Last century, Shi Dali was sealed for 100 years, but he accidentally discovered Qingqing, the celestial nine tails fox. He started his path to become Chief Soul Master, to find out the mistery of his origin and to protect the world.\n\n(Source: themoviedb)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2059,
+      "type": "anime",
+      "name": "Suoyi Technology",
+      "url": "https://myanimelist.net/anime/producer/2059/Suoyi_Technology"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 48543,
+          "type": "anime",
+          "name": "Shouxi Yu Ling Shi 2",
+          "url": "https://myanimelist.net/anime/48543/Shouxi_Yu_Ling_Shi_2"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://v.qq.com/detail/m/mzc00200siw6d9n.html"
+    },
+    {
+      "name": "Baidu Baike",
+      "url": "https://baike.baidu.com/item/%E9%A6%96%E5%B8%AD%E5%BE%A1%E7%81%B5%E5%B8%88"
+    }
+  ],
+  "streaming": []
+}

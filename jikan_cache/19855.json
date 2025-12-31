@@ -1,0 +1,194 @@
+{
+  "mal_id": 19855,
+  "url": "https://myanimelist.net/anime/19855/Nobunagun",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/58141.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/58141t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/58141l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/58141.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/58141t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/58141l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qHvR-O6ntOA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nobunagun"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nobunagan"
+    },
+    {
+      "type": "Japanese",
+      "title": "ノブナガン"
+    },
+    {
+      "type": "English",
+      "title": "Nobunagun"
+    }
+  ],
+  "title": "Nobunagun",
+  "title_english": "Nobunagun",
+  "title_japanese": "ノブナガン",
+  "title_synonyms": [
+    "Nobunagan"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-05T00:00:00+00:00",
+    "to": "2014-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 5, 2014 to Mar 30, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.66,
+  "scored_by": 31503,
+  "rank": 6375,
+  "popularity": 2958,
+  "members": 67825,
+  "favorites": 137,
+  "synopsis": "Shio Ogura is a Japanese high school student, who is visiting Taiwan on a school trip when she is suddenly attacked by monsters. Agents known as \"E-Gene Holders\" from the government agency DOGOO also arrive, who wield weapons infused with the spirits of historical figures. Shio is revealed to also be an E-Gene Holder when the soul of Oda Nobunaga awakens after she tries to rescue a friend.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 925,
+      "type": "anime",
+      "name": "Earth Star Entertainment",
+      "url": "https://myanimelist.net/anime/producer/925/Earth_Star_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 397,
+      "type": "anime",
+      "name": "Bridge",
+      "url": "https://myanimelist.net/anime/producer/397/Bridge"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 51415,
+          "type": "manga",
+          "name": "Nobunagun",
+          "url": "https://myanimelist.net/manga/51415/Nobunagun"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Respect for the dead man\" by Pay money To my Pain (featuring Ken & Teru from Crossfaith)"
+    ],
+    "endings": [
+      "1: \"Respect for the dead man\" by Pay money To my Pain (featuring Ken & Teru from Crossfaith) (eps 1)",
+      "2: \"Chiisana Hoshi Ver. α (ちいさな星 Ver. α)\" by Shio Ogura (Shiori Mutou), Newton (Yuu Asakawa), Galileo (Sumire Uesaka)  (eps 2-5, 11-13)",
+      "3: \"Chiisana Hoshi Ver. β (ちいさな星 Ver. β)\" by Shio Ogura (Shiori Mutou), Geronimo (Chiwa Saito), Cyx (Mutsumi Tamura), Gaudi (Ayumu Murase) (eps 6-10)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.vap.co.jp/nobunagun/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9882"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15678"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Nobunagun"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-258887"
+    }
+  ]
+}

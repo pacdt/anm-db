@@ -1,0 +1,257 @@
+{
+  "mal_id": 131,
+  "url": "https://myanimelist.net/anime/131/Saiyuuki_Reload_Gunlock",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1348/134419.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1348/134419t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1348/134419l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1348/134419.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1348/134419t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1348/134419l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saiyuuki Reload Gunlock"
+    },
+    {
+      "type": "Synonym",
+      "title": "Saiyuki Reload Gunlock"
+    },
+    {
+      "type": "Synonym",
+      "title": "SRG"
+    },
+    {
+      "type": "Japanese",
+      "title": "最遊記RELOAD GUNLOCK"
+    },
+    {
+      "type": "English",
+      "title": "Saiyuki Gunlock"
+    },
+    {
+      "type": "French",
+      "title": "Saiyuki Gunlock"
+    }
+  ],
+  "title": "Saiyuuki Reload Gunlock",
+  "title_english": "Saiyuki Gunlock",
+  "title_japanese": "最遊記RELOAD GUNLOCK",
+  "title_synonyms": [
+    "Saiyuki Reload Gunlock",
+    "SRG"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-04-02T00:00:00+00:00",
+    "to": "2004-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Apr 2, 2004 to Sep 24, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.37,
+  "scored_by": 9023,
+  "rank": 2576,
+  "popularity": 4899,
+  "members": 25182,
+  "favorites": 48,
+  "synopsis": "The Sanzo Ikkou continues its westward journey, on a mission to prevent a demonic resurrection. As Genjo Sanzo, Cho Hakkai, Sha Gojyo, and Son Goku fight their way to their goal, their path is fraught with internal strife. When they encounter a formidable pair of adversaries from the west, the cohesion of the group -- and the fate of the mission -- may be at stake. \n\n(Source: ANN)",
+  "background": "Saiyuuki Reload Gunlock adapts parts of Saiyuuki Reload manga's Vol. 2, also Saiyuuki Reload manga's Even a Worm arc with changes to the source material including an anime original ending.",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 3242,
+      "type": "anime",
+      "name": "Zet",
+      "url": "https://myanimelist.net/anime/producer/3242/Zet"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 130,
+          "type": "anime",
+          "name": "Saiyuuki Reload",
+          "url": "https://myanimelist.net/anime/130/Saiyuuki_Reload"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 33726,
+          "type": "anime",
+          "name": "Saiyuuki Reload Blast",
+          "url": "https://myanimelist.net/anime/33726/Saiyuuki_Reload_Blast"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 510,
+          "type": "manga",
+          "name": "Saiyuuki Reload",
+          "url": "https://myanimelist.net/manga/510/Saiyuuki_Reload"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 45783,
+          "type": "anime",
+          "name": "Saiyuuki Reload: Zeroin",
+          "url": "https://myanimelist.net/anime/45783/Saiyuuki_Reload__Zeroin"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Don't look back again\" by WAG"
+    ],
+    "endings": [
+      "1: \"Mitsumeteitai\" by flow-war",
+      "2: \"Shiro no Jumon\" by doa"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://pierrot.jp/title/saiyuki_rg/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1594"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4167"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saiyuki_Reload_Gunlock"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E9%81%8A%E8%A8%98%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8E%E6%9C%80%E9%81%8A%E8%A8%98RELOAD_GUNLOCK%E3%80%8F"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/393"
+    }
+  ],
+  "streaming": []
+}

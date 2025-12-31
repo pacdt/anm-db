@@ -1,0 +1,252 @@
+{
+  "mal_id": 11111,
+  "url": "https://myanimelist.net/anime/11111/Another",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75509t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75509.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75509t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75509l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/UGoAl3L13bc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Another"
+    },
+    {
+      "type": "Japanese",
+      "title": "アナザー"
+    },
+    {
+      "type": "English",
+      "title": "Another"
+    }
+  ],
+  "title": "Another",
+  "title_english": "Another",
+  "title_japanese": "アナザー",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-10T00:00:00+00:00",
+    "to": "2012-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2012
+      }
+    },
+    "string": "Jan 10, 2012 to Mar 27, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.46,
+  "scored_by": 1042740,
+  "rank": 2214,
+  "popularity": 62,
+  "members": 1762134,
+  "favorites": 18542,
+  "synopsis": "In class 3-3 of Yomiyama North Junior High, transfer student Kouichi Sakakibara makes his return after taking a sick leave for the first month of school. Among his new classmates, he is inexplicably drawn toward Mei Misaki—a reserved girl with an eyepatch whom he met in the hospital during his absence. But none of his classmates acknowledge her existence; they warn him not to acquaint himself with things that do not exist. Against their words of caution, Kouichi befriends Mei—soon learning of the sinister truth behind his friends' apprehension.\n\nThe ominous rumors revolve around a former student of the class 3-3. However, no one will share the full details of the grim event with Kouichi. Engrossed in the curse that plagues his class, Kouichi sets out to discover its connection to his new friend. As a series of tragedies arise around them, it is now up to Kouichi, Mei, and their classmates to unravel the eerie mystery—but doing so will come at a hefty price.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 687,
+      "type": "anime",
+      "name": "Bandai Namco Live Creative",
+      "url": "https://myanimelist.net/anime/producer/687/Bandai_Namco_Live_Creative"
+    },
+    {
+      "mal_id": 689,
+      "type": "anime",
+      "name": "NTT Docomo",
+      "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 132,
+      "type": "anime",
+      "name": "P.A. Works",
+      "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 11701,
+          "type": "anime",
+          "name": "Another: The Other - Inga",
+          "url": "https://myanimelist.net/anime/11701/Another__The_Other_-_Inga"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 24098,
+          "type": "manga",
+          "name": "Another",
+          "url": "https://myanimelist.net/manga/24098/Another"
+        },
+        {
+          "mal_id": 29699,
+          "type": "manga",
+          "name": "Another",
+          "url": "https://myanimelist.net/manga/29699/Another"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 20365,
+          "type": "anime",
+          "name": "Another: Misaki Mei - Shizukani",
+          "url": "https://myanimelist.net/anime/20365/Another__Misaki_Mei_-_Shizukani"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kyoumu Densen (凶夢伝染)\" by ALI PROJECT"
+    ],
+    "endings": [
+      "\"anamnesis\" by Annabel"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.another-anime.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8556"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13258"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Another_(novel)"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/2373"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-240622"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

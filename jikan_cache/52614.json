@@ -1,0 +1,249 @@
+{
+  "mal_id": 52614,
+  "url": "https://myanimelist.net/anime/52614/Mix__Meisei_Story_2nd_Season_-_Nidome_no_Natsu_Sora_no_Mukou_e",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1727/137215.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/137215t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/137215l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1727/137215.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/137215t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/137215l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mix: Meisei Story 2nd Season - Nidome no Natsu, Sora no Mukou e"
+    },
+    {
+      "type": "Japanese",
+      "title": "MIX MEISEI STORY 2ND SEASON 〜二度目の夏、空の向こうへ〜"
+    },
+    {
+      "type": "English",
+      "title": "MIX Season 2"
+    }
+  ],
+  "title": "Mix: Meisei Story 2nd Season - Nidome no Natsu, Sora no Mukou e",
+  "title_english": "MIX Season 2",
+  "title_japanese": "MIX MEISEI STORY 2ND SEASON 〜二度目の夏、空の向こうへ〜",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-04-01T00:00:00+00:00",
+    "to": "2023-09-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      },
+      "to": {
+        "day": 23,
+        "month": 9,
+        "year": 2023
+      }
+    },
+    "string": "Apr 1, 2023 to Sep 23, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.99,
+  "scored_by": 2649,
+  "rank": 4594,
+  "popularity": 7474,
+  "members": 8821,
+  "favorites": 20,
+  "synopsis": "Second season of Mix: Meisei Story.",
+  "background": "",
+  "season": "spring",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 38098,
+          "type": "anime",
+          "name": "Mix: Meisei Story",
+          "url": "https://myanimelist.net/anime/38098/Mix__Meisei_Story"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 37815,
+          "type": "manga",
+          "name": "Mix",
+          "url": "https://myanimelist.net/manga/37815/Mix"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Starting Over\" by sumika",
+      "2: \"Amaryllis (アマリリス)\" by BLUE ENCOUNT (eps 14-)"
+    ],
+    "endings": [
+      "\"ハルノオト\" by miwa",
+      "2: \"Ima Koto Toki wo (今この瞬間（とき）を)\" by Little Glee Monster (eps (eps. 14-))"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.ytv.co.jp/mix/"
+    },
+    {
+      "name": "@mix_ytvanime",
+      "url": "https://twitter.com/mix_ytvanime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17556"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=26184"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mix_(manga)#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/MIX_(%E6%BC%AB%E7%94%BB)#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6631"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/394784"
+    },
+    {
+      "name": "Baidu Baike",
+      "url": "https://baike.baidu.com/item/MIX%20MEISEI%20STORY/61816790?fromModule=search-result_lemma"
+    },
+    {
+      "name": "Douban",
+      "url": "https://movie.douban.com/subject/36151604/"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/"
+    },
+    {
+      "name": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    }
+  ]
+}

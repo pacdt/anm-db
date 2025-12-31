@@ -1,0 +1,179 @@
+{
+  "mal_id": 9624,
+  "url": "https://myanimelist.net/anime/9624/30-sai_no_Hoken_Taiiku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/81172.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81172t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81172l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/81172.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81172t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81172l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/N1FSHkgVgt0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "30-sai no Hoken Taiiku"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sanjuu-sai no Hoken Taiiku"
+    },
+    {
+      "type": "Japanese",
+      "title": "30歳の保健体育"
+    },
+    {
+      "type": "English",
+      "title": "A Thirty-Year Old's Health and Physical Education"
+    }
+  ],
+  "title": "30-sai no Hoken Taiiku",
+  "title_english": "A Thirty-Year Old's Health and Physical Education",
+  "title_japanese": "30歳の保健体育",
+  "title_synonyms": [
+    "Sanjuu-sai no Hoken Taiiku"
+  ],
+  "type": "TV",
+  "source": "Book",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-04-07T00:00:00+00:00",
+    "to": "2011-06-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2011
+      },
+      "to": {
+        "day": 23,
+        "month": 6,
+        "year": 2011
+      }
+    },
+    "string": "Apr 7, 2011 to Jun 23, 2011"
+  },
+  "duration": "13 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.61,
+  "scored_by": 27346,
+  "rank": 6652,
+  "popularity": 2987,
+  "members": 66685,
+  "favorites": 87,
+  "synopsis": "Based on Mitsuba and Ichijinsha's 30-sai no Hoken Taiiku (Health and Physical Education for 30-Year-Olds) guidebook. The guide is aimed at men in their 30s who have not experienced romance or sex with women yet.\n\nImagawa Hayao is a 30-year-old virgin bachelor. One day, a cupid descends from heaven with the express purpose of forcing him to graduate from virginity. Thus unfolds a pure love story between a 30-year-old bachelor and a 30-year-old bachelorette.\n\n(Source: AniDB)",
+  "background": "",
+  "season": "spring",
+  "year": 2011,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "03:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 03:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 400,
+      "type": "anime",
+      "name": "Gathering",
+      "url": "https://myanimelist.net/anime/producer/400/Gathering"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 12131,
+          "type": "anime",
+          "name": "30-sai no Hoken Taiiku Specials",
+          "url": "https://myanimelist.net/anime/12131/30-sai_no_Hoken_Taiiku_Specials"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Koi no Doutei (恋の道程)\" by kanonxkanon"
+    ],
+    "endings": [
+      "\"learn together\" by AiRI"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://30sai.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8106"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11962"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/30%E6%AD%B3%E3%81%AE%E4%BF%9D%E5%81%A5%E4%BD%93%E8%82%B2"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,171 @@
+{
+  "mal_id": 36455,
+  "url": "https://myanimelist.net/anime/36455/Wo_de_Tian_Jie_Nu_You",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/88003.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/88003t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/88003l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/88003.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/88003t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/88003l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/8M2Uyr6CC1U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wo de Tian Jie Nu You"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wo de Tian Jie Nuyou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wo de Tian Jie Nu you"
+    },
+    {
+      "type": "Japanese",
+      "title": "我的天劫女友"
+    },
+    {
+      "type": "English",
+      "title": "My Cultivator Girlfriend"
+    }
+  ],
+  "title": "Wo de Tian Jie Nu You",
+  "title_english": "My Cultivator Girlfriend",
+  "title_japanese": "我的天劫女友",
+  "title_synonyms": [
+    "Wo de Tian Jie Nuyou",
+    "Wo de Tian Jie Nu you"
+  ],
+  "type": "ONA",
+  "source": "Web manga",
+  "episodes": 15,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-09-20T00:00:00+00:00",
+    "to": "2018-01-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 9,
+        "year": 2017
+      },
+      "to": {
+        "day": 4,
+        "month": 1,
+        "year": 2018
+      }
+    },
+    "string": "Sep 20, 2017 to Jan 4, 2018"
+  },
+  "duration": "15 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.44,
+  "scored_by": 9960,
+  "rank": 7722,
+  "popularity": 3914,
+  "members": 41223,
+  "favorites": 114,
+  "synopsis": "In the modern cultivation world, everywhere is law of the jungle, everyone feels insecure. After saving a cultivatior girl, the security guard Ma Yingxiong accidentally starts the journey of practicing cultivation.\n\n(Source: Guodong Subs)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1980,
+      "type": "anime",
+      "name": "Big Firebird Culture",
+      "url": "https://myanimelist.net/anime/producer/1980/Big_Firebird_Culture"
+    },
+    {
+      "mal_id": 2304,
+      "type": "anime",
+      "name": "TrioPen Studio",
+      "url": "https://myanimelist.net/anime/producer/2304/TrioPen_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"Liu Xing Ye\" by Akie (eps 1-?)"
+    ],
+    "endings": [
+      "\"An Lian (暗恋)\" by Qiu Hui"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://ac.qq.com/Comic/comicInfo/id/530969"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13588"
+    }
+  ],
+  "streaming": []
+}

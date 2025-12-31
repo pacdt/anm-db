@@ -1,0 +1,209 @@
+{
+  "mal_id": 32407,
+  "url": "https://myanimelist.net/anime/32407/Clockwork_Planet",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/85989.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85989t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85989l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/85989.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85989t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85989l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/r8AhkWM9uNs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Clockwork Planet"
+    },
+    {
+      "type": "Japanese",
+      "title": "クロックワーク・プラネット"
+    },
+    {
+      "type": "English",
+      "title": "Clockwork Planet"
+    }
+  ],
+  "title": "Clockwork Planet",
+  "title_english": "Clockwork Planet",
+  "title_japanese": "クロックワーク・プラネット",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-07T00:00:00+00:00",
+    "to": "2017-06-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 23,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Apr 7, 2017 to Jun 23, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.45,
+  "scored_by": 67092,
+  "rank": 7658,
+  "popularity": 1601,
+  "members": 167455,
+  "favorites": 451,
+  "synopsis": "Legend tells that when the Earth was destroyed, the great clockmaker Y made a replacement from cogs and gears. Naoto Miura is a young boy who aspires to be a great clockmaker. However, despite his unique talent—sensitive hearing that can immediately understand clockwork mechanics from noise alone—he has made little progress. But this changes when a coffin falls from the sky into his apartment, revealing RyuZU, a female automaton forged by Y himself.\n\nNews of RyuZU's arrival brings Marie Bell Breguet, the gifted heir of a distinguished line of clockmakers, and her cyborg bodyguard Vainney Halter into Naoto's life as well. When she and Naoto both become embroiled in an action-packed battle for their lives, they discover an uncomfortable truth: the clockwork planet that humanity has lived on for over a millennium is beginning to break down—a secret that many people will kill to protect.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1589,
+      "type": "anime",
+      "name": "NichiNare",
+      "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+    },
+    {
+      "mal_id": 1602,
+      "type": "anime",
+      "name": "GYAO!",
+      "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+    },
+    {
+      "mal_id": 2034,
+      "type": "anime",
+      "name": "Akatsuki",
+      "url": "https://myanimelist.net/anime/producer/2034/Akatsuki"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 65155,
+          "type": "manga",
+          "name": "Clockwork Planet",
+          "url": "https://myanimelist.net/manga/65155/Clockwork_Planet"
+        },
+        {
+          "mal_id": 55887,
+          "type": "manga",
+          "name": "Clockwork Planet",
+          "url": "https://myanimelist.net/manga/55887/Clockwork_Planet"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Clockwork Planet\" by fripSide"
+    ],
+    "endings": [
+      "\"Anti Clockwise\" by After the Rain (そらる x まふまふ)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tbs.co.jp/anime/cp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11857"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18959"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272945"
+    }
+  ]
+}

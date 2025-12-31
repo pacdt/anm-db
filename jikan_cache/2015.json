@@ -1,0 +1,154 @@
+{
+  "mal_id": 2015,
+  "url": "https://myanimelist.net/anime/2015/Wind__A_Breath_of_Heart",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1262/143592.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1262/143592t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1262/143592l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1262/143592.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1262/143592t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1262/143592l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wind: A Breath of Heart"
+    },
+    {
+      "type": "Japanese",
+      "title": "Wind -a breath of heart-"
+    }
+  ],
+  "title": "Wind: A Breath of Heart",
+  "title_english": null,
+  "title_japanese": "Wind -a breath of heart-",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Visual novel",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-12-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 12,
+        "year": 2002
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 27, 2002"
+  },
+  "duration": "16 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.91,
+  "scored_by": 1145,
+  "rank": 10788,
+  "popularity": 10959,
+  "members": 3065,
+  "favorites": 0,
+  "synopsis": "Set four months after the resolution of the game the anime Wind is based on (via Hikari's ending), the entire gang is planning a big Christmas party. However, with the reappearance of Hikari, weird things start to happen in the city of Kazune. How will things turn out?\n\n(Source: AniDB)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1461,
+      "type": "anime",
+      "name": "Audio Tanaka",
+      "url": "https://myanimelist.net/anime/producer/1461/Audio_Tanaka"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Ajia-do",
+      "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 546,
+          "type": "anime",
+          "name": "Wind: A Breath of Heart (TV)",
+          "url": "https://myanimelist.net/anime/546/Wind__A_Breath_of_Heart_TV"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Brand new morning\" by Megumi Hasegawa (長谷川めぐみ)"
+    ],
+    "endings": [
+      "\"Cumulus\" by Megumi Hasegawa (長谷川めぐみ)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.minori.ph/lineup/wind/index.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1038"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23014"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,206 @@
+{
+  "mal_id": 32608,
+  "url": "https://myanimelist.net/anime/32608/Endride",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/78289.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/78289t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/78289l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/78289.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/78289t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/78289l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/rd2sePr0s5k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Endride"
+    },
+    {
+      "type": "Japanese",
+      "title": "エンドライド"
+    },
+    {
+      "type": "English",
+      "title": "Endride"
+    }
+  ],
+  "title": "Endride",
+  "title_english": "Endride",
+  "title_japanese": "エンドライド",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-03T00:00:00+00:00",
+    "to": "2016-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2016
+      }
+    },
+    "string": "Apr 3, 2016 to Sep 25, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.58,
+  "scored_by": 25687,
+  "rank": 12381,
+  "popularity": 2729,
+  "members": 77846,
+  "favorites": 70,
+  "synopsis": "Shun Asanaga is a 15-year-old junior high school student with an optimistic and bright personality. One day, he finds a mysterious crystal in the office of his father, who is a scientist and businessman. When Shun touches it, the world becomes distorted, and he is sent into the world of Endra. Emilio, a prince of the kingdom of Endra, is nearing his 16th birthday and despises the reigning king, Delzain. Since Emilio is now at the age when he can inherit the throne, he takes up a weapon and attempts revenge. However, because Emilio is too weak, he is captured by Delzain and put in prison. When Emilio is in grief, the wall of his cell becomes distorted and Shun appears from there with two goals: return to his own world, and complete Emilio's revenge. What future lies ahead for the two boys trying to survive in Endra, yet raised in two different worlds?\n\n(Source: MAL News)",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1418,
+      "type": "anime",
+      "name": "Nippon Television Music",
+      "url": "https://myanimelist.net/anime/producer/1418/Nippon_Television_Music"
+    },
+    {
+      "mal_id": 1421,
+      "type": "anime",
+      "name": "Takara Tomy A.R.T.S",
+      "url": "https://myanimelist.net/anime/producer/1421/Takara_Tomy_ARTS"
+    },
+    {
+      "mal_id": 1422,
+      "type": "anime",
+      "name": "CyberAgent",
+      "url": "https://myanimelist.net/anime/producer/1422/CyberAgent"
+    },
+    {
+      "mal_id": 1423,
+      "type": "anime",
+      "name": "Forecast Communications",
+      "url": "https://myanimelist.net/anime/producer/1423/Forecast_Communications"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    },
+    {
+      "mal_id": 1828,
+      "type": "anime",
+      "name": "Lapin Track",
+      "url": "https://myanimelist.net/anime/producer/1828/Lapin_Track"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"Limit\" by LUNA SEA"
+    ],
+    "endings": [
+      "1: \"go my way\" by Ryouta Fujimaki",
+      "2: \"Sekai wa Kawaru\" by Kazuyoshi Nakamura"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://anime.endride.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11902"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18004"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Endride"
+    }
+  ],
+  "streaming": []
+}

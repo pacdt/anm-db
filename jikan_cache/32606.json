@@ -1,0 +1,207 @@
+{
+  "mal_id": 32606,
+  "url": "https://myanimelist.net/anime/32606/Onigiri",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1725/134446.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1725/134446t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1725/134446l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1725/134446.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1725/134446t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1725/134446l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/9UUyUR1SvZM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Onigiri"
+    },
+    {
+      "type": "Synonym",
+      "title": "Demon Cutter"
+    },
+    {
+      "type": "Synonym",
+      "title": "Demon Slayer"
+    },
+    {
+      "type": "Japanese",
+      "title": "鬼斬"
+    },
+    {
+      "type": "English",
+      "title": "Onigiri"
+    }
+  ],
+  "title": "Onigiri",
+  "title_english": "Onigiri",
+  "title_japanese": "鬼斬",
+  "title_synonyms": [
+    "Demon Cutter",
+    "Demon Slayer"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-07T00:00:00+00:00",
+    "to": "2016-06-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 30,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 7, 2016 to Jun 30, 2016"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.33,
+  "scored_by": 10556,
+  "rank": 13183,
+  "popularity": 4358,
+  "members": 32883,
+  "favorites": 41,
+  "synopsis": "Ancient Japan is under attack by powerful beings called \"Kamikui,\" and it is up to the \"Oni\" and his band of eight beautiful female warriors to stop them. Each of these girls have unique skills, abilities, and personalities. They partner themselves with the Oni, Jin, to stop the miasma of darkness sweeping across Japan. Onigiri follows the escapades of Jin and his merry companions as they strengthen their bonds and fend off the demonic invasion.\n \n[Written by MAL Rewrite]",
+  "background": "Based on the MMORPG of the same title released in 2014.",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    },
+    {
+      "mal_id": 1285,
+      "type": "anime",
+      "name": "Being",
+      "url": "https://myanimelist.net/anime/producer/1285/Being"
+    },
+    {
+      "mal_id": 1392,
+      "type": "anime",
+      "name": "Zack Promotion",
+      "url": "https://myanimelist.net/anime/producer/1392/Zack_Promotion"
+    },
+    {
+      "mal_id": 1634,
+      "type": "anime",
+      "name": "Bushiroad Music",
+      "url": "https://myanimelist.net/anime/producer/1634/Bushiroad_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1129,
+      "type": "anime",
+      "name": "Pierrot Plus",
+      "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 73511,
+          "type": "manga",
+          "name": "Onigiri",
+          "url": "https://myanimelist.net/manga/73511/Onigiri"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Hime wa Rankiryuu☆Goikkousama (姫は乱気流☆御一行様)\" by STARMARIE"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.onigiri-anime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11903"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18076"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Onigiri_(video_game)"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "HIDIVE",
+      "url": "https://www.hidive.com/tv/onigiri"
+    }
+  ]
+}

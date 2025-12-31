@@ -1,0 +1,308 @@
+{
+  "mal_id": 42938,
+  "url": "https://myanimelist.net/anime/42938/Fruits_Basket__The_Final",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1085/114792.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/114792t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1085/114792.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/114792t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/114792l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Ip8Btv2t_6c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fruits Basket: The Final"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fruits Basket 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fruits Basket (2019) 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Furuba"
+    },
+    {
+      "type": "Japanese",
+      "title": "フルーツバスケット The Final"
+    },
+    {
+      "type": "English",
+      "title": "Fruits Basket: The Final Season"
+    },
+    {
+      "type": "German",
+      "title": "Fruits Basket Staffel 3"
+    },
+    {
+      "type": "Spanish",
+      "title": "Fruits Basket: The Final Season"
+    },
+    {
+      "type": "French",
+      "title": "Fruits Basket Saison 3"
+    }
+  ],
+  "title": "Fruits Basket: The Final",
+  "title_english": "Fruits Basket: The Final Season",
+  "title_japanese": "フルーツバスケット The Final",
+  "title_synonyms": [
+    "Fruits Basket 3rd Season",
+    "Fruits Basket (2019) 3rd Season",
+    "Furuba"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-06T00:00:00+00:00",
+    "to": "2021-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 6, 2021 to Jun 29, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.94,
+  "scored_by": 272863,
+  "rank": 17,
+  "popularity": 447,
+  "members": 548833,
+  "favorites": 21189,
+  "synopsis": "Hundreds of years ago, the Chinese zodiac spirits and their god swore to stay together eternally. United by this promise, the possessed members of the Souma family shall always return to each other under any circumstances. Yet, when these bonds shackle them from freedom, it becomes an undesirable burden—a curse. As head of the clan, Akito is convinced that he shares a special connection with the other Soumas. While he desperately clings to this fantasy, the rest of the family remains isolated and suppressed by the fear of punishment.\n\nTooru Honda, who has grown attached to the Soumas, is determined to break the chains that bind them. Her companionship with the family and her friends encourages her to move forward with lifting the curse. However, due to confounding revelations, she struggles to find the tenacity to continue her endeavors. With time slowly withering away, Tooru contends with an uncertain future in hopes of reaching the tranquility that may lie beyond all this commotion.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 100,
+      "type": "anime",
+      "name": "TV Osaka",
+      "url": "https://myanimelist.net/anime/producer/100/TV_Osaka"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 148,
+      "type": "anime",
+      "name": "Hakusensha",
+      "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 2174,
+      "type": "anime",
+      "name": "TMS Music",
+      "url": "https://myanimelist.net/anime/producer/2174/TMS_Music"
+    },
+    {
+      "mal_id": 2495,
+      "type": "anime",
+      "name": "8PAN",
+      "url": "https://myanimelist.net/anime/producer/2495/8PAN"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 40417,
+          "type": "anime",
+          "name": "Fruits Basket 2nd Season",
+          "url": "https://myanimelist.net/anime/40417/Fruits_Basket_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 102,
+          "type": "manga",
+          "name": "Fruits Basket",
+          "url": "https://myanimelist.net/manga/102/Fruits_Basket"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 49310,
+          "type": "anime",
+          "name": "Fruits Basket: Prelude",
+          "url": "https://myanimelist.net/anime/49310/Fruits_Basket__Prelude"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Pleasure\" by WARPs UP (eps 1-12)"
+    ],
+    "endings": [
+      "\"Haru Urara (春うらら)\" by GENIC (eps 1-11,13)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://fruba.jp/"
+    },
+    {
+      "name": "@fruba_PR",
+      "url": "https://twitter.com/fruba_PR"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15738"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23980"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fruits_Basket_(2019_TV_series)"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88_%28%E6%BC%AB%E7%94%BB%29"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/5942"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bgm.tv/subject/315516"
+    },
+    {
+      "name": "Baidu Baike",
+      "url": "https://baike.baidu.com/item/%E6%B0%B4%E6%9E%9C%E7%AF%AE%E5%AD%90/23149880?fromModule=search-result_lemma"
+    },
+    {
+      "name": "Douban",
+      "url": "https://movie.douban.com/subject/35208525/"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277778"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Starzplay",
+      "url": "https://starzplay.com/"
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://www.iq.com/"
+    }
+  ]
+}

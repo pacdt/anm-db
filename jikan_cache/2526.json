@@ -1,0 +1,184 @@
+{
+  "mal_id": 2526,
+  "url": "https://myanimelist.net/anime/2526/Kirara",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1335/94553.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1335/94553t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1335/94553l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1335/94553.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1335/94553t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1335/94553l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kirara"
+    },
+    {
+      "type": "Japanese",
+      "title": "KIRARA"
+    }
+  ],
+  "title": "Kirara",
+  "title_english": null,
+  "title_japanese": "KIRARA",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-09-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 9,
+        "year": 2000
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 21, 2000"
+  },
+  "duration": "39 min",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.09,
+  "scored_by": 2931,
+  "rank": 9816,
+  "popularity": 7922,
+  "members": 7586,
+  "favorites": 17,
+  "synopsis": "After years of pining and confusion, a romance blossoms between high school friends Chikahira Asai and Kirara Imai, leading to their marriage. But their bright future together is tragically cut short when Kirara dies in a car accident on the day of their wedding.\n\nKirara's love for Chikahira has allowed her to remain on Earth as a ghost, sending her eight years back in time to the moment when she becomes acquainted with her future husband. While Kirara hopes to use her ghostly powers to accelerate her younger self's romance, her good intentions might just become another obstacle on the road to love.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    },
+    {
+      "mal_id": 2229,
+      "type": "anime",
+      "name": "Toho Music",
+      "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+    },
+    {
+      "mal_id": 3017,
+      "type": "anime",
+      "name": "Polydor Records",
+      "url": "https://myanimelist.net/anime/producer/3017/Polydor_Records"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 242,
+      "type": "anime",
+      "name": "Ashi Productions",
+      "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1680,
+          "type": "manga",
+          "name": "Kirara",
+          "url": "https://myanimelist.net/manga/1680/Kirara"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Power of Love\" by Chiaki Oosawa"
+    ],
+    "endings": [
+      "\"Smile Again\" by Elika"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4004"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5960"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kirara_(manga)"
+    }
+  ],
+  "streaming": []
+}

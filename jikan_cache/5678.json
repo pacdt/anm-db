@@ -1,0 +1,211 @@
+{
+  "mal_id": 5678,
+  "url": "https://myanimelist.net/anime/5678/Kobato",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/79838.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/79838t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/79838l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/79838.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/79838t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/79838l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_fD6NEi_Czo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kobato."
+    },
+    {
+      "type": "Japanese",
+      "title": "こばと。"
+    },
+    {
+      "type": "English",
+      "title": "Kobato."
+    }
+  ],
+  "title": "Kobato.",
+  "title_english": "Kobato.",
+  "title_japanese": "こばと。",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-06T00:00:00+00:00",
+    "to": "2010-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 2010
+      }
+    },
+    "string": "Oct 6, 2009 to Mar 23, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.94,
+  "scored_by": 63988,
+  "rank": 781,
+  "popularity": 1530,
+  "members": 175723,
+  "favorites": 1584,
+  "synopsis": "The friendly and sincere Kobato Hanato has a wish to go to a particular place no matter what. To fulfill this desire, she is tasked with helping people in their times of distress. For each mended broken heart, a small candy-like fragment is produced and fills a special bottle. Once the bottle is full, her wish will be granted.\n\nAs Kobato carries out her mission alongside her stuffed toy companion, Ioryogi, she encounters various people troubled by their different situations. From a child struggling with his parents, a high school girl troubled about romance, and everything in between, Kobato's naturally sweet smile and outgoing personality are ready to brighten their day!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "20:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 20:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 359,
+      "type": "anime",
+      "name": "NHK-BS2",
+      "url": "https://myanimelist.net/anime/producer/359/NHK-BS2"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 118,
+          "type": "manga",
+          "name": "Kobato.",
+          "url": "https://myanimelist.net/manga/118/Kobato"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 10098,
+          "type": "anime",
+          "name": "Kobato.: Hajimete no Kobato.",
+          "url": "https://myanimelist.net/anime/10098/Kobato__Hajimete_no_Kobato"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Magic Number (マジックナンバー)\" by Maaya Sakamoto"
+    ],
+    "endings": [
+      "1: \"Jellyfish's Confession (ジェリーフィッシュの告白)\" by Megumi Nakajima (eps 1-19)",
+      "2: \"Watashi ni Dekiru Koto (わたしにできること)\" by Megumi Nakajima (eps 20-23)",
+      "3: \"Ashita Kuru Hi (あした来る日）\" by Kobato Hanato (Kana Hanazawa) (eps 24)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.kobato.tv/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6258"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10542"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kobato"
+    }
+  ],
+  "streaming": []
+}

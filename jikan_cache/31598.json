@@ -1,0 +1,160 @@
+{
+  "mal_id": 31598,
+  "url": "https://myanimelist.net/anime/31598/Luger_Code_1951",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/81651.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/81651t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/81651l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/81651.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/81651t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/81651l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Luger Code 1951"
+    },
+    {
+      "type": "Japanese",
+      "title": "ルガーコード 1951"
+    }
+  ],
+  "title": "Luger Code 1951",
+  "title_english": null,
+  "title_japanese": "ルガーコード 1951",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-15T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 15, 2016"
+  },
+  "duration": "25 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.41,
+  "scored_by": 8398,
+  "rank": 7889,
+  "popularity": 5196,
+  "members": 21877,
+  "favorites": 30,
+  "synopsis": "The story follows a young genius university professor who is able to learn any language. He is asked to decipher a code used in wireless communication: the Luger Code, developed by werewolves, enemies to mankind. Startled to find that he cannot decipher the code and desperate to study it, the professor embarks on a journey to capture a living werewolf to aid him.\n\n(Source: LiveChart)",
+  "background": "Luger Code 1951 began as a story idea that Haruto Haneki submitted for the Shounen Jump+ × Animax Anime Scenario Award contest (少年ジャンプ＋×アニマックス アニメシナリオ大賞). The theme of the contest was \"your original scenario in the image of Shounen Jump.\" The contest accepted unpublished entries that could be made into a short anime, 30 to 40 minutes in estimated length. Haneki's scenario won the Grand Prize, winning him 2 million yen, a manga adaptation on Shounen Jump+, and an anime adaptation. Akira Akatsuki, who was one of the judges in the competition, drew the manga. The anime premiered on the Shonen Jump+ website on October 14 at 12:00 a.m. (effectively October 15 at midnight). The anime also ran on the Hikari TV service on October 15 at 8:00 p.m. and on the Animax channel on October 22 at 8:00 p.m. A making-of video aired alongside the anime as a special.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 95521,
+          "type": "manga",
+          "name": "Luger Code 1951",
+          "url": "https://myanimelist.net/manga/95521/Luger_Code_1951"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.animax.co.jp/luger-code"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11594"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18744"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ルガーコード1951"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,141 @@
+{
+  "mal_id": 10780,
+  "url": "https://myanimelist.net/anime/10780/Dead_Heat",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/51885.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/51885t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/51885l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/51885.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/51885t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/51885l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dead Heat"
+    },
+    {
+      "type": "Japanese",
+      "title": "デッドヒート"
+    }
+  ],
+  "title": "Dead Heat",
+  "title_english": null,
+  "title_japanese": "デッドヒート",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1987-08-07T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 8,
+        "year": 1987
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 7, 1987"
+  },
+  "duration": "31 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.44,
+  "scored_by": 1114,
+  "rank": 12847,
+  "popularity": 12233,
+  "members": 2142,
+  "favorites": 0,
+  "synopsis": "FXs, two-legged motorcycles with arms, and racing with these machines have become wildly popular due to the sport's increased propensity for violence. Makoto is the driver for a D-ranked FX team deep in debt but with a thirst for victory. With an opportunity to race in the upcoming prestigious Open Cup, Makoto and his team want nothing more than to take home the handsome cash prize. The only problem is that their homemade FX is too underpowered to bring home the gold. However, their fortune changes when they meet Gou—a mysterious man who offers the team a brand-new state-of-the-art engine—which they eagerly accept without realizing that it may cost them more than simply money.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=117"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2351"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7100"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/デッドヒート_(OVA)"
+    }
+  ],
+  "streaming": []
+}

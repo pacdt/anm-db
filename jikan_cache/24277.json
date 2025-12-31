@@ -1,0 +1,245 @@
+{
+  "mal_id": 24277,
+  "url": "https://myanimelist.net/anime/24277/Yowamushi_Pedal__Grande_Road",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/67799.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67799t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67799l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/67799.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67799t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67799l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_PVuAbhIJa8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yowamushi Pedal: Grande Road"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yowamushi Pedal 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yowapeda 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "弱虫ペダル GRANDE ROAD"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yowamushi Pedal Grande Road"
+    }
+  ],
+  "title": "Yowamushi Pedal: Grande Road",
+  "title_english": null,
+  "title_japanese": "弱虫ペダル GRANDE ROAD",
+  "title_synonyms": [
+    "Yowamushi Pedal 2nd Season",
+    "Yowapeda 2nd Season"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-07T00:00:00+00:00",
+    "to": "2015-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2015
+      }
+    },
+    "string": "Oct 7, 2014 to Mar 31, 2015"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.04,
+  "scored_by": 83078,
+  "rank": 636,
+  "popularity": 1734,
+  "members": 149228,
+  "favorites": 511,
+  "synopsis": "Second season of the Yowamushi Pedal series.",
+  "background": "",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 18179,
+          "type": "anime",
+          "name": "Yowamushi Pedal",
+          "url": "https://myanimelist.net/anime/18179/Yowamushi_Pedal"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 30413,
+          "type": "anime",
+          "name": "Yowamushi Pedal Movie",
+          "url": "https://myanimelist.net/anime/30413/Yowamushi_Pedal_Movie"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 23627,
+          "type": "manga",
+          "name": "Yowamushi Pedal",
+          "url": "https://myanimelist.net/manga/23627/Yowamushi_Pedal"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 30790,
+          "type": "anime",
+          "name": "Yowamushi Pedal: Re:Road",
+          "url": "https://myanimelist.net/anime/30790/Yowamushi_Pedal__Re_Road"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Determination\" by LASTGASP (eps 1-12)",
+      "2: \"Remind (リマインド)\" by ROOKiEZ is PUNK'D (eps 13-24)"
+    ],
+    "endings": [
+      "1: \"Realize (リアライズ)\" by ROOKiEZ is PUNK'D (eps 1-12)",
+      "2: \"Eikou no Ichibyou (栄光への一秒)\" by MAGIC OF LiFE (eps 13-24)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.yowapeda.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10643"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16120"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yowamushi_Pedal"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257141"
+    }
+  ]
+}

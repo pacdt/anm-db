@@ -1,0 +1,169 @@
+{
+  "mal_id": 55710,
+  "url": "https://myanimelist.net/anime/55710/Hana-Doll__Reinterpretation_of_Flowering",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1410/150097.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1410/150097t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1410/150097l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1410/150097.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1410/150097t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1410/150097l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/0VyIiOnePrI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hana-Doll*: Reinterpretation of Flowering"
+    },
+    {
+      "type": "Japanese",
+      "title": "華Doll* -Reinterpretation of Flowering-"
+    }
+  ],
+  "title": "Hana-Doll*: Reinterpretation of Flowering",
+  "title_english": null,
+  "title_japanese": "華Doll* -Reinterpretation of Flowering-",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Mixed media",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-09T00:00:00+00:00",
+    "to": "2025-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 2025
+      }
+    },
+    "string": "Apr 9, 2025 to Jun 25, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.7,
+  "scored_by": 341,
+  "rank": 11877,
+  "popularity": 9876,
+  "members": 4251,
+  "favorites": 26,
+  "synopsis": "The \"Hana Ningyou Project\" (Flower Doll Project) exists to artificially create the \"perfect idol\" by implanting a special flower seed inside a body. The franchise follows the growth of young men who dedicate their lives to the project.\n\n(Source: MU)",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1257,
+      "type": "anime",
+      "name": "A-Real",
+      "url": "https://myanimelist.net/anime/producer/1257/A-Real"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"Clockwork Flowers\" by Anthos"
+    ],
+    "endings": [
+      "\"Fall leaves after leaves fall\" by Anthos"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://hanadoll-anime.com"
+    },
+    {
+      "name": "@hanadoll_anime",
+      "url": "https://twitter.com/hanadoll_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18802"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=28697"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hana-Doll#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/華Doll*#アニメ"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7369"
+    }
+  ],
+  "streaming": []
+}

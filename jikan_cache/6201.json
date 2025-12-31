@@ -1,0 +1,210 @@
+{
+  "mal_id": 6201,
+  "url": "https://myanimelist.net/anime/6201/Princess_Lover",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75519.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75519t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75519l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75519.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75519t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75519l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Princess Lover!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Princess Lover!"
+    },
+    {
+      "type": "Japanese",
+      "title": "プリンセスラバー!"
+    }
+  ],
+  "title": "Princess Lover!",
+  "title_english": null,
+  "title_japanese": "プリンセスラバー!",
+  "title_synonyms": [
+    "Princess Lover!"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-07-06T00:00:00+00:00",
+    "to": "2009-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2009
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2009
+      }
+    },
+    "string": "Jul 6, 2009 to Sep 21, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.66,
+  "scored_by": 117203,
+  "rank": 6397,
+  "popularity": 1143,
+  "members": 241351,
+  "favorites": 401,
+  "synopsis": "Following an automobile accident that claims the life of his parents, Teppei Arima is taken in by his grandfather and introduced to the world of the rich and the elite. Compared to his humble upbringing, Isshin Arima's lavish lifestyle surprises and stuns the young teenager. In return for the gracious hospitality, Teppei is expected to continue the family business by replacing his grandfather as the head of Arima Financial Combine, and to prepare him for these responsibilities, he is enrolled into an esteemed high school. Along with his recently acquired celebrity status and affluence, Teppei is informed of an arranged marriage with the equally prosperous Sylvia van Hossen, thus, beginning the thrilling escapades of his new life!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2009,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 399,
+      "type": "anime",
+      "name": "Dream Force",
+      "url": "https://myanimelist.net/anime/producer/399/Dream_Force"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 309,
+      "type": "anime",
+      "name": "GoHands",
+      "url": "https://myanimelist.net/anime/producer/309/GoHands"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 15832,
+          "type": "manga",
+          "name": "Princess Lover! - Pure My Heart",
+          "url": "https://myanimelist.net/manga/15832/Princess_Lover_-_Pure_My_Heart"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 8231,
+          "type": "anime",
+          "name": "Princess Lover!: Magical Knight Maria-chan",
+          "url": "https://myanimelist.net/anime/8231/Princess_Lover__Magical_Knight_Maria-chan"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 7468,
+          "type": "anime",
+          "name": "Princess Lover! Picture Drama",
+          "url": "https://myanimelist.net/anime/7468/Princess_Lover_Picture_Drama"
+        },
+        {
+          "mal_id": 8918,
+          "type": "anime",
+          "name": "Princess Lover! OVA",
+          "url": "https://myanimelist.net/anime/8918/Princess_Lover_OVA"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Princess Primp!\" by Miyuki Hashimoto"
+    ],
+    "endings": [
+      "\"S.S.D\" by yozuca*"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.prilover.tv/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6438"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10699"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Princess_Lover#Anime"
+    }
+  ],
+  "streaming": []
+}

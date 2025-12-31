@@ -1,0 +1,196 @@
+{
+  "mal_id": 12149,
+  "url": "https://myanimelist.net/anime/12149/AKB0048",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/74157.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/74157t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/74157l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/74157.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/74157t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/74157l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Gk6svIufW7o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "AKB0048"
+    },
+    {
+      "type": "Synonym",
+      "title": "AKB0048: First Stage"
+    },
+    {
+      "type": "Japanese",
+      "title": "AKB0048"
+    },
+    {
+      "type": "English",
+      "title": "AKB0048"
+    }
+  ],
+  "title": "AKB0048",
+  "title_english": "AKB0048",
+  "title_japanese": "AKB0048",
+  "title_synonyms": [
+    "AKB0048: First Stage"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-29T00:00:00+00:00",
+    "to": "2012-07-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 22,
+        "month": 7,
+        "year": 2012
+      }
+    },
+    "string": "Apr 29, 2012 to Jul 22, 2012"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.34,
+  "scored_by": 29579,
+  "rank": 2755,
+  "popularity": 3030,
+  "members": 64545,
+  "favorites": 683,
+  "synopsis": "After an interplanetary war at the beginning of the 21st century, planet Earth has been left in ruins, with much of its ecosystem completely destroyed. Because it was no longer possible to live a normal life on this planet, the inhabitants are forced to move on to other planets where life will, hopefully, be more comfortable.\n\nThe Deep Galactic Trade Organization, a totalitarian government that affects many of the newly inhabited planets, has somehow come to the conclusion that music is a source of evil, and that it must be banned and destroyed for good. The talent group AKB0048 is soon formed, based on the original AKB48 members that once lived on Earth. Even though their music is now considered universally illegal, they make it their mission to bring their music back to life by travelling from one planet to another and holding as many concerts as they possibly can. They must undergo a whole new set of training methods in order to become the best that they can possibly be, while also avoiding the constant danger of being arrested because of their music. Join interplanetary popstars AKB0048 as they try to save the world－with music!",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 721,
+      "type": "anime",
+      "name": "GANSIS",
+      "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 14941,
+          "type": "anime",
+          "name": "AKB0048: Next Stage",
+          "url": "https://myanimelist.net/anime/14941/AKB0048__Next_Stage"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kibou ni Tsuite (希望について)\" by NO NAME (eps 2-12)"
+    ],
+    "endings": [
+      "1: \"Kibou ni Tsuite (希望について)\" by NO NAME (eps 1)",
+      "2: \"Yume wa Nandomo Umarekawaru (夢は何度も生まれ変わる)\" by NO NAME (eps 1-6, 8-12)",
+      "3: \"Sasae (支え)\" by AKB48  (eps 9)",
+      "4: \"Niji no Ressha (虹の列車)\" by NO NAME (eps 13)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://akb0048.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8816"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13805"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/AKB0048"
+    }
+  ],
+  "streaming": []
+}

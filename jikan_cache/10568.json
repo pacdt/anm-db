@@ -1,0 +1,230 @@
+{
+  "mal_id": 10568,
+  "url": "https://myanimelist.net/anime/10568/Kamisama_no_Memochou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/75202.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/75202t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/75202l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/75202.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/75202t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/75202l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5qWB11LIwmE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kamisama no Memochou"
+    },
+    {
+      "type": "Synonym",
+      "title": "It's the Only NEET Thing to Do"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kami-sama no Memo-chou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kami-sama no Memo-chou"
+    },
+    {
+      "type": "Synonym",
+      "title": "God's Notebook"
+    },
+    {
+      "type": "Synonym",
+      "title": "Notebook of God"
+    },
+    {
+      "type": "Japanese",
+      "title": "神様のメモ帳"
+    },
+    {
+      "type": "English",
+      "title": "Heaven's Memo Pad"
+    }
+  ],
+  "title": "Kamisama no Memochou",
+  "title_english": "Heaven's Memo Pad",
+  "title_japanese": "神様のメモ帳",
+  "title_synonyms": [
+    "It's the Only NEET Thing to Do",
+    "Kami-sama no Memo-chou",
+    "Kami-sama no Memo-chou",
+    "God's Notebook",
+    "Notebook of God"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-02T00:00:00+00:00",
+    "to": "2011-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Jul 2, 2011 to Sep 24, 2011"
+  },
+  "duration": "26 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.46,
+  "scored_by": 97848,
+  "rank": 2191,
+  "popularity": 1104,
+  "members": 248350,
+  "favorites": 802,
+  "synopsis": "Narumi Fujishima may seem like a normal high school student at first glance, but in reality he is a pessimistic outsider. Due to his father's work, he had to constantly transfer schools, and thus he has never managed to become a part of society. When he is forced to join the gardening club by his cheerful classmate Ayaka Shinozaki, Narumi encounters the genius hacker Alice, who lives in isolation above Hanamaru, the ramen shop where Ayaka works part-time. He then discovers that Alice is running a special private detective agency, and that all her professional associates refer to themselves as \"NEET\"s: Not in Education, Employment, or Training.\n\nJoining the NEET detective agency due to his personal connection with a criminal case, Narumi finds himself entangled in a world of dangerous investigations conducted by the ill-assorted group of detectives, all the while trying to track down the crime syndicate which seems to have mysterious ties to Alice.\n\n[Written by MAL Rewrite]",
+  "background": "Episode 1 ran for 48 minutes. Every other episode ran for 24 minutes.",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 23779,
+          "type": "manga",
+          "name": "Kamisama no Memochou",
+          "url": "https://myanimelist.net/manga/23779/Kamisama_no_Memochou"
+        },
+        {
+          "mal_id": 24563,
+          "type": "manga",
+          "name": "Kamisama no Memochou",
+          "url": "https://myanimelist.net/manga/24563/Kamisama_no_Memochou"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kawaru Mirai (カワルミライ)\" by Choucho"
+    ],
+    "endings": [
+      "1: \"Colorado Bulldog\" by Mr. Big (eps 1)",
+      "2: \"Asunaro (あすなろ)\" by Kenichi Suzumura (eps 2-12)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.kamimemo.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8370"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12865"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kami-sama_no_Memo-ch%C5%8D"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "HIDIVE",
+      "url": "https://www.hidive.com/tv/heavens-memo-pad"
+    }
+  ]
+}

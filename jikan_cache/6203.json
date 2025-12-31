@@ -1,0 +1,192 @@
+{
+  "mal_id": 6203,
+  "url": "https://myanimelist.net/anime/6203/Sasameki_Koto",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/75225.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75225t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75225l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/75225.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75225t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75225l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sasameki Koto"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sasamekikoto"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sasame Kikoto"
+    },
+    {
+      "type": "Japanese",
+      "title": "ささめきこと"
+    },
+    {
+      "type": "English",
+      "title": "Whispered Words"
+    }
+  ],
+  "title": "Sasameki Koto",
+  "title_english": "Whispered Words",
+  "title_japanese": "ささめきこと",
+  "title_synonyms": [
+    "Sasamekikoto",
+    "Sasame Kikoto"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-08T00:00:00+00:00",
+    "to": "2009-12-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      }
+    },
+    "string": "Oct 8, 2009 to Dec 31, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.05,
+  "scored_by": 27944,
+  "rank": 4283,
+  "popularity": 2698,
+  "members": 79214,
+  "favorites": 314,
+  "synopsis": "Murasame Sumika is popular in the high school for her excellence in the marks and sports. However, she has a secret: she is in love with her classmate Kazama Ushio. Ushio also has a liking to the love between girls, but she hasn't noticed Sumika's feelings and has always been refused by other girls.",
+  "background": "",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "02:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 02:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 26,
+      "type": "anime",
+      "name": "Girls Love",
+      "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 4584,
+          "type": "manga",
+          "name": "Sasameki Koto",
+          "url": "https://myanimelist.net/manga/4584/Sasameki_Koto"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kanashii Hodo Aoku\" by Natsumi Kiyoura"
+    ],
+    "endings": [
+      "\"Niji-iro Pocket\" by Natsumi Kiyoura"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.sasameki.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6462"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10701"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sasameki_Koto"
+    }
+  ],
+  "streaming": []
+}

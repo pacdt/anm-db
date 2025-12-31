@@ -1,0 +1,245 @@
+{
+  "mal_id": 17651,
+  "url": "https://myanimelist.net/anime/17651/Genei_wo_Kakeru_Taiyou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/51071.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/51071t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/51071l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/51071.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/51071t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/51071l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/cLsYYgKLQm4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Genei wo Kakeru Taiyou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gen'ei wo Kakeru Taiyou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Il Sole Penetra le Illusioni"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Sun Penetrates the Illusions"
+    },
+    {
+      "type": "Japanese",
+      "title": "幻影ヲ駆ケル太陽"
+    },
+    {
+      "type": "English",
+      "title": "Day Break Illusion"
+    },
+    {
+      "type": "German",
+      "title": "Day Break Illusion"
+    },
+    {
+      "type": "French",
+      "title": "Day Break Illusion"
+    }
+  ],
+  "title": "Genei wo Kakeru Taiyou",
+  "title_english": "Day Break Illusion",
+  "title_japanese": "幻影ヲ駆ケル太陽",
+  "title_synonyms": [
+    "Gen'ei wo Kakeru Taiyou",
+    "Il Sole Penetra le Illusioni",
+    "The Sun Penetrates the Illusions"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-06T00:00:00+00:00",
+    "to": "2013-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 6, 2013 to Sep 28, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.39,
+  "scored_by": 21565,
+  "rank": 8031,
+  "popularity": 3251,
+  "members": 56863,
+  "favorites": 121,
+  "synopsis": "Akari Taiyou is an apprentice fortune teller living with her aunt, uncle, and their daughter Fuyuna. Having lost her mother at a young age, the only thing Akari has left of her is a deck of tarot cards and a dream to follow in her footsteps as a fortune teller.\n\nOne night, Akari has a dream of being attacked by a plant monster and witnesses a stronger version of herself defeat it. When she awakens, she discovers to her horror that the monster was actually Fuyuna. But mysteriously, Akari and her relatives soon forget Fuyuna ever existed. After another close encounter with a similar monster, she is rescued by three magical girls: Ginka Shirokane, Seira Hoshikawa, and Luna Tsukuyomi. They explain that they are from the Sefiro Fiore organization, which uses Elemental Tarot power to fight the evil creatures known as \"Daemonia.\"\n \nAkari discovers she too is a magical girl and has inherited her mother's power of The Sun card. However, she comes to realize Daemonia are actually people who have been possessed, and she must decide whether to try to save what is left of their humanity or to wipe them from existence. As Akari comes to terms with her grim duty of protecting the world from Daemonia, the bonds of the organization and that of their team will soon be strained when they deal with grave threats from the outside and from within.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1415,
+      "type": "anime",
+      "name": "Asahi Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 20187,
+          "type": "anime",
+          "name": "Genei wo Kakeru Taiyou: Fumikomenai Kokoro",
+          "url": "https://myanimelist.net/anime/20187/Genei_wo_Kakeru_Taiyou__Fumikomenai_Kokoro"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 54739,
+          "type": "manga",
+          "name": "Genei wo Kakeru Taiyou",
+          "url": "https://myanimelist.net/manga/54739/Genei_wo_Kakeru_Taiyou"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"träumerei\" by LiSA"
+    ],
+    "endings": [
+      "\"-Mirage-\" by Natsumi Okamoto (岡本菜摘)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.geneitaiyo.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9736"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15178"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Day_Break_Illusion"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255595"
+    }
+  ]
+}

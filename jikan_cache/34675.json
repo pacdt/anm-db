@@ -1,0 +1,180 @@
+{
+  "mal_id": 34675,
+  "url": "https://myanimelist.net/anime/34675/Chou_Yuu_Sekai__Being_the_Reality",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/83712.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83712t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83712l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/83712.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83712t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83712l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chou Yuu Sekai: Being the Reality"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chao You Shijie"
+    },
+    {
+      "type": "Japanese",
+      "title": "超游世界 -BEING THE REALITY-"
+    },
+    {
+      "type": "English",
+      "title": "World of Super Sand Box: Being the Reality"
+    }
+  ],
+  "title": "Chou Yuu Sekai: Being the Reality",
+  "title_english": "World of Super Sand Box: Being the Reality",
+  "title_japanese": "超游世界 -BEING THE REALITY-",
+  "title_synonyms": [
+    "Chao You Shijie"
+  ],
+  "type": "ONA",
+  "source": "Web manga",
+  "episodes": 20,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-12T00:00:00+00:00",
+    "to": "2017-06-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 8,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Jan 12, 2017 to Jun 8, 2017"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.12,
+  "scored_by": 4120,
+  "rank": 9629,
+  "popularity": 5321,
+  "members": 20672,
+  "favorites": 39,
+  "synopsis": "A hot-blooded high school teen, a mysterious female swordsman, and an unpredictable dark emo girl. It's impossible to distinguish between reality and the game world! What kind of conspiracy is awaiting them in this super journey of the world!\n\n(Source: MAL News)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 406,
+      "type": "anime",
+      "name": "Asahi Production",
+      "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+    },
+    {
+      "mal_id": 1593,
+      "type": "anime",
+      "name": "Success Corp.",
+      "url": "https://myanimelist.net/anime/producer/1593/Success_Corp"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"Change the World\" by Iida Riho"
+    ],
+    "endings": [
+      "\"Kimi no Tokoro e\" by Shamisen"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.success-corp.co.jp/app/webroot/am/cys/ja/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12709"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18998"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ch%C5%8Dy%C5%AB_Sekai"
+    }
+  ],
+  "streaming": []
+}

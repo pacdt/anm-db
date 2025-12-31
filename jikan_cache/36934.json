@@ -1,0 +1,254 @@
+{
+  "mal_id": 36934,
+  "url": "https://myanimelist.net/anime/36934/Captain_Tsubasa_2018",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1866/91270.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1866/91270t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1866/91270l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1866/91270.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1866/91270t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1866/91270l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/K6zQ1qs2hLY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Captain Tsubasa (2018)"
+    },
+    {
+      "type": "Japanese",
+      "title": "キャプテン翼"
+    },
+    {
+      "type": "German",
+      "title": "Captain Tsubasa"
+    },
+    {
+      "type": "French",
+      "title": "Captain Tsubasa"
+    }
+  ],
+  "title": "Captain Tsubasa (2018)",
+  "title_english": null,
+  "title_japanese": "キャプテン翼",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 52,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-03T00:00:00+00:00",
+    "to": "2019-04-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 2,
+        "month": 4,
+        "year": 2019
+      }
+    },
+    "string": "Apr 3, 2018 to Apr 2, 2019"
+  },
+  "duration": "22 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.42,
+  "scored_by": 37203,
+  "rank": 2339,
+  "popularity": 2637,
+  "members": 82482,
+  "favorites": 407,
+  "synopsis": "Captain Tsubasa is the passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing football at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession. \n\nIn order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.\n\nHe encounters not only rivals, but also new friends like the pretty girl Sanae Nakazawa and the talented goalkeeper, Genzo Wakabayashi, who shares the same passion as Tsubasa, and will prove to be a treasured friend in helping him push towards his dreams. Representing Japan in the FIFA World Cup is Tsubasa’s ultimate dream, but it will take a lot more than talent to reach it.",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 54803,
+          "type": "anime",
+          "name": "Captain Tsubasa Season 2: Junior Youth-hen",
+          "url": "https://myanimelist.net/anime/54803/Captain_Tsubasa_Season_2__Junior_Youth-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1789,
+          "type": "manga",
+          "name": "Captain Tsubasa",
+          "url": "https://myanimelist.net/manga/1789/Captain_Tsubasa"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 40606,
+          "type": "anime",
+          "name": "Captain Tsubasa (2018) Special",
+          "url": "https://myanimelist.net/anime/40606/Captain_Tsubasa_2018_Special"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 2116,
+          "type": "anime",
+          "name": "Captain Tsubasa",
+          "url": "https://myanimelist.net/anime/2116/Captain_Tsubasa"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Start Dash! (スタートダッシュ！)\" by Johnny's West (eps 1-28)",
+      "2: \"Kizudarake no Ai (傷だらけの愛)\" by Johnny's West (eps 29-??)"
+    ],
+    "endings": [
+      "17 conti.: Jun Misugi (Souma Saito), Genzou Wakabayashi (Kenichi Suzumura), Tarou Misaki (Ayaka Furuhara)",
+      "1: \"Moete Hero (燃えてヒーロー)\" by Tsubasa Oozora (Yuuko Sanpei)",
+      "2: \"Moete Hero (燃えてヒーロー)\" by Genzou Wakabayashi (Kenichi Suzumura)",
+      "3: \"Moete Hero (燃えてヒーロー)\" by Kojirou Hyuuga (Takuya Satou)",
+      "4: \"Moete Hero (燃えてヒーロー)\" by Tarou Misaki (Ayaka Furuhara)",
+      "5: \"Moete Hero (燃えてヒーロー)\" by Jun Misugi (Souma Saitou)",
+      "6: \"Moete Hero (燃えてヒーロー)\" by Tsubasa Oozora (Yuuko Sanpei) & Tarou Misaki (Ayaka Furukawa)",
+      "7: \"Moete Hero (燃えてヒーロー)\" by Genzou Wakabayashi (Kenichi Suzumura) & Kojirou Hyuuga (Takuya Satou)",
+      "8: \"Moete Hero (燃えてヒーロー)\" by Tsubasa Oozora (Yuuko Sanpei), Genzou Wakabayashi (Kenichi Suzumura), Kojirou Hyuuga (Takuya Satou), Tarou Misaki (Ayaka Furuhara), Jun Misugi (Souma Saitou)",
+      "9: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Tsubasa Oozora (Yuuko Sanpei)",
+      "10: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Kojirou Hyuuga (Takuya Satou), Jun Misugi (Souma Saitou)",
+      "11: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Genzou Wakabayashi (Kenichi Suzumura), Tarou Misaki (Ayaka Furuhara)",
+      "12: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Hikaru Matsuyama (Wataru Hatano)",
+      "13: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Ken Wakashimazu (Yuuichirou Uemura)",
+      "14: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Kojirou Hyuuga (Takuya Satou)",
+      "15: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Kojirou Hyuuga (Takuya Satou) & Ken Wakashimazu (Yuuichirou Uemura)",
+      "16: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Tsubasa Oozora (Yuuko Sanpei) & Kojirou Hyuuga (Takuya Satou)",
+      "17: \"Moete Hero Junior High Arc Arrange (燃えてヒーロー（中学生編アレンジ）)\" by Tsubasa Oozora (Yuuko Sanpei), Kojirou Hyuuga (Takuya Satou), Ken Wakashimazu (Yuuichirou Uemura), Hikaru Matsuyama (Wataru Hatano)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/captaintsubasa2018/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13655"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20614"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Captain_Tsubasa"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281671"
+    }
+  ]
+}

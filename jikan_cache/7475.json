@@ -1,0 +1,165 @@
+{
+  "mal_id": 7475,
+  "url": "https://myanimelist.net/anime/7475/Ano_Ko_ni_1000",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/64357.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/64357t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/64357l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/64357.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/64357t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/64357l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ano Ko ni 1000%"
+    },
+    {
+      "type": "Synonym",
+      "title": "Anoko ni 1000%"
+    },
+    {
+      "type": "Synonym",
+      "title": "1000% For That Girl"
+    },
+    {
+      "type": "Japanese",
+      "title": "あの子に1000％"
+    },
+    {
+      "type": "English",
+      "title": "That Girl is 1000%"
+    }
+  ],
+  "title": "Ano Ko ni 1000%",
+  "title_english": "That Girl is 1000%",
+  "title_japanese": "あの子に1000％",
+  "title_synonyms": [
+    "Anoko ni 1000%",
+    "1000% For That Girl"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1989-11-14T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 11,
+        "year": 1989
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 14, 1989"
+  },
+  "duration": "10 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.08,
+  "scored_by": 1736,
+  "rank": 13719,
+  "popularity": 10746,
+  "members": 3247,
+  "favorites": 0,
+  "synopsis": "Ano Ko ni 1000% is a high school love story. Azusa Kawahara is the soccer team manager, and her love for childhood playmate Ikumi is mutual. Although the whole school knew what was happening between Azusa and Ikumi, there were rivals who came between them.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 246,
+      "type": "anime",
+      "name": "Visual 80",
+      "url": "https://myanimelist.net/anime/producer/246/Visual_80"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 5671,
+          "type": "manga",
+          "name": "Ano Ko ni 1000%",
+          "url": "https://myanimelist.net/manga/5671/Ano_Ko_ni_1000"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5996"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1419"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ano_Ko_ni_1000%25"
+    }
+  ],
+  "streaming": []
+}

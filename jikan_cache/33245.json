@@ -1,0 +1,182 @@
+{
+  "mal_id": 33245,
+  "url": "https://myanimelist.net/anime/33245/Ame-iro_Cocoa_in_Hawaii",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1727/111715.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/111715t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/111715l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1727/111715.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1727/111715t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1727/111715l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ame-iro Cocoa in Hawaii"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ame-iro Cocoa 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "雨色ココア in Hawaii"
+    },
+    {
+      "type": "English",
+      "title": "Rainy Cocoa in Hawaii"
+    }
+  ],
+  "title": "Ame-iro Cocoa in Hawaii",
+  "title_english": "Rainy Cocoa in Hawaii",
+  "title_japanese": "雨色ココア in Hawaii",
+  "title_synonyms": [
+    "Ame-iro Cocoa 3"
+  ],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-02T00:00:00+00:00",
+    "to": "2016-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 2, 2016 to Dec 18, 2016"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 4.76,
+  "scored_by": 2416,
+  "rank": 14089,
+  "popularity": 8025,
+  "members": 7350,
+  "favorites": 4,
+  "synopsis": "Ame-iro Cocoa: Rainy Cocoa Goes to Hawaii!! Nozomu Tokura, who is Aoi's older brother, is appointed as the manager of the Hawaii store.  With more new characters, will he be able to open up the store there successfully?",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1264,
+      "type": "anime",
+      "name": "EMT Squared",
+      "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 31139,
+          "type": "anime",
+          "name": "Ame-iro Cocoa: Rainy Color e Youkoso!",
+          "url": "https://myanimelist.net/anime/31139/Ame-iro_Cocoa__Rainy_Color_e_Youkoso"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 35923,
+          "type": "anime",
+          "name": "Ame-iro Cocoa Series: Ame-con!!",
+          "url": "https://myanimelist.net/anime/35923/Ame-iro_Cocoa_Series__Ame-con"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Hitomi wa, Ame-iro endless summer rainbow (瞳は、雨色 endless summer rainbow)\" by Yugo Sato"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.rainycocoa.jp/anime/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12106"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18750"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rainy_Cocoa"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274431"
+    }
+  ]
+}

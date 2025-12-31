@@ -1,0 +1,215 @@
+{
+  "mal_id": 31804,
+  "url": "https://myanimelist.net/anime/31804/Kuma_Miko",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/78863.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/78863t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/78863l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/78863.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/78863t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/78863l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CiqZUdyrwBk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kuma Miko"
+    },
+    {
+      "type": "Japanese",
+      "title": "くまみこ"
+    },
+    {
+      "type": "English",
+      "title": "Kumamiko: Girl Meets Bear"
+    },
+    {
+      "type": "German",
+      "title": "Kumamiko: Girl Meets Bear"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kumamiko: Girl Meets Bear"
+    },
+    {
+      "type": "French",
+      "title": "Kumamiko: Girl Meets Bear"
+    }
+  ],
+  "title": "Kuma Miko",
+  "title_english": "Kumamiko: Girl Meets Bear",
+  "title_japanese": "くまみこ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-03T00:00:00+00:00",
+    "to": "2016-06-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 19,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 3, 2016 to Jun 19, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.31,
+  "scored_by": 32249,
+  "rank": 8512,
+  "popularity": 2695,
+  "members": 79471,
+  "favorites": 89,
+  "synopsis": "What does a bear know about life in the big city? For Machi Amayadori's sake, hopefully a lot! The young shrine maiden has spent her whole life in the rural mountains with Natsu, her talking guardian bear. Now, at fourteen, she wants to take a chance and attend high school in the big city. Can Natsu really prepare her for city life? Or will his wacky trials be too much for even Machi to bear?\n\n(Source: FUNimation)",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 290,
+      "type": "anime",
+      "name": "Kinema Citrus",
+      "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+    },
+    {
+      "mal_id": 1264,
+      "type": "anime",
+      "name": "EMT Squared",
+      "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 63295,
+          "type": "manga",
+          "name": "Kuma Miko",
+          "url": "https://myanimelist.net/manga/63295/Kuma_Miko"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 33118,
+          "type": "anime",
+          "name": "Kuma Miko Specials",
+          "url": "https://myanimelist.net/anime/33118/Kuma_Miko_Specials"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Datte, Gyutteshite. (だって、ギュってして。)\" by Maki Hanatani"
+    ],
+    "endings": [
+      "\"KUMAMIKO DANCING\" by Machi Amayadori (Natsumi Hioka) & Natsu Kumai (Hiroki Yasumoto) feat. Kumaide-mura no Minasan"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://kmmk.tv/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11694"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17714"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%BE%E3%81%BF%E3%81%93"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274035"
+    }
+  ]
+}

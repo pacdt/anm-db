@@ -1,0 +1,172 @@
+{
+  "mal_id": 40850,
+  "url": "https://myanimelist.net/anime/40850/Breakers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1125/106426.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/106426t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/106426l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1125/106426.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/106426t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/106426l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Breakers"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブレーカーズ"
+    },
+    {
+      "type": "English",
+      "title": "Breakers"
+    }
+  ],
+  "title": "Breakers",
+  "title_english": "Breakers",
+  "title_japanese": "ブレーカーズ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 16,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-07T00:00:00+00:00",
+    "to": "2020-05-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 26,
+        "month": 5,
+        "year": 2020
+      }
+    },
+    "string": "Jan 7, 2020 to May 26, 2020"
+  },
+  "duration": "9 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.32,
+  "scored_by": 3592,
+  "rank": 8452,
+  "popularity": 6732,
+  "members": 11350,
+  "favorites": 11,
+  "synopsis": "The anime will center on para-athletes who all meet an outcast sports scientist named Ren Narita. The anime will have four stories about four different sports: wheelchair basketball, track and high jump, goalball, and paralympic swimming.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1999,
+      "type": "anime",
+      "name": "Albacrow",
+      "url": "https://myanimelist.net/anime/producer/1999/Albacrow"
+    },
+    {
+      "mal_id": 2053,
+      "type": "anime",
+      "name": "l-a-unch・BOX",
+      "url": "https://myanimelist.net/anime/producer/2053/l-a-unch%E3%83%BBBOX"
+    },
+    {
+      "mal_id": 2134,
+      "type": "anime",
+      "name": "Studio CANDY BOX",
+      "url": "https://myanimelist.net/anime/producer/2134/Studio_CANDY_BOX"
+    },
+    {
+      "mal_id": 2875,
+      "type": "anime",
+      "name": "Blaze Studio",
+      "url": "https://myanimelist.net/anime/producer/2875/Blaze_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"SUPER HERO\" by BugLug"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www6.nhk.or.jp/anime/program/detail.html?i=breakers"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14722"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22926"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC%E3%82%BA_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)"
+    }
+  ],
+  "streaming": []
+}

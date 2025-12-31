@@ -1,0 +1,226 @@
+{
+  "mal_id": 6381,
+  "url": "https://myanimelist.net/anime/6381/Strike_Witches_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/25477.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/25477t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/25477l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/25477.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/25477t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/25477l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/EsLFakIF6R0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Strike Witches 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "ストライクウィッチーズ 2"
+    },
+    {
+      "type": "English",
+      "title": "Strike Witches 2"
+    }
+  ],
+  "title": "Strike Witches 2",
+  "title_english": "Strike Witches 2",
+  "title_japanese": "ストライクウィッチーズ 2",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-07-08T00:00:00+00:00",
+    "to": "2010-09-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2010
+      },
+      "to": {
+        "day": 23,
+        "month": 9,
+        "year": 2010
+      }
+    },
+    "string": "Jul 8, 2010 to Sep 23, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.28,
+  "scored_by": 41807,
+  "rank": 3040,
+  "popularity": 2536,
+  "members": 87594,
+  "favorites": 275,
+  "synopsis": "Six months have passed since the victorious Battle of Britannia and the reclamation of Gallia from Neuroi invaders. Yoshika Miyafuji, member of the famed 501st Joint Fighter Wing, has come back home to Fuso and graduated from middle school.\n\nHowever, her fight is far from over. She receives a letter supposedly sent by her long-deceased father, containing blueprints of a state-of-the-art Striker Unit he had been working on before his death. The Unit, designed specifically for Yoshika, might be capable of harnessing her extraordinary magical powers.\n\nMeanwhile, a new threat in Europe is rising. A Neuroi nest of an unprecedented size and might has appeared over Venezia, wiping out local Witch forces and instantly swallowing the northern part of the country. To make matters worse, a newly spotted humanoid type of Neuroi is attempting to come into contact with humans.\n\nYoshika, incapable of abandoning her friends on the front lines, must once again venture to the war-torn continent.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2010,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 352,
+      "type": "anime",
+      "name": "Kadokawa Pictures Japan",
+      "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 689,
+      "type": "anime",
+      "name": "NTT Docomo",
+      "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 83,
+      "type": "anime",
+      "name": "AIC Spirits",
+      "url": "https://myanimelist.net/anime/producer/83/AIC_Spirits"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 32866,
+          "type": "anime",
+          "name": "Brave Witches",
+          "url": "https://myanimelist.net/anime/32866/Brave_Witches"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 23725,
+          "type": "anime",
+          "name": "Strike Witches: Operation Victory Arrow",
+          "url": "https://myanimelist.net/anime/23725/Strike_Witches__Operation_Victory_Arrow"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"STRIKE WITCHES 2 ~Egao no Mahou~ (STRIKE WITCHES 2 ～笑顔の魔法～)\" by Yoko Ishida"
+    ],
+    "endings": [
+      "1: \"Over Sky\" by Fukuen Misato & Seto Saori (eps 1,2)",
+      "2: \"Over Sky\" by Fukuen Misato, Sawashiro Miyuki & Nazuka Kaori (eps 3)",
+      "3: \"Over Sky\" by Sonozaki Mie & Koshimizu Ami (eps 4)",
+      "4: \"Over Sky\" by Fukuen Misato, Saito Chiwa & Koshimizu Ami (eps 5)",
+      "5: \"Over Sky\" by Fukuen Misato, Kadowaki Mai & Ohashi Ayuru (eps 6)",
+      "6: \"Over Sky\" by Tanaka Rie, Sonozaki Mie & Nogawa Sakura (eps 7)",
+      "7: \"Over Sky\" by Fukuen Misato & Nazuka Kaori (eps 8)",
+      "8: \"Over Sky\" by Sawashiro Miyuki & Seto Saori (eps 9)",
+      "9: \"Over Sky\" by Itou Shizuka & Nogawa Sakura (eps 10)",
+      "10: \"Over Sky\" by Seto Saori & Tanaka Rie (eps 11)",
+      "11: \"Over Sky\" by Fukuen Misato, Kadowaki Mai, Koshimizu Ami, Nazuka Kaori, Nogawa Sakura, Oohashi Ayuru, Saitou Chiwa, Sawashiro Miyuki, Seto Saori, Sonozaki Mie & Tanaka Rie (eps 12)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://s-witch.cute.or.jp/pc/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7542"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11313"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Strike_Witches"
+    }
+  ],
+  "streaming": []
+}

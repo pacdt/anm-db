@@ -1,0 +1,208 @@
+{
+  "mal_id": 12883,
+  "url": "https://myanimelist.net/anime/12883/Tsuritama",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/69909.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/69909t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/69909l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/69909.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/69909t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/69909l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pn-BDOSDDa4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tsuritama"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fishing Ball"
+    },
+    {
+      "type": "Japanese",
+      "title": "つり球"
+    },
+    {
+      "type": "English",
+      "title": "Tsuritama"
+    }
+  ],
+  "title": "Tsuritama",
+  "title_english": "Tsuritama",
+  "title_japanese": "つり球",
+  "title_synonyms": [
+    "Fishing Ball"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-13T00:00:00+00:00",
+    "to": "2012-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2012
+      }
+    },
+    "string": "Apr 13, 2012 to Jun 29, 2012"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.64,
+  "scored_by": 61432,
+  "rank": 1530,
+  "popularity": 1531,
+  "members": 175630,
+  "favorites": 2307,
+  "synopsis": "Saving the world... by fishing?\n\nYuki Sanada has always felt like a fish out of water. Socially awkward and anxious, he struggles to fit in with his surroundings and moves from town to town with his grandma. As he and his grandma settle into the charming seaside town of Enoshima, Yuki hopes for a fresh start. However, his reputation at school is jeopardized by the arrival of fellow transfer student Haru. The eccentric Haru immediately makes a splash, wildly claiming to be an alien and declaring that Yuki is his friend. Pairing the reluctant Yuki with their classmate and fishing talent, Natsuki Usami, he tasks both of them with the absurd mission of saving the world from a mysterious threat in the ocean. Mischief and hijinks ensue, as these three embark on a whimsical adventure filled with laughs, heart, and self-discovery!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 765,
+      "type": "anime",
+      "name": "Sakura Create",
+      "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 51733,
+          "type": "manga",
+          "name": "Tsuritama",
+          "url": "https://myanimelist.net/manga/51733/Tsuritama"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 31581,
+          "type": "anime",
+          "name": "Tsuritama: Harikitte Contest",
+          "url": "https://myanimelist.net/anime/31581/Tsuritama__Harikitte_Contest"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Tsurezure Monochrome (徒然モノクローム)\" by Fujifabric"
+    ],
+    "endings": [
+      "\"Sora mo Toberu Hazu (空も飛べるはず)\" by Sayonara Ponytail"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tsuritama.com"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8916"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13993"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tsuritama"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-244256"
+    }
+  ]
+}

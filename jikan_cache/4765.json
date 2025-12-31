@@ -1,0 +1,230 @@
+{
+  "mal_id": 4765,
+  "url": "https://myanimelist.net/anime/4765/Gunslinger_Girl__Il_Teatrino_OVA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/12641.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/12641t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/12641l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/12641.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/12641t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/12641l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gunslinger Girl: Il Teatrino OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gunslinger Girl OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gunslinger Girl: Il Teatrino Episodes 14 and 15"
+    },
+    {
+      "type": "Synonym",
+      "title": "Phantasma"
+    },
+    {
+      "type": "Synonym",
+      "title": "Light of Venice"
+    },
+    {
+      "type": "Synonym",
+      "title": "Darkness of the Heart"
+    },
+    {
+      "type": "Synonym",
+      "title": "Venezia no Hikari"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kokoro no Yami"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガンスリンガー ガール -IL TEATRINO- OVA"
+    },
+    {
+      "type": "English",
+      "title": "Gunslinger Girl: Il Teatrino OVA"
+    },
+    {
+      "type": "German",
+      "title": "Gunslinger Girl: Il Teatrino"
+    },
+    {
+      "type": "French",
+      "title": "Gunslinger Girl: Il Teatrino OAV"
+    }
+  ],
+  "title": "Gunslinger Girl: Il Teatrino OVA",
+  "title_english": "Gunslinger Girl: Il Teatrino OVA",
+  "title_japanese": "ガンスリンガー ガール -IL TEATRINO- OVA",
+  "title_synonyms": [
+    "Gunslinger Girl OVA",
+    "Gunslinger Girl: Il Teatrino Episodes 14 and 15",
+    "Phantasma",
+    "Light of Venice",
+    "Darkness of the Heart",
+    "Venezia no Hikari",
+    "Kokoro no Yami"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-24T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 24, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.94,
+  "scored_by": 10872,
+  "rank": 4801,
+  "popularity": 4906,
+  "members": 25118,
+  "favorites": 14,
+  "synopsis": "Episodes 14 and 15 of Gunslinger Girl: Il Teatrino.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Artland",
+      "url": "https://myanimelist.net/anime/producer/8/Artland"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 3231,
+          "type": "anime",
+          "name": "Gunslinger Girl: Il Teatrino",
+          "url": "https://myanimelist.net/anime/3231/Gunslinger_Girl__Il_Teatrino"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 649,
+          "type": "manga",
+          "name": "Gunslinger Girl",
+          "url": "https://myanimelist.net/manga/649/Gunslinger_Girl"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"doll\" by Lia"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.gunslingergirl.com/ova/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6128"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10121"
+    }
+  ],
+  "streaming": []
+}
