@@ -1,0 +1,187 @@
+{
+  "mal_id": 3088,
+  "url": "https://myanimelist.net/anime/3088/Tokyo_Marble_Chocolate",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/50455.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/50455t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/50455l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/50455.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/50455t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/50455l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/gt_Wdcbk3vU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tokyo Marble Chocolate"
+    },
+    {
+      "type": "Synonym",
+      "title": "Zenryoku Shounen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Matta Aimashou"
+    },
+    {
+      "type": "Japanese",
+      "title": "東京マーブルチョコレート"
+    },
+    {
+      "type": "English",
+      "title": "Tokyo Marble Chocolate"
+    }
+  ],
+  "title": "Tokyo Marble Chocolate",
+  "title_english": "Tokyo Marble Chocolate",
+  "title_japanese": "東京マーブルチョコレート",
+  "title_synonyms": [
+    "Zenryoku Shounen",
+    "Matta Aimashou"
+  ],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-12-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 12,
+        "year": 2007
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 5, 2007"
+  },
+  "duration": "26 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.12,
+  "scored_by": 12088,
+  "rank": 3974,
+  "popularity": 4717,
+  "members": 27633,
+  "favorites": 41,
+  "synopsis": "Chizuru, a cheerful girl with a history of unsuccessful romance, is planning to break up with her boyfriend, Yuudai, since he never seems to reciprocate her feelings. However, as she arrives at what she plans to be their final date, Yuudai presents her with a gift that turns out to be an energetic and troublesome mini donkey. While Yuudai was hoping that today would be the day he could finally summon enough confidence to let Chizuru know the depth of his feelings, a series of misunderstandings threaten to tear the couple apart forever. With a rambunctious mini donkey doing its best to mend their relationship, Chizuru and Yuudai each wonder if they are capable of loving and being loved in return.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 157,
+      "type": "anime",
+      "name": "BMG Japan",
+      "url": "https://myanimelist.net/anime/producer/157/BMG_Japan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 3051,
+      "type": "anime",
+      "name": "Anime Limited",
+      "url": "https://myanimelist.net/anime/producer/3051/Anime_Limited"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 10371,
+          "type": "manga",
+          "name": "Tokyo Marble Chocolate",
+          "url": "https://myanimelist.net/manga/10371/Tokyo_Marble_Chocolate"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "1: \"Matta Aimashou\" by SEAMO",
+      "2: \"Zenryoku Shounen\" by Sukima Switch"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.production-ig.co.jp/works/tokyo-marble-chocolate/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5429"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8372"
+    }
+  ],
+  "streaming": []
+}

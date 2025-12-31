@@ -1,0 +1,242 @@
+{
+  "mal_id": 297,
+  "url": "https://myanimelist.net/anime/297/Grenadier__Hohoemi_no_Senshi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1691/114822.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/114822t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/114822l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1691/114822.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/114822t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/114822l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Grenadier: Hohoemi no Senshi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Grenadier: The Smiling Senshi"
+    },
+    {
+      "type": "Japanese",
+      "title": "グレネーダー 〜ほほえみの閃士〜"
+    },
+    {
+      "type": "English",
+      "title": "Grenadier: The Beautiful Warrior"
+    }
+  ],
+  "title": "Grenadier: Hohoemi no Senshi",
+  "title_english": "Grenadier: The Beautiful Warrior",
+  "title_japanese": "グレネーダー 〜ほほえみの閃士〜",
+  "title_synonyms": [
+    "Grenadier: The Smiling Senshi"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-14T00:00:00+00:00",
+    "to": "2005-01-13T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 13,
+        "month": 1,
+        "year": 2005
+      }
+    },
+    "string": "Oct 14, 2004 to Jan 13, 2005"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.67,
+  "scored_by": 26342,
+  "rank": 6332,
+  "popularity": 3184,
+  "members": 59040,
+  "favorites": 82,
+  "synopsis": "Rushuna is a blonde and very beautiful Senshi (gun expert) that travels through the world with one purpose. Which is to make the world a peaceful place by, instead of fighting with weapons, taking away the people's will to fight by giving them a smile. Although she doesn't want to fight, she is forced to, and shows amazing gun skills. In this journey she meets Yajirou, a mercenary that uses a sword to fight and joins her on her journey. \n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 741,
+      "type": "anime",
+      "name": "Toshiba Entertainment",
+      "url": "https://myanimelist.net/anime/producer/741/Toshiba_Entertainment"
+    },
+    {
+      "mal_id": 1488,
+      "type": "anime",
+      "name": "Hakuhodo DY Media Partners",
+      "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+    },
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    },
+    {
+      "mal_id": 1383,
+      "type": "anime",
+      "name": "Studio Live",
+      "url": "https://myanimelist.net/anime/producer/1383/Studio_Live"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 328,
+          "type": "manga",
+          "name": "Grenadier",
+          "url": "https://myanimelist.net/manga/328/Grenadier"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 4361,
+          "type": "anime",
+          "name": "Grenadier: Hohoemi no Senshi Specials",
+          "url": "https://myanimelist.net/anime/4361/Grenadier__Hohoemi_no_Senshi_Specials"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"KOHAKU\" by Mikuni Shimokawa",
+      "2: \"Akatsuki no Sora wo Kakeru\" by Hiromi Sato"
+    ],
+    "endings": [
+      "1: \"Kanashimi ni Makenaide\" by Mikuni Shimokawa",
+      "2: \"Hana no Youni\" by Hiromi Sato"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.wowow.co.jp/anime/grenadier/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2326"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4443"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Grenadier_(manga)"
+    }
+  ],
+  "streaming": []
+}

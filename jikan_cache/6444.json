@@ -1,0 +1,228 @@
+{
+  "mal_id": 6444,
+  "url": "https://myanimelist.net/anime/6444/Tegamibachi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/71808.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/71808t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/71808l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/71808.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/71808t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/71808l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/MMHkoeFUzv4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tegamibachi"
+    },
+    {
+      "type": "Japanese",
+      "title": "テガミバチ"
+    },
+    {
+      "type": "English",
+      "title": "Tegami Bachi: Letter Bee"
+    },
+    {
+      "type": "German",
+      "title": "Tegami Bachi: Letter Bee"
+    },
+    {
+      "type": "Spanish",
+      "title": "Tegami Bachi Letter Bee"
+    },
+    {
+      "type": "French",
+      "title": "Letter Bee"
+    }
+  ],
+  "title": "Tegamibachi",
+  "title_english": "Tegami Bachi: Letter Bee",
+  "title_japanese": "テガミバチ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-03T00:00:00+00:00",
+    "to": "2010-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2010
+      }
+    },
+    "string": "Oct 3, 2009 to Mar 27, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.59,
+  "scored_by": 46441,
+  "rank": 1677,
+  "popularity": 1983,
+  "members": 126791,
+  "favorites": 753,
+  "synopsis": "Gauche Suede is highly respected among the Letter Bees—a government organization that delivers written messages to even the most remote locations. However, the Amberground, the land Gauche must traverse, is blanketed in a constant twilight and home to monsters known as Gaichuu. On one precarious journey, Gauche meets Lag Seeing, a troubled young boy who has himself been sent as a letter.\n\nFive years later, Lag joins the Letter Bee as well, inspired by his journey with Gauche. As he strives to become like his hero, Lag discovers the conflict and complexity at the heart of his world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    },
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1129,
+      "type": "anime",
+      "name": "Pierrot Plus",
+      "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 8311,
+          "type": "anime",
+          "name": "Tegamibachi Reverse",
+          "url": "https://myanimelist.net/anime/8311/Tegamibachi_Reverse"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1709,
+          "type": "manga",
+          "name": "Tegamibachi",
+          "url": "https://myanimelist.net/manga/1709/Tegamibachi"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 5538,
+          "type": "anime",
+          "name": "Tegamibachi: Hikari to Ao no Gensou Yawa",
+          "url": "https://myanimelist.net/anime/5538/Tegamibachi__Hikari_to_Ao_no_Gensou_Yawa"
+        },
+        {
+          "mal_id": 8022,
+          "type": "anime",
+          "name": "Tegamibachi Gakuen",
+          "url": "https://myanimelist.net/anime/8022/Tegamibachi_Gakuen"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Hajimari no Hi (はじまりの日; Day of Beginnings)\" by Suga Shikao feat. Mummy-D (eps 1-13)",
+      "2: \"Love Letter no Kawari ni Kono Uta wo. (ラブレターのかわりにこの詩を。)\" by Seira (eps 14-25)"
+    ],
+    "endings": [
+      "1: \"Hatenaki Michi (果てなき道; Endless Road)\" by HIMEKA (eps 1-13)",
+      "2: \"Hikari no Kioku (光の記憶)\" by Angelo (eps 14-25)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.ani.tv/tegamibachi/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6772"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10831"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tegami_Bachi"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-191638"
+    }
+  ]
+}

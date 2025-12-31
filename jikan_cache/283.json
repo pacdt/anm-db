@@ -1,0 +1,229 @@
+{
+  "mal_id": 283,
+  "url": "https://myanimelist.net/anime/283/Akage_no_Anne",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1365/115824.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/115824t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/115824l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1365/115824.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/115824t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/115824l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/4RMCIB_oe6k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Akage no Anne"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sekai Meisaku Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Red haired Anne"
+    },
+    {
+      "type": "Synonym",
+      "title": "Anne the Redhead"
+    },
+    {
+      "type": "Japanese",
+      "title": "赤毛のアン"
+    },
+    {
+      "type": "English",
+      "title": "Anne of Green Gables"
+    },
+    {
+      "type": "Spanish",
+      "title": "Ana de las Tejas Verdes"
+    },
+    {
+      "type": "French",
+      "title": "Anne et la maison aux pignons verts"
+    }
+  ],
+  "title": "Akage no Anne",
+  "title_english": "Anne of Green Gables",
+  "title_japanese": "赤毛のアン",
+  "title_synonyms": [
+    "Sekai Meisaku Gekijou",
+    "Red haired Anne",
+    "Anne the Redhead"
+  ],
+  "type": "TV",
+  "source": "Novel",
+  "episodes": 50,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1979-01-07T00:00:00+00:00",
+    "to": "1979-12-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 1979
+      },
+      "to": {
+        "day": 30,
+        "month": 12,
+        "year": 1979
+      }
+    },
+    "string": "Jan 7, 1979 to Dec 30, 1979"
+  },
+  "duration": "25 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.86,
+  "scored_by": 23011,
+  "rank": 952,
+  "popularity": 3445,
+  "members": 51600,
+  "favorites": 962,
+  "synopsis": "Life is not easy for Anne Shirley, an 11-year-old orphan with a vast imagination and a short temper. In a twist of fate, she gets taken into the Cuthbert house in Avonlea. The elderly occupants Marilla and Matthew Cuthbert were looking for a young boy to help in the fields, but they're in for quite a shock when they realize Anne is a girl.\n\nAdapted from the acclaimed classic by L. M. Montgomery, Akage no Anne portrays Anne's upbringing from 11 to 17 years of age and her encounters and separations with various people. Only time will tell what major decision Anne has to make that will change her life forever.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 1979,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 19:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Nippon Animation",
+      "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 5494,
+          "type": "anime",
+          "name": "Konnichiwa Anne: Before Green Gables",
+          "url": "https://myanimelist.net/anime/5494/Konnichiwa_Anne__Before_Green_Gables"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 10282,
+          "type": "manga",
+          "name": "Akage no Anne",
+          "url": "https://myanimelist.net/manga/10282/Akage_no_Anne"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 37423,
+          "type": "anime",
+          "name": "Shiawase Pasta Story",
+          "url": "https://myanimelist.net/anime/37423/Shiawase_Pasta_Story"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 23583,
+          "type": "anime",
+          "name": "Akage no Anne Specials",
+          "url": "https://myanimelist.net/anime/23583/Akage_no_Anne_Specials"
+        },
+        {
+          "mal_id": 8950,
+          "type": "anime",
+          "name": "Akage no Anne: Green Gables e no Michi",
+          "url": "https://myanimelist.net/anime/8950/Akage_no_Anne__Green_Gables_e_no_Michi"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 60334,
+          "type": "anime",
+          "name": "Anne Shirley",
+          "url": "https://myanimelist.net/anime/60334/Anne_Shirley"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kikoeru Kashira (きこえるかしら)\" by Ritsuko Oowada"
+    ],
+    "endings": [
+      "\"Samenai Yume (さめない夢)\" by Ritsuko Oowada"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://dbeat.bandaivisual.co.jp/meisaku/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1061"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=421"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Anne_of_Green_Gables"
+    }
+  ],
+  "streaming": []
+}

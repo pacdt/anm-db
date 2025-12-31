@@ -1,0 +1,339 @@
+{
+  "mal_id": 29803,
+  "url": "https://myanimelist.net/anime/29803/Overlord",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/136600t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1945/136600.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1945/136600t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/136600l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3jE9moHQePI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Overlord"
+    },
+    {
+      "type": "Japanese",
+      "title": "オーバーロード"
+    },
+    {
+      "type": "English",
+      "title": "Overlord"
+    }
+  ],
+  "title": "Overlord",
+  "title_english": "Overlord",
+  "title_japanese": "オーバーロード",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-07T00:00:00+00:00",
+    "to": "2015-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2015
+      }
+    },
+    "string": "Jul 7, 2015 to Sep 29, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.9,
+  "scored_by": 1021184,
+  "rank": 874,
+  "popularity": 71,
+  "members": 1727920,
+  "favorites": 28124,
+  "synopsis": "The final hour of the popular virtual reality game Yggdrasil has come. However, Momonga, a powerful wizard and master of the dark guild Ainz Ooal Gown, decides to spend his last few moments in the game as the servers begin to shut down. To his surprise, despite the clock having struck midnight, Momonga is still fully conscious as his character and, moreover, the non-player characters appear to have developed personalities of their own!\n\nConfronted with this abnormal situation, Momonga commands his loyal servants to help him investigate and take control of this new world, with the hopes of figuring out what has caused this development and if there may be others in the same predicament.\n\n[Written by MAL Rewrite]",
+  "background": "Overlord adapts light novel volumes 1 to 3.",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1254,
+      "type": "anime",
+      "name": "Grooove",
+      "url": "https://myanimelist.net/anime/producer/1254/Grooove"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 35073,
+          "type": "anime",
+          "name": "Overlord II",
+          "url": "https://myanimelist.net/anime/35073/Overlord_II"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 81667,
+          "type": "manga",
+          "name": "Overlord",
+          "url": "https://myanimelist.net/manga/81667/Overlord"
+        },
+        {
+          "mal_id": 169454,
+          "type": "manga",
+          "name": "Overlord: \"Shin\" Sekai-hen",
+          "url": "https://myanimelist.net/manga/169454/Overlord__Shin_Sekai-hen"
+        },
+        {
+          "mal_id": 81669,
+          "type": "manga",
+          "name": "Overlord",
+          "url": "https://myanimelist.net/manga/81669/Overlord"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 37264,
+          "type": "anime",
+          "name": "Overlord: Oukoku no Kan-tachi - Drama CD-tsuki Tokusou-ban",
+          "url": "https://myanimelist.net/anime/37264/Overlord__Oukoku_no_Kan-tachi_-_Drama_CD-tsuki_Tokusou-ban"
+        },
+        {
+          "mal_id": 31138,
+          "type": "anime",
+          "name": "Overlord: Ple Ple Pleiades",
+          "url": "https://myanimelist.net/anime/31138/Overlord__Ple_Ple_Pleiades"
+        },
+        {
+          "mal_id": 33372,
+          "type": "anime",
+          "name": "Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki",
+          "url": "https://myanimelist.net/anime/33372/Overlord__Ple_Ple_Pleiades_-_Nazarick_Saidai_no_Kiki"
+        },
+        {
+          "mal_id": 38693,
+          "type": "anime",
+          "name": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen",
+          "url": "https://myanimelist.net/anime/38693/Overlord__Ple_Ple_Pleiades_-_Clementine_Toubou-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 34161,
+          "type": "anime",
+          "name": "Overlord Movie 1: Fushisha no Ou",
+          "url": "https://myanimelist.net/anime/34161/Overlord_Movie_1__Fushisha_no_Ou"
+        },
+        {
+          "mal_id": 34428,
+          "type": "anime",
+          "name": "Overlord Movie 2: Shikkoku no Eiyuu",
+          "url": "https://myanimelist.net/anime/34428/Overlord_Movie_2__Shikkoku_no_Eiyuu"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 38472,
+          "type": "anime",
+          "name": "Isekai Quartet",
+          "url": "https://myanimelist.net/anime/38472/Isekai_Quartet"
+        },
+        {
+          "mal_id": 39988,
+          "type": "anime",
+          "name": "Isekai Quartet 2",
+          "url": "https://myanimelist.net/anime/39988/Isekai_Quartet_2"
+        },
+        {
+          "mal_id": 41567,
+          "type": "anime",
+          "name": "Isekai Quartet Movie: Another World",
+          "url": "https://myanimelist.net/anime/41567/Isekai_Quartet_Movie__Another_World"
+        },
+        {
+          "mal_id": 61851,
+          "type": "anime",
+          "name": "Isekai Quartet 3",
+          "url": "https://myanimelist.net/anime/61851/Isekai_Quartet_3"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 36683,
+          "type": "anime",
+          "name": "Overlord Movie: Manner Movie",
+          "url": "https://myanimelist.net/anime/36683/Overlord_Movie__Manner_Movie"
+        },
+        {
+          "mal_id": 36497,
+          "type": "anime",
+          "name": "Overlord Movie: Ple Ple Pleiades",
+          "url": "https://myanimelist.net/anime/36497/Overlord_Movie__Ple_Ple_Pleiades"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Clattanoia\" by O×T (Masayoshi Oishi × Tom-H@ck)"
+    ],
+    "endings": [
+      "\"L.L.L.\" by MYTH&ROID"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://overlord-anime.com/_season1/"
+    },
+    {
+      "name": "@over_lord_anime",
+      "url": "https://twitter.com/over_lord_anime?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10816"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16729"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Overlord_(novel_series)"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/3831"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273203"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "name": "Animax Mongolia",
+      "url": "https://www.animax.app/"
+    }
+  ]
+}

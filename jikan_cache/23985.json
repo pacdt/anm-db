@@ -1,0 +1,183 @@
+{
+  "mal_id": 23985,
+  "url": "https://myanimelist.net/anime/23985/Futari_Ecchi_2014",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/67563.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/67563t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/67563l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/67563.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/67563t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/67563l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Futari Ecchi (2014)"
+    },
+    {
+      "type": "Synonym",
+      "title": "The One And Only Step Up Love Story"
+    },
+    {
+      "type": "Japanese",
+      "title": "ふたりエッチ"
+    },
+    {
+      "type": "English",
+      "title": "Step Up Love Story (2014)"
+    }
+  ],
+  "title": "Futari Ecchi (2014)",
+  "title_english": "Step Up Love Story (2014)",
+  "title_japanese": "ふたりエッチ",
+  "title_synonyms": [
+    "The One And Only Step Up Love Story"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 10, 2014"
+  },
+  "duration": "26 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.1,
+  "scored_by": 4137,
+  "rank": 9758,
+  "popularity": 6785,
+  "members": 11151,
+  "favorites": 22,
+  "synopsis": "Three new OVAs of Futari Ecchi released as standard DVDs and as part of a Premium DVD Box containing all seven OVAs of the series.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 196,
+      "type": "anime",
+      "name": "Production Reed",
+      "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 382,
+          "type": "anime",
+          "name": "Futari Ecchi",
+          "url": "https://myanimelist.net/anime/382/Futari_Ecchi"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 318,
+          "type": "manga",
+          "name": "Futari Ecchi",
+          "url": "https://myanimelist.net/manga/318/Futari_Ecchi"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "1: \"sync\" by Sanae Shintani (新谷さなえ) (eps 1-2)",
+      "2: \"Hana Hirari (花ひらり)\" by The Zig Zags (eps 3)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.futarihanime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10613"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16212"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Futari_Ecchi"
+    }
+  ],
+  "streaming": []
+}

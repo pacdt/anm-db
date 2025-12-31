@@ -1,0 +1,205 @@
+{
+  "mal_id": 34391,
+  "url": "https://myanimelist.net/anime/34391/Kidou_Senshi_Gundam_Thunderbolt_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/86531.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/86531t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/86531l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/86531.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/86531t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/86531l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/dyyjRZjRspc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kidou Senshi Gundam Thunderbolt 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kidou Senshi Gundam Thunderbolt 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "機動戦士ガンダム サンダーボルト 2"
+    },
+    {
+      "type": "English",
+      "title": "Mobile Suit Gundam Thunderbolt 2nd Season"
+    }
+  ],
+  "title": "Kidou Senshi Gundam Thunderbolt 2nd Season",
+  "title_english": "Mobile Suit Gundam Thunderbolt 2nd Season",
+  "title_japanese": "機動戦士ガンダム サンダーボルト 2",
+  "title_synonyms": [
+    "Kidou Senshi Gundam Thunderbolt 2nd Season"
+  ],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-03-24T00:00:00+00:00",
+    "to": "2017-07-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 3,
+        "year": 2017
+      },
+      "to": {
+        "day": 14,
+        "month": 7,
+        "year": 2017
+      }
+    },
+    "string": "Mar 24, 2017 to Jul 14, 2017"
+  },
+  "duration": "21 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.22,
+  "scored_by": 13169,
+  "rank": 3397,
+  "popularity": 4874,
+  "members": 25524,
+  "favorites": 26,
+  "synopsis": "The second season of Mobile Suit Gundam Thunderbolt.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 31973,
+          "type": "anime",
+          "name": "Kidou Senshi Gundam Thunderbolt",
+          "url": "https://myanimelist.net/anime/31973/Kidou_Senshi_Gundam_Thunderbolt"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 37683,
+          "type": "manga",
+          "name": "Kidou Senshi Gundam Thunderbolt",
+          "url": "https://myanimelist.net/manga/37683/Kidou_Senshi_Gundam_Thunderbolt"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 35949,
+          "type": "anime",
+          "name": "Kidou Senshi Gundam Thunderbolt: Bandit Flower",
+          "url": "https://myanimelist.net/anime/35949/Kidou_Senshi_Gundam_Thunderbolt__Bandit_Flower"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "1: \"Acrobatic Fight-1\" by Naruyoshi Kikuchi (菊地成孔) (eps 1)",
+      "2: \"Hone Kudakete mo (骨砕けても (feat.オーニソロジー))\" by Naruyoshi Kikuchi feat. Ornithology (eps 2)",
+      "3: \"Kushimotobushi (串本節)\" by Tomomi Oda (小田朋美) (eps 3)",
+      "4: ''Iroaku (色悪 (feat.The Yellow Tricycle))'' by Naruyoshi Kikuchi feat. The Yellow Tricycle (ep 4)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://gundam-tb.net/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12549"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19006"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,207 @@
+{
+  "mal_id": 2987,
+  "url": "https://myanimelist.net/anime/2987/Ginga_Hyouryuu_Vifam",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/73992.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73992t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73992l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/73992.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73992t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73992l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ginga Hyouryuu Vifam"
+    },
+    {
+      "type": "Synonym",
+      "title": "Round Vernian Vifam"
+    },
+    {
+      "type": "Synonym",
+      "title": "Galactic Drifter Vifam"
+    },
+    {
+      "type": "Synonym",
+      "title": "Space Castaways Vifam"
+    },
+    {
+      "type": "Japanese",
+      "title": "銀河漂流バイファム"
+    }
+  ],
+  "title": "Ginga Hyouryuu Vifam",
+  "title_english": null,
+  "title_japanese": "銀河漂流バイファム",
+  "title_synonyms": [
+    "Round Vernian Vifam",
+    "Galactic Drifter Vifam",
+    "Space Castaways Vifam"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 46,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1983-10-21T00:00:00+00:00",
+    "to": "1984-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 10,
+        "year": 1983
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 1984
+      }
+    },
+    "string": "Oct 21, 1983 to Sep 21, 1984"
+  },
+  "duration": "25 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.21,
+  "scored_by": 1365,
+  "rank": 3423,
+  "popularity": 8925,
+  "members": 5667,
+  "favorites": 25,
+  "synopsis": "AD. 2058, on Clayad, the 3rd planet of the Ypserlon system, 43 light years from Earth; aliens suddenly raid the planet. The residents of Clayad must escape the planet. In the confusion of the escape, the children are separated from their parents and board the training spaceship Janous. After many sacrifices, they manage to arrive at the 4th planet, Belwick. However, Belwick is already at war, so the 13 children continue towards Earth on their own.\n\n(Source: AnimeNfo, edited)",
+  "background": "",
+  "season": "fall",
+  "year": 1983,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 9389,
+          "type": "anime",
+          "name": "Ginga Hyouryuu Vifam: Kieta 12-nin",
+          "url": "https://myanimelist.net/anime/9389/Ginga_Hyouryuu_Vifam__Kieta_12-nin"
+        },
+        {
+          "mal_id": 9390,
+          "type": "anime",
+          "name": "Ginga Hyouryuu Vifam: Keito no Kioku - Namida no Dakkai Sakusen",
+          "url": "https://myanimelist.net/anime/9390/Ginga_Hyouryuu_Vifam__Keito_no_Kioku_-_Namida_no_Dakkai_Sakusen"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 9387,
+          "type": "anime",
+          "name": "Ginga Hyouryuu Vifam Recaps",
+          "url": "https://myanimelist.net/anime/9387/Ginga_Hyouryuu_Vifam_Recaps"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 9391,
+          "type": "anime",
+          "name": "Ginga Hyouryuu Vifam 13",
+          "url": "https://myanimelist.net/anime/9391/Ginga_Hyouryuu_Vifam_13"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Hello, Vifam\" by TAO"
+    ],
+    "endings": [
+      "\"Never Give Up\" by TAO"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.b-ch.com/contents/vifum/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2361"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2000"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ginga_Hyōryū_Vifam"
+    }
+  ],
+  "streaming": []
+}

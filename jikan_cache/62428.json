@@ -1,0 +1,152 @@
+{
+  "mal_id": 62428,
+  "url": "https://myanimelist.net/anime/62428/Heika_Watashi_wo_Wasurete_Kudasai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1889/151926.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1889/151926t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1889/151926l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1889/151926.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1889/151926t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1889/151926l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/OWB6oQ0sHog?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Heika Watashi wo Wasurete Kudasai"
+    },
+    {
+      "type": "Japanese",
+      "title": "陛下わたしを忘れてください"
+    },
+    {
+      "type": "English",
+      "title": "Forget That Night, Your Majesty"
+    }
+  ],
+  "title": "Heika Watashi wo Wasurete Kudasai",
+  "title_english": "Forget That Night, Your Majesty",
+  "title_japanese": "陛下わたしを忘れてください",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-10-07T00:00:00+00:00",
+    "to": "2025-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2025
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2025
+      }
+    },
+    "string": "Oct 7, 2025 to Dec 23, 2025"
+  },
+  "duration": "5 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.82,
+  "scored_by": 1097,
+  "rank": 11287,
+  "popularity": 7318,
+  "members": 9289,
+  "favorites": 36,
+  "synopsis": "Lunia, the daughter of the Count of Persephone, was shunned by her father and treated like a tool by her half-brother, leading a lonely life. Meanwhile, she is chosen by a priest to be engaged to Hades, the head of the Duke of Khronoa family, and decides to marry into the cursed duke family. The Duke of Khronoa, feared as the \"King of the Underworld,\" is cursed with a short lifespan if he does not marry a bride chosen by the emperor. However, Hades tells Lunia that he has no intention of loving her.\n\nIn order to keep Hades alive, Lunia deceived him and spent the night with him, then disappeared without realizing that she was pregnant with his child. Seven years later, Hades somehow managed to find Lunia and tried to take her back with the child...\n\n(Source: Honto, translated)",
+  "background": "",
+  "season": "fall",
+  "year": 2025,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "21:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 21:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1882,
+      "type": "anime",
+      "name": "UWAN Pictures",
+      "url": "https://myanimelist.net/anime/producer/1882/UWAN_Pictures"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2844,
+      "type": "anime",
+      "name": "Imagica Infos",
+      "url": "https://myanimelist.net/anime/producer/2844/Imagica_Infos"
+    },
+    {
+      "mal_id": 2983,
+      "type": "anime",
+      "name": "Imageworks Studio",
+      "url": "https://myanimelist.net/anime/producer/2983/Imageworks_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://honto.jp/anime/heika.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19619"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7636"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/G4PH0WJ8V"
+    }
+  ]
+}

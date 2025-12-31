@@ -1,0 +1,283 @@
+{
+  "mal_id": 50638,
+  "url": "https://myanimelist.net/anime/50638/Muv-Luv_Alternative_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1253/127326.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/127326t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/127326l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1253/127326.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/127326t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/127326l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_MdNEjLtmeA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Muv-Luv Alternative 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "マブラヴ オルタネイティヴ"
+    }
+  ],
+  "title": "Muv-Luv Alternative 2nd Season",
+  "title_english": null,
+  "title_japanese": "マブラヴ オルタネイティヴ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-06T00:00:00+00:00",
+    "to": "2022-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 6, 2022 to Dec 22, 2022"
+  },
+  "duration": "22 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.52,
+  "scored_by": 6487,
+  "rank": 7222,
+  "popularity": 5356,
+  "members": 20330,
+  "favorites": 68,
+  "synopsis": "Thanks to Professor Yuuko Kouzuki's technology and Kasumi Yashiro's psychic powers, Cadet Takeru Shirogane travels back to his original world. With no time to lose, Takeru aims to enlist Yuuko's help in his world to complete the Alternative IV project—the last hope humanity has against the BETA, an alien species invading the planet. As the anti-BETA project nears completion, Takeru and other cadets graduate from the Yokohama pilot training academy.\n\nHowever, during a test of the new operating system for the Tactical Surface Fighters—the giant combat suits used by humanity against their adversary—the BETA ambush Takeru and his team. Barely escaping with his life, Takeru is left traumatized after witnessing the cruel death of one of his close friends.\n\nLosing his will to fight, Takeru flees back to the other world, where he experiences a similar tragedy. According to Yuuko's theory, people from parallel universes are bound to suffer the same fate. As a result, Takeru must overcome his trauma if he wants to protect the ones he holds dear.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1617,
+      "type": "anime",
+      "name": "Tencent Japan",
+      "url": "https://myanimelist.net/anime/producer/1617/Tencent_Japan"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    },
+    {
+      "mal_id": 2460,
+      "type": "anime",
+      "name": "aNCHOR",
+      "url": "https://myanimelist.net/anime/producer/2460/aNCHOR"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 96,
+      "type": "anime",
+      "name": "Yumeta Company",
+      "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+    },
+    {
+      "mal_id": 894,
+      "type": "anime",
+      "name": "Graphinica",
+      "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+    },
+    {
+      "mal_id": 2249,
+      "type": "anime",
+      "name": "Flagship Line",
+      "url": "https://myanimelist.net/anime/producer/2249/Flagship_Line"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 40608,
+          "type": "anime",
+          "name": "Muv-Luv Alternative",
+          "url": "https://myanimelist.net/anime/40608/Muv-Luv_Alternative"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 17365,
+          "type": "manga",
+          "name": "Muv-Luv Alternative",
+          "url": "https://myanimelist.net/manga/17365/Muv-Luv_Alternative"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 54749,
+          "type": "anime",
+          "name": "Saikai (2022)",
+          "url": "https://myanimelist.net/anime/54749/Saikai_2022"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"暁を撃て\" by JAM Project and Minami Kuribayashi"
+    ],
+    "endings": [
+      "\"再会\" by V.W.P"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://muv-luv-alternative-anime.com/"
+    },
+    {
+      "name": "@Muv_Luv_A_anime",
+      "url": "https://twitter.com/Muv_Luv_A_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17073"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25078"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Muv-Luv"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%96%E3%83%A9%E3%83%B4_%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B4"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6490"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281925"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "name": "MeWatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "name": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "name": "Sushiroll",
+      "url": "https://sushiroll.co.id/"
+    }
+  ]
+}

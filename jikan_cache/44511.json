@@ -1,0 +1,323 @@
+{
+  "mal_id": 44511,
+  "url": "https://myanimelist.net/anime/44511/Chainsaw_Man",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/jk7QSGwupPA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chainsaw Man"
+    },
+    {
+      "type": "Synonym",
+      "title": "CSM"
+    },
+    {
+      "type": "Japanese",
+      "title": "チェンソーマン"
+    },
+    {
+      "type": "English",
+      "title": "Chainsaw Man"
+    }
+  ],
+  "title": "Chainsaw Man",
+  "title_english": "Chainsaw Man",
+  "title_japanese": "チェンソーマン",
+  "title_synonyms": [
+    "CSM"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-12T00:00:00+00:00",
+    "to": "2022-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 12, 2022 to Dec 28, 2022"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.43,
+  "scored_by": 1078054,
+  "rank": 188,
+  "popularity": 53,
+  "members": 1872775,
+  "favorites": 53711,
+  "synopsis": "Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza's pockets. All Denji can do is dream of a good, simple life: one with delicious food and a beautiful girlfriend by his side. But an act of greedy betrayal by the yakuza leads to Denji's brutal, untimely death, crushing all hope of him ever achieving happiness.\n\nRemarkably, an old contract allows Pochita to merge with the deceased Denji and bestow devil powers on him, changing him into a hybrid able to transform his body parts into chainsaws. Because Denji's new abilities pose a significant risk to society, the Public Safety Bureau's elite devil hunter Makima takes him in, letting him live as long as he obeys her command. Guided by the promise of a content life alongside an attractive woman, Denji devotes everything and fights with all his might to make his naive dreams a reality.\n\n[Written by MAL Rewrite]",
+  "background": "Chainsaw Man was released in four volumes on Blu-ray and DVD from January 27, 2023, to April 28, 2023. It adapts chapters 1-38 of the original manga.",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 569,
+      "type": "anime",
+      "name": "MAPPA",
+      "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 57555,
+          "type": "anime",
+          "name": "Chainsaw Man Movie: Reze-hen",
+          "url": "https://myanimelist.net/anime/57555/Chainsaw_Man_Movie__Reze-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 116778,
+          "type": "manga",
+          "name": "Chainsaw Man",
+          "url": "https://myanimelist.net/manga/116778/Chainsaw_Man"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 62352,
+          "type": "anime",
+          "name": "Chainsaw Man Recap",
+          "url": "https://myanimelist.net/anime/62352/Chainsaw_Man_Recap"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 53405,
+          "type": "anime",
+          "name": "Zanki",
+          "url": "https://myanimelist.net/anime/53405/Zanki"
+        },
+        {
+          "mal_id": 53640,
+          "type": "anime",
+          "name": "Jouzai",
+          "url": "https://myanimelist.net/anime/53640/Jouzai"
+        },
+        {
+          "mal_id": 53581,
+          "type": "anime",
+          "name": "In the Back Room",
+          "url": "https://myanimelist.net/anime/53581/In_the_Back_Room"
+        },
+        {
+          "mal_id": 53641,
+          "type": "anime",
+          "name": "Dainouteki na Rendezvous",
+          "url": "https://myanimelist.net/anime/53641/Dainouteki_na_Rendezvous"
+        },
+        {
+          "mal_id": 54026,
+          "type": "anime",
+          "name": "Fight Song",
+          "url": "https://myanimelist.net/anime/54026/Fight_Song"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"KICK BACK\" by Kenshi Yonezu (米津玄師)"
+    ],
+    "endings": [
+      "1: \"CHAINSAW BLOOD\" by Vaundy (eps 1)",
+      "2: \"Zanki (残機)\" by ZUTOMAYO (ずっと真夜中でいいのに。) (eps 2)",
+      "3: \"Hawatari 2-oku Centi (刃渡り2億センチ)\" by Maximum the Hormone (マキシマム ザ ホルモン) (eps 3)",
+      "4: \"Jouzai (錠剤)\" by TOOBOE (eps 4)",
+      "5: \"In the Backroom (インザバックルーム)\" by syudou (eps 5)",
+      "6: \"Dainou-teki na Rendez-vous (大脳的なランデブー)\" by Kanaria (eps 6)",
+      "7: \"Chu, Tayousei (ちゅ、多様性。)\" by ano (eps 7)",
+      "8: \"first death\" by TK from Ling tosite sigure (TK from 凛として時雨) (eps 8)",
+      "9: \"Deep down\" by Aimer (eps 9)",
+      "10: \"DOGLAND\" by PEOPLE 1 (eps 10)",
+      "11: \"VIOLENCE (バイオレンス)\" by Ziyoou-vachi (女王蜂) (eps 11)",
+      "12: \"Fight Song (ファイトソング)\" by Eve (eps 12)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://chainsawman.dog/tvseries/"
+    },
+    {
+      "name": "@CHAINSAWMAN_PR",
+      "url": "https://twitter.com/CHAINSAWMAN_PR"
+    },
+    {
+      "name": "@Chainsaw_EN",
+      "url": "https://twitter.com/Chainsaw_EN"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15914"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23843"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chainsaw_Man_(TV_series)"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%9E%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6454"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/321885"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283159"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "name": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "name": "Animax Korea",
+      "url": "https://www.animaxtv.co.kr"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "name": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://www.hulu.com/"
+    },
+    {
+      "name": "Laftel",
+      "url": "https://laftel.net/"
+    }
+  ]
+}

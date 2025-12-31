@@ -1,0 +1,189 @@
+{
+  "mal_id": 55,
+  "url": "https://myanimelist.net/anime/55/Arc_the_Lad",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/49041.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/49041t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/49041l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/49041.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/49041t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/49041l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Arc the Lad"
+    },
+    {
+      "type": "Synonym",
+      "title": "Arc"
+    },
+    {
+      "type": "Japanese",
+      "title": "アークザラッド"
+    }
+  ],
+  "title": "Arc the Lad",
+  "title_english": null,
+  "title_japanese": "アークザラッド",
+  "title_synonyms": [
+    "Arc"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-04-05T00:00:00+00:00",
+    "to": "1999-10-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 1999
+      },
+      "to": {
+        "day": 11,
+        "month": 10,
+        "year": 1999
+      }
+    },
+    "string": "Apr 5, 1999 to Oct 11, 1999"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.48,
+  "scored_by": 6514,
+  "rank": 7435,
+  "popularity": 5625,
+  "members": 17864,
+  "favorites": 15,
+  "synopsis": "The story follows Elk, a bounty hunter in some strange futuristic world. On this world archaic but advanced technology exists side by side with primitive attitudes, beasts and magic. In other words it's got a bit of everything. It also has an evil conspiracy who are able to produce powerful monsters called chimera, who can also appear as human. Naturally it is not long before Elk has rescued a young female beast-master and gained himself some serious enemies. \n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 1999,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Sony Pictures Entertainment",
+      "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 1950,
+      "type": "anime",
+      "name": "Sony Interactive Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1950/Sony_Interactive_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Bee Train",
+      "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"Arc the Lad ~Main Theme~\" by Masahiro Andou"
+    ],
+    "endings": [
+      "1: \"Happy Tomorrow\" by NiNa (eps 1-12)",
+      "2: \"Rest in Peace\" by NiNa (eps 13-26)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.sonymusic.co.jp/Animation/Arc/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=433"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=246"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Arc_the_Lad"
+    }
+  ],
+  "streaming": []
+}

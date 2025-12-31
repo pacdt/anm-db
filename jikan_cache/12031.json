@@ -1,0 +1,214 @@
+{
+  "mal_id": 12031,
+  "url": "https://myanimelist.net/anime/12031/Kingdom",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/39511.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/39511t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/39511l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/39511.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/39511t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/39511l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/eRsUX5ac56g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kingdom"
+    },
+    {
+      "type": "Japanese",
+      "title": "キングダム"
+    },
+    {
+      "type": "English",
+      "title": "Kingdom"
+    }
+  ],
+  "title": "Kingdom",
+  "title_english": "Kingdom",
+  "title_japanese": "キングダム",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 38,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-06-04T00:00:00+00:00",
+    "to": "2013-02-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 6,
+        "year": 2012
+      },
+      "to": {
+        "day": 25,
+        "month": 2,
+        "year": 2013
+      }
+    },
+    "string": "Jun 4, 2012 to Feb 25, 2013"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.87,
+  "scored_by": 87383,
+  "rank": 933,
+  "popularity": 1076,
+  "members": 253260,
+  "favorites": 2233,
+  "synopsis": "China’s Warring States period, a raging dragon that would raze the land for 500 years, saw many kingdoms rise and fall, making way for the next generation of kings and generals to fight for supremacy. Eventually, seven powerful states emerged from the endless cycle of warfare.\n\nIn the kingdom of Qin, Xin, a war-orphaned slave, trains vigorously with fellow slave and best friend, Piao, who shares his proud dream of one day becoming a Great General of the Heavens. However, the two are suddenly forced to part ways when Piao is recruited to work in the royal palace by a retainer of the King.\n\nAfter a fierce coup d'état unfolds, Piao returns to Xin, half dead, with a mission that will lead him to a meeting with China's young King, Ying Zheng, who bears a striking resemblance to Piao. Kingdom follows Xin as he takes his first steps into the great blood-soaked pages of China's history. He must carve his own path to glory on his long quest to become a Great General of the historic Seven Warring States.\n\n[Written by MAL Rewrite]",
+  "background": "Kingdom adapts chapters 1-173 of the original manga.",
+  "season": "summer",
+  "year": 2012,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 161,
+      "type": "anime",
+      "name": "Sogo Vision",
+      "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 17389,
+          "type": "anime",
+          "name": "Kingdom 2nd Season",
+          "url": "https://myanimelist.net/anime/17389/Kingdom_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 16765,
+          "type": "manga",
+          "name": "Kingdom",
+          "url": "https://myanimelist.net/manga/16765/Kingdom"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Pride\" by Nothing's Carved In Stone"
+    ],
+    "endings": [
+      "1: \"Voice of Soul\" by Takumi Ishida (eps 1-19)",
+      "2: \"Destiny Sky\" by Yuki Wakai (eps 20-30)",
+      "3: \"Never Ending\" by Dasoku (eps 31-38)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www9.nhk.or.jp/anime/kingdom/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8791"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13783"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/キングダム_(漫画)"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274043"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "name": "Shahid",
+      "url": "https://shahid.mbc.net/en/series/Kingdom/series-868926"
+    }
+  ]
+}

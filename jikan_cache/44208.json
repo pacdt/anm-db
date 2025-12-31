@@ -1,0 +1,230 @@
+{
+  "mal_id": 44208,
+  "url": "https://myanimelist.net/anime/44208/Yami_Shibai_8",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1311/110392.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1311/110392t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1311/110392l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1311/110392.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1311/110392t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1311/110392l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai 8"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories Eighth Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories 8"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居 8期"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai 8"
+    },
+    {
+      "type": "German",
+      "title": "Theatre of Darkness: Yamishibai 8"
+    },
+    {
+      "type": "Spanish",
+      "title": "Theatre of Darkness: Yamishibai 8"
+    },
+    {
+      "type": "French",
+      "title": "Theatre of Darkness: Yamishibai 8"
+    }
+  ],
+  "title": "Yami Shibai 8",
+  "title_english": "Theatre of Darkness: Yamishibai 8",
+  "title_japanese": "闇芝居 8期",
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories Eighth Season",
+    "Yamishibai: Japanese Ghost Stories 8"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-11T00:00:00+00:00",
+    "to": "2021-04-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 5,
+        "month": 4,
+        "year": 2021
+      }
+    },
+    "string": "Jan 11, 2021 to Apr 5, 2021"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.83,
+  "scored_by": 6986,
+  "rank": 11256,
+  "popularity": 5678,
+  "members": 17412,
+  "favorites": 22,
+  "synopsis": "Once again, the mysterious storyteller draws in the ears of any willing to listen to his macabre tales of madness—ones that could happen to anyone, no matter who they might be.\n\nThe ghastly stories delve into the cases of teenagers testing their courage at an abandoned home; children navigating nefarious family traditions; malicious apparitions haunting the lives of innocent people; individuals helplessly watching their loved ones slowly go insane; a woman growing increasingly concerned when her husband's behavior changes after eating something odd; and an evil snowman or two. These chilling tales promise to leave no soul unstirred in the most disturbing way yet.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "03:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 03:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 2056,
+      "type": "anime",
+      "name": "DRAWIZ",
+      "url": "https://myanimelist.net/anime/producer/2056/DRAWIZ"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 39836,
+          "type": "anime",
+          "name": "Yami Shibai 7",
+          "url": "https://myanimelist.net/anime/39836/Yami_Shibai_7"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 49110,
+          "type": "anime",
+          "name": "Yami Shibai 9",
+          "url": "https://myanimelist.net/anime/49110/Yami_Shibai_9"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Twilight feat.Pecori\" by imai"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.tv-tokyo.co.jp/anime/yamishibai8/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15879"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23857"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yamishibai:_Japanese_Ghost_Stories"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%97%87%E8%8A%9D%E5%B1%85"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/5907"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/321092"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-255589"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    }
+  ]
+}

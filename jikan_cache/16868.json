@@ -1,0 +1,180 @@
+{
+  "mal_id": 16868,
+  "url": "https://myanimelist.net/anime/16868/Suki_tte_Ii_na_yo_Dareka_ga",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/53861.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/53861t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/53861l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/53861.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/53861t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/53861l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Suki tte Ii na yo. Dareka ga"
+    },
+    {
+      "type": "Synonym",
+      "title": "Suki-tte Ii na yo. OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sukinayo OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "好きっていいなよ。「誰かが」"
+    },
+    {
+      "type": "English",
+      "title": "Say \"I Love You.\" OVA"
+    }
+  ],
+  "title": "Suki tte Ii na yo. Dareka ga",
+  "title_english": "Say \"I Love You.\" OVA",
+  "title_japanese": "好きっていいなよ。「誰かが」",
+  "title_synonyms": [
+    "Suki-tte Ii na yo. OVA",
+    "Sukinayo OVA"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-24T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 24, 2013"
+  },
+  "duration": "22 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.22,
+  "scored_by": 33518,
+  "rank": 3382,
+  "popularity": 2962,
+  "members": 67607,
+  "favorites": 36,
+  "synopsis": "Mei, Aiko, Asami, and Nagi are making cookies at Mei's house. Knowing that the process could take a while, Nagi chases Yamato out of the house. He receives a text from Kai, who asks him if he wants to meet up at the park. When Yamato arrives, it is revealed that the rundown park was where the two of them first talked and bonded for the first time. After bantering a bit, Kai asks Yamato why he, who had always seemed to be having fun with a large crowd around him, was always the first one at the park after school. Yamato admits that he used to feel like he was a chameleon; someone who didn't have his own personality and just changed himself to please others. Kai tells Yamato that he used to hate the town, but thanks to Yamato, he now finds it to be beautiful. Kai reassures him that he is his own person, and Yamato confesses that after he met Mei, he realized just how lonely he was. Kai later runs into Megumi at the bus stop. They start talking, and Kai tells her that he thinks she's cool for staying true to herself while modelling. Megumi snaps back at him, and Kai, offended, leaves. When Momo comes, Megumi regrets lashing out on Kai and later becomes embarrassed when Momo suggests that Megumi likes him. At Mei's house, the cookies are done and turn out to be delicious. Mei's mom shoos Mei and Yamato out of the house. Yamato hugs Mei and tells her he's glad she's with him. They watch the sunset together before continuing their walk, holding hands. \n\n(Source: Wikipedia)",
+  "background": "It was bundled with the limited edition version of the 11th volume of the manga.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 14289,
+          "type": "anime",
+          "name": "Suki tte Ii na yo.",
+          "url": "https://myanimelist.net/anime/14289/Suki_tte_Ii_na_yo"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 11767,
+          "type": "manga",
+          "name": "Suki tte Ii na yo.",
+          "url": "https://myanimelist.net/manga/11767/Suki_tte_Ii_na_yo"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Friendship ~ for Sukitte Ii na yo. (Friendship～for 好きっていいなよ。)\" by Ritsuko Okazaki"
+    ],
+    "endings": [
+      "\"slow dance\" by Suneohair"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.starchild.co.jp/special/sukinayo/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9600"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%A5%BD%E3%81%8D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%84%E3%81%AA%E3%82%88%E3%80%82"
+    }
+  ],
+  "streaming": []
+}

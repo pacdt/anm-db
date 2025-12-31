@@ -1,0 +1,146 @@
+{
+  "mal_id": 21421,
+  "url": "https://myanimelist.net/anime/21421/Mahou_Shoujo_Taisen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/62221.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/62221t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/62221l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/62221.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/62221t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/62221l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mahou Shoujo Taisen"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔法少女大戦"
+    },
+    {
+      "type": "English",
+      "title": "Magica Wars"
+    }
+  ],
+  "title": "Mahou Shoujo Taisen",
+  "title_english": "Magica Wars",
+  "title_japanese": "魔法少女大戦",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Other",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-04-08T00:00:00+00:00",
+    "to": "2014-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2014
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2014
+      }
+    },
+    "string": "Apr 8, 2014 to Sep 30, 2014"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.73,
+  "scored_by": 5952,
+  "rank": 11710,
+  "popularity": 5691,
+  "members": 17308,
+  "favorites": 5,
+  "synopsis": "\"Mahou Shoujo Taisen\" is a project created from a variety show for the Otaku \"2.5 Chigen TV\" (2.5 Dimension TV). The characters are the mahou shoujo that represent each local town in Japan. The characters that won from the second illustration competitions that were held on pixiv will appear in the anime.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "spring",
+  "year": 2014,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "21:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 21:55 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"All Over (オール・オーヴァー)\" by livetune adding Anna Yano"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.mahoushoujyotaisen.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10286"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15800"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Magica_Wars"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260537"
+    }
+  ]
+}

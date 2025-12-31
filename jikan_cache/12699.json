@@ -1,0 +1,158 @@
+{
+  "mal_id": 12699,
+  "url": "https://myanimelist.net/anime/12699/Tales_of_Gekijou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/48841.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/48841t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/48841l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/48841.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/48841t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/48841l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tales of Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tales of the Heroes: Twin Brave Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "ているず おぶ 劇場"
+    }
+  ],
+  "title": "Tales of Gekijou",
+  "title_english": null,
+  "title_japanese": "ているず おぶ 劇場",
+  "title_synonyms": [
+    "Tales of the Heroes: Twin Brave Specials"
+  ],
+  "type": "Special",
+  "source": "Game",
+  "episodes": 5,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-01T00:00:00+00:00",
+    "to": "2012-02-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 23,
+        "month": 2,
+        "year": 2012
+      }
+    },
+    "string": "Jan 1, 2012 to Feb 23, 2012"
+  },
+  "duration": "4 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.51,
+  "scored_by": 2064,
+  "rank": 7254,
+  "popularity": 9248,
+  "members": 5172,
+  "favorites": 5,
+  "synopsis": "Tales of Gekijou is the pre-order bonus for Tales of the Heroes: Twin Brave. It is a series of five short animations produced by Sunrise. \n \nEpisodes 1 and 2 were aired in BS-TBS's New Year Special. The other 3 episodes will be available in the pre-order bonus via a download code along with the first two.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 445,
+          "type": "anime",
+          "name": "Tales of Eternia The Animation",
+          "url": "https://myanimelist.net/anime/445/Tales_of_Eternia_The_Animation"
+        },
+        {
+          "mal_id": 1731,
+          "type": "anime",
+          "name": "Tales of Symphonia The Animation: Sylvarant-hen",
+          "url": "https://myanimelist.net/anime/1731/Tales_of_Symphonia_The_Animation__Sylvarant-hen"
+        },
+        {
+          "mal_id": 4884,
+          "type": "anime",
+          "name": "Tales of the Abyss",
+          "url": "https://myanimelist.net/anime/4884/Tales_of_the_Abyss"
+        },
+        {
+          "mal_id": 6046,
+          "type": "anime",
+          "name": "Tales of Vesperia: The First Strike",
+          "url": "https://myanimelist.net/anime/6046/Tales_of_Vesperia__The_First_Strike"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Omotteiru zutto...\" by Shouko Miyata"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8942"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%82%B6_%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA_%E3%83%84%E3%82%A4%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B4"
+    }
+  ],
+  "streaming": []
+}

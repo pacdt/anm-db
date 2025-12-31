@@ -1,0 +1,160 @@
+{
+  "mal_id": 8635,
+  "url": "https://myanimelist.net/anime/8635/Shin_Koihime†Musou__Live_Revolution",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1061/129468.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1061/129468t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1061/129468l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1061/129468.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1061/129468t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1061/129468l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shin Koihime†Musou: Live Revolution"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shin Koihime Musou: Otome Ryouran Sangokushi Engi - Live Revolution"
+    },
+    {
+      "type": "Japanese",
+      "title": "真恋姫†無双 LIVE Revolution"
+    }
+  ],
+  "title": "Shin Koihime†Musou: Live Revolution",
+  "title_english": null,
+  "title_japanese": "真恋姫†無双 LIVE Revolution",
+  "title_synonyms": [
+    "Shin Koihime Musou: Otome Ryouran Sangokushi Engi - Live Revolution"
+  ],
+  "type": "OVA",
+  "source": "Visual novel",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-03-17T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 3,
+        "year": 2010
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 17, 2010"
+  },
+  "duration": "22 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.48,
+  "scored_by": 2115,
+  "rank": 7483,
+  "popularity": 8818,
+  "members": 5873,
+  "favorites": 2,
+  "synopsis": "Shin Koihime†Musou characters sing theme songs on stage at a live event.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 6112,
+          "type": "anime",
+          "name": "Shin Koihime†Musou",
+          "url": "https://myanimelist.net/anime/6112/Shin_Koihime†Musou"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Otome Ryouran☆Battle PARTY (乙女繚乱☆ばとるPARTY)\" by Touen no San Shimai (Ryubi - Mai Goto, Kan'U - Nami Kurokawa & Chouhi - Hiroka Nishizawa)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.maql.co.jp/special/shinkoihime/news/spinfo.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7470"
+    }
+  ],
+  "streaming": []
+}

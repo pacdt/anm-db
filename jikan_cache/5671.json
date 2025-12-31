@@ -1,0 +1,274 @@
+{
+  "mal_id": 5671,
+  "url": "https://myanimelist.net/anime/5671/Saki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/73933.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/73933t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/73933l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/73933.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/73933t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/73933l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZIhXjVVsPiU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saki"
+    },
+    {
+      "type": "Japanese",
+      "title": "咲-Saki-"
+    }
+  ],
+  "title": "Saki",
+  "title_english": null,
+  "title_japanese": "咲-Saki-",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-04-06T00:00:00+00:00",
+    "to": "2009-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2009
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2009
+      }
+    },
+    "string": "Apr 6, 2009 to Sep 28, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.45,
+  "scored_by": 39507,
+  "rank": 2257,
+  "popularity": 2354,
+  "members": 98852,
+  "favorites": 840,
+  "synopsis": "Due to childhood circumstances, first-year high school student Saki Miyanaga hates anything related to mahjong. When she does play the game, she keeps a low profile to avoid standing out. One day, her friend Kyoutarou Suga drags her along to the school's mahjong club. There, she meets Nodoka Haramura, the champion of the previous year's national middle school mahjong championship, and Yuuki Kataoka, a fellow club member.\n\nAs the club play a few rounds, Saki attempts to hide her talent. However, the club president, Hisa Takei, notices Saki's unusual playstyle. Realizing her potential, she puts Saki's real ability to the test—proving her to be more talented than expected. This revelation damages Nodoka's pride, and their relationship gets off to a rocky start.\n\nSaki ends up joining the club, and after clearing up the misunderstandings between her and Nodoka, friendship blooms between them. As Saki slowly warms up to mahjong once again, she and the rest of her club only have one goal—to win nationals!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 727,
+      "type": "anime",
+      "name": "Kiyosumi High School Mahjong Club",
+      "url": "https://myanimelist.net/anime/producer/727/Kiyosumi_High_School_Mahjong_Club"
+    },
+    {
+      "mal_id": 1597,
+      "type": "anime",
+      "name": "Sotsu Music Publishing",
+      "url": "https://myanimelist.net/anime/producer/1597/Sotsu_Music_Publishing"
+    },
+    {
+      "mal_id": 2963,
+      "type": "anime",
+      "name": "Future Vision Music",
+      "url": "https://myanimelist.net/anime/producer/2963/Future_Vision_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Picture Magic",
+      "url": "https://myanimelist.net/anime/producer/78/Picture_Magic"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 16123,
+          "type": "anime",
+          "name": "Saki: Zenkoku-hen",
+          "url": "https://myanimelist.net/anime/16123/Saki__Zenkoku-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 6310,
+          "type": "manga",
+          "name": "Saki",
+          "url": "https://myanimelist.net/manga/6310/Saki"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 7759,
+          "type": "anime",
+          "name": "Saki Picture Drama",
+          "url": "https://myanimelist.net/anime/7759/Saki_Picture_Drama"
+        },
+        {
+          "mal_id": 10884,
+          "type": "anime",
+          "name": "Saki Achiga-hen: Episode of Side-A",
+          "url": "https://myanimelist.net/anime/10884/Saki_Achiga-hen__Episode_of_Side-A"
+        },
+        {
+          "mal_id": 27709,
+          "type": "anime",
+          "name": "Saki Biyori Animation",
+          "url": "https://myanimelist.net/anime/27709/Saki_Biyori_Animation"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Glossy:MMM\" by Miyuki Hashimoto (eps 2-14)",
+      "2: \"bloooomin\" by Little Non (eps 15-25)"
+    ],
+    "endings": [
+      "1: \"Glossy:MMM\" by Miyuki Hashimoto (eps 1,25)",
+      "2: \"Netsuretsu Kangei Wonderland (熱烈歓迎わんだーらんど)\" by Kana Ueda, Ami Koshimizu, Rie Kugimiya, Ryoko Shiraishi, and Shizuka Itou (eps 2-6, 8-9, 11-14)",
+      "3: \"Zankoku na Negai no Naka de (残酷な願いの中で)\" by Kana Ueda and Ami Koshimizu (eps 7, 10, 16, 18, 22)",
+      "4: \"Shikakui Uchuu de Matteru yo (四角い宇宙で待ってるよ)\" by Kana Ueda, Ami Koshimizu, Rie Kugimiya, Ryoko Shiraishi, and Shizuka Itou (eps 15, 17, 19-21, 23-24)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.saki-anime.com/1st/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6246"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10527"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saki_(manga)#Anime"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-130082"
+    }
+  ]
+}

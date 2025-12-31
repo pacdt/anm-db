@@ -1,0 +1,273 @@
+{
+  "mal_id": 369,
+  "url": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1327/95777.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/95777t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/95777l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1327/95777.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/95777t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/95777l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/b5mvW9-nyOo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Boogiepop wa Warawanai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Boogiepop Never Laughs"
+    },
+    {
+      "type": "Synonym",
+      "title": "Boogiepop Doesn't Laugh"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブギーポップは笑わない Boogiepop Phantom"
+    },
+    {
+      "type": "English",
+      "title": "Boogiepop Phantom"
+    },
+    {
+      "type": "Spanish",
+      "title": "Boogiepop Phantom"
+    },
+    {
+      "type": "French",
+      "title": "Boogiepop Phantom"
+    }
+  ],
+  "title": "Boogiepop wa Warawanai",
+  "title_english": "Boogiepop Phantom",
+  "title_japanese": "ブギーポップは笑わない Boogiepop Phantom",
+  "title_synonyms": [
+    "Boogiepop Never Laughs",
+    "Boogiepop Doesn't Laugh"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-01-05T00:00:00+00:00",
+    "to": "2000-03-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2000
+      },
+      "to": {
+        "day": 22,
+        "month": 3,
+        "year": 2000
+      }
+    },
+    "string": "Jan 5, 2000 to Mar 22, 2000"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.15,
+  "scored_by": 37298,
+  "rank": 3762,
+  "popularity": 1729,
+  "members": 150590,
+  "favorites": 1259,
+  "synopsis": "Boogiepop, a rumored shinigami, is said to lurk where they cannot be seen. Five years ago, a string of gruesome murders shocked the populace, and students attributed some of those killings to the aforementioned death god. When mysterious happenings once again affect the lives of those attending Hijiridani High School and Shinyo Academy, whispers of the enigmatic Boogiepop are resurrected. The stories being told may contain partial truths, or perhaps the world as humans know it is more dangerous than previously believed.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2000,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 164,
+      "type": "anime",
+      "name": "d-rights",
+      "url": "https://myanimelist.net/anime/producer/164/d-rights"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 691,
+          "type": "manga",
+          "name": "Boogiepop wa Warawanai",
+          "url": "https://myanimelist.net/manga/691/Boogiepop_wa_Warawanai"
+        },
+        {
+          "mal_id": 113206,
+          "type": "manga",
+          "name": "Yoake no Boogiepop",
+          "url": "https://myanimelist.net/manga/113206/Yoake_no_Boogiepop"
+        },
+        {
+          "mal_id": 1315,
+          "type": "manga",
+          "name": "Boogiepop Series",
+          "url": "https://myanimelist.net/manga/1315/Boogiepop_Series"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 52131,
+          "type": "anime",
+          "name": "Boogiepop Dengeki Bunko CMs",
+          "url": "https://myanimelist.net/anime/52131/Boogiepop_Dengeki_Bunko_CMs"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 37451,
+          "type": "anime",
+          "name": "Boogiepop wa Warawanai (2019)",
+          "url": "https://myanimelist.net/anime/37451/Boogiepop_wa_Warawanai_2019"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Yuudachi\" by Shikao Suga"
+    ],
+    "endings": [
+      "\"Mirai-Seiki Maruhi Club\" by Kyouko"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://web.archive.org/web/20120204094419/www.vap.co.jp/boogie/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=179"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=247"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boogiepop_Phantom"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ブギーポップは笑わない_(アニメ)#2000年版"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280251"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "mal_id": 8740,
+  "url": "https://myanimelist.net/anime/8740/One_Piece_Film__Strong_World_Episode_0",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1172/109469.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1172/109469t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1172/109469l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1172/109469.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1172/109469t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1172/109469l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "One Piece Film: Strong World Episode 0"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワンピース　フィルム　ストロングワールド　エピソードゼロ"
+    }
+  ],
+  "title": "One Piece Film: Strong World Episode 0",
+  "title_english": null,
+  "title_japanese": "ワンピース　フィルム　ストロングワールド　エピソードゼロ",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-04-16T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 4,
+        "year": 2010
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 16, 2010"
+  },
+  "duration": "18 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.91,
+  "scored_by": 50894,
+  "rank": 843,
+  "popularity": 2475,
+  "members": 91680,
+  "favorites": 52,
+  "synopsis": "Set over 20 years prior to the main One Piece story, this limited release OVA chronicles the confrontation between Gold Lion Shiki and Gold Roger as well as other events around the world around the time of the Pirate King's execution.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 4155,
+          "type": "anime",
+          "name": "One Piece Film: Strong World",
+          "url": "https://myanimelist.net/anime/4155/One_Piece_Film__Strong_World"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 17152,
+          "type": "manga",
+          "name": "One Piece: Strong World",
+          "url": "https://myanimelist.net/manga/17152/One_Piece__Strong_World"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 21,
+          "type": "anime",
+          "name": "One Piece",
+          "url": "https://myanimelist.net/anime/21/One_Piece"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.toei-anim.co.jp/movie/2009_onepiece/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=7538"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/One_Piece"
+    }
+  ],
+  "streaming": []
+}

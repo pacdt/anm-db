@@ -1,0 +1,229 @@
+{
+  "mal_id": 1557,
+  "url": "https://myanimelist.net/anime/1557/Shounen_Onmyouji",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1865/106109.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/106109t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/106109l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1865/106109.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/106109t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/106109l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shounen Onmyouji"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Young Spirit Master"
+    },
+    {
+      "type": "Synonym",
+      "title": "Teenager Onmyoji"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shonen Onmyouji"
+    },
+    {
+      "type": "Japanese",
+      "title": "少年陰陽師"
+    },
+    {
+      "type": "English",
+      "title": "Shonen Onmyoji"
+    }
+  ],
+  "title": "Shounen Onmyouji",
+  "title_english": "Shonen Onmyoji",
+  "title_japanese": "少年陰陽師",
+  "title_synonyms": [
+    "The Young Spirit Master",
+    "Teenager Onmyoji",
+    "Shonen Onmyouji"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-10-04T00:00:00+00:00",
+    "to": "2007-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2006
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2007
+      }
+    },
+    "string": "Oct 4, 2006 to Mar 28, 2007"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.53,
+  "scored_by": 20997,
+  "rank": 1913,
+  "popularity": 3193,
+  "members": 58809,
+  "favorites": 275,
+  "synopsis": "Masahiro is the grandson of the great onmyouji, Abe no Seimei. However, he lost his sixth sense that enables him to see supernatural beings, which is very important for an onmyouji. Thus, he is left with no choice but to try and pick a different career. But one day, a strange mononoke appears, which he names Mokkun, who shows him his true potential powers after fighting a demon. With the assistance of Mokkun, his quest to become the greatest onmyouji begins.",
+  "background": "",
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 1363,
+      "type": "anime",
+      "name": "Marine Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1363/Marine_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 12663,
+          "type": "manga",
+          "name": "Shounen Onmyouji",
+          "url": "https://myanimelist.net/manga/12663/Shounen_Onmyouji"
+        },
+        {
+          "mal_id": 154736,
+          "type": "manga",
+          "name": "Shounen Onmyouji",
+          "url": "https://myanimelist.net/manga/154736/Shounen_Onmyouji"
+        },
+        {
+          "mal_id": 12664,
+          "type": "manga",
+          "name": "Shounen Onmyouji",
+          "url": "https://myanimelist.net/manga/12664/Shounen_Onmyouji"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Egao no Wake\" by Kaori Hikita"
+    ],
+    "endings": [
+      "1: \"Yakusoku\" by Saori Kiuji",
+      "2: \"Roku Tousei\" by Kaida Yuki (eps 26)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://seimeinomago.net/web/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4214"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6703"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shounen_Onmyouji"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,176 @@
+{
+  "mal_id": 35113,
+  "url": "https://myanimelist.net/anime/35113/Africa_no_Salaryman",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/87132.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87132t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87132l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/87132.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87132t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87132l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Africa no Salaryman"
+    },
+    {
+      "type": "Synonym",
+      "title": "Businessman in Africa"
+    },
+    {
+      "type": "Japanese",
+      "title": "アフリカのサラリーマン"
+    },
+    {
+      "type": "English",
+      "title": "African Office Worker"
+    }
+  ],
+  "title": "Africa no Salaryman",
+  "title_english": "African Office Worker",
+  "title_japanese": "アフリカのサラリーマン",
+  "title_synonyms": [
+    "Businessman in Africa"
+  ],
+  "type": "ONA",
+  "source": "Web manga",
+  "episodes": 10,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-06-05T00:00:00+00:00",
+    "to": "2017-06-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 6,
+        "year": 2017
+      },
+      "to": {
+        "day": 30,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Jun 5, 2017 to Jun 30, 2017"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.95,
+  "scored_by": 606,
+  "rank": 10580,
+  "popularity": 11851,
+  "members": 2391,
+  "favorites": 6,
+  "synopsis": "The comedy manga follows a lion, toucan, and lizard as they live the lives of office workers in a capitalist society in Japan, while also dealing with their unique situations as animals living beyond the savanna and the food chain. \n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 1723,
+      "type": "anime",
+      "name": "Anime Beans",
+      "url": "https://myanimelist.net/anime/producer/1723/Anime_Beans"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 90036,
+          "type": "manga",
+          "name": "Africa no Salaryman",
+          "url": "https://myanimelist.net/manga/90036/Africa_no_Salaryman"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 39590,
+          "type": "anime",
+          "name": "Africa no Salaryman (TV)",
+          "url": "https://myanimelist.net/anime/39590/Africa_no_Salaryman_TV"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://tateanime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12983"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%86%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
+  "streaming": []
+}

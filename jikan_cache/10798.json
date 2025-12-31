@@ -1,0 +1,238 @@
+{
+  "mal_id": 10798,
+  "url": "https://myanimelist.net/anime/10798/Un-Go",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1823/136763.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1823/136763t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1823/136763l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1823/136763.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1823/136763t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1823/136763l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/W_bLF292SB4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Un-Go"
+    },
+    {
+      "type": "Japanese",
+      "title": "UN-GO アン ゴ"
+    },
+    {
+      "type": "English",
+      "title": "Un-Go"
+    }
+  ],
+  "title": "Un-Go",
+  "title_english": "Un-Go",
+  "title_japanese": "UN-GO アン ゴ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Novel",
+  "episodes": 11,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-10-14T00:00:00+00:00",
+    "to": "2011-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 10,
+        "year": 2011
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2011
+      }
+    },
+    "string": "Oct 14, 2011 to Dec 23, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.32,
+  "scored_by": 60256,
+  "rank": 2825,
+  "popularity": 1658,
+  "members": 158660,
+  "favorites": 631,
+  "synopsis": "In a dystopian future, detective Shinjuurou Yuuki—known by some as the \"Defeated Detective\"—solves mysteries throughout Tokyo. Aided by his odd associate Inga, Shinjuurou's insight and ingenuity in cracking cases, particularly homicides, lead to numerous mysteries solved and culprits caught. However, his partner seems to have some other, more sinister intentions for the people they catch, and the truth of the assistant's identity and motivation is shrouded in secrecy.\n\n[Written by MAL Rewrite]",
+  "background": "Based on Sakaguchi Ango's novel, Meiji Kaika Ango Torimonocho.",
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 769,
+      "type": "anime",
+      "name": "Fujipacific Music",
+      "url": "https://myanimelist.net/anime/producer/769/Fujipacific_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 11531,
+          "type": "anime",
+          "name": "Un-Go: Inga-ron",
+          "url": "https://myanimelist.net/anime/11531/Un-Go__Inga-ron"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 34569,
+          "type": "manga",
+          "name": "Un-Go: Haisen Tantei Yuuki Shinjuurou",
+          "url": "https://myanimelist.net/manga/34569/Un-Go__Haisen_Tantei_Yuuki_Shinjuurou"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 12411,
+          "type": "anime",
+          "name": "Inga Nikki",
+          "url": "https://myanimelist.net/anime/12411/Inga_Nikki"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"How to go\" by school food punishment"
+    ],
+    "endings": [
+      "\"Fantasy\" by LAMA"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.un-go.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8485"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13002"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Un-Go"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-238468"
+    }
+  ]
+}

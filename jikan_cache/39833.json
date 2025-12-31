@@ -1,0 +1,167 @@
+{
+  "mal_id": 39833,
+  "url": "https://myanimelist.net/anime/39833/Junk_Head",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1780/116665.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/116665t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/116665l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1780/116665.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/116665t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/116665l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Junk Head"
+    },
+    {
+      "type": "Japanese",
+      "title": "JUNK HEAD"
+    }
+  ],
+  "title": "Junk Head",
+  "title_english": null,
+  "title_japanese": "JUNK HEAD",
+  "title_synonyms": [],
+  "type": "Movie",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-23T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 23, 2017"
+  },
+  "duration": "1 hr 40 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.19,
+  "scored_by": 812,
+  "rank": 3532,
+  "popularity": 11818,
+  "members": 2413,
+  "favorites": 19,
+  "synopsis": "In the distant future, humanity is hurtling down a path of ruin. Global environmental destruction caused by chemical contamination, radioactive fallout, and UV rays coming through the patchy ozone layer has lead to deterioration of the human genome.\n\n(Source: Official Website)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2564,
+      "type": "anime",
+      "name": "Yamiken",
+      "url": "https://myanimelist.net/anime/producer/2564/Yamiken"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 56640,
+          "type": "anime",
+          "name": "Junk World",
+          "url": "https://myanimelist.net/anime/56640/Junk_World"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 49478,
+          "type": "anime",
+          "name": "Junk Head 1",
+          "url": "https://myanimelist.net/anime/49478/Junk_Head_1"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.yamiken.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11907"
+    }
+  ],
+  "streaming": []
+}

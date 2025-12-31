@@ -1,0 +1,123 @@
+{
+  "mal_id": 56107,
+  "url": "https://myanimelist.net/anime/56107/Kaijuu_Sekai_Seifuku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1859/137406.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1859/137406t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1859/137406l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1859/137406.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1859/137406t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1859/137406l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaijuu Sekai Seifuku"
+    },
+    {
+      "type": "Japanese",
+      "title": "かいじゅうせかいせいふく"
+    }
+  ],
+  "title": "Kaijuu Sekai Seifuku",
+  "title_english": null,
+  "title_japanese": "かいじゅうせかいせいふく",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Web manga",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-02T00:00:00+00:00",
+    "to": "2023-06-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 20,
+        "month": 6,
+        "year": 2023
+      }
+    },
+    "string": "Apr 2, 2020 to Jun 20, 2023"
+  },
+  "duration": "1 min per ep",
+  "rating": "G - All Ages",
+  "score": null,
+  "scored_by": null,
+  "rank": 17712,
+  "popularity": 20945,
+  "members": 296,
+  "favorites": 0,
+  "synopsis": "Follows four dragon-like monsters who came to Earth to conquer it — but first, they study humanity by freeloading off an office worker in her 20s. They turn her apartment into their secret base, and prepare for their world conquest … eventually.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 71,
+      "type": "anime",
+      "name": "Pets",
+      "url": "https://myanimelist.net/anime/genre/71/Pets"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 60070,
+          "type": "anime",
+          "name": "Kaijuu Sekai Seifuku (TV)",
+          "url": "https://myanimelist.net/anime/60070/Kaijuu_Sekai_Seifuku_TV"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [],
+  "streaming": []
+}

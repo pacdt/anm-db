@@ -1,0 +1,268 @@
+{
+  "mal_id": 38408,
+  "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1412/107914.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1412/107914l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5VQwDC5jqzQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Boku no Hero Academia 4th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "僕のヒーローアカデミア"
+    },
+    {
+      "type": "English",
+      "title": "My Hero Academia Season 4"
+    },
+    {
+      "type": "German",
+      "title": "My Hero Academia Staffel 4"
+    },
+    {
+      "type": "Spanish",
+      "title": "My Hero Academia Temporada 4"
+    },
+    {
+      "type": "French",
+      "title": "My Hero Academia Saison 4"
+    }
+  ],
+  "title": "Boku no Hero Academia 4th Season",
+  "title_english": "My Hero Academia Season 4",
+  "title_japanese": "僕のヒーローアカデミア",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-10-12T00:00:00+00:00",
+    "to": "2020-04-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 10,
+        "year": 2019
+      },
+      "to": {
+        "day": 4,
+        "month": 4,
+        "year": 2020
+      }
+    },
+    "string": "Oct 12, 2019 to Apr 4, 2020"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.86,
+  "scored_by": 1167951,
+  "rank": 953,
+  "popularity": 54,
+  "members": 1869543,
+  "favorites": 8148,
+  "synopsis": "After successfully passing his Provisional Hero License exam, Izuku \"Deku\" Midoriya seeks out an extracurricular internship with a professional hero agency. At the recommendation of his mentor All Might, Midoriya lands a position under All Might's former sidekick, Sir Nighteye, now a famous hero in his own right.\n\nAs Midoriya's classmates further their own abilities through various internships, up-and-coming villain Kai Chisaki utilizes his terrifying powers to gather favor in the criminal underworld. Known by the moniker Overhaul, Chisaki's ambitions collide with the League of Villains and its leader, Tomura Shigaraki.\n\nThrough his work with Sir Nighteye, Midoriya discovers Chisaki's crime syndicate and the villain's hostile relationship with a mysterious young girl named Eri. Fearing for the child's safety, Midoriya and his upperclassman Mirio Toogata must work together to put an end to Chisaki's reign of terror.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2019,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 36456,
+          "type": "anime",
+          "name": "Boku no Hero Academia 3rd Season",
+          "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 41587,
+          "type": "anime",
+          "name": "Boku no Hero Academia 5th Season",
+          "url": "https://myanimelist.net/anime/41587/Boku_no_Hero_Academia_5th_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 75989,
+          "type": "manga",
+          "name": "Boku no Hero Academia",
+          "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 39565,
+          "type": "anime",
+          "name": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+          "url": "https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Polaris\" by BLUE ENCOUNT (eps 1-14)",
+      "2: \"Star Marker (スターマーカー)\" by KANA-BOON (eps 15-25)"
+    ],
+    "endings": [
+      "1: \"Koukai no Uta (航海の唄)\" by Sayuri (eps 1-14)",
+      "2: \"Shout Baby\" by Ryokuoushoku Shakai (緑黄色社会) (eps 15-25)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.heroaca.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14416"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22265"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/My_Hero_Academia"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279247"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

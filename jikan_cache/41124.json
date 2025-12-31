@@ -1,0 +1,165 @@
+{
+  "mal_id": 41124,
+  "url": "https://myanimelist.net/anime/41124/Zashiki_Warashi_no_Tatami-chan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1813/116873.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1813/116873t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1813/116873l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1813/116873.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1813/116873t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1813/116873l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WRXfGR-Hw64?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Zashiki Warashi no Tatami-chan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tatami-chan the Guest Room Spirit"
+    },
+    {
+      "type": "Japanese",
+      "title": "ざしきわらしのタタミちゃん"
+    },
+    {
+      "type": "English",
+      "title": "The House Spirit Tatami-chan"
+    },
+    {
+      "type": "German",
+      "title": "The House Spirit Tatami-chan"
+    },
+    {
+      "type": "Spanish",
+      "title": "The House Spirit Tatami-chan"
+    },
+    {
+      "type": "French",
+      "title": "The House Spirit Tatami-chan"
+    }
+  ],
+  "title": "Zashiki Warashi no Tatami-chan",
+  "title_english": "The House Spirit Tatami-chan",
+  "title_japanese": "ざしきわらしのタタミちゃん",
+  "title_synonyms": [
+    "Tatami-chan the Guest Room Spirit"
+  ],
+  "type": "ONA",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-10T00:00:00+00:00",
+    "to": "2020-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2020
+      }
+    },
+    "string": "Apr 10, 2020 to Jun 26, 2020"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.23,
+  "scored_by": 2594,
+  "rank": 13453,
+  "popularity": 8783,
+  "members": 5934,
+  "favorites": 3,
+  "synopsis": "The \"pleasant horror gag comedy\" centers around the life of Tatami-chan, a sardonic ghost from Iwate Prefecture who is now living in Tokyo among other spirits, supernatural entities, and humans. In addition to dealing with otherworldly matters, the unemployed Tatami-chan also has to deal with job-hunting as well as paying for gas, water, and electricity. \n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1379,
+      "type": "anime",
+      "name": "Zero-G",
+      "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"CATCH YOUR SWEET MIND\" by ORESAMA"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://tatamichan.com"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15365"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22991"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279236"
+    }
+  ]
+}

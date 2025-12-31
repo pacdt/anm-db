@@ -1,0 +1,192 @@
+{
+  "mal_id": 40504,
+  "url": "https://myanimelist.net/anime/40504/Major_2nd_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1025/105319.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1025/105319t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1025/105319l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1025/105319.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1025/105319t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1025/105319l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wtEUCSPz6Cg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Major 2nd 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "メジャーセカンド"
+    },
+    {
+      "type": "German",
+      "title": "MAJOR 2nd Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "MAJOR 2nd Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "MAJOR 2nd Saison 2"
+    }
+  ],
+  "title": "Major 2nd 2nd Season",
+  "title_english": null,
+  "title_japanese": "メジャーセカンド",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-04T00:00:00+00:00",
+    "to": "2020-11-07T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 7,
+        "month": 11,
+        "year": 2020
+      }
+    },
+    "string": "Apr 4, 2020 to Nov 7, 2020"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.45,
+  "scored_by": 10719,
+  "rank": 2252,
+  "popularity": 4977,
+  "members": 24267,
+  "favorites": 67,
+  "synopsis": "After recovering from the inner struggles he faced in the past, Daigo Shigeno continues to play baseball and is now the captain of Fuurin Private Academy Middle School's baseball team. Alongside Mutsuko Sakura, his classmate from elementary school, he aims to lead the team to glory. However, due to unexpected circumstances, Fuurin's baseball team is left with only six members: Daigo, Mutsuko, Yayoi Sawa, Tao Sagara, Seira Kandori, and Hiromu Tanba. Left with mostly female players and lacking in experience, the team struggles to gain confidence and trust from the new recruits—Akira Nishina, Anita Kabashima, and Chisato Fujii. Facing challenges such as having no proper coach, problematic recruits, and a limited number of members, Daigo's resolution is put to the test as he tries to bring the team together in time to participate in their first ever tournament.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 36565,
+          "type": "anime",
+          "name": "Major 2nd",
+          "url": "https://myanimelist.net/anime/36565/Major_2nd"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 87201,
+          "type": "manga",
+          "name": "Major 2nd",
+          "url": "https://myanimelist.net/manga/87201/Major_2nd"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Answer\" by Leo Ieiri (eps 1-13)",
+      "2: \"Shiroi Doro (白い泥)\" by Mone Kamishiraishi (eps 14-25)"
+    ],
+    "endings": [
+      "1: \"One\" by SHE’S",
+      "2: \"IDENTITY\" by Ame no Parade (雨のパレード)"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15133"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22564"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Major_(manga)#Anime"
+    }
+  ],
+  "streaming": []
+}

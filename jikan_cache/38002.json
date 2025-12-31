@@ -1,0 +1,163 @@
+{
+  "mal_id": 38002,
+  "url": "https://myanimelist.net/anime/38002/Asobi_Asobase_Specials",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1270/97437.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/97437t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/97437l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1270/97437.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/97437t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/97437l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Asobi Asobase Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "あそびあそばせ"
+    }
+  ],
+  "title": "Asobi Asobase Specials",
+  "title_english": null,
+  "title_japanese": "あそびあそばせ",
+  "title_synonyms": [],
+  "type": "Special",
+  "source": "Manga",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-11-28T00:00:00+00:00",
+    "to": "2018-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 11,
+        "year": 2018
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Nov 28, 2018 to Dec 21, 2018"
+  },
+  "duration": "6 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.59,
+  "scored_by": 27308,
+  "rank": 1688,
+  "popularity": 3516,
+  "members": 49668,
+  "favorites": 22,
+  "synopsis": "Ototo\nOn their way home from school, the Pastime Club encounters Hanako Honda's younger brother, Kentarou. The timid yet studious boy introduces himself to Hanako's friends but quickly attempts to leave the awkward situation. However, he is roped into joining the three girls to have some fun at the park.\n\nAmusutorongu\nChisato Higuchi's spontaneous question of which Pastime Club member is the strongest leads to a fierce arm-wrestling contest—spurred further by some underhanded methods.\n\n[Written by MAL Rewrite]",
+  "background": "Asobi Asobase Specials was included with the third and fourth volume Blu-ray and DVD release of Asobi Asobase.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 456,
+      "type": "anime",
+      "name": "Lerche",
+      "url": "https://myanimelist.net/anime/producer/456/Lerche"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 99678,
+          "type": "manga",
+          "name": "Asobi Asobase",
+          "url": "https://myanimelist.net/manga/99678/Asobi_Asobase"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 37171,
+          "type": "anime",
+          "name": "Asobi Asobase",
+          "url": "https://myanimelist.net/anime/37171/Asobi_Asobase"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Three-Piece (スリピス)\" by Hanako Honda (Hina Kino), Olivia (Rika Nagae), Kasumi Nomura (Konomi Kohara)"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://asobiasobase.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13750"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asobi_Asobase"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,197 @@
+{
+  "mal_id": 32454,
+  "url": "https://myanimelist.net/anime/32454/Usakame",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/79223.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/79223t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/79223l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/79223.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/79223t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/79223l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KlGV0E13y9w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Usakame"
+    },
+    {
+      "type": "Japanese",
+      "title": "うさかめ"
+    },
+    {
+      "type": "English",
+      "title": "Usakame"
+    }
+  ],
+  "title": "Usakame",
+  "title_english": "Usakame",
+  "title_japanese": "うさかめ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-12T00:00:00+00:00",
+    "to": "2016-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 12, 2016 to Jun 28, 2016"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.76,
+  "scored_by": 6678,
+  "rank": 11576,
+  "popularity": 6168,
+  "members": 14021,
+  "favorites": 8,
+  "synopsis": "The girls of the Usakame High tennis club, Tanaka Kinako, Suzuki Ayako, Sato Kurumi, and Nishiarai-Taishi Nishi, pursue their various dreams... This high school comedy kind of thing starts now. Usakame, the official rival of the high intensity comedy Teekyuu, depicts the mostly ordinary but slightly strange daily lives of four girls who devote themselves to practice. All members of Earth Star Dream, an Earth Star Entertainment idol unit of nationally famous voice actors, appear in the show! Sit back, relax, and enjoy Teekyuu's rival Usakame. \n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 925,
+      "type": "anime",
+      "name": "Earth Star Entertainment",
+      "url": "https://myanimelist.net/anime/producer/925/Earth_Star_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1237,
+      "type": "anime",
+      "name": "Millepensee",
+      "url": "https://myanimelist.net/anime/producer/1237/Millepensee"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 95732,
+          "type": "manga",
+          "name": "Usakame",
+          "url": "https://myanimelist.net/manga/95732/Usakame"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 34615,
+          "type": "anime",
+          "name": "Usakame Special",
+          "url": "https://myanimelist.net/anime/34615/Usakame_Special"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 15125,
+          "type": "anime",
+          "name": "Teekyuu",
+          "url": "https://myanimelist.net/anime/15125/Teekyuu"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Hashire! Usakame Koukou Tennis-bu!! (走れ！うさかめ高校テニス部！！)\" by Usakame Koukou Tennis-bu (Yuki Nakashima, Hikaru Koide, Izumi Araida, Maria Tanijiri)"
+    ],
+    "endings": [
+      "\"Promise you\" by Earth Star Dream"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.smiral-label.com/usakame/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11865"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17972"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269959"
+    }
+  ]
+}

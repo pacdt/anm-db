@@ -1,0 +1,211 @@
+{
+  "mal_id": 428,
+  "url": "https://myanimelist.net/anime/428/Kaleido_Star__Aratanaru_Tsubasa_-_Extra_Stage",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/23761.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/23761t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/23761l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/23761.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/23761t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/23761l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaleido Star: Aratanaru Tsubasa - Extra Stage"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaleido Star: New Wings - The Amazing Princess Without a Smile"
+    },
+    {
+      "type": "Japanese",
+      "title": "カレイドスター ～新たなる翼～ EXTRA STAGE"
+    },
+    {
+      "type": "English",
+      "title": "Kaleido Star: New Wings Extra Stage"
+    }
+  ],
+  "title": "Kaleido Star: Aratanaru Tsubasa - Extra Stage",
+  "title_english": "Kaleido Star: New Wings Extra Stage",
+  "title_japanese": "カレイドスター ～新たなる翼～ EXTRA STAGE",
+  "title_synonyms": [
+    "Kaleido Star: New Wings - The Amazing Princess Without a Smile"
+  ],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-09-24T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 9,
+        "year": 2004
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 24, 2004"
+  },
+  "duration": "24 min",
+  "rating": "PG - Children",
+  "score": 7.44,
+  "scored_by": 7854,
+  "rank": 2281,
+  "popularity": 5962,
+  "members": 15289,
+  "favorites": 13,
+  "synopsis": "Sora Naegino has finally consolidated herself as Kaleido Stage's greatest star ever, and a new star starts to shine as Rosetta Passel is selected to participate in the next attraction in a main role. But when things start to go wrong in the rehearsals, Rosetta starts to question her abillity to take the role, as her own capacity to remain in Kaleido Stage. Meanwhile, Fool also struggles with his demons from the past.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 34,
+      "type": "anime",
+      "name": "HAL Film Maker",
+      "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    },
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Showbiz",
+      "url": "https://myanimelist.net/anime/genre/75/Showbiz"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 427,
+          "type": "anime",
+          "name": "Kaleido Star",
+          "url": "https://myanimelist.net/anime/427/Kaleido_Star"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 429,
+          "type": "anime",
+          "name": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
+          "url": "https://myanimelist.net/anime/429/Kaleido_Star__Legend_of_Phoenix_-_Layla_Hamilton_Monogatari"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Blanc et Noir\" by Ryō Hirohashi and Kaori Mizuhashi"
+    ],
+    "endings": [
+      "\"Tattoo Kiss\" by r.o.r/s"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2418"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4201"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kaleido_Star"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274259"
+    }
+  ]
+}

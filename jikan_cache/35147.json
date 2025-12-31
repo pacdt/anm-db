@@ -1,0 +1,141 @@
+{
+  "mal_id": 35147,
+  "url": "https://myanimelist.net/anime/35147/Boku_wa_Ko_Zou_no_Shouboutai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/84756.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/84756t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/84756l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/84756.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/84756t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/84756l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Boku wa Ko Zou no Shouboutai"
+    },
+    {
+      "type": "Japanese",
+      "title": "ぼくは子象の消防隊"
+    }
+  ],
+  "title": "Boku wa Ko Zou no Shouboutai",
+  "title_english": null,
+  "title_japanese": "ぼくは子象の消防隊",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": null,
+    "to": null,
+    "prop": {
+      "from": {
+        "day": null,
+        "month": null,
+        "year": null
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Not available"
+  },
+  "duration": "17 min",
+  "rating": "G - All Ages",
+  "score": null,
+  "scored_by": null,
+  "rank": 20412,
+  "popularity": 22142,
+  "members": 231,
+  "favorites": 0,
+  "synopsis": "A children's fire prevention education anime with animal firefighters.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "Educational",
+      "url": "https://myanimelist.net/anime/genre/56/Educational"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 39426,
+          "type": "anime",
+          "name": "Ganbare! Ko Zou no Koutsuu Anzen Patrol-tai",
+          "url": "https://myanimelist.net/anime/39426/Ganbare_Ko_Zou_no_Koutsuu_Anzen_Patrol-tai"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.kyowafilm.com/kozo-syobo.html"
+    }
+  ],
+  "streaming": []
+}

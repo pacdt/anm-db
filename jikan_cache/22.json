@@ -1,0 +1,325 @@
+{
+  "mal_id": 22,
+  "url": "https://myanimelist.net/anime/22/Tennis_no_Oujisama",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/21624.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/21624t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/21624l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/21624.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/21624t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/21624l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tennis no Oujisama"
+    },
+    {
+      "type": "Synonym",
+      "title": "TeniPuri"
+    },
+    {
+      "type": "Synonym",
+      "title": "PoT"
+    },
+    {
+      "type": "Japanese",
+      "title": "テニスの王子様"
+    },
+    {
+      "type": "English",
+      "title": "The Prince of Tennis"
+    },
+    {
+      "type": "French",
+      "title": "The Prince of Tennis"
+    }
+  ],
+  "title": "Tennis no Oujisama",
+  "title_english": "The Prince of Tennis",
+  "title_japanese": "テニスの王子様",
+  "title_synonyms": [
+    "TeniPuri",
+    "PoT"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 178,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-10-10T00:00:00+00:00",
+    "to": "2005-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 10,
+        "year": 2001
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 2005
+      }
+    },
+    "string": "Oct 10, 2001 to Mar 23, 2005"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.84,
+  "scored_by": 87954,
+  "rank": 1003,
+  "popularity": 1387,
+  "members": 195742,
+  "favorites": 3062,
+  "synopsis": "At the request of his father, tennis prodigy Ryouma Echizen has returned from America and is ready to take the Japanese tennis scene by storm. Aiming to become the best tennis player in the country, he enrolls in Seishun Academy—home to one of the best middle school tennis teams in Japan. \n\nAfter Ryouma catches the captain's eye, he finds himself playing for a spot on the starting lineup in the intra-school ranking matches despite only being a freshman. Due to his age, the rest of the Seishun Boys' Tennis Team are initially reluctant to accept him, but his skill and determination convinces them to let him in.\n\nArmed with their new \"super rookie,\" Seishun sets out to claim a spot in the National Tournament, hoping to take the coveted title for themselves. In order to do so, the team must qualify by playing through the Tokyo Prefectural and Kanto Regionals. Yet, the road ahead of them is shared by a plethora of strong schools, each playing tennis in unique ways for their own reasons. Ryouma and his teammates must learn to cooperate if they want to become the champions they aspire to be.\n\n[Written by MAL Rewrite]",
+  "background": "On April 24, 2007, Viz Media released the first DVD box set in the United States. An additional three box sets have been released since January 15, 2008. However, these four sets only contain 50 of the 178 episodes. On April 2, 2021, Funimation obtained licensing rights to the series and announced a new dub was in the works.",
+  "season": "fall",
+  "year": 2001,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Trans Arts",
+      "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 995,
+          "type": "anime",
+          "name": "Tennis no Oujisama: Zenkoku Taikai-hen",
+          "url": "https://myanimelist.net/anime/995/Tennis_no_Oujisama__Zenkoku_Taikai-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 49,
+          "type": "manga",
+          "name": "Tennis no Oujisama",
+          "url": "https://myanimelist.net/manga/49/Tennis_no_Oujisama"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 1190,
+          "type": "anime",
+          "name": "Tennis no Oujisama: Sonzoku Yama no Hi",
+          "url": "https://myanimelist.net/anime/1190/Tennis_no_Oujisama__Sonzoku_Yama_no_Hi"
+        },
+        {
+          "mal_id": 5996,
+          "type": "anime",
+          "name": "Tennis no Oujisama: Oshougatsu Special",
+          "url": "https://myanimelist.net/anime/5996/Tennis_no_Oujisama__Oshougatsu_Special"
+        },
+        {
+          "mal_id": 815,
+          "type": "anime",
+          "name": "Tennis no Oujisama Movie 1: Futari no Samurai - The First Game",
+          "url": "https://myanimelist.net/anime/815/Tennis_no_Oujisama_Movie_1__Futari_no_Samurai_-_The_First_Game"
+        },
+        {
+          "mal_id": 814,
+          "type": "anime",
+          "name": "Tennis no Oujisama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri",
+          "url": "https://myanimelist.net/anime/814/Tennis_no_Oujisama__Atobe_kara_no_Okurimono_-_Kimi_ni_Sasageru_Tennis_Prince_Matsuri"
+        },
+        {
+          "mal_id": 29697,
+          "type": "anime",
+          "name": "Tennis no Oujisama: Message in a Bottle",
+          "url": "https://myanimelist.net/anime/29697/Tennis_no_Oujisama__Message_in_a_Bottle"
+        },
+        {
+          "mal_id": 10862,
+          "type": "anime",
+          "name": "Tennis no Oujisama: Pair Prince",
+          "url": "https://myanimelist.net/anime/10862/Tennis_no_Oujisama__Pair_Prince"
+        },
+        {
+          "mal_id": 10731,
+          "type": "anime",
+          "name": "Tennis no Oujisama Movie 2: Eikokushiki Teikyuu Shiro Kessen!",
+          "url": "https://myanimelist.net/anime/10731/Tennis_no_Oujisama_Movie_2__Eikokushiki_Teikyuu_Shiro_Kessen"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 36952,
+          "type": "anime",
+          "name": "Tennis no Oujisama: Best Games!!",
+          "url": "https://myanimelist.net/anime/36952/Tennis_no_Oujisama__Best_Games"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 42602,
+          "type": "anime",
+          "name": "Miloha CM: Oresama ni, Amae Chai na",
+          "url": "https://myanimelist.net/anime/42602/Miloha_CM___Oresama_ni_Amae_Chai_na"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 6749,
+          "type": "anime",
+          "name": "Tennis no Oujisama: The Band of Princes Film Kick the Future",
+          "url": "https://myanimelist.net/anime/6749/Tennis_no_Oujisama__The_Band_of_Princes_Film_Kick_the_Future"
+        },
+        {
+          "mal_id": 10276,
+          "type": "anime",
+          "name": "Tennis no Oujisama: Mini Theater",
+          "url": "https://myanimelist.net/anime/10276/Tennis_no_Oujisama__Mini_Theater"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Future\" by Hiro-X (eps 1-26)",
+      "2: \"Driving Myself\" by Hiro-X (eps 27-53)",
+      "3: \"Make You Free\" by Kimeru (male version), hisoca (female version) (eps 54-75)",
+      "4: \"Long Way\" by Ikuo (eps 76-101)",
+      "5: \"Fly High\" by Toshihiko Matsunaga (eps 102-128)",
+      "6: \"Shining\" by Yuki Shirai (eps 129-153)",
+      "7: \"Paradise\" by Yuki Shirai (eps 154-165)",
+      "8: \"Dream Believer\" by Osami Masaki (eps 166-178)"
+    ],
+    "endings": [
+      "1: \"You Got Game\" by Kimeru (eps 1-26)",
+      "2: \"Keep Your Style\" by Masataka Fujishige (eps 27-35,38-39,41-47,49-53)",
+      "3: \"Walk On\" by Masataka Fujishige (eps 36-37,40,48)",
+      "4: \"White Line\" by Aozu (eps 54-75)",
+      "5: \"Kaze no Tabibito\" by Fureai (eps 76-101)",
+      "6: \"Sakura\" by Yomu Hamaguchi (eps 102-140)",
+      "7: \"Wonderful Days\" by Pull Tab to Can (eps 141-165)",
+      "8: \"Little Sky\" by Kentaro Fukushi (eps 166-178)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/tennipri/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=56"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=876"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Prince_of_Tennis"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282566"
+    }
+  ]
+}

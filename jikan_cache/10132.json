@@ -1,0 +1,120 @@
+{
+  "mal_id": 10132,
+  "url": "https://myanimelist.net/anime/10132/Jin_Sheng_Yuan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/27920.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/27920t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/27920l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/27920.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/27920t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/27920l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jin Sheng Yuan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Jin Seng Yuan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Friend"
+    },
+    {
+      "type": "Japanese",
+      "title": "今生缘"
+    }
+  ],
+  "title": "Jin Sheng Yuan",
+  "title_english": null,
+  "title_japanese": "今生缘",
+  "title_synonyms": [
+    "Jin Seng Yuan",
+    "Friend"
+  ],
+  "type": "Music",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-07-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 7,
+        "year": 2008
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 2008"
+  },
+  "duration": "5 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.18,
+  "scored_by": 490,
+  "rank": null,
+  "popularity": 15427,
+  "members": 883,
+  "favorites": 1,
+  "synopsis": "A famous music video tells a sentimental story of a small group of gangsters in China, and their growth from childhood to their mid-age.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8454"
+    }
+  ],
+  "streaming": []
+}

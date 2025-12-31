@@ -1,0 +1,228 @@
+{
+  "mal_id": 31049,
+  "url": "https://myanimelist.net/anime/31049/Beyblade_Burst",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/78786.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/78786t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/78786l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/78786.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/78786t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/78786l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/VipMWO76P40?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Beyblade Burst"
+    },
+    {
+      "type": "Japanese",
+      "title": "ベイブレードバースト"
+    }
+  ],
+  "title": "Beyblade Burst",
+  "title_english": null,
+  "title_japanese": "ベイブレードバースト",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 51,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-04T00:00:00+00:00",
+    "to": "2017-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Apr 4, 2016 to Mar 27, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 6.68,
+  "scored_by": 22579,
+  "rank": 6239,
+  "popularity": 4083,
+  "members": 37657,
+  "favorites": 233,
+  "synopsis": "The story revolves around Valt Aoi and Shu Kurenai as well as their teammates, Rantaro Kiyama, Daina Kurogami and Wakiya Komurasaki at the Beigoma Academy school in Japan. When not studying, the close friends are obsessed with their Beyblade, creating a school bey club later in the season and challenging each other to battles at their Bey Stadium. The friends eventually become friendly rivals as they compete against each other in a competition to claim the title of Japan’s top Blader.\n\n(Source: Beyblade Wiki)",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "17:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 17:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 164,
+      "type": "anime",
+      "name": "d-rights",
+      "url": "https://myanimelist.net/anime/producer/164/d-rights"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 2505,
+      "type": "anime",
+      "name": "ADK Emotions NY Inc.",
+      "url": "https://myanimelist.net/anime/producer/2505/ADK_Emotions_NY_Inc"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 34901,
+          "type": "anime",
+          "name": "Beyblade Burst God",
+          "url": "https://myanimelist.net/anime/34901/Beyblade_Burst_God"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 93787,
+          "type": "manga",
+          "name": "Beyblade Burst",
+          "url": "https://myanimelist.net/manga/93787/Beyblade_Burst"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 35745,
+          "type": "anime",
+          "name": "40-shuunen da yo!! CoroCoro All-Star Shougakkou",
+          "url": "https://myanimelist.net/anime/35745/40-shuunen_da_yo_CoroCoro_All-Star_Shougakkou"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 288,
+          "type": "anime",
+          "name": "Bakuten Shoot Beyblade",
+          "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade"
+        },
+        {
+          "mal_id": 5962,
+          "type": "anime",
+          "name": "Metal Fight Beyblade",
+          "url": "https://myanimelist.net/anime/5962/Metal_Fight_Beyblade"
+        },
+        {
+          "mal_id": 56566,
+          "type": "anime",
+          "name": "Beyblade X",
+          "url": "https://myanimelist.net/anime/56566/Beyblade_X"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Burst Finish! (バーストフィニッシュ！)\" by Tatsuyuki Kobayashi"
+    ],
+    "endings": [
+      "\"Believe\" by SHIKLAMEN"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tv-tokyo.co.jp/anime/beyblade2016/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11291"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17992"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88"
+    }
+  ],
+  "streaming": []
+}

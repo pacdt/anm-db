@@ -1,0 +1,294 @@
+{
+  "mal_id": 1520,
+  "url": "https://myanimelist.net/anime/1520/Black_Jack",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/12978.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/12978t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/12978l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/12978.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/12978t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/12978l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Black Jack"
+    },
+    {
+      "type": "Synonym",
+      "title": "Black Jack OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Black Jack Final"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブラック・ジャック"
+    },
+    {
+      "type": "English",
+      "title": "Black Jack"
+    }
+  ],
+  "title": "Black Jack",
+  "title_english": "Black Jack",
+  "title_japanese": "ブラック・ジャック",
+  "title_synonyms": [
+    "Black Jack OVA",
+    "Black Jack Final"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1993-12-21T00:00:00+00:00",
+    "to": "2011-12-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 12,
+        "year": 1993
+      },
+      "to": {
+        "day": 16,
+        "month": 12,
+        "year": 2011
+      }
+    },
+    "string": "Dec 21, 1993 to Dec 16, 2011"
+  },
+  "duration": "50 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.72,
+  "scored_by": 13344,
+  "rank": 1303,
+  "popularity": 3702,
+  "members": 45432,
+  "favorites": 393,
+  "synopsis": "Kuroo Hazama, also known as \"Black Jack,\" is a legend in the medical world. Famous for being one of the best, as well as not having a license, Hazama and his assistant Pinoko save countless lives that other doctors cannot... for a price; an exorbitant price, in fact, which causes many to view the genius as greedy and heartless. Despite these claims, however, none can deny his skill and the lengths that he will go to treat his patients. This dark medical drama tells the story of the ominous and mysterious world of underground medicine as Black Jack risks his life to cure some of the most bizarre diseases imaginable, even if it means breaking every law in the process.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 140,
+      "type": "anime",
+      "name": "Animax",
+      "url": "https://myanimelist.net/anime/producer/140/Animax"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 284,
+      "type": "anime",
+      "name": "Central Park Media",
+      "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+    },
+    {
+      "mal_id": 310,
+      "type": "anime",
+      "name": "AnimEigo",
+      "url": "https://myanimelist.net/anime/producer/310/AnimEigo"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 200,
+      "type": "anime",
+      "name": "Tezuka Productions",
+      "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 67,
+      "type": "anime",
+      "name": "Medical",
+      "url": "https://myanimelist.net/anime/genre/67/Medical"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 30740,
+          "type": "anime",
+          "name": "Young Black Jack",
+          "url": "https://myanimelist.net/anime/30740/Young_Black_Jack"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1600,
+          "type": "manga",
+          "name": "Black Jack",
+          "url": "https://myanimelist.net/manga/1600/Black_Jack"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 1521,
+          "type": "anime",
+          "name": "Black Jack the Movie",
+          "url": "https://myanimelist.net/anime/1521/Black_Jack_the_Movie"
+        },
+        {
+          "mal_id": 6246,
+          "type": "anime",
+          "name": "Black Jack: Sora kara Kita Kodomo",
+          "url": "https://myanimelist.net/anime/6246/Black_Jack__Sora_kara_Kita_Kodomo"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 7229,
+          "type": "anime",
+          "name": "Black Jack ONA",
+          "url": "https://myanimelist.net/anime/7229/Black_Jack_ONA"
+        },
+        {
+          "mal_id": 2213,
+          "type": "anime",
+          "name": "Black Jack (TV)",
+          "url": "https://myanimelist.net/anime/2213/Black_Jack_TV"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 9991,
+          "type": "anime",
+          "name": "Bremen 4: Jigoku no Naka no Tenshi-tachi",
+          "url": "https://myanimelist.net/anime/9991/Bremen_4__Jigoku_no_Naka_no_Tenshi-tachi"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 10055,
+          "type": "anime",
+          "name": "Black Jack: Obaa-chan",
+          "url": "https://myanimelist.net/anime/10055/Black_Jack__Obaa-chan"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Just Before Sunrise\" by Rhodes (eps 1-3,11-12)",
+      "2: \"Kioku no Kimi e (To You in My Memory)\" by Another Moon (eps 4-5)",
+      "3: \"Moon Shadow\" by The Orange Vox (eps 6)",
+      "4: \"Rebirth\" by Kudo Eiko (eps 7-10)"
+    ],
+    "endings": [
+      "1: \"I'll Be Back Again --- Moonlight\" by Rhodes (eps 1-3,11-12)",
+      "2: \"Kono omoi tsutaerareru (I Thought I Could Convey This Feeling...)\" by Another Moon (eps 4-5)",
+      "3: \"Black Jack\" by The Orange Vox (eps 6)",
+      "4: \"HOPE --- Not to be defeated, not to cry, and not to be daunted\" by Kudo Eiko (eps 7-10)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://tezukaosamu.net/jp/anime/110.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2544"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8845"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=525"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF_%28OVA%29"
+    }
+  ],
+  "streaming": []
+}

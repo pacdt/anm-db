@@ -1,0 +1,247 @@
+{
+  "mal_id": 31629,
+  "url": "https://myanimelist.net/anime/31629/Granblue_Fantasy_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/81630.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81630t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81630l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/81630.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/81630t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/81630l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/yGZoqzMWRuU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Granblue Fantasy The Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "GRANBLUE FANTASY The Animation"
+    },
+    {
+      "type": "English",
+      "title": "Granblue Fantasy: The Animation"
+    },
+    {
+      "type": "German",
+      "title": "GRANBLUE FANTASY The Animation"
+    },
+    {
+      "type": "Spanish",
+      "title": "GRANBLUE FANTASY The Animation"
+    },
+    {
+      "type": "French",
+      "title": "GRANBLUE FANTASY: The Animation"
+    }
+  ],
+  "title": "Granblue Fantasy The Animation",
+  "title_english": "Granblue Fantasy: The Animation",
+  "title_japanese": "GRANBLUE FANTASY The Animation",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-02T00:00:00+00:00",
+    "to": "2017-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Apr 2, 2017 to Jun 25, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.62,
+  "scored_by": 78375,
+  "rank": 6648,
+  "popularity": 1280,
+  "members": 213075,
+  "favorites": 367,
+  "synopsis": "This is a world of the skies, where many islands drift in the sky. A boy named Gran and a talking winged lizard named Vyrn lived in Zinkenstill, an island which yields mysteries. One day, they come across a girl named Lyria. Lyria had escaped from the Erste Empire, a military government that is trying to rule over this world using powerful military prowess. In order to escape from the Empire, Gran and Lyria head out into the vast skies, holding the letter Gran's father left behind—which said, \"I will be waiting at Estalucia, Island of Stars.\"\n\n(Source: Aniplex of America)",
+  "background": "",
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    },
+    {
+      "mal_id": 1587,
+      "type": "anime",
+      "name": "Cygames",
+      "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 35814,
+          "type": "anime",
+          "name": "Granblue Fantasy The Animation: Kabocha no Lantern",
+          "url": "https://myanimelist.net/anime/35814/Granblue_Fantasy_The_Animation__Kabocha_no_Lantern"
+        },
+        {
+          "mal_id": 36587,
+          "type": "anime",
+          "name": "Granblue Fantasy The Animation Season 2",
+          "url": "https://myanimelist.net/anime/36587/Granblue_Fantasy_The_Animation_Season_2"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 106800,
+          "type": "manga",
+          "name": "Granblue Fantasy",
+          "url": "https://myanimelist.net/manga/106800/Granblue_Fantasy"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 34454,
+          "type": "anime",
+          "name": "Granblue Fantasy CMs",
+          "url": "https://myanimelist.net/anime/34454/Granblue_Fantasy_CMs"
+        },
+        {
+          "mal_id": 41574,
+          "type": "anime",
+          "name": "Guraburu!",
+          "url": "https://myanimelist.net/anime/41574/Guraburu"
+        },
+        {
+          "mal_id": 58430,
+          "type": "anime",
+          "name": "Granblue Fantasy 10th Anniversary Movie",
+          "url": "https://myanimelist.net/anime/58430/Granblue_Fantasy_10th_Anniversary_Movie"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"GO\" by BUMP OF CHICKEN"
+    ],
+    "endings": [
+      "\"Sora no Parade (ソラのパレード)\" by HARUHI"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://anime.granbluefantasy.jp"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11597"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18703"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Granblue_Fantasy_The_Animation"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272203"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

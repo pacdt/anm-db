@@ -1,0 +1,201 @@
+{
+  "mal_id": 50438,
+  "url": "https://myanimelist.net/anime/50438/Yatogame-chan_Kansatsu_Nikki_Yonsatsume",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1549/121406.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/121406t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/121406l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1549/121406.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/121406t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/121406l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/IKB0ij4w-Hw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yatogame-chan Kansatsu Nikki Yonsatsume"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yatogame-chan Kansatsu Nikki 4th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "八十亀ちゃんかんさつにっき 4さつめ"
+    },
+    {
+      "type": "English",
+      "title": "Yatogame-chan Kansatsu Nikki 4"
+    }
+  ],
+  "title": "Yatogame-chan Kansatsu Nikki Yonsatsume",
+  "title_english": "Yatogame-chan Kansatsu Nikki 4",
+  "title_japanese": "八十亀ちゃんかんさつにっき 4さつめ",
+  "title_synonyms": [
+    "Yatogame-chan Kansatsu Nikki 4th Season"
+  ],
+  "type": "TV",
+  "source": "4-koma manga",
+  "episodes": 10,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-04-09T00:00:00+00:00",
+    "to": "2022-06-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2022
+      },
+      "to": {
+        "day": 11,
+        "month": 6,
+        "year": 2022
+      }
+    },
+    "string": "Apr 9, 2022 to Jun 11, 2022"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.3,
+  "scored_by": 3712,
+  "rank": 8546,
+  "popularity": 6985,
+  "members": 10443,
+  "favorites": 19,
+  "synopsis": "Fourth season of Yatogame-chan Kansatsu Nikki.",
+  "background": "",
+  "season": "spring",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "20:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 20:54 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2370,
+      "type": "anime",
+      "name": "Hayabusa Film",
+      "url": "https://myanimelist.net/anime/producer/2370/Hayabusa_Film"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1853,
+      "type": "anime",
+      "name": "Saetta",
+      "url": "https://myanimelist.net/anime/producer/1853/Saetta"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 42959,
+          "type": "anime",
+          "name": "Yatogame-chan Kansatsu Nikki Sansatsume",
+          "url": "https://myanimelist.net/anime/42959/Yatogame-chan_Kansatsu_Nikki_Sansatsume"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 107935,
+          "type": "manga",
+          "name": "Yatogame-chan Kansatsu Nikki",
+          "url": "https://myanimelist.net/manga/107935/Yatogame-chan_Kansatsu_Nikki"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"ENJOY☆NAGOYA☆PERFECT☆LIFE\" by Akira Ouse (eps 1-10)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://yatogame.nagoya/"
+    },
+    {
+      "name": "@yatogame_chan",
+      "url": "https://twitter.com/yatogame_chan"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17003"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24990"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yatogame-chan_Kansatsu_Nikki"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%8D%81%E4%BA%80%E3%81%A1%E3%82%83%E3%82%93%E3%81%8B%E3%82%93%E3%81%95%E3%81%A4%E3%81%AB%E3%81%A3%E3%81%8D#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6287"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277811"
+    }
+  ]
+}

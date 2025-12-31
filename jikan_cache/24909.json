@@ -1,0 +1,220 @@
+{
+  "mal_id": 24909,
+  "url": "https://myanimelist.net/anime/24909/Kaitou_Joker",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/64975.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/64975t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/64975l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/64975.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/64975t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/64975l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/iUO5fBbD1ZU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaitou Joker"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mysterious Joker"
+    },
+    {
+      "type": "Japanese",
+      "title": "怪盗ジョーカー"
+    },
+    {
+      "type": "English",
+      "title": "JOKER"
+    },
+    {
+      "type": "German",
+      "title": "JOKER"
+    },
+    {
+      "type": "Spanish",
+      "title": "Joker"
+    },
+    {
+      "type": "French",
+      "title": "Kaitô Joker"
+    }
+  ],
+  "title": "Kaitou Joker",
+  "title_english": "JOKER",
+  "title_japanese": "怪盗ジョーカー",
+  "title_synonyms": [
+    "Mysterious Joker"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-06T00:00:00+00:00",
+    "to": "2015-01-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 5,
+        "month": 1,
+        "year": 2015
+      }
+    },
+    "string": "Oct 6, 2014 to Jan 5, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.98,
+  "scored_by": 6117,
+  "rank": 4613,
+  "popularity": 5881,
+  "members": 15815,
+  "favorites": 134,
+  "synopsis": "Under the veil of the shining night, the mysterious phantom thief Joker performs daring heists on one valuable treasure to the next. Although often backed into a corner by persistent police investigator Dokusaburou Oniyama, the self-proclaimed \"Miracle Maker\" uses his arsenal of flashy tricks to escape, straddling the line between science and magic. \n\nIn the middle of a heist to steal the \"Dragon Gem\" from the mansion of a haughty multimillionaire, Joker meets Hachi, a clumsy but earnest ninja. Hachi is after the same treasure but idolizes Joker, who in return merely sees him as a nuisance. Still, the two are able to work together to perform a successful heist. Seeing Hachi's wit and courage, as well as his convenient ability to perform housework, Joker reluctantly accepts him as a disciple.\n\nAs they set off with their eyes set on the next prize, Joker and Hachi butt heads with other phantom thieves. Facing both old friends and new foes alike, Joker competes to become the best \"magician\" of the shining night.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 142,
+      "type": "anime",
+      "name": "Asatsu DK",
+      "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 247,
+      "type": "anime",
+      "name": "Shin-Ei Animation",
+      "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 28869,
+          "type": "anime",
+          "name": "Kaitou Joker 2nd Season",
+          "url": "https://myanimelist.net/anime/28869/Kaitou_Joker_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 74267,
+          "type": "manga",
+          "name": "Kaitou Joker",
+          "url": "https://myanimelist.net/manga/74267/Kaitou_Joker"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 35745,
+          "type": "anime",
+          "name": "40-shuunen da yo!! CoroCoro All-Star Shougakkou",
+          "url": "https://myanimelist.net/anime/35745/40-shuunen_da_yo_CoroCoro_All-Star_Shougakkou"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kaitou Miracle Shounen Boy (怪盗ミラクル少年ボーイ)\" by Arukarider (アルカライダー)"
+    ],
+    "endings": [
+      "\"Parade Illusion (パレード・イリュージョン)\" by Mainya with Shuffle Sisters (まいにゃ with シャッフルシスターズ)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://s.mxtv.jp/joker/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10714"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16151"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mysterious_Joker"
+    }
+  ],
+  "streaming": []
+}

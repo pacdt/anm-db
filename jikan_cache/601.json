@@ -1,0 +1,200 @@
+{
+  "mal_id": 601,
+  "url": "https://myanimelist.net/anime/601/Nekojiru-sou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/84241.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/84241t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/84241l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/84241.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/84241t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/84241l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nekojiru-sou"
+    },
+    {
+      "type": "Japanese",
+      "title": "ねこぢる草"
+    },
+    {
+      "type": "English",
+      "title": "Cat Soup"
+    }
+  ],
+  "title": "Nekojiru-sou",
+  "title_english": "Cat Soup",
+  "title_japanese": "ねこぢる草",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-02-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 2,
+        "year": 2001
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 21, 2001"
+  },
+  "duration": "32 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.32,
+  "scored_by": 40936,
+  "rank": 2855,
+  "popularity": 2557,
+  "members": 86330,
+  "favorites": 1085,
+  "synopsis": "The main character, a cat named Nyatto, embarks upon a journey to save his sister's soul, which was ripped in two when Nyatto tried to save her from Death. She trails after him, brain-dead. They encounter many brilliant, mind-bending situations, beginning with a disturbing magic show.\n\n(Source: ANN)",
+  "background": "It won an Excellence Prize (Animation Division) at the 2001 Japan Media Arts Festival; the \"Best Short Film\" award at the 2001 Fantasia Festival and; the Silver Award for Animation 2003 New York Exposition of Short Film and Video.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 284,
+      "type": "anime",
+      "name": "Central Park Media",
+      "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 46,
+      "type": "anime",
+      "name": "Award Winning",
+      "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 18753,
+          "type": "manga",
+          "name": "Nekojiru Udon",
+          "url": "https://myanimelist.net/manga/18753/Nekojiru_Udon"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 1062,
+          "type": "anime",
+          "name": "Nekojiru Gekijou Jirujiru Original",
+          "url": "https://myanimelist.net/anime/1062/Nekojiru_Gekijou_Jirujiru_Original"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.jcstaff.co.jp/sakuhin/nenpyo/2001/01_nekojiru/nekojiru.htm"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1027"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1011"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cat_Soup"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,157 @@
+{
+  "mal_id": 17787,
+  "url": "https://myanimelist.net/anime/17787/Ouritsu_Uchuugun__Honneamise_no_Tsubasa_Pilot",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/47345.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/47345t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/47345l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/47345.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/47345t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/47345l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ouritsu Uchuugun: Honneamise no Tsubasa Pilot"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wing of Royal Space Troop Honneamise Pilot"
+    },
+    {
+      "type": "Synonym",
+      "title": "Royal Space Force: The Wings of Honneamise - The Short Film"
+    },
+    {
+      "type": "Japanese",
+      "title": "王立宇宙軍 オネアミスの翼 パイロットフィルム"
+    }
+  ],
+  "title": "Ouritsu Uchuugun: Honneamise no Tsubasa Pilot",
+  "title_english": null,
+  "title_japanese": "王立宇宙軍 オネアミスの翼 パイロットフィルム",
+  "title_synonyms": [
+    "Wing of Royal Space Troop Honneamise Pilot",
+    "Royal Space Force: The Wings of Honneamise - The Short Film"
+  ],
+  "type": "Special",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1985-01-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 1,
+        "year": 1985
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "1985"
+  },
+  "duration": "4 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.96,
+  "scored_by": 954,
+  "rank": 10503,
+  "popularity": 11792,
+  "members": 2432,
+  "favorites": 1,
+  "synopsis": "Short film/pilot from year 1985 for the Royal Space Force movie that came out two years later.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 1466,
+      "type": "anime",
+      "name": "Bandai Visual USA",
+      "url": "https://myanimelist.net/anime/producer/1466/Bandai_Visual_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 1034,
+          "type": "anime",
+          "name": "Ouritsu Uchuugun: Honneamise no Tsubasa",
+          "url": "https://myanimelist.net/anime/1034/Ouritsu_Uchuugun__Honneamise_no_Tsubasa"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.gainax.co.jp/anime/honeamis/index.html"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Royal_Space_Force:_The_Wings_of_Honn%C3%AAamise"
+    }
+  ],
+  "streaming": []
+}

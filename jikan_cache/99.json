@@ -1,0 +1,264 @@
+{
+  "mal_id": 99,
+  "url": "https://myanimelist.net/anime/99/Mai-Otome",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/46897.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/46897t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/46897l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/46897.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/46897t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/46897l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mai-Otome"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mai Oto-Hime"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mai-OtoHiME"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dancing Maiden"
+    },
+    {
+      "type": "Japanese",
+      "title": "舞-乙HiME"
+    },
+    {
+      "type": "English",
+      "title": "My-Otome"
+    }
+  ],
+  "title": "Mai-Otome",
+  "title_english": "My-Otome",
+  "title_japanese": "舞-乙HiME",
+  "title_synonyms": [
+    "Mai Oto-Hime",
+    "Mai-OtoHiME",
+    "Dancing Maiden"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-10-07T00:00:00+00:00",
+    "to": "2006-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2005
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Oct 7, 2005 to Mar 31, 2006"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.27,
+  "scored_by": 26187,
+  "rank": 3100,
+  "popularity": 3364,
+  "members": 53787,
+  "favorites": 312,
+  "synopsis": "In the Kingdom of Windbloom, Arika Yumemiya enrolls at Garderobe Academy to become an Otome—a virgin girl who is able to use a HiME (Highly-advanced Materializing Equipment) that bestows destructive abilities. Arika also wishes to find her mother who was a Meister Otome, an Otome of the highest rank responsible for being the personal bodyguard and super weapon of the specific nation they are assigned to.\n\nWhile attending the academy, Arika makes friends with Nina Wáng, a distinguished Otome student, and Mashiro Blan de Windbloom, the current princess of the kingdom. With them by her side, Arika quickly adjusts to the academy's environment as she spends her days eagerly training, navigating social relationships, and developing her skills as an Otome.\n\nHowever, Arika soon realizes that the process of becoming an Otome is fraught with dangers and unsavory political dealings. Bombarded with numerous personal dilemmas, Arika must make many sacrifices if she truly wishes to achieve her goals.\n\n[Written by MAL Rewrite]",
+  "background": "Mai-Otome was released on DVD in North America by Bandai Entertainment from July 17, 2007, to July 15, 2008. Funimation published a remastered Blu-ray and DVD collection of the series on January 9, 2018.",
+  "season": "fall",
+  "year": 2005,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 3268,
+          "type": "anime",
+          "name": "Mai-Otome 0: S.ifr",
+          "url": "https://myanimelist.net/anime/3268/Mai-Otome_0__Sifr"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 1609,
+          "type": "anime",
+          "name": "Mai-Otome Zwei",
+          "url": "https://myanimelist.net/anime/1609/Mai-Otome_Zwei"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1069,
+          "type": "manga",
+          "name": "Mai-Otome",
+          "url": "https://myanimelist.net/manga/1069/Mai-Otome"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 1659,
+          "type": "anime",
+          "name": "Mai-Otome Specials",
+          "url": "https://myanimelist.net/anime/1659/Mai-Otome_Specials"
+        },
+        {
+          "mal_id": 8518,
+          "type": "anime",
+          "name": "Mai-Otome Special: Otome no Inori",
+          "url": "https://myanimelist.net/anime/8518/Mai-Otome_Special__Otome_no_Inori"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Setting",
+      "entry": [
+        {
+          "mal_id": 98,
+          "type": "anime",
+          "name": "Mai-HiME",
+          "url": "https://myanimelist.net/anime/98/Mai-HiME"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Dream Wing\" by Minami Kuribayashi (eps 1-15)",
+      "2: \"Crystal Energy\" by Minami Kuribayashi (eps 16-25)"
+    ],
+    "endings": [
+      "1: \"Otome wa DO MY BEST deshou?\" by Mika Kikuchi and Ami Koshimizu"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.my-zhime.net/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3216"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5378"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mai_Otome"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283170"
+    }
+  ]
+}

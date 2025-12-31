@@ -1,0 +1,261 @@
+{
+  "mal_id": 60254,
+  "url": "https://myanimelist.net/anime/60254/Yano-kun_no_Futsuu_no_Hibi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1388/152332.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1388/152332t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1388/152332l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1388/152332.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1388/152332t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1388/152332l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/AVcXFW1fqAk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yano-kun no Futsuu no Hibi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mr. Yano's Ordinary Days"
+    },
+    {
+      "type": "Japanese",
+      "title": "矢野くんの普通の日々"
+    },
+    {
+      "type": "English",
+      "title": "Yano-kun's Ordinary Days"
+    }
+  ],
+  "title": "Yano-kun no Futsuu no Hibi",
+  "title_english": "Yano-kun's Ordinary Days",
+  "title_japanese": "矢野くんの普通の日々",
+  "title_synonyms": [
+    "Mr. Yano's Ordinary Days"
+  ],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-10-01T00:00:00+00:00",
+    "to": "2025-12-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2025
+      },
+      "to": {
+        "day": 17,
+        "month": 12,
+        "year": 2025
+      }
+    },
+    "string": "Oct 1, 2025 to Dec 17, 2025"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.33,
+  "scored_by": 12992,
+  "rank": 2811,
+  "popularity": 3514,
+  "members": 49768,
+  "favorites": 128,
+  "synopsis": "For as long as he can remember, the klutzy Tsuyoshi Yano has been prone to injury. Constantly showing up to school with fresh scrapes and bruises, he has long become accustomed to the pain and to the sight of his face covered in bandages. However, Yano's days begin to change for the better when he is transferred to a new class and meets Kiyoko Yoshida, the class president known for her reliability and kindheartedness.\n\nThrough Yoshida's efforts to learn more about him, Yano starts to experience the kind of high school life he has always wished for—one filled with laughter and camaraderie. Between casual conversations and countless small accidents, the two gradually grow closer, and their relationship may bloom into something more than just friendship.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2025,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:29",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:29 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1418,
+      "type": "anime",
+      "name": "Nippon Television Music",
+      "url": "https://myanimelist.net/anime/producer/1418/Nippon_Television_Music"
+    },
+    {
+      "mal_id": 1986,
+      "type": "anime",
+      "name": "arma bianca",
+      "url": "https://myanimelist.net/anime/producer/1986/arma_bianca"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2431,
+      "type": "anime",
+      "name": "Happinet Phantom Studios",
+      "url": "https://myanimelist.net/anime/producer/2431/Happinet_Phantom_Studios"
+    },
+    {
+      "mal_id": 2751,
+      "type": "anime",
+      "name": "Happinet Media Marketing",
+      "url": "https://myanimelist.net/anime/producer/2751/Happinet_Media_Marketing"
+    },
+    {
+      "mal_id": 3206,
+      "type": "anime",
+      "name": "LDH Japan",
+      "url": "https://myanimelist.net/anime/producer/3206/LDH_Japan"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Ajia-do",
+      "url": "https://myanimelist.net/anime/producer/30/Ajia-do"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 146233,
+          "type": "manga",
+          "name": "Yano-kun no Futsuu no Hibi",
+          "url": "https://myanimelist.net/manga/146233/Yano-kun_no_Futsuu_no_Hibi"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"POP LIFE\" by FANTASTICS"
+    ],
+    "endings": [
+      "\"Better Off\" by iScream"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://yanokun-anime.com/"
+    },
+    {
+      "name": "@yanokun3",
+      "url": "https://twitter.com/yanokun3"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18971"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32869"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yano-kun%27s_Ordinary_Days#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%A2%E9%87%8E%E3%81%8F%E3%82%93%E3%81%AE%E6%99%AE%E9%80%9A%E3%81%AE%E6%97%A5%E3%80%85#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7559"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GT00362335"
+    },
+    {
+      "name": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    }
+  ]
+}

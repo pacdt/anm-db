@@ -1,0 +1,177 @@
+{
+  "mal_id": 4639,
+  "url": "https://myanimelist.net/anime/4639/Gosenzo-sama_Banbanzai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1908/146500.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/146500t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/146500l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1908/146500.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/146500t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/146500l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gosenzo-sama Banbanzai!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gosenzosama Banbanzai!"
+    },
+    {
+      "type": "Japanese",
+      "title": "御先祖様万々歳!"
+    },
+    {
+      "type": "English",
+      "title": "Long Life To The Ancestors"
+    }
+  ],
+  "title": "Gosenzo-sama Banbanzai!",
+  "title_english": "Long Life To The Ancestors",
+  "title_japanese": "御先祖様万々歳!",
+  "title_synonyms": [
+    "Gosenzosama Banbanzai!"
+  ],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1989-08-05T00:00:00+00:00",
+    "to": "1990-01-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 8,
+        "year": 1989
+      },
+      "to": {
+        "day": 25,
+        "month": 1,
+        "year": 1990
+      }
+    },
+    "string": "Aug 5, 1989 to Jan 25, 1990"
+  },
+  "duration": "28 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.31,
+  "scored_by": 3291,
+  "rank": 2915,
+  "popularity": 6764,
+  "members": 11251,
+  "favorites": 168,
+  "synopsis": "The Yomota family is small and typical: father Kinekuni (42), mother Tamiko (38), and son Inumaru (17). One day, a beautiful girl appears at their front door, calling herself \"Maroko Yomota,\" granddaughter of Inumaru who travels back in time with a time machine to visit her ancestors. Even with Tamiko's strong objection, Kinekuni and Inumaru welcome her to stay with them, and the structure of a happy family has begun to collapse. \n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 4640,
+          "type": "anime",
+          "name": "Maroko",
+          "url": "https://myanimelist.net/anime/4640/Maroko"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Gosenzo-sama Banbanzai! (御先祖様万々歳!)\" by Yumi Kojima"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://pierrot.jp/title/gosenzo/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1865"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5344"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gosenzo-sama_Banbanzai!"
+    }
+  ],
+  "streaming": []
+}

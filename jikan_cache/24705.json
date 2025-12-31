@@ -1,0 +1,268 @@
+{
+  "mal_id": 24705,
+  "url": "https://myanimelist.net/anime/24705/Ore_Twintail_ni_Narimasu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/75057.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75057t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75057l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/75057.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75057t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75057l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/b5iS_9oQJlU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ore, Twintail ni Narimasu."
+    },
+    {
+      "type": "Synonym",
+      "title": "Ore"
+    },
+    {
+      "type": "Synonym",
+      "title": "Twin tails ni Narimasu."
+    },
+    {
+      "type": "Japanese",
+      "title": "俺、ツインテールになります。"
+    },
+    {
+      "type": "English",
+      "title": "Gonna be the Twin-Tail!!"
+    },
+    {
+      "type": "German",
+      "title": "Gonna be the Twin-Tail!!"
+    },
+    {
+      "type": "Spanish",
+      "title": "Ore, Twintails ni Narimasu"
+    },
+    {
+      "type": "French",
+      "title": "Gonna Be the Twin-Tail!!"
+    }
+  ],
+  "title": "Ore, Twintail ni Narimasu.",
+  "title_english": "Gonna be the Twin-Tail!!",
+  "title_japanese": "俺、ツインテールになります。",
+  "title_synonyms": [
+    "Ore",
+    "Twin tails ni Narimasu."
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-10T00:00:00+00:00",
+    "to": "2014-12-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 26,
+        "month": 12,
+        "year": 2014
+      }
+    },
+    "string": "Oct 10, 2014 to Dec 26, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.42,
+  "scored_by": 68965,
+  "rank": 7874,
+  "popularity": 1594,
+  "members": 168076,
+  "favorites": 566,
+  "synopsis": "Twintails: the glory of all mankind—or at least that is what first-year high school student Souji Mitsuka believes. At school, Souji spends most of his time daydreaming and rating girls' twintails, even going as far as creating a club dedicated to the hairstyle. His obsession does not go unnoticed, however; when monsters from outer space attack Earth and claim the world's twintails for themselves, a strange woman named Twoearle enlists Souji to fight back using twintails of his own!\n\nBy transforming into the twin-tailed warrior Tail Red, Souji combats the vicious alien organization known as Ultimegil, whose main goal is to colonize Earth and steal everyone's spiritual energy, or \"attribute power.\" Alongside fellow twin-tailed fighters Aika Tsube and Erina Shindou, Souji must find a way to defeat the invading army and defend the twintails he holds so dear.\n\n[Written by MAL Rewrite]",
+  "background": "Ore, Twintail ni Narimasu. adapts the first 4 novels of Yume Mizusawa's light novel series of the same title.",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:46",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:46 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1215,
+      "type": "anime",
+      "name": "Daiichikosho",
+      "url": "https://myanimelist.net/anime/producer/1215/Daiichikosho"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1053,
+      "type": "anime",
+      "name": "Production IMS",
+      "url": "https://myanimelist.net/anime/producer/1053/Production_IMS"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 65,
+      "type": "anime",
+      "name": "Magical Sex Shift",
+      "url": "https://myanimelist.net/anime/genre/65/Magical_Sex_Shift"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 132321,
+          "type": "manga",
+          "name": "Ore, Twintail ni Narimasu. π",
+          "url": "https://myanimelist.net/manga/132321/Ore_Twintail_ni_Narimasu_π"
+        },
+        {
+          "mal_id": 56321,
+          "type": "manga",
+          "name": "Ore, Twintail ni Narimasu.",
+          "url": "https://myanimelist.net/manga/56321/Ore_Twintail_ni_Narimasu"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 39482,
+          "type": "anime",
+          "name": "Ore, Twintail ni Narimasu. Recap",
+          "url": "https://myanimelist.net/anime/39482/Ore_Twintail_ni_Narimasu_Recap"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Gimme! Revolution (ギミー！レボリューション)\" by Maaya Uchida"
+    ],
+    "endings": [
+      "\"Twintails Dreamer! (ツインテール・ドリーマー!)\" by Twintails [Red Tail (Sumire Uesaka), Blue Tail (Yuuka Aisaka), Yellow Tail (Chinatsu Akasaki)]"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tbs.co.jp/anime/ore_twi/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10323"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16132"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ore,_Twintail_ni_Narimasu."
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-263237"
+    }
+  ]
+}

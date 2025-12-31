@@ -1,0 +1,177 @@
+{
+  "mal_id": 1890,
+  "url": "https://myanimelist.net/anime/1890/Clover",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/3710.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/3710t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/3710l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/3710.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/3710t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/3710l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Clover"
+    },
+    {
+      "type": "Japanese",
+      "title": "CLOVER"
+    }
+  ],
+  "title": "Clover",
+  "title_english": null,
+  "title_japanese": "CLOVER",
+  "title_synonyms": [],
+  "type": "Music",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-08-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 8,
+        "year": 1999
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 21, 1999"
+  },
+  "duration": "6 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.74,
+  "scored_by": 7014,
+  "rank": null,
+  "popularity": 6108,
+  "members": 14356,
+  "favorites": 16,
+  "synopsis": "Suu is a Four Leaf Clover. Her power is unrivaled, yet all she has known her whole life is loneliness. One day, a man named Kazuhiko appears and accompanies Suu for her first and last journey, to the place where she can find happiness.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 113,
+          "type": "manga",
+          "name": "Clover",
+          "url": "https://myanimelist.net/manga/113/Clover"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2893"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3110"
+    }
+  ],
+  "streaming": []
+}

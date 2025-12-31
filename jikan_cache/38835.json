@@ -1,0 +1,186 @@
+{
+  "mal_id": 38835,
+  "url": "https://myanimelist.net/anime/38835/Umayon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1032/111641.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/111641t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/111641l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1032/111641.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/111641t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/111641l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mlRUN4_Mt2w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Umayon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uma Yon"
+    },
+    {
+      "type": "Japanese",
+      "title": "うまよん"
+    }
+  ],
+  "title": "Umayon",
+  "title_english": null,
+  "title_japanese": "うまよん",
+  "title_synonyms": [
+    "Uma Yon"
+  ],
+  "type": "TV",
+  "source": "4-koma manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-07-07T00:00:00+00:00",
+    "to": "2020-09-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2020
+      },
+      "to": {
+        "day": 22,
+        "month": 9,
+        "year": 2020
+      }
+    },
+    "string": "Jul 7, 2020 to Sep 22, 2020"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.59,
+  "scored_by": 10967,
+  "rank": 6796,
+  "popularity": 5039,
+  "members": 23539,
+  "favorites": 19,
+  "synopsis": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
+  "background": "",
+  "season": "summer",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 21:54 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1587,
+      "type": "anime",
+      "name": "Cygames",
+      "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1396,
+      "type": "anime",
+      "name": "W-Toon Studio",
+      "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+    },
+    {
+      "mal_id": 1673,
+      "type": "anime",
+      "name": "DMM.futureworks",
+      "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 52751,
+          "type": "anime",
+          "name": "Umayon Shinsaku Short Anime",
+          "url": "https://myanimelist.net/anime/52751/Umayon_Shinsaku_Short_Anime"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 35249,
+          "type": "anime",
+          "name": "Uma Musume: Pretty Derby",
+          "url": "https://myanimelist.net/anime/35249/Uma_Musume__Pretty_Derby"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "1: \"Pyoitto♪Halleluyah (ぴょいっと♪はれるや！)\" by Special Week (Azumi Waki), Grass Wonder (Rena Maeda), El Condor Pasa (Minami Takahashi), Seiun Sky (CAkari Kitou), King Halo (Iori Saeki)",
+      "2: \"Ring Ring Diary (Ring Ring ダイアリー)\" by Toukai Teiou (Machico), Symboli Rudolf (Azusa Tadokoro), Air Groove (Ruriko Aoki), Fujikiseki (Eriko Matsui), Hishi Amazon (Yuiko Tatsumi)",
+      "3: \"Nigekiri! Fallin' Love (逃げ切りっ！ Fallin' Love)\" by Silence Suzuka (Marika Kouno), Smart Falcon (Hitomi Ohwada), Mihono Bourbon (Ikumi Hasegawa), Maruzensky (Lynn), Ines Fuujin (Tomomi Mineuchi)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://umamusume.jp/umayon/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14537"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23494"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uma_Musume"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-279561"
+    }
+  ]
+}

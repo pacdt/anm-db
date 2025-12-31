@@ -1,0 +1,161 @@
+{
+  "mal_id": 15043,
+  "url": "https://myanimelist.net/anime/15043/Haitai_Nanafa",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/45991.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/45991t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/45991l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/45991.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/45991t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/45991l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Haitai Nanafa"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haitai Nana Fa"
+    },
+    {
+      "type": "Japanese",
+      "title": "はいたい七葉"
+    }
+  ],
+  "title": "Haitai Nanafa",
+  "title_english": null,
+  "title_japanese": "はいたい七葉",
+  "title_synonyms": [
+    "Haitai Nana Fa"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-06T00:00:00+00:00",
+    "to": "2012-12-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 29,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Oct 6, 2012 to Dec 29, 2012"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.86,
+  "scored_by": 3884,
+  "rank": 11052,
+  "popularity": 6616,
+  "members": 11840,
+  "favorites": 14,
+  "synopsis": "Nanafa Kyan lives in Okinawa with her grandmother who runs the \"Kame Soba\" soba shop, her beautiful older sister Nao who is in high school, and her younger sister Kokona, who is in elementary school and has a strong ability to sense the supernatural.\n\nOne day, Nanafa witnesses a seal fall off of a Chinese banyan tree, and three spirits who live in that tree are unleashed. These spirits include Niina and Raana, who are \"jimunaa\" spirits. The third spirit is Iina, who is an incarnation of an Okinawan lion statue. As spirits start appearing one after another, the peaceful life of Nanafa and her family begins to change.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 913,
+      "type": "anime",
+      "name": "Ryukyu Asahi Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/913/Ryukyu_Asahi_Broadcasting"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 911,
+      "type": "anime",
+      "name": "Passione",
+      "url": "https://myanimelist.net/anime/producer/911/Passione"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 17727,
+          "type": "anime",
+          "name": "Haitai Nanafa 2nd Season",
+          "url": "https://myanimelist.net/anime/17727/Haitai_Nanafa_2nd_Season"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Yuimaru☆World\" (ゆいまーる☆わーるど)\" by Rie Ayase"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://hai-tai.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9295"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14638"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haitai_Nanafa"
+    }
+  ],
+  "streaming": []
+}

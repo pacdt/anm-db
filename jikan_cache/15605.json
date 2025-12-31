@@ -1,0 +1,230 @@
+{
+  "mal_id": 15605,
+  "url": "https://myanimelist.net/anime/15605/Brothers_Conflict",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/51409.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/51409t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/51409l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/51409.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/51409t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/51409l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/cqrTp49PoYQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Brothers Conflict"
+    },
+    {
+      "type": "Synonym",
+      "title": "BroCon"
+    },
+    {
+      "type": "Japanese",
+      "title": "BROTHERS CONFLICT"
+    },
+    {
+      "type": "English",
+      "title": "Brothers Conflict"
+    }
+  ],
+  "title": "Brothers Conflict",
+  "title_english": "Brothers Conflict",
+  "title_japanese": "BROTHERS CONFLICT",
+  "title_synonyms": [
+    "BroCon"
+  ],
+  "type": "TV",
+  "source": "Novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-02T00:00:00+00:00",
+    "to": "2013-09-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 17,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 2, 2013 to Sep 17, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.88,
+  "scored_by": 103924,
+  "rank": 10946,
+  "popularity": 1402,
+  "members": 193329,
+  "favorites": 756,
+  "synopsis": "Ema Hinata is a sweet girl with only her father to call family. One day, she learns that he will be remarrying Miwa Asahina, a wealthy fashion designer. Though she's glad she has a new place to call home, the family she gains is greater than she could ever imagine—Ema now has 13 step-brothers!\n\nWishing to give her father space, she moves into the Sunrise Residence where her brothers live. As she settles in, Ema realizes she may not experience the loving kinship of a family that she has always longed for, as many of her new brothers exhibit feelings toward Ema that aren't just familial.\n\nWith each brother desiring Ema's attention in his own way, will she be able to work toward a happy ending for all, or will she choose one brother that has stolen her heart?\n\n[Written by MAL Rewrite]",
+  "background": "Idea Factory released two games based on the franchise for the Sony PlayStation Portable. A compilation of short stories that were first featured in Dengeki Girl’s Style and Sylph was also released.",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 19:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 22745,
+          "type": "anime",
+          "name": "Brothers Conflict: Setsubou",
+          "url": "https://myanimelist.net/anime/22745/Brothers_Conflict__Setsubou"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 24373,
+          "type": "manga",
+          "name": "Brothers Conflict",
+          "url": "https://myanimelist.net/manga/24373/Brothers_Conflict"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 25437,
+          "type": "anime",
+          "name": "Brothers Conflict OVA",
+          "url": "https://myanimelist.net/anime/25437/Brothers_Conflict_OVA"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"BELOVED×SURVIVAL\" by Gero"
+    ],
+    "endings": [
+      "\"14 to 1\" by ASAHINA Bros.+JULI"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.bc-anime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9436"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14865"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Brothers_Conflict"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/3055"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273659"
+    }
+  ]
+}

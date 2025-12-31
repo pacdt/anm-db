@@ -1,0 +1,210 @@
+{
+  "mal_id": 40861,
+  "url": "https://myanimelist.net/anime/40861/Hakumei_no_Tsubasa",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1399/104762.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1399/104762t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1399/104762l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1399/104762.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1399/104762t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1399/104762l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hakumei no Tsubasa"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pocket Monsters: Hakumei no Tsubasa"
+    },
+    {
+      "type": "Japanese",
+      "title": "薄明の翼"
+    },
+    {
+      "type": "English",
+      "title": "Pokémon: Twilight Wings"
+    },
+    {
+      "type": "Spanish",
+      "title": "Pokémon: Alas del Crepúsculo"
+    }
+  ],
+  "title": "Hakumei no Tsubasa",
+  "title_english": "Pokémon: Twilight Wings",
+  "title_japanese": "薄明の翼",
+  "title_synonyms": [
+    "Pocket Monsters: Hakumei no Tsubasa"
+  ],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 7,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-15T00:00:00+00:00",
+    "to": "2020-08-06T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 6,
+        "month": 8,
+        "year": 2020
+      }
+    },
+    "string": "Jan 15, 2020 to Aug 6, 2020"
+  },
+  "duration": "6 min per ep",
+  "rating": "PG - Children",
+  "score": 7.52,
+  "scored_by": 13171,
+  "rank": 1987,
+  "popularity": 5033,
+  "members": 23604,
+  "favorites": 70,
+  "synopsis": "Galar is a region where Pokemon battles have developed into a cultural sensation. Over the span of seven episodes, Pokemon: Twilight Wings will show in detail the dreams of Galar's residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pokemon originally discovered in the Galar region appearing in the capsule series. \n\n(Source: Press Release)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 3067,
+      "type": "anime",
+      "name": "Soranone",
+      "url": "https://myanimelist.net/anime/producer/3067/Soranone"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 499,
+      "type": "anime",
+      "name": "The Pokemon Company International",
+      "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1033,
+      "type": "anime",
+      "name": "Studio Colorido",
+      "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+    },
+    {
+      "mal_id": 2033,
+      "type": "anime",
+      "name": "FILMONY",
+      "url": "https://myanimelist.net/anime/producer/2033/FILMONY"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 43568,
+          "type": "anime",
+          "name": "Hakumei no Tsubasa: Expansion - Hoshi no Matsuri",
+          "url": "https://myanimelist.net/anime/43568/Hakumei_no_Tsubasa__Expansion_-_Hoshi_no_Matsuri"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 40351,
+          "type": "anime",
+          "name": "Pokemon (2019)",
+          "url": "https://myanimelist.net/anime/40351/Pokemon_2019"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.pokemon.co.jp/ex/hakumei_no_tsubasa"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15309"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23154"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_%E3%82%BD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89#%E8%96%84%E6%98%8E%E3%81%AE%E7%BF%BC"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,159 @@
+{
+  "mal_id": 33994,
+  "url": "https://myanimelist.net/anime/33994/Servamp_Specials",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/83960.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/83960t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/83960l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/83960.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/83960t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/83960l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Servamp Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "SERVAMP-サーヴァンプ- オリジナルビデオアニメーション「Sleepy Life of SERVAMP」"
+    }
+  ],
+  "title": "Servamp Specials",
+  "title_english": null,
+  "title_japanese": "SERVAMP-サーヴァンプ- オリジナルビデオアニメーション「Sleepy Life of SERVAMP」",
+  "title_synonyms": [],
+  "type": "Special",
+  "source": "Manga",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-11-25T00:00:00+00:00",
+    "to": "2017-02-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 11,
+        "year": 2016
+      },
+      "to": {
+        "day": 24,
+        "month": 2,
+        "year": 2017
+      }
+    },
+    "string": "Nov 25, 2016 to Feb 24, 2017"
+  },
+  "duration": "5 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.91,
+  "scored_by": 4471,
+  "rank": 4970,
+  "popularity": 5402,
+  "members": 19972,
+  "favorites": 23,
+  "synopsis": "Sleepy Life of SERVAMP\nWhen they are not busy battling supernatural threats, servamps and their Eves enjoy carefree day-to-day affairs and lighthearted quarrels. Naturally, while other servamps and Eves work through their own troubles, Kuro plays video games and dozes off—not much of a change from his usual sleepy self. \n\nHai ni Mamireta Shoukei: All the world's a stage\nDuring a fight, Hyde recalls the time he used his charm as a hedgehog to trick Licht Jekylland Todoroki—piano prodigy and self-proclaimed angel—into forming a blood bond and becoming his Eve.\n\n[Written by MAL Rewrite]",
+  "background": "Servamp Specials were included in volumes three through six of the Servamp Blu-ray and DVD release.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1471,
+      "type": "anime",
+      "name": "Platinum Vision",
+      "url": "https://myanimelist.net/anime/producer/1471/Platinum_Vision"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 31229,
+          "type": "anime",
+          "name": "Servamp",
+          "url": "https://myanimelist.net/anime/31229/Servamp"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.servamp.jp/package/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11366"
+    }
+  ],
+  "streaming": []
+}

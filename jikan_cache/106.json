@@ -1,0 +1,236 @@
+{
+  "mal_id": 106,
+  "url": "https://myanimelist.net/anime/106/Hana_yori_Dango",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/42871.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/42871t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/42871l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/42871.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/42871t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/42871l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hana yori Dango"
+    },
+    {
+      "type": "Synonym",
+      "title": "Boys Over Flowers"
+    },
+    {
+      "type": "Synonym",
+      "title": "HYD"
+    },
+    {
+      "type": "Japanese",
+      "title": "花より男子"
+    },
+    {
+      "type": "English",
+      "title": "Hana Yori Dango"
+    },
+    {
+      "type": "German",
+      "title": "Hana Yori Dango"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hana Yori Dango"
+    }
+  ],
+  "title": "Hana yori Dango",
+  "title_english": "Hana Yori Dango",
+  "title_japanese": "花より男子",
+  "title_synonyms": [
+    "Boys Over Flowers",
+    "HYD"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 51,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-09-08T00:00:00+00:00",
+    "to": "1997-08-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 9,
+        "year": 1996
+      },
+      "to": {
+        "day": 31,
+        "month": 8,
+        "year": 1997
+      }
+    },
+    "string": "Sep 8, 1996 to Aug 31, 1997"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.56,
+  "scored_by": 26837,
+  "rank": 1809,
+  "popularity": 2993,
+  "members": 66388,
+  "favorites": 832,
+  "synopsis": "Makino Tsukushi, a girl who comes from a poor family, just wants to get through her two last years at Eitoku Gakuen quietly. But once she makes herself known by standing up for her friend to the F4, the four most popular, powerful, and rich boys at the school, she gets the red card: F4's way of a \"Declaration of War.\" But when she doesn't let herself be beaten by them and is starting to fall for one of the F4, Hanazawa Rui, she starts to see that there is more than meets the eye...\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 1996,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 142,
+      "type": "anime",
+      "name": "Asatsu DK",
+      "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+    },
+    {
+      "mal_id": 1415,
+      "type": "anime",
+      "name": "Asahi Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 877,
+          "type": "manga",
+          "name": "Hana yori Dango",
+          "url": "https://myanimelist.net/manga/877/Hana_yori_Dango"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Setting",
+      "entry": [
+        {
+          "mal_id": 2071,
+          "type": "anime",
+          "name": "Hana yori Dango (Movie)",
+          "url": "https://myanimelist.net/anime/2071/Hana_yori_Dango_Movie"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "Ordinary Sunday (Futsuu no nichiyoubi ni) by Kikuta Tomohiko"
+    ],
+    "endings": [
+      "1 \"Kenka no Ato de... (ケンカのあとで...)\" by Kikuta Tomohiko (菊田知彦) (eps 1-32)",
+      "2 \"Todoku Kana (届くかな)\" by CaYOCO (eps 33-51)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.toei-anim.co.jp/tv/hanadan/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=387"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1136"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Boys_Over_Flowers"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278985"
+    }
+  ]
+}

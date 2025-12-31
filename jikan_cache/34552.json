@@ -1,0 +1,170 @@
+{
+  "mal_id": 34552,
+  "url": "https://myanimelist.net/anime/34552/Dream_Festival_R",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1633/133979.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1633/133979t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1633/133979l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1633/133979.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1633/133979t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1633/133979l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dream Festival! R"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dream-Fes! R"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dre-Fes! R"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドリフェス！R"
+    },
+    {
+      "type": "Spanish",
+      "title": "DREAM FESTIVAL! R"
+    }
+  ],
+  "title": "Dream Festival! R",
+  "title_english": null,
+  "title_japanese": "ドリフェス！R",
+  "title_synonyms": [
+    "Dream-Fes! R",
+    "Dre-Fes! R"
+  ],
+  "type": "ONA",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-08-23T00:00:00+00:00",
+    "to": "2017-11-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 8,
+        "year": 2017
+      },
+      "to": {
+        "day": 8,
+        "month": 11,
+        "year": 2017
+      }
+    },
+    "string": "Aug 23, 2017 to Nov 8, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.82,
+  "scored_by": 2111,
+  "rank": 5417,
+  "popularity": 8919,
+  "members": 5682,
+  "favorites": 21,
+  "synopsis": null,
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 33045,
+          "type": "anime",
+          "name": "Dream Festival!",
+          "url": "https://myanimelist.net/anime/33045/Dream_Festival"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Yume no Kodou (ユメノコドウ)\" by DearDream"
+    ],
+    "endings": [
+      "\"ALL FOR SMILE!\" by DearDream & KUROFUNE"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://anime.dream-fes.com"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12658"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19878"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%95%E3%82%A7%E3%82%B9!"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271363"
+    }
+  ]
+}

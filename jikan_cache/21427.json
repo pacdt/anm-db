@@ -1,0 +1,196 @@
+{
+  "mal_id": 21427,
+  "url": "https://myanimelist.net/anime/21427/Minna_Atsumare_Falcom_Gakuen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/56549.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/56549t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/56549l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/56549.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/56549t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/56549l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Ey_UoTI_GLQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Everyone Assemble! Falcom Academy"
+    },
+    {
+      "type": "Japanese",
+      "title": "みんな集まれ！ファルコム学園"
+    }
+  ],
+  "title": "Minna Atsumare! Falcom Gakuen",
+  "title_english": null,
+  "title_japanese": "みんな集まれ！ファルコム学園",
+  "title_synonyms": [
+    "Everyone Assemble! Falcom Academy"
+  ],
+  "type": "TV",
+  "source": "4-koma manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-05T00:00:00+00:00",
+    "to": "2014-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 5, 2014 to Mar 30, 2014"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.97,
+  "scored_by": 2408,
+  "rank": 10478,
+  "popularity": 8461,
+  "members": 6472,
+  "favorites": 6,
+  "synopsis": "Characters from various games released by Falcom (e.g. Dragon Slayer, The Legend of Heroes, and Ys series) come together in a school.",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 25999,
+          "type": "anime",
+          "name": "Minna Atsumare! Falcom Gakuen SC",
+          "url": "https://myanimelist.net/anime/25999/Minna_Atsumare_Falcom_Gakuen_SC"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 58259,
+          "type": "manga",
+          "name": "Minna Atsumare! Falcom Gakuen",
+          "url": "https://myanimelist.net/manga/58259/Minna_Atsumare_Falcom_Gakuen"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 1276,
+          "type": "anime",
+          "name": "Ys",
+          "url": "https://myanimelist.net/anime/1276/Ys"
+        },
+        {
+          "mal_id": 10260,
+          "type": "anime",
+          "name": "Eiyuu Densetsu: Sora no Kiseki The Animation",
+          "url": "https://myanimelist.net/anime/10260/Eiyuu_Densetsu__Sora_no_Kiseki_The_Animation"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Go Fight\" by Falcom Sound Team jdk"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.fal-gaku.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10289"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15747"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Minna_Atsumare!_Falcom_Gakuen"
+    }
+  ],
+  "streaming": []
+}

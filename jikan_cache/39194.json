@@ -1,0 +1,226 @@
+{
+  "mal_id": 39194,
+  "url": "https://myanimelist.net/anime/39194/Shin_Chuuka_Ichiban",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1195/116871.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/116871t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/116871l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1195/116871.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/116871t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/116871l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/p5FDjD2TfUQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shin Chuuka Ichiban!"
+    },
+    {
+      "type": "Synonym",
+      "title": "New Cooking Master Boy"
+    },
+    {
+      "type": "Japanese",
+      "title": "真・中華一番!"
+    },
+    {
+      "type": "English",
+      "title": "True Cooking Master Boy"
+    }
+  ],
+  "title": "Shin Chuuka Ichiban!",
+  "title_english": "True Cooking Master Boy",
+  "title_japanese": "真・中華一番!",
+  "title_synonyms": [
+    "New Cooking Master Boy"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-10-12T00:00:00+00:00",
+    "to": "2019-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 10,
+        "year": 2019
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2019
+      }
+    },
+    "string": "Oct 12, 2019 to Dec 28, 2019"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.44,
+  "scored_by": 4399,
+  "rank": 7715,
+  "popularity": 6385,
+  "members": 12866,
+  "favorites": 17,
+  "synopsis": "After passing the Guangzhou Special Chef Trials, Mao decided to travel around China, to learn more about the unique preparation of food. Upon his return, he will learn that the real battle has only just begun. The Underground Cooking Society has already begun to move... \n\n(Source: MU)",
+  "background": "",
+  "season": "fall",
+  "year": 2019,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "02:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 02:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1671,
+      "type": "anime",
+      "name": "DMM pictures",
+      "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+    },
+    {
+      "mal_id": 1735,
+      "type": "anime",
+      "name": "JY Animation",
+      "url": "https://myanimelist.net/anime/producer/1735/JY_Animation"
+    },
+    {
+      "mal_id": 2119,
+      "type": "anime",
+      "name": "China Film Animation",
+      "url": "https://myanimelist.net/anime/producer/2119/China_Film_Animation"
+    },
+    {
+      "mal_id": 2120,
+      "type": "anime",
+      "name": "Beijing IMMG",
+      "url": "https://myanimelist.net/anime/producer/2120/Beijing_IMMG"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 47,
+      "type": "anime",
+      "name": "Gourmet",
+      "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 110,
+          "type": "anime",
+          "name": "Chuuka Ichiban!",
+          "url": "https://myanimelist.net/anime/110/Chuuka_Ichiban"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 40957,
+          "type": "anime",
+          "name": "Shin Chuuka Ichiban! 2nd Season",
+          "url": "https://myanimelist.net/anime/40957/Shin_Chuuka_Ichiban_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 110154,
+          "type": "manga",
+          "name": "Shin Chuuka Ichiban!",
+          "url": "https://myanimelist.net/manga/110154/Shin_Chuuka_Ichiban"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Koufukuron (光福論)\" by Qaijff (クアイフ)"
+    ],
+    "endings": [
+      "\"Paradigm Shift (パラダイムシフト)\" by Brian the Sun"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://cookingmaster-anime.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14658"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22490"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ch%C5%ABka_Ichiban!"
+    }
+  ],
+  "streaming": []
+}

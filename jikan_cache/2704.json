@@ -1,0 +1,195 @@
+{
+  "mal_id": 2704,
+  "url": "https://myanimelist.net/anime/2704/Kaiketsu_Jouki_Tanteidan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/20557.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/20557t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/20557l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/20557.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/20557t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/20557l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaiketsu Jouki Tanteidan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Steam Detective"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaiketsu Shoki Tanteidan"
+    },
+    {
+      "type": "Japanese",
+      "title": "快傑蒸気探偵団"
+    },
+    {
+      "type": "English",
+      "title": "Steam Detectives"
+    }
+  ],
+  "title": "Kaiketsu Jouki Tanteidan",
+  "title_english": "Steam Detectives",
+  "title_japanese": "快傑蒸気探偵団",
+  "title_synonyms": [
+    "Steam Detective",
+    "Kaiketsu Shoki Tanteidan"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-10-07T00:00:00+00:00",
+    "to": "1999-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 1998
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 1999
+      }
+    },
+    "string": "Oct 7, 1998 to Mar 31, 1999"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.58,
+  "scored_by": 1611,
+  "rank": 6847,
+  "popularity": 8706,
+  "members": 6032,
+  "favorites": 8,
+  "synopsis": "The scene is Steam City, a London-ish city which represents an entire civilization run by coal and steam power. Because of steam, the city is sometimes covered in a mist. Villains take advantage of the steamy mist to hide and execute their evil plans. Only a few dare venture into what's beyond the steamy mist. They are known as the Steam Detectives: Narutaki (and his convertible all-purpose pistol), his nurse-assistant Lingling, and his Megamaton robot Gohliki.\n \n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 1998,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 216,
+      "type": "anime",
+      "name": "Studio Tron",
+      "url": "https://myanimelist.net/anime/producer/216/Studio_Tron"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 243,
+          "type": "manga",
+          "name": "Kaiketsu Jouki Tanteidan",
+          "url": "https://myanimelist.net/manga/243/Kaiketsu_Jouki_Tanteidan"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kimi, Hohoenda Yoru (君, 微笑んだ夜)\" by Elika"
+    ],
+    "endings": [
+      "1: \"Okubyou Emotion\" by Elika",
+      "2: \"Oasis\" by Elika"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1644"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=863"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Steam_Detectives"
+    }
+  ],
+  "streaming": []
+}

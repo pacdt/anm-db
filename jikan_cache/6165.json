@@ -1,0 +1,196 @@
+{
+  "mal_id": 6165,
+  "url": "https://myanimelist.net/anime/6165/White_Album_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1528/152025.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1528/152025t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1528/152025l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1528/152025.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1528/152025t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1528/152025l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "White Album 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "White Album Second Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "White Album the Latter Half"
+    },
+    {
+      "type": "Japanese",
+      "title": "WHITE ALBUM 第2期"
+    },
+    {
+      "type": "English",
+      "title": "White Album Season 2"
+    },
+    {
+      "type": "German",
+      "title": "White Album 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "White Album Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "White Album 2"
+    }
+  ],
+  "title": "White Album 2nd Season",
+  "title_english": "White Album Season 2",
+  "title_japanese": "WHITE ALBUM 第2期",
+  "title_synonyms": [
+    "White Album Second Season",
+    "White Album the Latter Half"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-03T00:00:00+00:00",
+    "to": "2009-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2009
+      }
+    },
+    "string": "Oct 3, 2009 to Dec 24, 2009"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.74,
+  "scored_by": 21894,
+  "rank": 5845,
+  "popularity": 3319,
+  "members": 54943,
+  "favorites": 79,
+  "synopsis": "The second season of White Album, also known as episodes 14-26.",
+  "background": "",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Seven Arcs",
+      "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 4720,
+          "type": "anime",
+          "name": "White Album",
+          "url": "https://myanimelist.net/anime/4720/White_Album"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Mugen (夢幻)\" by Nana Mizuki"
+    ],
+    "endings": [
+      "\"Akai Ito (赤い糸)\" by Suara"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.whitealbum-tv.com/top.htm"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6970"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10134"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/White_Album_(visual_novel)#Anime"
+    }
+  ],
+  "streaming": []
+}

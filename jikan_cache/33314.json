@@ -1,0 +1,224 @@
+{
+  "mal_id": 33314,
+  "url": "https://myanimelist.net/anime/33314/Digimon_Universe__Appli_Monsters",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1189/98841.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/98841t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/98841l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1189/98841.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/98841t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/98841l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/jEcbj4NkNwo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Digimon Universe: Appli Monsters"
+    },
+    {
+      "type": "Synonym",
+      "title": "Appmon"
+    },
+    {
+      "type": "Japanese",
+      "title": "デジモンユニバース アプリモンスターズ"
+    },
+    {
+      "type": "English",
+      "title": "Digimon Universe App Monsters"
+    },
+    {
+      "type": "German",
+      "title": "Digimon Universe App Monsters"
+    },
+    {
+      "type": "Spanish",
+      "title": "Digimon Universe App Monsters"
+    },
+    {
+      "type": "French",
+      "title": "Digimon Universe App Monsters"
+    }
+  ],
+  "title": "Digimon Universe: Appli Monsters",
+  "title_english": "Digimon Universe App Monsters",
+  "title_japanese": "デジモンユニバース アプリモンスターズ",
+  "title_synonyms": [
+    "Appmon"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 52,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-01T00:00:00+00:00",
+    "to": "2017-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2017
+      }
+    },
+    "string": "Oct 1, 2016 to Sep 30, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 6.63,
+  "scored_by": 6775,
+  "rank": 6549,
+  "popularity": 5709,
+  "members": 17161,
+  "favorites": 92,
+  "synopsis": "Everyone in the world uses smartphone apps. But inside them lurks unknown creatures called \"Appli Monsters,\" or \"Appmon.\" The Appmon are AI lifeforms with the ability to think and act, and exist in the boundary between the human world and digital space. In the vast sea of the internet, the \"last boss AI\" Leviathan takes control of the Appmon with a virus and begins hacking every system, thus starting to control the human world from the world of the net. Haru Shinkai is led to acquire the Appli Drive, and uses it to materialize Gatchmon, a search app monster.\n\n(Source: ANN)",
+  "background": "The original airing time was Saturday 7:00 a.m., but it has been pushed back Saturday 9:30 a.m. starting April 1, 2017.",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "09:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 09:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 100767,
+          "type": "manga",
+          "name": "Digimon Universe: Appli Monsters",
+          "url": "https://myanimelist.net/manga/100767/Digimon_Universe__Appli_Monsters"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 552,
+          "type": "anime",
+          "name": "Digimon Adventure",
+          "url": "https://myanimelist.net/anime/552/Digimon_Adventure"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"DiVE!!\" by Amatsuki",
+      "2: \"Gacchen! (ガッチェン！)\" by SymaG (島爺)"
+    ],
+    "endings": [
+      "1: \"Aoi Honoo no Syndrome (青い炎のシンドローム)\" by Riho Iida (eps 1-13)",
+      "2: \"Ai (アイ)\" by Ami Wajima (eps 14-25)",
+      "3: \"Little B (リトルピ)\" by Ange☆Reve (eps 26-38)",
+      "4: \"Perfect World (パーフェクトワールド)\" by Traffic Light (eps 39-??)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.toei-anim.co.jp/tv/appmon/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12132"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18636"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digimon_Universe:_Appli_Monsters"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-278568"
+    }
+  ]
+}

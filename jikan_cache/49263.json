@@ -1,0 +1,209 @@
+{
+  "mal_id": 49263,
+  "url": "https://myanimelist.net/anime/49263/Yaku_nara_Mug_Cup_mo__Niban_Gama",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1541/118798.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/118798t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/118798l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1541/118798.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/118798t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/118798l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/oh6OgcKz9f4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yaku nara Mug Cup mo: Niban Gama"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yakunara Mug Cup mo 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Let's Make a Mug Too: Second Kiln"
+    },
+    {
+      "type": "Japanese",
+      "title": "やくならマグカップも 二番窯"
+    },
+    {
+      "type": "English",
+      "title": "Let's Make a Mug Too 2"
+    }
+  ],
+  "title": "Yaku nara Mug Cup mo: Niban Gama",
+  "title_english": "Let's Make a Mug Too 2",
+  "title_japanese": "やくならマグカップも 二番窯",
+  "title_synonyms": [
+    "Yakunara Mug Cup mo 2nd Season",
+    "Let's Make a Mug Too: Second Kiln"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-02T00:00:00+00:00",
+    "to": "2021-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2021
+      }
+    },
+    "string": "Oct 2, 2021 to Dec 18, 2021"
+  },
+  "duration": "14 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.83,
+  "scored_by": 7997,
+  "rank": 5387,
+  "popularity": 5340,
+  "members": 20490,
+  "favorites": 48,
+  "synopsis": "The conclusion of the Mino ware contest has spurred Himeno Toyokawa to create a piece even more remarkable than the last. Anxious to embrace the future yet emboldened by her mother's legacy, Himeno strives to find the right inspiration—a task that proves to be just as ambitious as her goal. When Himeno's father suggests that her next creation should be the centerpiece at the cafe, expectations for the final product only grow with each passing day.\n\nThrough new encounters and experiences, Himeno and her friends reconnect with the foundation of their passion in their search for what lies at the core of pottery.\n\n[Written by MAL Rewrite]",
+  "background": "Yaku nara Mug Cup mo: Niban Gama was released on Blu-ray in Japan on January 26, 2022.",
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:55 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Nippon Animation",
+      "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Visual Arts",
+      "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 42568,
+          "type": "anime",
+          "name": "Yaku nara Mug Cup mo",
+          "url": "https://myanimelist.net/anime/42568/Yaku_nara_Mug_Cup_mo"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Muchuu no Saki e (夢中の先へ)\" by MUG-MO"
+    ],
+    "endings": [
+      "\"Canary Yellow\" by Aya Uchida"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.nipponanimation.com/program/11632/"
+    },
+    {
+      "name": "Official Site",
+      "url": "https://yakumo-project.com/"
+    },
+    {
+      "name": "@yakumo_project",
+      "url": "https://twitter.com/yakumo_project"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=16390"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24472"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Let's_Make_a_Mug_Too#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%84%E3%81%8F%E3%81%AA%E3%82%89%E3%83%9E%E3%82%B0%E3%82%AB%E3%83%83%E3%83%97%E3%82%82"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6104"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/339694"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281168"
+    }
+  ]
+}

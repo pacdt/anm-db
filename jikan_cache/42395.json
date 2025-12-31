@@ -1,0 +1,215 @@
+{
+  "mal_id": 42395,
+  "url": "https://myanimelist.net/anime/42395/Shakunetsu_Kabaddi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1936/114022.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1936/114022t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1936/114022l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1936/114022.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1936/114022t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1936/114022l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CeUcyCPcDa4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shakunetsu Kabaddi"
+    },
+    {
+      "type": "Japanese",
+      "title": "灼熱カバディ"
+    },
+    {
+      "type": "English",
+      "title": "Burning Kabaddi"
+    },
+    {
+      "type": "German",
+      "title": "Burning Kabaddi"
+    },
+    {
+      "type": "Spanish",
+      "title": "Burning Kabaddi"
+    },
+    {
+      "type": "French",
+      "title": "Burning Kabaddi"
+    }
+  ],
+  "title": "Shakunetsu Kabaddi",
+  "title_english": "Burning Kabaddi",
+  "title_japanese": "灼熱カバディ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-03T00:00:00+00:00",
+    "to": "2021-06-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 19,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 3, 2021 to Jun 19, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7,
+  "scored_by": 42947,
+  "rank": 4569,
+  "popularity": 2215,
+  "members": 107948,
+  "favorites": 748,
+  "synopsis": "Tatsuya Yoigoshi, a once nationally recognized soccer player, is now a first-year student at Noukin High School. Due to his developed hatred for sports, he has abandoned his previous aspirations to become a famous livestreamer on the internet. One day, Souma Azemichi, a first-year on the kabaddi team, seeks to recruit Yoigoshi and spontaneously interrupts his livestream.\n\nWithout any expectations, Yoigoshi follows Souma to the school gym, where he witnesses second-years Kyouhei Misumi and Shinji Date engaged in the primal contact sport of kabaddi. Despite ridiculing the rules of play, Yoigoshi is stunned by the intensity of the round. Because of an enticing deal and slight coercion, he agrees to settle the prospect of his recruitment through the most invigorating way: a battle of kabbadi, a team sport played empty-handed.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:23",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:23 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 105691,
+          "type": "manga",
+          "name": "Shakunetsu Kabaddi",
+          "url": "https://myanimelist.net/manga/105691/Shakunetsu_Kabaddi"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"FIRE BIRD\" by Shunya Ohira (大平峻也)"
+    ],
+    "endings": [
+      "\"Comin' Back\" by Yuuma Uchida (内田雄馬)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://ani.tv/kabaddi/"
+    },
+    {
+      "name": "@kabaddi_anime",
+      "url": "https://twitter.com/kabaddi_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15628"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23757"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%81%BC%E7%86%B1%E3%82%AB%E3%83%90%E3%83%87%E3%82%A3"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%81%BC%E7%86%B1%E3%82%AB%E3%83%90%E3%83%87%E3%82%A3#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/5948"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281153"
+    },
+    {
+      "name": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Shahid",
+      "url": "https://shahid.mbc.net/"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "mal_id": 15731,
+  "url": "https://myanimelist.net/anime/15731/Tamayura__More_Aggressive",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/53895.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/53895t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/53895l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/53895.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/53895t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/53895l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2u7DNzlDPkw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tamayura: More Aggressive"
+    },
+    {
+      "type": "Japanese",
+      "title": "たまゆら ～もあぐれっしぶ～"
+    }
+  ],
+  "title": "Tamayura: More Aggressive",
+  "title_english": null,
+  "title_japanese": "たまゆら ～もあぐれっしぶ～",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-03T00:00:00+00:00",
+    "to": "2013-09-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 18,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 3, 2013 to Sep 18, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.57,
+  "scored_by": 8514,
+  "rank": 1775,
+  "popularity": 5108,
+  "members": 22752,
+  "favorites": 71,
+  "synopsis": "The second season of Tamayura: Hitotose.\n\nIt's the beginning of a new school year for Fuu and friends. With a new year comes new challenges as Fuu tries to open a photography club at her school.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1581,
+      "type": "anime",
+      "name": "RAY",
+      "url": "https://myanimelist.net/anime/producer/1581/RAY"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 333,
+      "type": "anime",
+      "name": "TYO Animations",
+      "url": "https://myanimelist.net/anime/producer/333/TYO_Animations"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 10232,
+          "type": "anime",
+          "name": "Tamayura: Hitotose",
+          "url": "https://myanimelist.net/anime/10232/Tamayura__Hitotose"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 25729,
+          "type": "anime",
+          "name": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
+          "url": "https://myanimelist.net/anime/25729/Tamayura__Sotsugyou_Shashin_Part_1_-_Kizashi"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 62039,
+          "type": "manga",
+          "name": "Tamayura: Hitotose",
+          "url": "https://myanimelist.net/manga/62039/Tamayura__Hitotose"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 25169,
+          "type": "anime",
+          "name": "Tamayura: More Aggressive Picture Drama",
+          "url": "https://myanimelist.net/anime/25169/Tamayura__More_Aggressive_Picture_Drama"
+        },
+        {
+          "mal_id": 21737,
+          "type": "anime",
+          "name": "Tamayura: More Aggressive - Ichinichi dake no Shuugakuryokou, nanode",
+          "url": "https://myanimelist.net/anime/21737/Tamayura__More_Aggressive_-_Ichinichi_dake_no_Shuugakuryokou_nanode"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Hajimari no Umi (はじまりの海)\" by Maaya Sakamoto"
+    ],
+    "endings": [
+      "1: \"Arigatou (ありがとう)\" by Megumi Nakajima (eps 1-10)",
+      "2: \"Kazeiro no Film (風色のフィルム)\" by Megumi Nakajima (eps 11)",
+      "3: \"Saigo no Haruyasumi (最後の春休み)\" by Haruka Chisuga (eps 12)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tamayura.info/moreggressive/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9107"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15126"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tamayura"
+    }
+  ],
+  "streaming": []
+}

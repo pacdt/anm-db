@@ -1,0 +1,175 @@
+{
+  "mal_id": 41558,
+  "url": "https://myanimelist.net/anime/41558/Asatir__Mirai_no_Mukashi_Banashi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1365/106794.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/106794t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/106794l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1365/106794.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/106794t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/106794l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/dPV_XXIqlJQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Asatir: Mirai no Mukashi Banashi"
+    },
+    {
+      "type": "Japanese",
+      "title": "アサティール 未来の昔ばなし"
+    },
+    {
+      "type": "English",
+      "title": "Future Folktales"
+    },
+    {
+      "type": "German",
+      "title": "Asateer: Future's Folktales"
+    },
+    {
+      "type": "Spanish",
+      "title": "Asateer: Future's Folktales"
+    },
+    {
+      "type": "French",
+      "title": "Asateer: Future's Folktales"
+    }
+  ],
+  "title": "Asatir: Mirai no Mukashi Banashi",
+  "title_english": "Future Folktales",
+  "title_japanese": "アサティール 未来の昔ばなし",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-04T00:00:00+00:00",
+    "to": "2020-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2020
+      }
+    },
+    "string": "Apr 4, 2020 to Jun 27, 2020"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG - Children",
+  "score": 6.11,
+  "scored_by": 1215,
+  "rank": 9695,
+  "popularity": 9247,
+  "members": 5170,
+  "favorites": 7,
+  "synopsis": "In 2050 Riyadh, elder Asma's richly captivating storytelling transports her cherished grandchildren to fabled times where they learn that modern-day dilemmas are no match for the trials, tribulations and words of wisdom passed from generation to generation through their fascinating folktales.\n\n(Source: Sentai Filmworks)",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 08:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2283,
+      "type": "anime",
+      "name": "Manga Productions",
+      "url": "https://myanimelist.net/anime/producer/2283/Manga_Productions"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 59499,
+          "type": "anime",
+          "name": "Asatir 2: Mirai no Mukashi Banashi",
+          "url": "https://myanimelist.net/anime/59499/Asatir_2__Mirai_no_Mukashi_Banashi"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Mirai no Mukashibanashi (未来の昔ばなし)\" by Sachiko Watabe (渡部沙智子)"
+    ],
+    "endings": [
+      "\"Kioku no Mukou (記憶の向こう)\" by Sachiko Watabe (渡部沙智子)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://c.myjcom.jp/jtele/p/J00000005030/index.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=15489"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23156"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281672"
+    }
+  ]
+}

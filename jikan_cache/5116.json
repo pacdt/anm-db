@@ -1,0 +1,163 @@
+{
+  "mal_id": 5116,
+  "url": "https://myanimelist.net/anime/5116/Candy_Boy_Episode__EX01_-_Mirai_Yohouzu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/35525.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/35525t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/35525l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/35525.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/35525t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/35525l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Candy Boy Episode: EX01 - Mirai Yohouzu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Candy Boy EX1"
+    },
+    {
+      "type": "Synonym",
+      "title": "Candy Boy EX01"
+    },
+    {
+      "type": "Synonym",
+      "title": "Forecast of the Future"
+    },
+    {
+      "type": "Japanese",
+      "title": "Candy boy episode: EX01 「ミライヨホウズ」"
+    }
+  ],
+  "title": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+  "title_english": null,
+  "title_japanese": "Candy boy episode: EX01 「ミライヨホウズ」",
+  "title_synonyms": [
+    "Candy Boy EX1",
+    "Candy Boy EX01",
+    "Forecast of the Future"
+  ],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-08-13T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 8,
+        "year": 2008
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 13, 2008"
+  },
+  "duration": "7 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.74,
+  "scored_by": 15524,
+  "rank": 5872,
+  "popularity": 4654,
+  "members": 28457,
+  "favorites": 9,
+  "synopsis": "A dvd only prequel to the Candy Boy series.  Twin sisters, Yukino and Kanade Sakurai, move to a new school in the big city of Tokyo but not everything is quite like they expected.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 26,
+      "type": "anime",
+      "name": "Girls Love",
+      "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 3456,
+          "type": "anime",
+          "name": "Candy☆Boy: Side Story For Archive",
+          "url": "https://myanimelist.net/anime/3456/Candy☆Boy__Side_Story_For_Archive"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://candyboy.jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5574"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9001"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Candy_Boy"
+    }
+  ],
+  "streaming": []
+}

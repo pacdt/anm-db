@@ -1,0 +1,171 @@
+{
+  "mal_id": 34148,
+  "url": "https://myanimelist.net/anime/34148/Nyanko_Days",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/83933.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/83933t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/83933l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/83933.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/83933t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/83933l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nyanko Days"
+    },
+    {
+      "type": "Japanese",
+      "title": "にゃんこデイズ"
+    },
+    {
+      "type": "English",
+      "title": "Nyanko Days"
+    }
+  ],
+  "title": "Nyanko Days",
+  "title_english": "Nyanko Days",
+  "title_japanese": "にゃんこデイズ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "4-koma manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-08T00:00:00+00:00",
+    "to": "2017-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 8, 2017 to Mar 26, 2017"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.63,
+  "scored_by": 37263,
+  "rank": 6576,
+  "popularity": 2716,
+  "members": 78505,
+  "favorites": 167,
+  "synopsis": "Average high school student Yuuko Konagai tends to be rather shy and socially awkward. Due to this, besides earning rather mediocre grades, she barely has friends inside her class. However, after a monotonous day at school, she returns to her long-awaited haven—home with her cats Maa, Shi, and Ro! With their unique personalities, the three possess bodies similar to those of humans, retaining the ability to speak and communicate. Every day, the adorable bunch awaits their owner's return to shower her with much-needed companionship.\n\nNyanko Days highlights the life of Yuuko and her cats as they brighten up each moment and make new friends in the passing days.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1595,
+      "type": "anime",
+      "name": "Quatre Stella",
+      "url": "https://myanimelist.net/anime/producer/1595/Quatre_Stella"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1264,
+      "type": "anime",
+      "name": "EMT Squared",
+      "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 71,
+      "type": "anime",
+      "name": "Pets",
+      "url": "https://myanimelist.net/anime/genre/71/Pets"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 101613,
+          "type": "manga",
+          "name": "Nyanko Days",
+          "url": "https://myanimelist.net/manga/101613/Nyanko_Days"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Nyanko is L♥VE!\" by every❤ing!"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://nyanko-days.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12433"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18832"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nyanko_Days"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272207"
+    }
+  ]
+}

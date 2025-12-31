@@ -1,0 +1,213 @@
+{
+  "mal_id": 109,
+  "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/22647.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22647t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22647l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/22647.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22647t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22647l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/r7JAExwWKJI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bakuretsu Tenshi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bakuretsu Tenshi"
+    },
+    {
+      "type": "Japanese",
+      "title": "爆裂天使"
+    },
+    {
+      "type": "English",
+      "title": "Burst Angel"
+    },
+    {
+      "type": "German",
+      "title": "Burst Angel"
+    }
+  ],
+  "title": "Bakuretsu Tenshi",
+  "title_english": "Burst Angel",
+  "title_japanese": "爆裂天使",
+  "title_synonyms": [
+    "Bakuretsu Tenshi"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-04-07T00:00:00+00:00",
+    "to": "2004-09-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 15,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Apr 7, 2004 to Sep 15, 2004"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.77,
+  "scored_by": 32347,
+  "rank": 5715,
+  "popularity": 2786,
+  "members": 75320,
+  "favorites": 240,
+  "synopsis": "In Japan's not-too-distant future, crime has become so common that the government has legalised firearms for citizens to use in self-defence. To combat this new wave of wrongdoing, the Recently Armed Police of Tokyo was established in hopes of hunting down criminals with lethal force.\n\nKyohei Tachibana is a gifted culinary student who dreams of saving up enough money to become a pastry chef in France. When four young mercenaries ask him to be their cook, he's forced into making a tough choice. As Jo, Meg, Sei, and Amy take on the bloodiest jobs in the chaotic city of Tokyo, Kyohei accepts an imminent descent into the world of crime—and he'll do a lot more than just cooking!",
+  "background": "",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:12",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:12 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "GDH",
+      "url": "https://myanimelist.net/anime/producer/42/GDH"
+    },
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 170,
+      "type": "anime",
+      "name": "Imagica",
+      "url": "https://myanimelist.net/anime/producer/170/Imagica"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 2205,
+          "type": "anime",
+          "name": "Bakuretsu Tenshi: Infinity",
+          "url": "https://myanimelist.net/anime/2205/Bakuretsu_Tenshi__Infinity"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1564,
+          "type": "manga",
+          "name": "Bakuretsu Tenshi: Angel's Adolescence",
+          "url": "https://myanimelist.net/manga/1564/Bakuretsu_Tenshi__Angels_Adolescence"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Loosey\" by THE STRiPES"
+    ],
+    "endings": [
+      "\"Under the Sky\" by Cloudica"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.gonzo.co.jp/works/bakuretu-tenshi/index.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=1536"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3560"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Burst_Angel"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274715"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "mal_id": 1629,
+  "url": "https://myanimelist.net/anime/1629/Devilman_Lady",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/18370.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/18370t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/18370l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/18370.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/18370t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/18370l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Devilman Lady"
+    },
+    {
+      "type": "Japanese",
+      "title": "デビルマンレディー"
+    },
+    {
+      "type": "English",
+      "title": "The Devil Lady"
+    }
+  ],
+  "title": "Devilman Lady",
+  "title_english": "The Devil Lady",
+  "title_japanese": "デビルマンレディー",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-10-10T00:00:00+00:00",
+    "to": "1999-05-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 10,
+        "year": 1998
+      },
+      "to": {
+        "day": 8,
+        "month": 5,
+        "year": 1999
+      }
+    },
+    "string": "Oct 10, 1998 to May 8, 1999"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.6,
+  "scored_by": 7383,
+  "rank": 6741,
+  "popularity": 4619,
+  "members": 28857,
+  "favorites": 115,
+  "synopsis": "Fudo Jun is a beautiful supermodel who is idolized by many. She also has a dark secret that not even she knows about at first, for within her veins run the genes that hold the next step in the evolution of mankind. The same blood as the beastlike superhumans that terrorize the city. Unlike the rest of them, though, Jun has managed to hold a tenuous grip onto her humanity, and she is recruited by the mysterious Asuka Ran, member of a secret organization within the government, aimed at controlling, if not eliminating, these berserk destroyers of mankind. Jun, as Devilman Lady, must now exterminate her own kind, but how much longer can she keep her sanity in a situation she never chose in the first place?\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 1998,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 921,
+      "type": "anime",
+      "name": "Dynamic Planning",
+      "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1475,
+          "type": "manga",
+          "name": "Devilman Lady",
+          "url": "https://myanimelist.net/manga/1475/Devilman_Lady"
+        }
+      ]
+    },
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 2252,
+          "type": "anime",
+          "name": "Devilman",
+          "url": "https://myanimelist.net/anime/2252/Devilman"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Main Theme\" by Toshiyuki Watanabe",
+      "\"Lose Heart\" by Legolgel"
+    ],
+    "endings": [
+      "\"Lose Heart\" by Legolgel (eps 18-24)",
+      "\"Rebirth Megami Tensei\" by Yukari Tamura (eps (eps 01-17 / 25-26))"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tms-e.com/search/index.php?pdt_no=39"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=749"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=579"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC"
+    }
+  ],
+  "streaming": []
+}

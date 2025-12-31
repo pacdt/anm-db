@@ -1,0 +1,189 @@
+{
+  "mal_id": 825,
+  "url": "https://myanimelist.net/anime/825/King_of_Fighters__Another_Day",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/12676.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/12676t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/12676l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/12676.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/12676t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/12676l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "King of Fighters: Another Day"
+    },
+    {
+      "type": "Synonym",
+      "title": "KOF"
+    },
+    {
+      "type": "Japanese",
+      "title": "ザ・キング・オブ・ファイターズ アナザーデイ"
+    }
+  ],
+  "title": "King of Fighters: Another Day",
+  "title_english": null,
+  "title_japanese": "ザ・キング・オブ・ファイターズ アナザーデイ",
+  "title_synonyms": [
+    "KOF"
+  ],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-12-02T00:00:00+00:00",
+    "to": "2006-03-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 12,
+        "year": 2005
+      },
+      "to": {
+        "day": 3,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Dec 2, 2005 to Mar 3, 2006"
+  },
+  "duration": "8 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.27,
+  "scored_by": 7620,
+  "rank": 8776,
+  "popularity": 6291,
+  "members": 13345,
+  "favorites": 24,
+  "synopsis": "The four episodes are set in Southtown, the imaginary city well known to all fans as the stage of numerous death matches throughout the KOF series. Many past heroes of the saga make their appearance here, and the four plots intertwine to create a large-scale drama, that is also linked to the story of KOF Maximum Impact 2.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 1799,
+          "type": "anime",
+          "name": "Battle Fighters Garou Densetsu",
+          "url": "https://myanimelist.net/anime/1799/Battle_Fighters_Garou_Densetsu"
+        },
+        {
+          "mal_id": 1800,
+          "type": "anime",
+          "name": "Battle Fighters Garou Densetsu 2",
+          "url": "https://myanimelist.net/anime/1800/Battle_Fighters_Garou_Densetsu_2"
+        },
+        {
+          "mal_id": 1009,
+          "type": "anime",
+          "name": "Battle Spirits: Ryuuko no Ken",
+          "url": "https://myanimelist.net/anime/1009/Battle_Spirits__Ryuuko_no_Ken"
+        },
+        {
+          "mal_id": 504,
+          "type": "anime",
+          "name": "Garou Densetsu: The Motion Picture",
+          "url": "https://myanimelist.net/anime/504/Garou_Densetsu__The_Motion_Picture"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 35204,
+          "type": "anime",
+          "name": "The King of Fighters: Destiny",
+          "url": "https://myanimelist.net/anime/35204/The_King_of_Fighters__Destiny"
+        },
+        {
+          "mal_id": 48582,
+          "type": "anime",
+          "name": "The King of Fighters XV",
+          "url": "https://myanimelist.net/anime/48582/The_King_of_Fighters_XV"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Regret\" by Dakota Star"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.showtime.jp/special/animation/kof_another/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=3564"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5924"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_King_of_Fighters:_Another_Day"
+    }
+  ],
+  "streaming": []
+}

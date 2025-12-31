@@ -1,0 +1,133 @@
+{
+  "mal_id": 27503,
+  "url": "https://myanimelist.net/anime/27503/Karen_Senki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/66677.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/66677t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/66677l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/66677.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/66677t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/66677l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Karen Senki"
+    },
+    {
+      "type": "Japanese",
+      "title": "夏恋戦機"
+    }
+  ],
+  "title": "Karen Senki",
+  "title_english": null,
+  "title_japanese": "夏恋戦機",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Original",
+  "episodes": 11,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-09-27T00:00:00+00:00",
+    "to": "2014-12-06T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 9,
+        "year": 2014
+      },
+      "to": {
+        "day": 6,
+        "month": 12,
+        "year": 2014
+      }
+    },
+    "string": "Sep 27, 2014 to Dec 6, 2014"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.72,
+  "scored_by": 4682,
+  "rank": 11741,
+  "popularity": 6723,
+  "members": 11422,
+  "favorites": 4,
+  "synopsis": "In the post-apocalyptic aftermath of a war between machines and their creators, machines rule while humans exist in a state of servitude. Titular character Karen leads Resistance Group 11, an eclectic group of humans who find themselves fighting for their lives as they are hunted by the robots in each episode. Is this the end of humanity? Are they fighting a losing battle?\n\nThrough Karen, we delve into a struggle between right and wrong, between indifference and love that explores some of the deepest questions about humanity. What is the difference between a thinking machine and a human being? What is a soul?\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 819,
+      "type": "anime",
+      "name": "Next Media Animation",
+      "url": "https://myanimelist.net/anime/producer/819/Next_Media_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Ai wo Sagashite: In Search of Lost Love (愛を探して -In Search of Lost Love-)\" by Onibara"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10832"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17137"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-262875"
+    }
+  ]
+}

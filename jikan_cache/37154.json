@@ -1,0 +1,199 @@
+{
+  "mal_id": 37154,
+  "url": "https://myanimelist.net/anime/37154/Grimms_Notes_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1708/96962.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1708/96962t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1708/96962l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1708/96962.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1708/96962t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1708/96962l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7vqdYkVXn6A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Grimms Notes The Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "グリムノーツ"
+    },
+    {
+      "type": "German",
+      "title": "Grimms Notes the Animation"
+    },
+    {
+      "type": "Spanish",
+      "title": "Grimms Notes the Animation"
+    }
+  ],
+  "title": "Grimms Notes The Animation",
+  "title_english": null,
+  "title_japanese": "グリムノーツ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-11T00:00:00+00:00",
+    "to": "2019-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Jan 11, 2019 to Mar 29, 2019"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.94,
+  "scored_by": 13524,
+  "rank": 10624,
+  "popularity": 3621,
+  "members": 47190,
+  "favorites": 65,
+  "synopsis": "Within one's Book of Fate is their destiny. Written by the mysterious Story Tellers, these books decide every small detail of one's life. Some Story Tellers, however, choose to interfere with the stories of others rather than write their own. These malevolent beings are known as Chaos Tellers, who seek to ruin stories by overwriting the Books of Fate.\n\nEx, Reina, Tao, and Shane were born with blank books. Ostracized by society due to this abnormality, they abandon their respective stories in search of better lives. In the vast unknown, they encounter famous fairy tale characters such as Cinderella, Momotarou, and Snow White. All the while, they work to subdue the Chaos Tellers and return peace and order to the stories.\n\n[Written by MAL Rewrite]",
+  "background": "Grimms Notes the Animation is an adaptation of Grimms Notes, a mobile role-playing game for Android and iOS. The global version of the game was shut down on January 10, 2019. The Japanese version also shut down on June 17, 2020, with the offline version having every story cutscene available to watch.",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 105724,
+          "type": "manga",
+          "name": "Grimms Notes",
+          "url": "https://myanimelist.net/manga/105724/Grimms_Notes"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Innocent Notes\" by Ayana Taketatsu"
+    ],
+    "endings": [
+      "\"Endless Notes\" by i☆Ris"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.tbs.co.jp/anime/grimmsnotes/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13745"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21266"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%A0%E3%83%8E%E3%83%BC%E3%83%84#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277389"
+    },
+    {
+      "name": "HIDIVE",
+      "url": "https://www.hidive.com/tv/grimms-notes-the-animation"
+    }
+  ]
+}

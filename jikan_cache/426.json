@@ -1,0 +1,164 @@
+{
+  "mal_id": 426,
+  "url": "https://myanimelist.net/anime/426/Final_Fantasy",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1204/152080.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1204/152080t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1204/152080l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1204/152080.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1204/152080t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1204/152080l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Final Fantasy"
+    },
+    {
+      "type": "Japanese",
+      "title": "ファイナルファンタジー"
+    },
+    {
+      "type": "English",
+      "title": "Legend of the Crystals: Final Fantasy"
+    }
+  ],
+  "title": "Final Fantasy",
+  "title_english": "Legend of the Crystals: Final Fantasy",
+  "title_japanese": "ファイナルファンタジー",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Game",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1994-03-21T00:00:00+00:00",
+    "to": "1994-07-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 3,
+        "year": 1994
+      },
+      "to": {
+        "day": 21,
+        "month": 7,
+        "year": 1994
+      }
+    },
+    "string": "Mar 21, 1994 to Jul 21, 1994"
+  },
+  "duration": "30 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.05,
+  "scored_by": 6910,
+  "rank": 10058,
+  "popularity": 5759,
+  "members": 16780,
+  "favorites": 20,
+  "synopsis": "Two hundred years have passed since the hero Bartz and his companions saved the inhabitants of Planet R—a world where crystals control the natural elements—from the threat of Exdeath. However, agents of the wizard Ra Devil steal the crystals of Earth, Fire, and Water. With three of the four crystals in his possession, Ra Devil seeks to claim the Wind Crystal, the final piece he needs to summon the destructive god Deathgyunos. \n\nNovice summoner Linaly—a direct descendant of Bartz—lives with her grandfather Hassam. After receiving an ominous message about the Wind Crystal, Hassam travels to the Wind Temple. Concerned for his safety, Linaly suggests that they make the journey together. On their trip, they encounter Prettz, a rowdy yet amiable swordsman, who is captivated by the young girl and accompanies the duo for his own mysterious reasons.\n\nDuring a battle, an antlion monster injures Hassam, leaving him bedridden. As a result, the responsibility of securing the Wind Crystal falls on Linaly, with Prettz assuming the role of her guardian as they continue their perilous adventure.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1447,
+      "type": "anime",
+      "name": "Urban Vision",
+      "url": "https://myanimelist.net/anime/producer/1447/Urban_Vision"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Husui Kikou\" by Shigeri Kizu"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=446"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=613"
+    }
+  ],
+  "streaming": []
+}

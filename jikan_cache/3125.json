@@ -1,0 +1,190 @@
+{
+  "mal_id": 3125,
+  "url": "https://myanimelist.net/anime/3125/Tokimeki_Tonight",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1272/104468.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/104468t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/104468l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1272/104468.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1272/104468t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1272/104468l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tokimeki Tonight"
+    },
+    {
+      "type": "Synonym",
+      "title": "Heart-Thumping Tonight"
+    },
+    {
+      "type": "Japanese",
+      "title": "ときめきトゥナイト"
+    }
+  ],
+  "title": "Tokimeki Tonight",
+  "title_english": null,
+  "title_japanese": "ときめきトゥナイト",
+  "title_synonyms": [
+    "Heart-Thumping Tonight"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 34,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1982-10-07T00:00:00+00:00",
+    "to": "1983-09-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 1982
+      },
+      "to": {
+        "day": 22,
+        "month": 9,
+        "year": 1983
+      }
+    },
+    "string": "Oct 7, 1982 to Sep 22, 1983"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 7.17,
+  "scored_by": 3075,
+  "rank": 3652,
+  "popularity": 6719,
+  "members": 11427,
+  "favorites": 58,
+  "synopsis": "Fifteen-year-old Ranze Etou lives a normal life for any girl her age—except for the fact that she resides in a castle with a vampire father and a werewolf mother who constantly worry about her lack of powers.\n\nOn her first day at a new school, Ranze meets the beautiful Shun Makabe and falls head over heels for him. While he remains oblivious, this does not stop Yoko Kamiya, the daughter of a yakuza boss, from becoming jealous. Furthermore, Ranze's parents despise the idea of her dating a human. On top of all that, Ranze has to cope with the manifestation of a new power—the ability to shapeshift into anything she bites!\n\n[Written by MAL Rewrite]",
+  "background": "Since the television series ended years before the manga, the writers were free to write an original ending for the anime.",
+  "season": "fall",
+  "year": 1982,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1748,
+          "type": "manga",
+          "name": "Tokimeki Tonight",
+          "url": "https://myanimelist.net/manga/1748/Tokimeki_Tonight"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 10594,
+          "type": "anime",
+          "name": "Tokimeki Tonight Recaps",
+          "url": "https://myanimelist.net/anime/10594/Tokimeki_Tonight_Recaps"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Tokimeki Tonight\" by Harumi Kamo"
+    ],
+    "endings": [
+      "\"Super Love Lotion\" by Harumi Kamo"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2729"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1375"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tokimeki_Tonight"
+    }
+  ],
+  "streaming": []
+}

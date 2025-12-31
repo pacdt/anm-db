@@ -1,0 +1,284 @@
+{
+  "mal_id": 56690,
+  "url": "https://myanimelist.net/anime/56690/Re_Monster",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1523/141680.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/141680t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/141680l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1523/141680.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/141680t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/141680l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Eks6OyQNoEU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Re:Monster"
+    },
+    {
+      "type": "Synonym",
+      "title": "ReMonster"
+    },
+    {
+      "type": "Japanese",
+      "title": "Re:Monster"
+    },
+    {
+      "type": "English",
+      "title": "Re:Monster"
+    }
+  ],
+  "title": "Re:Monster",
+  "title_english": "Re:Monster",
+  "title_japanese": "Re:Monster",
+  "title_synonyms": [
+    "ReMonster"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-04-05T00:00:00+00:00",
+    "to": "2024-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2024
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 2024
+      }
+    },
+    "string": "Apr 5, 2024 to Jun 21, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.54,
+  "scored_by": 93070,
+  "rank": 7059,
+  "popularity": 1504,
+  "members": 179037,
+  "favorites": 545,
+  "synopsis": "Tomokui Kanata has been re-incarnated in the weakest goblin, named Goburou, after having undergone an unfortunate death. However Goburou has retained his previous life's memories, an unusual evolution, as well as becoming strong enough to gain status boosts from eating.\n\nIn this alternate world of survival of the fittest, events unfold with competent subordinates and comrades, delightful case of the tail-wagging dog...",
+  "background": "",
+  "season": "spring",
+  "year": 2024,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1583,
+      "type": "anime",
+      "name": "U-NEXT",
+      "url": "https://myanimelist.net/anime/producer/1583/U-NEXT"
+    },
+    {
+      "mal_id": 1786,
+      "type": "anime",
+      "name": "Muse Communication",
+      "url": "https://myanimelist.net/anime/producer/1786/Muse_Communication"
+    },
+    {
+      "mal_id": 2592,
+      "type": "anime",
+      "name": "AlphaPolis",
+      "url": "https://myanimelist.net/anime/producer/2592/AlphaPolis"
+    },
+    {
+      "mal_id": 2671,
+      "type": "anime",
+      "name": "Saber Links",
+      "url": "https://myanimelist.net/anime/producer/2671/Saber_Links"
+    },
+    {
+      "mal_id": 2739,
+      "type": "anime",
+      "name": "HIAN",
+      "url": "https://myanimelist.net/anime/producer/2739/HIAN"
+    },
+    {
+      "mal_id": 2866,
+      "type": "anime",
+      "name": "Studio Tronc",
+      "url": "https://myanimelist.net/anime/producer/2866/Studio_Tronc"
+    },
+    {
+      "mal_id": 2869,
+      "type": "anime",
+      "name": "Capibara",
+      "url": "https://myanimelist.net/anime/producer/2869/Capibara"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 62567,
+          "type": "anime",
+          "name": "Re:Monster 2nd Season",
+          "url": "https://myanimelist.net/anime/62567/Re_Monster_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 73271,
+          "type": "manga",
+          "name": "Re:Monster",
+          "url": "https://myanimelist.net/manga/73271/Re_Monster"
+        },
+        {
+          "mal_id": 73569,
+          "type": "manga",
+          "name": "Re:Monster",
+          "url": "https://myanimelist.net/manga/73569/Re_Monster"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Into the Fire\" by CHANSUNG(2PM), AK-69 feat.CHANGMIN(2AM)"
+    ],
+    "endings": [
+      "\"Sadame (運命 [さだめ])\" by EverdreaM"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://re-monster.com/"
+    },
+    {
+      "name": "@ReMonster_anime",
+      "url": "https://twitter.com/ReMonster_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18201"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=29955"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/Re:Monster"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7026"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283819"
+    },
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "name": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    }
+  ]
+}

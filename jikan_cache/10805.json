@@ -1,0 +1,248 @@
+{
+  "mal_id": 10805,
+  "url": "https://myanimelist.net/anime/10805/Kami_nomi_zo_Shiru_Sekai__4-nin_to_Idol",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/32297.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/32297t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/32297l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/32297.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/32297t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/32297l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kami nomi zo Shiru Sekai: 4-nin to Idol"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kami nomi zo Shiru Sekai: Yonin to Idol"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaminomi OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kami Nomi zo Shiru Sekai OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "The World God Only Knows: Four People and an Idol"
+    },
+    {
+      "type": "Japanese",
+      "title": "神のみぞ知るセカイ　４人とアイドル"
+    },
+    {
+      "type": "English",
+      "title": "The World God Only Knows: Four Girls and an Idol"
+    }
+  ],
+  "title": "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+  "title_english": "The World God Only Knows: Four Girls and an Idol",
+  "title_japanese": "神のみぞ知るセカイ　４人とアイドル",
+  "title_synonyms": [
+    "Kami nomi zo Shiru Sekai: Yonin to Idol",
+    "Kaminomi OVA",
+    "Kami Nomi zo Shiru Sekai OVA",
+    "The World God Only Knows: Four People and an Idol"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-09-16T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 9,
+        "year": 2011
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 16, 2011"
+  },
+  "duration": "24 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.28,
+  "scored_by": 64352,
+  "rank": 3010,
+  "popularity": 2171,
+  "members": 111582,
+  "favorites": 89,
+  "synopsis": "Eli, Chihiro, and Miyako try to form a band but end up looking to Katsuragi for help. In the process they meet Kanon and become friends/ rivals.\n\n(Source: ANN)",
+  "background": "An OVA bundled with the 14th volume of the manga, animating chapters 54 and 55 from the 6th volume of the manga.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Geneon Universal Entertainment",
+      "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 474,
+      "type": "anime",
+      "name": "Shogakukan Music & Digital Entertainment",
+      "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Manglobe",
+      "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 10080,
+          "type": "anime",
+          "name": "Kami nomi zo Shiru Sekai II",
+          "url": "https://myanimelist.net/anime/10080/Kami_nomi_zo_Shiru_Sekai_II"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 15117,
+          "type": "anime",
+          "name": "Kami nomi zo Shiru Sekai: Tenri-hen",
+          "url": "https://myanimelist.net/anime/15117/Kami_nomi_zo_Shiru_Sekai__Tenri-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 7519,
+          "type": "manga",
+          "name": "Kami nomi zo Shiru Sekai",
+          "url": "https://myanimelist.net/manga/7519/Kami_nomi_zo_Shiru_Sekai"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 11583,
+          "type": "anime",
+          "name": "Kami nomi zo Shiru Sekai: Natsu-iro Surprise",
+          "url": "https://myanimelist.net/anime/11583/Kami_nomi_zo_Shiru_Sekai__Natsu-iro_Surprise"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Natsuiro Surprise (夏色サプライズ)\" by Kanon Nakagawa (Nao Touyama)"
+    ],
+    "endings": [
+      "\"Hajimete Koi wo Shita Kioku (始めて恋をした記憶)\" by Chihiro Kosaka (Kana Asumi)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://kaminomi.jp/news/ova.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8490"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13200"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_World_God_Only_Knows"
+    }
+  ],
+  "streaming": []
+}

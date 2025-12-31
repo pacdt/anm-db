@@ -1,0 +1,214 @@
+{
+  "mal_id": 2931,
+  "url": "https://myanimelist.net/anime/2931/Mokke",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/19674.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/19674t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/19674l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/19674.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/19674t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/19674l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mokke"
+    },
+    {
+      "type": "Japanese",
+      "title": "もっけ"
+    }
+  ],
+  "title": "Mokke",
+  "title_english": null,
+  "title_japanese": "もっけ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-10-03T00:00:00+00:00",
+    "to": "2008-03-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2007
+      },
+      "to": {
+        "day": 16,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Oct 3, 2007 to Mar 16, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 7.03,
+  "scored_by": 3861,
+  "rank": 4414,
+  "popularity": 5694,
+  "members": 17255,
+  "favorites": 32,
+  "synopsis": "This is a story about two sisters: Shizuru, is a high school student who is able to see ghosts while her younger sister, Mizuki, is haunted by these apparitions. Frustrated by their abilities, their parents decided to entrust the sisters into the care of their grandparents who live in the countryside. As they adapt to life in the countryside, Shizuru and Mizuki begin to learn about the importance of coexisting nature with these apparitions.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2007,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "02:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 02:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1366,
+      "type": "anime",
+      "name": "Nagoya Broadcasting Network",
+      "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+    },
+    {
+      "mal_id": 1499,
+      "type": "anime",
+      "name": "Techno Sound",
+      "url": "https://myanimelist.net/anime/producer/1499/Techno_Sound"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    },
+    {
+      "mal_id": 200,
+      "type": "anime",
+      "name": "Tezuka Productions",
+      "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 4561,
+          "type": "manga",
+          "name": "Mokke",
+          "url": "https://myanimelist.net/manga/4561/Mokke"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 4202,
+          "type": "anime",
+          "name": "Mokke Specials",
+          "url": "https://myanimelist.net/anime/4202/Mokke_Specials"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kokoro no Ato\" by Riyu Kosaka"
+    ],
+    "endings": [
+      "\"Panorama (パノラマ)\" by Mai Hashimoto"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.avexmovie.jp/lineup/mokke/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=5052"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7611"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mokke"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/もっけ"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/1239"
+    }
+  ],
+  "streaming": []
+}

@@ -1,0 +1,170 @@
+{
+  "mal_id": 13731,
+  "url": "https://myanimelist.net/anime/13731/Koukyoushihen_Eureka_Seven__New_Order",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/38107.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/38107t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/38107l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/38107.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/38107t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/38107l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koukyoushihen Eureka Seven: New Order"
+    },
+    {
+      "type": "Synonym",
+      "title": "Eureka Seven Episode 51"
+    },
+    {
+      "type": "Japanese",
+      "title": "交響詩篇エウレカセブン第51話「ニュー・オーダー」"
+    }
+  ],
+  "title": "Koukyoushihen Eureka Seven: New Order",
+  "title_english": null,
+  "title_japanese": "交響詩篇エウレカセブン第51話「ニュー・オーダー」",
+  "title_synonyms": [
+    "Eureka Seven Episode 51"
+  ],
+  "type": "Special",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-06T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 6, 2012"
+  },
+  "duration": "24 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.57,
+  "scored_by": 3614,
+  "rank": 6920,
+  "popularity": 7127,
+  "members": 9951,
+  "favorites": 2,
+  "synopsis": "A special summary episode that shows footage of the events that happened from episodes 48 and onwards with audio that had been previously recorded. \n\nThe concept for this special was a possible real ending the staff of Eureka Seven thought up. In March of 2012, Studio BONES decided to put existing footage of the TV series to new, previously unaired audio and air it together for the first time on television. Episode 51's audio entails that Eureka must go on a journey to scatter seven pieces of her soul across the land in order to calm it. In the end, Eureka and Renton must part ways, but Renton vows that they will meet again someday, no matter what. \n\nEpisode 51 has absolutely no relation to Eureka Seven's sequel \"Eureka Seven AO\", as this was a real ending that was not used for the original TV run of the series. Eureka Seven AO continues from the events that happened in Episode 50: Wish Upon a Star. \n\n(Source: Wikipedia)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 48977,
+          "type": "manga",
+          "name": "Koukyoushihen Eureka seveN: New Order",
+          "url": "https://myanimelist.net/manga/48977/Koukyoushihen_Eureka_seveN__New_Order"
+        }
+      ]
+    },
+    {
+      "relation": "Full Story",
+      "entry": [
+        {
+          "mal_id": 237,
+          "type": "anime",
+          "name": "Koukyoushihen Eureka Seven",
+          "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Eureka_Seven"
+    }
+  ],
+  "streaming": []
+}

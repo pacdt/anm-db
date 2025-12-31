@@ -1,0 +1,169 @@
+{
+  "mal_id": 31549,
+  "url": "https://myanimelist.net/anime/31549/Peeping_Life_TV__Season_1",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/76469.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76469t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76469l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/76469.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76469t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76469l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/tooBt3VKVRQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Peeping Life TV: Season 1??"
+    },
+    {
+      "type": "Japanese",
+      "title": "Peeping Life（ピーピングライフ）TV シーズン1 ??"
+    },
+    {
+      "type": "German",
+      "title": "Peeping Life TV Season 1??"
+    },
+    {
+      "type": "Spanish",
+      "title": "Peeping Life TV Season 1??"
+    },
+    {
+      "type": "French",
+      "title": "Peeping Life TV Season 1??"
+    }
+  ],
+  "title": "Peeping Life TV: Season 1??",
+  "title_english": null,
+  "title_japanese": "Peeping Life（ピーピングライフ）TV シーズン1 ??",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-04T00:00:00+00:00",
+    "to": "2015-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2015
+      }
+    },
+    "string": "Oct 4, 2015 to Dec 20, 2015"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 5.67,
+  "scored_by": 1014,
+  "rank": 12016,
+  "popularity": 11203,
+  "members": 2866,
+  "favorites": 6,
+  "synopsis": "This \"slow-life anime\" is part of the datsuryoku-kei (ennui-style) genre of comedy that depicts the minutiae of everyday life. The series observes the daily lives of Heroes from the worlds of Tezuka Production and Tatsunoko Production, \"evolved\" for their modern TV appearances, and combines motion-captured improvised acting with computer animation into a series of comedy shorts.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 02:55 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    },
+    {
+      "mal_id": 291,
+      "type": "anime",
+      "name": "CoMix Wave Films",
+      "url": "https://myanimelist.net/anime/producer/291/CoMix_Wave_Films"
+    },
+    {
+      "mal_id": 1135,
+      "type": "anime",
+      "name": "FOREST Hunting One",
+      "url": "https://myanimelist.net/anime/producer/1135/FOREST_Hunting_One"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 6525,
+          "type": "anime",
+          "name": "Peeping Life",
+          "url": "https://myanimelist.net/anime/6525/Peeping_Life"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"HOTEL Alien (HOTELエイリアン)\" by BRADIO"
+    ],
+    "endings": [
+      "\"Shinyaku Satori no Sho (新約さとりのしょ)\" by detune."
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.ntv.co.jp/pltv/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11550"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17629"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-267973"
+    }
+  ]
+}

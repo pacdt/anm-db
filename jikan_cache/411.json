@@ -1,0 +1,218 @@
+{
+  "mal_id": 411,
+  "url": "https://myanimelist.net/anime/411/Gun_x_Sword",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/25380.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/25380t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/25380l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/25380.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/25380t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/25380l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wL_Adc4pxI4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gun x Sword"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gun vs Sword"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガン×ソード"
+    },
+    {
+      "type": "English",
+      "title": "Gun x Sword"
+    }
+  ],
+  "title": "Gun x Sword",
+  "title_english": "Gun x Sword",
+  "title_japanese": "ガン×ソード",
+  "title_synonyms": [
+    "Gun vs Sword"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-07-04T00:00:00+00:00",
+    "to": "2005-12-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2005
+      },
+      "to": {
+        "day": 26,
+        "month": 12,
+        "year": 2005
+      }
+    },
+    "string": "Jul 4, 2005 to Dec 26, 2005"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.24,
+  "scored_by": 34772,
+  "rank": 3262,
+  "popularity": 2624,
+  "members": 83039,
+  "favorites": 375,
+  "synopsis": "Van, a lanky and apathetic swordsman, is on a journey to kill the murderer of his fiancé. The only characteristic he has to go by is that the murderer has a claw for an arm, hence the murderer being referred to as The Claw Man. During his travels, Van happens to pass through the city of Evergreen, which is defending itself from bandits who aim to rob the city of its treasury. It is in this city that Van meets Wendy Garret, a timid young girl who is looking for her kidnapped brother. When the city pleads for Van's assistance to defend it, he refuses, claiming it has nothing to do with him and thus leaves the city on its own to deal with the peril. Soon after, Van comes across the raiding bandits himself and they eventually tick off the swordsman to a degree where he takes action against them for his own personal vendetta. Surprisingly, Van learns that the bandits had ties with The Claw Man, and in kidnapping Wendy's brother for a reason they did not disclose. After the bandits are dealt with easily, Van and, much to his chagrin, Wendy continue the journey in search of The Claw Man. Little do they know, however, that The Claw Man is involved with something more atrocious than either could fathom.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2005,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 210,
+      "type": "anime",
+      "name": "Studio Tulip",
+      "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 88,
+      "type": "anime",
+      "name": "AIC ASTA",
+      "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 132900,
+          "type": "manga",
+          "name": "Gun x Sword",
+          "url": "https://myanimelist.net/manga/132900/Gun_x_Sword"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 5501,
+          "type": "anime",
+          "name": "Gun x Sword-san",
+          "url": "https://myanimelist.net/anime/5501/Gun_x_Sword-san"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"GUNXSWORD\" by Kotaro Nakagawa"
+    ],
+    "endings": [
+      "1: \"A Rising Tide\" by Shuntaro Okino (eps 1-8,10,12-16,18-21,23,25)",
+      "2: \"Paradiso\" by Hitomi (eps 9,11)",
+      "3: \"S.O.S\" by Kikuko Inoue, Houko Kuwashima, Satsuki Yukino & Saeko Chiba (eps 17)",
+      "4: \"A Rising Tide (Accoustic Version)\" by Shuntaro Okino (eps 22)",
+      "5: \"Calling You\" by Shuntaro Okino (Ep 24)",
+      "6: \"GUNXSWORD (Starting Again)\" by Kotaro Nakagawa and Ondekoza (eps 26)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.jvcmusic.co.jp/m-serve/gunsword/top.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2839"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4920"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gun_Sword"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/572"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273583"
+    }
+  ]
+}

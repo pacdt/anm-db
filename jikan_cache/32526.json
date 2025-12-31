@@ -1,0 +1,426 @@
+{
+  "mal_id": 32526,
+  "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/80791.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/80791t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/80791l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/80791.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/80791t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/80791l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Sbz9EeyUOIs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Love Live! Sunshine!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Love Live! School Idol Project: Sunshine!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ラブライブ！サンシャイン!!"
+    },
+    {
+      "type": "English",
+      "title": "Love Live! Sunshine!!"
+    },
+    {
+      "type": "German",
+      "title": "Love Live Sunshine!!"
+    }
+  ],
+  "title": "Love Live! Sunshine!!",
+  "title_english": "Love Live! Sunshine!!",
+  "title_japanese": "ラブライブ！サンシャイン!!",
+  "title_synonyms": [
+    "Love Live! School Idol Project: Sunshine!!"
+  ],
+  "type": "TV",
+  "source": "Other",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-07-02T00:00:00+00:00",
+    "to": "2016-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2016
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2016
+      }
+    },
+    "string": "Jul 2, 2016 to Sep 24, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.39,
+  "scored_by": 96411,
+  "rank": 2512,
+  "popularity": 1406,
+  "members": 192645,
+  "favorites": 3077,
+  "synopsis": "Chika Takami, a self-proclaimed normal girl, has never been involved in any clubs and lacked any notable talents. However, after a visit to Tokyo, she discovers a stage where even an ordinary girl like her could shine—the world of school idols. Inspired by the former superstar school idol group μ's, Chika is determined to start her own school idol club in her seaside hometown at Uranohoshi Girl's High School. But even before gathering any students to join the group, the aspiring school idol finds her greatest obstacle to be student council president Dia Kurosawa who stands firmly against the creation of the club.\n\nJust when it seems there is no hope, Chika meets Riko Sakurauchi, a transfer student from Otonokizaka High School, home of μ's. Somewhat shy but a talented piano player, Chika believes her to be a promising recruit, though convincing her to join is easier said than done. In spite of that, Chika chooses to charge forward and overcome the obstacles keeping her from forming a school idol group that shines as bright as the nine that came before her.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 24997,
+          "type": "anime",
+          "name": "Love Live! The School Idol Movie",
+          "url": "https://myanimelist.net/anime/24997/Love_Live_The_School_Idol_Movie"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 34973,
+          "type": "anime",
+          "name": "Love Live! Sunshine!! 2nd Season",
+          "url": "https://myanimelist.net/anime/34973/Love_Live_Sunshine_2nd_Season"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 99529,
+          "type": "manga",
+          "name": "Love Live! Sunshine!!",
+          "url": "https://myanimelist.net/manga/99529/Love_Live_Sunshine"
+        },
+        {
+          "mal_id": 105573,
+          "type": "manga",
+          "name": "Love Live! Sunshine!! School Idol Diary",
+          "url": "https://myanimelist.net/manga/105573/Love_Live_Sunshine_School_Idol_Diary"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 52214,
+          "type": "anime",
+          "name": "Genjitsu no Yohane: Sunshine in the Mirror",
+          "url": "https://myanimelist.net/anime/52214/Genjitsu_no_Yohane__Sunshine_in_the_Mirror"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 36473,
+          "type": "anime",
+          "name": "Love Live! Sunshine!! Recap",
+          "url": "https://myanimelist.net/anime/36473/Love_Live_Sunshine_Recap"
+        },
+        {
+          "mal_id": 41188,
+          "type": "anime",
+          "name": "30-pun de Wakaru! Kore made no Love Live! Sunshine!!",
+          "url": "https://myanimelist.net/anime/41188/30-pun_de_Wakaru_Kore_made_no_Love_Live_Sunshine"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Setting",
+      "entry": [
+        {
+          "mal_id": 15051,
+          "type": "anime",
+          "name": "Love Live! School Idol Project",
+          "url": "https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project"
+        },
+        {
+          "mal_id": 40879,
+          "type": "anime",
+          "name": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+          "url": "https://myanimelist.net/anime/40879/Love_Live_Nijigasaki_Gakuen_School_Idol_Doukoukai"
+        },
+        {
+          "mal_id": 41169,
+          "type": "anime",
+          "name": "Love Live! Superstar!!",
+          "url": "https://myanimelist.net/anime/41169/Love_Live_Superstar"
+        },
+        {
+          "mal_id": 61806,
+          "type": "anime",
+          "name": "Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party",
+          "url": "https://myanimelist.net/anime/61806/Love_Live_Hasunosora_Jogakuin_School_Idol_Club_Movie__Bloom_Garden_Party"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 31780,
+          "type": "anime",
+          "name": "Kimi no Kokoro wa Kagayaiteru kai?",
+          "url": "https://myanimelist.net/anime/31780/Kimi_no_Kokoro_wa_Kagayaiteru_kai"
+        },
+        {
+          "mal_id": 32953,
+          "type": "anime",
+          "name": "Koi ni Naritai Aquarium",
+          "url": "https://myanimelist.net/anime/32953/Koi_ni_Naritai_Aquarium"
+        },
+        {
+          "mal_id": 35006,
+          "type": "anime",
+          "name": "Happy Party Train",
+          "url": "https://myanimelist.net/anime/35006/Happy_Party_Train"
+        },
+        {
+          "mal_id": 40246,
+          "type": "anime",
+          "name": "Love Live! School Idol Festival All Stars",
+          "url": "https://myanimelist.net/anime/40246/Love_Live_School_Idol_Festival_All_Stars"
+        },
+        {
+          "mal_id": 41202,
+          "type": "anime",
+          "name": "Kokoro Magic \"A to Z\"",
+          "url": "https://myanimelist.net/anime/41202/Kokoro_Magic_A_to_Z"
+        },
+        {
+          "mal_id": 42600,
+          "type": "anime",
+          "name": "Never Giving Up!",
+          "url": "https://myanimelist.net/anime/42600/Never_Giving_Up"
+        },
+        {
+          "mal_id": 48377,
+          "type": "anime",
+          "name": "Cotton Candy Ei-Ei-Oh!",
+          "url": "https://myanimelist.net/anime/48377/Cotton_Candy_Ei-Ei-Oh"
+        },
+        {
+          "mal_id": 47635,
+          "type": "anime",
+          "name": "Perfect Sekai",
+          "url": "https://myanimelist.net/anime/47635/Perfect_Sekai"
+        },
+        {
+          "mal_id": 48378,
+          "type": "anime",
+          "name": "Motto ne!",
+          "url": "https://myanimelist.net/anime/48378/Motto_ne"
+        },
+        {
+          "mal_id": 49882,
+          "type": "anime",
+          "name": "Akogare Ranraran",
+          "url": "https://myanimelist.net/anime/49882/Akogare_Ranraran"
+        },
+        {
+          "mal_id": 48828,
+          "type": "anime",
+          "name": "Smile Smile Ship Start!",
+          "url": "https://myanimelist.net/anime/48828/Smile_Smile_Ship_Start"
+        },
+        {
+          "mal_id": 49189,
+          "type": "anime",
+          "name": "Shiny Racers",
+          "url": "https://myanimelist.net/anime/49189/Shiny_Racers"
+        },
+        {
+          "mal_id": 50059,
+          "type": "anime",
+          "name": "Tatehoko Tsubasa",
+          "url": "https://myanimelist.net/anime/50059/Tatehoko_Tsubasa"
+        },
+        {
+          "mal_id": 49880,
+          "type": "anime",
+          "name": "KU-RU-KU-RU Cruller!",
+          "url": "https://myanimelist.net/anime/49880/KU-RU-KU-RU_Cruller"
+        },
+        {
+          "mal_id": 52571,
+          "type": "anime",
+          "name": "BANZAI! digital trippers",
+          "url": "https://myanimelist.net/anime/52571/BANZAI_digital_trippers"
+        },
+        {
+          "mal_id": 58374,
+          "type": "anime",
+          "name": "Waai WaiWai WaiWaiWai!",
+          "url": "https://myanimelist.net/anime/58374/Waai_WaiWai_WaiWaiWai"
+        },
+        {
+          "mal_id": 61745,
+          "type": "anime",
+          "name": "Ai♡Scream!",
+          "url": "https://myanimelist.net/anime/61745/Ai♡Scream"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Aozora Jumping Heart (青空Jumping Heart)\" by Aqours"
+    ],
+    "endings": [
+      "1: \"Kimeta yo Hand in Hand (決めたよHand in Hand)\" by Chika Takami (Anju Inami), Riko Sakurauchi (Rikako Aida) & You Watanabe (Shuka Saitou) (eps 1)",
+      "2: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by Chika Takami (Anju Inami), Riko Sakurauchi (Rikako Aida) & You Watanabe (Shuka Saitou) (eps 2)",
+      "3: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by Aqours (eps 3)",
+      "4: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by Hanamaru Kunikida (Kanako Takatsuki) & Ruby Kurosawa (Ai Furihata) (eps 4)",
+      "5: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by Yoshiko Tsushima (Aika Kobayashi) (eps 5)",
+      "6: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by Kanan Matsuura (Nanaka Suwa), Dia Kurosawa (Arisa Komiya) & Mari Ohara (Aina Suzuki) (eps 6)",
+      "7: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by Yoshiko Tsushima (Aika Kobayashi), Hanamaru Kunikida (Kanako Takatsuki) & Ruby Kurosawa (Ai Furihata) (eps 7)",
+      "8: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by 1st & 2nd Years (eps 8)",
+      "9: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by Chika Takami (Anju Inami) & Riko Sakurauchi (Rikako Aida) (eps 10)",
+      "10: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by You Watanabe (Shuka Saitou) (eps 11)",
+      "11: \"Yume Kataru yori Yume Utaou (ユメ語るよりユメ歌おう)\" by Aqours (eps 12)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.lovelive-anime.jp/uranohoshi/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11878"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17985"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Love_Live!_Sunshine!!_(TV_series)"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-270733"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

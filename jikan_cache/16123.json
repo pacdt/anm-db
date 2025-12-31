@@ -1,0 +1,239 @@
+{
+  "mal_id": 16123,
+  "url": "https://myanimelist.net/anime/16123/Saki__Zenkoku-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/57979.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57979t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57979l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/57979.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57979t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57979l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wfTvHYjFFjA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saki: Zenkoku-hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "咲-Saki-全国編"
+    },
+    {
+      "type": "English",
+      "title": "Saki: The Nationals"
+    },
+    {
+      "type": "German",
+      "title": "Saki:The Nationals"
+    },
+    {
+      "type": "Spanish",
+      "title": "Saki: The Nationals Temporada 3"
+    }
+  ],
+  "title": "Saki: Zenkoku-hen",
+  "title_english": "Saki: The Nationals",
+  "title_japanese": "咲-Saki-全国編",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-06T00:00:00+00:00",
+    "to": "2014-04-07T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 7,
+        "month": 4,
+        "year": 2014
+      }
+    },
+    "string": "Jan 6, 2014 to Apr 7, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.4,
+  "scored_by": 16817,
+  "rank": 2457,
+  "popularity": 4010,
+  "members": 39106,
+  "favorites": 127,
+  "synopsis": "Saki Miyanaga, along with the rest of Kiyosumi High School's mahjong team, proceeds to the national level of the Interhigh Mahjong Championship. However, reaching the top will prove difficult as she faces opponents on par with and, quite possibly, exceeding her skills. Even so, she refuses to back down, vowing to stop at nothing to fulfill her goal: to see her sister face-to-face once more.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 418,
+      "type": "anime",
+      "name": "Studio Gokumi",
+      "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 5671,
+          "type": "anime",
+          "name": "Saki",
+          "url": "https://myanimelist.net/anime/5671/Saki"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 6310,
+          "type": "manga",
+          "name": "Saki",
+          "url": "https://myanimelist.net/manga/6310/Saki"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 10884,
+          "type": "anime",
+          "name": "Saki Achiga-hen: Episode of Side-A",
+          "url": "https://myanimelist.net/anime/10884/Saki_Achiga-hen__Episode_of_Side-A"
+        },
+        {
+          "mal_id": 15989,
+          "type": "anime",
+          "name": "Saki Achiga-hen: Episode of Side-A Specials",
+          "url": "https://myanimelist.net/anime/15989/Saki_Achiga-hen__Episode_of_Side-A_Specials"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"New SPARKS!\" by Miyuki Hashimoto (eps 2, 4-11, 13)"
+    ],
+    "endings": [
+      "1: \"New SPARKS!\" by Miyuki Hashimoto (eps 1)",
+      "2: \"TRUE GATE\" by Miyuki Hashimoto (eps 2, 7, 9, 11)",
+      "3: \"Kono Te ga Kiseki wo Eranderu Miyamori Joshi Koukou ver. (この手が奇跡を選んでる 宮守女子高校 ver.)\" by Juri Nagatsuma, Mariko Mizuno, Moe Toyota, Rina Satou, Maaya Uchida (eps 3, 8)",
+      "4: \"Kono Te ga Kiseki wo Eranderu Eisui Joshi Koukou ver. (この手が奇跡を選んでる 永水女子高校 ver.)\" by Saori Hayami, Chinatsu Akasaki, Kaori Mizuhashi, Ayumi Tsuji, Sayaka Oohara (eps 4, 6, 10, 12)",
+      "5: \"Kono Te ga Kiseki wo Eranderu Himematsu Koukou ver. (この手が奇跡を選んでる 姫松高校 ver.)\" by Arisa Date, Haruka Yoshimura, Satsumi Matsuda, Mariko Nakatsu, Minako Kotobuki (eps 5)",
+      "6: \"Glossy:MMM\" by Miyuki Hashimoto (eps 13)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.saki-anime.com/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9490"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14874"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saki_(manga)"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-130082"
+    }
+  ]
+}

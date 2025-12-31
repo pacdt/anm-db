@@ -1,0 +1,156 @@
+{
+  "mal_id": 54684,
+  "url": "https://myanimelist.net/anime/54684/Soushoku_Dragon_Chokotto",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1067/134050.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1067/134050t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1067/134050l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1067/134050.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1067/134050t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1067/134050l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Soushoku Dragon Chokotto"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yowai 5000-nen no Soushoku Dragon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Iwarenaki Jaryuu Nintei Chokotto"
+    },
+    {
+      "type": "Synonym",
+      "title": "齢5000年の草食ドラゴン、いわれなき邪竜認定 ちょこっと"
+    },
+    {
+      "type": "Japanese",
+      "title": "草食ドラゴン ちょこっと"
+    }
+  ],
+  "title": "Soushoku Dragon Chokotto",
+  "title_english": null,
+  "title_japanese": "草食ドラゴン ちょこっと",
+  "title_synonyms": [
+    "Yowai 5000-nen no Soushoku Dragon",
+    "Iwarenaki Jaryuu Nintei Chokotto",
+    "齢5000年の草食ドラゴン、いわれなき邪竜認定 ちょこっと"
+  ],
+  "type": "ONA",
+  "source": "Novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-10T00:00:00+00:00",
+    "to": "2023-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Jan 10, 2023 to Mar 25, 2023"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.97,
+  "scored_by": 134,
+  "rank": 10429,
+  "popularity": 18092,
+  "members": 497,
+  "favorites": 0,
+  "synopsis": null,
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2233,
+      "type": "anime",
+      "name": "Starry Cube",
+      "url": "https://myanimelist.net/anime/producer/2233/Starry_Cube"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 50421,
+          "type": "anime",
+          "name": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming",
+          "url": "https://myanimelist.net/anime/50421/Shi_Cao_Lao_Long_Bei_Guan_Yi_E_Long_Zhi_Ming"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UC5AS4AwROACHAvsEtArQGdQ"
+    }
+  ],
+  "streaming": []
+}

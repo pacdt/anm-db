@@ -1,0 +1,266 @@
+{
+  "mal_id": 51693,
+  "url": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1794/135148.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1794/135148t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1794/135148l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1794/135148.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1794/135148t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1794/135148l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/MD_q7xYb-Xs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kamikatsu"
+    },
+    {
+      "type": "Synonym",
+      "title": "What God Does in a World Without Gods"
+    },
+    {
+      "type": "Japanese",
+      "title": "神無き世界のカミサマ活動"
+    },
+    {
+      "type": "English",
+      "title": "Kamikatsu: Working for God in a Godless World"
+    }
+  ],
+  "title": "Kaminaki Sekai no Kamisama Katsudou",
+  "title_english": "Kamikatsu: Working for God in a Godless World",
+  "title_japanese": "神無き世界のカミサマ活動",
+  "title_synonyms": [
+    "Kamikatsu",
+    "What God Does in a World Without Gods"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-04-06T00:00:00+00:00",
+    "to": "2023-07-06T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2023
+      },
+      "to": {
+        "day": 6,
+        "month": 7,
+        "year": 2023
+      }
+    },
+    "string": "Apr 6, 2023 to Jul 6, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.68,
+  "scored_by": 99349,
+  "rank": 6210,
+  "popularity": 1207,
+  "members": 228848,
+  "favorites": 785,
+  "synopsis": "Under the belief that the omnipotent god Mitama will come to save him, Yukito Urabe participates in a ritual to become the new leader of his father's cult. But when the boy drowns during the ritual, he wishes to be reborn in a world without gods or religion.\n\nReawakening in a completely different world devoid of spirituality. He meets a deviant girl named Aruaru, who introduces him to her village. However, his idyllic image of this world's society is short-lived when he witnesses a public group suicide and learns of the country's end-of-life system: at any moment, the government may order any citizen to die.\n\nAruaru and her sister are forcibly taken for execution soon after, prompting Yukito to rush to their rescue—but to no avail. In a moment of desperation, Yukito recalls his father's teachings and utters a prayer for Mitama to save them. Seemingly answering his call, a little girl descends from the sky and annihilates everyone who harmed Yukito and his friends. To Yukito's surprise, the girl introduces herself as Mitama.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2023,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1996,
+      "type": "anime",
+      "name": "MAGNET",
+      "url": "https://myanimelist.net/anime/producer/1996/MAGNET"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2201,
+      "type": "anime",
+      "name": "Studio Palette",
+      "url": "https://myanimelist.net/anime/producer/2201/Studio_Palette"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 127128,
+          "type": "manga",
+          "name": "Kaminaki Sekai no Kamisama Katsudou",
+          "url": "https://myanimelist.net/manga/127128/Kaminaki_Sekai_no_Kamisama_Katsudou"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"I wish\" by 来栖りん"
+    ],
+    "endings": [
+      "\"Steppin' Up Life\" by Mitama (CV: Akari Kitou)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://kamikatsu-anime.jp/"
+    },
+    {
+      "name": "@kamikatsu_anime",
+      "url": "https://twitter.com/kamikatsu_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=17337"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=25576"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kaminaki_Sekai_no_Kamisama_Katsud%C5%8D#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%84%A1%E3%81%8D%E4%B8%96%E7%95%8C%E3%81%AE%E3%82%AB%E3%83%9F%E3%82%B5%E3%83%9E%E6%B4%BB%E5%8B%95"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/6659"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283516"
+    },
+    {
+      "name": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "name": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    }
+  ]
+}

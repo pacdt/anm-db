@@ -1,0 +1,175 @@
+{
+  "mal_id": 125,
+  "url": "https://myanimelist.net/anime/125/Futakoi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1498/145934.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/145934t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/145934l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1498/145934.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/145934t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/145934l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Futakoi"
+    },
+    {
+      "type": "Japanese",
+      "title": "双恋"
+    },
+    {
+      "type": "English",
+      "title": "Twin Love"
+    }
+  ],
+  "title": "Futakoi",
+  "title_english": "Twin Love",
+  "title_japanese": "双恋",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-07T00:00:00+00:00",
+    "to": "2004-12-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 30,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Oct 7, 2004 to Dec 30, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.41,
+  "scored_by": 16750,
+  "rank": 7942,
+  "popularity": 4098,
+  "members": 37254,
+  "favorites": 26,
+  "synopsis": "With his mother dead and his father working abroad, Futami Nozomu returns to the town where he lived as a child, to attend high school and work part-time at a local shrine. He soon finds himself caught up in a local legend of twin girls loving the same man. And there are many twin girls in this town....\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 94,
+      "type": "anime",
+      "name": "Telecom Animation Film",
+      "url": "https://myanimelist.net/anime/producer/94/Telecom_Animation_Film"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 126,
+          "type": "anime",
+          "name": "Futakoi Alternative",
+          "url": "https://myanimelist.net/anime/126/Futakoi_Alternative"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Habataku Mirai\" by Eufonius"
+    ],
+    "endings": [
+      "\"Yawarakai Kaze no Naka de\" by Eufonius"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.starchild.co.jp/special/hutakoi/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2162"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4501"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Futakoi"
+    }
+  ],
+  "streaming": []
+}

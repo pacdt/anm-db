@@ -1,0 +1,109 @@
+{
+  "mal_id": 37733,
+  "url": "https://myanimelist.net/anime/37733/Caligula_Music",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1270/91876.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/91876t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/91876l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1270/91876.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/91876t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/91876l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Caligula (Music)"
+    },
+    {
+      "type": "Japanese",
+      "title": "CALiGULA"
+    }
+  ],
+  "title": "Caligula (Music)",
+  "title_english": null,
+  "title_japanese": "CALiGULA",
+  "title_synonyms": [],
+  "type": "Music",
+  "source": "Music",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-05-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 5,
+        "year": 2012
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "May 27, 2012"
+  },
+  "duration": "5 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.53,
+  "scored_by": 190,
+  "rank": null,
+  "popularity": 18800,
+  "members": 441,
+  "favorites": 0,
+  "synopsis": "Music video for CALiGULA by GREAT3. Single from 1998.\n\nGuest vocals by CHARA.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/watch?v=irtJaJSZr4Q"
+    }
+  ],
+  "streaming": []
+}

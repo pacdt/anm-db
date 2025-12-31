@@ -1,0 +1,196 @@
+{
+  "mal_id": 14355,
+  "url": "https://myanimelist.net/anime/14355/Yama_no_Susume",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75525.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75525t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75525l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75525.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75525t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75525l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/aocygMLzmqw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yama no Susume"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヤマノススメ"
+    },
+    {
+      "type": "English",
+      "title": "Encouragement of Climb"
+    },
+    {
+      "type": "German",
+      "title": "Encouragement of Climb"
+    }
+  ],
+  "title": "Yama no Susume",
+  "title_english": "Encouragement of Climb",
+  "title_japanese": "ヤマノススメ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-01-03T00:00:00+00:00",
+    "to": "2013-03-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 1,
+        "year": 2013
+      },
+      "to": {
+        "day": 21,
+        "month": 3,
+        "year": 2013
+      }
+    },
+    "string": "Jan 3, 2013 to Mar 21, 2013"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.85,
+  "scored_by": 31943,
+  "rank": 5295,
+  "popularity": 2474,
+  "members": 91755,
+  "favorites": 207,
+  "synopsis": "As a child, Aoi Yukimura adored mountains and was passionate about climbing. However, a playground accident has since left her afraid of heights, turning her toward indoor hobbies. Unfortunately, now a shy and timid first-year high school student, Aoi has become so absorbed in these pastimes that she can barely socialize with others, leaving her practically friendless. It is only when she runs into the lively Hinata Kuraue, an old friend from her climbing days, that things start to change. \n\nImpulsive and high-spirited, Hinata insists on having Aoi join her in all sorts of climbing activities. Though reluctant at first, Aoi quickly finds that her time with Hinata brings back fond memories of their childhood and soon decides to start climbing again. As the return to her past hobby starts to bring her out of her shell, Aoi finds herself gaining close friends, taking on new challenges, and continuing to find her own encouragement to climb.\n\n[Written by MAL Rewrite]",
+  "background": "Yama no Susume adapts the 1st volume and part of the 2nd volume of siro's manga series of the same title.",
+  "season": "winter",
+  "year": 2013,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 925,
+      "type": "anime",
+      "name": "Earth Star Entertainment",
+      "url": "https://myanimelist.net/anime/producer/925/Earth_Star_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 441,
+      "type": "anime",
+      "name": "8bit",
+      "url": "https://myanimelist.net/anime/producer/441/8bit"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 17341,
+          "type": "anime",
+          "name": "Yama no Susume: Kabe tte Kowakunai no?",
+          "url": "https://myanimelist.net/anime/17341/Yama_no_Susume__Kabe_tte_Kowakunai_no"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 41049,
+          "type": "manga",
+          "name": "Yama no Susume",
+          "url": "https://myanimelist.net/manga/41049/Yama_no_Susume"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": [
+      "\"Staccato Days (スタッカート・デイズ)\" by Aoi (Yuka Iguchi) and Hinata (Kana Asumi)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.yamanosusume.com/1st/"
+    },
+    {
+      "name": "@yamanosusume",
+      "url": "https://twitter.com/yamanosusume"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9257"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14777"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Encouragement_of_Climb"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-261949"
+    }
+  ]
+}

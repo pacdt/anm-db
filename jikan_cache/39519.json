@@ -1,0 +1,165 @@
+{
+  "mal_id": 39519,
+  "url": "https://myanimelist.net/anime/39519/Dragons_Dogma",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1519/109068t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1519/109068l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1519/109068.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1519/109068t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1519/109068l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/gODLlNj_AE0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragon's Dogma"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴンズドグマ"
+    },
+    {
+      "type": "English",
+      "title": "Dragon's Dogma"
+    }
+  ],
+  "title": "Dragon's Dogma",
+  "title_english": "Dragon's Dogma",
+  "title_japanese": "ドラゴンズドグマ",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 7,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-09-17T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 9,
+        "year": 2020
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 17, 2020"
+  },
+  "duration": "26 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.74,
+  "scored_by": 14479,
+  "rank": 11660,
+  "popularity": 4759,
+  "members": 27042,
+  "favorites": 31,
+  "synopsis": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans. \n\n(Source: Netflix)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1892,
+      "type": "anime",
+      "name": "Sublimation",
+      "url": "https://myanimelist.net/anime/producer/1892/Sublimation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 90888,
+          "type": "manga",
+          "name": "Dragon's Dogma Progress",
+          "url": "https://myanimelist.net/manga/90888/Dragons_Dogma_Progress"
+        },
+        {
+          "mal_id": 103623,
+          "type": "manga",
+          "name": "Dragon's Dogma Revives",
+          "url": "https://myanimelist.net/manga/103623/Dragons_Dogma_Revives"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Dragon's Dogma\" by Tadayoshi Makino"
+    ],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14746"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23688"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dragon%27s_Dogma_(TV_series)"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ]
+}

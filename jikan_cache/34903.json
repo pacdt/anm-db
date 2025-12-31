@@ -1,0 +1,156 @@
+{
+  "mal_id": 34903,
+  "url": "https://myanimelist.net/anime/34903/RoboMasters_the_Animated_Series",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/86297.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86297t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86297l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/86297.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86297t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86297l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "RoboMasters the Animated Series"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ji Jia Dashi"
+    },
+    {
+      "type": "Synonym",
+      "title": "机甲大师"
+    },
+    {
+      "type": "Japanese",
+      "title": "ROBOMASTERS THE ANIMATED SERIES"
+    }
+  ],
+  "title": "RoboMasters the Animated Series",
+  "title_english": null,
+  "title_japanese": "ROBOMASTERS THE ANIMATED SERIES",
+  "title_synonyms": [
+    "Ji Jia Dashi",
+    "机甲大师"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-10-13T00:00:00+00:00",
+    "to": "2017-11-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 2017
+      },
+      "to": {
+        "day": 17,
+        "month": 11,
+        "year": 2017
+      }
+    },
+    "string": "Oct 13, 2017 to Nov 17, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.33,
+  "scored_by": 2893,
+  "rank": 8346,
+  "popularity": 6354,
+  "members": 13037,
+  "favorites": 15,
+  "synopsis": "The series will depict college students as they prepare and participate in a RoboMasters tournament.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1736,
+      "type": "anime",
+      "name": "DJI",
+      "url": "https://myanimelist.net/anime/producer/1736/DJI"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    },
+    {
+      "mal_id": 1111,
+      "type": "anime",
+      "name": "DandeLion Animation Studio",
+      "url": "https://myanimelist.net/anime/producer/1111/DandeLion_Animation_Studio"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [],
+  "theme": {
+    "openings": [
+      "\"super nova\" by un:c"
+    ],
+    "endings": [
+      "\"Higher Maker\" by Saori Fukuyama"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://anime.robomasters.com/jp/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12815"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=22243"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/4745"
+    }
+  ],
+  "streaming": []
+}

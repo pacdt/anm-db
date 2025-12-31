@@ -1,0 +1,303 @@
+{
+  "mal_id": 11061,
+  "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1337/99013.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/D9iTQRB4XRk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hunter x Hunter (2011)"
+    },
+    {
+      "type": "Synonym",
+      "title": "HxH (2011)"
+    },
+    {
+      "type": "Japanese",
+      "title": "HUNTER×HUNTER（ハンター×ハンター）"
+    },
+    {
+      "type": "English",
+      "title": "Hunter x Hunter"
+    },
+    {
+      "type": "German",
+      "title": "Hunter x Hunter"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hunter x Hunter"
+    },
+    {
+      "type": "French",
+      "title": "Hunter X Hunter"
+    }
+  ],
+  "title": "Hunter x Hunter (2011)",
+  "title_english": "Hunter x Hunter",
+  "title_japanese": "HUNTER×HUNTER（ハンター×ハンター）",
+  "title_synonyms": [
+    "HxH (2011)"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 148,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-10-02T00:00:00+00:00",
+    "to": "2014-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2011
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2014
+      }
+    },
+    "string": "Oct 2, 2011 to Sep 24, 2014"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 9.03,
+  "scored_by": 1934762,
+  "rank": 9,
+  "popularity": 8,
+  "members": 3116148,
+  "favorites": 225938,
+  "synopsis": "Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.\n\nAmbitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path.\n\nDuring the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "10:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 10:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 26,
+          "type": "manga",
+          "name": "Hunter x Hunter",
+          "url": "https://myanimelist.net/manga/26/Hunter_x_Hunter"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 13271,
+          "type": "anime",
+          "name": "Hunter x Hunter Movie 1: Phantom Rouge",
+          "url": "https://myanimelist.net/anime/13271/Hunter_x_Hunter_Movie_1__Phantom_Rouge"
+        },
+        {
+          "mal_id": 19951,
+          "type": "anime",
+          "name": "Hunter x Hunter Movie 2: The Last Mission",
+          "url": "https://myanimelist.net/anime/19951/Hunter_x_Hunter_Movie_2__The_Last_Mission"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 136,
+          "type": "anime",
+          "name": "Hunter x Hunter",
+          "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter"
+        },
+        {
+          "mal_id": 137,
+          "type": "anime",
+          "name": "Hunter x Hunter: Original Video Animation",
+          "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation"
+        },
+        {
+          "mal_id": 138,
+          "type": "anime",
+          "name": "Hunter x Hunter: Greed Island",
+          "url": "https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island"
+        },
+        {
+          "mal_id": 139,
+          "type": "anime",
+          "name": "Hunter x Hunter: Greed Island Final",
+          "url": "https://myanimelist.net/anime/139/Hunter_x_Hunter__Greed_Island_Final"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 22049,
+          "type": "anime",
+          "name": "Just Awake",
+          "url": "https://myanimelist.net/anime/22049/Just_Awake"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"departure!\" by Ono Masatoshi (eps 1-26, 50-52, 62-75, 137-147)",
+      "2: \"departure! -second version-\" by Ono Masatoshi (eps 27-49, 76-103, 109-134, 136)",
+      "3: \"departure! -Opening Tokubetsu-hen-\" by Ono Masatoshi (eps 53-61, 104-108)"
+    ],
+    "endings": [
+      "1: \"Just Awake\" by Fear, and Loathing in Las Vegas (eps 1-26)",
+      "2: \"HUNTING FOR YOUR DREAM\" by Galneryus (eps 27-50)",
+      "3: \"Riot\" by Yoshihisa Hirano (eps 51)",
+      "4: \"REASON\" by YUZU (ゆず) (eps 59-75, 147)",
+      "5: \"Nagareboshi Kirari (YUZU Version) (流れ星キラリ (ゆずバージョン))\" by YUZU (ゆず) (eps 76-98)",
+      "6: \"Hyouriittai (表裏一体)\" by YUZU (ゆず) (eps 99-134, 136)",
+      "7: \"Understanding\" by Yoshihisa Hirano (eps 135)",
+      "8: \"Hyouriittai -second version- (表裏一体)\" by YUZU (ゆず) (eps 137-146)",
+      "9: \"departure!\" by Ono Masatoshi (eps 148)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.ntv.co.jp/hunterhunter/"
+    },
+    {
+      "name": "@hunter_anime",
+      "url": "https://twitter.com/hunter_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8550"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13262"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://jp.wikipedia.org/wiki/HUNTER%C3%97HUNTER_%282011%E5%B9%B4%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%29"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/2288"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-237800"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/title/70300472"
+    },
+    {
+      "name": "Shahid",
+      "url": "https://shahid.mbc.net/en/series/Hunter-x-Hunter/series-930569"
+    }
+  ]
+}

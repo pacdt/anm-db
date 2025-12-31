@@ -1,0 +1,239 @@
+{
+  "mal_id": 16385,
+  "url": "https://myanimelist.net/anime/16385/Dog_Days",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/70709.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/70709t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/70709l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/70709.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/70709t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/70709l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/GJYe3fP8HI0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dog Days''"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dog Days 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドッグデイズ''"
+    },
+    {
+      "type": "German",
+      "title": "Dog Days Staffel 3"
+    },
+    {
+      "type": "Spanish",
+      "title": "Dog Days Temporada 3"
+    },
+    {
+      "type": "French",
+      "title": "Dog Days Saison 3"
+    }
+  ],
+  "title": "Dog Days''",
+  "title_english": null,
+  "title_japanese": "ドッグデイズ''",
+  "title_synonyms": [
+    "Dog Days 3"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-01-11T00:00:00+00:00",
+    "to": "2015-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2015
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2015
+      }
+    },
+    "string": "Jan 11, 2015 to Mar 29, 2015"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.84,
+  "scored_by": 35425,
+  "rank": 5328,
+  "popularity": 2722,
+  "members": 78181,
+  "favorites": 83,
+  "synopsis": "Cinque Izumi, Nanami Takatsuki, and Rebecca Anderson must once again embark on a journey to the continent of Flonyard and participate in the friendly war games of the three allied nations: Biscotti Republic, Galette, and Pastilage. Cinque is Biscotti’s hero, who also happens to be the cousin of Galette’s hero Nanami. Rebecca is Pastillage’s hero and a dear friend of Cinque.\n\nDog Days'' begins in the human world. Rebecca prepares her things for her journey back to Pastilage from Japan. Meanwhile, Cinque and Nanami set out to travel to Biscotti and Galette, respectively, all the way from England, when suddenly, a freakish streak of bad luck—in the form of lightning, of course—sends them off course. They soon find themselves in the great Dragon Forest, protected by a Dragon Priestess named Sharu. The Dragon Priestess informs them that demons threaten to invade the forest, as well as the whole continent of Flonyard!\n\nIt looks like a real war is about to begin in Dog Days''. Can these three heroes save the whole continent from these evil beings?",
+  "background": "",
+  "season": "winter",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 1097,
+      "type": "anime",
+      "name": "Bandai Namco Games",
+      "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+    },
+    {
+      "mal_id": 1255,
+      "type": "anime",
+      "name": "Glovision",
+      "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1569,
+      "type": "anime",
+      "name": "Seven Arcs Pictures",
+      "url": "https://myanimelist.net/anime/producer/1569/Seven_Arcs_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 11783,
+          "type": "anime",
+          "name": "Dog Days'",
+          "url": "https://myanimelist.net/anime/11783/Dog_Days"
+        },
+        {
+          "mal_id": 29413,
+          "type": "anime",
+          "name": "Dog Days Recap",
+          "url": "https://myanimelist.net/anime/29413/Dog_Days_Recap"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 31851,
+          "type": "anime",
+          "name": "Dog Days'': Limone Resort Tenbou Onsen!",
+          "url": "https://myanimelist.net/anime/31851/Dog_Days__Limone_Resort_Tenbou_Onsen"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 31967,
+          "type": "anime",
+          "name": "Dog Days'': Gravure Talk",
+          "url": "https://myanimelist.net/anime/31967/Dog_Days__Gravure_Talk"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"No Limit\" by Nana Mizuki"
+    ],
+    "endings": [
+      "\"Stay With Me\" by Yui Horie"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.dogdays.tv/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9517"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16193"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dog_Days_(anime)"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-247112"
+    }
+  ]
+}

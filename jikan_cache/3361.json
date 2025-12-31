@@ -1,0 +1,175 @@
+{
+  "mal_id": 3361,
+  "url": "https://myanimelist.net/anime/3361/UFO_Senshi_Dai_Apolon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1948/124434.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1948/124434t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1948/124434l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1948/124434.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1948/124434t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1948/124434l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "UFO Senshi Dai Apolon"
+    },
+    {
+      "type": "Synonym",
+      "title": "UFO Warrior Dai Apolon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shadow World"
+    },
+    {
+      "type": "Japanese",
+      "title": "ＵＦＯ戦士ダイアポロン"
+    }
+  ],
+  "title": "UFO Senshi Dai Apolon",
+  "title_english": null,
+  "title_japanese": "ＵＦＯ戦士ダイアポロン",
+  "title_synonyms": [
+    "UFO Warrior Dai Apolon",
+    "Shadow World"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1976-04-06T00:00:00+00:00",
+    "to": "1976-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 1976
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 1976
+      }
+    },
+    "string": "Apr 6, 1976 to Sep 28, 1976"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.89,
+  "scored_by": 731,
+  "rank": 10924,
+  "popularity": 12827,
+  "members": 1775,
+  "favorites": 4,
+  "synopsis": "The story is about 16 years old boy Takeshi who recently formed an American football team at the BlueSky orphanage. One day the game is interuppted by a light in the sky. Takeshi discovers he is the son of the king of the planet Apolon, spirited away to Earth by his father's retainer Rabi to avoid death at the hands of General Dazaan. He turns out to have special energy abilities which can control UFO saucers from under the ocean floor, which in turn can become robots that are synchronized to their movements.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "spring",
+  "year": 1976,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 191,
+      "type": "anime",
+      "name": "Eiken",
+      "url": "https://myanimelist.net/anime/producer/191/Eiken"
+    },
+    {
+      "mal_id": 1383,
+      "type": "anime",
+      "name": "Studio Live",
+      "url": "https://myanimelist.net/anime/producer/1383/Studio_Live"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 10815,
+          "type": "anime",
+          "name": "UFO Senshi Dai Apolon 2",
+          "url": "https://myanimelist.net/anime/10815/UFO_Senshi_Dai_Apolon_2"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"UFO Senshi Dai Apolon (UFO戦士ダイアポロン)\" by Shimon Masato"
+    ],
+    "endings": [
+      "\"UFO Shounen Dan no Uta (UFO少年団の歌)\" by Shimon Masato"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.eiken-anime.jp/works/works023.html"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2703"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1291"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/UFO_Warrior_Dai_Apolon"
+    }
+  ],
+  "streaming": []
+}

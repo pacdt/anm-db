@@ -1,0 +1,224 @@
+{
+  "mal_id": 5525,
+  "url": "https://myanimelist.net/anime/5525/07-Ghost",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/22605.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/22605t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/22605l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/22605.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/22605t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/22605l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/vRjlJDDfhJI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "07-Ghost"
+    },
+    {
+      "type": "Synonym",
+      "title": "07 Ghost"
+    },
+    {
+      "type": "Synonym",
+      "title": "Seven Ghost"
+    },
+    {
+      "type": "Synonym",
+      "title": "7 Ghosts"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Seven Ghosts"
+    },
+    {
+      "type": "Japanese",
+      "title": "セブンゴースト"
+    },
+    {
+      "type": "English",
+      "title": "07-Ghost"
+    }
+  ],
+  "title": "07-Ghost",
+  "title_english": "07-Ghost",
+  "title_japanese": "セブンゴースト",
+  "title_synonyms": [
+    "07 Ghost",
+    "Seven Ghost",
+    "7 Ghosts",
+    "The Seven Ghosts"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-04-07T00:00:00+00:00",
+    "to": "2009-09-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2009
+      },
+      "to": {
+        "day": 22,
+        "month": 9,
+        "year": 2009
+      }
+    },
+    "string": "Apr 7, 2009 to Sep 22, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.18,
+  "scored_by": 107298,
+  "rank": 3624,
+  "popularity": 1243,
+  "members": 219953,
+  "favorites": 2117,
+  "synopsis": "Barsburg Empire's Military Academy is known for training elites who bring victory to the empire. Students of the academy freely utilize an ability called \"Zaiphon\" to fight, while the types of Zaiphon usable depends on the nature of the soldier.\n\nTeito Klein, a student at the academy, is one of the most promising soldiers produced. Although ridiculed by everyone for being a sklave (German for slave) with no memories of his past, he is befriended by a fellow student called Mikage. While preparing for the final exam, Teito uncovers a dark secret related to his past. When an attempt to assassinate Ayanami, a high-ranking official who killed his father, fails, Teito is locked away awaiting punishment.\n\nOnly wanting the best for Teito, Mikage helps him escape. Teito ends up at the 7th District Church where he is taken in by the bishops. It is here that Teito attempts to evade the grasp of Ayanami and the Military, so he can rediscover his memories and learn why he is the person that can change the fate of the world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1582,
+      "type": "anime",
+      "name": "Ichijinsha",
+      "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1349,
+          "type": "manga",
+          "name": "07-Ghost",
+          "url": "https://myanimelist.net/manga/1349/07-Ghost"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "1: \"Aka no Kakera (緋色のカケラ)\" by Suzuki Yuki"
+    ],
+    "endings": [
+      "1: \"Hitomi no Kotae (瞳のこたえ)\" by Noria"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://07-ghost.net/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=6239"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10468"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/07-Ghost#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/07-GHOST#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/1587"
+    },
+    {
+      "name": "Bangumi",
+      "url": "https://bangumi.tv/subject/1466"
+    },
+    {
+      "name": "Baidu Baike",
+      "url": "https://baike.baidu.com/item/07-GHOST%EF%BD%9E%E7%A5%9E%E5%B9%BB%E6%8B%8D%E6%A1%A3%EF%BD%9E/19499393"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-170134"
+    }
+  ]
+}

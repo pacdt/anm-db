@@ -1,0 +1,238 @@
+{
+  "mal_id": 593,
+  "url": "https://myanimelist.net/anime/593/Mugen_no_Ryvius",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/16734.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/16734t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/16734l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/16734.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/16734t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/16734l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/-_fLfcxTncY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mugen no Ryvius"
+    },
+    {
+      "type": "Japanese",
+      "title": "無限のリヴァイアス"
+    },
+    {
+      "type": "English",
+      "title": "Infinite Ryvius"
+    },
+    {
+      "type": "French",
+      "title": "Infinite Ryvius"
+    }
+  ],
+  "title": "Mugen no Ryvius",
+  "title_english": "Infinite Ryvius",
+  "title_japanese": "無限のリヴァイアス",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-10-06T00:00:00+00:00",
+    "to": "2000-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 1999
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2000
+      }
+    },
+    "string": "Oct 6, 1999 to Mar 29, 2000"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.4,
+  "scored_by": 13269,
+  "rank": 2450,
+  "popularity": 3595,
+  "members": 47852,
+  "favorites": 347,
+  "synopsis": "The year is AD 2225. Kouji Aiba and Aoi Housen are serving as astronauts in-training in Liebe Delta which is located on the edge of the Geduld Sea. When saboteurs with unknown intents suddenly strike during a routine dive procedure, the space station plummets into the Geduld, a plasma field that links all the planets like a nervous system and crushes any ship that strays too far into it. With all the adults onboard killed, the young astronauts will have to survive this long journey home in midst of the growing tension amongst each other. Meanwhile the organizers of the sabotage look on and prepare to attack once more.",
+  "background": "The series won the Television Award in the 5th Animation Kobe Awards in 2000.",
+  "season": "fall",
+  "year": 1999,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 46,
+      "type": "anime",
+      "name": "Award Winning",
+      "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 3489,
+          "type": "manga",
+          "name": "Mugen no Ryvius",
+          "url": "https://myanimelist.net/manga/3489/Mugen_no_Ryvius"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 13233,
+          "type": "anime",
+          "name": "Mugen no Ryvius: Illusion",
+          "url": "https://myanimelist.net/anime/13233/Mugen_no_Ryvius__Illusion"
+        },
+        {
+          "mal_id": 41203,
+          "type": "anime",
+          "name": "Mugen no Ryvius: Light",
+          "url": "https://myanimelist.net/anime/41203/Mugen_no_Ryvius__Light"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Dis\" by Mika Arisaka"
+    ],
+    "endings": [
+      "\"Yume wo Sugitemo\" by Mika Arisaka"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.sunrise-inc.co.jp/datacard/card0174.htm"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=192"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=411"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Infinite_Ryvius"
+    }
+  ],
+  "streaming": []
+}

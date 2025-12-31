@@ -1,0 +1,224 @@
+{
+  "mal_id": 424,
+  "url": "https://myanimelist.net/anime/424/Dirty_Pair",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/20673.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/20673t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/20673l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/20673.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/20673t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/20673l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dirty Pair"
+    },
+    {
+      "type": "Japanese",
+      "title": "ダーティペア"
+    },
+    {
+      "type": "English",
+      "title": "Dirty Pair"
+    }
+  ],
+  "title": "Dirty Pair",
+  "title_english": "Dirty Pair",
+  "title_japanese": "ダーティペア",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1985-07-15T00:00:00+00:00",
+    "to": "1985-12-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 7,
+        "year": 1985
+      },
+      "to": {
+        "day": 26,
+        "month": 12,
+        "year": 1985
+      }
+    },
+    "string": "Jul 15, 1985 to Dec 26, 1985"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.23,
+  "scored_by": 8195,
+  "rank": 3331,
+  "popularity": 4073,
+  "members": 37889,
+  "favorites": 248,
+  "synopsis": "If you're in a big trouble, call the World Welfare Work Association or WWWA. They will send out a team of highly trained capable agents called Trouble Consultants who can solve your problems. But if the team they send you is the Dirty Pair, there will be a lot of collateral damage aside from solving your problems.\n\n(Source: AniDB)",
+  "background": "The series won the 1985 Animage's Anime Grand Prix Award.",
+  "season": "summer",
+  "year": 1985,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 199,
+      "type": "anime",
+      "name": "Studio Nue",
+      "url": "https://myanimelist.net/anime/producer/199/Studio_Nue"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 1803,
+          "type": "anime",
+          "name": "Dirty Pair: Lovely Angels yori Ai wo Komete",
+          "url": "https://myanimelist.net/anime/1803/Dirty_Pair__Lovely_Angels_yori_Ai_wo_Komete"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 20409,
+          "type": "manga",
+          "name": "Dirty Pair",
+          "url": "https://myanimelist.net/manga/20409/Dirty_Pair"
+        },
+        {
+          "mal_id": 40239,
+          "type": "manga",
+          "name": "Dirty Pair no Daibouken",
+          "url": "https://myanimelist.net/manga/40239/Dirty_Pair_no_Daibouken"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 1794,
+          "type": "anime",
+          "name": "Dirty Pair no Ooshoubu: Nolandia no Nazo",
+          "url": "https://myanimelist.net/anime/1794/Dirty_Pair_no_Ooshoubu__Nolandia_no_Nazo"
+        },
+        {
+          "mal_id": 1796,
+          "type": "anime",
+          "name": "Dirty Pair: The Movie",
+          "url": "https://myanimelist.net/anime/1796/Dirty_Pair__The_Movie"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Setting",
+      "entry": [
+        {
+          "mal_id": 1802,
+          "type": "anime",
+          "name": "Dirty Pair Flash",
+          "url": "https://myanimelist.net/anime/1802/Dirty_Pair_Flash"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Ru-Ru-Ru-Russian Roulette\" by Nakahara Meiko"
+    ],
+    "endings": [
+      "\"Space Fantasy\" by Nakahara Meiko"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.b-ch.com/contents/d_pair/"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=401"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=57"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dirty_Pair"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281901"
+    }
+  ]
+}

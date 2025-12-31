@@ -1,0 +1,156 @@
+{
+  "mal_id": 16033,
+  "url": "https://myanimelist.net/anime/16033/Karneval",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/43467.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/43467t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/43467l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/43467.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/43467t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/43467l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Karneval"
+    },
+    {
+      "type": "Japanese",
+      "title": "カーニヴァル"
+    }
+  ],
+  "title": "Karneval",
+  "title_english": null,
+  "title_japanese": "カーニヴァル",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-25T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 25, 2012"
+  },
+  "duration": "5 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.98,
+  "scored_by": 5117,
+  "rank": 4615,
+  "popularity": 5526,
+  "members": 18700,
+  "favorites": 66,
+  "synopsis": "DVD bundled with the limited edition of the 10th volume of the manga, previewing the upcoming TV anime and including footage that will not be used in the series.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Manglobe",
+      "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 10270,
+          "type": "manga",
+          "name": "Karneval",
+          "url": "https://myanimelist.net/manga/10270/Karneval"
+        }
+      ]
+    },
+    {
+      "relation": "Full Story",
+      "entry": [
+        {
+          "mal_id": 16035,
+          "type": "anime",
+          "name": "Karneval (TV)",
+          "url": "https://myanimelist.net/anime/16035/Karneval_TV"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [],
+    "endings": []
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9334"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/カーニヴァル_(漫画)"
+    }
+  ],
+  "streaming": []
+}

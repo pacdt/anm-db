@@ -1,0 +1,179 @@
+{
+  "mal_id": 301,
+  "url": "https://myanimelist.net/anime/301/Cinderella_Boy",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1029/147665.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1029/147665t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1029/147665l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1029/147665.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1029/147665t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1029/147665l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cinderella Boy"
+    },
+    {
+      "type": "Japanese",
+      "title": "シンデレラボーイ"
+    }
+  ],
+  "title": "Cinderella Boy",
+  "title_english": null,
+  "title_japanese": "シンデレラボーイ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-06-21T00:00:00+00:00",
+    "to": "2003-09-13T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 6,
+        "year": 2003
+      },
+      "to": {
+        "day": 13,
+        "month": 9,
+        "year": 2003
+      }
+    },
+    "string": "Jun 21, 2003 to Sep 13, 2003"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.31,
+  "scored_by": 3118,
+  "rank": 8486,
+  "popularity": 7511,
+  "members": 8727,
+  "favorites": 10,
+  "synopsis": "Ranma and his partner Rera run a detective agency in Giraffe City. An arranged accident leaves Rera and Ranma in an unfortunate state where the two detectives swap bodies at the stroke of midnight. With Ranma dissapearing and the beautiful Rera appearing. \n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2003,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "10:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 10:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 207,
+      "type": "anime",
+      "name": "Magic Bus",
+      "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 65,
+      "type": "anime",
+      "name": "Magical Sex Shift",
+      "url": "https://myanimelist.net/anime/genre/65/Magical_Sex_Shift"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 41117,
+          "type": "manga",
+          "name": "Cinderella Boy",
+          "url": "https://myanimelist.net/manga/41117/Cinderella_Boy"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Cinderella Boy\" by DOMINO88"
+    ],
+    "endings": [
+      "\"Out of Eden\" by TAKAKO"
+    ]
+  },
+  "external": [
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=781"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2394"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Cinderella_Boy"
+    }
+  ],
+  "streaming": []
+}
