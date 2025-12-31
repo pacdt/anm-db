@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "id": 34812,
   "slug": "vivid-strike-specials",
@@ -18,4 +19,31 @@
       "nome": "Mixed Magical Battle"
     }
   ]
+=======
+{
+  "id": 34812,
+  "title": "ViVid Strike! Specials",
+  "title_jp": "ViVid Strike！新作OVA",
+  "slug": "vivid-strike-specials",
+  "type": "legendados",
+  "format": "Special",
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/9/84018l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/9/84018.jpg"
+  },
+  "trailer": "https://www.youtube-nocookie.com/embed/_3LgaYWcjOo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "synopsis": "Episodes 5.5, 5.75, and 13 bundled with the second, third, and fourth Blu-ray volumes of ViVid Strike!",
+  "score": 6.65,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4/vivid-strike-specials/sd/1.mp4",
+      "nome": "Mixed Magical Battle"
+    }
+  ]
+>>>>>>> f9d031bd4f4e666639984d0d4b9f54d076723280
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "id": 42745,
   "slug": "machikado-mazoku-2-choume",
@@ -28,4 +29,41 @@
       "url": "https://lightspeedst.net/s4/mp4_temp/machikado-mazoku-2-choume/4/720p.mp4"
     }
   ]
+=======
+{
+  "id": 42745,
+  "title": "Machikado Mazoku: 2-choume",
+  "title_jp": "まちカドまぞく 2丁目",
+  "slug": "machikado-mazoku-2-choume",
+  "type": "legendados",
+  "format": "TV",
+  "images": {
+    "poster": "https://cdn.myanimelist.net/images/anime/1036/121135l.webp",
+    "banner": "https://cdn.myanimelist.net/images/anime/1036/121135.jpg"
+  },
+  "trailer": "https://www.youtube-nocookie.com/embed/kgBxGlnG7no?enablejsapi=1&wmode=opaque&autoplay=1",
+  "synopsis": "Second season of Machikado Mazoku.",
+  "score": 7.84,
+  "genres": [
+    "Comedy"
+  ],
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s1/mp4/machikado-mazoku-2-choume/hd/1.mp4"
+    },
+    {
+      "numero": 2,
+      "url": "https://lightspeedst.net/s1/mp4/machikado-mazoku-2-choume/hd/2.mp4"
+    },
+    {
+      "numero": 3,
+      "url": "https://lightspeedst.net/s4/mp4/machikado-mazoku-2-choume/fhd/3.mp4"
+    },
+    {
+      "numero": 4,
+      "url": "https://lightspeedst.net/s4/mp4_temp/machikado-mazoku-2-choume/4/720p.mp4"
+    }
+  ]
+>>>>>>> f9d031bd4f4e666639984d0d4b9f54d076723280
 }
