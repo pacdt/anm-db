@@ -1,0 +1,135 @@
+{
+  "mal_id": 42260,
+  "url": "https://myanimelist.net/anime/42260/Ninja_Collection",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1997/108104t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1997/108104l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1997/108104.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1997/108104t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1997/108104l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ninja Collection"
+    },
+    {
+      "type": "Japanese",
+      "title": "忍者コレクション"
+    }
+  ],
+  "title": "Ninja Collection",
+  "title_english": null,
+  "title_japanese": "忍者コレクション",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-07-13T00:00:00+00:00",
+    "to": "2020-10-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 7,
+        "year": 2020
+      },
+      "to": {
+        "day": 26,
+        "month": 10,
+        "year": 2020
+      }
+    },
+    "string": "Jul 13, 2020 to Oct 26, 2020"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 3.82,
+  "scored_by": 5522,
+  "rank": 14496,
+  "popularity": 5589,
+  "members": 18187,
+  "favorites": 26,
+  "synopsis": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "summer",
+  "year": 2020,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "03:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 03:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    },
+    {
+      "mal_id": 2056,
+      "type": "anime",
+      "name": "DRAWIZ",
+      "url": "https://myanimelist.net/anime/producer/2056/DRAWIZ"
+    },
+    {
+      "mal_id": 2057,
+      "type": "anime",
+      "name": "Toho Interactive Animation",
+      "url": "https://myanimelist.net/anime/producer/2057/Toho_Interactive_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

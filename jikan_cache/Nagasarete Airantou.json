@@ -1,0 +1,165 @@
+{
+  "mal_id": 1722,
+  "url": "https://myanimelist.net/anime/1722/Nagasarete_Airantou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75254.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75254t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75254l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75254.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75254t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75254l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/efKCSJzk63A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nagasarete Airantou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Drift off to Blue Orchid Island"
+    },
+    {
+      "type": "Synonym",
+      "title": "Casted Away - Airan Island"
+    },
+    {
+      "type": "Japanese",
+      "title": "ながされて藍蘭島"
+    },
+    {
+      "type": "Spanish",
+      "title": "Nagasarete Airanto"
+    }
+  ],
+  "title": "Nagasarete Airantou",
+  "title_english": null,
+  "title_japanese": "ながされて藍蘭島",
+  "title_synonyms": [
+    "Drift off to Blue Orchid Island",
+    "Casted Away - Airan Island"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-05T00:00:00+00:00",
+    "to": "2007-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 5, 2007 to Sep 27, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.2,
+  "scored_by": 46400,
+  "rank": 3520,
+  "popularity": 2214,
+  "members": 108063,
+  "favorites": 416,
+  "synopsis": "Ikuto Touhohin just had a fight with his old man, one that led him to make a rash decision to run away from home. He boards a ship, deciding to take a vacation, but the ship is suddenly hit by a huge storm—one that sends Ikuto overboard! When he regains consciousness, he realizes he is still alive on some island. An isolated island. An isolated island with nothing but girls. Beautiful girls. Stranded on an island with only girls, no electricity, gas, radio, television, like he was back in the stone age.\n\n(Source: AniDB)",
+  "background": "",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 91,
+      "type": "anime",
+      "name": "feel.",
+      "url": "https://myanimelist.net/anime/producer/91/feel"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

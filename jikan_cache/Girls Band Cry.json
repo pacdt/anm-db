@@ -1,0 +1,118 @@
+{
+  "mal_id": 55102,
+  "url": "https://myanimelist.net/anime/55102/Girls_Band_Cry",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1711/140515.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1711/140515t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1711/140515l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1711/140515.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1711/140515t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1711/140515l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/eIFTnaPXnRM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Girls Band Cry"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガールズバンドクライ"
+    }
+  ],
+  "title": "Girls Band Cry",
+  "title_english": null,
+  "title_japanese": "ガールズバンドクライ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-04-06T00:00:00+00:00",
+    "to": "2024-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2024
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2024
+      }
+    },
+    "string": "Apr 6, 2024 to Jun 29, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.36,
+  "scored_by": 50611,
+  "rank": 253,
+  "popularity": 1966,
+  "members": 127963,
+  "favorites": 2980,
+  "synopsis": "Everyone yearns to find their true purpose in life. This is also true for Nina Iseri, a 17-year-old girl looking to enroll in a good university, but the world always seems to work against her. On her very first day in Tokyo, she gets lost, ignored, and locked out of her new apartment. However, an unexpected opportunity arises when Nina meets Momoka Kawaragi, one of her favorite guitarists.\n\nAfter Nina joins Momoka for a street performance, Momoka decides they should start a band together. While Nina initially hesitates, her determination grows as they start acquiring more bandmates—the beautiful drummer Subaru Awa, the aloof keyboardist Tomo Ebizuka, and the intelligent bassist Rupa. The five girls face challenges both in the music industry and within themselves, but their shared passion for music never lets them give up on their dreams.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2024,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2930,
+      "type": "anime",
+      "name": "agehasprings",
+      "url": "https://myanimelist.net/anime/producer/2930/agehasprings"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

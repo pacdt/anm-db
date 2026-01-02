@@ -1,0 +1,136 @@
+{
+  "mal_id": 2528,
+  "url": "https://myanimelist.net/anime/2528/Megami_Paradise",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/41791.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/41791t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/41791l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/41791.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/41791t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/41791l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/sN2yDVFqABE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Megami Paradise"
+    },
+    {
+      "type": "Synonym",
+      "title": "Megami Tengoku"
+    },
+    {
+      "type": "Japanese",
+      "title": "女神天国"
+    }
+  ],
+  "title": "Megami Paradise",
+  "title_english": null,
+  "title_japanese": "女神天国",
+  "title_synonyms": [
+    "Megami Tengoku"
+  ],
+  "type": "OVA",
+  "source": "Visual novel",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1995-06-07T00:00:00+00:00",
+    "to": "1995-08-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 6,
+        "year": 1995
+      },
+      "to": {
+        "day": 4,
+        "month": 8,
+        "year": 1995
+      }
+    },
+    "string": "Jun 7, 1995 to Aug 4, 1995"
+  },
+  "duration": "30 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.42,
+  "scored_by": 1351,
+  "rank": 13005,
+  "popularity": 9802,
+  "members": 4375,
+  "favorites": 4,
+  "synopsis": "Mama Megami, the mother goddess and ruler of paradise is retiring. Her successor appoints a young mage named Lilith to be one of her guardians. Lilith's first assignment is to recruit two more worthy guardians for the new Mama Megami. Not an easy task, as Stashia, the first candidate on Lilith's short list is not interested. Lilith didn't even have a chance to ask the second person on the list, a warrior named Juliana due to a misunderstanding caused by Stashia's little sister Rurubell. Rurubell wants to be a guardian, but Lilith turned her down due to her very young age and lack of experience. Meanwhile, Paradise is under attack by an evil goddess who wants to dominate it, and it's up to Lilith, Stashia, Rurubell, and Juliana to thwart the attackers.\n\n(Source: AniDB)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Studio Fantasia",
+      "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 155,
+      "type": "anime",
+      "name": "animate Film",
+      "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

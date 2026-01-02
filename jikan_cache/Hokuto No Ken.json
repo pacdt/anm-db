@@ -1,0 +1,177 @@
+{
+  "mal_id": 967,
+  "url": "https://myanimelist.net/anime/967/Hokuto_no_Ken",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/18502.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/18502t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/18502l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/18502.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/18502t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/18502l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hokuto no Ken"
+    },
+    {
+      "type": "Synonym",
+      "title": "Seikimatsu Kyuseishu Densetsu: Hokuto no Ken"
+    },
+    {
+      "type": "Synonym",
+      "title": "HNK"
+    },
+    {
+      "type": "Japanese",
+      "title": "北斗の拳"
+    },
+    {
+      "type": "English",
+      "title": "Fist of the North Star"
+    }
+  ],
+  "title": "Hokuto no Ken",
+  "title_english": "Fist of the North Star",
+  "title_japanese": "北斗の拳",
+  "title_synonyms": [
+    "Seikimatsu Kyuseishu Densetsu: Hokuto no Ken",
+    "HNK"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 109,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1984-10-11T00:00:00+00:00",
+    "to": "1987-03-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 1984
+      },
+      "to": {
+        "day": 5,
+        "month": 3,
+        "year": 1987
+      }
+    },
+    "string": "Oct 11, 1984 to Mar 5, 1987"
+  },
+  "duration": "25 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.96,
+  "scored_by": 47587,
+  "rank": 766,
+  "popularity": 1817,
+  "members": 141243,
+  "favorites": 2414,
+  "synopsis": "In the year 19XX, after being betrayed and left for dead, bravehearted warrior Kenshirou wanders a post-apocalyptic wasteland on a quest to track down his rival, Shin, who has kidnapped his beloved fiancée Yuria. During his journey, Kenshirou makes use of his deadly fighting form, Hokuto Shinken, to defend the helpless from bloodthirsty ravagers. It isn't long before his exploits begin to attract the attention of greater enemies, like warlords and rival martial artists, and Kenshirou finds himself involved with more than he originally bargained for.\n\nFaced with ever-increasing odds, the successor of Hokuto Shinken is forced to put his skills to the test in an effort to take back what he cares for most. And as these new challenges present themselves and the battle against injustice intensifies, namely his conflict with Shin and the rest of the Nanto Seiken school of martial arts, Kenshirou is gradually transformed into the savior of an irradiated and violent world.\n\n[Written by MAL Rewrite]",
+  "background": "Hokuto no Ken covers chapters 1 to 136 of the manga of the same name.",
+  "season": "fall",
+  "year": 1984,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 947,
+      "type": "anime",
+      "name": "Manga Entertainment",
+      "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

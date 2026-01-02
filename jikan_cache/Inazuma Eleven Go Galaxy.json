@@ -1,0 +1,123 @@
+{
+  "mal_id": 18097,
+  "url": "https://myanimelist.net/anime/18097/Inazuma_Eleven_Go__Galaxy",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/49743.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/49743t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/49743l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/49743.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/49743t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/49743l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Inazuma Eleven Go: Galaxy"
+    },
+    {
+      "type": "Japanese",
+      "title": "イナズマイレブンＧＯ ギャラクシー"
+    }
+  ],
+  "title": "Inazuma Eleven Go: Galaxy",
+  "title_english": null,
+  "title_japanese": "イナズマイレブンＧＯ ギャラクシー",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 43,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-05-08T00:00:00+00:00",
+    "to": "2014-03-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 5,
+        "year": 2013
+      },
+      "to": {
+        "day": 19,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "May 8, 2013 to Mar 19, 2014"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.66,
+  "scored_by": 31887,
+  "rank": 6405,
+  "popularity": 3314,
+  "members": 55255,
+  "favorites": 107,
+  "synopsis": "After fighting to free the game of soccer in Japan from the Fifth Sector, the country's soccer squads can once again look forward to stepping onto the field. However, a new challenge will emerge for Japanese players in the form of the Football Frontier International Vision 2, a new tournament that will bring together the best teams each country can assemble.\n\nTenma Matsukaze and his Raimon teammates, Takuto Shindou and Kyousuke Tsurugi, are once again part of the action as they have been selected to play for the Japanese representative, Inazuma Japan. Much to their surprise, the coach selects eight other players that have no previous experience playing soccer!\n\nTeam Inazuma Japan will have a huge mountain to climb, building chemistry and skills as they go along. What they don’t know is that the tournament will set the stage for something much bigger, something out of this world in Inazuma Eleven Go: Galaxy!",
+  "background": "",
+  "season": "spring",
+  "year": 2013,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": []
+}

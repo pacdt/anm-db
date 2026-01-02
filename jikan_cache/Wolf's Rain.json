@@ -1,0 +1,170 @@
+{
+  "mal_id": 202,
+  "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/59403t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/59403l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/59403t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/59403l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/6ydbrdQXMeM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wolf's Rain"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wolf Rain"
+    },
+    {
+      "type": "Japanese",
+      "title": "ウルフズレイン"
+    },
+    {
+      "type": "English",
+      "title": "Wolf's Rain"
+    }
+  ],
+  "title": "Wolf's Rain",
+  "title_english": "Wolf's Rain",
+  "title_japanese": "ウルフズレイン",
+  "title_synonyms": [
+    "Wolf Rain"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-01-07T00:00:00+00:00",
+    "to": "2003-07-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2003
+      },
+      "to": {
+        "day": 29,
+        "month": 7,
+        "year": 2003
+      }
+    },
+    "string": "Jan 7, 2003 to Jul 29, 2003"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.79,
+  "scored_by": 137665,
+  "rank": 1118,
+  "popularity": 768,
+  "members": 348984,
+  "favorites": 5919,
+  "synopsis": "In a dying world, there exists an ancient legend: when the world ends, the gateway to paradise will be opened. This utopia is the sole salvation for the remnants of life in this barren land, but the legend also dictates that only wolves can find their way to this mythical realm. Though long thought to be extinct, wolves still exist and live amongst humans, disguising themselves through elaborate illusions. \n\nA lone wolf named Kiba finds himself drawn by an intoxicating scent to Freeze City, an impoverished town under the rule of the callous Lord Orkham. Here, Kiba discovers that wolves Hige, Tsume, and Toboe have been drawn in by the same aroma. By following the fragrance of \"Lunar Flowers,\" said to be the key to opening the door to their ideal world, the wolves set off on a journey across desolate landscapes and crumbling cities to find their legendary promised land. However, they are not the only ones seeking paradise, and those with more sinister intentions will do anything in their power to reach it first.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2003,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:10",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:10 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 142,
+      "type": "anime",
+      "name": "Asatsu DK",
+      "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

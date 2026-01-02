@@ -1,0 +1,195 @@
+{
+  "mal_id": 34012,
+  "url": "https://myanimelist.net/anime/34012/Isekai_Shokudou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/86666.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/86666t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/86666l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/86666.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/86666t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/86666l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/auIcebhIzMc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Isekai Shokudou"
+    },
+    {
+      "type": "Japanese",
+      "title": "異世界食堂"
+    },
+    {
+      "type": "English",
+      "title": "Restaurant to Another World"
+    },
+    {
+      "type": "German",
+      "title": "Restaurant to Another World"
+    },
+    {
+      "type": "Spanish",
+      "title": "Restaurant to Another World (Isekai Shokudou)"
+    },
+    {
+      "type": "French",
+      "title": "Restaurant to Another World"
+    }
+  ],
+  "title": "Isekai Shokudou",
+  "title_english": "Restaurant to Another World",
+  "title_japanese": "異世界食堂",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-04T00:00:00+00:00",
+    "to": "2017-09-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": 19,
+        "month": 9,
+        "year": 2017
+      }
+    },
+    "string": "Jul 4, 2017 to Sep 19, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.41,
+  "scored_by": 123826,
+  "rank": 2425,
+  "popularity": 958,
+  "members": 284122,
+  "favorites": 1129,
+  "synopsis": "Western Restaurant Nekoya is a popular eatery located on a street corner in a Tokyo shopping district. Serving both traditional Japanese fare as well as Western dishes, this eating establishment is popular among Tokyo's residents. But this seemingly ordinary restaurant is also popular with another type of clientele...\n\nWhile the restaurant is thought to be closed on Saturdays, the truth is that on this special day each week, its doors are instead opened to the inhabitants of other worlds. From dragons and elves to fairies and mages, this restaurant has no shortage of strange customers. Nevertheless, the enigmatic chef known only as \"Master\" will be waiting to serve up their favorite dishes with a kind smile and keep them coming back for many more Saturdays to come. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2017,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 513,
+      "type": "anime",
+      "name": "Nikkatsu",
+      "url": "https://myanimelist.net/anime/producer/513/Nikkatsu"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1549,
+      "type": "anime",
+      "name": "Dai Nippon Printing",
+      "url": "https://myanimelist.net/anime/producer/1549/Dai_Nippon_Printing"
+    },
+    {
+      "mal_id": 1708,
+      "type": "anime",
+      "name": "Shufunotomo",
+      "url": "https://myanimelist.net/anime/producer/1708/Shufunotomo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 47,
+      "type": "anime",
+      "name": "Gourmet",
+      "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+    },
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": []
+}

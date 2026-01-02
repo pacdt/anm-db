@@ -1,0 +1,211 @@
+{
+  "mal_id": 143,
+  "url": "https://myanimelist.net/anime/143/Kannazuki_no_Miko",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/73955.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/73955t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/73955l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/73955.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/73955t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/73955l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kannazuki no Miko"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kannaduki no Miko"
+    },
+    {
+      "type": "Synonym",
+      "title": "Priestesses of the Godless Month"
+    },
+    {
+      "type": "Japanese",
+      "title": "神無月の巫女"
+    },
+    {
+      "type": "English",
+      "title": "Destiny of the Shrine Maiden"
+    },
+    {
+      "type": "French",
+      "title": "Destiny of Shrine Maiden"
+    }
+  ],
+  "title": "Kannazuki no Miko",
+  "title_english": "Destiny of the Shrine Maiden",
+  "title_japanese": "神無月の巫女",
+  "title_synonyms": [
+    "Kannaduki no Miko",
+    "Priestesses of the Godless Month"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-02T00:00:00+00:00",
+    "to": "2004-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Oct 2, 2004 to Dec 18, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.8,
+  "scored_by": 31816,
+  "rank": 5574,
+  "popularity": 2775,
+  "members": 75928,
+  "favorites": 724,
+  "synopsis": "Kannazuki no Miko begins in the village of Mahoroba, where time passes slowly for both man and nature. Two students from the village's prestigious Ototachibana Academy might as well be night and day. Himeko is shy and unassertive, while Chikane is bold and elegant. Despite this, they love each other, and nothing can come between them, no matter how hard they try.\n\nOn the two girls' shared birthday, a sinister voice corrupts one of their friends into attacking them, and just when it seemed grimmest, the lunar and solar priestess powers that lay dormant in the two girls awaken, dispelling the evil. That was only the first hurdle, however. The two must now fend off the countless others who would threaten their well-being—even the people closest to them!",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Studio Fantasia",
+      "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+    },
+    {
+      "mal_id": 49,
+      "type": "anime",
+      "name": "Remic",
+      "url": "https://myanimelist.net/anime/producer/49/Remic"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Front Line",
+      "url": "https://myanimelist.net/anime/producer/69/Front_Line"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 160,
+      "type": "anime",
+      "name": "Rondo Robe",
+      "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+    },
+    {
+      "mal_id": 647,
+      "type": "anime",
+      "name": "Memory-Tech",
+      "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+    },
+    {
+      "mal_id": 741,
+      "type": "anime",
+      "name": "Toshiba Entertainment",
+      "url": "https://myanimelist.net/anime/producer/741/Toshiba_Entertainment"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 120,
+      "type": "anime",
+      "name": "TNK",
+      "url": "https://myanimelist.net/anime/producer/120/TNK"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 26,
+      "type": "anime",
+      "name": "Girls Love",
+      "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

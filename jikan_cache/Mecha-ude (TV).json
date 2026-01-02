@@ -1,0 +1,133 @@
+{
+  "mal_id": 53033,
+  "url": "https://myanimelist.net/anime/53033/Mecha-ude_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/145918.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/145918t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/145918l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/145918.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/145918t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/145918l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HZKYXA3bWCk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mecha-ude (TV)"
+    },
+    {
+      "type": "Japanese",
+      "title": "メカウデ"
+    },
+    {
+      "type": "English",
+      "title": "Mecha-Ude: Mechanical Arms"
+    }
+  ],
+  "title": "Mecha-ude (TV)",
+  "title_english": "Mecha-Ude: Mechanical Arms",
+  "title_japanese": "メカウデ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-10-04T00:00:00+00:00",
+    "to": "2024-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2024
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2024
+      }
+    },
+    "string": "Oct 4, 2024 to Dec 20, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.79,
+  "scored_by": 18893,
+  "rank": 5606,
+  "popularity": 3215,
+  "members": 58230,
+  "favorites": 161,
+  "synopsis": "Hikaru Amatsuga's days of tranquility come to a sudden end when he rescues Alma, a mechanical arm crying for help. Alma fuses with his jacket, introducing Hikaru to the world of mechanical arms: mysterious, sentient weapons that normally become a part of their users' bodies. Forced to flee for his life, Hikaru is eventually captured by Aki Murasame, a twin mechanical arms user working for ARMS, an organization that protects the machines against unethical treatment.\n\nThe Kagami Group, a nefarious organization that treats mechanical arms as mere tools, seeks to recover Alma. Hikaru is deemed a failure by ARMS for his lack of natural predisposition to be an mechanical arm wielder, so Aki is assigned to be his bodyguard. But Aki is defeated by Jun Kagami, who cruelly tears out her two mechanical limbs, condemning the girl to a slow death. Unwilling to abandon Aki to her grim fate, Hikaru miraculously awakens his power and neutralizes Kagami. Now a full member of ARMS, Hikaru is determined to unravel the truth about mechanical arms and protect his newfound friends and allies.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2024,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1843,
+      "type": "anime",
+      "name": "TriF Studio",
+      "url": "https://myanimelist.net/anime/producer/1843/TriF_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

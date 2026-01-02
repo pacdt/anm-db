@@ -1,0 +1,165 @@
+{
+  "mal_id": 62804,
+  "url": "https://myanimelist.net/anime/62804/High_School_Kimengumi_2026",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1501/154507.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1501/154507t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1501/154507l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1501/154507.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1501/154507t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1501/154507l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pbiQh6dD1Ks?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "High School! Kimengumi (2026)"
+    },
+    {
+      "type": "Synonym",
+      "title": "High School Kimengumi"
+    },
+    {
+      "type": "Synonym",
+      "title": "High School Funny-face Club"
+    },
+    {
+      "type": "Synonym",
+      "title": "Funny Faces in High School"
+    },
+    {
+      "type": "Japanese",
+      "title": "ハイスクール！奇面組"
+    }
+  ],
+  "title": "High School! Kimengumi (2026)",
+  "title_english": null,
+  "title_japanese": "ハイスクール！奇面組",
+  "title_synonyms": [
+    "High School Kimengumi",
+    "High School Funny-face Club",
+    "Funny Faces in High School"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-09T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 9, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 12395,
+  "members": 2063,
+  "favorites": 3,
+  "synopsis": "Rei Ichidou, Gou Reietsu, Kiyoshi Shusse, Jin Daima, and Dai Monohoshi are five mischievous boys attending Ichiou Junior High. Each with an eccentric personality and a knack for chaos, they've earned a reputation as the infamous \"Kimen-gumi.\"\n\nOne day, new transfer student Yui Kawa and her friend Chie Uru encounter the group and soon find themselves drawn into their antics. Around them are other colorful cliques—from the handsome \"Iro Otoko-gumi\" led by Shou Kireide, to the delinquent \"Ban-gumi\" led by You Nihiruda, the athletic \"Ude-gumi\" led by Kai Undou, and the tough girl squad \"Onna-gumi\" led by Jako Amano.\n\nAs time passes and a new spring begins, the everyday lives of these eccentric students unfold in a lively and comedic school story.\n\n(Source: MAL News)",
+  "background": "High School! Kimengumi (2026) aired on Fuji TV's noitaminA block.",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 735,
+      "type": "anime",
+      "name": "Slow Curve",
+      "url": "https://myanimelist.net/anime/producer/735/Slow_Curve"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 541,
+      "type": "anime",
+      "name": "Seven",
+      "url": "https://myanimelist.net/anime/producer/541/Seven"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

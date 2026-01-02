@@ -1,0 +1,165 @@
+{
+  "mal_id": 4472,
+  "url": "https://myanimelist.net/anime/4472/Lucky☆Star__Original_na_Visual_to_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1475/99189.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/99189t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/99189l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1475/99189.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1475/99189t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1475/99189l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/nlYreOHHy_4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lucky☆Star: Original na Visual to Animation"
+    },
+    {
+      "type": "Synonym",
+      "title": "Lucky Star OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "らき☆すた OVA（オリジナルなビジュアルとアニメーション）"
+    },
+    {
+      "type": "English",
+      "title": "Lucky☆Star OVA"
+    }
+  ],
+  "title": "Lucky☆Star: Original na Visual to Animation",
+  "title_english": "Lucky☆Star OVA",
+  "title_japanese": "らき☆すた OVA（オリジナルなビジュアルとアニメーション）",
+  "title_synonyms": [
+    "Lucky Star OVA"
+  ],
+  "type": "OVA",
+  "source": "4-koma manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-09-26T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 9,
+        "year": 2008
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 26, 2008"
+  },
+  "duration": "42 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.8,
+  "scored_by": 92305,
+  "rank": 1096,
+  "popularity": 1723,
+  "members": 150959,
+  "favorites": 228,
+  "synopsis": "The OVA features six separate stories revolving around the cast, some of which border on the bizarre; one of which is an MMORPG environment being played by Konata, Kagami, Tsukasa, and Nanako Kuroi, and another in which Kagami has a \"suggestive\" dream about Konata.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": []
+}

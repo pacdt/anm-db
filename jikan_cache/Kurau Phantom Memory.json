@@ -1,0 +1,167 @@
+{
+  "mal_id": 483,
+  "url": "https://myanimelist.net/anime/483/Kurau_Phantom_Memory",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1997/106096.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1997/106096t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1997/106096l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1997/106096.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1997/106096t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1997/106096l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/vl8VMUmJorQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kurau Phantom Memory"
+    },
+    {
+      "type": "Japanese",
+      "title": "クラウ ファントムメモリー"
+    }
+  ],
+  "title": "Kurau Phantom Memory",
+  "title_english": null,
+  "title_japanese": "クラウ ファントムメモリー",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-06-25T00:00:00+00:00",
+    "to": "2004-12-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 6,
+        "year": 2004
+      },
+      "to": {
+        "day": 16,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Jun 25, 2004 to Dec 16, 2004"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.27,
+  "scored_by": 8795,
+  "rank": 3089,
+  "popularity": 4303,
+  "members": 34010,
+  "favorites": 146,
+  "synopsis": "It is the year 2100, and on the colonized Moon, a project is under way to explore new aspects of energy. Amami Kurau is the daughter of the chief scientist on the project, and on her 12th birthday, she accompanies her father to the lab to observe the experiments. Then something goes awry, and Kurau is struck by twin bolts of light. In the aftermath, her father is dismayed to find that his daughter is no longer his daughter. Rather, her body is now home to two energy entities with fantastic powers.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2004,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    },
+    {
+      "mal_id": 3024,
+      "type": "anime",
+      "name": "Fonishia",
+      "url": "https://myanimelist.net/anime/producer/3024/Fonishia"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": []
+}

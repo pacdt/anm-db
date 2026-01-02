@@ -1,0 +1,160 @@
+{
+  "mal_id": 3958,
+  "url": "https://myanimelist.net/anime/3958/Kannagi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/19724.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/19724t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/19724l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/19724.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/19724t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/19724l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kannagi"
+    },
+    {
+      "type": "Japanese",
+      "title": "かんなぎ"
+    },
+    {
+      "type": "English",
+      "title": "Kannagi: Crazy Shrine Maidens"
+    }
+  ],
+  "title": "Kannagi",
+  "title_english": "Kannagi: Crazy Shrine Maidens",
+  "title_japanese": "かんなぎ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-04T00:00:00+00:00",
+    "to": "2008-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2008
+      }
+    },
+    "string": "Oct 4, 2008 to Dec 27, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.26,
+  "scored_by": 71042,
+  "rank": 3170,
+  "popularity": 1513,
+  "members": 177987,
+  "favorites": 392,
+  "synopsis": "When he was a child and out catching bugs, Jin Mikuriya fatefully encountered a deity, which became the inspiration for his newest piece of art: The Tree Spirit. Trying to think of a way to bring the wooden statue to school, Jin believes that the rest of the day will be spent admiring his work. But before he can even lift it, the sculpture begins to absorb the earth around it and explodes into a cute girl!\n\nThe girl, Nagi, who introduces herself as a guardian of the earth, proclaims that Jin must help her get rid of the \"impurities\" that plague the land. But alas, due to Nagi's tree being cut down and her powers completely drained, she finds herself cleansing the impurities with only a magical wand! With their lives now intertwined, Jin and Nagi find ways to learn more about one another through the endless amounts of daily antics.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 1582,
+      "type": "anime",
+      "name": "Ichijinsha",
+      "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Visual Arts",
+      "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

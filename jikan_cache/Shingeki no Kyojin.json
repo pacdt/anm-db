@@ -1,0 +1,219 @@
+{
+  "mal_id": 16498,
+  "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/47347t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/47347t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/LHtdKWJdif4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shingeki no Kyojin"
+    },
+    {
+      "type": "Synonym",
+      "title": "AoT"
+    },
+    {
+      "type": "Synonym",
+      "title": "SnK"
+    },
+    {
+      "type": "Japanese",
+      "title": "進撃の巨人"
+    },
+    {
+      "type": "English",
+      "title": "Attack on Titan"
+    },
+    {
+      "type": "German",
+      "title": "Attack on Titan"
+    },
+    {
+      "type": "Spanish",
+      "title": "Ataque a los Titanes"
+    },
+    {
+      "type": "French",
+      "title": "L'Attaque des Titans"
+    }
+  ],
+  "title": "Shingeki no Kyojin",
+  "title_english": "Attack on Titan",
+  "title_japanese": "進撃の巨人",
+  "title_synonyms": [
+    "AoT",
+    "SnK"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-04-07T00:00:00+00:00",
+    "to": "2013-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2013
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Apr 7, 2013 to Sep 29, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.57,
+  "scored_by": 3011326,
+  "rank": 118,
+  "popularity": 1,
+  "members": 4276494,
+  "favorites": 185463,
+  "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.\n\n[Written by MAL Rewrite]",
+  "background": "Shingeki no Kyojin adapts content from the first eight volumes of Hajime Isayama's award-winning manga of the same name. The anime won the Animation of the Year in the Television category at the Tokyo Anime Award Festival in 2014.",
+  "season": "spring",
+  "year": 2013,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1557,
+      "type": "anime",
+      "name": "Pony Canyon Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprises"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 46,
+      "type": "anime",
+      "name": "Award Winning",
+      "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Survival",
+      "url": "https://myanimelist.net/anime/genre/76/Survival"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

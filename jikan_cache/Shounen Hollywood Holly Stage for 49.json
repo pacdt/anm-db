@@ -1,0 +1,130 @@
+{
+  "mal_id": 23151,
+  "url": "https://myanimelist.net/anime/23151/Shounen_Hollywood__Holly_Stage_for_49",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/64091.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/64091t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/64091l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/64091.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/64091t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/64091l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KGtHGumhv5w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shounen Hollywood: Holly Stage for 49"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shonen Hollywood"
+    },
+    {
+      "type": "Japanese",
+      "title": "少年ハリウッド-HOLLY STAGE FOR 49-"
+    }
+  ],
+  "title": "Shounen Hollywood: Holly Stage for 49",
+  "title_english": null,
+  "title_japanese": "少年ハリウッド-HOLLY STAGE FOR 49-",
+  "title_synonyms": [
+    "Shonen Hollywood"
+  ],
+  "type": "TV",
+  "source": "Mixed media",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-07-06T00:00:00+00:00",
+    "to": "2014-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2014
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2014
+      }
+    },
+    "string": "Jul 6, 2014 to Sep 27, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.06,
+  "scored_by": 5110,
+  "rank": 10068,
+  "popularity": 5821,
+  "members": 16340,
+  "favorites": 24,
+  "synopsis": "At a theater called Hollywood Tokyo in Harajuku, members of the idol group \"Shounen Hollywood\" develop their talents with diligent work and studying.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

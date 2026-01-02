@@ -1,0 +1,147 @@
+{
+  "mal_id": 18767,
+  "url": "https://myanimelist.net/anime/18767/BlazBlue__Alter_Memory",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/56137.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/56137t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/56137l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/56137.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/56137t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/56137l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/fAx-JB2U7cU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "BlazBlue: Alter Memory"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブレイブルー オルターメモリー"
+    },
+    {
+      "type": "English",
+      "title": "BlazBlue: Alter Memory"
+    }
+  ],
+  "title": "BlazBlue: Alter Memory",
+  "title_english": "BlazBlue: Alter Memory",
+  "title_japanese": "ブレイブルー オルターメモリー",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-10-09T00:00:00+00:00",
+    "to": "2013-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 10,
+        "year": 2013
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2013
+      }
+    },
+    "string": "Oct 9, 2013 to Dec 25, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.08,
+  "scored_by": 39354,
+  "rank": 9938,
+  "popularity": 2452,
+  "members": 92736,
+  "favorites": 155,
+  "synopsis": "The story is set in December of 2199, when the streets are full of anticipation for the end of the year and the start of the new one. Amid the celebrations, word spreads that Ragna the Bloodedge, an SS-class rebel with the highest ever bounty on his head, has appeared in the 13th Hierarchical City of Kagutsuchi. The apparent aim of Ragna or the \"Grim Reaper\" is the destruction of the system controlling the world. To collect the bounty, a motley array of unrivaled fighters converge on Kagutsuchi.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2013,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 346,
+      "type": "anime",
+      "name": "Hoods Entertainment",
+      "url": "https://myanimelist.net/anime/producer/346/Hoods_Entertainment"
+    },
+    {
+      "mal_id": 949,
+      "type": "anime",
+      "name": "teamKG",
+      "url": "https://myanimelist.net/anime/producer/949/teamKG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": []
+}

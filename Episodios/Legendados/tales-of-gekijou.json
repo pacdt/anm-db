@@ -1,0 +1,137 @@
+{
+  "nome": "Tales of Gekijou",
+  "slug": "tales-of-gekijou",
+  "imagem": "https://animefire.io/img/animes/tales-of-gekijou.webp",
+  "episodios": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4/tales-of-gekijou/sd/1.mp4"
+    },
+    {
+      "numero": 2,
+      "url": "https://lightspeedst.net/s2/mp4/tales-of-gekijou/sd/2.mp4"
+    },
+    {
+      "numero": 3,
+      "url": "https://lightspeedst.net/s2/mp4/tales-of-gekijou/sd/3.mp4"
+    },
+    {
+      "numero": 4,
+      "url": "https://lightspeedst.net/s2/mp4/tales-of-gekijou/sd/4.mp4"
+    },
+    {
+      "numero": 5,
+      "url": "https://lightspeedst.net/s2/mp4/tales-of-gekijou/sd/5.mp4"
+    }
+  ],
+  "metadata_completo": {
+    "mal_id": 12699,
+    "url": "https://myanimelist.net/anime/12699/Tales_of_Gekijou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/48841.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/48841t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/48841l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/48841.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/5/48841t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/5/48841l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Tales of Gekijou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Tales of the Heroes: Twin Brave Specials"
+      },
+      {
+        "type": "Japanese",
+        "title": "ているず おぶ 劇場"
+      }
+    ],
+    "title": "Tales of Gekijou",
+    "title_english": null,
+    "title_japanese": "ているず おぶ 劇場",
+    "title_synonyms": [
+      "Tales of the Heroes: Twin Brave Specials"
+    ],
+    "type": "Special",
+    "source": "Game",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2012-01-01T00:00:00+00:00",
+      "to": "2012-02-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2012
+        },
+        "to": {
+          "day": 23,
+          "month": 2,
+          "year": 2012
+        }
+      },
+      "string": "Jan 1, 2012 to Feb 23, 2012"
+    },
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
+    "score": 6.51,
+    "scored_by": 2065,
+    "rank": 7300,
+    "popularity": 9263,
+    "members": 5173,
+    "favorites": 5,
+    "synopsis": "Tales of Gekijou is the pre-order bonus for Tales of the Heroes: Twin Brave. It is a series of five short animations produced by Sunrise. \n \nEpisodes 1 and 2 were aired in BS-TBS's New Year Special. The other 3 episodes will be available in the pre-order bonus via a download code along with the first two.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Sunrise",
+        "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": []
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "mal_id": 167,
+  "url": "https://myanimelist.net/anime/167/Scrapped_Princess",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1238/94717.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/94717t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/94717l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1238/94717.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/94717t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/94717l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/B0NwbDAZz5Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Scrapped Princess"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haiki Oujo"
+    },
+    {
+      "type": "Japanese",
+      "title": "スクラップド・プリンセス"
+    },
+    {
+      "type": "English",
+      "title": "Scrapped Princess"
+    },
+    {
+      "type": "Spanish",
+      "title": "Scrapped Princess: La Princesa Abandonada"
+    }
+  ],
+  "title": "Scrapped Princess",
+  "title_english": "Scrapped Princess",
+  "title_japanese": "スクラップド・プリンセス",
+  "title_synonyms": [
+    "Haiki Oujo"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-04-08T00:00:00+00:00",
+    "to": "2003-10-07T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2003
+      },
+      "to": {
+        "day": 7,
+        "month": 10,
+        "year": 2003
+      }
+    },
+    "string": "Apr 8, 2003 to Oct 7, 2003"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.36,
+  "scored_by": 39603,
+  "rank": 2642,
+  "popularity": 2295,
+  "members": 102512,
+  "favorites": 440,
+  "synopsis": "Born to the royal family, Pacifica Casull has earned the nickname \"Scrapped Princess\" after an apocalyptic prophecy foretells her destroying the world on her 16th birthday. Rescued from certain death by a kindly family, she takes shelter with her adoptive older brother and sister, Shannon and Raquel Casull. When news of her survival reaches the ears of the God Mauser's worshippers, they issue her death at all costs, forcing Pacifica to flee for her life.\n\nPlagued by threats from the church, the nobility and even the common people, the three siblings attempt to outrun the fate Pacifica is destined to bring, all the while questioning if one girl's life is worth the world's demise. The true nature of the Scrapped Princess, along with the harrowing revelations of the world itself, becomes more and more apparent as the princess' 16th birthday fast approaches.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2003,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 171,
+      "type": "anime",
+      "name": "A-Line",
+      "url": "https://myanimelist.net/anime/producer/171/A-Line"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": []
+}

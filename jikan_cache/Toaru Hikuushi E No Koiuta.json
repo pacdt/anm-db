@@ -1,0 +1,190 @@
+{
+  "mal_id": 19117,
+  "url": "https://myanimelist.net/anime/19117/Toaru_Hikuushi_e_no_Koiuta",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/56939.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/56939t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/56939l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/56939.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/56939t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/56939l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/t2myFtKWXCE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Toaru Hikuushi e no Koiuta"
+    },
+    {
+      "type": "Synonym",
+      "title": "Love Song of a Certain Pilot"
+    },
+    {
+      "type": "Japanese",
+      "title": "とある飛空士への恋歌"
+    },
+    {
+      "type": "English",
+      "title": "The Pilot's Love Song"
+    },
+    {
+      "type": "German",
+      "title": "The Pilot's Love Song"
+    },
+    {
+      "type": "French",
+      "title": "The Pilot's Love Song"
+    }
+  ],
+  "title": "Toaru Hikuushi e no Koiuta",
+  "title_english": "The Pilot's Love Song",
+  "title_japanese": "とある飛空士への恋歌",
+  "title_synonyms": [
+    "Love Song of a Certain Pilot"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-06T00:00:00+00:00",
+    "to": "2014-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 6, 2014 to Mar 31, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.14,
+  "scored_by": 42415,
+  "rank": 3880,
+  "popularity": 2268,
+  "members": 104429,
+  "favorites": 225,
+  "synopsis": "In order to uncover the \"end of the sky,\" as spoken of in ancient mythology, Kal-el Albus is sent to Isla, an island in the sky. There he attends Cadoques High's Aerial Division, where he enjoys a carefree life with his schoolmates. That is...until a surprise attack by the air tribe drags Isla into a bloody war.\n\n(Source: NIS America)",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1079,
+      "type": "anime",
+      "name": "3xCube",
+      "url": "https://myanimelist.net/anime/producer/1079/3xCube"
+    },
+    {
+      "mal_id": 1081,
+      "type": "anime",
+      "name": "ZERO-A",
+      "url": "https://myanimelist.net/anime/producer/1081/ZERO-A"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1589,
+      "type": "anime",
+      "name": "NichiNare",
+      "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+    },
+    {
+      "mal_id": 1620,
+      "type": "anime",
+      "name": "Toppan Printing",
+      "url": "https://myanimelist.net/anime/producer/1620/Toppan_Printing"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

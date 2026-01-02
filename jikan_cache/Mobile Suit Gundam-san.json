@@ -1,0 +1,134 @@
+{
+  "mal_id": 24835,
+  "url": "https://myanimelist.net/anime/24835/Kidou_Senshi_Gundam-san",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/67549.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/67549t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/67549l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/67549.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/67549t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/67549l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kidou Senshi Gundam-san"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gundam Sousei"
+    },
+    {
+      "type": "Japanese",
+      "title": "機動戦士ガンダムさん"
+    },
+    {
+      "type": "English",
+      "title": "Mobile Suit Gundam-san"
+    }
+  ],
+  "title": "Kidou Senshi Gundam-san",
+  "title_english": "Mobile Suit Gundam-san",
+  "title_japanese": "機動戦士ガンダムさん",
+  "title_synonyms": [
+    "Gundam Sousei"
+  ],
+  "type": "TV",
+  "source": "4-koma manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-07-06T00:00:00+00:00",
+    "to": "2014-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2014
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2014
+      }
+    },
+    "string": "Jul 6, 2014 to Sep 28, 2014"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.16,
+  "scored_by": 4155,
+  "rank": 9456,
+  "popularity": 7468,
+  "members": 8871,
+  "favorites": 1,
+  "synopsis": "Anime adaptation of the 4-koma manga Mobile Suit Gundam-san.",
+  "background": "",
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "19:28",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 19:28 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": []
+}

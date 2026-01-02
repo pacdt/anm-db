@@ -1,0 +1,159 @@
+{
+  "mal_id": 35183,
+  "url": "https://myanimelist.net/anime/35183/Gurazeni",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1365/95058.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/95058t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/95058l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1365/95058.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1365/95058t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1365/95058l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/oyXkrLEBkc8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gurazeni"
+    },
+    {
+      "type": "Japanese",
+      "title": "グラゼニ"
+    },
+    {
+      "type": "English",
+      "title": "Gurazeni: Money Pitch"
+    },
+    {
+      "type": "German",
+      "title": "Gurazeni: Money Pitch"
+    },
+    {
+      "type": "Spanish",
+      "title": "Gurazeni: Money Pitch"
+    },
+    {
+      "type": "French",
+      "title": "Gurazeni: Money Pitch"
+    }
+  ],
+  "title": "Gurazeni",
+  "title_english": "Gurazeni: Money Pitch",
+  "title_japanese": "グラゼニ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-06T00:00:00+00:00",
+    "to": "2018-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Apr 6, 2018 to Jun 22, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.39,
+  "scored_by": 5214,
+  "rank": 8077,
+  "popularity": 6468,
+  "members": 12572,
+  "favorites": 16,
+  "synopsis": "This is the story of Natsunosuke Honda, a pro baseball player—a relief pitcher who has been playing pro in a team called Spiders for 8 years. The team operates as a highly-stratified society, where the player's performance determines his annual salary. Natsunosuke is one of the highest paid players in the game. He measures how good players are by how much money they make, and he intends to be on top and stay there, and as such is always looking for players to challenge and does everything to insure that he is better than they are.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1041,
+      "type": "anime",
+      "name": "Ai Addiction",
+      "url": "https://myanimelist.net/anime/producer/1041/Ai_Addiction"
+    },
+    {
+      "mal_id": 1859,
+      "type": "anime",
+      "name": "SKY PerfecTV!",
+      "url": "https://myanimelist.net/anime/producer/1859/SKY_PerfecTV"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

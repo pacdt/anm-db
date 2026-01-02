@@ -1,0 +1,137 @@
+{
+  "mal_id": 21325,
+  "url": "https://myanimelist.net/anime/21325/Pupipo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/58853.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/58853t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/58853l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/58853.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/58853t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/58853l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_9pPuUWVX1A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pupipo!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pupipoo!"
+    },
+    {
+      "type": "Japanese",
+      "title": "プピポー！"
+    }
+  ],
+  "title": "Pupipo!",
+  "title_english": null,
+  "title_japanese": "プピポー！",
+  "title_synonyms": [
+    "Pupipoo!"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 15,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-12-21T00:00:00+00:00",
+    "to": "2014-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 12,
+        "year": 2013
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Dec 21, 2013 to Mar 29, 2014"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG - Children",
+  "score": 6.77,
+  "scored_by": 10702,
+  "rank": 5723,
+  "popularity": 5067,
+  "members": 23347,
+  "favorites": 45,
+  "synopsis": "Himeji Wakaba is a 5th year elementary school student, and she has the ability to see things that others can't. They are mostly frightening evil spirits, and they tend to do bad things to people who are close to her. As a result, Wakaba has no friends and rarely smiles. On a couple of occasions, she brings home stray animals, but her parents won't let her keep them. However, they're worried about their sad, creepy daughter, so one day they decide that whatever Wakaba brings home next, they'll let her keep.\n\nThe next thing she brings home is a pink monster called \"Pupipo\", but her parents stand by their decision and let her keep it. No one is quite sure what Pupipo is, but it protects Wakaba from the other things she sees. Pupipo also helps Wakaba make friends with an occult-obsessed transfer student and solve problems with bullying. Wakaba's life is a much better place with her pet pink monster!\n\n(Source: MangaHelpers)",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:53",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:53 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 292,
+      "type": "anime",
+      "name": "AIC PLUS+",
+      "url": "https://myanimelist.net/anime/producer/292/AIC_PLUS_"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

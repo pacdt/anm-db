@@ -1,0 +1,111 @@
+{
+  "mal_id": 43418,
+  "url": "https://myanimelist.net/anime/43418/Citrus_Music",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1745/109735.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/109735t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/109735l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1745/109735.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/109735t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/109735l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Citrus (Music)"
+    },
+    {
+      "type": "Japanese",
+      "title": "Citrus"
+    }
+  ],
+  "title": "Citrus (Music)",
+  "title_english": null,
+  "title_japanese": "Citrus",
+  "title_synonyms": [],
+  "type": "Music",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-22T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 22,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 22, 2020"
+  },
+  "duration": "5 min",
+  "rating": "G - All Ages",
+  "score": 5.87,
+  "scored_by": 289,
+  "rank": null,
+  "popularity": 16563,
+  "members": 672,
+  "favorites": 0,
+  "synopsis": "Music video by Tarafu Otani for the single Citrus by Japanese electronic artist Serph that is included on his compilation album \"Nanotech Wizard\".",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 2160,
+      "type": "anime",
+      "name": "Nobel",
+      "url": "https://myanimelist.net/anime/producer/2160/Nobel"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

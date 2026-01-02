@@ -1,0 +1,155 @@
+{
+  "mal_id": 50695,
+  "url": "https://myanimelist.net/anime/50695/MF_Ghost",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1249/132348.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1249/132348t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1249/132348l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1249/132348.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1249/132348t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1249/132348l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_BGFUbJcJi8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "MF Ghost"
+    },
+    {
+      "type": "Japanese",
+      "title": "MFゴースト"
+    }
+  ],
+  "title": "MF Ghost",
+  "title_english": null,
+  "title_japanese": "MFゴースト",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-02T00:00:00+00:00",
+    "to": "2023-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2023
+      }
+    },
+    "string": "Oct 2, 2023 to Dec 18, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.55,
+  "scored_by": 37945,
+  "rank": 1838,
+  "popularity": 2612,
+  "members": 83987,
+  "favorites": 719,
+  "synopsis": "As electric vehicles dominate everyday life in the 2020s, interest in traditional combustion engine cars is maintained through a motorsports series known as the MFG. Hundreds of ambitious drivers, with a staggering 30 million viewers online, fiercely compete for a spot in the Godly Fifteen—the leading 15 racers—and a chance at the grand prize of 100 million yen. Among these individuals aiming for the top is 19-year-old Kanata Rivington.\n\nHaving attended a famous racing school in England, Kanata sets his sights on the upcoming MFG tournament and enrolls in the competition under the alias \"Kanata Katagiri.\" In comparison to his opponents' flashy vehicles, Kanata's Toyota 86 GT, passed down from a former MFG contestant, puts him at a considerable disadvantage. Kanata receives guidance from a Godly Fifteen member, but he still treats the MFG as only a stepping stone for his true goal: locating his estranged father. Meanwhile, Kanata's appearance sends shockwaves through the scene as his driving style eerily resembles that of a once legendary racer.\n\n[Written by MAL Rewrite]",
+  "background": "MF Ghost was released on Blu-ray in two volumes from January 26, 2024, to February 28, 2024. The series adapts the first 56 chapters of the manga.",
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 140,
+      "type": "anime",
+      "name": "Animax",
+      "url": "https://myanimelist.net/anime/producer/140/Animax"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1499,
+      "type": "anime",
+      "name": "Techno Sound",
+      "url": "https://myanimelist.net/anime/producer/1499/Techno_Sound"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1440,
+      "type": "anime",
+      "name": "Felix Film",
+      "url": "https://myanimelist.net/anime/producer/1440/Felix_Film"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

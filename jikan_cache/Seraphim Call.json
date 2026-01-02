@@ -1,0 +1,142 @@
+{
+  "mal_id": 2245,
+  "url": "https://myanimelist.net/anime/2245/Seraphim_Call",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/49619.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/49619t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/49619l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/49619.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/49619t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/49619l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Seraphim Call"
+    },
+    {
+      "type": "Japanese",
+      "title": "セラフィムコール"
+    }
+  ],
+  "title": "Seraphim Call",
+  "title_english": null,
+  "title_japanese": "セラフィムコール",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-10-06T00:00:00+00:00",
+    "to": "1999-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 1999
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 1999
+      }
+    },
+    "string": "Oct 6, 1999 to Dec 22, 1999"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.22,
+  "scored_by": 2082,
+  "rank": 9108,
+  "popularity": 8058,
+  "members": 7306,
+  "favorites": 11,
+  "synopsis": "What's it like to feel like an average girl in everything.​.. except for your one special gift.​ Eleven young hearts with eleven dreams.​ Deep in their hearts,​ each girl has a secret dream of love and sadness.​ They meet together at Acropolis Tower to see if their dreams will come true.​ Imagine what happens when eleven average girls with eleven special talents join together to make the world a better place!\n\n(Source: Media Blasters)",
+  "background": "",
+  "season": "fall",
+  "year": 1999,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 164,
+      "type": "anime",
+      "name": "d-rights",
+      "url": "https://myanimelist.net/anime/producer/164/d-rights"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 1121,
+      "type": "anime",
+      "name": "Banpresto",
+      "url": "https://myanimelist.net/anime/producer/1121/Banpresto"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

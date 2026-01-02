@@ -1,0 +1,121 @@
+{
+  "mal_id": 59499,
+  "url": "https://myanimelist.net/anime/59499/Asatir_2__Mirai_no_Mukashi_Banashi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1717/144671.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1717/144671t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1717/144671l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1717/144671.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1717/144671t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1717/144671l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ndROyfA1ZzU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Asatir 2: Mirai no Mukashi Banashi"
+    },
+    {
+      "type": "Japanese",
+      "title": "アサティール2 未来の昔ばなし"
+    },
+    {
+      "type": "English",
+      "title": "Future Folktales 2"
+    }
+  ],
+  "title": "Asatir 2: Mirai no Mukashi Banashi",
+  "title_english": "Future Folktales 2",
+  "title_japanese": "アサティール2 未来の昔ばなし",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-11-03T00:00:00+00:00",
+    "to": "2025-02-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 11,
+        "year": 2024
+      },
+      "to": {
+        "day": 2,
+        "month": 2,
+        "year": 2025
+      }
+    },
+    "string": "Nov 3, 2024 to Feb 2, 2025"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG - Children",
+  "score": 6.44,
+  "scored_by": 207,
+  "rank": 7762,
+  "popularity": 14323,
+  "members": 1180,
+  "favorites": 3,
+  "synopsis": "Sequel to Asatir: Mirai no Mukashi Banashi.",
+  "background": "",
+  "season": "fall",
+  "year": 2024,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "07:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 07:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    },
+    {
+      "mal_id": 2283,
+      "type": "anime",
+      "name": "Manga Productions",
+      "url": "https://myanimelist.net/anime/producer/2283/Manga_Productions"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

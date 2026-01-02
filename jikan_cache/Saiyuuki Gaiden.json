@@ -1,0 +1,167 @@
+{
+  "mal_id": 9088,
+  "url": "https://myanimelist.net/anime/9088/Saiyuuki_Gaiden",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75818.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75818t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75818l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75818.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75818t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75818l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saiyuuki Gaiden"
+    },
+    {
+      "type": "Synonym",
+      "title": "Saiyuki Gaiden"
+    },
+    {
+      "type": "Japanese",
+      "title": "最遊記外伝"
+    }
+  ],
+  "title": "Saiyuuki Gaiden",
+  "title_english": null,
+  "title_japanese": "最遊記外伝",
+  "title_synonyms": [
+    "Saiyuki Gaiden"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-03-25T00:00:00+00:00",
+    "to": "2011-11-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 3,
+        "year": 2011
+      },
+      "to": {
+        "day": 25,
+        "month": 11,
+        "year": 2011
+      }
+    },
+    "string": "Mar 25, 2011 to Nov 25, 2011"
+  },
+  "duration": "29 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.76,
+  "scored_by": 4691,
+  "rank": 1186,
+  "popularity": 6084,
+  "members": 14561,
+  "favorites": 75,
+  "synopsis": "In their former lives, 500 years before Genjyo Sanzo and his crew of misfits began their journey west, they were gods, but being godly didn't make them act any more divine. When Goku flies into a murderous rage after seeing his best friend die, Heaven's had enough and wants him dead! But Konzen Douji, Field Marshal Tenpou, and General Kenren are willing to do anything to protect Goku, even if it means turning all of Heaven against them.\n\n(source: Sentai Filmworks)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 1488,
+      "type": "anime",
+      "name": "Hakuhodo DY Media Partners",
+      "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 521,
+      "type": "anime",
+      "name": "Anpro",
+      "url": "https://myanimelist.net/anime/producer/521/Anpro"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

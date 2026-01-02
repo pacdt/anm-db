@@ -1,0 +1,183 @@
+{
+  "mal_id": 37349,
+  "url": "https://myanimelist.net/anime/37349/Goblin_Slayer",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1719/95621.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1719/95621t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1719/95621.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1719/95621t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1719/95621l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/6sdxN30qNrw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Goblin Slayer"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゴブリンスレイヤー"
+    },
+    {
+      "type": "English",
+      "title": "Goblin Slayer"
+    }
+  ],
+  "title": "Goblin Slayer",
+  "title_english": "Goblin Slayer",
+  "title_japanese": "ゴブリンスレイヤー",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-07T00:00:00+00:00",
+    "to": "2018-12-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 30,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 7, 2018 to Dec 30, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.42,
+  "scored_by": 723181,
+  "rank": 2401,
+  "popularity": 134,
+  "members": 1216319,
+  "favorites": 7647,
+  "synopsis": "Goblins are known for their ferocity, cunning, and rapid reproduction, but their reputation as the lowliest of monsters causes their threat to be overlooked. Raiding rural civilizations to kidnap females of other species for breeding, these vile creatures are free to continue their onslaught as adventurers turn a blind eye in favor of more rewarding assignments with larger bounties.\n\nTo commemorate her first day as a Porcelain-ranked adventurer, the 15-year-old Priestess joins a band of young, enthusiastic rookies to investigate a tribe of goblins responsible for the disappearance of several village women. Unprepared and inexperienced, the group soon faces its inevitable demise from an ambush while exploring a cave. With no one else left standing, the terrified Priestess accepts her fate—until the Goblin Slayer unexpectedly appears to not only rescue her with little effort, but destroy the entire goblin nest. \n\nAs a holder of the prestigious Silver rank, the Goblin Slayer allows her to accompany him as he assists the Adventurer's Guild in all goblin-related matters. Together with the Priestess, High Elf, Dwarf, and Lizardman, the armored warrior will not rest until every single goblin in the frontier lands has been eradicated for good.\n\n[Written by MAL Rewrite]",
+  "background": "Goblin Slayer adapts the first two volumes of the original light novel series.",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Sony Pictures Entertainment",
+      "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+    },
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 621,
+      "type": "anime",
+      "name": "SoftBank Creative",
+      "url": "https://myanimelist.net/anime/producer/621/SoftBank_Creative"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1899,
+      "type": "anime",
+      "name": "Good Smile Film",
+      "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+    },
+    {
+      "mal_id": 1900,
+      "type": "anime",
+      "name": "Artist Management Office",
+      "url": "https://myanimelist.net/anime/producer/1900/Artist_Management_Office"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 314,
+      "type": "anime",
+      "name": "White Fox",
+      "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": []
+}

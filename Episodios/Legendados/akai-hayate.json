@@ -1,0 +1,158 @@
+{
+  "nome": "Akai Hayate",
+  "slug": "akai-hayate",
+  "imagem": "https://animefire.io/img/animes/akai-hayate.webp",
+  "episodios": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s3/mp4/akai-hayate/sd/1.mp4"
+    },
+    {
+      "numero": 2,
+      "url": "https://lightspeedst.net/s3/mp4/akai-hayate/sd/2.mp4"
+    },
+    {
+      "numero": 3,
+      "url": "https://lightspeedst.net/s3/mp4/akai-hayate/sd/3.mp4"
+    },
+    {
+      "numero": 4,
+      "url": "https://lightspeedst.net/s3/mp4/akai-hayate/sd/4.mp4"
+    }
+  ],
+  "metadata_completo": {
+    "mal_id": 4923,
+    "url": "https://myanimelist.net/anime/4923/Akai_Hayate",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1926/94933.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1926/94933t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1926/94933l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1926/94933.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1926/94933t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1926/94933l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Akai Hayate"
+      },
+      {
+        "type": "Japanese",
+        "title": "紅いハヤテ"
+      },
+      {
+        "type": "English",
+        "title": "Akai Hayate"
+      }
+    ],
+    "title": "Akai Hayate",
+    "title_english": "Akai Hayate",
+    "title_japanese": "紅いハヤテ",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "1991-05-21T00:00:00+00:00",
+      "to": "1991-11-21T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 21,
+          "month": 5,
+          "year": 1991
+        },
+        "to": {
+          "day": 21,
+          "month": 11,
+          "year": 1991
+        }
+      },
+      "string": "May 21, 1991 to Nov 21, 1991"
+    },
+    "duration": "27 min per ep",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.31,
+    "scored_by": 799,
+    "rank": 13289,
+    "popularity": 11321,
+    "members": 2779,
+    "favorites": 2,
+    "synopsis": "Japan is secretly controlled by a tyrannical group of ninjas called the Shinogara. Their finest assassin is a man named Hayate Kanuma, whose father leads the Shinogara. \n\nHayate, however, knows that the secret society's control over Japan is wrong. Sacrificing his own safety, Hayate kills his father. Now he's on the run, safe almost nowhere from his vengeful former comrades except perhaps for the one hiding place he decides upon: his sister. After possibly being fatally wounded, Hayate is able to transfer his soul into his sister's body, temporarily sharing it with her. His sister, Shiori, can awaken Hayate and call upon his ninja abilities when the Shinogara are close at hand but each time she does so, a little more of her true self is lost. This arrangement can't possibly go on forever, so how will Hayate finally defeat the Shinogara? \n\n(Source: Cammila Albertson)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 442,
+        "type": "anime",
+        "name": "Minami Machi Bugyousho",
+        "url": "https://myanimelist.net/anime/producer/442/Minami_Machi_Bugyousho"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 284,
+        "type": "anime",
+        "name": "Central Park Media",
+        "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Studio Pierrot",
+        "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      },
+      {
+        "mal_id": 31,
+        "type": "anime",
+        "name": "Super Power",
+        "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+      }
+    ],
+    "demographics": []
+  }
+}

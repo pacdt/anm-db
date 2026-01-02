@@ -1,0 +1,153 @@
+{
+  "mal_id": 398,
+  "url": "https://myanimelist.net/anime/398/Seikai_no_Senki_III",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/2755.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/2755t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/2755l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/2755.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/2755t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/2755l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Seikai no Senki III"
+    },
+    {
+      "type": "Synonym",
+      "title": "Battle Flag of the Stars III"
+    },
+    {
+      "type": "Japanese",
+      "title": "星界の戦旗 III"
+    },
+    {
+      "type": "English",
+      "title": "Banner of the Stars III"
+    }
+  ],
+  "title": "Seikai no Senki III",
+  "title_english": "Banner of the Stars III",
+  "title_japanese": "星界の戦旗 III",
+  "title_synonyms": [
+    "Battle Flag of the Stars III"
+  ],
+  "type": "OVA",
+  "source": "Light novel",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-08-06T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 8,
+        "year": 2005
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 6, 2005"
+  },
+  "duration": "37 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.61,
+  "scored_by": 9764,
+  "rank": 1609,
+  "popularity": 5519,
+  "members": 18884,
+  "favorites": 61,
+  "synopsis": "Jinto and Lafiel were riding on a light-armed transport ship \"Bokbrusue\" and navigating at the planar space of the Hyde System. This was for Jinto to govern the Hyde System, which returned to Empirial rule after the Union retreated, officially as an Earl. However, the government of Martin, Jinto`s motherland, resisted obstinately against the Empirial rule. On the other side, \"Daiichi Jyuurin Sentai\" (the First Devastation Fleet), formed with the new ship type \"Attack Vessel\", travelled to the Hyde System for drilling practices, but... \n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,194 @@
+{
+  "mal_id": 38268,
+  "url": "https://myanimelist.net/anime/38268/Hangyakusei_Million_Arthur_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1277/100464.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1277/100464t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/100464l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1277/100464.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1277/100464t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/100464l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hangyakusei Million Arthur 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "叛逆性ミリオンアーサー 第2シーズン"
+    },
+    {
+      "type": "English",
+      "title": "Operation Han-Gyaku-Sei Million Arthur 2nd Season"
+    },
+    {
+      "type": "German",
+      "title": "Million Arthur Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Million Arthur Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "Million Arthur Saison 2"
+    }
+  ],
+  "title": "Hangyakusei Million Arthur 2nd Season",
+  "title_english": "Operation Han-Gyaku-Sei Million Arthur 2nd Season",
+  "title_japanese": "叛逆性ミリオンアーサー 第2シーズン",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-04-04T00:00:00+00:00",
+    "to": "2019-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2019
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2019
+      }
+    },
+    "string": "Apr 4, 2019 to Jun 27, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.29,
+  "scored_by": 5172,
+  "rank": 8709,
+  "popularity": 5179,
+  "members": 22147,
+  "favorites": 19,
+  "synopsis": "Second season of Hangyakusei Million Arthur.",
+  "background": "Hangyakusei Million Arthur depicts a lighter comedic story than the original game it is based on. The Million Arthur smartphone franchise has accumulated over 40 million game downloads, and received several spin-off series.",
+  "season": "spring",
+  "year": 2019,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1358,
+      "type": "anime",
+      "name": "Fields",
+      "url": "https://myanimelist.net/anime/producer/1358/Fields"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    },
+    {
+      "mal_id": 1933,
+      "type": "anime",
+      "name": "Happinet",
+      "url": "https://myanimelist.net/anime/producer/1933/Happinet"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

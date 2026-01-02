@@ -1,0 +1,202 @@
+{
+  "mal_id": 2508,
+  "url": "https://myanimelist.net/anime/2508/Genshiken_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1958/94708.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/94708t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/94708l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1958/94708.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/94708t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/94708l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/iD6ufvvwi-A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Genshiken 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gendai Shikaku Bunka Kenkyuukai 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "げんしけん2"
+    },
+    {
+      "type": "English",
+      "title": "Genshiken 2"
+    },
+    {
+      "type": "German",
+      "title": "Genshiken Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Genshiken Nidaime"
+    },
+    {
+      "type": "French",
+      "title": "Genshiken Saison 2"
+    }
+  ],
+  "title": "Genshiken 2",
+  "title_english": "Genshiken 2",
+  "title_japanese": "げんしけん2",
+  "title_synonyms": [
+    "Gendai Shikaku Bunka Kenkyuukai 2"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-10-10T00:00:00+00:00",
+    "to": "2007-12-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 10,
+        "year": 2007
+      },
+      "to": {
+        "day": 26,
+        "month": 12,
+        "year": 2007
+      }
+    },
+    "string": "Oct 10, 2007 to Dec 26, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.74,
+  "scored_by": 46906,
+  "rank": 1243,
+  "popularity": 2529,
+  "members": 88074,
+  "favorites": 220,
+  "synopsis": "The Society for the Study of Modern Visual Culture, otherwise known as Genshiken, is now under the charge of a more confident Sasahara. Things have changed in between semesters, and the otaku club now has a new otaku-hating member named Ogiue. Sasahara's initial goal of starting a doujin circle and selling those fan-made magazines at the next Comic Festival becomes a reality, but reality is a cruel master... who apparently crossplays. Afterward, the club is abuzz with talk about Tanaka and Ohno's relationship, which takes a hesitant step forward.\n\n(Source: Media Blasters)",
+  "background": "",
+  "season": "fall",
+  "year": 2007,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 158,
+      "type": "anime",
+      "name": "Kids Station",
+      "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 455,
+      "type": "anime",
+      "name": "Palm Studio",
+      "url": "https://myanimelist.net/anime/producer/455/Palm_Studio"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Arms",
+      "url": "https://myanimelist.net/anime/producer/38/Arms"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

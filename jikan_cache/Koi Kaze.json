@@ -1,0 +1,155 @@
+{
+  "mal_id": 634,
+  "url": "https://myanimelist.net/anime/634/Koi_Kaze",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/61441.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/61441t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/61441l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/61441.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/61441t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/61441l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koi Kaze"
+    },
+    {
+      "type": "Synonym",
+      "title": "Koikaze"
+    },
+    {
+      "type": "Synonym",
+      "title": "Love Wind"
+    },
+    {
+      "type": "Japanese",
+      "title": "恋風"
+    }
+  ],
+  "title": "Koi Kaze",
+  "title_english": null,
+  "title_japanese": "恋風",
+  "title_synonyms": [
+    "Koikaze",
+    "Love Wind"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-04-02T00:00:00+00:00",
+    "to": "2004-06-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 18,
+        "month": 6,
+        "year": 2004
+      }
+    },
+    "string": "Apr 2, 2004 to Jun 18, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.98,
+  "scored_by": 31741,
+  "rank": 4665,
+  "popularity": 2509,
+  "members": 89548,
+  "favorites": 470,
+  "synopsis": "Saeki Koushirou works as a wedding planner, but his own love life is in shambles. His background makes it difficult for him to commit himself wholeheartedly to love. The child of a divorced couple, he lives with his father. He has a mother and a sister, but he has not seen them in years. After being dumped by his girlfriend, a chance encounter with a female high school student shakes Koushirou's calm and awakens new feelings in him—but he learns that the girl is in fact his sister, who will now be staying with his father and him. Yet, the feelings in Koushirou's heart...\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:12",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:12 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 160,
+      "type": "anime",
+      "name": "Rondo Robe",
+      "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 179,
+      "type": "anime",
+      "name": "A.C.G.T.",
+      "url": "https://myanimelist.net/anime/producer/179/ACGT"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

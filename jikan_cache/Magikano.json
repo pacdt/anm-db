@@ -1,0 +1,156 @@
+{
+  "mal_id": 576,
+  "url": "https://myanimelist.net/anime/576/Magikano",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/75539.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75539t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75539l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/75539.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75539t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75539l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Magikano"
+    },
+    {
+      "type": "Japanese",
+      "title": "マジカノ"
+    }
+  ],
+  "title": "Magikano",
+  "title_english": null,
+  "title_japanese": "マジカノ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-01-01T00:00:00+00:00",
+    "to": "2006-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2006
+      }
+    },
+    "string": "Jan 1, 2006 to Apr 1, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.3,
+  "scored_by": 16751,
+  "rank": 8635,
+  "popularity": 4120,
+  "members": 36985,
+  "favorites": 44,
+  "synopsis": "Ayumi Mamiya is a witch cursed to lose her powers and only one boy can break the spell. Haruo Yoshikawa thinks he is a normal boy but unknown to him his three sisters have magical powers and keep him protected and ignorant about the existence of magic. Now Ayumi must wake up Haruo's latent powers to save herself but his sisters will have none of that.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2006,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 122,
+      "type": "anime",
+      "name": "Tokyo Kids",
+      "url": "https://myanimelist.net/anime/producer/122/Tokyo_Kids"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "mal_id": 50021,
+  "url": "https://myanimelist.net/anime/50021/Dou_Shen_Ji",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1186/118588.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1186/118588t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1186/118588l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1186/118588.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1186/118588t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1186/118588l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KdIEOA0kyGk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dou Shen Ji"
+    },
+    {
+      "type": "Synonym",
+      "title": "Toushinki G's Frame"
+    },
+    {
+      "type": "Synonym",
+      "title": "闘神機ジーズフレーム"
+    },
+    {
+      "type": "Japanese",
+      "title": "斗神姬"
+    },
+    {
+      "type": "English",
+      "title": "Ancient Girls Frame"
+    }
+  ],
+  "title": "Dou Shen Ji",
+  "title_english": "Ancient Girls Frame",
+  "title_japanese": "斗神姬",
+  "title_synonyms": [
+    "Toushinki G's Frame",
+    "闘神機ジーズフレーム"
+  ],
+  "type": "ONA",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-11T00:00:00+00:00",
+    "to": "2021-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2021
+      }
+    },
+    "string": "Oct 11, 2021 to Dec 20, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.82,
+  "scored_by": 1011,
+  "rank": 11344,
+  "popularity": 9921,
+  "members": 4197,
+  "favorites": 6,
+  "synopsis": "At the end of the 21st century, the discovery of a new energy source called \"DG energy\" (short for \"divine grace energy\") has revolutionized Earth's economy and allowed humanity to colonize space. However, when the initial expedition reaches Pluto, they are attacked by a mysterious, giant life-form known as \"Nergal.\"\n\nThe Earth Alliance Army fights back by creating an \"AG Unit\" using ancient robot weapons known as the \"G's Frame\" which were excavated from archaeological sites all around the world. Girls with special qualities known as \"Ancient Girls\" can pilot these robots against the Nergal. However, the first AG Unit suffers heavy casualties in the Jupiter Trojan campaign, and the pilot of Unit 04, Minamiya Reiu, goes missing-in-action...\n\nYears later, Minamiya Reika, the younger sister of Reiu, enlists with the AG Unit to search for her sister and to protect the Earth from the Nergal. A story of friendship, ancient robot weapons, and battles to the death with the Nergal ensues.\n\n(Source: Crunchyroll News)",
+  "background": "The Japanese broadcast was scheduled to begin on October 12, 2021 on Tuesdays at 7:00 p.m. on Tokyo MX, followed by BS NTV.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 2447,
+      "type": "anime",
+      "name": "Youku",
+      "url": "https://myanimelist.net/anime/producer/2447/Youku"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1830,
+      "type": "anime",
+      "name": "Seven Stone Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1830/Seven_Stone_Entertainment"
+    },
+    {
+      "mal_id": 2304,
+      "type": "anime",
+      "name": "TrioPen Studio",
+      "url": "https://myanimelist.net/anime/producer/2304/TrioPen_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": []
+}

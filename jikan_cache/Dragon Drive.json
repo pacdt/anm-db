@@ -1,0 +1,172 @@
+{
+  "mal_id": 296,
+  "url": "https://myanimelist.net/anime/296/Dragon_Drive",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/2214.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/2214t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/2214l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/2214.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/2214t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/2214l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_ezKnF3XG84?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragon Drive"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴンドライブ"
+    },
+    {
+      "type": "English",
+      "title": "Dragon Drive"
+    }
+  ],
+  "title": "Dragon Drive",
+  "title_english": "Dragon Drive",
+  "title_japanese": "ドラゴンドライブ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 38,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-07-04T00:00:00+00:00",
+    "to": "2003-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2002
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2003
+      }
+    },
+    "string": "Jul 4, 2002 to Mar 27, 2003"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG - Children",
+  "score": 6.68,
+  "scored_by": 10217,
+  "rank": 6285,
+  "popularity": 4944,
+  "members": 24793,
+  "favorites": 56,
+  "synopsis": "If there's one word to describe Reiji Ozora, it would be \"quitter.\" He can never find the motivation to finish anything, and loses interest at the drop of a hat. This all changes when his best friend Maiko introduces him to the new game \"Dragon Drive.\"\n\nIn this virtual reality game, each player is assigned a dragon tailored to match their personality and strength. Reiji hopes for a big, strong, scary beast, but instead, he is stuck with Chibi, a cute, friendly-looking dragon smaller than he is. How disappointing—except it turns out that Chibi is the rarest dragon of them all!\n\nReiji finally discovers something he can remain interested in, and works hard to train both himself and his newfound friend. Soon this training will be put to use to save the world, for there are people who have dark aspirations for Dragon Drive!",
+  "background": "",
+  "season": "summer",
+  "year": 2002,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

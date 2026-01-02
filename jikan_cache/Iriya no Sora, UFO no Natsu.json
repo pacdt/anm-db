@@ -1,0 +1,127 @@
+{
+  "mal_id": 358,
+  "url": "https://myanimelist.net/anime/358/Iriya_no_Sora_UFO_no_Natsu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1108/94990.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/94990t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/94990l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1108/94990.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/94990t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/94990l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mOruWx1ZAeQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Iriya no Sora, UFO no Natsu"
+    },
+    {
+      "type": "Japanese",
+      "title": "イリヤの空、UFOの夏"
+    },
+    {
+      "type": "English",
+      "title": "Sky of Iriya, Summer of UFO"
+    }
+  ],
+  "title": "Iriya no Sora, UFO no Natsu",
+  "title_english": "Sky of Iriya, Summer of UFO",
+  "title_japanese": "イリヤの空、UFOの夏",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Light novel",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-02-25T00:00:00+00:00",
+    "to": "2005-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 2,
+        "year": 2005
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2005
+      }
+    },
+    "string": "Feb 25, 2005 to Jun 29, 2005"
+  },
+  "duration": "27 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.89,
+  "scored_by": 11518,
+  "rank": 5082,
+  "popularity": 4753,
+  "members": 27237,
+  "favorites": 71,
+  "synopsis": "Asaba Naoyuki is an ordinary high school student. As a member of his school's press club, he's just spent the summer camping outside the local military base, in hopes of seeing the UFOs that are secretly kept there, according to local legend. Returning to school, he meets a strange girl, Iriya Kana, and gradually comes to realize that she is more than merely strange - and that a dark secret lies beneath the world that he knows.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 787,
+      "type": "anime",
+      "name": "Happinet Pictures",
+      "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

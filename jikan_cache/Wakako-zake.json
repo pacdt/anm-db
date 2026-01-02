@@ -1,0 +1,146 @@
+{
+  "mal_id": 30437,
+  "url": "https://myanimelist.net/anime/30437/Wakako-zake",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/76018.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76018t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76018l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/76018.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76018t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76018l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1P9W49RBono?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wakako-zake"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wakako Sake"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワカコ酒"
+    },
+    {
+      "type": "English",
+      "title": "Wakakozake"
+    },
+    {
+      "type": "German",
+      "title": "Wakakozake"
+    },
+    {
+      "type": "Spanish",
+      "title": "Wakakozake"
+    },
+    {
+      "type": "French",
+      "title": "Wakakozake"
+    }
+  ],
+  "title": "Wakako-zake",
+  "title_english": "Wakakozake",
+  "title_japanese": "ワカコ酒",
+  "title_synonyms": [
+    "Wakako Sake"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-05T00:00:00+00:00",
+    "to": "2015-09-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 20,
+        "month": 9,
+        "year": 2015
+      }
+    },
+    "string": "Jul 5, 2015 to Sep 20, 2015"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.65,
+  "scored_by": 22779,
+  "rank": 6456,
+  "popularity": 3788,
+  "members": 43804,
+  "favorites": 142,
+  "synopsis": "Murasaki Wakako, who is 26 years old, loves going out alone to enjoy eating and drinking, especially when something unpleasant happens at work. This anime follows Wakako through many solitary outings, where she enjoys different combinations of food and drink!\n\n(Source: MangaHelpers, edited)",
+  "background": "",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:27",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:27 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1281,
+      "type": "anime",
+      "name": "Office DCI",
+      "url": "https://myanimelist.net/anime/producer/1281/Office_DCI"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 47,
+      "type": "anime",
+      "name": "Gourmet",
+      "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+    },
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

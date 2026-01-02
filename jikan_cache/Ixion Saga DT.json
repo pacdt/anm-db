@@ -1,0 +1,154 @@
+{
+  "mal_id": 14765,
+  "url": "https://myanimelist.net/anime/14765/Ixion_Saga_DT",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/42863.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/42863t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/42863l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/42863.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/42863t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/42863l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3rh3pMQCgUY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ixion Saga DT"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ixion Saga: Dimensional Transfer"
+    },
+    {
+      "type": "Japanese",
+      "title": "イクシオン サーガ DT"
+    },
+    {
+      "type": "German",
+      "title": "Ixion Saga: Dimensional Transfer"
+    },
+    {
+      "type": "Spanish",
+      "title": "Ixion Saga: Dimensional Transfer"
+    },
+    {
+      "type": "French",
+      "title": "Ixion Saga: Dimensional Transfer"
+    }
+  ],
+  "title": "Ixion Saga DT",
+  "title_english": null,
+  "title_japanese": "イクシオン サーガ DT",
+  "title_synonyms": [
+    "Ixion Saga: Dimensional Transfer"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-08T00:00:00+00:00",
+    "to": "2013-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2013
+      }
+    },
+    "string": "Oct 8, 2012 to Apr 1, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.12,
+  "scored_by": 48874,
+  "rank": 3947,
+  "popularity": 2060,
+  "members": 120571,
+  "favorites": 388,
+  "synopsis": "One day as Kon Hokaze is playing an MMORPG, he receives a request from a female character in the game. He thinks that he has lucked out and found a girlfriend online, but suddenly he finds himself transported into the world of Mira where he accidentally saves a young princess by landing on her attacker with his swivel chair. With no idea how he got there nor how to get back to his own world, Kon tags along with the princess as part of her honor guard while a militant faction of the princess's own country seeks to capture her before she can complete her arranged marriage.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": []
+}

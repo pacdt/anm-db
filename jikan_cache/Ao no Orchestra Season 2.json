@@ -1,0 +1,147 @@
+{
+  "mal_id": 56877,
+  "url": "https://myanimelist.net/anime/56877/Ao_no_Orchestra_Season_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1078/151796.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1078/151796t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1078/151796l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1078/151796.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1078/151796t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1078/151796l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/rJtAcgpJEwI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ao no Orchestra Season 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Blue Orchestra Season 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Blue Orchestra Season 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "青のオーケストラ Season2"
+    }
+  ],
+  "title": "Ao no Orchestra Season 2",
+  "title_english": null,
+  "title_japanese": "青のオーケストラ Season2",
+  "title_synonyms": [
+    "The Blue Orchestra Season 2",
+    "Blue Orchestra Season 2"
+  ],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 21,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2025-10-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 5, 2025 to ?"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.18,
+  "scored_by": 1158,
+  "rank": 3607,
+  "popularity": 6061,
+  "members": 14692,
+  "favorites": 31,
+  "synopsis": "Second season of Ao no Orchestra.",
+  "background": "",
+  "season": "fall",
+  "year": 2025,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 17:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Nippon Animation",
+      "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

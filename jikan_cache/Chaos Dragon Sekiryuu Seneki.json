@@ -1,0 +1,146 @@
+{
+  "mal_id": 30091,
+  "url": "https://myanimelist.net/anime/30091/Chaos_Dragon__Sekiryuu_Seneki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74375.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74375t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74375l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74375.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74375t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74375l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/eySLT6OE1FI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chaos Dragon: Sekiryuu Seneki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Red Dragon War"
+    },
+    {
+      "type": "Japanese",
+      "title": "ケイオスドラゴン 赤竜戦役"
+    },
+    {
+      "type": "English",
+      "title": "Chaos Dragon"
+    }
+  ],
+  "title": "Chaos Dragon: Sekiryuu Seneki",
+  "title_english": "Chaos Dragon",
+  "title_japanese": "ケイオスドラゴン 赤竜戦役",
+  "title_synonyms": [
+    "Red Dragon War"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-02T00:00:00+00:00",
+    "to": "2015-09-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 17,
+        "month": 9,
+        "year": 2015
+      }
+    },
+    "string": "Jul 2, 2015 to Sep 17, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.61,
+  "scored_by": 45157,
+  "rank": 12334,
+  "popularity": 2127,
+  "members": 115444,
+  "favorites": 134,
+  "synopsis": "In 3015, the year of Huanli, two countries, Donatia and Kouran, are embroiled in a war of supremacy that is tearing the world around them apart. The small island Nil Kamui has suffered exceptionally from the war, with lands conquered in the name of each kingdom and stolen away from the people. To make matters worse, their deity, the Red Dragon, has gone mad, rampaging about Nil Kamui burning villages and killing people indiscriminately.\n\nIbuki, a descendant of Nil Kamui's royal family, resides at an orphanage and refuses to take on the role of king. Abhorring conflict, Ibuki desires a peaceful resolution, however the chaotic world will not allow for such pacifism when it is being torn asunder by war. Despite his reluctance, Ibuki is drawn deep into this conflict. Can he rise to the occasion and save his country?",
+  "background": "Chaos Dragon is based on the role-playing fiction project Red Dragon, a story which was created by five notable character designers: Gen Urobuchi (Fate/Zero), Kinoko Nasu (Kara no Kyoukai), Iduki Kougyoku (Mimizuku to Yoru no Ou), Ryohgo Narita (Durarara!!), and Simadoriru (member of the Stripe Pattern doujin circle). The results of their tabletop role-playing game sessions over six days created material for a seven-volume light novel series.",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    },
+    {
+      "mal_id": 957,
+      "type": "anime",
+      "name": "Connect",
+      "url": "https://myanimelist.net/anime/producer/957/Connect"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

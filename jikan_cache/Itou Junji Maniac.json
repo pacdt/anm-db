@@ -1,0 +1,165 @@
+{
+  "mal_id": 52031,
+  "url": "https://myanimelist.net/anime/52031/Itou_Junji__Maniac",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1956/132879.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1956/132879t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1956/132879l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1956/132879.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1956/132879t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1956/132879l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HxFKRyqvY_Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Itou Junji: Maniac"
+    },
+    {
+      "type": "Japanese",
+      "title": "伊藤潤二『マニアック』"
+    },
+    {
+      "type": "English",
+      "title": "Junji Ito Maniac: Japanese Tales of the Macabre"
+    }
+  ],
+  "title": "Itou Junji: Maniac",
+  "title_english": "Junji Ito Maniac: Japanese Tales of the Macabre",
+  "title_japanese": "伊藤潤二『マニアック』",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-19T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 19,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 19, 2023"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.67,
+  "scored_by": 31319,
+  "rank": 6322,
+  "popularity": 3018,
+  "members": 65455,
+  "favorites": 270,
+  "synopsis": "The anime series will adapt 20 stories from a number of Itou's manga for the first time, including Tomie, Souichi, and Kubitsuri Kikyuu (The Hanging Balloons).\n\n(Source: MAL News)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 1318,
+      "type": "anime",
+      "name": "Asahi Shimbun",
+      "url": "https://myanimelist.net/anime/producer/1318/Asahi_Shimbun"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    },
+    {
+      "mal_id": 1557,
+      "type": "anime",
+      "name": "Pony Canyon Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprises"
+    },
+    {
+      "mal_id": 2699,
+      "type": "anime",
+      "name": "Asahi Shinbun Shuppan",
+      "url": "https://myanimelist.net/anime/producer/2699/Asahi_Shinbun_Shuppan"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

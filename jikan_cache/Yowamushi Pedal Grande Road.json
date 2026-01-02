@@ -1,0 +1,165 @@
+{
+  "mal_id": 24277,
+  "url": "https://myanimelist.net/anime/24277/Yowamushi_Pedal__Grande_Road",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/67799.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67799t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67799l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/67799.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67799t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67799l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_PVuAbhIJa8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yowamushi Pedal: Grande Road"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yowamushi Pedal 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yowapeda 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "弱虫ペダル GRANDE ROAD"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yowamushi Pedal Grande Road"
+    }
+  ],
+  "title": "Yowamushi Pedal: Grande Road",
+  "title_english": null,
+  "title_japanese": "弱虫ペダル GRANDE ROAD",
+  "title_synonyms": [
+    "Yowamushi Pedal 2nd Season",
+    "Yowapeda 2nd Season"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-07T00:00:00+00:00",
+    "to": "2015-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2015
+      }
+    },
+    "string": "Oct 7, 2014 to Mar 31, 2015"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.04,
+  "scored_by": 83123,
+  "rank": 655,
+  "popularity": 1736,
+  "members": 149317,
+  "favorites": 512,
+  "synopsis": "Second season of the Yowamushi Pedal series.",
+  "background": "",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

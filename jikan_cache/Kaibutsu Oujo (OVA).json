@@ -1,0 +1,145 @@
+{
+  "mal_id": 9159,
+  "url": "https://myanimelist.net/anime/9159/Kaibutsu_Oujo_OVA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/27643.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/27643t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/27643l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/27643.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/27643t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/27643l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_8k2MZ1xB9M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaibutsu Oujo (OVA)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaibutsu Ohjo"
+    },
+    {
+      "type": "Synonym",
+      "title": "Monster Princess"
+    },
+    {
+      "type": "Synonym",
+      "title": "Princess Resurrection (OVA)"
+    },
+    {
+      "type": "Japanese",
+      "title": "怪物王女"
+    }
+  ],
+  "title": "Kaibutsu Oujo (OVA)",
+  "title_english": null,
+  "title_japanese": "怪物王女",
+  "title_synonyms": [
+    "Kaibutsu Ohjo",
+    "Monster Princess",
+    "Princess Resurrection (OVA)"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-12-09T00:00:00+00:00",
+    "to": "2011-10-07T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 12,
+        "year": 2010
+      },
+      "to": {
+        "day": 7,
+        "month": 10,
+        "year": 2011
+      }
+    },
+    "string": "Dec 9, 2010 to Oct 7, 2011"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.01,
+  "scored_by": 5495,
+  "rank": 4536,
+  "popularity": 6239,
+  "members": 13712,
+  "favorites": 14,
+  "synopsis": "Based on a manga by Mitsunaga Yasunori, serialised in Monthly Shounen Sirius.\n\nHiyorimi Hiro moves to a new city to live with his older sister, but dies before he can find her. He then awakens to a new life as a servant of a Princess of the Monster Realm, who just happens to be employing his sister. Monsters soon appear to attack or pester the princess since she is in line for the royal throne, and Hiro must protect her with his life (and repeated deaths).\n\n(Soure: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

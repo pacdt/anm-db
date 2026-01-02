@@ -1,0 +1,141 @@
+{
+  "mal_id": 30651,
+  "url": "https://myanimelist.net/anime/30651/Itoshi_no_Muco",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/76473.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/76473t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/76473l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/76473.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/76473t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/76473l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/0JTvjYLjUwQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Itoshi no Muco"
+    },
+    {
+      "type": "Synonym",
+      "title": "Lovely Muco!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Itoshi no Muuco"
+    },
+    {
+      "type": "Japanese",
+      "title": "いとしのムーコ"
+    },
+    {
+      "type": "English",
+      "title": "Lovely Muuuuuuuco!"
+    },
+    {
+      "type": "German",
+      "title": "Lovely Muuuuuuco!"
+    },
+    {
+      "type": "Spanish",
+      "title": "Lovely Muuuuuuuco!"
+    }
+  ],
+  "title": "Itoshi no Muco",
+  "title_english": "Lovely Muuuuuuuco!",
+  "title_japanese": "いとしのムーコ",
+  "title_synonyms": [
+    "Lovely Muco!",
+    "Itoshi no Muuco"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-03T00:00:00+00:00",
+    "to": "2016-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2016
+      }
+    },
+    "string": "Oct 3, 2015 to Mar 26, 2016"
+  },
+  "duration": "12 min per ep",
+  "rating": "PG - Children",
+  "score": 6.75,
+  "scored_by": 3147,
+  "rank": 5837,
+  "popularity": 7896,
+  "members": 7666,
+  "favorites": 26,
+  "synopsis": "Muco is the sweetest, most lovable dog in the neighborhood. This sparkly-nosed Shiba Inu lives with her owner and best friend, Komatsu, a glassblower who lives in the mountains. These two companions have wonderful adventures, from going on walks to playing in the pond in front of their house. No matter where they go or what they do, Muco will always love her best friend Komatsu!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "09:14",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 09:14 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 276,
+      "type": "anime",
+      "name": "DLE",
+      "url": "https://myanimelist.net/anime/producer/276/DLE"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 71,
+      "type": "anime",
+      "name": "Pets",
+      "url": "https://myanimelist.net/anime/genre/71/Pets"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

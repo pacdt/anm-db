@@ -1,0 +1,131 @@
+{
+  "mal_id": 60410,
+  "url": "https://myanimelist.net/anime/60410/Yami_Shibai_14",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1811/146726.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1811/146726t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1811/146726l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1811/146726.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1811/146726t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1811/146726l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai 14"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories Fourteenth Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories 14"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居 十四期"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai 14"
+    }
+  ],
+  "title": "Yami Shibai 14",
+  "title_english": "Theatre of Darkness: Yamishibai 14",
+  "title_japanese": "闇芝居 十四期",
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories Fourteenth Season",
+    "Yamishibai: Japanese Ghost Stories 14"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-01-06T00:00:00+00:00",
+    "to": "2025-04-07T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2025
+      },
+      "to": {
+        "day": 7,
+        "month": 4,
+        "year": 2025
+      }
+    },
+    "string": "Jan 6, 2025 to Apr 7, 2025"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.81,
+  "scored_by": 1565,
+  "rank": 11410,
+  "popularity": 9752,
+  "members": 4443,
+  "favorites": 15,
+  "synopsis": "Fourteenth season of Yami Shibai.",
+  "background": "",
+  "season": "winter",
+  "year": 2025,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "02:50",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 02:50 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

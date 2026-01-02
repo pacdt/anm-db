@@ -1,0 +1,172 @@
+{
+  "mal_id": 16397,
+  "url": "https://myanimelist.net/anime/16397/Photokano",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/49199.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/49199t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/49199l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/49199.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/49199t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/49199l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/O-p4V0dchlY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Photokano"
+    },
+    {
+      "type": "Synonym",
+      "title": "Foto Kano"
+    },
+    {
+      "type": "Synonym",
+      "title": "Photograph Girlfriend"
+    },
+    {
+      "type": "Japanese",
+      "title": "フォトカノ"
+    },
+    {
+      "type": "English",
+      "title": "Photo Kano"
+    },
+    {
+      "type": "German",
+      "title": "Photo Kano"
+    },
+    {
+      "type": "Spanish",
+      "title": "Photo Kano"
+    }
+  ],
+  "title": "Photokano",
+  "title_english": "Photo Kano",
+  "title_japanese": "フォトカノ",
+  "title_synonyms": [
+    "Foto Kano",
+    "Photograph Girlfriend"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-04-05T00:00:00+00:00",
+    "to": "2013-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2013
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2013
+      }
+    },
+    "string": "Apr 5, 2013 to Jun 28, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.18,
+  "scored_by": 49083,
+  "rank": 9362,
+  "popularity": 1887,
+  "members": 135511,
+  "favorites": 185,
+  "synopsis": "High school student Kazuya Maeda finds his daily life dull and meaningless. This changes right before the end of his summer break when he receives an old camera from his father. Initially hesitant, Kazuya decides to experiment with photography and starts looking for potential models for his pictures.\n\nKazuya is approached by various girls willing to model for him: Haruka Niimi, his popular childhood friend; Nonoka Masaki, the athletic ace pitcher of the softball club; Aki Muroto, the Student Council president; Hikari Sanehara, a fellow photography enthusiast; Tomoe Misumi, his timid classmate; Rina Yunoki, the only member of the Cooking Research Society; and Mai Sakura, a friend of his sister.\n\nAs he pursues his new hobby, Kazuya feels like every day becomes more vibrant and meaningful. However, his continued interactions with the girls lead him to wonder if they want to be involved in other areas of his life besides his photography.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2013,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 392,
+      "type": "anime",
+      "name": "Enterbrain",
+      "url": "https://myanimelist.net/anime/producer/392/Enterbrain"
+    },
+    {
+      "mal_id": 693,
+      "type": "anime",
+      "name": "BS-TBS",
+      "url": "https://myanimelist.net/anime/producer/693/BS-TBS"
+    },
+    {
+      "mal_id": 1581,
+      "type": "anime",
+      "name": "RAY",
+      "url": "https://myanimelist.net/anime/producer/1581/RAY"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

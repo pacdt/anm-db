@@ -1,0 +1,118 @@
+{
+  "mal_id": 2093,
+  "url": "https://myanimelist.net/anime/2093/Pops",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/12814.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/12814t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/12814l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/12814.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/12814t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/12814l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pops"
+    },
+    {
+      "type": "Japanese",
+      "title": "POPS"
+    }
+  ],
+  "title": "Pops",
+  "title_english": null,
+  "title_japanese": "POPS",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1993-06-25T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 6,
+        "year": 1993
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 25, 1993"
+  },
+  "duration": "31 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.11,
+  "scored_by": 672,
+  "rank": 13733,
+  "popularity": 12777,
+  "members": 1810,
+  "favorites": 1,
+  "synopsis": "Harada Kusuko is a high school girl with a secret crush on the class playboy, Mishima Takeshi. After breaking up with his most recent girlfriend, Mishima asks Kusuko to be his date for the class trip to Kyoto. She's over the moon, but in fact, Mishima is hung up on Shouko, his middle school teacher. Despite the age gap (and general inappropriateness of the relationship), Mishima still sees Shouko, whose marriage is disintegrating. His friend and loyal wingman, Kotaro, openly disapproves of this connection. As the emotional tensions mount, Mishima becomes involved in fights with other boys, and eventually, he's expelled from school. Feeling like he's been a complete jerk, Mishima breaks up with Kusuko and drops out of her life. Will true love find a way?\n\n(Source: Orphan Fansubs)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

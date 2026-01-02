@@ -1,0 +1,160 @@
+{
+  "mal_id": 18179,
+  "url": "https://myanimelist.net/anime/18179/Yowamushi_Pedal",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/53211.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/53211t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/53211l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/53211.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/53211t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/53211l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/tzkiTvJWKtg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yowamushi Pedal"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yowapeda"
+    },
+    {
+      "type": "Japanese",
+      "title": "弱虫ペダル"
+    },
+    {
+      "type": "English",
+      "title": "Yowamushi Pedal"
+    }
+  ],
+  "title": "Yowamushi Pedal",
+  "title_english": "Yowamushi Pedal",
+  "title_japanese": "弱虫ペダル",
+  "title_synonyms": [
+    "Yowapeda"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 38,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-10-08T00:00:00+00:00",
+    "to": "2014-07-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2013
+      },
+      "to": {
+        "day": 1,
+        "month": 7,
+        "year": 2014
+      }
+    },
+    "string": "Oct 8, 2013 to Jul 1, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.92,
+  "scored_by": 121511,
+  "rank": 836,
+  "popularity": 1122,
+  "members": 245456,
+  "favorites": 2317,
+  "synopsis": "Sakamichi Onoda is a cheerful otaku looking to join his new school's anime club, eager to finally make some friends. Unfortunately, the club has been disbanded and he takes it upon himself to revive it by finding students who are willing to join. Without much luck, Onoda decides to make a round trip to Akihabara on his old, bulky city bicycle, a weekly 90-kilometer ride he has been completing since fourth grade.\n \nThis is when he meets fellow first year student, Shunsuke Imaizumi, a determined cyclist who is using the school's steep incline for practice. Surprised by Onoda's ability to climb the hill with his specific type of bicycle, Imaizumi challenges him to a race, with the proposition of joining the anime club should Onoda win. And thus begins the young boy's first foray into the world of high school bicycle racing!\n\n[Written by MAL Rewrite]",
+  "background": "Episode 1 was previewed at a screening in Tokyo on September 28, 2013. Regular broadcasting began on October 8, 2013.",
+  "season": "fall",
+  "year": 2013,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

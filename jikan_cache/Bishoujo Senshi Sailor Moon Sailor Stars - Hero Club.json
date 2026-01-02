@@ -1,0 +1,143 @@
+{
+  "mal_id": 13931,
+  "url": "https://myanimelist.net/anime/13931/Bishoujo_Senshi_Sailor_Moon__Sailor_Stars_-_Hero_Club",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/69247.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/69247t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/69247l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/69247.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/69247t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/69247l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club"
+    },
+    {
+      "type": "Japanese",
+      "title": "美少女戦士セーラームーン セーラースターズ ヒーロークラブ"
+    }
+  ],
+  "title": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+  "title_english": null,
+  "title_japanese": "美少女戦士セーラームーン セーラースターズ ヒーロークラブ",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-12-13T00:00:00+00:00",
+    "to": "1997-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 12,
+        "year": 1996
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 1997
+      }
+    },
+    "string": "Dec 13, 1996 to Jun 21, 1997"
+  },
+  "duration": "30 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.29,
+  "scored_by": 3638,
+  "rank": 2979,
+  "popularity": 6697,
+  "members": 11600,
+  "favorites": 10,
+  "synopsis": "Compilation of Sailor Stars with added narration.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

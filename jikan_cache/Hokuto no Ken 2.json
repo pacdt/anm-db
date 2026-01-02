@@ -1,0 +1,163 @@
+{
+  "mal_id": 1356,
+  "url": "https://myanimelist.net/anime/1356/Hokuto_no_Ken_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1912/106020.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1912/106020t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1912/106020l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1912/106020.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1912/106020t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1912/106020l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hokuto no Ken 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "HNK II"
+    },
+    {
+      "type": "Japanese",
+      "title": "北斗の拳2"
+    },
+    {
+      "type": "English",
+      "title": "Fist of the North Star 2"
+    },
+    {
+      "type": "French",
+      "title": "KEN 2 Fist of the North Star"
+    }
+  ],
+  "title": "Hokuto no Ken 2",
+  "title_english": "Fist of the North Star 2",
+  "title_japanese": "北斗の拳2",
+  "title_synonyms": [
+    "HNK II"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 43,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1987-03-12T00:00:00+00:00",
+    "to": "1988-02-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 3,
+        "year": 1987
+      },
+      "to": {
+        "day": 18,
+        "month": 2,
+        "year": 1988
+      }
+    },
+    "string": "Mar 12, 1987 to Feb 18, 1988"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.57,
+  "scored_by": 14902,
+  "rank": 1793,
+  "popularity": 4274,
+  "members": 34417,
+  "favorites": 159,
+  "synopsis": "In the second series after Raoh has been defeated by Kenshiro a new rival appears. The Gentou Kouken warriors. Falco the successor of the Gentou Kouken takes orders from an evil ruler by the name of Jacko. He claims to be the man chosen by the Tentei and issues orders to his subordinates to capture anyone living in order to build up his Imperial Capital. Kenshiro once again rises out of the shadows and puts an end to his tyrannical ways. Amidst the mayhem Lynn gets captured and gets taken to the land of the Shura where only ruthless fighters exist. Now Kenshiro must pursue the captor and defeat the 3 Rasho of the land in order to escape with his life and with Lynn.",
+  "background": "Hokuto no Ken 2 covers chapters 137 to 210 of the manga of the same name.",
+  "season": "spring",
+  "year": 1987,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 19:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

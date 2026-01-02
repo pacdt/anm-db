@@ -1,0 +1,146 @@
+{
+  "mal_id": 60579,
+  "url": "https://myanimelist.net/anime/60579/Jian_Wang_3__Shen_Jianxin_de_365_Tian",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1125/147071.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/147071t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/147071l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1125/147071.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/147071t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/147071l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/9pdl6PVeyy8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jian Wang 3: Shen Jianxin de 365 Tian"
+    },
+    {
+      "type": "Synonym",
+      "title": "JX3: Shen Jianxin's 365th Day"
+    },
+    {
+      "type": "Japanese",
+      "title": "剑网3·沈剑心的365天"
+    },
+    {
+      "type": "English",
+      "title": "The Man From Dao Xiang Cun"
+    }
+  ],
+  "title": "Jian Wang 3: Shen Jianxin de 365 Tian",
+  "title_english": "The Man From Dao Xiang Cun",
+  "title_japanese": "剑网3·沈剑心的365天",
+  "title_synonyms": [
+    "JX3: Shen Jianxin's 365th Day"
+  ],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 35,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2025-11-08T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 11,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 8, 2025 to ?"
+  },
+  "duration": "5 min per ep",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": 17508,
+  "popularity": 20466,
+  "members": 325,
+  "favorites": 0,
+  "synopsis": "After Shen Jianxin returns to Daoxiang Village again, strange tales, unsolved cases, and outrageous inventions constantly appear... He and his partners embark on a new adventure.\n\n(Source: Bilibili)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2462,
+      "type": "anime",
+      "name": "Seasun Pictures",
+      "url": "https://myanimelist.net/anime/producer/2462/Seasun_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": []
+}

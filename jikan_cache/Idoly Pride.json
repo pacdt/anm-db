@@ -1,0 +1,153 @@
+{
+  "mal_id": 40842,
+  "url": "https://myanimelist.net/anime/40842/Idoly_Pride",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1025/111962.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1025/111962t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1025/111962l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1025/111962.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1025/111962t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1025/111962l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/TzvYKewUXSc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Idoly Pride"
+    },
+    {
+      "type": "Japanese",
+      "title": "IDOLY PRIDE"
+    },
+    {
+      "type": "English",
+      "title": "Idoly Pride"
+    }
+  ],
+  "title": "Idoly Pride",
+  "title_english": "Idoly Pride",
+  "title_japanese": "IDOLY PRIDE",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Mixed media",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-10T00:00:00+00:00",
+    "to": "2021-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2021
+      }
+    },
+    "string": "Jan 10, 2021 to Mar 28, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.4,
+  "scored_by": 20476,
+  "rank": 2493,
+  "popularity": 2845,
+  "members": 72948,
+  "favorites": 566,
+  "synopsis": "The VENUS Program is an idol scoring system that is entirely impartial, using AI and data to rank candidates based on an array of factors. To determine the rising stars of the idol industry, the annual VENUS Grand Prix is held utilizing these algorithms. Among all the idols that have participated, none have been as outstanding as Mana Nagase. However, on the day of the tournament's finals, a tragic accident suddenly ends her career.\n\nKouhei Makino, who previously worked as Mana's manager, continues his career at Hoshimi Productions years after her death. Wanting to build a new team of idols, he accepts interviews from various girls. Unexpectedly, one of the interviewees is Kotono Nagase, Mana's younger sister, who is striving to carry on her sister's legacy under the tutelage of her former advisor. Also auditioning is Sakura Kawasaki, whose voice sounds astoundingly similar to that of Mana.\n\nBoth Kotono and Sakura pass the evaluations, joining a group of eight other aspiring young girls. Living in a shared dormitory, the 10 members work together to learn more about what it means to harmonize as a team. United by an ambitious endeavor, the girls compete their way to the top as they traverse through the unforgiving world of idols.\n\n[Written by MAL Rewrite]",
+  "background": "Idoly Pride is an anime adaptation that is a part of the multimedia project of the same name created in collaboration by CyberAgent subsidiaries QualiArts, Straight Edge, and Music Ray'n.",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 1289,
+      "type": "anime",
+      "name": "F.M.F",
+      "url": "https://myanimelist.net/anime/producer/1289/FMF"
+    },
+    {
+      "mal_id": 1422,
+      "type": "anime",
+      "name": "CyberAgent",
+      "url": "https://myanimelist.net/anime/producer/1422/CyberAgent"
+    },
+    {
+      "mal_id": 2165,
+      "type": "anime",
+      "name": "Wicky.Records",
+      "url": "https://myanimelist.net/anime/producer/2165/WickyRecords"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 456,
+      "type": "anime",
+      "name": "Lerche",
+      "url": "https://myanimelist.net/anime/producer/456/Lerche"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

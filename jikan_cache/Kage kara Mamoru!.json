@@ -1,0 +1,146 @@
+{
+  "mal_id": 590,
+  "url": "https://myanimelist.net/anime/590/Kage_kara_Mamoru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1916/142784.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/142784t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/142784l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1916/142784.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1916/142784t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1916/142784l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kage kara Mamoru!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Protect from the Shadows!"
+    },
+    {
+      "type": "Japanese",
+      "title": "陰からマモル！"
+    },
+    {
+      "type": "English",
+      "title": "Guardian Ninja Mamoru"
+    }
+  ],
+  "title": "Kage kara Mamoru!",
+  "title_english": "Guardian Ninja Mamoru",
+  "title_japanese": "陰からマモル！",
+  "title_synonyms": [
+    "Protect from the Shadows!"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-01-08T00:00:00+00:00",
+    "to": "2006-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2006
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Jan 8, 2006 to Mar 26, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.56,
+  "scored_by": 12364,
+  "rank": 7026,
+  "popularity": 4694,
+  "members": 28028,
+  "favorites": 28,
+  "synopsis": "Kagemori Mamoru is a dowdy boy whose hair is disheveled and who wears thick glasses, but he is actually the son of a ninja family. They have protected their neighbors, the Konnyaku family, secretly for 400 years. Mamoru has personally protected their daughter, Konnyaku Yuuna, since they were in kindergarten. When Yuuna is in trouble, Mamoru puts on ninja suit and turns into a competent ninja to help her.",
+  "background": "",
+  "season": "winter",
+  "year": 2006,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:50",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 02:50 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 210,
+      "type": "anime",
+      "name": "Studio Tulip",
+      "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

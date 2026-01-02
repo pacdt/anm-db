@@ -1,0 +1,164 @@
+{
+  "mal_id": 40906,
+  "url": "https://myanimelist.net/anime/40906/Dragon_Quest__Dai_no_Daibouken_2020",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1499/109126.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/109126t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/109126l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1499/109126.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/109126t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/109126l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/IoaICsU-8xA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragon Quest: Dai no Daibouken (2020)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dragon Quest: Dai's Great Adventure"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴンクエスト ダイの大冒険"
+    },
+    {
+      "type": "English",
+      "title": "Dragon Quest: The Adventure of Dai"
+    },
+    {
+      "type": "German",
+      "title": "Dragon Quest: The Adventure of Dai"
+    },
+    {
+      "type": "Spanish",
+      "title": "Dragon Quest: La Aventura de Dai"
+    },
+    {
+      "type": "French",
+      "title": "Dragon Quest: The Adventure of Dai"
+    }
+  ],
+  "title": "Dragon Quest: Dai no Daibouken (2020)",
+  "title_english": "Dragon Quest: The Adventure of Dai",
+  "title_japanese": "ドラゴンクエスト ダイの大冒険",
+  "title_synonyms": [
+    "Dragon Quest: Dai's Great Adventure"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 100,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-10-03T00:00:00+00:00",
+    "to": "2022-10-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2020
+      },
+      "to": {
+        "day": 22,
+        "month": 10,
+        "year": 2022
+      }
+    },
+    "string": "Oct 3, 2020 to Oct 22, 2022"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.72,
+  "scored_by": 26816,
+  "rank": 1310,
+  "popularity": 2694,
+  "members": 79754,
+  "favorites": 660,
+  "synopsis": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace.\n\nSeveral years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.\n\n(Source: MU, edited)",
+  "background": "",
+  "season": "fall",
+  "year": 2020,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "09:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 09:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

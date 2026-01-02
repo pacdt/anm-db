@@ -1,0 +1,142 @@
+{
+  "mal_id": 40323,
+  "url": "https://myanimelist.net/anime/40323/Gintama__Monster_Strike-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1806/124660.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/124660t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/124660l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1806/124660.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/124660t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/124660l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gintama: Monster Strike-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gintama x Monster Strike"
+    },
+    {
+      "type": "Japanese",
+      "title": "銀魂 ～モンスターストライク編～"
+    }
+  ],
+  "title": "Gintama: Monster Strike-hen",
+  "title_english": null,
+  "title_japanese": "銀魂 ～モンスターストライク編～",
+  "title_synonyms": [
+    "Gintama x Monster Strike"
+  ],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-08-29T00:00:00+00:00",
+    "to": "2019-09-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 8,
+        "year": 2019
+      },
+      "to": {
+        "day": 4,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Aug 29, 2019 to Sep 4, 2019"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.5,
+  "scored_by": 5833,
+  "rank": 2053,
+  "popularity": 5686,
+  "members": 17406,
+  "favorites": 22,
+  "synopsis": "Collaboration anime between Gintama and Monster Strike.",
+  "background": "To celebrate collaboration with XFLAG, the staff behind the Gintama anime have reunited at Bandai Namco Pictures for a 10 minute special.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    },
+    {
+      "mal_id": 1572,
+      "type": "anime",
+      "name": "XFLAG",
+      "url": "https://myanimelist.net/anime/producer/1572/XFLAG"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": []
+}

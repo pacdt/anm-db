@@ -1,0 +1,159 @@
+{
+  "mal_id": 32038,
+  "url": "https://myanimelist.net/anime/32038/Show_By_Rock_",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/80734.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80734t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80734l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/80734.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80734t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80734l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3tPiLCp6tSM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Show By Rock!! #"
+    },
+    {
+      "type": "Japanese",
+      "title": "SHOW BY ROCK!! ＃"
+    },
+    {
+      "type": "English",
+      "title": "Show By Rock!! 2"
+    }
+  ],
+  "title": "Show By Rock!! #",
+  "title_english": "Show By Rock!! 2",
+  "title_japanese": "SHOW BY ROCK!! ＃",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-02T00:00:00+00:00",
+    "to": "2016-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 2, 2016 to Dec 18, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.06,
+  "scored_by": 12134,
+  "rank": 4273,
+  "popularity": 4312,
+  "members": 33852,
+  "favorites": 77,
+  "synopsis": "Metropolis of music, MIDICITY. A kitty girl wearing gothic lolita clothing named Cyan is scouted by Maple Arisugawa, the president of a music agency. From there, she meets Chuchu (a pun off of the sound that rabbits make) the honor student rabbit girl, a net geek dog girl named Retoree (from \"Retriever\"), and an alien sheep (?) girl named Moa. Together, they form the band named \"Plasmagica,\" and aim for the top of the world.\n\nHowever, the path there is long and tough, and keeping in high spirits is important. By battling against other strange bands, Plasmagica slowly grows toward a top-grade band. In the end, they'll be a band that becomes the driving force of MIDICITY's music industry... Maybe?\n\nGonna be a music millionaire!\n\n(Source: Sanrio)",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 150,
+      "type": "anime",
+      "name": "Sanrio",
+      "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+    },
+    {
+      "mal_id": 1253,
+      "type": "anime",
+      "name": "Studio GOONEYS",
+      "url": "https://myanimelist.net/anime/producer/1253/Studio_GOONEYS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

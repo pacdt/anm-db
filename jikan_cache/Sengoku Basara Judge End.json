@@ -1,0 +1,165 @@
+{
+  "mal_id": 23201,
+  "url": "https://myanimelist.net/anime/23201/Sengoku_Basara__Judge_End",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/62511.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/62511t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/62511l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/62511.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/62511t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/62511l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2w4QipPpDcg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sengoku Basara: Judge End"
+    },
+    {
+      "type": "Japanese",
+      "title": "戦国BASARA Judge End"
+    },
+    {
+      "type": "English",
+      "title": "Sengoku BASARA: End of Judgement"
+    },
+    {
+      "type": "German",
+      "title": "Sengoku BASARA: End of Judgement"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sengoku BASARA: End of Judgement"
+    },
+    {
+      "type": "French",
+      "title": "Sengoku BASARA: End of Judgement"
+    }
+  ],
+  "title": "Sengoku Basara: Judge End",
+  "title_english": "Sengoku BASARA: End of Judgement",
+  "title_japanese": "戦国BASARA Judge End",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-07-06T00:00:00+00:00",
+    "to": "2014-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2014
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2014
+      }
+    },
+    "string": "Jul 6, 2014 to Sep 28, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.84,
+  "scored_by": 12434,
+  "rank": 5377,
+  "popularity": 4453,
+  "members": 31280,
+  "favorites": 30,
+  "synopsis": "Based on CAPCOM's 2010 game Sengoku Basara 3 (Sengoku Basara: Samurai Heroes), Sengoku Basara: Judge End will depict the epic Battle of Sekigahara.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 94,
+      "type": "anime",
+      "name": "Telecom Animation Film",
+      "url": "https://myanimelist.net/anime/producer/94/Telecom_Animation_Film"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": []
+}

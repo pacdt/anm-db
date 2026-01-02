@@ -1,0 +1,127 @@
+{
+  "mal_id": 60810,
+  "url": "https://myanimelist.net/anime/60810/Majutsushi_Kunon_wa_Mieteiru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1704/154459.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1704/154459t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1704/154459l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1704/154459.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1704/154459t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1704/154459l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Tsq8_gAzzBc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Majutsushi Kunon wa Mieteiru"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔術師クノンは見えている"
+    },
+    {
+      "type": "English",
+      "title": "Kunon the Sorcerer Can See"
+    }
+  ],
+  "title": "Majutsushi Kunon wa Mieteiru",
+  "title_english": "Kunon the Sorcerer Can See",
+  "title_japanese": "魔術師クノンは見えている",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": null,
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 4, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 6362,
+  "members": 13052,
+  "favorites": 24,
+  "synopsis": "Born blind, Kunon aims to be the first person to use water magic to create new eyes for himself. After five months of study, he has already surpassed his teacher, and continues to grow his talents. Not only can his magic help him sense color, but he can also use it to make handy items and even conjure a whole cat! Word of his skills and ingenuity soon reach the court and earn him a spot as disciple to the most powerful magician in the land. But is his ultimate goal even attainable?\n\n(Source: Yen Press)",
+  "background": "",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1471,
+      "type": "anime",
+      "name": "Platinum Vision",
+      "url": "https://myanimelist.net/anime/producer/1471/Platinum_Vision"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

@@ -1,0 +1,133 @@
+{
+  "mal_id": 31096,
+  "url": "https://myanimelist.net/anime/31096/Hibike_Euphonium__Suisougaku-bu_no_Nichijou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/74706.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/74706t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/74706l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/74706.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/74706t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/74706l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hibike! Euphonium: Suisougaku-bu no Nichijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hibike! Euphonium Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "響け！ユーフォニアム「吹奏楽部の日常」"
+    },
+    {
+      "type": "English",
+      "title": "Sound! Euphonium Specials"
+    }
+  ],
+  "title": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+  "title_english": "Sound! Euphonium Specials",
+  "title_japanese": "響け！ユーフォニアム「吹奏楽部の日常」",
+  "title_synonyms": [
+    "Hibike! Euphonium Specials"
+  ],
+  "type": "Special",
+  "source": "Original",
+  "episodes": 7,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-06-17T00:00:00+00:00",
+    "to": "2015-12-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 6,
+        "year": 2015
+      },
+      "to": {
+        "day": 16,
+        "month": 12,
+        "year": 2015
+      }
+    },
+    "string": "Jun 17, 2015 to Dec 16, 2015"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.87,
+  "scored_by": 17466,
+  "rank": 5177,
+  "popularity": 4081,
+  "members": 37848,
+  "favorites": 23,
+  "synopsis": "Short specials included in the Blu-ray/DVD releases.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

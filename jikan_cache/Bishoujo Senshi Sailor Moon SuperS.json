@@ -1,0 +1,167 @@
+{
+  "mal_id": 1239,
+  "url": "https://myanimelist.net/anime/1239/Bishoujo_Senshi_Sailor_Moon_SuperS",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/92253t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/92253l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1600/92253.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/92253t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/92253l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bishoujo Senshi Sailor Moon SuperS"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bishoujo Senshi Sailor Moon Super S"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pretty Guardian Sailor Moon SuperS"
+    },
+    {
+      "type": "Japanese",
+      "title": "美少女戦士セーラームーン Super S"
+    },
+    {
+      "type": "English",
+      "title": "Sailor Moon SuperS"
+    },
+    {
+      "type": "German",
+      "title": "Sailor Moon: SuperS"
+    },
+    {
+      "type": "French",
+      "title": "Sailor Moon Super S"
+    }
+  ],
+  "title": "Bishoujo Senshi Sailor Moon SuperS",
+  "title_english": "Sailor Moon SuperS",
+  "title_japanese": "美少女戦士セーラームーン Super S",
+  "title_synonyms": [
+    "Bishoujo Senshi Sailor Moon Super S",
+    "Pretty Guardian Sailor Moon SuperS"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 39,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1995-03-04T00:00:00+00:00",
+    "to": "1996-03-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 3,
+        "year": 1995
+      },
+      "to": {
+        "day": 2,
+        "month": 3,
+        "year": 1996
+      }
+    },
+    "string": "Mar 4, 1995 to Mar 2, 1996"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.63,
+  "scored_by": 65189,
+  "rank": 1567,
+  "popularity": 1963,
+  "members": 128353,
+  "favorites": 583,
+  "synopsis": "SuperS centers heavily on Chibi-usa and the Sailor Team. A new enemy, the Dead Moon Circus, has now appeared. Their motive is to find the Golden Dream Mirror that would be used to rule the world. To do this, the enemy attacks innocent victims for their Dream Mirrors and test their energy. Chibi-usa also has a new ally on her side, Pegasus. This season also sees the Sailor Senshi obtaining new powers.",
+  "background": "",
+  "season": "spring",
+  "year": 1995,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 2292,
+      "type": "anime",
+      "name": "Toei Advertising",
+      "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

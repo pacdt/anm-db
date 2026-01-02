@@ -1,0 +1,158 @@
+{
+  "mal_id": 1952,
+  "url": "https://myanimelist.net/anime/1952/Vampire_Hunter",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1078/131326.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1078/131326t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1078/131326l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1078/131326.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1078/131326t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1078/131326l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/yFslTVygrvA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Vampire Hunter"
+    },
+    {
+      "type": "Synonym",
+      "title": "Vampire Hunter: The Animated Series"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヴァンパイアハンター"
+    },
+    {
+      "type": "English",
+      "title": "Night Warriors: Darkstalkers' Revenge"
+    }
+  ],
+  "title": "Vampire Hunter",
+  "title_english": "Night Warriors: Darkstalkers' Revenge",
+  "title_japanese": "ヴァンパイアハンター",
+  "title_synonyms": [
+    "Vampire Hunter: The Animated Series"
+  ],
+  "type": "OVA",
+  "source": "Game",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1997-03-21T00:00:00+00:00",
+    "to": "1998-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 3,
+        "year": 1997
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 1998
+      }
+    },
+    "string": "Mar 21, 1997 to Mar 27, 1998"
+  },
+  "duration": "42 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.56,
+  "scored_by": 8176,
+  "rank": 6991,
+  "popularity": 5113,
+  "members": 22739,
+  "favorites": 65,
+  "synopsis": "The world is a dark, brooding place populated by humans, but ruled in reality by powerful beings known as the Darkstalkers, and there is constant conflict between them as they try to determine who is the most powerful of them all. Zombies, vampires, werewolves - all of them compete in contests of strength and sheer will to attain their own personal goals. \n\nAll of this becomes moot when a race of Aztec robots called the Huitzil decide that humanity isn't worth saving, and start waging war on the world, while in the sky, a solar god from outer space plots the conquest of Earth. And the Darkstalkers must become unwilling allies in order to save the world. \n\n(Source: AnimeNfo)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": []
+}

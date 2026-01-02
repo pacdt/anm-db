@@ -1,0 +1,173 @@
+{
+  "mal_id": 30458,
+  "url": "https://myanimelist.net/anime/30458/Tokyo_Ghoul__Jack",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1739/123152.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1739/123152t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1739/123152l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1739/123152.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1739/123152t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1739/123152l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pg278L_T62k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tokyo Ghoul: \"Jack\""
+    },
+    {
+      "type": "Japanese",
+      "title": "東京喰種 トーキョーグール【JACK】"
+    },
+    {
+      "type": "English",
+      "title": "Tokyo Ghoul: Jack"
+    },
+    {
+      "type": "German",
+      "title": "Tokyo Ghoul: Jack"
+    },
+    {
+      "type": "French",
+      "title": "Tokyo Ghoul: Jack"
+    }
+  ],
+  "title": "Tokyo Ghoul: \"Jack\"",
+  "title_english": "Tokyo Ghoul: Jack",
+  "title_japanese": "東京喰種 トーキョーグール【JACK】",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-09-30T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 30,
+        "month": 9,
+        "year": 2015
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 30, 2015"
+  },
+  "duration": "30 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.29,
+  "scored_by": 150954,
+  "rank": 3022,
+  "popularity": 1023,
+  "members": 268867,
+  "favorites": 435,
+  "synopsis": "Former baseball player turned delinquent Taishi Fura accidentally witnesses the man-eating \"ghoul\" known as Lantern injuring his old friend and murdering another. Before the situation gets any worse, Fura's classmate Kishou Arima arrives―as he is actually an undercover investigator for the Commission of Counter Ghoul (CCG)―and forces the ghoul to flee.\n\nSeeking revenge for his friends, Fura joins forces with Arima to hunt down ghouls in the 13th Ward—ultimately aiming to bring down Lantern. \n\nTokyo Ghoul: \"Jack\" unveils snippets of life in the past for the CCG's fearsome \"Reaper,\" Arima, giving insight into how he spent his high school days.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

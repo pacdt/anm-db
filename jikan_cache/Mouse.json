@@ -1,0 +1,162 @@
+{
+  "mal_id": 624,
+  "url": "https://myanimelist.net/anime/624/Mouse",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75507.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75507t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75507l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75507.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75507t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75507l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mouse"
+    },
+    {
+      "type": "Synonym",
+      "title": "MØUSE"
+    },
+    {
+      "type": "Japanese",
+      "title": "マウス"
+    }
+  ],
+  "title": "Mouse",
+  "title_english": null,
+  "title_japanese": "マウス",
+  "title_synonyms": [
+    "MØUSE"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-01-06T00:00:00+00:00",
+    "to": "2003-03-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2003
+      },
+      "to": {
+        "day": 24,
+        "month": 3,
+        "year": 2003
+      }
+    },
+    "string": "Jan 6, 2003 to Mar 24, 2003"
+  },
+  "duration": "13 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.97,
+  "scored_by": 9923,
+  "rank": 10541,
+  "popularity": 5006,
+  "members": 23837,
+  "favorites": 42,
+  "synopsis": "Teacher Sorata Muon carries on his family's centuries-old old tradition of being the master thief Mouse who can steal anything after properly alerting authorities of his intentions so they can be there yet fail to stop him. He is assisted by 3 nubile female assistants who also use the teaching cover and who, in typical Satoru Akahori, favor tight/skimpy/bondage outfits over their ample curves as they constantly pursue Sorata much more than he pursues them, although the girls do get some attention from their master. Not only is Mouse pursued by the girls &amp; the local law enforcement authorities, there is also a secret art protection society employing the services of a former ally of Sorata's after his pretty little hide, all in 15 minute episodes.",
+  "background": "",
+  "season": "winter",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 116,
+      "type": "anime",
+      "name": "Broccoli",
+      "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+    },
+    {
+      "mal_id": 148,
+      "type": "anime",
+      "name": "Hakusensha",
+      "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

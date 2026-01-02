@@ -1,0 +1,171 @@
+{
+  "mal_id": 247,
+  "url": "https://myanimelist.net/anime/247/Harukanaru_Toki_no_Naka_de__Hachiyou_Shou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1733/153550.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1733/153550t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1733/153550l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1733/153550.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1733/153550t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1733/153550l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Harukanaru Toki no Naka de: Hachiyou Shou"
+    },
+    {
+      "type": "Synonym",
+      "title": "HaruToki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haruka 8"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haruka naru Toki no Naka de TV"
+    },
+    {
+      "type": "Synonym",
+      "title": "Harukanaru Toki no Nakade - Hachiyosho -"
+    },
+    {
+      "type": "Synonym",
+      "title": "In a Distant Time"
+    },
+    {
+      "type": "Japanese",
+      "title": "遙かなる時空の中で〜八葉抄〜"
+    },
+    {
+      "type": "English",
+      "title": "Haruka: Beyond the Stream of Time – A Tale of the Eight Guardians"
+    },
+    {
+      "type": "French",
+      "title": "Harukanaru Toki No Naka De: Hachiyou Shou a Tale of the Eight Guardian"
+    }
+  ],
+  "title": "Harukanaru Toki no Naka de: Hachiyou Shou",
+  "title_english": "Haruka: Beyond the Stream of Time – A Tale of the Eight Guardians",
+  "title_japanese": "遙かなる時空の中で〜八葉抄〜",
+  "title_synonyms": [
+    "HaruToki",
+    "Haruka 8",
+    "Haruka naru Toki no Naka de TV",
+    "Harukanaru Toki no Nakade - Hachiyosho -",
+    "In a Distant Time"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-06T00:00:00+00:00",
+    "to": "2005-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2005
+      }
+    },
+    "string": "Oct 6, 2004 to Mar 30, 2005"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.99,
+  "scored_by": 8317,
+  "rank": 4604,
+  "popularity": 4782,
+  "members": 26798,
+  "favorites": 117,
+  "synopsis": "Akane Motomiya and her friends Tenma and Shimon are pulled by a demon into another world, where Akane becomes the Priestess of the Dragon God. The people of this world tell her that she is the only one who can stop the demons from taking over; meanwhile, the demons want to use her power for their own ends. Luckily, Akane has the Hachiyou, eight men with powers of their own who are sworn to protect the Dragon Priestess.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1466,
+      "type": "anime",
+      "name": "Bandai Visual USA",
+      "url": "https://myanimelist.net/anime/producer/1466/Bandai_Visual_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 96,
+      "type": "anime",
+      "name": "Yumeta Company",
+      "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    }
+  ],
+  "demographics": []
+}

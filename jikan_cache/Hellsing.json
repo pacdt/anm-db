@@ -1,0 +1,166 @@
+{
+  "mal_id": 270,
+  "url": "https://myanimelist.net/anime/270/Hellsing",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/19956.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19956t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19956l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/19956.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19956t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19956l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/6m35QEOYXqU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hellsing"
+    },
+    {
+      "type": "Japanese",
+      "title": "Hellsing [ヘルシング]"
+    },
+    {
+      "type": "English",
+      "title": "Hellsing"
+    }
+  ],
+  "title": "Hellsing",
+  "title_english": "Hellsing",
+  "title_japanese": "Hellsing [ヘルシング]",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-10-11T00:00:00+00:00",
+    "to": "2002-01-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2001
+      },
+      "to": {
+        "day": 17,
+        "month": 1,
+        "year": 2002
+      }
+    },
+    "string": "Oct 11, 2001 to Jan 17, 2002"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.5,
+  "scored_by": 391410,
+  "rank": 2056,
+  "popularity": 288,
+  "members": 780082,
+  "favorites": 6531,
+  "synopsis": "Hellsing, an organization specializing in dealing with supernatural threats, is called in to eliminate a vampire that is turning the villagers of Cheddar into ghouls. To put an end to this, the leader of the organization, Sir Integra Fairbrook Wingates Hellsing, dispatches her most formidable asset: a powerful vampire known as Alucard.\n\nArmed with only a single handgun, Alucard wreaks havoc on the monsters plaguing Cheddar. However, a young police officer, Seras Victoria, gets caught up in the chaos and becomes mortally wounded as a result. Taking pity on the girl, Alucard gives her a choice: die as a human or live on as a vampire. Seras accepts his offer and begins a new life as a member of Hellsing.\n\nThough it was her decision, Seras struggles with the fact that she is no longer human. Nevertheless, she must embrace being a creature of the night soon if she wants to survive on the front lines in the fight between humans and the supernatural.\n\n[Written by MAL Rewrite]",
+  "background": "Hellsing was based on Kouta Hirano’s manga of the same name. The anime utilizes the same characters but the story strongly deviates from the manga, which was still ongoing at the time of the anime’s creation.",
+  "season": "fall",
+  "year": 2001,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "02:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 02:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 204,
+      "type": "anime",
+      "name": "Pioneer LDC",
+      "url": "https://myanimelist.net/anime/producer/204/Pioneer_LDC"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

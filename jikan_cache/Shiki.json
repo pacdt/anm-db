@@ -1,0 +1,196 @@
+{
+  "mal_id": 7724,
+  "url": "https://myanimelist.net/anime/7724/Shiki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1531/119165.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1531/119165t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1531/119165l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1531/119165.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1531/119165t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1531/119165l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shiki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Corpse Demon"
+    },
+    {
+      "type": "Japanese",
+      "title": "屍鬼"
+    },
+    {
+      "type": "English",
+      "title": "Shiki"
+    }
+  ],
+  "title": "Shiki",
+  "title_english": "Shiki",
+  "title_japanese": "屍鬼",
+  "title_synonyms": [
+    "Corpse Demon"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 22,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-07-09T00:00:00+00:00",
+    "to": "2010-12-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2010
+      },
+      "to": {
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      }
+    },
+    "string": "Jul 9, 2010 to Dec 31, 2010"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.71,
+  "scored_by": 272765,
+  "rank": 1334,
+  "popularity": 380,
+  "members": 639172,
+  "favorites": 8923,
+  "synopsis": "Life is idyllic and unassuming in the small town of Sotoba, a simple place where everyone knows everyone. However, tragedy strikes when Megumi Shimizu, a young girl with high aspirations, unexpectedly passes away from an unnamed illness. Over the torrid summer months, as more unexplained deaths crop up around the village, the town's doctor—Toshio Ozaki—begins to suspect that something more sinister than a mere disease is at play. \n\nToshio teams up with Natsuno Yuuki, an apathetic and aloof teenager, and siblings Kaori and Akira Tanaka, two of Megumi's friends, to unravel the dark mystery behind the deaths in Sotoba. With their combined efforts, the investigation leads them toward an eerie secret pertaining to the new family in the Kanemasa mansion.\n\n[Written by MAL Rewrite]",
+  "background": "Early screening on the 27th of June with the regular airing starting on July 9th.",
+  "season": "summer",
+  "year": 2010,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Daume",
+      "url": "https://myanimelist.net/anime/producer/39/Daume"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

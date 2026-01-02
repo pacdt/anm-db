@@ -1,0 +1,150 @@
+{
+  "mal_id": 1167,
+  "url": "https://myanimelist.net/anime/1167/Samurai_Gun",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/3796.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/3796t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/3796l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/3796.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/3796t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/3796l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Samurai Gun"
+    },
+    {
+      "type": "Japanese",
+      "title": "サムライガン"
+    }
+  ],
+  "title": "Samurai Gun",
+  "title_english": null,
+  "title_japanese": "サムライガン",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-04T00:00:00+00:00",
+    "to": "2004-12-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 14,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Oct 4, 2004 to Dec 14, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.92,
+  "scored_by": 3283,
+  "rank": 10826,
+  "popularity": 6994,
+  "members": 10446,
+  "favorites": 9,
+  "synopsis": "It is the beginning of the industrial revolution, and feudal Japan is in turmoil. The ruling Shogun are wielding their abusive powers to instill fear and dominance over their oppressed subjects. Beatings, imprisonment, rape and even murder are the adopted tactics chosen to maintain their reign. The bloodshed must end. A group of Samurai have banded together, and, with the development of new weapons and new technology, they have both the will and the hardware to stand up and fight. Ichimatsu is one of these fighters. By day, he works incognito at a local tavern, in the evenings he frequents the brothels, and by the dark of night, he doles out some big-time, gun-barrel justice. He is here to help. He is Samurai Gun. \n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "03:12",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 03:12 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "Avex Entertainment",
+      "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+    },
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 3165,
+      "type": "anime",
+      "name": "Avex Mode",
+      "url": "https://myanimelist.net/anime/producer/3165/Avex_Mode"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 409,
+      "type": "anime",
+      "name": "Studio Egg",
+      "url": "https://myanimelist.net/anime/producer/409/Studio_Egg"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

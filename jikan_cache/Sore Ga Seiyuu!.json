@@ -1,0 +1,153 @@
+{
+  "mal_id": 29163,
+  "url": "https://myanimelist.net/anime/29163/Sore_ga_Seiyuu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75198.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75198t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75198l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75198.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75198t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75198l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/n8PVvfCEgA0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sore ga Seiyuu!"
+    },
+    {
+      "type": "Synonym",
+      "title": "That is a Voice Actor!"
+    },
+    {
+      "type": "Japanese",
+      "title": "それが声優！"
+    },
+    {
+      "type": "English",
+      "title": "Seiyu's Life!"
+    },
+    {
+      "type": "German",
+      "title": "Seiyu's Life!"
+    },
+    {
+      "type": "Spanish",
+      "title": "Seiyu's Life!"
+    },
+    {
+      "type": "French",
+      "title": "Seiyu's Life!"
+    }
+  ],
+  "title": "Sore ga Seiyuu!",
+  "title_english": "Seiyu's Life!",
+  "title_japanese": "それが声優！",
+  "title_synonyms": [
+    "That is a Voice Actor!"
+  ],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-07T00:00:00+00:00",
+    "to": "2015-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2015
+      }
+    },
+    "string": "Jul 7, 2015 to Sep 29, 2015"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.04,
+  "scored_by": 19673,
+  "rank": 4366,
+  "popularity": 3250,
+  "members": 57012,
+  "favorites": 87,
+  "synopsis": "Dreaming of becoming a top-tier professional in the fast-paced, competitive world of voice acting, rookie Futaba Ichinose frantically scurries around, searching for auditions and performance sessions. Rubbing elbows with some of the biggest names in the industry, she tries to find her own unique voice and style.\n \nAlong the way, she befriends two important allies: Ichigo Moesaki, an aspiring idol who claims to be a princess from another planet, and Rin Kohana, a cheerful child actress who tries her best to balance her career and school at the same time. Together, the girls brave the ups and downs of the entertainment industry—but as for Futaba, whose performance assessment at her agency is just around the corner, her career might be over sooner than expected! Sore ga Seiyuu! is a humorous and sincere celebration of the industry that gives anime its voice.\n\n[Written by MAL Rewrite]",
+  "background": "Sore ga Seiyuu was created by an actual voice actress, who makes a cameo appearance in the anime. A number of other well known Japanese voice acting talent appear in the series under their own names, with each episode featuring one special guest seiyuu.",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1241,
+      "type": "anime",
+      "name": "Evil Line Records",
+      "url": "https://myanimelist.net/anime/producer/1241/Evil_Line_Records"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Showbiz",
+      "url": "https://myanimelist.net/anime/genre/75/Showbiz"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": []
+}

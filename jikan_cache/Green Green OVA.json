@@ -1,0 +1,136 @@
+{
+  "mal_id": 881,
+  "url": "https://myanimelist.net/anime/881/Green_Green_OVA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/20157.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/20157t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/20157l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/20157.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/20157t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/20157l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Green Green OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Green Green"
+    },
+    {
+      "type": "Japanese",
+      "title": "グリーングリーン"
+    }
+  ],
+  "title": "Green Green OVA",
+  "title_english": null,
+  "title_japanese": "グリーングリーン",
+  "title_synonyms": [
+    "Green Green"
+  ],
+  "type": "OVA",
+  "source": "Visual novel",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-12-20T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 12,
+        "year": 2002
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 20, 2002"
+  },
+  "duration": "26 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.93,
+  "scored_by": 16469,
+  "rank": 10775,
+  "popularity": 4645,
+  "members": 28602,
+  "favorites": 7,
+  "synopsis": "Hanaoka high school is an all girls' school, and the girls were pretty excited when they heard that boys were admitted into their high school. Smart and elegant boys, that's in their fantasy. However, in reality, the boys who were actually admitted are from the countryside and not smart at all, leave alone being elegant. And in fact, two of them are dirty perverts...",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2378,
+      "type": "anime",
+      "name": "StarLink",
+      "url": "https://myanimelist.net/anime/producer/2378/StarLink"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

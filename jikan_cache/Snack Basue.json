@@ -1,0 +1,149 @@
+{
+  "mal_id": 55636,
+  "url": "https://myanimelist.net/anime/55636/Snack_Basue",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1715/139033.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1715/139033t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1715/139033l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1715/139033.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1715/139033t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1715/139033l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/jBO0BLhwHUQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Snack Basue"
+    },
+    {
+      "type": "Japanese",
+      "title": "スナックバス江"
+    }
+  ],
+  "title": "Snack Basue",
+  "title_english": null,
+  "title_japanese": "スナックバス江",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-01-13T00:00:00+00:00",
+    "to": "2024-04-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 1,
+        "year": 2024
+      },
+      "to": {
+        "day": 5,
+        "month": 4,
+        "year": 2024
+      }
+    },
+    "string": "Jan 13, 2024 to Apr 5, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.5,
+  "scored_by": 3259,
+  "rank": 7358,
+  "popularity": 6989,
+  "members": 10448,
+  "favorites": 22,
+  "synopsis": "Located five stations away from Hokkaido's largest downtown area Susukino. A fun shop called \"Snack Busue\" can be found run by mama Basue and mama Akemi. Filled with the laughter of the girls and their unusual regulars, you'll be smiling along with them before you know it. \n\n(Official Site, translated)",
+  "background": "",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 443,
+      "type": "anime",
+      "name": "Studio PuYUKAI",
+      "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

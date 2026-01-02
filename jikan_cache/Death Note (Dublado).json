@@ -1,0 +1,166 @@
+{
+  "mal_id": 1535,
+  "url": "https://myanimelist.net/anime/1535/Death_Note",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Vt_3c8BgxV4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Death Note"
+    },
+    {
+      "type": "Synonym",
+      "title": "DN"
+    },
+    {
+      "type": "Japanese",
+      "title": "デスノート"
+    },
+    {
+      "type": "English",
+      "title": "Death Note"
+    }
+  ],
+  "title": "Death Note",
+  "title_english": "Death Note",
+  "title_japanese": "デスノート",
+  "title_synonyms": [
+    "DN"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 37,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-10-04T00:00:00+00:00",
+    "to": "2007-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2006
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2007
+      }
+    },
+    "string": "Oct 4, 2006 to Jun 27, 2007"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.62,
+  "scored_by": 2950768,
+  "rank": 97,
+  "popularity": 2,
+  "members": 4216768,
+  "favorites": 183529,
+  "synopsis": "Brutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten.\n\nFor his own amusement, Ryuk drops his Death Note into the human world. Light stumbles upon it, deeming the first of its rules ridiculous: the human whose name is written in this note shall die. However, the temptation is too great, and Light experiments by writing a felon's name, which disturbingly enacts his first murder.\n\nAware of the terrifying godlike power that has fallen into his hands, Light—under the alias Kira—follows his wicked sense of justice with the ultimate goal of cleansing the world of all evil-doers. The meticulous mastermind detective L is already on his trail, but as Light's brilliance rivals L's, the grand chase for Kira turns into an intense battle of wits that can only end when one of them is dead.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:56",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:56 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1791,
+      "type": "anime",
+      "name": "D.N. Dream Partners",
+      "url": "https://myanimelist.net/anime/producer/1791/DN_Dream_Partners"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

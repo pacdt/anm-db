@@ -1,0 +1,133 @@
+{
+  "mal_id": 28063,
+  "url": "https://myanimelist.net/anime/28063/Sword_Art_Online_II__Sword_Art_Offline_II",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/68219.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/68219t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/68219l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/68219.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/68219t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/68219l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sword Art Online II: Sword Art Offline II"
+    },
+    {
+      "type": "Synonym",
+      "title": "SAO 2 Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "SAO II Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "そーどあーと・おふらいん つー"
+    },
+    {
+      "type": "English",
+      "title": "Sword Art Offline II"
+    }
+  ],
+  "title": "Sword Art Online II: Sword Art Offline II",
+  "title_english": "Sword Art Offline II",
+  "title_japanese": "そーどあーと・おふらいん つー",
+  "title_synonyms": [
+    "SAO 2 Specials",
+    "SAO II Specials"
+  ],
+  "type": "Special",
+  "source": "Light novel",
+  "episodes": 9,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-22T00:00:00+00:00",
+    "to": "2015-06-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 22,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 24,
+        "month": 6,
+        "year": 2015
+      }
+    },
+    "string": "Oct 22, 2014 to Jun 24, 2015"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.61,
+  "scored_by": 26917,
+  "rank": 6722,
+  "popularity": 2981,
+  "members": 66858,
+  "favorites": 168,
+  "synopsis": "BD/DVD specials.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1235,
+      "type": "anime",
+      "name": "I was a Ballerina",
+      "url": "https://myanimelist.net/anime/producer/1235/I_was_a_Ballerina"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

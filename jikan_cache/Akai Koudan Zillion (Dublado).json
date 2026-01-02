@@ -1,0 +1,165 @@
+{
+  "mal_id": 2688,
+  "url": "https://myanimelist.net/anime/2688/Akai_Koudan_Zillion",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/41797.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/41797t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/41797l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/41797.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/41797t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/41797l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Akai Koudan Zillion"
+    },
+    {
+      "type": "Synonym",
+      "title": "Red Photon Zillion"
+    },
+    {
+      "type": "Japanese",
+      "title": "赤い光弾ジリオン"
+    },
+    {
+      "type": "English",
+      "title": "Zillion"
+    }
+  ],
+  "title": "Akai Koudan Zillion",
+  "title_english": "Zillion",
+  "title_japanese": "赤い光弾ジリオン",
+  "title_synonyms": [
+    "Red Photon Zillion"
+  ],
+  "type": "TV",
+  "source": "Mixed media",
+  "episodes": 31,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1987-04-12T00:00:00+00:00",
+    "to": "1987-12-13T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 4,
+        "year": 1987
+      },
+      "to": {
+        "day": 13,
+        "month": 12,
+        "year": 1987
+      }
+    },
+    "string": "Apr 12, 1987 to Dec 13, 1987"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.6,
+  "scored_by": 1860,
+  "rank": 6782,
+  "popularity": 8296,
+  "members": 6802,
+  "favorites": 25,
+  "synopsis": "The story takes place on the planet Maris in the year 2387. Around this time, the Nozas started to genocidally kill all humans in order to lay eggs and reproduce on the planet. Three mysterious guns dubbed the \"Zillion Weapon System\" appear and three teens (JJ, Champ, and Apple) are chosen to wield them as the White Knights in order to fight back against the Nozas.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "spring",
+  "year": 1987,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "10:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 10:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    },
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 2518,
+      "type": "anime",
+      "name": "Streamline Pictures",
+      "url": "https://myanimelist.net/anime/producer/2518/Streamline_Pictures"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": []
+}

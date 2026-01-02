@@ -1,0 +1,152 @@
+{
+  "mal_id": 11813,
+  "url": "https://myanimelist.net/anime/11813/Shijou_Saikyou_no_Deshi_Kenichi_OVA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1125/102421.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/102421t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/102421l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1125/102421.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/102421t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/102421l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/N7Y_Ea8eT5A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shijou Saikyou no Deshi Kenichi OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "History's Strongest Disciple Kenichi OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shijou Saikyou no Deshi Kenichi: Yami no Shuugeki"
+    },
+    {
+      "type": "Japanese",
+      "title": "史上最強の弟子 ケンイチ OVA"
+    },
+    {
+      "type": "English",
+      "title": "KenIchi: The Mightiest Disciple OVA"
+    }
+  ],
+  "title": "Shijou Saikyou no Deshi Kenichi OVA",
+  "title_english": "KenIchi: The Mightiest Disciple OVA",
+  "title_japanese": "史上最強の弟子 ケンイチ OVA",
+  "title_synonyms": [
+    "History's Strongest Disciple Kenichi OVA",
+    "Shijou Saikyou no Deshi Kenichi: Yami no Shuugeki"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 11,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-03-14T00:00:00+00:00",
+    "to": "2014-05-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 3,
+        "year": 2012
+      },
+      "to": {
+        "day": 16,
+        "month": 5,
+        "year": 2014
+      }
+    },
+    "string": "Mar 14, 2012 to May 16, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.87,
+  "scored_by": 30275,
+  "rank": 937,
+  "popularity": 3125,
+  "members": 61675,
+  "favorites": 119,
+  "synopsis": "OVAs of History's Strongest Disciple Kenichi bundled with volumes 46, 47, 49, 53, 54, 55, &amp; 56 of the manga.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

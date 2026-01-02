@@ -1,0 +1,127 @@
+{
+  "mal_id": 30524,
+  "url": "https://myanimelist.net/anime/30524/Kagewani",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/76060.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76060t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76060l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/76060.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76060t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76060l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kagewani"
+    },
+    {
+      "type": "Japanese",
+      "title": "影鰐-KAGEWANI-"
+    },
+    {
+      "type": "English",
+      "title": "Kagewani"
+    }
+  ],
+  "title": "Kagewani",
+  "title_english": "Kagewani",
+  "title_japanese": "影鰐-KAGEWANI-",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-02T00:00:00+00:00",
+    "to": "2015-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2015
+      }
+    },
+    "string": "Oct 2, 2015 to Dec 25, 2015"
+  },
+  "duration": "7 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.38,
+  "scored_by": 13722,
+  "rank": 8159,
+  "popularity": 4286,
+  "members": 34248,
+  "favorites": 33,
+  "synopsis": "A video blogger attempts to fake cryptid sightings to boost his views, but gets more than he bargained for when his crew is slaughtered by a real monster. Elsewhere, students find themselves preyed upon by a sandworm-like beast, initiating a desperate struggle for survival on their own school grounds.\n\nWith more of these attacks from mysterious creatures occurring, researcher Sousuke Banba tasks himself with delving into the mystery. With nothing but the keyword \"Kagewani\" to lead him, he scours the sites of recent attacks in hopes of finding a lead to eradicating the creatures for good. However, Sousuke finds that these threats to humanity are even closer to home when the pharmaceutical company, Sarugaku, starts to encroach on his investigation.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "23:17",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 23:17 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 324,
+      "type": "anime",
+      "name": "Directions",
+      "url": "https://myanimelist.net/anime/producer/324/Directions"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1265,
+      "type": "anime",
+      "name": "Tomovies",
+      "url": "https://myanimelist.net/anime/producer/1265/Tomovies"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

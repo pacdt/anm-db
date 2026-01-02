@@ -1,0 +1,128 @@
+{
+  "mal_id": 53716,
+  "url": "https://myanimelist.net/anime/53716/Hirogaru_Sky_Precure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1762/135268.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1762/135268t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1762/135268l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1762/135268.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1762/135268t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1762/135268l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/j0DUgBhsg_A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hirogaru Sky! Precure"
+    },
+    {
+      "type": "Japanese",
+      "title": "ひろがるスカイ！プリキュア"
+    },
+    {
+      "type": "English",
+      "title": "Soaring Sky! Pretty Cure"
+    }
+  ],
+  "title": "Hirogaru Sky! Precure",
+  "title_english": "Soaring Sky! Pretty Cure",
+  "title_japanese": "ひろがるスカイ！プリキュア",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 50,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-02-05T00:00:00+00:00",
+    "to": "2024-01-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 2,
+        "year": 2023
+      },
+      "to": {
+        "day": 28,
+        "month": 1,
+        "year": 2024
+      }
+    },
+    "string": "Feb 5, 2023 to Jan 28, 2024"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.6,
+  "scored_by": 4205,
+  "rank": 1681,
+  "popularity": 6478,
+  "members": 12538,
+  "favorites": 163,
+  "synopsis": "A major incident in peaceful Skyland?! The infant princess Ellee-chan has been kidnapped by a monster from the Undergu Empire! A brave girl named Sora follows the princess into a strange hole. It leads her to another world called Sorashido City. Televisions? Bicycles? Are these magical devices?!?! There's no time to be surprised! Sora has to take the princess back to the castle as soon as possible! Flying between two worlds! This is the beginning of a Precure adventure! It's hero time!\n\n(Source: Toei Animation USA)",
+  "background": "",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    },
+    {
+      "mal_id": 2118,
+      "type": "anime",
+      "name": "ADK Emotions",
+      "url": "https://myanimelist.net/anime/producer/2118/ADK_Emotions"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,151 @@
+{
+  "mal_id": 3750,
+  "url": "https://myanimelist.net/anime/3750/Maria-sama_ga_Miteru_4th",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75206.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75206t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75206l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75206.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75206t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75206l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Maria-sama ga Miteru 4th"
+    },
+    {
+      "type": "Synonym",
+      "title": "MariMite 4"
+    },
+    {
+      "type": "Synonym",
+      "title": "La Vierge Marie Vous Regarde"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Virgin Mary is Watching Over You"
+    },
+    {
+      "type": "Japanese",
+      "title": "マリア様がみてる〜４th〜"
+    },
+    {
+      "type": "English",
+      "title": "Maria Watches Over Us Season 4"
+    }
+  ],
+  "title": "Maria-sama ga Miteru 4th",
+  "title_english": "Maria Watches Over Us Season 4",
+  "title_japanese": "マリア様がみてる〜４th〜",
+  "title_synonyms": [
+    "MariMite 4",
+    "La Vierge Marie Vous Regarde",
+    "The Virgin Mary is Watching Over You"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-01-03T00:00:00+00:00",
+    "to": "2009-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 1,
+        "year": 2009
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2009
+      }
+    },
+    "string": "Jan 3, 2009 to Mar 28, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.74,
+  "scored_by": 10472,
+  "rank": 1253,
+  "popularity": 4959,
+  "members": 24623,
+  "favorites": 101,
+  "synopsis": "Yumi and the Yamayuri Council have found two new helpers in Kanako and Toko. Unfortunately, their assistance comes with tension, as neither girl is particularly fond of the other and both seem likely candidates to be Yumi's petite soeur. Will either be a good fit for Yumi? As the school year marches on, the work for the Yamayuri Council piles up, and pressure begins to mount for Yumi to make her final decision.\n\n(Source: RightStuf)",
+  "background": "",
+  "season": "winter",
+  "year": 2009,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "10:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 10:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 26,
+      "type": "anime",
+      "name": "Girls Love",
+      "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

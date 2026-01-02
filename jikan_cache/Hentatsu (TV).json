@@ -1,0 +1,116 @@
+{
+  "mal_id": 40995,
+  "url": "https://myanimelist.net/anime/40995/Hentatsu_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1399/112948.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1399/112948t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1399/112948l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1399/112948.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1399/112948t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1399/112948l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hentatsu (TV)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Oni to Neko to o-Cha to ka."
+    },
+    {
+      "type": "Japanese",
+      "title": "へんたつ"
+    }
+  ],
+  "title": "Hentatsu (TV)",
+  "title_english": null,
+  "title_japanese": "へんたつ",
+  "title_synonyms": [
+    "Oni to Neko to o-Cha to ka."
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-04T00:00:00+00:00",
+    "to": "2020-03-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 21,
+        "month": 3,
+        "year": 2020
+      }
+    },
+    "string": "Jan 4, 2020 to Mar 21, 2020"
+  },
+  "duration": "1 min per ep",
+  "rating": "G - All Ages",
+  "score": 5.07,
+  "scored_by": 1953,
+  "rank": 13799,
+  "popularity": 8484,
+  "members": 6460,
+  "favorites": 2,
+  "synopsis": "Hentatsu follows two girls exploring a seemingly abandoned version of Nakano Broadway, a Tokyo shopping mall known for Mandarake and other shops catering to fans of anime and other forms of pop culture.\n\n(Source: AnimeNewsNetwork)",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:57",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:57 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1560,
+      "type": "anime",
+      "name": "Yaoyorozu",
+      "url": "https://myanimelist.net/anime/producer/1560/Yaoyorozu"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

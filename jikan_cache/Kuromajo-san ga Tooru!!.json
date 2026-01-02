@@ -1,0 +1,134 @@
+{
+  "mal_id": 13159,
+  "url": "https://myanimelist.net/anime/13159/Kuromajo-san_ga_Tooru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75496.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75496t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75496l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75496.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75496t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75496l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kuromajo-san ga Tooru!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kuromajyo-san ga Toru!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "黒魔女さんが通る!!"
+    },
+    {
+      "type": "English",
+      "title": "Here Comes the Black Witch!!"
+    }
+  ],
+  "title": "Kuromajo-san ga Tooru!!",
+  "title_english": "Here Comes the Black Witch!!",
+  "title_japanese": "黒魔女さんが通る!!",
+  "title_synonyms": [
+    "Kuromajyo-san ga Toru!!"
+  ],
+  "type": "TV",
+  "source": "Novel",
+  "episodes": 60,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-04T00:00:00+00:00",
+    "to": "2014-02-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 19,
+        "month": 2,
+        "year": 2014
+      }
+    },
+    "string": "Apr 4, 2012 to Feb 19, 2014"
+  },
+  "duration": "7 min per ep",
+  "rating": "PG - Children",
+  "score": 6.55,
+  "scored_by": 3030,
+  "rank": 7058,
+  "popularity": 6875,
+  "members": 10825,
+  "favorites": 9,
+  "synopsis": "Kurotori Chiyoko, a 5th-grader in elementary school, loves the occult. One day, a friend requests her to do a love fortune-telling. Chiyoko tries to summon Cupid, but thanks to a stuffy nose, accidentally summons a witch named Gyubid instead!\n\nFrom that day on, Chiyoko starts learning witchcraft from Gyubid, the self-proclaimed hottest instructor of the magic world. The training regimen is tough, and punishment for slacking is harsh. Fortunately, Chiyoko is able to keep her extra-curricular studies secret, aided by the fact that no one else can see Gyubid.\n\n(Source: AnimeNfo.com)",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 247,
+      "type": "anime",
+      "name": "Shin-Ei Animation",
+      "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

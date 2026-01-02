@@ -1,0 +1,154 @@
+{
+  "mal_id": 30740,
+  "url": "https://myanimelist.net/anime/30740/Young_Black_Jack",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/76125.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/76125t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/76125l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/76125.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/76125t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/76125l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Z6XP4GQMBkg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Young Black Jack"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヤング ブラック・ジャック"
+    },
+    {
+      "type": "English",
+      "title": "Young Black Jack"
+    }
+  ],
+  "title": "Young Black Jack",
+  "title_english": "Young Black Jack",
+  "title_japanese": "ヤング ブラック・ジャック",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-02T00:00:00+00:00",
+    "to": "2015-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2015
+      }
+    },
+    "string": "Oct 2, 2015 to Dec 18, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.21,
+  "scored_by": 36866,
+  "rank": 3461,
+  "popularity": 2531,
+  "members": 87975,
+  "favorites": 162,
+  "synopsis": "In the 1960s, a gifted young medical student tries to make a name for himself. Kuroo Hazama is a reserved young man with unusual black-and-white hair, a body covered with scars, and a dark past. Despite only being a medical student, his surgical brilliance starts to attract attention after he completes a seemingly impossible operation. Together with the spirited and honest intern Maiko Okamoto and Yabu, a close friend with a troubled life, Hazama devotes himself to the world of medicine. \n\nHowever, his path to becoming a respectable surgeon is a difficult one as student riots, war, and corruption are consuming Japan. Hazama quickly finds himself caught up in a series of nefarious circumstances that challenge his integrity as a person and his path towards becoming a surgeon. Young Black Jack chronicles the story of a man capable of performing unthinkable feats of medicine, and the journey that leads him to become the legend known as Black Jack.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:16",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:16 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 1254,
+      "type": "anime",
+      "name": "Grooove",
+      "url": "https://myanimelist.net/anime/producer/1254/Grooove"
+    },
+    {
+      "mal_id": 1285,
+      "type": "anime",
+      "name": "Being",
+      "url": "https://myanimelist.net/anime/producer/1285/Being"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 200,
+      "type": "anime",
+      "name": "Tezuka Productions",
+      "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 67,
+      "type": "anime",
+      "name": "Medical",
+      "url": "https://myanimelist.net/anime/genre/67/Medical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "mal_id": 35335,
+  "url": "https://myanimelist.net/anime/35335/Musashino",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1541/126462.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/126462t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/126462l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1541/126462.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/126462t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/126462l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Musashino!"
+    },
+    {
+      "type": "Japanese",
+      "title": "むさしの！"
+    },
+    {
+      "type": "English",
+      "title": "Musasi-no"
+    }
+  ],
+  "title": "Musashino!",
+  "title_english": "Musasi-no",
+  "title_japanese": "むさしの！",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-07-02T00:00:00+00:00",
+    "to": "2022-09-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2022
+      },
+      "to": {
+        "day": 17,
+        "month": 9,
+        "year": 2022
+      }
+    },
+    "string": "Jul 2, 2022 to Sep 17, 2022"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG - Children",
+  "score": 4.66,
+  "scored_by": 2079,
+  "rank": 14238,
+  "popularity": 6799,
+  "members": 11114,
+  "favorites": 14,
+  "synopsis": "Sequel series to Urawa no Usagi-chan.",
+  "background": "",
+  "season": "summer",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1256,
+      "type": "anime",
+      "name": "Harappa",
+      "url": "https://myanimelist.net/anime/producer/1256/Harappa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1257,
+      "type": "anime",
+      "name": "A-Real",
+      "url": "https://myanimelist.net/anime/producer/1257/A-Real"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

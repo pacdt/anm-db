@@ -1,0 +1,171 @@
+{
+  "mal_id": 3701,
+  "url": "https://myanimelist.net/anime/3701/Kaiba",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/147908.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/147908t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/147908l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/147908.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/147908t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/147908l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KFI_Fl1sRWg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaiba"
+    },
+    {
+      "type": "Japanese",
+      "title": "カイバ"
+    },
+    {
+      "type": "English",
+      "title": "Kaiba"
+    }
+  ],
+  "title": "Kaiba",
+  "title_english": "Kaiba",
+  "title_japanese": "カイバ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-04-11T00:00:00+00:00",
+    "to": "2008-07-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2008
+      },
+      "to": {
+        "day": 25,
+        "month": 7,
+        "year": 2008
+      }
+    },
+    "string": "Apr 11, 2008 to Jul 25, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 8.13,
+  "scored_by": 48139,
+  "rank": 510,
+  "popularity": 1520,
+  "members": 177170,
+  "favorites": 3998,
+  "synopsis": "In a world where memories exist in memory chips separate from the body, death of the body no longer means death of the soul. It is possible for memories to be viewed, altered, and transferred between bodies. These memory chips are used by the rich to obtain eternal lives in carefully selected bodies, while for the poor, selling their own bodies and conserving their souls in the chips often become the only way to earn a living. An electrolytic cloud in the sky serves as a barrier between the heavens of the fortunate and the underworld of the destitute, making this social division impregnable. \n\nOne day, a man named Kaiba wakes up in an empty room with no memories, a mysterious hole in his chest, and a locket holding the picture of an unknown woman. After escaping an attack and stumbling upon a decrepit village of underworld residents, he begins his adventure across the different planets of this strange universe to find out more about his own identity and the woman he once knew.\n\nThrough a journey of self-discovery and acceptance, Kaiba weaves together tales of souls and spirits and explores the importance of memories.\n\n[Written by MAL Rewrite]",
+  "background": "The series received an Excellence Prize for animation at the 2008 Japan Media Arts Festival.",
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 3104,
+      "type": "anime",
+      "name": "Mediarte Entertainment Works",
+      "url": "https://myanimelist.net/anime/producer/3104/Mediarte_Entertainment_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 46,
+      "type": "anime",
+      "name": "Award Winning",
+      "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": []
+}

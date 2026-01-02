@@ -1,0 +1,193 @@
+{
+  "mal_id": 1578,
+  "url": "https://myanimelist.net/anime/1578/Koisuru_Tenshi_Angelique__Kokoro_no_Mezameru_Toki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1488/153479.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1488/153479t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1488/153479l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1488/153479.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1488/153479t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1488/153479l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koisuru Tenshi Angelique: Kokoro no Mezameru Toki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Koi Suru Tenshi Angelique"
+    },
+    {
+      "type": "Synonym",
+      "title": "Angelique: When the Heart Awakens"
+    },
+    {
+      "type": "Synonym",
+      "title": "Angelique (2006)"
+    },
+    {
+      "type": "Japanese",
+      "title": "恋する天使アンジェリーク　～心のめざめる時～"
+    },
+    {
+      "type": "English",
+      "title": "Loving Angel Angelique: When Hearts Awaken"
+    }
+  ],
+  "title": "Koisuru Tenshi Angelique: Kokoro no Mezameru Toki",
+  "title_english": "Loving Angel Angelique: When Hearts Awaken",
+  "title_japanese": "恋する天使アンジェリーク　～心のめざめる時～",
+  "title_synonyms": [
+    "Koi Suru Tenshi Angelique",
+    "Angelique: When the Heart Awakens",
+    "Angelique (2006)"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-07-08T00:00:00+00:00",
+    "to": "2006-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2006
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2006
+      }
+    },
+    "string": "Jul 8, 2006 to Sep 30, 2006"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.81,
+  "scored_by": 4182,
+  "rank": 5513,
+  "popularity": 6393,
+  "members": 12877,
+  "favorites": 23,
+  "synopsis": "A young girl named Ange is summoned to a Sacred Land and is chosen as the Legendary Etoile, whose mission is to save the newly-born Cosmos of the Holy Beast, which has recently fallen under a crisis. With the support of nine Guardians (who have the power of nine elements), she embarks on a journey to save the dying land of the Holy Beast and to discover her true self. \n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2006,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 158,
+      "type": "anime",
+      "name": "Kids Station",
+      "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+    },
+    {
+      "mal_id": 241,
+      "type": "anime",
+      "name": "Koei",
+      "url": "https://myanimelist.net/anime/producer/241/Koei"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

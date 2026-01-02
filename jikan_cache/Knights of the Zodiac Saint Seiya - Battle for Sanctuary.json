@@ -1,0 +1,146 @@
+{
+  "mal_id": 52273,
+  "url": "https://myanimelist.net/anime/52273/Saint_Seiya__Knights_of_the_Zodiac_-_Battle_Sanctuary",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1473/129466.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1473/129466t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1473/129466l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1473/129466.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1473/129466t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1473/129466l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary"
+    },
+    {
+      "type": "Synonym",
+      "title": "Knights of the Zodiac: Saint Seiya"
+    },
+    {
+      "type": "Japanese",
+      "title": "聖闘士星矢：Knights of the Zodiac バトル・サンクチュアリ"
+    },
+    {
+      "type": "English",
+      "title": "Saint Seiya: Knights of the Zodiac - Battle for Sanctuary"
+    }
+  ],
+  "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary",
+  "title_english": "Saint Seiya: Knights of the Zodiac - Battle for Sanctuary",
+  "title_japanese": "聖闘士星矢：Knights of the Zodiac バトル・サンクチュアリ",
+  "title_synonyms": [
+    "Knights of the Zodiac: Saint Seiya"
+  ],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-07-31T00:00:00+00:00",
+    "to": "2022-10-09T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 7,
+        "year": 2022
+      },
+      "to": {
+        "day": 9,
+        "month": 10,
+        "year": 2022
+      }
+    },
+    "string": "Jul 31, 2022 to Oct 9, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.22,
+  "scored_by": 1703,
+  "rank": 9088,
+  "popularity": 10044,
+  "members": 4064,
+  "favorites": 12,
+  "synopsis": "Second season of Saint Seiya: Knights of the Zodiac.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

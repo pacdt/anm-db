@@ -1,0 +1,137 @@
+{
+  "mal_id": 19257,
+  "url": "https://myanimelist.net/anime/19257/Megane-bu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/56139.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/56139t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/56139l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/56139.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/56139t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/56139l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/olBsGuxnbxo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Megane-bu!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Glasses Club"
+    },
+    {
+      "type": "Japanese",
+      "title": "メガネブ!"
+    }
+  ],
+  "title": "Megane-bu!",
+  "title_english": null,
+  "title_japanese": "メガネブ!",
+  "title_synonyms": [
+    "Glasses Club"
+  ],
+  "type": "TV",
+  "source": "Other",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-10-07T00:00:00+00:00",
+    "to": "2013-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2013
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2013
+      }
+    },
+    "string": "Oct 7, 2013 to Dec 23, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.24,
+  "scored_by": 11142,
+  "rank": 8990,
+  "popularity": 4446,
+  "members": 31388,
+  "favorites": 58,
+  "synopsis": "At Himaraya Third Technical School, five bespectacled members of the Glasses club are crazy about eyewear. Their leader, Akira Souma, founded the club to develop the X-ray glasses of his dreams, but their research has been slow in between getting into quirky escapades and fighting off student body president William Satou's attempts to further cut their tight club funding. With unbounded youthful passion, these friends set their minds on making their project a resounding success.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2013,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 2229,
+      "type": "anime",
+      "name": "Toho Music",
+      "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

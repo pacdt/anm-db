@@ -1,0 +1,171 @@
+{
+  "mal_id": 1017,
+  "url": "https://myanimelist.net/anime/1017/Majutsushi_Orphen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/61839.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/61839t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/61839l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/61839.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/61839t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/61839l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/siphWKKZbPU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Majutsushi Orphen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sorcerer Stabber Orphen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sorcerous Stabber Orphen"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔術士オーフェン"
+    },
+    {
+      "type": "English",
+      "title": "Orphen"
+    },
+    {
+      "type": "Spanish",
+      "title": "Orphen"
+    },
+    {
+      "type": "French",
+      "title": "Orphen: Le Sorcier Noir"
+    }
+  ],
+  "title": "Majutsushi Orphen",
+  "title_english": "Orphen",
+  "title_japanese": "魔術士オーフェン",
+  "title_synonyms": [
+    "Sorcerer Stabber Orphen",
+    "Sorcerous Stabber Orphen"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-10-03T00:00:00+00:00",
+    "to": "1999-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 1998
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 1999
+      }
+    },
+    "string": "Oct 3, 1998 to Mar 27, 1999"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.07,
+  "scored_by": 16698,
+  "rank": 4249,
+  "popularity": 3511,
+  "members": 49937,
+  "favorites": 185,
+  "synopsis": "Six years ago at the magic school known as the Tower of Fang, a grave accident happened involving the magical sword Baltanders and the magic user Azalie. Unable to control the sword's power, Azalie was transformed into the shape of a great dragon who since that day became known as Bloody August. Krilancelo, a young magician at the Tower who cared greatly for Azalie found much to his disgust that the elders of the Tower of Fang were less than willing to save Azalie and wanted rather to pretend the accident never happened. Angered by their stand, Krilanceloa swore that he would find a way to return Azalie to her former self. Thus he forsook the name Krilancelo and declared himself Orphen, leaving the Tower and his magical studies behind to wander the world...\n\n(Source: ANN, edited)",
+  "background": "",
+  "season": "fall",
+  "year": 1998,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

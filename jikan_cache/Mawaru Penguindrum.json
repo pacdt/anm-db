@@ -1,0 +1,159 @@
+{
+  "mal_id": 10721,
+  "url": "https://myanimelist.net/anime/10721/Mawaru_Penguindrum",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/30238.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/30238t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/30238l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/30238.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/30238t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/30238l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mawaru Penguindrum"
+    },
+    {
+      "type": "Japanese",
+      "title": "輪るピングドラム"
+    },
+    {
+      "type": "English",
+      "title": "Penguindrum"
+    }
+  ],
+  "title": "Mawaru Penguindrum",
+  "title_english": "Penguindrum",
+  "title_japanese": "輪るピングドラム",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-08T00:00:00+00:00",
+    "to": "2011-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2011
+      }
+    },
+    "string": "Jul 8, 2011 to Dec 23, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.92,
+  "scored_by": 112011,
+  "rank": 832,
+  "popularity": 870,
+  "members": 315893,
+  "favorites": 7384,
+  "synopsis": "For the Takakura family, destiny is an ever-spinning wheel, pointing passionately in their direction with equal tides of joy and sorrow before ticking on to the next wishmaker. With their parents gone, twin brothers Kanba and Shouma live alone with their beloved little sister Himari, whose poor health cannot decline any further.\n\nOn the day Himari is given permission to temporarily leave the hospital, her brothers take her out to the aquarium to celebrate, where the family's supposed fate is brought forth with her sudden collapse. However, when Himari is inexplicably revived by a penguin hat from the aquarium's souvenir shop, the hand of fate continues to tick faithfully forward.\n\nWith her miraculous recovery, though, comes a cost: there is a new entity within her body, whose condition for keeping her fate at bay sends the boys on a wild goose chase for the mysterious \"Penguin Drum.\" In their search, the boys will have to follow the threads of fate leading from their own shocking past and into the lives of other wishmakers vying for the Penguin Drum, all hoping to land upon their chosen destiny.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:10",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:10 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Avant Garde",
+      "url": "https://myanimelist.net/anime/genre/5/Avant_Garde"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": []
+}

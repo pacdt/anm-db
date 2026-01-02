@@ -1,0 +1,153 @@
+{
+  "mal_id": 33094,
+  "url": "https://myanimelist.net/anime/33094/WWWWorking",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/82287.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/82287t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/82287l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/82287.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/82287t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/82287l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/bYp1SFD6SsQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "WWW.Working!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "WWW.WORKING!!"
+    },
+    {
+      "type": "English",
+      "title": "WWW.WAGNARIA!!"
+    },
+    {
+      "type": "German",
+      "title": "WWW.Wagnaria!!"
+    },
+    {
+      "type": "Spanish",
+      "title": "WWW.Wagnaria!!"
+    },
+    {
+      "type": "French",
+      "title": "WWW.Wagnaria!!"
+    }
+  ],
+  "title": "WWW.Working!!",
+  "title_english": "WWW.WAGNARIA!!",
+  "title_japanese": "WWW.WORKING!!",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-01T00:00:00+00:00",
+    "to": "2016-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 1, 2016 to Dec 24, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.41,
+  "scored_by": 79066,
+  "rank": 2454,
+  "popularity": 1613,
+  "members": 165167,
+  "favorites": 294,
+  "synopsis": "Daisuke Higashida is a serious first-year student at Higashizaka High School. He lives a peaceful everyday life even though he is not satisfied with the family who doesn't laugh at all and makes him tired. However, his father's company goes bankrupt one day, and he can no longer afford allowances, cellphone bills, and commuter tickets. When his father orders him to take up a part-time job, Daisuke decides to work at a nearby family restaurant in order to avoid traveling 15 kilometers to school by bicycle.",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 1496,
+      "type": "anime",
+      "name": "Lawson",
+      "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": []
+}

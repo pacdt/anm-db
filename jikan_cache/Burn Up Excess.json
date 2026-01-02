@@ -1,0 +1,175 @@
+{
+  "mal_id": 370,
+  "url": "https://myanimelist.net/anime/370/Burn_Up_Excess",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/75501.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/75501t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/75501l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/75501.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/75501t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/75501l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Burn Up Excess"
+    },
+    {
+      "type": "Synonym",
+      "title": "Burn Up! X"
+    },
+    {
+      "type": "Synonym",
+      "title": "Burn Up! Excess"
+    },
+    {
+      "type": "Synonym",
+      "title": "Burn-Up Excess"
+    },
+    {
+      "type": "Japanese",
+      "title": "バーンナップEXCESS"
+    },
+    {
+      "type": "English",
+      "title": "Burn Up Excess"
+    }
+  ],
+  "title": "Burn Up Excess",
+  "title_english": "Burn Up Excess",
+  "title_japanese": "バーンナップEXCESS",
+  "title_synonyms": [
+    "Burn Up! X",
+    "Burn Up! Excess",
+    "Burn-Up Excess"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1997-12-12T00:00:00+00:00",
+    "to": "1998-07-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 12,
+        "year": 1997
+      },
+      "to": {
+        "day": 1,
+        "month": 7,
+        "year": 1998
+      }
+    },
+    "string": "Dec 12, 1997 to Jul 1, 1998"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.53,
+  "scored_by": 5207,
+  "rank": 7195,
+  "popularity": 6225,
+  "members": 13767,
+  "favorites": 22,
+  "synopsis": "Follows the exploits of Team Warrior, a special anti-terror wing of the Neo-Tokyo Police force. Team Warrior is comprised of the habitually broke Rio, gun-crazy Maya, computer specialist Lillica, tech-expert Nanvel, piliot/voyeur Yuji, and is led by the enigmatic Maki. The team faces a number of missions, ranging from bodyguard duty, breaking up robbery and arms rackets, and providing security for a very powerful tank. Rio and company continually thwart the terrorist aims of Ruby, an operative for a shadowy cabal of powerful men. Before the final showdown, the circumstances behind the formation of Team Warrior, how the precocious Rio came to join it, and Maki's painful past will be revealed.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 1998,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 207,
+      "type": "anime",
+      "name": "Magic Bus",
+      "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    }
+  ],
+  "demographics": []
+}

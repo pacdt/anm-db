@@ -1,0 +1,143 @@
+{
+  "mal_id": 21067,
+  "url": "https://myanimelist.net/anime/21067/Strange_",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/57481.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/57481t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/57481l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/57481.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/57481t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/57481l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/aAZ6kSyUf-E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Strange+"
+    },
+    {
+      "type": "Synonym",
+      "title": "Strange Plus"
+    },
+    {
+      "type": "Japanese",
+      "title": "ストレンジ・プラス"
+    }
+  ],
+  "title": "Strange+",
+  "title_english": null,
+  "title_japanese": "ストレンジ・プラス",
+  "title_synonyms": [
+    "Strange Plus"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-10T00:00:00+00:00",
+    "to": "2014-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 10, 2014 to Mar 28, 2014"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.95,
+  "scored_by": 13726,
+  "rank": 10672,
+  "popularity": 4314,
+  "members": 33842,
+  "favorites": 29,
+  "synopsis": "Kou comes to a slum neighborhood in search of his elder brother Takumi and finds him to have become the head of a private detective firm. Kou is drafted by Takumi to do errands and chores in the detective firm, and they come to meet various interesting people...\n\n(Source: MAL News)",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 615,
+      "type": "anime",
+      "name": "Dream Creation",
+      "url": "https://myanimelist.net/anime/producer/615/Dream_Creation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 541,
+      "type": "anime",
+      "name": "Seven",
+      "url": "https://myanimelist.net/anime/producer/541/Seven"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 81,
+      "type": "anime",
+      "name": "Crossdressing",
+      "url": "https://myanimelist.net/anime/genre/81/Crossdressing"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ]
+}

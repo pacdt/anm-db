@@ -1,0 +1,121 @@
+{
+  "mal_id": 63019,
+  "url": "https://myanimelist.net/anime/63019/Prism_Rondo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1862/153881.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1862/153881t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1862/153881l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1862/153881.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1862/153881t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1862/153881l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/u6yj9nCe0tM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Prism Rondo"
+    },
+    {
+      "type": "Japanese",
+      "title": "プリズム輪舞曲"
+    },
+    {
+      "type": "English",
+      "title": "Love Through a Prism"
+    }
+  ],
+  "title": "Prism Rondo",
+  "title_english": "Love Through a Prism",
+  "title_japanese": "プリズム輪舞曲",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Original",
+  "episodes": 20,
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-15T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 15, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 8683,
+  "members": 6092,
+  "favorites": 13,
+  "synopsis": "In early-1900s London, Lili Ichijouin, a Japanese exchange student travels to England to enroll in the prestigious Saint Thomas Art Academy. Determined to become a painter, she arrives under pressure: her parents expect her to rise to the top of her class within six months or return home.\n\nLili's drive intensifies when she encounters Kit Church, a gifted aristocratic student known for his talent and detachment. While Kit has devoted himself entirely to painting, Lili's sincerity and resilience begin to shift something in him. The two share little beyond their love for art, yet their relationship quickly becomes central to life at the academy.\n\n(Source: Netflix, edited)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Visual Arts",
+      "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+    }
+  ],
+  "demographics": []
+}

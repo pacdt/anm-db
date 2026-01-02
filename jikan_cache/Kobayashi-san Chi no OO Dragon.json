@@ -1,0 +1,132 @@
+{
+  "mal_id": 35145,
+  "url": "https://myanimelist.net/anime/35145/Kobayashi-san_Chi_no_OO_Dragon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1013/121928.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1013/121928t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1013/121928l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1013/121928.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1013/121928t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1013/121928l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kobayashi-san Chi no OO Dragon"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Maid Dragon of Kobayashi-san Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kobayashi-san Chi no Maid Dragon Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "小林さんちの○○ドラゴン"
+    },
+    {
+      "type": "English",
+      "title": "Miss Kobayashi's Dragon Something"
+    }
+  ],
+  "title": "Kobayashi-san Chi no OO Dragon",
+  "title_english": "Miss Kobayashi's Dragon Something",
+  "title_japanese": "小林さんちの○○ドラゴン",
+  "title_synonyms": [
+    "The Maid Dragon of Kobayashi-san Specials",
+    "Kobayashi-san Chi no Maid Dragon Specials"
+  ],
+  "type": "Special",
+  "source": "Manga",
+  "episodes": 7,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-03-15T00:00:00+00:00",
+    "to": "2017-09-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 3,
+        "year": 2017
+      },
+      "to": {
+        "day": 20,
+        "month": 9,
+        "year": 2017
+      }
+    },
+    "string": "Mar 15, 2017 to Sep 20, 2017"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.25,
+  "scored_by": 52489,
+  "rank": 3250,
+  "popularity": 2218,
+  "members": 107389,
+  "favorites": 133,
+  "synopsis": "Specials included with the BD/DVD release of Kobayashi-san Chi no Maid Dragon.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

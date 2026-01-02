@@ -1,0 +1,111 @@
+{
+  "mal_id": 33839,
+  "url": "https://myanimelist.net/anime/33839/Alice_in_Deadly_School",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1614/110455t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1614/110455l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1614/110455.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1614/110455t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1614/110455l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/NJadE80gnjM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Alice in Deadly School"
+    },
+    {
+      "type": "Japanese",
+      "title": "アリスインデッドリースクール"
+    }
+  ],
+  "title": "Alice in Deadly School",
+  "title_english": null,
+  "title_japanese": "アリスインデッドリースクール",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Other",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-03-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 3,
+        "year": 2021
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 3, 2021"
+  },
+  "duration": "41 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.17,
+  "scored_by": 4412,
+  "rank": 13628,
+  "popularity": 5408,
+  "members": 19974,
+  "favorites": 14,
+  "synopsis": "A group of young girls are cornered on the roof of their school when everyone else has turned into zombies. Realizing that the chances of being rescued are slim, they begin planning their escape using their knowledge and skills. In the girls' desperate struggle to survive, they must also find time to contemplate their friendship.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 346,
+      "type": "anime",
+      "name": "Hoods Entertainment",
+      "url": "https://myanimelist.net/anime/producer/346/Hoods_Entertainment"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

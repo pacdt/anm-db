@@ -1,0 +1,181 @@
+{
+  "mal_id": 1372,
+  "url": "https://myanimelist.net/anime/1372/Taiho_Shichau_zo_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/16767.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/16767t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/16767l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/16767.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/16767t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/16767l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/86G1cGR616k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Taiho Shichau zo (TV)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Taiho Shichauzo (1996)"
+    },
+    {
+      "type": "Synonym",
+      "title": "YUA"
+    },
+    {
+      "type": "Japanese",
+      "title": "逮捕しちゃうぞ (1996)"
+    },
+    {
+      "type": "English",
+      "title": "You're Under Arrest (1996)"
+    },
+    {
+      "type": "French",
+      "title": "Equipières de Choc-Série TV"
+    }
+  ],
+  "title": "Taiho Shichau zo (TV)",
+  "title_english": "You're Under Arrest (1996)",
+  "title_japanese": "逮捕しちゃうぞ (1996)",
+  "title_synonyms": [
+    "Taiho Shichauzo (1996)",
+    "YUA"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 47,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-10-05T00:00:00+00:00",
+    "to": "1997-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 1996
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 1997
+      }
+    },
+    "string": "Oct 5, 1996 to Sep 27, 1997"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.53,
+  "scored_by": 11134,
+  "rank": 1955,
+  "popularity": 3856,
+  "members": 42474,
+  "favorites": 263,
+  "synopsis": "Tokyo Highway Patrolwomen Natsumi and Miyuki get off to a bad start when Miyuki busts Natsumi for reckless moped driving on her way to work. Things get worse when they find out they're going to be partners!\n\nA continuation of the OVA series, the adventures of Tokyo policewomen Natsumi and Miyuki continue in the You're Under Arrest TV series. It's back to Bokuto Precinct, where demented felons and bashful (but hunky) policemen abound, and where the cutest girl in the office... isn't a girl.\n\n(Source: Rightstuf)",
+  "background": "",
+  "season": "fall",
+  "year": 1996,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1585,
+      "type": "anime",
+      "name": "Nichion",
+      "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 310,
+      "type": "anime",
+      "name": "AnimEigo",
+      "url": "https://myanimelist.net/anime/producer/310/AnimEigo"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

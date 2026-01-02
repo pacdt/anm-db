@@ -1,0 +1,157 @@
+{
+  "mal_id": 37822,
+  "url": "https://myanimelist.net/anime/37822/Douluo_Dalu_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1538/93566.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1538/93566.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Douluo Dalu 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Douluo Dalu Second Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Soul Land 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "斗罗大陆"
+    },
+    {
+      "type": "English",
+      "title": "Soul Land"
+    }
+  ],
+  "title": "Douluo Dalu 2nd Season",
+  "title_english": "Soul Land",
+  "title_japanese": "斗罗大陆",
+  "title_synonyms": [
+    "Douluo Dalu Second Season",
+    "Soul Land 2nd Season"
+  ],
+  "type": "ONA",
+  "source": "Novel",
+  "episodes": 237,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-12-01T00:00:00+00:00",
+    "to": "2023-06-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 12,
+        "year": 2018
+      },
+      "to": {
+        "day": 10,
+        "month": 6,
+        "year": 2023
+      }
+    },
+    "string": "Dec 1, 2018 to Jun 10, 2023"
+  },
+  "duration": "20 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.36,
+  "scored_by": 10381,
+  "rank": 251,
+  "popularity": 5026,
+  "members": 23674,
+  "favorites": 497,
+  "synopsis": "Second season of Douluo Dalu.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 2615,
+      "type": "anime",
+      "name": "Xuanshi Tangmen",
+      "url": "https://myanimelist.net/anime/producer/2615/Xuanshi_Tangmen"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1768,
+      "type": "anime",
+      "name": "Sparkly Key Animation Studio",
+      "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": []
+}

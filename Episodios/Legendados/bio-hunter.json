@@ -1,0 +1,173 @@
+{
+  "nome": "Bio Hunter",
+  "slug": "bio-hunter",
+  "imagem": "https://animefire.io/img/animes/bio-hunter.webp",
+  "episodios": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4/bio-hunter/sd/1.mp4"
+    }
+  ],
+  "metadata_completo": {
+    "mal_id": 1269,
+    "url": "https://myanimelist.net/anime/1269/Bio_Hunter",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/17896.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/17896t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/17896l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/17896.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/11/17896t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/11/17896l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bio Hunter"
+      },
+      {
+        "type": "Synonym",
+        "title": "Biohunter"
+      },
+      {
+        "type": "Japanese",
+        "title": "バイオ・ハンター"
+      }
+    ],
+    "title": "Bio Hunter",
+    "title_english": null,
+    "title_japanese": "バイオ・ハンター",
+    "title_synonyms": [
+      "Biohunter"
+    ],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "1995-12-08T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 8,
+          "month": 12,
+          "year": 1995
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Dec 8, 1995"
+    },
+    "duration": "58 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.96,
+    "scored_by": 7254,
+    "rank": 10609,
+    "popularity": 5695,
+    "members": 17340,
+    "favorites": 21,
+    "synopsis": "In the molecular biology department of a major university, Komada and Koshigaya do more than just teach. They are also investigating demon viruses, which cause people to morph into grotesque creatures with a craving for human flesh. While conducting their research, the pair encounter Sayaka Murakami, the granddaughter of a famous fortune teller. Feeling compelled to help her find her missing grandfather, Komada and Koshigaya learn that a group of thugs is pursuing Sayaka. To make matters more sinister, these perpetrators seem to have a connection to the demon viruses.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 157,
+        "type": "anime",
+        "name": "BMG Japan",
+        "url": "https://myanimelist.net/anime/producer/157/BMG_Japan"
+      },
+      {
+        "mal_id": 3172,
+        "type": "anime",
+        "name": "Arts Pro",
+        "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 1447,
+        "type": "anime",
+        "name": "Urban Vision",
+        "url": "https://myanimelist.net/anime/producer/1447/Urban_Vision"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 11,
+        "type": "anime",
+        "name": "Madhouse",
+        "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 14,
+        "type": "anime",
+        "name": "Horror",
+        "url": "https://myanimelist.net/anime/genre/14/Horror"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 58,
+        "type": "anime",
+        "name": "Gore",
+        "url": "https://myanimelist.net/anime/genre/58/Gore"
+      },
+      {
+        "mal_id": 6,
+        "type": "anime",
+        "name": "Mythology",
+        "url": "https://myanimelist.net/anime/genre/6/Mythology"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 42,
+        "type": "anime",
+        "name": "Seinen",
+        "url": "https://myanimelist.net/anime/genre/42/Seinen"
+      }
+    ]
+  }
+}

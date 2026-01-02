@@ -1,0 +1,165 @@
+{
+  "mal_id": 96,
+  "url": "https://myanimelist.net/anime/96/Kidou_Butouden_G_Gundam",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1187/133654.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1187/133654t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/133654l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1187/133654.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1187/133654t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/133654l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kidou Butouden G Gundam"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mobile Fighter G-Gundam"
+    },
+    {
+      "type": "Japanese",
+      "title": "機動武闘伝Gガンダム"
+    },
+    {
+      "type": "English",
+      "title": "Mobile Fighter G Gundam"
+    }
+  ],
+  "title": "Kidou Butouden G Gundam",
+  "title_english": "Mobile Fighter G Gundam",
+  "title_japanese": "機動武闘伝Gガンダム",
+  "title_synonyms": [
+    "Mobile Fighter G-Gundam"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 49,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1994-04-01T00:00:00+00:00",
+    "to": "1995-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 1994
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 1995
+      }
+    },
+    "string": "Apr 1, 1994 to Mar 31, 1995"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.59,
+  "scored_by": 39827,
+  "rank": 1703,
+  "popularity": 2802,
+  "members": 74644,
+  "favorites": 1107,
+  "synopsis": "In the year Future Century 0060, the many countries that once comprised Earth's surface exist as separate colonies floating in space. Their home planet now uninhabitable, the ruler of all of the colonies is decided by their unanimous participation in the intergalactic Gundam Fight Tournament—a series of battles between the champions of each colony to determine who is most fit to reign over them all.\n\nNeo-Japan's champion is Domon Kasshu, a man who accepts the role with some ulterior motives. Domon searches the galaxy for his brother, a criminal who allegedly murdered their mother and made off with the Devil Gundam, a highly advanced weapon with the power to unleash mass destruction across the galaxy. In his quest to bring his sibling to justice, Domon travels from colony to colony, meeting many of the fighters who will become his allies and enemies in the forthcoming Gundam Fight Tournament.\n\nArmed with the strength of the Shining Gundam, Domon battles to uncover the truth behind his tortured childhood, suffering great betrayal and crushing blows on his quest toward personal and national triumph.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 1994,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 17:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": []
+}

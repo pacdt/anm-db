@@ -1,0 +1,147 @@
+{
+  "mal_id": 13655,
+  "url": "https://myanimelist.net/anime/13655/Little_Busters",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/43757.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/43757t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/43757l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/43757.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/43757t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/43757l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/PyJilNDluYw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Little Busters!"
+    },
+    {
+      "type": "Synonym",
+      "title": "LB!"
+    },
+    {
+      "type": "Japanese",
+      "title": "リトルバスターズ!"
+    },
+    {
+      "type": "English",
+      "title": "Little Busters!"
+    }
+  ],
+  "title": "Little Busters!",
+  "title_english": "Little Busters!",
+  "title_japanese": "リトルバスターズ!",
+  "title_synonyms": [
+    "LB!"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-06T00:00:00+00:00",
+    "to": "2013-04-06T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 6,
+        "month": 4,
+        "year": 2013
+      }
+    },
+    "string": "Oct 6, 2012 to Apr 6, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.48,
+  "scored_by": 112175,
+  "rank": 2120,
+  "popularity": 905,
+  "members": 304525,
+  "favorites": 1931,
+  "synopsis": "As a child, Riki Naoe shut himself from the world, thanks to a diagnosis of narcolepsy following the tragic deaths of his parents. However, Riki is saved when, one fateful day, a boy named Kyousuke recruits him into a team who call themselves the Little Busters. Accompanied by Masato, Kengo, and Rin, these misfits spend their childhood fighting evil and enjoying their youth.\n\nYears pass, and even in high school, the well-knit teammates remain together. Kyousuke decides to re-ignite the Little Busters by forming a baseball team as it will be his last school year with them. They have a problem though: there aren't enough members! The tables have turned, for it is now Riki's turn to reach out and recruit new friends into the Little Busters, just like Kyousuke had once done for him.\nThen, an omen surfaces—Rin finds a strange letter attached to her cat, assigning them the duty of uncovering the \"secret of this world\" by completing specific tasks. Just what is this secret, and why is it being hidden? It's up to the Little Busters to find out!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

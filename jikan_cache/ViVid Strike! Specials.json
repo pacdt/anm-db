@@ -1,0 +1,123 @@
+{
+  "mal_id": 34812,
+  "url": "https://myanimelist.net/anime/34812/ViVid_Strike_Specials",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/84018.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/84018t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/84018l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/84018.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/84018t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/84018l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_3LgaYWcjOo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "ViVid Strike! Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "ViVid Strike! OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "ViVid Strike！新作OVA"
+    }
+  ],
+  "title": "ViVid Strike! Specials",
+  "title_english": null,
+  "title_japanese": "ViVid Strike！新作OVA",
+  "title_synonyms": [
+    "ViVid Strike! OVA"
+  ],
+  "type": "Special",
+  "source": "Original",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-25T00:00:00+00:00",
+    "to": "2017-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 25, 2017 to Mar 29, 2017"
+  },
+  "duration": "18 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.65,
+  "scored_by": 3732,
+  "rank": 6455,
+  "popularity": 6858,
+  "members": 10893,
+  "favorites": 12,
+  "synopsis": "Episodes 5.5, 5.75, and 13 bundled with the second, third, and fourth Blu-ray volumes of ViVid Strike!",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1569,
+      "type": "anime",
+      "name": "Seven Arcs Pictures",
+      "url": "https://myanimelist.net/anime/producer/1569/Seven_Arcs_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": []
+}

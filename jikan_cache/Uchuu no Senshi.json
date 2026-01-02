@@ -1,0 +1,150 @@
+{
+  "mal_id": 2516,
+  "url": "https://myanimelist.net/anime/2516/Uchuu_no_Senshi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1611/99361.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1611/99361t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1611/99361l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1611/99361.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1611/99361t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1611/99361l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Uchuu no Senshi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uchu no Senshi"
+    },
+    {
+      "type": "Japanese",
+      "title": "宇宙の戦士"
+    },
+    {
+      "type": "English",
+      "title": "Starship Troopers"
+    },
+    {
+      "type": "German",
+      "title": "Starship Troopers"
+    }
+  ],
+  "title": "Uchuu no Senshi",
+  "title_english": "Starship Troopers",
+  "title_japanese": "宇宙の戦士",
+  "title_synonyms": [
+    "Uchu no Senshi"
+  ],
+  "type": "OVA",
+  "source": "Book",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1988-10-25T00:00:00+00:00",
+    "to": "1988-12-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 10,
+        "year": 1988
+      },
+      "to": {
+        "day": 17,
+        "month": 12,
+        "year": 1988
+      }
+    },
+    "string": "Oct 25, 1988 to Dec 17, 1988"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.13,
+  "scored_by": 2489,
+  "rank": 9653,
+  "popularity": 8032,
+  "members": 7356,
+  "favorites": 12,
+  "synopsis": "Johnny Rico is a high school student living in Buenos Aires, who doesn't know what to do with his future life. When his friend Carl and his love Carmen, whom he grew up with, join the Federal Military, he does too enlist in the hope to chase after his love into space. However, a war is brewing on the outer planets with a strange bug-like alien enemy and Johnny is thrust into conflict.\n\n(Source: AniDB)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": []
+}

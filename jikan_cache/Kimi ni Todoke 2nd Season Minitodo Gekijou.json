@@ -1,0 +1,137 @@
+{
+  "mal_id": 10536,
+  "url": "https://myanimelist.net/anime/10536/Kimi_ni_Todoke_2nd_Season__Minitodo_Gekijou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1353/121755.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1353/121755t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1353/121755l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1353/121755.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1353/121755t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1353/121755l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kimi ni Todoke 2nd Season: Minitodo Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kimi ni Todoke 2nd Season: Minitodo Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kimi ni Todoke: From Me to You 2nd Season Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "Reaching You 2nd Season Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "君に届け ミニトド劇場"
+    },
+    {
+      "type": "English",
+      "title": "Kimi ni Todoke: From Me to You Season 2 - Mini Theater"
+    }
+  ],
+  "title": "Kimi ni Todoke 2nd Season: Minitodo Gekijou",
+  "title_english": "Kimi ni Todoke: From Me to You Season 2 - Mini Theater",
+  "title_japanese": "君に届け ミニトド劇場",
+  "title_synonyms": [
+    "Kimi ni Todoke 2nd Season: Minitodo Gekijou",
+    "Kimi ni Todoke: From Me to You 2nd Season Specials",
+    "Reaching You 2nd Season Specials"
+  ],
+  "type": "Special",
+  "source": "Manga",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-04-20T00:00:00+00:00",
+    "to": "2011-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 4,
+        "year": 2011
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Apr 20, 2011 to Sep 21, 2011"
+  },
+  "duration": "5 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.33,
+  "scored_by": 21532,
+  "rank": 2784,
+  "popularity": 3352,
+  "members": 54147,
+  "favorites": 47,
+  "synopsis": "DVD and BD-Box original animation shorts. \n\nEpisodes 1 and 2 (DVD and BD) are short fairy tales of Cinderella and Snow White from Kurumi's telling, respectively.\n\nEpisode 3 (BD only) is a stage performance of Romeo and Juliet by Kazehaya and Sawako with Chizuru, Ayane, Ryuu in the backstage and Miura as the announcer.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

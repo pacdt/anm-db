@@ -1,0 +1,127 @@
+{
+  "mal_id": 51773,
+  "url": "https://myanimelist.net/anime/51773/KJ_File",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1010/123667.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1010/123667t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1010/123667l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1010/123667.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1010/123667t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1010/123667l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "KJ File"
+    },
+    {
+      "type": "Japanese",
+      "title": "KJ FILE (KJファイル)"
+    },
+    {
+      "type": "English",
+      "title": "KJ File"
+    }
+  ],
+  "title": "KJ File",
+  "title_english": "KJ File",
+  "title_japanese": "KJ FILE (KJファイル)",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-07-11T00:00:00+00:00",
+    "to": "2022-10-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 7,
+        "year": 2022
+      },
+      "to": {
+        "day": 3,
+        "month": 10,
+        "year": 2022
+      }
+    },
+    "string": "Jul 11, 2022 to Oct 3, 2022"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 4.63,
+  "scored_by": 530,
+  "rank": 14261,
+  "popularity": 7575,
+  "members": 8567,
+  "favorites": 68,
+  "synopsis": "The story is set in a world where unique kaijuus suddenly begin to appear in various places around the world. Members of the United Nations Monster Observatory will explore a world where kaijuus with great powers and humankind live together.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "summer",
+  "year": 2022,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "03:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 03:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    },
+    {
+      "mal_id": 2438,
+      "type": "anime",
+      "name": "yell",
+      "url": "https://myanimelist.net/anime/producer/2438/yell"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

@@ -1,0 +1,158 @@
+{
+  "mal_id": 4884,
+  "url": "https://myanimelist.net/anime/4884/Tales_of_the_Abyss",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/21243.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/21243t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/21243l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/21243.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/21243t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/21243l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tales of the Abyss"
+    },
+    {
+      "type": "Japanese",
+      "title": "テイルズ オブ ジ アビス"
+    },
+    {
+      "type": "English",
+      "title": "Tales of the Abyss"
+    }
+  ],
+  "title": "Tales of the Abyss",
+  "title_english": "Tales of the Abyss",
+  "title_japanese": "テイルズ オブ ジ アビス",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-03T00:00:00+00:00",
+    "to": "2009-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2009
+      }
+    },
+    "string": "Oct 3, 2008 to Mar 27, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.26,
+  "scored_by": 51258,
+  "rank": 3191,
+  "popularity": 1986,
+  "members": 126545,
+  "favorites": 538,
+  "synopsis": "The world of Auldrant is bound by the Score, a series of prophecies from centuries past that dictate the world's future. It is considered an absolute fate that everyone lives by—even people whose actions lead to bloodshed and tears. Using magical abilities known as the Fonic Arts, a war between the nation of Kimlasca-Lanvaldear and the Malkuth Empire is waged in hopes of bringing the Score's foreseen utopia to life.\n\nTales of the Abyss follows Luke von Fabre, who spends his days locked away in his manor after being kidnapped and losing memories as a child. One day, while honing his swordsmanship, a woman named Tear attempts to assassinate his master. Luke defends him, but the clash results in the two being teleported to a distant land. Luke and Tear’s journey back quickly escalates into a quest that will either free the world from the Score's chains or destroy it completely.",
+  "background": "",
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 140,
+      "type": "anime",
+      "name": "Animax",
+      "url": "https://myanimelist.net/anime/producer/140/Animax"
+    },
+    {
+      "mal_id": 1097,
+      "type": "anime",
+      "name": "Bandai Namco Games",
+      "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+    },
+    {
+      "mal_id": 1175,
+      "type": "anime",
+      "name": "Atelier Musa",
+      "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

@@ -1,0 +1,201 @@
+{
+  "mal_id": 53590,
+  "url": "https://myanimelist.net/anime/53590/Saijaku_Tamer_wa_Gomi_Hiroi_no_Tabi_wo_Hajimemashita",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1280/138474.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1280/138474t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1280/138474l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1280/138474.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1280/138474t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1280/138474l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/LtwLjXQ3p1A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita."
+    },
+    {
+      "type": "Japanese",
+      "title": "最弱テイマーはゴミ拾いの旅を始めました。"
+    },
+    {
+      "type": "English",
+      "title": "The Weakest Tamer Began a Journey to Pick Up Trash"
+    }
+  ],
+  "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+  "title_english": "The Weakest Tamer Began a Journey to Pick Up Trash",
+  "title_japanese": "最弱テイマーはゴミ拾いの旅を始めました。",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-01-12T00:00:00+00:00",
+    "to": "2024-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2024
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2024
+      }
+    },
+    "string": "Jan 12, 2024 to Mar 29, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.57,
+  "scored_by": 64706,
+  "rank": 1760,
+  "popularity": 1892,
+  "members": 134813,
+  "favorites": 732,
+  "synopsis": "Born into a loving family, Femicia appears to have a bright future ahead of her. When she finally turns five, the time comes to go to the church to have her skills appraised. However, while she does receive a monster tamer skill, it turns out that Femicia has zero stars for that ability. To make matters worse, society considers those who have zero stars to be harbingers of misfortune; as a result, Femicia is shunned by everyone—including her family.\n\nSoon enough, Femicia is chased out of her village and is constantly on the run. Fearing for her life, she decides to masquerade as a boy and change her name to Ivy. With a goal given to her by a fortune teller to reach the royal capital, Ivy meets and successfully tames a slime, starting an unlikely friendship that may provide a means to get the destiny she deserves.\n\n[Written by MAL Rewrite]",
+  "background": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. was released on Blu-ray on June 5, 2024.",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    },
+    {
+      "mal_id": 1988,
+      "type": "anime",
+      "name": "TO Books",
+      "url": "https://myanimelist.net/anime/producer/1988/TO_Books"
+    },
+    {
+      "mal_id": 2146,
+      "type": "anime",
+      "name": "NetEase",
+      "url": "https://myanimelist.net/anime/producer/2146/NetEase"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    },
+    {
+      "mal_id": 2548,
+      "type": "anime",
+      "name": "ABC Frontier",
+      "url": "https://myanimelist.net/anime/producer/2548/ABC_Frontier"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2411,
+      "type": "anime",
+      "name": "Studio Massket",
+      "url": "https://myanimelist.net/anime/producer/2411/Studio_Massket"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 81,
+      "type": "anime",
+      "name": "Crossdressing",
+      "url": "https://myanimelist.net/anime/genre/81/Crossdressing"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": []
+}

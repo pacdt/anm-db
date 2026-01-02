@@ -1,0 +1,147 @@
+{
+  "mal_id": 1328,
+  "url": "https://myanimelist.net/anime/1328/1_Pound_no_Fukuin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1577/99202.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1577/99202t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1577/99202l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1577/99202.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1577/99202t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1577/99202l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "1 Pound no Fukuin"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ichi Pound no Fukuin"
+    },
+    {
+      "type": "Japanese",
+      "title": "１ポンドの福音"
+    },
+    {
+      "type": "English",
+      "title": "One Pound Gospel"
+    }
+  ],
+  "title": "1 Pound no Fukuin",
+  "title_english": "One Pound Gospel",
+  "title_japanese": "１ポンドの福音",
+  "title_synonyms": [
+    "Ichi Pound no Fukuin"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1988-12-02T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 12,
+        "year": 1988
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 2, 1988"
+  },
+  "duration": "50 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.31,
+  "scored_by": 3371,
+  "rank": 8568,
+  "popularity": 8336,
+  "members": 6724,
+  "favorites": 3,
+  "synopsis": "Young boxer Kosaku Hatanaka was once Coach Mukoda's prized prospect and the only member of their gym to become a professional. In the short time he has been on the scene, however, he has racked up an unimpressive record, failing to even make his weight class for several matches. After a particularly embarrassing incident in the ring causes the cancellation of multiple upcoming fights, his coach tells him that his next bout may be his last if he fails to shape up.\n\nAfter managing to break his diet by convincing a local novitiate, Sister Angela, to feed him, it seems certain that Kosaku will once again be too heavy to compete, ending his career on a forfeit. When Sister Angela hears of her unwitting part in Kosaku's gluttony, she is determined to set him on the path of righteousness—even when he seems more interested in the pretty girl under the cloth than in the word of the Lord.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Gallop",
+      "url": "https://myanimelist.net/anime/producer/36/Gallop"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

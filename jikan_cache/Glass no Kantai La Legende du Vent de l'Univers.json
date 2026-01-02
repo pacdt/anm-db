@@ -1,0 +1,162 @@
+{
+  "mal_id": 973,
+  "url": "https://myanimelist.net/anime/973/Glass_no_Kantai__La_Legende_du_Vent_de_lUnivers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/75835.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75835t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75835l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/75835.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75835t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75835l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Glass no Kantai: La Legende du Vent de l'Univers"
+    },
+    {
+      "type": "Synonym",
+      "title": "Garakan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Garasu no Kantai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Glass Fleet"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガラスの艦隊～La legende du vent de l'univers～"
+    },
+    {
+      "type": "English",
+      "title": "Glass Fleet"
+    }
+  ],
+  "title": "Glass no Kantai: La Legende du Vent de l'Univers",
+  "title_english": "Glass Fleet",
+  "title_japanese": "ガラスの艦隊～La legende du vent de l'univers～",
+  "title_synonyms": [
+    "Garakan",
+    "Garasu no Kantai",
+    "Glass Fleet"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-04-05T00:00:00+00:00",
+    "to": "2006-09-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2006
+      },
+      "to": {
+        "day": 22,
+        "month": 9,
+        "year": 2006
+      }
+    },
+    "string": "Apr 5, 2006 to Sep 22, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.51,
+  "scored_by": 4062,
+  "rank": 7310,
+  "popularity": 6282,
+  "members": 13443,
+  "favorites": 20,
+  "synopsis": "The People's Army led by Michel stands against Vetti's newly founded empire. Upon seeing how strong the Glass Battleship is, Michel tries to get Cleo, the captain of the Glass Battleship, to help People's Army overthrow Vetti's empire. And together they fight against Vetti's empire.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2006,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "02:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 02:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 1415,
+      "type": "anime",
+      "name": "Asahi Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+    },
+    {
+      "mal_id": 1597,
+      "type": "anime",
+      "name": "Sotsu Music Publishing",
+      "url": "https://myanimelist.net/anime/producer/1597/Sotsu_Music_Publishing"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

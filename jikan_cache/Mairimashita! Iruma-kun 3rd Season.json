@@ -1,0 +1,154 @@
+{
+  "mal_id": 49784,
+  "url": "https://myanimelist.net/anime/49784/Mairimashita_Iruma-kun_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1688/128720.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1688/128720t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1688/128720l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1688/128720.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1688/128720t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1688/128720l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/v0M9JojWdFA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mairimashita! Iruma-kun 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Welcome to Demon School! Iruma-kun 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔入りました！入間くん"
+    },
+    {
+      "type": "English",
+      "title": "Welcome to Demon School! Iruma-kun Season 3"
+    }
+  ],
+  "title": "Mairimashita! Iruma-kun 3rd Season",
+  "title_english": "Welcome to Demon School! Iruma-kun Season 3",
+  "title_japanese": "魔入りました！入間くん",
+  "title_synonyms": [
+    "Welcome to Demon School! Iruma-kun 3rd Season"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 21,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-08T00:00:00+00:00",
+    "to": "2023-03-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 4,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Oct 8, 2022 to Mar 4, 2023"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.83,
+  "scored_by": 112354,
+  "rank": 1036,
+  "popularity": 1150,
+  "members": 240178,
+  "favorites": 1327,
+  "synopsis": "Following their heroic efforts at Walter Park, the students of the misfit class return to Babyls Demon School after their summer vacation. What awaits them is not only adoration and admiration but also the shocking revelation that, in order to stay in the luxurious Royal One classroom, the entire class must be promoted to Dalet rank before entering the second year.\n\nAs the Harvest and Music Festivals are right around the corner, there seem to be ample opportunities to rank up. Doing so will not be simple, however, as no class thus far has managed to accomplish such a feat. Hoping to give the misfit class a chance to achieve the improbable, the school appoints special tutors to aid in confronting the challenges that lie ahead.\n\nWith his sights set beyond Dalet, Iruma Suzuki decides to take strides toward the goal of ranking up, starting with gaining acknowledgement from his special tutor: the short-tempered and selfish Bachiko Barbatos.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

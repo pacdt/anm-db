@@ -1,0 +1,138 @@
+{
+  "mal_id": 646,
+  "url": "https://myanimelist.net/anime/646/Haunted_Junction",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1163/94507.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1163/94507t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1163/94507l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1163/94507.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1163/94507t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1163/94507l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Haunted Junction"
+    },
+    {
+      "type": "Japanese",
+      "title": "HAUNTED じゃんくしょん"
+    }
+  ],
+  "title": "Haunted Junction",
+  "title_english": null,
+  "title_japanese": "HAUNTED じゃんくしょん",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1997-04-02T00:00:00+00:00",
+    "to": "1997-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 1997
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 1997
+      }
+    },
+    "string": "Apr 2, 1997 to Jun 25, 1997"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.63,
+  "scored_by": 2123,
+  "rank": 6587,
+  "popularity": 9104,
+  "members": 5403,
+  "favorites": 13,
+  "synopsis": "Saito High is a high school with its spiritual beings and a principal whose hobby is collecting occult paraphernalia. The school has the prophecy-chosen members of the Holy Student Council to protect it. These students have problems of their own; Haruto Houjo, the president, has a way of summoning spirits, and would resign from his duty for a normal life if it weren't for the principal. Kazumi Ryodo, the next member, is good at being possessed and has something for the Hanako. The last member is Mutsuki Asahina, who is a master of exorcism and is attracted to small boys. Unfortunately, these three are in charge of keeping the school in line and defending the world from supernatural beings, and this mission brings them through wacky predicaments.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 1997,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

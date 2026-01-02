@@ -1,0 +1,140 @@
+{
+  "mal_id": 57592,
+  "url": "https://myanimelist.net/anime/57592/Dr_Stone__Science_Future",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1403/146479.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/146479t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/146479l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1403/146479.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/146479t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/146479l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zjBQrDy5wLU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dr. Stone: Science Future"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dr. Stone 4th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "Dr.STONE SCIENCE FUTURE"
+    },
+    {
+      "type": "English",
+      "title": "Dr. Stone: Science Future"
+    }
+  ],
+  "title": "Dr. Stone: Science Future",
+  "title_english": "Dr. Stone: Science Future",
+  "title_japanese": "Dr.STONE SCIENCE FUTURE",
+  "title_synonyms": [
+    "Dr. Stone 4th Season"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-01-09T00:00:00+00:00",
+    "to": "2025-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2025
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2025
+      }
+    },
+    "string": "Jan 9, 2025 to Mar 27, 2025"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.25,
+  "scored_by": 130800,
+  "rank": 350,
+  "popularity": 983,
+  "members": 278105,
+  "favorites": 1197,
+  "synopsis": "Having resolved the crisis in the Petrification Kingdom, Senkuu and his companions gear up to deal directly with the mastermind behind the petrification phenomenon—who supposedly resides on the moon. The ambitious spaceship project, however, requires immense manpower and critical resources scattered across the world. Thus, the Kingdom of Science exploration team kick-starts its transcontinental journey on the ship Perseus to gather them all.\n\nEquipped with modern technology and bolstered by the new, capable members in their ranks, the exploration team feels confident about setting sail to their first destination: America. They soon realize that the region now hosts adversaries controlling the resources they need, doing so with scientific technology which rivals and even exceeds their own. In a battle of science versus science, Senkuu and his team must outsmart their rivals if they are to have any chance of ensuring the continued survival and rejuvenation of humanity.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2025,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "mal_id": 54829,
+  "url": "https://myanimelist.net/anime/54829/Urusei_Yatsura_2022_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1517/140830.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/140830t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/140830l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1517/140830.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/140830t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/140830l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/4hMO9mkM7Ac?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Urusei Yatsura (2022) 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Urusei Yatsura Season 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "うる星やつら第2期"
+    }
+  ],
+  "title": "Urusei Yatsura (2022) 2nd Season",
+  "title_english": null,
+  "title_japanese": "うる星やつら第2期",
+  "title_synonyms": [
+    "Urusei Yatsura Season 2"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 23,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-01-12T00:00:00+00:00",
+    "to": "2024-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2024
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 2024
+      }
+    },
+    "string": "Jan 12, 2024 to Jun 21, 2024"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.84,
+  "scored_by": 17917,
+  "rank": 1004,
+  "popularity": 3286,
+  "members": 56090,
+  "favorites": 243,
+  "synopsis": "Second season of Urusei Yatsura (2022).",
+  "background": "",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1556,
+      "type": "anime",
+      "name": "Fuji Creative",
+      "url": "https://myanimelist.net/anime/producer/1556/Fuji_Creative"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "mal_id": 8310,
+  "url": "https://myanimelist.net/anime/8310/Magic_Kaito",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1946/149930.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/149930t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/149930l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1946/149930.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/149930t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/149930l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Pwde-WS5t4g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Magic Kaito"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaito Kid"
+    },
+    {
+      "type": "Synonym",
+      "title": "Majikku Kaito"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaitou Kid"
+    },
+    {
+      "type": "Synonym",
+      "title": "Magic Kaitou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Detective Conan Special: Secret Birth of Kaito Kid"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaitou Kid Tanjou no Himitsu"
+    },
+    {
+      "type": "Japanese",
+      "title": "まじっく快斗"
+    },
+    {
+      "type": "German",
+      "title": "Magic Kaito: Kid Phantom Thief"
+    }
+  ],
+  "title": "Magic Kaito",
+  "title_english": null,
+  "title_japanese": "まじっく快斗",
+  "title_synonyms": [
+    "Kaito Kid",
+    "Majikku Kaito",
+    "Kaitou Kid",
+    "Magic Kaitou",
+    "Detective Conan Special: Secret Birth of Kaito Kid",
+    "Kaitou Kid Tanjou no Himitsu"
+  ],
+  "type": "TV Special",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-04-17T00:00:00+00:00",
+    "to": "2012-12-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 4,
+        "year": 2010
+      },
+      "to": {
+        "day": 29,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Apr 17, 2010 to Dec 29, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.77,
+  "scored_by": 34232,
+  "rank": 1172,
+  "popularity": 2727,
+  "members": 78076,
+  "favorites": 361,
+  "synopsis": "Magic is not real—everyone knows that. When performed by a true expert, however, magic possesses the ability to amaze and wonder its audience. Kaito Kuroba, son of world-famous stage magician Touichi Kuroba, is no stranger to this fact. Well-versed in the arts of deception and misdirection, Kaito frequently disrupts the lives of those around him with flashy tricks and pranks. But when Kaito accidentally stumbles upon a hidden passage in his home, he discovers a secret that may well have been the cause of his father's death eight years ago—the dove-white outfit of Kid the Phantom Thief. Wanting to find out more about his father, Kaito dons the outfit and searches for the Pandora Gem that is said to grant immortality. However, he is not the only one after the gem—the organization responsible for his father's death is also hot on his tail!\n\nMagic Kaito follows the rebirth of Kaitou Kid, phantom thief of the night. Utilizing his dummies, disguises, and signature card gun, Kaito sets out to steal the world's most precious jewels, uncovering the truth behind his father's death and the rumored Pandora Gem along the way.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

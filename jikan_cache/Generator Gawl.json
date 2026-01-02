@@ -1,0 +1,142 @@
+{
+  "mal_id": 1022,
+  "url": "https://myanimelist.net/anime/1022/Generator_Gawl",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/19006.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/19006t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/19006l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/19006.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/19006t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/19006l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Generator Gawl"
+    },
+    {
+      "type": "Japanese",
+      "title": "ジェネレイターガウル"
+    }
+  ],
+  "title": "Generator Gawl",
+  "title_english": null,
+  "title_japanese": "ジェネレイターガウル",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-10-07T00:00:00+00:00",
+    "to": "1998-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 1998
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 1998
+      }
+    },
+    "string": "Oct 7, 1998 to Dec 23, 1998"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.85,
+  "scored_by": 3972,
+  "rank": 5330,
+  "popularity": 6836,
+  "members": 10944,
+  "favorites": 33,
+  "synopsis": "Ryo, Gawl and Koji are 3 young boys who travel back into the past with only 1 objective: change history. In their time they discover that their country, Kubere, uses genetically enhanced persons called generators as a military tool. These generators are the cause for the Third War which kills most of the human population. Now Koji, Ryo and Gawl are there to change all the events. \n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 1998,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:55 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": []
+}

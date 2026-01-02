@@ -1,0 +1,157 @@
+{
+  "mal_id": 9911,
+  "url": "https://myanimelist.net/anime/9911/Houkago_no_Pleiades",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/47741.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/47741t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/47741l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/47741.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/47741t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/47741l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Houkago no Pleiades"
+    },
+    {
+      "type": "Synonym",
+      "title": "Afterschool Pleiades"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hokago no Pleiades"
+    },
+    {
+      "type": "Japanese",
+      "title": "放課後のプレアデス"
+    },
+    {
+      "type": "English",
+      "title": "Wish Upon the Pleiades"
+    }
+  ],
+  "title": "Houkago no Pleiades",
+  "title_english": "Wish Upon the Pleiades",
+  "title_japanese": "放課後のプレアデス",
+  "title_synonyms": [
+    "Afterschool Pleiades",
+    "Hokago no Pleiades"
+  ],
+  "type": "ONA",
+  "source": "Original",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-02-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 2,
+        "year": 2011
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 1, 2011"
+  },
+  "duration": "5 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.12,
+  "scored_by": 9312,
+  "rank": 9681,
+  "popularity": 5543,
+  "members": 18641,
+  "favorites": 16,
+  "synopsis": "Subaru is a young girl who likes to see the stars. One day, she opens the door to her school's observation room, only to find a large indoor garden instead! She meets a boy named Minato who says some strange things, telling her to leave soon after their meeting. As if the day wasn't weird enough, Subaru accidentally finds a strange blobby creature who runs off with her compass, leading her to stumble into a club room with girls wearing witch costumes!\n\nSubaru recognizes her friend Aoi in the group, and despite Aoi's protests, Subaru decides to join the club. Shortly after, she gets a strange automobile-like staff and a magical transformation from the club's \"president,\" the blobby creature from earlier, known as a Pleiadian. Aoi and the other members—Itsuki, Hikaru, and Nanako—have been looking for engine fragments of the spaceship that the Pleiadian used to travel in, so that it can go back to its home. But it seems that these girls are not the only ones searching for the fragments...\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 1606,
+      "type": "anime",
+      "name": "Dentsu Razorfish",
+      "url": "https://myanimelist.net/anime/producer/1606/Dentsu_Razorfish"
+    },
+    {
+      "mal_id": 1607,
+      "type": "anime",
+      "name": "Dentsu Tec",
+      "url": "https://myanimelist.net/anime/producer/1607/Dentsu_Tec"
+    },
+    {
+      "mal_id": 1608,
+      "type": "anime",
+      "name": "SUBARU",
+      "url": "https://myanimelist.net/anime/producer/1608/SUBARU"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": []
+}

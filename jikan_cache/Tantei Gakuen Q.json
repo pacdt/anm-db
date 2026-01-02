@@ -1,0 +1,153 @@
+{
+  "mal_id": 407,
+  "url": "https://myanimelist.net/anime/407/Tantei_Gakuen_Q",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/407.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/407t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/407l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/407.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/407t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/407l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tantei Gakuen Q"
+    },
+    {
+      "type": "Synonym",
+      "title": "Detective Academy Q"
+    },
+    {
+      "type": "Japanese",
+      "title": "探偵学園Q"
+    },
+    {
+      "type": "English",
+      "title": "Detective School Q"
+    }
+  ],
+  "title": "Tantei Gakuen Q",
+  "title_english": "Detective School Q",
+  "title_japanese": "探偵学園Q",
+  "title_synonyms": [
+    "Detective Academy Q"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 45,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-04-15T00:00:00+00:00",
+    "to": "2004-03-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 4,
+        "year": 2003
+      },
+      "to": {
+        "day": 20,
+        "month": 3,
+        "year": 2004
+      }
+    },
+    "string": "Apr 15, 2003 to Mar 20, 2004"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.73,
+  "scored_by": 15097,
+  "rank": 1270,
+  "popularity": 4087,
+  "members": 37702,
+  "favorites": 267,
+  "synopsis": "Kyuu is your average boy with a knack for logic and reasoning. Desiring to become a detective, he finds out about the existence of the Dan Detective School (DDS); a famed school where students are allowed to bear arms. Together with Megu, a girl with photographic memory, the martial arts master Kinta, the genius programmer Kazuma and the mysterious Ryuu, Kyuu tackles many well planned out crimes, always seeking the truth.",
+  "background": "",
+  "season": "spring",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

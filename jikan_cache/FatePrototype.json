@@ -1,0 +1,130 @@
+{
+  "mal_id": 12565,
+  "url": "https://myanimelist.net/anime/12565/Fate_Prototype",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/51045.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/51045t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/51045l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/51045.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/51045t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/51045l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fate/Prototype"
+    },
+    {
+      "type": "Japanese",
+      "title": "Fate/Prototype"
+    }
+  ],
+  "title": "Fate/Prototype",
+  "title_english": null,
+  "title_japanese": "Fate/Prototype",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-12-31T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 31, 2011"
+  },
+  "duration": "12 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.62,
+  "scored_by": 58333,
+  "rank": 6672,
+  "popularity": 2104,
+  "members": 117540,
+  "favorites": 110,
+  "synopsis": "Coming from a renowned magus family, Ayaka Sajou is much expected to partake in the Holy Grail War. But ever since her father and sister's demise in the previous battle, she has grown gloomy and unwilling to involve herself in the matters that killed her loved ones. Soon, she finds herself in grave danger at the hands of a knight and ends up summoning her own Servant named Saber. With him by her side, Ayaka ultimately becomes an official participant in the war she initially wanted to avoid so much.\n\n[Written by MAL Rewrite]",
+  "background": "Fate/Prototype is Kinoko Nasu's initial visualization for Fate/stay night.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 703,
+      "type": "anime",
+      "name": "Notes",
+      "url": "https://myanimelist.net/anime/producer/703/Notes"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 456,
+      "type": "anime",
+      "name": "Lerche",
+      "url": "https://myanimelist.net/anime/producer/456/Lerche"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,196 @@
+{
+  "mal_id": 11785,
+  "url": "https://myanimelist.net/anime/11785/Haiyore_Nyaruko-san",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/49081.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/49081t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/49081l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/49081.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/49081t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/49081l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Haiyore! Nyaruko-san"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nyarko-san: Another Crawling Chaos"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haiyoru! Nyaruko-san"
+    },
+    {
+      "type": "Japanese",
+      "title": "這いよれ！ニャル子さん"
+    },
+    {
+      "type": "English",
+      "title": "Nyaruko: Crawling With Love!"
+    },
+    {
+      "type": "German",
+      "title": "Nyarko-san: Another Crawling Chaos"
+    },
+    {
+      "type": "French",
+      "title": "Nyarko-san: Another Crawling Chaos"
+    }
+  ],
+  "title": "Haiyore! Nyaruko-san",
+  "title_english": "Nyaruko: Crawling With Love!",
+  "title_japanese": "這いよれ！ニャル子さん",
+  "title_synonyms": [
+    "Nyarko-san: Another Crawling Chaos",
+    "Haiyoru! Nyaruko-san"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-10T00:00:00+00:00",
+    "to": "2012-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2012
+      }
+    },
+    "string": "Apr 10, 2012 to Jun 26, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.97,
+  "scored_by": 157877,
+  "rank": 4719,
+  "popularity": 716,
+  "members": 371835,
+  "favorites": 1352,
+  "synopsis": "Mahiro Yasaka is just an ordinary high school student, until one day he is suddenly attacked by a dangerous monster. Just when everything seems to be lost, he is saved by a silver-haired girl named Nyaruko, who claims to be the shape-shifting deity Nyarlathotep from horror author H. P. Lovecraft's Cthulhu Mythos, sent by the Space Defense Agency to Earth. She explains to Mahiro that the creature chasing him was an alien called Nightgaunt, who had planned on abducting and selling him as a slave.\n\nAfter rescuing him from the alien, the Lovecraftian deity falls madly in love with Mahiro and forces herself into his household, much to his chagrin. Moreover, they are soon joined by two others from the fictional universe: Cthuko, a girl obsessed with Nyaruko, and Hasuta, a young boy easily mistaken for a beautiful female. Together, the three eccentric aliens protect Mahiro from the various extraterrestrial dangers that threaten both his and Earth's well-being, all the while making his life a living hell.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "Avex Entertainment",
+      "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 619,
+      "type": "anime",
+      "name": "Cospa",
+      "url": "https://myanimelist.net/anime/producer/619/Cospa"
+    },
+    {
+      "mal_id": 621,
+      "type": "anime",
+      "name": "SoftBank Creative",
+      "url": "https://myanimelist.net/anime/producer/621/SoftBank_Creative"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 1579,
+      "type": "anime",
+      "name": "Bulls Eye",
+      "url": "https://myanimelist.net/anime/producer/1579/Bulls_Eye"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,200 @@
+{
+  "mal_id": 232,
+  "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/60781t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/60781l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/60781t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/60781l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/luM4oGFSpT8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cardcaptor Sakura"
+    },
+    {
+      "type": "Synonym",
+      "title": "CCS"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cardcaptors"
+    },
+    {
+      "type": "Synonym",
+      "title": "Card Captor Sakura"
+    },
+    {
+      "type": "Japanese",
+      "title": "カードキャプターさくら"
+    },
+    {
+      "type": "English",
+      "title": "Cardcaptor Sakura"
+    }
+  ],
+  "title": "Cardcaptor Sakura",
+  "title_english": "Cardcaptor Sakura",
+  "title_japanese": "カードキャプターさくら",
+  "title_synonyms": [
+    "CCS",
+    "Cardcaptors",
+    "Card Captor Sakura"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 70,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-04-07T00:00:00+00:00",
+    "to": "2000-03-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 1998
+      },
+      "to": {
+        "day": 21,
+        "month": 3,
+        "year": 2000
+      }
+    },
+    "string": "Apr 7, 1998 to Mar 21, 2000"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG - Children",
+  "score": 8.18,
+  "scored_by": 231812,
+  "rank": 444,
+  "popularity": 531,
+  "members": 479431,
+  "favorites": 14589,
+  "synopsis": "Ten-year-old Sakura Kinomoto is an ordinary fourth-grade student living in Tomoeda until, one day, she stumbles upon a mysterious book of cards titled \"The Clow.\" Pondering over her discovery, she unintentionally causes a magical gust of wind to scatter the cards all over town.\n\nThe accident awakens the Beast of the Seal—Keroberos, nicknamed \"Kero\"—who tells Sakura that she has released the mystical \"Clow Cards\" created by the sorcerer Clow Reed. Due to each Card's ability to act independently and their incredible power, Clow had sealed them away. Now that they have been set free, the Cards pose great danger to the world, and it is up to Sakura to put an end to them.\n\nAppointing Sakura as the \"Cardcaptor\" and granting her the Sealed Key, Kero tasks her with finding and recapturing all the Clow Cards. Alongside her best friend Tomoyo Daidouji, and with Kero's guidance, Sakura must learn to balance her new secret duty with the everyday troubles as she takes flight on her magical adventures as Cardcaptor Sakura.\n\n[Written by MAL Rewrite]",
+  "background": "Cardcaptor Sakura won the Animage Grand Prix award for Best Anime in 1999.",
+  "season": "spring",
+  "year": 1998,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 161,
+      "type": "anime",
+      "name": "Sogo Vision",
+      "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 215,
+      "type": "anime",
+      "name": "Nelvana",
+      "url": "https://myanimelist.net/anime/producer/215/Nelvana"
+    },
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

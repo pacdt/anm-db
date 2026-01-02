@@ -1,0 +1,142 @@
+{
+  "mal_id": 42205,
+  "url": "https://myanimelist.net/anime/42205/Shaman_King_2021",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1416/113270.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1416/113270t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1416/113270l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1416/113270.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1416/113270t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1416/113270l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/rV8RZrZskdk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shaman King (2021)"
+    },
+    {
+      "type": "Japanese",
+      "title": "SHAMAN KING"
+    },
+    {
+      "type": "German",
+      "title": "Shaman King"
+    },
+    {
+      "type": "Spanish",
+      "title": "Shaman King"
+    },
+    {
+      "type": "French",
+      "title": "Shaman King"
+    }
+  ],
+  "title": "Shaman King (2021)",
+  "title_english": null,
+  "title_japanese": "SHAMAN KING",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 52,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-01T00:00:00+00:00",
+    "to": "2022-04-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 21,
+        "month": 4,
+        "year": 2022
+      }
+    },
+    "string": "Apr 1, 2021 to Apr 21, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.9,
+  "scored_by": 80651,
+  "rank": 5044,
+  "popularity": 976,
+  "members": 280004,
+  "favorites": 1755,
+  "synopsis": "Shamans are extraordinary individuals with the ability to communicate with ghosts, spirits, and gods, which are invisible to ordinary people. The Shaman Fight—a prestigious tournament pitting shamans from all over the world against each other—is held every five hundred years, where the winner is crowned Shaman King. This title allows the current incumbent to call upon the Great Spirit and shape the world as they see fit.\n\nFinding himself late for class one night, Manta Oyamada, an ordinary middle school student, decides to take a shortcut through the local cemetery. Noticing him, a lone boy sitting on a gravestone invites Manta to stargaze with \"them.\" Realizing that \"them\" refers to the boy and his ghostly friends, Manta flees in terror. Later, the boy introduces himself as You Asakura, a Shaman-in-training, and demonstrates his powers by teaming up with the ghost of six-hundred-year-old samurai Amidamaru to save Manta from a group of thugs. You befriends Manta due to his ability to see spirits, and with the help of Amidamaru, they set out to accomplish You's goal of becoming the next Shaman King.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "17:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 17:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 397,
+      "type": "anime",
+      "name": "Bridge",
+      "url": "https://myanimelist.net/anime/producer/397/Bridge"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

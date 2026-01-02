@@ -1,0 +1,169 @@
+{
+  "mal_id": 12677,
+  "url": "https://myanimelist.net/anime/12677/Ozma",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/35573.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/35573t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/35573l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/35573.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/35573t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/35573l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ozma"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ozuma"
+    },
+    {
+      "type": "Japanese",
+      "title": "オズマ"
+    },
+    {
+      "type": "English",
+      "title": "Ozma"
+    }
+  ],
+  "title": "Ozma",
+  "title_english": "Ozma",
+  "title_japanese": "オズマ",
+  "title_synonyms": [
+    "Ozuma"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-03-17T00:00:00+00:00",
+    "to": "2012-04-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 3,
+        "year": 2012
+      },
+      "to": {
+        "day": 21,
+        "month": 4,
+        "year": 2012
+      }
+    },
+    "string": "Mar 17, 2012 to Apr 21, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.07,
+  "scored_by": 7410,
+  "rank": 9994,
+  "popularity": 5822,
+  "members": 16332,
+  "favorites": 8,
+  "synopsis": "In the far future, the elevated irradiation from the sun has destroyed the environment of the earth and the birthrate of humans has drastically decreased. The government controls society with an army of cloned soldiers called \"Ideal Children (IC)\". Sam Coyne is a trader in a desert. One day, he saves a beautiful woman Maya, who has been chased by Theseus, a corps of IC. He shelters her in his trade ship, but the destroyers of Theseus surround Sam and Maya.",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 175,
+      "type": "anime",
+      "name": "Planet",
+      "url": "https://myanimelist.net/anime/producer/175/Planet"
+    },
+    {
+      "mal_id": 733,
+      "type": "anime",
+      "name": "Viki",
+      "url": "https://myanimelist.net/anime/producer/733/Viki"
+    },
+    {
+      "mal_id": 735,
+      "type": "anime",
+      "name": "Slow Curve",
+      "url": "https://myanimelist.net/anime/producer/735/Slow_Curve"
+    },
+    {
+      "mal_id": 1099,
+      "type": "anime",
+      "name": "Cyclone Graphics",
+      "url": "https://myanimelist.net/anime/producer/1099/Cyclone_Graphics"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    },
+    {
+      "mal_id": 563,
+      "type": "anime",
+      "name": "LandQ studios",
+      "url": "https://myanimelist.net/anime/producer/563/LandQ_studios"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

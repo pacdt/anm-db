@@ -1,0 +1,125 @@
+{
+  "mal_id": 8768,
+  "url": "https://myanimelist.net/anime/8768/Hiyokoi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/27766.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/27766t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/27766l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/27766.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/27766t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/27766l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hiyokoi"
+    },
+    {
+      "type": "Japanese",
+      "title": "ひよ恋"
+    }
+  ],
+  "title": "Hiyokoi",
+  "title_english": null,
+  "title_japanese": "ひよ恋",
+  "title_synonyms": [],
+  "type": "Special",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-07-30T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 30,
+        "month": 7,
+        "year": 2010
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 30, 2010"
+  },
+  "duration": "22 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.26,
+  "scored_by": 50022,
+  "rank": 3167,
+  "popularity": 2372,
+  "members": 97861,
+  "favorites": 160,
+  "synopsis": "After recovering from an accident, shy and small 15-year-old Hiyori Nishiyama is finally able to attend school again after a year. While trying to introduce herself in front of her class, she is interrupted by the tall and outgoing Yuushin Hirose. To make matters worse, their stark difference in height and personality starts to attract unwanted attention to Hiyori.\n\nDespite her unpleasant first impression of Yuushin, Hiyori becomes curious about his radiance. As the two set aside their differences, they quickly grow closer, encouraging Hiyori to break out of her shell.\n\n[Written by MAL Rewrite]",
+  "background": "Premiered at the \"Natsu Doki-Ribon-kko Party 55\" (夏ドキッ★りぼんっ子パーティー55) event in Tokyo on July 30, 2010. The event also ran in Osaka on August 6 and Nagoya on August 19. It was later released on DVD and bundled with the November issue of Shoujo Magazine Ribon.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "mal_id": 326,
+  "url": "https://myanimelist.net/anime/326/Petshop_of_Horrors",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1293/152502.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1293/152502t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1293/152502l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1293/152502.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1293/152502t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1293/152502l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Petshop of Horrors"
+    },
+    {
+      "type": "Japanese",
+      "title": "Pet Shop of Horrors (ペットショップ・オブ・ホラーズ)"
+    },
+    {
+      "type": "English",
+      "title": "Pet Shop of Horrors"
+    }
+  ],
+  "title": "Petshop of Horrors",
+  "title_english": "Pet Shop of Horrors",
+  "title_japanese": "Pet Shop of Horrors (ペットショップ・オブ・ホラーズ)",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-03-02T00:00:00+00:00",
+    "to": "1999-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 3,
+        "year": 1999
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 1999
+      }
+    },
+    "string": "Mar 2, 1999 to Mar 23, 1999"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.24,
+  "scored_by": 34076,
+  "rank": 3284,
+  "popularity": 2782,
+  "members": 75671,
+  "favorites": 478,
+  "synopsis": "Count D, a quite interesting pet shop owner from an area called Chinatown, sells rare and hard to come by pets to people longing for something special, but with each sale comes a contract. If the rules of the contract are followed, everything goes fine, but if someone should break the rules of the contract, the pet shop cannot be held responsible for anything unfortunate that might happen. Leon Orcot, a homicide detective, has linked many odd and unexplainable deaths together; they all were customers of Count D's pet shop, and he intends to find out why. \n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 1999,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Trans Arts",
+      "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    },
+    {
+      "mal_id": 1447,
+      "type": "anime",
+      "name": "Urban Vision",
+      "url": "https://myanimelist.net/anime/producer/1447/Urban_Vision"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ]
+}

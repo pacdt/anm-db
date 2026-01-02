@@ -1,0 +1,145 @@
+{
+  "mal_id": 6574,
+  "url": "https://myanimelist.net/anime/6574/Hanamaru_Youchien",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/50395.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/50395t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/50395l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/50395.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/50395t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/50395l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Jj6K3M9Guhk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hanamaru Youchien"
+    },
+    {
+      "type": "Japanese",
+      "title": "はなまる幼稚園"
+    },
+    {
+      "type": "English",
+      "title": "Hanamaru Kindergarten"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hanamaru Kindergarten"
+    }
+  ],
+  "title": "Hanamaru Youchien",
+  "title_english": "Hanamaru Kindergarten",
+  "title_japanese": "はなまる幼稚園",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-01-11T00:00:00+00:00",
+    "to": "2010-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2010
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2010
+      }
+    },
+    "string": "Jan 11, 2010 to Mar 29, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.26,
+  "scored_by": 41062,
+  "rank": 3162,
+  "popularity": 2300,
+  "members": 102347,
+  "favorites": 262,
+  "synopsis": "Anzu goes to a kindergarten with her friends, the shy Koume and the eccentric Hiiragi. Together they try to make their caretaker, Tsuchida Naozumi, fall in love with Anzu. However, he is clearly more interested in the pretty Yamamoto Nanako, a fellow kindergarten teacher who supervises the class next door. Even though Anzu tries to convince Tsuchida to marry her when she grows up by using various methods. Tsuchida, on the other hand, hopes to get a chance to date Yamamoto, and, if not, to marry her.",
+  "background": "",
+  "season": "winter",
+  "year": 2010,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Childcare",
+      "url": "https://myanimelist.net/anime/genre/53/Childcare"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

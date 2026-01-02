@@ -1,0 +1,165 @@
+{
+  "mal_id": 790,
+  "url": "https://myanimelist.net/anime/790/Ergo_Proxy",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1183/136187.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1183/136187t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1183/136187l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1183/136187.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1183/136187t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1183/136187l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ergo Proxy"
+    },
+    {
+      "type": "Japanese",
+      "title": "エルゴプラクシー"
+    },
+    {
+      "type": "English",
+      "title": "Ergo Proxy"
+    }
+  ],
+  "title": "Ergo Proxy",
+  "title_english": "Ergo Proxy",
+  "title_japanese": "エルゴプラクシー",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 23,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-02-25T00:00:00+00:00",
+    "to": "2006-08-12T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 2,
+        "year": 2006
+      },
+      "to": {
+        "day": 12,
+        "month": 8,
+        "year": 2006
+      }
+    },
+    "string": "Feb 25, 2006 to Aug 12, 2006"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.9,
+  "scored_by": 255132,
+  "rank": 883,
+  "popularity": 330,
+  "members": 703923,
+  "favorites": 14661,
+  "synopsis": "Within the domed city of Romdo lies one of the last human civilizations on Earth. Thousands of years ago, a global ecological catastrophe doomed the planet; now, life outside these domes is virtually impossible. To expedite mankind's recovery, \"AutoReivs,\" humanoid-like robots, have been created to assist people in their day-to-day lives. However, AutoReivs have begun contracting an enigmatic disease called the \"Cogito Virus,\" which grants them self-awareness. Re-l Mayer, the  granddaughter of Romdo's ruler, is assigned to investigate this phenomenon alongside her AutoReiv partner, Iggy. But what begins as a routine investigation quickly spirals into a conspiracy as Re-l is confronted by humanity's darkest sins.\n\nElsewhere in Romdo, an AutoReiv specialist by the name of Vincent Law must also face his demons when surreal events begin occurring around him. Re-l, Iggy, Vincent, and the child AutoReiv named Pino will form an unlikely faction as they struggle to uncover Romdo's mysteries and discover the true purpose of the mythical beings called \"Proxies.\"\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2006,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 160,
+      "type": "anime",
+      "name": "Rondo Robe",
+      "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Manglobe",
+      "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,171 @@
+{
+  "mal_id": 44248,
+  "url": "https://myanimelist.net/anime/44248/Fate_Grand_Carnival",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1239/117596.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1239/117596t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1239/117596l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1239/117596.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1239/117596t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1239/117596l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fate/Grand Carnival"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fate/Grand Carnival: Dai-1 Tokuien Eirei Genkai Taisai Olympia"
+    },
+    {
+      "type": "Japanese",
+      "title": "Fate/Grand Carnival 第一特異宴 英霊限界大祭オリンピア"
+    },
+    {
+      "type": "English",
+      "title": "Fate/Grand Carnival"
+    }
+  ],
+  "title": "Fate/Grand Carnival",
+  "title_english": "Fate/Grand Carnival",
+  "title_japanese": "Fate/Grand Carnival 第一特異宴 英霊限界大祭オリンピア",
+  "title_synonyms": [
+    "Fate/Grand Carnival: Dai-1 Tokuien Eirei Genkai Taisai Olympia"
+  ],
+  "type": "OVA",
+  "source": "Game",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-12-31T00:00:00+00:00",
+    "to": "2021-10-13T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 12,
+        "year": 2020
+      },
+      "to": {
+        "day": 13,
+        "month": 10,
+        "year": 2021
+      }
+    },
+    "string": "Dec 31, 2020 to Oct 13, 2021"
+  },
+  "duration": "15 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.7,
+  "scored_by": 25548,
+  "rank": 1359,
+  "popularity": 3136,
+  "members": 61198,
+  "favorites": 246,
+  "synopsis": "The first episode of \"season\" one was pre-aired on the Fate Project New Year's Eve TV Special 2020 program.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 101,
+      "type": "anime",
+      "name": "Studio Hibari",
+      "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 703,
+      "type": "anime",
+      "name": "Notes",
+      "url": "https://myanimelist.net/anime/producer/703/Notes"
+    },
+    {
+      "mal_id": 1899,
+      "type": "anime",
+      "name": "Good Smile Film",
+      "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+    },
+    {
+      "mal_id": 2008,
+      "type": "anime",
+      "name": "Delightworks",
+      "url": "https://myanimelist.net/anime/producer/2008/Delightworks"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 456,
+      "type": "anime",
+      "name": "Lerche",
+      "url": "https://myanimelist.net/anime/producer/456/Lerche"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": []
+}

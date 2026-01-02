@@ -1,0 +1,122 @@
+{
+  "mal_id": 62540,
+  "url": "https://myanimelist.net/anime/62540/Yonghansonyeo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1616/152165.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1616/152165t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1616/152165l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1616/152165.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1616/152165t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1616/152165l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yonghansonyeo"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dragon Girl"
+    },
+    {
+      "type": "Japanese",
+      "title": "용한소녀"
+    }
+  ],
+  "title": "Yonghansonyeo",
+  "title_english": null,
+  "title_japanese": "용한소녀",
+  "title_synonyms": [
+    "Dragon Girl"
+  ],
+  "type": "ONA",
+  "source": "Web manga",
+  "episodes": 10,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-10-03T00:00:00+00:00",
+    "to": "2025-11-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2025
+      },
+      "to": {
+        "day": 21,
+        "month": 11,
+        "year": 2025
+      }
+    },
+    "string": "Oct 3, 2025 to Nov 21, 2025"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": 17031,
+  "popularity": 15432,
+  "members": 886,
+  "favorites": 0,
+  "synopsis": null,
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

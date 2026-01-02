@@ -1,0 +1,172 @@
+{
+  "mal_id": 394,
+  "url": "https://myanimelist.net/anime/394/Ai_Yori_Aoshi__Enishi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/71425.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/71425t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/71425l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/71425.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/71425t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/71425l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ai Yori Aoshi: Enishi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bluer Than Indigo: Fate"
+    },
+    {
+      "type": "Japanese",
+      "title": "藍より青し～縁～"
+    },
+    {
+      "type": "English",
+      "title": "Ai Yori Aoshi: Enishi"
+    }
+  ],
+  "title": "Ai Yori Aoshi: Enishi",
+  "title_english": "Ai Yori Aoshi: Enishi",
+  "title_japanese": "藍より青し～縁～",
+  "title_synonyms": [
+    "Bluer Than Indigo: Fate"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-10-13T00:00:00+00:00",
+    "to": "2003-12-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 2003
+      },
+      "to": {
+        "day": 29,
+        "month": 12,
+        "year": 2003
+      }
+    },
+    "string": "Oct 13, 2003 to Dec 29, 2003"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.11,
+  "scored_by": 33794,
+  "rank": 4004,
+  "popularity": 3121,
+  "members": 61909,
+  "favorites": 87,
+  "synopsis": "Two years after meeting Aoi, Kaoru and gang are still up to their normal habits. Kaoru now in grad school and the tenants being as rowdy as ever what will become of Aoi and Kaoru's love.\n\nTwo years has passed since Aoi and Kaoru were freed from the bonds of their families. They continue to live their normal lives with their usual friends in their house.",
+  "background": "",
+  "season": "fall",
+  "year": 2003,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 160,
+      "type": "anime",
+      "name": "Rondo Robe",
+      "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 745,
+      "type": "anime",
+      "name": "Cosmic Ray",
+      "url": "https://myanimelist.net/anime/producer/745/Cosmic_Ray"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

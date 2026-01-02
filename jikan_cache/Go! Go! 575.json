@@ -1,0 +1,134 @@
+{
+  "mal_id": 28077,
+  "url": "https://myanimelist.net/anime/28077/Go_Go_575__Meippai_ni_Hajiketeru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/68433.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/68433t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/68433l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/68433.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/68433t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/68433l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Go! Go! 575: Meippai ni, Hajiketeru?"
+    },
+    {
+      "type": "Synonym",
+      "title": "Go! Go! 575 Episode 5"
+    },
+    {
+      "type": "Synonym",
+      "title": "Go! Go! 575 Special"
+    },
+    {
+      "type": "Japanese",
+      "title": "GO! GO! 575 「めいっぱいに、はじけてる？」"
+    }
+  ],
+  "title": "Go! Go! 575: Meippai ni, Hajiketeru?",
+  "title_english": null,
+  "title_japanese": "GO! GO! 575 「めいっぱいに、はじけてる？」",
+  "title_synonyms": [
+    "Go! Go! 575 Episode 5",
+    "Go! Go! 575 Special"
+  ],
+  "type": "Special",
+  "source": "Game",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-22T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 22,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 22, 2014"
+  },
+  "duration": "3 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.54,
+  "scored_by": 2041,
+  "rank": 12593,
+  "popularity": 10303,
+  "members": 3719,
+  "favorites": 1,
+  "synopsis": "Special episode introducing a new character.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 167,
+      "type": "anime",
+      "name": "Sega",
+      "url": "https://myanimelist.net/anime/producer/167/Sega"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 605,
+      "type": "anime",
+      "name": "C2C",
+      "url": "https://myanimelist.net/anime/producer/605/C2C"
+    },
+    {
+      "mal_id": 1087,
+      "type": "anime",
+      "name": "Lay-duce",
+      "url": "https://myanimelist.net/anime/producer/1087/Lay-duce"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

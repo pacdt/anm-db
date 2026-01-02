@@ -1,0 +1,134 @@
+{
+  "mal_id": 62649,
+  "url": "https://myanimelist.net/anime/62649/Cardfight_Vanguard__Divinez_Genma_Seisen-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1801/154108.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/154108t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/154108l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1801/154108.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/154108t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/154108l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cardfight!! Vanguard: Divinez Genma Seisen-hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "カードファイト!! ヴァンガード DivineZ 幻真星戦編"
+    },
+    {
+      "type": "English",
+      "title": "Cardfight!! Vanguard: Divinez Parallactic Clash"
+    }
+  ],
+  "title": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+  "title_english": "Cardfight!! Vanguard: Divinez Parallactic Clash",
+  "title_japanese": "カードファイト!! ヴァンガード DivineZ 幻真星戦編",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": null,
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 10, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 16399,
+  "members": 696,
+  "favorites": 1,
+  "synopsis": "Akina and his friends, having strayed into the Fantasma, find their path blocked by \"Fantôme Fighters\".\n\nThe only ones who can stand against them are the special \"Mythisch Fighters\" chosen by the cards.\n\nWhat is a Fantôme Fighter—\n\nThe collective name for those who confront reality and fight to protect the fabricated.\n\nWhat is a Mythisch Fighter—\n\nThe collective name for those who withstand the Fantôme and fight to protect the real.\n\nWill the parallactic be erased, or will it become the verity?\n—Stand up and fight with your existence on the line.\n\n(Source: Official Twitter)",
+  "background": "",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 08:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 290,
+      "type": "anime",
+      "name": "Kinema Citrus",
+      "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+    },
+    {
+      "mal_id": 2299,
+      "type": "anime",
+      "name": "Gift-o’-Animation",
+      "url": "https://myanimelist.net/anime/producer/2299/Gift-o%E2%80%99-Animation"
+    },
+    {
+      "mal_id": 2300,
+      "type": "anime",
+      "name": "Studio Jemi",
+      "url": "https://myanimelist.net/anime/producer/2300/Studio_Jemi"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,130 @@
+{
+  "mal_id": 9491,
+  "url": "https://myanimelist.net/anime/9491/Katsugeki_Shoujo_Tanteidan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/41457.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/41457t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/41457l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/41457.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/41457t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/41457l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Katsugeki Shoujo Tanteidan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Girl Detective Club"
+    },
+    {
+      "type": "Japanese",
+      "title": "活劇少女探偵団"
+    }
+  ],
+  "title": "Katsugeki Shoujo Tanteidan",
+  "title_english": null,
+  "title_japanese": "活劇少女探偵団",
+  "title_synonyms": [
+    "Girl Detective Club"
+  ],
+  "type": "OVA",
+  "source": "Original",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1986-11-25T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 11,
+        "year": 1986
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 25, 1986"
+  },
+  "duration": "26 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 4.51,
+  "scored_by": 1655,
+  "rank": 14342,
+  "popularity": 10498,
+  "members": 3502,
+  "favorites": 2,
+  "synopsis": "Our heroine has been kidnapped and her two somewhat ditzy friends decided to save her in a war machine they found in her house. Unfortunately they have little idea of how it works so let the random destruction begin. \n\n(Source: AniDB)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 342,
+      "type": "anime",
+      "name": "Japan Home Video",
+      "url": "https://myanimelist.net/anime/producer/342/Japan_Home_Video"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

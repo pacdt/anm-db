@@ -1,0 +1,183 @@
+{
+  "mal_id": 39811,
+  "url": "https://myanimelist.net/anime/39811/Fairy_Gone_Part_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1799/114023.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1799/114023t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1799/114023l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1799/114023.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1799/114023t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1799/114023l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wyRe8jpZXwU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fairy Gone Part 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fairy Gone 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "Fairy gone フェアリーゴーン 第2期"
+    },
+    {
+      "type": "English",
+      "title": "Fairy gone Season 1 Part 2"
+    }
+  ],
+  "title": "Fairy Gone Part 2",
+  "title_english": "Fairy gone Season 1 Part 2",
+  "title_japanese": "Fairy gone フェアリーゴーン 第2期",
+  "title_synonyms": [
+    "Fairy Gone 2nd Season"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-10-07T00:00:00+00:00",
+    "to": "2019-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2019
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2019
+      }
+    },
+    "string": "Oct 7, 2019 to Dec 23, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.35,
+  "scored_by": 18593,
+  "rank": 8312,
+  "popularity": 3440,
+  "members": 52003,
+  "favorites": 46,
+  "synopsis": "Second season of Fairy Gone.",
+  "background": "",
+  "season": "fall",
+  "year": 2019,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1337,
+      "type": "anime",
+      "name": "Medicos Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1515,
+      "type": "anime",
+      "name": "Sanyo",
+      "url": "https://myanimelist.net/anime/producer/1515/Sanyo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 132,
+      "type": "anime",
+      "name": "P.A. Works",
+      "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": []
+}

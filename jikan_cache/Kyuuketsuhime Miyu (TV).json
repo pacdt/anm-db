@@ -1,0 +1,189 @@
+{
+  "mal_id": 690,
+  "url": "https://myanimelist.net/anime/690/Kyuuketsuhime_Miyu_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1427/134363.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/134363t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/134363l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1427/134363.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/134363t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/134363l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kyuuketsuhime Miyu (TV)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kyuuketsuki Miyu TV"
+    },
+    {
+      "type": "Synonym",
+      "title": "Vampire Princess Miyu (1997)"
+    },
+    {
+      "type": "Japanese",
+      "title": "吸血姫美夕"
+    },
+    {
+      "type": "English",
+      "title": "Vampire Princess Miyu"
+    },
+    {
+      "type": "German",
+      "title": "Vampire Princess Miyu"
+    },
+    {
+      "type": "Spanish",
+      "title": "Vampire Princess Miyu"
+    },
+    {
+      "type": "French",
+      "title": "Vampire Princess Miyu"
+    }
+  ],
+  "title": "Kyuuketsuhime Miyu (TV)",
+  "title_english": "Vampire Princess Miyu",
+  "title_japanese": "吸血姫美夕",
+  "title_synonyms": [
+    "Kyuuketsuki Miyu TV",
+    "Vampire Princess Miyu (1997)"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1997-10-06T00:00:00+00:00",
+    "to": "1998-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 1997
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 1998
+      }
+    },
+    "string": "Oct 6, 1997 to Mar 30, 1998"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.13,
+  "scored_by": 13306,
+  "rank": 3928,
+  "popularity": 3738,
+  "members": 44878,
+  "favorites": 191,
+  "synopsis": "Evil Shinma (shape-shifting monsters and vampires) roam the Earth on a mission to unleash their darkness upon the Human race. Miyu Royal Princess from the dark is the Chosen One—the one being who must banish the Evil Shinma from the Earth. She has the power to offer Humans the gift of eternal happiness, yet is herself, trapped between two worlds; destined for perpetual solitude and internal conflict. \n\nMiyu's only companion is Larva, once an evil Shimna; now her devoted guardian. Together they share a dark journey through the weakness of the human heart and the tragic loss of innocence. Cut off from humanity by the knowledge of what she is, Miyu lives an endless quest as both the hunter and the hunted, on the edge of darkness. \n\n(Source: AniDB)",
+  "background": "",
+  "season": "fall",
+  "year": 1997,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 484,
+      "type": "anime",
+      "name": "Tokyopop",
+      "url": "https://myanimelist.net/anime/producer/484/Tokyopop"
+    },
+    {
+      "mal_id": 490,
+      "type": "anime",
+      "name": "Maiden Japan",
+      "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

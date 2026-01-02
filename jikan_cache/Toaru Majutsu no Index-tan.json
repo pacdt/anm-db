@@ -1,0 +1,121 @@
+{
+  "mal_id": 5955,
+  "url": "https://myanimelist.net/anime/5955/Toaru_Majutsu_no_Index-tan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/26651.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/26651t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/26651l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/26651.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/26651t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/26651l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Toaru Majutsu no Index-tan"
+    },
+    {
+      "type": "Synonym",
+      "title": "A Certain Magical Index-tan Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "とある魔術のいんでっくすたん"
+    },
+    {
+      "type": "English",
+      "title": "A Certain Magical Index: Specials"
+    }
+  ],
+  "title": "Toaru Majutsu no Index-tan",
+  "title_english": "A Certain Magical Index: Specials",
+  "title_japanese": "とある魔術のいんでっくすたん",
+  "title_synonyms": [
+    "A Certain Magical Index-tan Specials"
+  ],
+  "type": "Special",
+  "source": "Light novel",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-02-07T00:00:00+00:00",
+    "to": "2009-05-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 2,
+        "year": 2009
+      },
+      "to": {
+        "day": 29,
+        "month": 5,
+        "year": 2009
+      }
+    },
+    "string": "Feb 7, 2009 to May 29, 2009"
+  },
+  "duration": "8 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.9,
+  "scored_by": 26702,
+  "rank": 5051,
+  "popularity": 3313,
+  "members": 55274,
+  "favorites": 38,
+  "synopsis": "A series of shorts featuring Index-tan.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": []
+}

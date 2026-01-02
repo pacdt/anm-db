@@ -1,0 +1,141 @@
+{
+  "mal_id": 36440,
+  "url": "https://myanimelist.net/anime/36440/Ku_Pao_Yingxiong",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1984/154668.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1984/154668t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1984/154668l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1984/154668.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1984/154668t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1984/154668l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2EsomsgQqn0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ku Pao Yingxiong"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Running Heroes"
+    },
+    {
+      "type": "Synonym",
+      "title": "Parkour Hero"
+    },
+    {
+      "type": "Japanese",
+      "title": "酷跑英雄"
+    }
+  ],
+  "title": "Ku Pao Yingxiong",
+  "title_english": null,
+  "title_japanese": "酷跑英雄",
+  "title_synonyms": [
+    "The Running Heroes",
+    "Parkour Hero"
+  ],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-09-02T00:00:00+00:00",
+    "to": "2018-02-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 9,
+        "year": 2017
+      },
+      "to": {
+        "day": 17,
+        "month": 2,
+        "year": 2018
+      }
+    },
+    "string": "Sep 2, 2017 to Feb 17, 2018"
+  },
+  "duration": "13 min per ep",
+  "rating": null,
+  "score": 5.56,
+  "scored_by": 550,
+  "rank": 12495,
+  "popularity": 10213,
+  "members": 3863,
+  "favorites": 5,
+  "synopsis": "The animation tells the story of Xiao Shuai who has gone into a cool running world by accident and is embroiled in a dispute between parkour colleges.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1350,
+      "type": "anime",
+      "name": "B.CMAY PICTURES",
+      "url": "https://myanimelist.net/anime/producer/1350/BCMAY_PICTURES"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": []
+}

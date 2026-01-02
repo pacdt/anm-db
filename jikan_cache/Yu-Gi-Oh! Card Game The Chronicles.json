@@ -1,0 +1,111 @@
+{
+  "mal_id": 58018,
+  "url": "https://myanimelist.net/anime/58018/Yu-Gi-Oh_Card_Game__The_Chronicles_PV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1344/141253.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1344/141253t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1344/141253l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1344/141253.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1344/141253t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1344/141253l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yu-Gi-Oh! Card Game: The Chronicles PV"
+    },
+    {
+      "type": "Japanese",
+      "title": "Yu-Gi-Oh! CARD GAME THE CHRONICLES"
+    }
+  ],
+  "title": "Yu-Gi-Oh! Card Game: The Chronicles PV",
+  "title_english": null,
+  "title_japanese": "Yu-Gi-Oh! CARD GAME THE CHRONICLES",
+  "title_synonyms": [],
+  "type": "PV",
+  "source": "Card game",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-02-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 2,
+        "year": 2024
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 3, 2024"
+  },
+  "duration": "6 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.41,
+  "scored_by": 1244,
+  "rank": null,
+  "popularity": 11951,
+  "members": 2325,
+  "favorites": 8,
+  "synopsis": "A showcase advertising Konami's new animation department depicting several different themes.\n\nIt should be noted this is not a trailer for upcoming shows, but more of a demo reel to showcase the talents of Konami animation, with a variety of animation styles.\n\n(Source: ygorganization)",
+  "background": "The animation was first aired during the livestream of Yu-Gi-Oh! Duel Monsters: The Legend of Duelist Quarter Century, a tournament event celebrating the 25th anniversary of the Official Card Game. It was subsequently made available on Konami's YouTube channel, as well the various Yu-Gi-Oh! TCG/OCG ones.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2894,
+      "type": "anime",
+      "name": "Konami animation",
+      "url": "https://myanimelist.net/anime/producer/2894/Konami_animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": []
+}

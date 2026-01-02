@@ -1,0 +1,146 @@
+{
+  "mal_id": 731,
+  "url": "https://myanimelist.net/anime/731/Interstella5555__The_5tory_of_The_5ecret_5tar_5ystem",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1618/146985.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/146985t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/146985l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1618/146985.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/146985t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/146985l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qfXYnIhOOtc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem"
+    },
+    {
+      "type": "Synonym",
+      "title": "Interstellar 5555"
+    },
+    {
+      "type": "Japanese",
+      "title": "インターステラ5555"
+    },
+    {
+      "type": "Spanish",
+      "title": "Interstella5555 The 5tory of the 5ecret 5tar 5ystem"
+    }
+  ],
+  "title": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
+  "title_english": null,
+  "title_japanese": "インターステラ5555",
+  "title_synonyms": [
+    "Interstellar 5555"
+  ],
+  "type": "Movie",
+  "source": "Music",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-12-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 12,
+        "year": 2003
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 1, 2003"
+  },
+  "duration": "1 hr 5 min",
+  "rating": "G - All Ages",
+  "score": 8.13,
+  "scored_by": 47080,
+  "rank": 508,
+  "popularity": 2668,
+  "members": 81154,
+  "favorites": 1075,
+  "synopsis": "This musical film is the visual realization of \"Discovery\", an album by Daft Punk. It tells the story of a band of four extraterrestrial musicians who are kidnapped and brought back to Earth by an evil manager. Their only hopes lie with a space pilot from their home planet who, after receiving a distress call broadcasted during the abduction, seeks out to rescue them.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 815,
+      "type": "anime",
+      "name": "EMI",
+      "url": "https://myanimelist.net/anime/producer/815/EMI"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

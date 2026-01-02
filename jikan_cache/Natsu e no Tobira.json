@@ -1,0 +1,145 @@
+{
+  "mal_id": 2621,
+  "url": "https://myanimelist.net/anime/2621/Natsu_e_no_Tobira",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/3592.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/3592t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/3592l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/3592.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/3592t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/3592l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Natsu e no Tobira"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Door Into Summer"
+    },
+    {
+      "type": "Synonym",
+      "title": "Opening to Summer"
+    },
+    {
+      "type": "Synonym",
+      "title": "Natsu he no Tobira"
+    },
+    {
+      "type": "Synonym",
+      "title": "Door to Summer"
+    },
+    {
+      "type": "Japanese",
+      "title": "夏への扉"
+    }
+  ],
+  "title": "Natsu e no Tobira",
+  "title_english": null,
+  "title_japanese": "夏への扉",
+  "title_synonyms": [
+    "The Door Into Summer",
+    "Opening to Summer",
+    "Natsu he no Tobira",
+    "Door to Summer"
+  ],
+  "type": "Movie",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1981-03-20T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 3,
+        "year": 1981
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 20, 1981"
+  },
+  "duration": "59 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.91,
+  "scored_by": 2761,
+  "rank": 10889,
+  "popularity": 8058,
+  "members": 7307,
+  "favorites": 16,
+  "synopsis": "Marion is a young schoolboy who prides himself on his adherence to a philosophy he calls \"rationalism\". Because of his disdain for emotional display, he ignores anything remotely akin to affection. But when he's entangled in a romantic affair with an older courtesan, his rationalism is revealed to be little more than a cover for his own emotional immaturity. Learning to love, Marion blossoms under his older lover's care but unfortunately, Marion has yet to learn the true price of the affair.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "Boys Love",
+      "url": "https://myanimelist.net/anime/genre/28/Boys_Love"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

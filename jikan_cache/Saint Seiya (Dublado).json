@@ -1,0 +1,178 @@
+{
+  "mal_id": 1254,
+  "url": "https://myanimelist.net/anime/1254/Saint_Seiya",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1180/133782t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1180/133782.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1180/133782t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1180/133782l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/znQkHaf2Gg4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saint Seiya"
+    },
+    {
+      "type": "Synonym",
+      "title": "Knights of the Zodiac"
+    },
+    {
+      "type": "Synonym",
+      "title": "Zodiac Knights"
+    },
+    {
+      "type": "Japanese",
+      "title": "聖闘士星矢(セイントセイヤ)"
+    },
+    {
+      "type": "English",
+      "title": "Saint Seiya: Knights of the Zodiac"
+    },
+    {
+      "type": "Spanish",
+      "title": "Saint Seiya Los Caballeros del Zodiaco"
+    },
+    {
+      "type": "French",
+      "title": "Saint Seiya: Les Chevaliers du Zodiaque"
+    }
+  ],
+  "title": "Saint Seiya",
+  "title_english": "Saint Seiya: Knights of the Zodiac",
+  "title_japanese": "聖闘士星矢(セイントセイヤ)",
+  "title_synonyms": [
+    "Knights of the Zodiac",
+    "Zodiac Knights"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 114,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1986-10-11T00:00:00+00:00",
+    "to": "1989-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 1986
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 1989
+      }
+    },
+    "string": "Oct 11, 1986 to Apr 1, 1989"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.76,
+  "scored_by": 107750,
+  "rank": 1185,
+  "popularity": 1346,
+  "members": 202127,
+  "favorites": 4298,
+  "synopsis": "In ancient times, a group of young men devoted their lives to protecting Athena, the Goddess of Wisdom and War. These men were capable of fighting without weapons—a swing of their fist alone was powerful enough to rip the very sky apart and shatter the earth beneath them. These brave heroes became known as Saints, as they could summon up the power of the Cosmos from within themselves.\n\nNow, in present day, a new generation of Saints is about to come forth. The young and spirited Seiya is fighting a tough battle for the Sacred Armor of Pegasus, and he isn't about to let anyone get in the way of him and his prize. Six years of hard work and training pay off with his victory and new title as one of Athena's Saints.\n\nBut Seiya's endeavor doesn't end there. In fact, plenty of perils and dangerous enemies face him and the rest of the Saints throughout the series. What new quests await the heroes of the epic Saint Seiya saga?",
+  "background": "The series won the 1987 Animage's Anime Grand Prix Award.",
+  "season": "fall",
+  "year": 1986,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 19:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 269,
+      "type": "anime",
+      "name": "DiC Entertainment",
+      "url": "https://myanimelist.net/anime/producer/269/DiC_Entertainment"
+    },
+    {
+      "mal_id": 1163,
+      "type": "anime",
+      "name": "Flatiron Film Company",
+      "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "mal_id": 9941,
+  "url": "https://myanimelist.net/anime/9941/Tiger___Bunny",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/29466t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/29466l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/29466t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/29466l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tiger & Bunny"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tiger and Bunny"
+    },
+    {
+      "type": "Synonym",
+      "title": "Taibani"
+    },
+    {
+      "type": "Japanese",
+      "title": "TIGER & BUNNY （タイガー・アンド・バニー）"
+    },
+    {
+      "type": "English",
+      "title": "Tiger & Bunny"
+    }
+  ],
+  "title": "Tiger & Bunny",
+  "title_english": "Tiger & Bunny",
+  "title_japanese": "TIGER & BUNNY （タイガー・アンド・バニー）",
+  "title_synonyms": [
+    "Tiger and Bunny",
+    "Taibani"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-04-03T00:00:00+00:00",
+    "to": "2011-09-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2011
+      },
+      "to": {
+        "day": 18,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Apr 3, 2011 to Sep 18, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.83,
+  "scored_by": 94839,
+  "rank": 1032,
+  "popularity": 1163,
+  "members": 236839,
+  "favorites": 3011,
+  "synopsis": "In Stern Bild City, those with special abilities are called NEXT, and can use their powers for good or bad. A unique organized group of NEXT appear regularly on Hero TV, where they chase down evildoers to bring limelight to their sponsors and earn Hero Points in the hopes of becoming the next King of Heroes.\n\nKotetsu T. Kaburagi, known as \"Wild Tiger,\" is a veteran hero whose performance has been dwindling as of late, partially due to his inability to cooperate with other heroes. After a disappointing season in which most of the other heroes far outperformed Tiger, he is paired up with a brand new hero who identifies himself by his real name—Barnaby Brooks Jr.\n\nBarnaby, nicknamed \"Bunny\" by his frivolous new partner, quickly makes it clear that the two could not be more different. Though they mix as well as oil and water, Tiger and Bunny must learn to work together, both for the sake of their careers and to face the looming threats within Stern Bild.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2011,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": []
+}

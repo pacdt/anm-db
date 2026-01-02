@@ -1,0 +1,160 @@
+{
+  "mal_id": 2775,
+  "url": "https://myanimelist.net/anime/2775/Genocyber",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/3751.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3751t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3751l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/3751.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3751t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3751l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/0jhoCAFXwN4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Genocyber"
+    },
+    {
+      "type": "Japanese",
+      "title": "ジェノサイバー"
+    },
+    {
+      "type": "French",
+      "title": "Geno Cyber"
+    }
+  ],
+  "title": "Genocyber",
+  "title_english": null,
+  "title_japanese": "ジェノサイバー",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 5,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1994-05-24T00:00:00+00:00",
+    "to": "1994-07-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 5,
+        "year": 1994
+      },
+      "to": {
+        "day": 21,
+        "month": 7,
+        "year": 1994
+      }
+    },
+    "string": "May 24, 1994 to Jul 21, 1994"
+  },
+  "duration": "30 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.8,
+  "scored_by": 13329,
+  "rank": 11463,
+  "popularity": 3783,
+  "members": 43916,
+  "favorites": 188,
+  "synopsis": "As the nations of the world begin to merge, world peace is threatened by the private armies of individual corporations. The Kuryu Group has just discovered a weapon that will tip world power in their favor. The Genocyber: a nightmarish combination of cybernetics and psychic potential. Many desire to control this monstrosity, but can its hatred be contained... Battle erupts, and the cyberpunk world of the future is about to explode with violence.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 284,
+      "type": "anime",
+      "name": "Central Park Media",
+      "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Artmic",
+      "url": "https://myanimelist.net/anime/producer/72/Artmic"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

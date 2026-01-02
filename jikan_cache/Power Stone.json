@@ -1,0 +1,137 @@
+{
+  "mal_id": 163,
+  "url": "https://myanimelist.net/anime/163/Power_Stone",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1110/98247.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1110/98247t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1110/98247l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1110/98247.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1110/98247t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1110/98247l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Power Stone"
+    },
+    {
+      "type": "Japanese",
+      "title": "パワーストーン"
+    }
+  ],
+  "title": "Power Stone",
+  "title_english": null,
+  "title_japanese": "パワーストーン",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-04-03T00:00:00+00:00",
+    "to": "1999-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 1999
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 1999
+      }
+    },
+    "string": "Apr 3, 1999 to Sep 25, 1999"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 6.46,
+  "scored_by": 4330,
+  "rank": 7653,
+  "popularity": 7372,
+  "members": 9191,
+  "favorites": 20,
+  "synopsis": "An ancient legend tells of a magical Powerstone that granted its owner any wish desired. Adventurers from all over the globe clash as they seek this mystical gem. \n\nBased upon the Dreamcast game, POWERSTONE tries to entertain us with the story behind the game's premise. The plot begins with our hero, Fokker, training to be a fighter like his idol, Vargas. \n\n(Source: AniDB)",
+  "background": "",
+  "season": "spring",
+  "year": 1999,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "Avex Entertainment",
+      "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": []
+}

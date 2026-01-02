@@ -1,0 +1,134 @@
+{
+  "mal_id": 61333,
+  "url": "https://myanimelist.net/anime/61333/Ao_no_Miburo__Serizawa_Ansatsu-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1393/151603.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1393/151603t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1393/151603l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1393/151603.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1393/151603t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1393/151603l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7N_BxH_zAnY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ao no Miburo: Serizawa Ansatsu-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Blue Miburo: Serizawa Assassination Arc"
+    },
+    {
+      "type": "Japanese",
+      "title": "青のミブロ 芹沢暗殺編"
+    },
+    {
+      "type": "English",
+      "title": "Blue Miburo Season 2"
+    }
+  ],
+  "title": "Ao no Miburo: Serizawa Ansatsu-hen",
+  "title_english": "Blue Miburo Season 2",
+  "title_japanese": "青のミブロ 芹沢暗殺編",
+  "title_synonyms": [
+    "Blue Miburo: Serizawa Assassination Arc"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2025-12-20T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 12,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 20, 2025 to ?"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.86,
+  "scored_by": 278,
+  "rank": 5235,
+  "popularity": 8958,
+  "members": 5646,
+  "favorites": 12,
+  "synopsis": "Second season of Ao no Miburo.",
+  "background": "",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1978,
+      "type": "anime",
+      "name": "Maho Film",
+      "url": "https://myanimelist.net/anime/producer/1978/Maho_Film"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

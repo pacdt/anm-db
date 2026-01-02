@@ -1,0 +1,136 @@
+{
+  "mal_id": 40506,
+  "url": "https://myanimelist.net/anime/40506/Shadowverse",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1003/106498.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1003/106498t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1003/106498l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1003/106498.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1003/106498t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1003/106498l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qofIyYml4xU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shadowverse"
+    },
+    {
+      "type": "Japanese",
+      "title": "シャドウバース"
+    },
+    {
+      "type": "German",
+      "title": "Shadowverse"
+    },
+    {
+      "type": "Spanish",
+      "title": "Shadowverse"
+    },
+    {
+      "type": "French",
+      "title": "Shadowverse"
+    }
+  ],
+  "title": "Shadowverse",
+  "title_english": null,
+  "title_japanese": "シャドウバース",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Card game",
+  "episodes": 48,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-07T00:00:00+00:00",
+    "to": "2021-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 2021
+      }
+    },
+    "string": "Apr 7, 2020 to Mar 23, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.75,
+  "scored_by": 5320,
+  "rank": 11681,
+  "popularity": 5623,
+  "members": 17952,
+  "favorites": 36,
+  "synopsis": "On his way to school, Hiiro Ryuugasaki hears a strange voice coming from his storage shed. As he searches the place, he discovers a smartphone with the popular digital card game \"Shadowverse\" already installed. Under the assumption that his grandfather has finally decided to buy him a smartphone after countless requests, Hiiro finds nothing amiss. \n\nLater that day, Hiiro receives concerning news regarding his classmate, Mimori Amamiya. She has lost as yet another victim of Takuma Kibakura, a fellow Shadowverse player who bullies his opponents by seizing their phones after he defeats them in battle. Determined to retrieve Mimori's smartphone, Hiiro enters an exciting new world, filled with intense matches and fierce Shadowverse opponents—including the formidable Lucia Yonazuki. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "17:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 17:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 1858,
+      "type": "anime",
+      "name": "Sonilude",
+      "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": []
+}

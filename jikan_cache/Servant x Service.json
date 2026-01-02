@@ -1,0 +1,160 @@
+{
+  "mal_id": 18119,
+  "url": "https://myanimelist.net/anime/18119/Servant_x_Service",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/51579.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/51579t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/51579l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/51579.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/51579t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/51579l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/4WQzmAk6Zi4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Servant x Service"
+    },
+    {
+      "type": "Japanese",
+      "title": "サーバント×サービス"
+    },
+    {
+      "type": "English",
+      "title": "Servant x Service"
+    }
+  ],
+  "title": "Servant x Service",
+  "title_english": "Servant x Service",
+  "title_japanese": "サーバント×サービス",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "4-koma manga",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-06T00:00:00+00:00",
+    "to": "2013-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 6, 2013 to Sep 28, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.61,
+  "scored_by": 100123,
+  "rank": 1612,
+  "popularity": 1181,
+  "members": 233994,
+  "favorites": 725,
+  "synopsis": "Frustrating, insufficient, and irritating is how most citizens would describe civil servants. However, three new employees are about to discover what really happens behind the scenes. Lucy Yamagami, bent on revenge against the civil servant who allowed her comically long name to be put on her birth certificate; Yutaka Hasebe, an easygoing guy always on the lookout for a place to slack off; and Saya Miyoshi, a nervous first-time worker, are about to experience the underwhelming satisfaction of being government employees. \n\nThey are supposed to be trained by Taishi Ichimiya, but he has no idea how to do so, even though he has worked there for eight years. With an incompetent senior colleague and unfavorable confrontations with clients, the trio starts to lose faith in their chosen occupation but encourage each other to do their best. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "03:08",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 03:08 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 1415,
+      "type": "anime",
+      "name": "Asahi Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+    },
+    {
+      "mal_id": 2912,
+      "type": "anime",
+      "name": "Three S Studio",
+      "url": "https://myanimelist.net/anime/producer/2912/Three_S_Studio"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

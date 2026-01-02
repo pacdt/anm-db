@@ -1,0 +1,171 @@
+{
+  "mal_id": 12175,
+  "url": "https://myanimelist.net/anime/12175/Koi_to_Senkyo_to_Chocolate",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/42015.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/42015t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/42015l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/42015.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/42015t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/42015l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mgXiPCiyW6k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koi to Senkyo to Chocolate"
+    },
+    {
+      "type": "Synonym",
+      "title": "Koichoco"
+    },
+    {
+      "type": "Japanese",
+      "title": "恋と選挙とチョコレート"
+    },
+    {
+      "type": "English",
+      "title": "Love, Election and Chocolate"
+    }
+  ],
+  "title": "Koi to Senkyo to Chocolate",
+  "title_english": "Love, Election and Chocolate",
+  "title_japanese": "恋と選挙とチョコレート",
+  "title_synonyms": [
+    "Koichoco"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-07-06T00:00:00+00:00",
+    "to": "2012-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2012
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2012
+      }
+    },
+    "string": "Jul 6, 2012 to Sep 28, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.96,
+  "scored_by": 107287,
+  "rank": 4744,
+  "popularity": 1042,
+  "members": 264230,
+  "favorites": 483,
+  "synopsis": "Yuuki Oojima is a member of his high school's Food Research Club, whose main activity is eating snacks bought with funds allocated to them by the school. However, this peaceful and wasteful lifestyle is under threat as the upcoming student election draws near. Satsuki Shinonome, a major candidate and the head of the department of financial affairs, campaigns on a platform that includes disbanding meritless clubs such as the Food Research Club and redirecting their budgets to proper ones.\n\nUnderstandably, the Food Research Club is in an uproar over this development, with president Chisato Sumiyoshi vowing to preserve it. But what can they even do to stop the highly competent and popular Satsuki from getting elected?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2012,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 436,
+      "type": "anime",
+      "name": "AIC Build",
+      "url": "https://myanimelist.net/anime/producer/436/AIC_Build"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

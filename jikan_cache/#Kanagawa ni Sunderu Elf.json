@@ -1,0 +1,127 @@
+{
+  "mal_id": 62521,
+  "url": "https://myanimelist.net/anime/62521/Kanagawa_ni_Sunderu_Elf",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1194/152817.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1194/152817t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1194/152817l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1194/152817.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1194/152817t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1194/152817l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/FlkKFBETO1s?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "#Kanagawa ni Sunderu Elf"
+    },
+    {
+      "type": "Synonym",
+      "title": "#Kanagawa ni Sunderu Elves"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kanagawa Elves"
+    },
+    {
+      "type": "Japanese",
+      "title": "#神奈川に住んでるエルフ"
+    }
+  ],
+  "title": "#Kanagawa ni Sunderu Elf",
+  "title_english": null,
+  "title_japanese": "#神奈川に住んでるエルフ",
+  "title_synonyms": [
+    "#Kanagawa ni Sunderu Elves",
+    "Kanagawa Elves"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2025-12-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 12,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 4, 2025 to ?"
+  },
+  "duration": "4 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": null,
+  "scored_by": null,
+  "rank": 19863,
+  "popularity": 13870,
+  "members": 1325,
+  "favorites": 3,
+  "synopsis": "2 years ago, the elves who lived in the hidden forest lost their homes due to a forest fire, now they are living in the Kanagawa Prefecture.\n\nThis story however focuses on a human who becomes the roommate of an elf living in an apartment.\n\n(Source: MU)",
+  "background": "",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "12:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 12:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2844,
+      "type": "anime",
+      "name": "Imagica Infos",
+      "url": "https://myanimelist.net/anime/producer/2844/Imagica_Infos"
+    },
+    {
+      "mal_id": 2983,
+      "type": "anime",
+      "name": "Imageworks Studio",
+      "url": "https://myanimelist.net/anime/producer/2983/Imageworks_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

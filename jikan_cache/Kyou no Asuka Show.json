@@ -1,0 +1,134 @@
+{
+  "mal_id": 15005,
+  "url": "https://myanimelist.net/anime/15005/Kyou_no_Asuka_Show",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/77066.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/77066t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/77066l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/77066.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/77066t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/77066l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kyou no Asuka Show"
+    },
+    {
+      "type": "Japanese",
+      "title": "今日のあすかショー"
+    },
+    {
+      "type": "English",
+      "title": "Today's Asuka Show"
+    }
+  ],
+  "title": "Kyou no Asuka Show",
+  "title_english": "Today's Asuka Show",
+  "title_japanese": "今日のあすかショー",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 20,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-08-03T00:00:00+00:00",
+    "to": "2013-01-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 8,
+        "year": 2012
+      },
+      "to": {
+        "day": 5,
+        "month": 1,
+        "year": 2013
+      }
+    },
+    "string": "Aug 3, 2012 to Jan 5, 2013"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.55,
+  "scored_by": 18417,
+  "rank": 7058,
+  "popularity": 3416,
+  "members": 52575,
+  "favorites": 73,
+  "synopsis": "Asuka is a cute and clueless high school girl who habitually does things, in all innocence, that seem sexually suggestive to the men around her. Each chapter in \"Today's Asuka Show\" features a different awkward situation. \n\n(Source: tethysdust)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

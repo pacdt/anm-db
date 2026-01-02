@@ -1,0 +1,161 @@
+{
+  "mal_id": 1344,
+  "url": "https://myanimelist.net/anime/1344/Eightman_After",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1150/92809.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1150/92809t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1150/92809l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1150/92809.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1150/92809t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1150/92809l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Eightman After"
+    },
+    {
+      "type": "Synonym",
+      "title": "Eight Man After"
+    },
+    {
+      "type": "Synonym",
+      "title": "Eitoman After"
+    },
+    {
+      "type": "Synonym",
+      "title": "8man After"
+    },
+    {
+      "type": "Japanese",
+      "title": "エイトマン AFTER"
+    },
+    {
+      "type": "English",
+      "title": "8 Man After"
+    },
+    {
+      "type": "German",
+      "title": "8 Man After"
+    },
+    {
+      "type": "Spanish",
+      "title": "8 Man After"
+    },
+    {
+      "type": "French",
+      "title": "8 Man After"
+    }
+  ],
+  "title": "Eightman After",
+  "title_english": "8 Man After",
+  "title_japanese": "エイトマン AFTER",
+  "title_synonyms": [
+    "Eight Man After",
+    "Eitoman After",
+    "8man After"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1993-08-21T00:00:00+00:00",
+    "to": "1993-11-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 8,
+        "year": 1993
+      },
+      "to": {
+        "day": 22,
+        "month": 11,
+        "year": 1993
+      }
+    },
+    "string": "Aug 21, 1993 to Nov 22, 1993"
+  },
+  "duration": "28 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.17,
+  "scored_by": 2419,
+  "rank": 9420,
+  "popularity": 8959,
+  "members": 5648,
+  "favorites": 8,
+  "synopsis": "Private detective Hazama Itsuru is hired by Professor Tani to investigate a cyborg parts theft which eventually leads him to meet Sachiko Yokogawa, the original 8 Man's love interest. Living her new life working for the Biotecho Corp., Sachiko finds herself involved with a new 8 Man, who appears after Hazama is fatally wounded by an unknow cyborg. Amidst a violent urban background with cyber-junkies creating chaos around the city, this other 8 Man will fight criminals in a more agressive way.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    },
+    {
+      "mal_id": 1270,
+      "type": "anime",
+      "name": "Sanctuary",
+      "url": "https://myanimelist.net/anime/producer/1270/Sanctuary"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

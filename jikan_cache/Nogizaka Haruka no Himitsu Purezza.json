@@ -1,0 +1,158 @@
+{
+  "mal_id": 6023,
+  "url": "https://myanimelist.net/anime/6023/Nogizaka_Haruka_no_Himitsu_Purezza_♪",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74013.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74013t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74013l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74013.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74013t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74013l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nogizaka Haruka no Himitsu Purezza ♪"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nogizaka Haruka no Himitsu 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haruka Nogizaka's Secret Purity"
+    },
+    {
+      "type": "Japanese",
+      "title": "乃木坂春香の秘密ぴゃあれっつぁ♪"
+    },
+    {
+      "type": "English",
+      "title": "Haruka Nogizaka's Secret Purezza"
+    }
+  ],
+  "title": "Nogizaka Haruka no Himitsu Purezza ♪",
+  "title_english": "Haruka Nogizaka's Secret Purezza",
+  "title_japanese": "乃木坂春香の秘密ぴゃあれっつぁ♪",
+  "title_synonyms": [
+    "Nogizaka Haruka no Himitsu 2",
+    "Haruka Nogizaka's Secret Purity"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-06T00:00:00+00:00",
+    "to": "2009-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2009
+      }
+    },
+    "string": "Oct 6, 2009 to Dec 22, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.16,
+  "scored_by": 41579,
+  "rank": 3768,
+  "popularity": 2825,
+  "members": 73841,
+  "favorites": 96,
+  "synopsis": "Haruka's manga and anime hobby is still concealed by her dear friend Yuuto, but Yuuto's other female friend starts to feel affection and attraction towards him, so a feelings war begins among their circle of friends. Meanwhile Yuuto tries to make Haruka happy doing what she likes the most: drawing manga, watching anime, and attending special anime events.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:14",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:14 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

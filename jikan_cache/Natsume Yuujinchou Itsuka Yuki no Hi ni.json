@@ -1,0 +1,168 @@
+{
+  "mal_id": 20651,
+  "url": "https://myanimelist.net/anime/20651/Natsume_Yuujinchou__Itsuka_Yuki_no_Hi_ni",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/79742.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/79742t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/79742.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/79742t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni"
+    },
+    {
+      "type": "Synonym",
+      "title": "Natsume Yuujinchou OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Natsume Yujincho OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Natsume's Book of Friends OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Natsume on One Snowy Day"
+    },
+    {
+      "type": "Japanese",
+      "title": "夏目友人帳 新作OVA いつかゆきのひに"
+    },
+    {
+      "type": "English",
+      "title": "Natsume’s Book of Friends: On a Certain Snowy Day"
+    }
+  ],
+  "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+  "title_english": "Natsume’s Book of Friends: On a Certain Snowy Day",
+  "title_japanese": "夏目友人帳 新作OVA いつかゆきのひに",
+  "title_synonyms": [
+    "Natsume Yuujinchou OVA",
+    "Natsume Yujincho OVA",
+    "Natsume's Book of Friends OVA",
+    "Natsume on One Snowy Day"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-02-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 2,
+        "year": 2014
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 5, 2014"
+  },
+  "duration": "22 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.33,
+  "scored_by": 38558,
+  "rank": 274,
+  "popularity": 2565,
+  "members": 86299,
+  "favorites": 116,
+  "synopsis": "As the first delicate snowflake touches the cold ground, Nyanko-sensei dozes on his hot-water bottle next to Takashi Natsume. While his aunt prepares a warm dinner, Natsume takes a walk, welcoming the snow and the chilly weather. However, his peaceful promenade is disturbed by a white, fluffy snowman yokai with perturbing black eyes, searching for something warm and sparkly. With no further information, Natsume sets off to help find what the spirit desires.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

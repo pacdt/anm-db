@@ -1,0 +1,170 @@
+{
+  "mal_id": 10396,
+  "url": "https://myanimelist.net/anime/10396/Ben-To",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/73984.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/73984t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/73984l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/73984.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/73984t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/73984l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mGeb_nyoMQ4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ben-To"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bento"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ben-Tou"
+    },
+    {
+      "type": "Japanese",
+      "title": "ベン・トー"
+    },
+    {
+      "type": "English",
+      "title": "Ben-To"
+    }
+  ],
+  "title": "Ben-To",
+  "title_english": "Ben-To",
+  "title_japanese": "ベン・トー",
+  "title_synonyms": [
+    "Bento",
+    "Ben-Tou"
+  ],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-10-09T00:00:00+00:00",
+    "to": "2011-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 10,
+        "year": 2011
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2011
+      }
+    },
+    "string": "Oct 9, 2011 to Dec 25, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.18,
+  "scored_by": 172966,
+  "rank": 3644,
+  "popularity": 787,
+  "members": 343005,
+  "favorites": 1212,
+  "synopsis": "The supermarket is an important building in any city, for they provide a convenient way to purchase a variety of food in a family-friendly, safe environment. However, these stores changes in the blink of an eye once the unsold bento boxes go on their nightly half-off sales! War breaks out and friends become foes as each person fights for honor, pride, and dinner. There are no longer any people in these supermarkets, only Wolves and Dogs⁠—winners and losers.\n\nHigh schooler You Satou is painfully introduced to these battles after unknowingly stumbling into the war zone, but instead of choosing to avoid these nightly fights, he wants to join in. After seeing Satou's lack of fighting skills, upperclassman and Wolf Sen Yarizui invites him and Hana Oshiroi, a girl who enjoys spectating the brawls, to join her Half-Priced Food Lovers Club to show them the distinction between the Dogs and the Wolves. Together, they learn what it truly means to fight for your food.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 02:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1579,
+      "type": "anime",
+      "name": "Bulls Eye",
+      "url": "https://myanimelist.net/anime/producer/1579/Bulls_Eye"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 47,
+      "type": "anime",
+      "name": "Gourmet",
+      "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": []
+}

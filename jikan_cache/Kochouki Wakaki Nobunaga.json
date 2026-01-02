@@ -1,0 +1,207 @@
+{
+  "mal_id": 38920,
+  "url": "https://myanimelist.net/anime/38920/Kochouki__Wakaki_Nobunaga",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1934/111399.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1934/111399t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1934/111399l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1934/111399.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1934/111399t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1934/111399l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WoUVEFxra7w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kochouki: Wakaki Nobunaga"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gorgeous Butterfly: Young Nobunaga"
+    },
+    {
+      "type": "Japanese",
+      "title": "胡蝶綺 ～若き信長～"
+    },
+    {
+      "type": "English",
+      "title": "Kochoki"
+    }
+  ],
+  "title": "Kochouki: Wakaki Nobunaga",
+  "title_english": "Kochoki",
+  "title_japanese": "胡蝶綺 ～若き信長～",
+  "title_synonyms": [
+    "Gorgeous Butterfly: Young Nobunaga"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-08T00:00:00+00:00",
+    "to": "2019-09-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 23,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Jul 8, 2019 to Sep 23, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.51,
+  "scored_by": 9564,
+  "rank": 7322,
+  "popularity": 4508,
+  "members": 30596,
+  "favorites": 58,
+  "synopsis": "The fearsome warlord, the demonic king—Oda Nobunaga! Before he was trying to rule over Japan, he was a teenager who began his path to greatness with his younger brother and faithful followers. Through succession, betrayal, battles, and bonds between one another, the struggles these boys face promise a future where they can blossom into powerful men.\n\n(Source: Funimation)",
+  "background": "",
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 382,
+      "type": "anime",
+      "name": "Tokuma Shoten",
+      "url": "https://myanimelist.net/anime/producer/382/Tokuma_Shoten"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1185,
+      "type": "anime",
+      "name": "81 Produce",
+      "url": "https://myanimelist.net/anime/producer/1185/81_Produce"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1933,
+      "type": "anime",
+      "name": "Happinet",
+      "url": "https://myanimelist.net/anime/producer/1933/Happinet"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,159 @@
+{
+  "mal_id": 36029,
+  "url": "https://myanimelist.net/anime/36029/Hakyuu_Houshin_Engi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/88796.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/88796t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/88796l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/88796.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/88796t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/88796l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/8sztcJ_aJYI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hakyuu Houshin Engi"
+    },
+    {
+      "type": "Japanese",
+      "title": "覇穹 封神演義"
+    },
+    {
+      "type": "English",
+      "title": "Hakyu Hoshin Engi"
+    },
+    {
+      "type": "German",
+      "title": "Hakyu Hoshin Engi"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hakyu Hoshin Engi"
+    },
+    {
+      "type": "French",
+      "title": "Hakyu Hoshin Engi"
+    }
+  ],
+  "title": "Hakyuu Houshin Engi",
+  "title_english": "Hakyu Hoshin Engi",
+  "title_japanese": "覇穹 封神演義",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 23,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-12T00:00:00+00:00",
+    "to": "2018-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Jan 12, 2018 to Jun 29, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.39,
+  "scored_by": 5669,
+  "rank": 13100,
+  "popularity": 5186,
+  "members": 22047,
+  "favorites": 22,
+  "synopsis": "When his clan is wiped out by a beautiful demon, young Taikobo finds himself in charge of the mysterious Houshin Project. Its mission: find all immortals living in the human world and seal them away forever. But who do you trust—and whose side are you really on—when you've been trained to hunt demons by a demon?\n\n(Source: VIZ Media)",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1331,
+      "type": "anime",
+      "name": "i0+",
+      "url": "https://myanimelist.net/anime/producer/1331/i0_"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1075,
+      "type": "anime",
+      "name": "C-Station",
+      "url": "https://myanimelist.net/anime/producer/1075/C-Station"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "mal_id": 40870,
+  "url": "https://myanimelist.net/anime/40870/SSSSDynazenon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/113766.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/113766t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/113766l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/113766.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/113766t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/113766l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qzZB6Z1YbSs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "SSSS.Dynazenon"
+    },
+    {
+      "type": "Japanese",
+      "title": "SSSS.DYNAZENON"
+    },
+    {
+      "type": "English",
+      "title": "SSSS.Dynazenon"
+    }
+  ],
+  "title": "SSSS.Dynazenon",
+  "title_english": "SSSS.Dynazenon",
+  "title_japanese": "SSSS.DYNAZENON",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-02T00:00:00+00:00",
+    "to": "2021-06-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 18,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 2, 2021 to Jun 18, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.43,
+  "scored_by": 47989,
+  "rank": 2314,
+  "popularity": 1774,
+  "members": 145658,
+  "favorites": 925,
+  "synopsis": "One day after school, first-year high school student Yomogi Asanaka comes across a starving man under a bridge. Introducing himself as Gauma, the strange drifter informs Yomogi that he is a \"kaiju user,\" a person who deals with the \"kaiju\"—monsters who bring harm to the city and its citizens.\n\nThe following evening, Yomogi runs into Gauma and his classmate Yume Minami. Simultaneously, a kaiju appears in a populated area of the city. Due to Gauma's lack of experience controlling the kaiju, he brings out a mysterious object from a glowing pouch, summoning a giant robot known as Dynazenon. Requiring the cooperation of four people, the mecha drags Gauma, Yomogi, Minami, and Koyomi Yamanaka—an unemployed man who was wandering on the street—into its cockpit.\n\nTheir encounter with the kaiju marks the beginning of their entanglement with kaiju eugenicists—kaiju users who manipulate kaiju with ill intent—and their efforts toward bringing out the full potential of Dynazenon.\n\n[Written by MAL Rewrite]",
+  "background": "SSSS.Dynazenon is a part of the 2018 Gridman Universe shared media project by Tsuburaya Productions. It was first announced in December 2019 during Tsuburaya Productions' Tsubucon convention.",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 453,
+      "type": "anime",
+      "name": "Tsuburaya Productions",
+      "url": "https://myanimelist.net/anime/producer/453/Tsuburaya_Productions"
+    },
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 647,
+      "type": "anime",
+      "name": "Memory-Tech",
+      "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 803,
+      "type": "anime",
+      "name": "Trigger",
+      "url": "https://myanimelist.net/anime/producer/803/Trigger"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,153 @@
+{
+  "mal_id": 15045,
+  "url": "https://myanimelist.net/anime/15045/Litchi_DE_Hikari_Club",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1083/116746.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1083/116746t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1083/116746l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1083/116746.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1083/116746t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1083/116746l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Litchi DE Hikari Club"
+    },
+    {
+      "type": "Synonym",
+      "title": "Litchi☆Hikari Club"
+    },
+    {
+      "type": "Synonym",
+      "title": "Raichi Hikari Club"
+    },
+    {
+      "type": "Japanese",
+      "title": "ライチ DE 光クラブ"
+    },
+    {
+      "type": "English",
+      "title": "Lychee Light Club"
+    },
+    {
+      "type": "German",
+      "title": "Lychee Light Club"
+    },
+    {
+      "type": "French",
+      "title": "Lychee Light Club"
+    }
+  ],
+  "title": "Litchi DE Hikari Club",
+  "title_english": "Lychee Light Club",
+  "title_japanese": "ライチ DE 光クラブ",
+  "title_synonyms": [
+    "Litchi☆Hikari Club",
+    "Raichi Hikari Club"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 8,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-02T00:00:00+00:00",
+    "to": "2012-11-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 20,
+        "month": 11,
+        "year": 2012
+      }
+    },
+    "string": "Oct 2, 2012 to Nov 20, 2012"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.19,
+  "scored_by": 5961,
+  "rank": 13582,
+  "popularity": 6185,
+  "members": 13987,
+  "favorites": 29,
+  "synopsis": "Litchi DE Hikari Club takes place in an alternate reality where the Hikari Club does not fall into disarray after the completion of Litchi, the intelligent humanlike robot the club invented to kidnap girls.\n\nThe cult-like Hikari Club has had its ups and downs. Led by the enigmatic, beauty-obsessed Hiroyuki \"Zera\" Tsunekawa, the club has finally succeeded in using their fruit-powered robot, Litchi, to kidnap the beautiful Kanon. After accomplishing their goals, the Hikari Club has little to do other than delight in their newfound lives. From selling the technology that allows Litchi to run on lychee fruit, to modifying the robot to perform different tasks, there's no telling what antics the Hikari Club will get up to next!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "03:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 03:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1555,
+      "type": "anime",
+      "name": "Nelke Planning",
+      "url": "https://myanimelist.net/anime/producer/1555/Nelke_Planning"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 432,
+      "type": "anime",
+      "name": "Kachidoki Studio",
+      "url": "https://myanimelist.net/anime/producer/432/Kachidoki_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": []
+}

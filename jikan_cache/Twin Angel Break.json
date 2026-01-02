@@ -1,0 +1,135 @@
+{
+  "mal_id": 33532,
+  "url": "https://myanimelist.net/anime/33532/Twin_Angel_Break",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/86505.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86505t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86505l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/86505.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86505t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86505l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Ujynv0pRdmI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Twin Angel Break"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaitou Tenshi Twin Angel"
+    },
+    {
+      "type": "Japanese",
+      "title": "ツインエンジェルBREAK"
+    },
+    {
+      "type": "English",
+      "title": "Twin Angels Break"
+    },
+    {
+      "type": "German",
+      "title": "Twin Angels Break"
+    },
+    {
+      "type": "Spanish",
+      "title": "Twin Angels Break"
+    }
+  ],
+  "title": "Twin Angel Break",
+  "title_english": "Twin Angels Break",
+  "title_japanese": "ツインエンジェルBREAK",
+  "title_synonyms": [
+    "Kaitou Tenshi Twin Angel"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-07T00:00:00+00:00",
+    "to": "2017-06-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 23,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Apr 7, 2017 to Jun 23, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.96,
+  "scored_by": 4165,
+  "rank": 10575,
+  "popularity": 6012,
+  "members": 15001,
+  "favorites": 16,
+  "synopsis": "Amatsuki Meguru is a girl who innocently aspires to be a hero of justice and the cool Kisaragi Sumire who grew up in the strict Kisaragi household... The two girls who are in their 3rd year of middle school end up getting orders from a mysterious hedgehog named Miruku-chan and turn into Twin Angels in order to fight evil! Meguru is always cheerful but sometimes a bit too forceful. Meanwhile, Sumire isn't accustomed with being around others. Despite their differences, as they work together, they start opening up to each other.\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": []
+}

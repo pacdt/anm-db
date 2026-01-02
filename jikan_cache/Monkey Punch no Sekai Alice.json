@@ -1,0 +1,133 @@
+{
+  "mal_id": 3640,
+  "url": "https://myanimelist.net/anime/3640/Monkey_Punch_no_Sekai__Alice",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/6246.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/6246t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/6246l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/6246.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/6246t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/6246l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Monkey Punch no Sekai: Alice"
+    },
+    {
+      "type": "Synonym",
+      "title": "Alice the Wild"
+    },
+    {
+      "type": "Japanese",
+      "title": "モンキー・パンチの世界　アリス"
+    },
+    {
+      "type": "English",
+      "title": "Alice"
+    }
+  ],
+  "title": "Monkey Punch no Sekai: Alice",
+  "title_english": "Alice",
+  "title_japanese": "モンキー・パンチの世界　アリス",
+  "title_synonyms": [
+    "Alice the Wild"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1991-12-13T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 12,
+        "year": 1991
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 13, 1991"
+  },
+  "duration": "46 min",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.27,
+  "scored_by": 1043,
+  "rank": 13412,
+  "popularity": 11839,
+  "members": 2409,
+  "favorites": 3,
+  "synopsis": "Released in 1991, this OVA revolves around a mad scientist and the woman that betrayed him. Her unfaithfulness causes the scientist to turn her into a bionic sex machine that desires to please her man completely. However, she still remains unfaithful, and it is up to the scientist`s son to track her down and exact revenge.\n\n(Source: AniDB)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 917,
+      "type": "anime",
+      "name": "Takahashi Studio",
+      "url": "https://myanimelist.net/anime/producer/917/Takahashi_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

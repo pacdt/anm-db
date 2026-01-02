@@ -1,0 +1,176 @@
+{
+  "mal_id": 31537,
+  "url": "https://myanimelist.net/anime/31537/Manaria_Friends",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1287/111373.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/111373t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/111373l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1287/111373.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/111373t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/111373l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HbVaFnx-uAw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Manaria Friends"
+    },
+    {
+      "type": "Synonym",
+      "title": "Rage of Bahamut: Manaria Friends"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shingeki no Bahamut: Manaria Friends"
+    },
+    {
+      "type": "Japanese",
+      "title": "マナリアフレンズ"
+    },
+    {
+      "type": "English",
+      "title": "Mysteria Friends"
+    },
+    {
+      "type": "German",
+      "title": "Mysteria Friends"
+    },
+    {
+      "type": "Spanish",
+      "title": "Mysteria Friends"
+    },
+    {
+      "type": "French",
+      "title": "Mysteria Friends"
+    }
+  ],
+  "title": "Manaria Friends",
+  "title_english": "Mysteria Friends",
+  "title_japanese": "マナリアフレンズ",
+  "title_synonyms": [
+    "Rage of Bahamut: Manaria Friends",
+    "Shingeki no Bahamut: Manaria Friends"
+  ],
+  "type": "TV",
+  "source": "Card game",
+  "episodes": 10,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-21T00:00:00+00:00",
+    "to": "2019-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Jan 21, 2019 to Mar 25, 2019"
+  },
+  "duration": "14 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.68,
+  "scored_by": 37163,
+  "rank": 6313,
+  "popularity": 1891,
+  "members": 134875,
+  "favorites": 340,
+  "synopsis": "Mysteria Academy is a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other. Two of the academy's students are Anne, a princess and honor student, and Grea, a princess born from a dragon and a human.\n\n(Source: ANN)",
+  "background": "Manaria Friends was originally scheduled to premiere in April 2016, before being postponed and rescheduled for January 21st, 2019.",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 1587,
+      "type": "anime",
+      "name": "Cygames",
+      "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+    },
+    {
+      "mal_id": 1933,
+      "type": "anime",
+      "name": "Happinet",
+      "url": "https://myanimelist.net/anime/producer/1933/Happinet"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1893,
+      "type": "anime",
+      "name": "CygamesPictures",
+      "url": "https://myanimelist.net/anime/producer/1893/CygamesPictures"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

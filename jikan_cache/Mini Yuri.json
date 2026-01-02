@@ -1,0 +1,135 @@
+{
+  "mal_id": 40369,
+  "url": "https://myanimelist.net/anime/40369/Mini_Yuri",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1606/116670.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1606/116670t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1606/116670l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1606/116670.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1606/116670t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1606/116670l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mini Yuri"
+    },
+    {
+      "type": "Japanese",
+      "title": "みにゆり"
+    }
+  ],
+  "title": "Mini Yuri",
+  "title_english": null,
+  "title_japanese": "みにゆり",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-09-25T00:00:00+00:00",
+    "to": "2019-10-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 9,
+        "year": 2019
+      },
+      "to": {
+        "day": 16,
+        "month": 10,
+        "year": 2019
+      }
+    },
+    "string": "Sep 25, 2019 to Oct 16, 2019"
+  },
+  "duration": "5 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.75,
+  "scored_by": 5025,
+  "rank": 5860,
+  "popularity": 6650,
+  "members": 11742,
+  "favorites": 11,
+  "synopsis": "Mini Yuri is a four-episode series with a runtime of 5 minutes per episode. The short anime was realeased online and features mini characters.\n\n(Source: MAL News)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1396,
+      "type": "anime",
+      "name": "W-Toon Studio",
+      "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+    },
+    {
+      "mal_id": 1673,
+      "type": "anime",
+      "name": "DMM.futureworks",
+      "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 26,
+      "type": "anime",
+      "name": "Girls Love",
+      "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,165 @@
+{
+  "mal_id": 38422,
+  "url": "https://myanimelist.net/anime/38422/High_Score_Girl__Extra_Stage",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1057/111384.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/111384t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/111384l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1057/111384.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/111384t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/111384l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_N-BnjZnJWk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "High Score Girl: Extra Stage"
+    },
+    {
+      "type": "Synonym",
+      "title": "High Score Girl OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "ハイスコアガール EXTRA STAGE"
+    },
+    {
+      "type": "English",
+      "title": "Hi Score Girl: Extra Stage"
+    },
+    {
+      "type": "German",
+      "title": "High Score Girl Folge 13-15"
+    },
+    {
+      "type": "Spanish",
+      "title": "High Score Girl 13ª, 14ª y 15ª Ronda"
+    },
+    {
+      "type": "French",
+      "title": "High Score Girl Épisode 13-15"
+    }
+  ],
+  "title": "High Score Girl: Extra Stage",
+  "title_english": "Hi Score Girl: Extra Stage",
+  "title_japanese": "ハイスコアガール EXTRA STAGE",
+  "title_synonyms": [
+    "High Score Girl OVA"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-03-20T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 3,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 20, 2019"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.95,
+  "scored_by": 50193,
+  "rank": 771,
+  "popularity": 2671,
+  "members": 80971,
+  "favorites": 173,
+  "synopsis": "Four years after they first met, Haruo Yaguchi , Akira Oono, and Koharu Hidaka remain the best of friends. Tensions start to build up as Akira's teacher, Gouda Moemi, becomes stricter than ever before, and Hidaka develops feelings for Haruo. Though he may not be the most composed and thoughtful person around, he has within him the one thing that started it all: his unconditional love for video games.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

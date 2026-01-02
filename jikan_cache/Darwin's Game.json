@@ -1,0 +1,208 @@
+{
+  "mal_id": 38656,
+  "url": "https://myanimelist.net/anime/38656/Darwins_Game",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1016/107222.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1016/107222t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1016/107222l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1016/107222.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1016/107222t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1016/107222l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_cLxzQoNVpo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Darwin's Game"
+    },
+    {
+      "type": "Japanese",
+      "title": "ダーウィンズゲーム"
+    },
+    {
+      "type": "English",
+      "title": "Darwin's Game"
+    }
+  ],
+  "title": "Darwin's Game",
+  "title_english": "Darwin's Game",
+  "title_japanese": "ダーウィンズゲーム",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 11,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-04T00:00:00+00:00",
+    "to": "2020-03-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 21,
+        "month": 3,
+        "year": 2020
+      }
+    },
+    "string": "Jan 4, 2020 to Mar 21, 2020"
+  },
+  "duration": "26 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.21,
+  "scored_by": 326497,
+  "rank": 3468,
+  "popularity": 405,
+  "members": 605930,
+  "favorites": 2716,
+  "synopsis": "High school student Kaname Sudou receives an invitation from a classmate to play Darwin's Game, a mobile game he has never heard of. However, as soon as he opens the application, a green snake suddenly pops out from his phone screen and bites his neck, leaving him unconscious. Waking up in the infirmary without any signs of a snake bite, he is told by the school to take the rest of the day off. Although he is puzzled by what has happened, he dismisses the surreal experience as a hallucination and boards the train home.\n\nUnfortunately, his curiosity gets the better of him and he uses the application once again. As the application appears to be just like any other battle game, Kaname breathes out a sigh of relief and decides to start his first match. However, the pleasant surprise is short-lived, as his in-game opponent unexpectedly appears right in front of him and attempts to hunt him down with a knife.\n\nAs he desperately runs for his life, Kaname puts two and two together and realizes that Darwin's Game is not an ordinary game, but rather, it's a brutal fight for survival.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1677,
+      "type": "anime",
+      "name": "Kanetsu Investment",
+      "url": "https://myanimelist.net/anime/producer/1677/Kanetsu_Investment"
+    },
+    {
+      "mal_id": 1901,
+      "type": "anime",
+      "name": "CA-Cygames Anime Fund",
+      "url": "https://myanimelist.net/anime/producer/1901/CA-Cygames_Anime_Fund"
+    },
+    {
+      "mal_id": 2100,
+      "type": "anime",
+      "name": "Hochi Shimbun",
+      "url": "https://myanimelist.net/anime/producer/2100/Hochi_Shimbun"
+    },
+    {
+      "mal_id": 2101,
+      "type": "anime",
+      "name": "ADK",
+      "url": "https://myanimelist.net/anime/producer/2101/ADK"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 852,
+      "type": "anime",
+      "name": "Nexus",
+      "url": "https://myanimelist.net/anime/producer/852/Nexus"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 59,
+      "type": "anime",
+      "name": "High Stakes Game",
+      "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Survival",
+      "url": "https://myanimelist.net/anime/genre/76/Survival"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

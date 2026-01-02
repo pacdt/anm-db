@@ -1,0 +1,136 @@
+{
+  "mal_id": 5231,
+  "url": "https://myanimelist.net/anime/5231/Inazuma_Eleven",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1854/94704.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1854/94704t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1854/94704l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1854/94704.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1854/94704t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1854/94704l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Inazuma Eleven"
+    },
+    {
+      "type": "Japanese",
+      "title": "イナズマイレブン"
+    }
+  ],
+  "title": "Inazuma Eleven",
+  "title_english": null,
+  "title_japanese": "イナズマイレブン",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 127,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-05T00:00:00+00:00",
+    "to": "2011-04-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": 27,
+        "month": 4,
+        "year": 2011
+      }
+    },
+    "string": "Oct 5, 2008 to Apr 27, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.76,
+  "scored_by": 143509,
+  "rank": 1199,
+  "popularity": 1169,
+  "members": 236124,
+  "favorites": 4703,
+  "synopsis": "While other schools in Japan compete for the title of being the best soccer team in the country, Raimon Middle School's soccer club, Inazuma Eleven, struggles to rise from the verge of being disbanded. The grandson of Inazuma Eleven's first generation goalkeeper and captain of the team, Mamoru Endou, takes the challenge of kicking the long neglected club back into shape. To do this, he'll need a little help and more than a little luck.\n\nMamoru Endou finds hope in the hands of Shuuya Gouenji, a brilliant young player who has given up on soccer. Mamoru is determined to get Shuuya and other new recruits to join his team, no matter what the cost. Is his passion and determination enough to treat the ailing club? Or is there no more hope for the team?",
+  "background": "Inazuma Eleven first started out as a sports role-playing game for the Nintendo DS. The series has had numerous sequels since then. The manga was first published in the Shogakukan CoroCoro Comic and the anime series was produced by game developer Level-5 along with TV Tokyo and OLM. The anime aired in numerous countries around Asia, Europe and Latin America. Aside from the anime, manga and video games, there is also an animated film and guidebooks for the series.",
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": []
+}

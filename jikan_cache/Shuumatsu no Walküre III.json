@@ -1,0 +1,146 @@
+{
+  "mal_id": 61200,
+  "url": "https://myanimelist.net/anime/61200/Shuumatsu_no_Walküre_III",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1153/153510.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1153/153510t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1153/153510l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1153/153510.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1153/153510t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1153/153510l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/o5GRIchY2M4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shuumatsu no Walküre III"
+    },
+    {
+      "type": "Japanese",
+      "title": "終末のワルキューレIII"
+    },
+    {
+      "type": "English",
+      "title": "Record of Ragnarok III"
+    }
+  ],
+  "title": "Shuumatsu no Walküre III",
+  "title_english": "Record of Ragnarok III",
+  "title_japanese": "終末のワルキューレIII",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 15,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-12-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 12,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 10, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.69,
+  "scored_by": 14881,
+  "rank": 1394,
+  "popularity": 3978,
+  "members": 39757,
+  "favorites": 86,
+  "synopsis": "Third season of Shuumatsu no Walküre.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 96,
+      "type": "anime",
+      "name": "Yumeta Company",
+      "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+    },
+    {
+      "mal_id": 3097,
+      "type": "anime",
+      "name": "Maru Animation",
+      "url": "https://myanimelist.net/anime/producer/3097/Maru_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

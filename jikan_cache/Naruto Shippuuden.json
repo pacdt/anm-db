@@ -1,0 +1,190 @@
+{
+  "mal_id": 1735,
+  "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1565/111305t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1565/111305.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1565/111305t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1565/111305l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1dy2zPPrKD0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Naruto: Shippuuden"
+    },
+    {
+      "type": "Synonym",
+      "title": "Naruto Hurricane Chronicles"
+    },
+    {
+      "type": "Japanese",
+      "title": "-ナルト- 疾風伝"
+    },
+    {
+      "type": "English",
+      "title": "Naruto Shippuden"
+    },
+    {
+      "type": "German",
+      "title": "Naruto Shippuden"
+    },
+    {
+      "type": "Spanish",
+      "title": "Naruto Shippuden"
+    },
+    {
+      "type": "French",
+      "title": "Naruto Shippuden"
+    }
+  ],
+  "title": "Naruto: Shippuuden",
+  "title_english": "Naruto Shippuden",
+  "title_japanese": "-ナルト- 疾風伝",
+  "title_synonyms": [
+    "Naruto Hurricane Chronicles"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 500,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-02-15T00:00:00+00:00",
+    "to": "2017-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 2,
+        "year": 2007
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Feb 15, 2007 to Mar 23, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.28,
+  "scored_by": 1791296,
+  "rank": 328,
+  "popularity": 15,
+  "members": 2696753,
+  "favorites": 118916,
+  "synopsis": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.\n \nAlthough Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2007,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 19:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "KSS",
+      "url": "https://myanimelist.net/anime/producer/50/KSS"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

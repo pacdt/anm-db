@@ -1,0 +1,165 @@
+{
+  "mal_id": 3420,
+  "url": "https://myanimelist.net/anime/3420/Shigofumi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50787.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50787t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50787l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50787.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50787t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50787l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/EtdjbZB014c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shigofumi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shigofumi: Stories of Last Letter"
+    },
+    {
+      "type": "Japanese",
+      "title": "シゴフミ"
+    },
+    {
+      "type": "English",
+      "title": "Shigofumi: Letters from the Departed"
+    }
+  ],
+  "title": "Shigofumi",
+  "title_english": "Shigofumi: Letters from the Departed",
+  "title_japanese": "シゴフミ",
+  "title_synonyms": [
+    "Shigofumi: Stories of Last Letter"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-01-06T00:00:00+00:00",
+    "to": "2008-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2008
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Jan 6, 2008 to Mar 23, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.44,
+  "scored_by": 33041,
+  "rank": 2294,
+  "popularity": 2381,
+  "members": 97438,
+  "favorites": 365,
+  "synopsis": "There are some things that people are unable to say while they are alive; for these, there are \"shigofumi,\" letters carried from the world of the dead to the world of the living. When a person with strong emotions dies, they are able to create a shigofumi, whether their feelings are of love, longing, or resentment. It is the quiet and mysterious Fumika's job to deliver these messages from the departed. Along with her talking magic staff Kanaka, she ensures that each shigofumi reaches its intended recipient, even if that person does not want to face its contents.\n\nFumika witnesses the tragedies of people, both dead and alive, and sees their deepest secrets revealed. What is unclear, however, are the details of Fumika's past. Who was she before she came to be a carrier of shigofumi?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2008,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": []
+}

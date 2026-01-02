@@ -1,0 +1,128 @@
+{
+  "mal_id": 59390,
+  "url": "https://myanimelist.net/anime/59390/Terminator_0",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1655/144863.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1655/144863t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1655/144863l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1655/144863.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1655/144863t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1655/144863l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/t86xp7uJm88?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Terminator 0"
+    },
+    {
+      "type": "Japanese",
+      "title": "ターミネーター 0"
+    },
+    {
+      "type": "English",
+      "title": "Terminator Zero"
+    }
+  ],
+  "title": "Terminator 0",
+  "title_english": "Terminator Zero",
+  "title_japanese": "ターミネーター 0",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Other",
+  "episodes": 8,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-08-29T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 8,
+        "year": 2024
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 29, 2024"
+  },
+  "duration": "27 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.06,
+  "scored_by": 11301,
+  "rank": 4276,
+  "popularity": 5123,
+  "members": 22645,
+  "favorites": 78,
+  "synopsis": "Decades after the sentient artificial intelligence Skynet took control of the planet in 2022, the resistance is still fighting against the machines. Following a fierce battle, Eiko, a guerilla soldier in Japan, manages to corner a Terminator—Skynet's elite killing cyborg. Eiko extracts crucial details of its plan, allowing the resistance to send her back in time and secure a different future.\n\nIn August 1997, days before Skynet's looming nuclear attack known as Judgment Day, Malcolm Lee works on launching Kokoro, a new AI model designed to fight for humanity. As Judgement Day approaches, a Terminator arrives in Japan to hunt Malcolm and his children before Kokoro becomes self-aware. Malcolm must prevent his creation from getting misaligned and coming to the same conclusion as Skynet: the extinction of humans.\n\n[Written by MAL Rewrite]",
+  "background": "Although Terminator 0 shares the same universe as the Terminator live-action movies, it features a new story with different characters. It is the first animation of the Terminator franchise and premiered exclusively on Netflix.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 2991,
+      "type": "anime",
+      "name": "Skydance",
+      "url": "https://myanimelist.net/anime/producer/2991/Skydance"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,118 @@
+{
+  "mal_id": 60070,
+  "url": "https://myanimelist.net/anime/60070/Kaijuu_Sekai_Seifuku_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1582/150123.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/150123t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/150123l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1582/150123.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/150123t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/150123l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/YUQywis1jEk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaijuu Sekai Seifuku (TV)"
+    },
+    {
+      "type": "Japanese",
+      "title": "かいじゅうせかいせいふく"
+    }
+  ],
+  "title": "Kaijuu Sekai Seifuku (TV)",
+  "title_english": null,
+  "title_japanese": "かいじゅうせかいせいふく",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2025-04-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 5, 2025 to ?"
+  },
+  "duration": "2 min",
+  "rating": "G - All Ages",
+  "score": null,
+  "scored_by": null,
+  "rank": 17755,
+  "popularity": 14770,
+  "members": 1059,
+  "favorites": 0,
+  "synopsis": "Following the chaotic and heartwarming daily lives of Kaijuu who have come to Earth to conquer the world and live with their human masters.",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "07:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 07:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1719,
+      "type": "anime",
+      "name": "Kotobukiya",
+      "url": "https://myanimelist.net/anime/producer/1719/Kotobukiya"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 276,
+      "type": "anime",
+      "name": "DLE",
+      "url": "https://myanimelist.net/anime/producer/276/DLE"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 71,
+      "type": "anime",
+      "name": "Pets",
+      "url": "https://myanimelist.net/anime/genre/71/Pets"
+    }
+  ],
+  "demographics": []
+}

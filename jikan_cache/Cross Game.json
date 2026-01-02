@@ -1,0 +1,159 @@
+{
+  "mal_id": 5941,
+  "url": "https://myanimelist.net/anime/5941/Cross_Game",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/22103.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/22103t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/22103l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/22103.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/22103t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/22103l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cross Game"
+    },
+    {
+      "type": "Japanese",
+      "title": "クロスゲーム"
+    },
+    {
+      "type": "English",
+      "title": "Cross Game"
+    }
+  ],
+  "title": "Cross Game",
+  "title_english": "Cross Game",
+  "title_japanese": "クロスゲーム",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 50,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-04-05T00:00:00+00:00",
+    "to": "2010-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2009
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2010
+      }
+    },
+    "string": "Apr 5, 2009 to Mar 28, 2010"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.36,
+  "scored_by": 53321,
+  "rank": 250,
+  "popularity": 1930,
+  "members": 131712,
+  "favorites": 3077,
+  "synopsis": "Kou Kitamura and Aoba Tsukishima are often at odds—even though their families happen to be close friends and business partners. Although the only child of a sports shop owner, Kou has never been interested in playing baseball. Despite this, he possesses an impressive batting ability honed by frequent visits to the local baseball batting center run by the Tsukishima family. On the other hand, Aoba loves to play baseball and is a star player with exceptional pitching form.\n\nHowever, these two seemingly complete opposites share something very important to them—Wakaba Tsukishima, Aoba's older sister and Kou's destined sweetheart. Admired by the quarrelsome duo, Wakaba often finds herself the catalyst to their never-ending rivalry. But whether or not they realize that they have more in common than either would care to admit, only time will tell. The game of baseball may just be what the pair needs to ultimately overcome their own personal struggles.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "10:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 10:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 118,
+      "type": "anime",
+      "name": "SynergySP",
+      "url": "https://myanimelist.net/anime/producer/118/SynergySP"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

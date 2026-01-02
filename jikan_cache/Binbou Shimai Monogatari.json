@@ -1,0 +1,129 @@
+{
+  "mal_id": 1214,
+  "url": "https://myanimelist.net/anime/1214/Binbou_Shimai_Monogatari",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/108682.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/108682t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/108682l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/108682.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/108682t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/108682l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Binbou Shimai Monogatari"
+    },
+    {
+      "type": "Synonym",
+      "title": "Poor Sisters Story"
+    },
+    {
+      "type": "Synonym",
+      "title": "Flat Broke Sisters"
+    },
+    {
+      "type": "Japanese",
+      "title": "貧乏姉妹物語"
+    }
+  ],
+  "title": "Binbou Shimai Monogatari",
+  "title_english": null,
+  "title_japanese": "貧乏姉妹物語",
+  "title_synonyms": [
+    "Poor Sisters Story",
+    "Flat Broke Sisters"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 10,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-06-30T00:00:00+00:00",
+    "to": "2006-09-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 30,
+        "month": 6,
+        "year": 2006
+      },
+      "to": {
+        "day": 15,
+        "month": 9,
+        "year": 2006
+      }
+    },
+    "string": "Jun 30, 2006 to Sep 15, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.84,
+  "scored_by": 7570,
+  "rank": 5342,
+  "popularity": 5015,
+  "members": 23828,
+  "favorites": 43,
+  "synopsis": "Without the presence of both their deceased mother and their debt-ridden father, sisters Kyou and Asu Yamada are forced to fend for themselves. Thankfully, they at least have a roof over their heads: a small room in an old apartment spacious enough to fit both of them. However, to make ends meet, the older sister Kyou strives to juggle various part-time jobs—all while making sure that she and her younger sister can continue studying.\n\nDespite these hardships, they are not alone. Seemingly blessed with good and kind people around them, Kyou and Asu's lives are far from miserable. Above all else, the two sisters share a precious bond that, no matter what pain, trials, or quarrels may come their way, will always remain unbreakable.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2006,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

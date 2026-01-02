@@ -1,0 +1,147 @@
+{
+  "mal_id": 48492,
+  "url": "https://myanimelist.net/anime/48492/Scarlet_Nexus",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1314/116004.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/116004t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/116004l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1314/116004.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/116004t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/116004l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/hFXcv4YJJQU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Scarlet Nexus"
+    },
+    {
+      "type": "Japanese",
+      "title": "SCARLET NEXUS"
+    },
+    {
+      "type": "English",
+      "title": "Scarlet Nexus"
+    }
+  ],
+  "title": "Scarlet Nexus",
+  "title_english": "Scarlet Nexus",
+  "title_japanese": "SCARLET NEXUS",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-07-01T00:00:00+00:00",
+    "to": "2021-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 7,
+        "year": 2021
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2021
+      }
+    },
+    "string": "Jul 1, 2021 to Dec 23, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.72,
+  "scored_by": 28547,
+  "rank": 11814,
+  "popularity": 2265,
+  "members": 104821,
+  "favorites": 502,
+  "synopsis": "In the year 2020, a nation faces the pervasive threat of the \"Others\"—mysterious monsters who fall from the sky and feed on human brains. At the same time, psionics, a hormone that gives certain people extrasensory abilities that are effective against the Others, is discovered in the human body. Subsequently, the nation's founder establishes the Other Suppression Force (OSF) to combat these monsters and save humanity. Commonly referred to as the Scarlet Guardians, young individuals with psionics undergo intensive training to join this group.\n\nOne day, the nation prepares an induction ceremony for the exceptional recruits who completed the grueling training to become Scarlet Guardians. Among these young elites is Yuito Sumeragi, the determined son of the nation's founder; at the age of five, he was rescued by a woman in the OSF. To repay this debt, he joins the organization, eager to put his training to good use. As he meets his new comrades, he faces a big problem—the woman who saved him years ago closely resembles one of his teammates. However, this should be the least of his worries—unbeknownst to him, a conspiracy is brewing, one with the capability to shake the entire country.\n\n[Written by MAL Rewrite]",
+  "background": "Scarlet Nexus is inspired by the Japanese action role-playing game developed by Bandai Namco Studios and Tose of the same name. Published by Bandai Namco Entertainment, the game was released just prior to the airing of the television series on June 25, 2021 for Windows, PlayStation 4, Playstation 5, Xbox One, and Xbox Series X/S.",
+  "season": "summer",
+  "year": 2021,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1543,
+      "type": "anime",
+      "name": "Sunrise Music",
+      "url": "https://myanimelist.net/anime/producer/1543/Sunrise_Music"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": []
+}

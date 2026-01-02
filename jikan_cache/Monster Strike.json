@@ -1,0 +1,134 @@
+{
+  "mal_id": 30757,
+  "url": "https://myanimelist.net/anime/30757/Monster_Strike",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/78835.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/78835t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/78835l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/78835.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/78835t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/78835l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DRAvfcK8OIE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Monster Strike"
+    },
+    {
+      "type": "Japanese",
+      "title": "モンスターストライク"
+    },
+    {
+      "type": "English",
+      "title": "Monster Strike"
+    }
+  ],
+  "title": "Monster Strike",
+  "title_english": "Monster Strike",
+  "title_japanese": "モンスターストライク",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 51,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-10T00:00:00+00:00",
+    "to": "2016-12-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 3,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 10, 2015 to Dec 3, 2016"
+  },
+  "duration": "10 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.38,
+  "scored_by": 6569,
+  "rank": 8168,
+  "popularity": 4835,
+  "members": 26076,
+  "favorites": 35,
+  "synopsis": "Ren Homura has just moved back to his hometown of Kaminohara, but he is not able to remember much about the time he spent there other than vague flashbacks. When he retrieves his cell phone which he had sent to a shop for repairs, he finds that a mysterious game titled \"Monster Strike\" has been installed on it. Unaware of its purpose or how it got there, Ren decides to open it, an action that will change his life forever as he finds himself suddenly attacked by a strange man.\n\nNow trapped on the roof of his school which strangely has been designated as a \"stage,\" Ren is shocked to see the man summon a realistic monster from the game, one that is more than capable of inflicting damage on a human. His only chance of getting out of this situation alive is by summoning the dragon Oragon, who tells Ren that he will crush the opposing monster for him. Unfortunately, it turns out that Oragon is a tiny dragon that is completely useless!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 1572,
+      "type": "anime",
+      "name": "XFLAG",
+      "url": "https://myanimelist.net/anime/producer/1572/XFLAG"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 101,
+      "type": "anime",
+      "name": "Studio Hibari",
+      "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": []
+}

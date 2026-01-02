@@ -1,0 +1,130 @@
+{
+  "mal_id": 2367,
+  "url": "https://myanimelist.net/anime/2367/Moetan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/21540.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/21540t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/21540l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/21540.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/21540t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/21540l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/jfitmx8KH5o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Moetan"
+    },
+    {
+      "type": "Japanese",
+      "title": "もえたん"
+    }
+  ],
+  "title": "Moetan",
+  "title_english": null,
+  "title_japanese": "もえたん",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Other",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-07-09T00:00:00+00:00",
+    "to": "2007-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2007
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Jul 9, 2007 to Sep 24, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.4,
+  "scored_by": 10601,
+  "rank": 8016,
+  "popularity": 4485,
+  "members": 30907,
+  "favorites": 94,
+  "synopsis": "Ink Nijihara is a girl in high school. Unfortunately her crush Nao Tezuka barely recognizes her. To make matters worse, she is very short. Now Ink meets a duck and becomes a \"mahou shoujo\" and teaches Nao english in disguise. \n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2007,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Actas",
+      "url": "https://myanimelist.net/anime/producer/60/Actas"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

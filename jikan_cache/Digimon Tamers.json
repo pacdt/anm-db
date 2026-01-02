@@ -1,0 +1,163 @@
+{
+  "mal_id": 874,
+  "url": "https://myanimelist.net/anime/874/Digimon_Tamers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/73696.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73696t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73696l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/73696.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73696t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73696l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Digimon Tamers"
+    },
+    {
+      "type": "Synonym",
+      "title": "Digimon: Digital Monsters 03"
+    },
+    {
+      "type": "Japanese",
+      "title": "デジモンテイマーズ"
+    },
+    {
+      "type": "English",
+      "title": "Digimon Tamers"
+    },
+    {
+      "type": "Spanish",
+      "title": "Digimon 3"
+    }
+  ],
+  "title": "Digimon Tamers",
+  "title_english": "Digimon Tamers",
+  "title_japanese": "デジモンテイマーズ",
+  "title_synonyms": [
+    "Digimon: Digital Monsters 03"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 51,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-04-01T00:00:00+00:00",
+    "to": "2002-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2001
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2002
+      }
+    },
+    "string": "Apr 1, 2001 to Mar 31, 2002"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG - Children",
+  "score": 7.65,
+  "scored_by": 129479,
+  "rank": 1494,
+  "popularity": 1305,
+  "members": 209625,
+  "favorites": 2043,
+  "synopsis": "Ten-year-old Takato Matsuda loves playing the Digimon card game with his friends and immersing himself in its imaginative world. One morning, he finds an unfamiliar blue card in his collection and swipes it through his card reader. Little does he know, his decision leads to its transformation into a D-Ark Digivice. When the mysterious device scans his designs for an original Digimon named Guilmon, it generates a Digi-Egg that later hatches into a living version of his own creation!\n\nAlthough Takato is thrilled to have a real Digimon, his idealized fantasy shatters when he realizes that his rambunctious new companion requires constant supervision. Adding to his troubles, Guilmon is targeted by Ruki Makino, a rival tamer who commands her partner, Renamon, to gain power by defeating other Digimon and absorbing their data. Luckily, Takato finds allies in his schoolmate Li Jianliang and his sassy Digimon partner Terriermon to help him on his journey as a real-life tamer.\n\nWith sinister foes appearing at an alarming rate, Takato must strengthen his bond with Guilmon to protect both the human world and the Digital World.\n\n[Written by MAL Rewrite]",
+  "background": "Digimon Tamers is the first anime of the franchise to depart from the original storyline established in Digimon Adventure and Digimon Adventure 02. The trading cards used by the characters in the show are based on cards in the real life Digimon Trading Card Game.",
+  "season": "spring",
+  "year": 2001,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "09:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 09:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 841,
+      "type": "anime",
+      "name": "Saban Entertainment",
+      "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+    },
+    {
+      "mal_id": 1163,
+      "type": "anime",
+      "name": "Flatiron Film Company",
+      "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": []
+}

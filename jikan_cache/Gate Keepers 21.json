@@ -1,0 +1,130 @@
+{
+  "mal_id": 128,
+  "url": "https://myanimelist.net/anime/128/Gate_Keepers_21",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/75569.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/75569t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/75569l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/75569.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/75569t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/75569l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gate Keepers 21"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gatekeepers 21"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゲートキーパーズ21"
+    }
+  ],
+  "title": "Gate Keepers 21",
+  "title_english": null,
+  "title_japanese": "ゲートキーパーズ21",
+  "title_synonyms": [
+    "Gatekeepers 21"
+  ],
+  "type": "OVA",
+  "source": "Game",
+  "episodes": 6,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-04-24T00:00:00+00:00",
+    "to": "2003-01-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 4,
+        "year": 2002
+      },
+      "to": {
+        "day": 8,
+        "month": 1,
+        "year": 2003
+      }
+    },
+    "string": "Apr 24, 2002 to Jan 8, 2003"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.73,
+  "scored_by": 4982,
+  "rank": 5980,
+  "popularity": 6712,
+  "members": 11511,
+  "favorites": 21,
+  "synopsis": "Thirty-two years have passed since the initial defeat of the Invaders. A.E.G.I.S is all but dismantled now and has become an underground organization consisting of only a few Gate Keepers left to save humanity. One of the members, Ayane Isuzu, is sick of society as a whole, though she continues to defeat the Invaders out of spite for her father. Suddenly, she learns of the revival of Machine General (Kikai Shogun) and Devil Count (Akuma Hakushaku), but a mysterious ghost girl now accompanies them. It is up to Ayane and the remnants of A.E.G.I.S to stop them and save humanity once again.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,165 @@
+{
+  "mal_id": 813,
+  "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1277/142022t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/142022l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1277/142022.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1277/142022t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/142022l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragon Ball Z"
+    },
+    {
+      "type": "Synonym",
+      "title": "DBZ"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dragonball Z"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴンボールZ"
+    },
+    {
+      "type": "English",
+      "title": "Dragon Ball Z"
+    }
+  ],
+  "title": "Dragon Ball Z",
+  "title_english": "Dragon Ball Z",
+  "title_japanese": "ドラゴンボールZ",
+  "title_synonyms": [
+    "DBZ",
+    "Dragonball Z"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 291,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1989-04-26T00:00:00+00:00",
+    "to": "1996-01-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 4,
+        "year": 1989
+      },
+      "to": {
+        "day": 31,
+        "month": 1,
+        "year": 1996
+      }
+    },
+    "string": "Apr 26, 1989 to Jan 31, 1996"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.2,
+  "scored_by": 894938,
+  "rank": 422,
+  "popularity": 114,
+  "members": 1307782,
+  "favorites": 41535,
+  "synopsis": "Five years after winning the World Martial Arts tournament, Gokuu is now living a peaceful life with his wife and son. This changes, however, with the arrival of a mysterious enemy named Raditz who presents himself as Gokuu's long-lost brother. He reveals that Gokuu is a descendant of the once powerful but now virtually extinct Saiyan race, whose homeworld was annihilated. When he was sent to Earth as a baby, Gokuu's sole purpose was to conquer and destroy the planet; but after suffering amnesia from a head injury, his violent and savage nature changed, and instead was raised as a kind and well-mannered boy, now fighting to protect others.\n\nWith his failed attempt at forcibly recruiting Gokuu as an ally, Raditz warns Gokuu's friends of a new threat that's rapidly approaching Earth—one that could plunge Earth into an intergalactic conflict and cause the heavens themselves to shake. A war will soon be fought over the seven mystical Dragon Balls, magic objects that can grant any wish. Only the strongest will survive.\n\n[Written by MAL Rewrite]",
+  "background": "Adapts chapters 195-519 of Akira Toriyama's Dragon Ball manga. The U.S. version is a dubbed alternative version of the original Japanese anime. For example, blood has been removed, beer is called root beer, the afterlife is called \"Another Universe,\" and people emigrate before cities are destroyed. The U.S. version edited and compiled the original for a reduced episode count of 276 instead of the original 291. The proper episode count was later restored on the uncut \"Orange Brick\" Season Set released by FUNimation Entertainment from 2006 to 2009. Additionally, these sets as well as the Season Set Blu-rays crop the show from its original 4:3 aspect ratio to 16:9. The only complete 4:3 release ever released in English were the Dragon Boxes, which have long since gone out of print.",
+  "season": "spring",
+  "year": 1989,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

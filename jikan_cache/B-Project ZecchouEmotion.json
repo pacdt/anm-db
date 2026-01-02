@@ -1,0 +1,159 @@
+{
+  "mal_id": 36483,
+  "url": "https://myanimelist.net/anime/36483/B-Project__ZecchouEmotion",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1368/111378.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1368/111378t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1368/111378l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1368/111378.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1368/111378t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1368/111378l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pXYj-NxGFDI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "type": "Synonym",
+      "title": "B-Project 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "B-PROJECT～絶頂＊エモーション～"
+    }
+  ],
+  "title": "B-Project: Zecchou*Emotion",
+  "title_english": null,
+  "title_japanese": "B-PROJECT～絶頂＊エモーション～",
+  "title_synonyms": [
+    "B-Project 2nd Season"
+  ],
+  "type": "TV",
+  "source": "Mixed media",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-12T00:00:00+00:00",
+    "to": "2019-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Jan 12, 2019 to Mar 30, 2019"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.68,
+  "scored_by": 4891,
+  "rank": 6272,
+  "popularity": 5870,
+  "members": 15957,
+  "favorites": 56,
+  "synopsis": "Tsubasa continues her job at the A&amp;R department of the major recording company Gandala Music. The idol group \"B-PROJECT\" that she has been in charge of, now made up of four idol units instead of three: Kitakore, Thrive, MooNs, and KiLLER KiNG. Tsubasa must deals with not only the various challenges of her job but also a group of young men with different personalities.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 715,
+      "type": "anime",
+      "name": "Dwango",
+      "url": "https://myanimelist.net/anime/producer/715/Dwango"
+    },
+    {
+      "mal_id": 963,
+      "type": "anime",
+      "name": "MAGES.",
+      "url": "https://myanimelist.net/anime/producer/963/MAGES"
+    },
+    {
+      "mal_id": 1415,
+      "type": "anime",
+      "name": "Asahi Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    },
+    {
+      "mal_id": 1757,
+      "type": "anime",
+      "name": "Tochigi TV",
+      "url": "https://myanimelist.net/anime/producer/1757/Tochigi_TV"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,169 @@
+{
+  "mal_id": 41611,
+  "url": "https://myanimelist.net/anime/41611/Wan_Sheng_Jie",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1854/106930.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1854/106930t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1854/106930l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1854/106930.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1854/106930t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1854/106930l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/FaPDuOxeWhs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wan Sheng Jie"
+    },
+    {
+      "type": "Synonym",
+      "title": "1031 Wan Sheng Jie"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bansei Gai"
+    },
+    {
+      "type": "Synonym",
+      "title": "万圣街"
+    },
+    {
+      "type": "Japanese",
+      "title": "万聖街"
+    },
+    {
+      "type": "English",
+      "title": "All Saints Street"
+    }
+  ],
+  "title": "Wan Sheng Jie",
+  "title_english": "All Saints Street",
+  "title_japanese": "万聖街",
+  "title_synonyms": [
+    "1031 Wan Sheng Jie",
+    "Bansei Gai",
+    "万圣街"
+  ],
+  "type": "ONA",
+  "source": "Web manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-01T00:00:00+00:00",
+    "to": "2020-05-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 27,
+        "month": 5,
+        "year": 2020
+      }
+    },
+    "string": "Apr 1, 2020 to May 27, 2020"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.97,
+  "scored_by": 12395,
+  "rank": 741,
+  "popularity": 4390,
+  "members": 32403,
+  "favorites": 510,
+  "synopsis": "In this world, angels, demons, and other supernatural beings peacefully coexist with humans. Neil Bowman is a demon who is unlike most; he is mesmerized with human culture, and no matter how hard he tries, he can't do anything evil. Thus, he runs away from Hell and up to Earth.\n\nNeil moves in with his online friend and vampire, Ira Blood, along with Ira's many roommates. Despite coming to Earth to meet humans, Neil discovers that not a single one of his new roommates is actually human. Along with Ira, there's Lynn Angel, the stern angel landlord; Lynn's little sister, Lily, who falls from Heaven; Abu, a mummy who never speaks; and Vladimir Eliot Kirilenko, a werewolf tasked with monitoring Neil.\n\nWhat most of them don't realize—not even Neil himself—is that Neil possesses the powers of the Demon King. What effect will this have on the residents of Apartment 1031 on All Saints Street?\n\n[Written by MAL Rewrite]",
+  "background": "The Japanese broadcast compiled six 4 minute ONA episodes into one 24 minute TV episode, combining the original three ONA seasons into one six episode TV season.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 2639,
+      "type": "anime",
+      "name": "Tianwen Kadokawa Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/2639/Tianwen_Kadokawa_Animation___Comics"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2076,
+      "type": "anime",
+      "name": "Fenz",
+      "url": "https://myanimelist.net/anime/producer/2076/Fenz"
+    },
+    {
+      "mal_id": 2513,
+      "type": "anime",
+      "name": "HMCH",
+      "url": "https://myanimelist.net/anime/producer/2513/HMCH"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": []
+}

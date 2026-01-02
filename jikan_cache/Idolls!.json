@@ -1,0 +1,141 @@
+{
+  "mal_id": 42981,
+  "url": "https://myanimelist.net/anime/42981/Idolls",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1886/119199.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1886/119199t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1886/119199l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1886/119199.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1886/119199t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1886/119199l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Mq6v-Ht8ycc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Idolls!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Idolls!: Idol Survival"
+    },
+    {
+      "type": "Japanese",
+      "title": "アイドールズ!"
+    }
+  ],
+  "title": "Idolls!",
+  "title_english": null,
+  "title_japanese": "アイドールズ!",
+  "title_synonyms": [
+    "Idolls!: Idol Survival"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 10,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-08T00:00:00+00:00",
+    "to": "2021-03-12T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 12,
+        "month": 3,
+        "year": 2021
+      }
+    },
+    "string": "Jan 8, 2021 to Mar 12, 2021"
+  },
+  "duration": "8 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.05,
+  "scored_by": 2430,
+  "rank": 13823,
+  "popularity": 8901,
+  "members": 5758,
+  "favorites": 12,
+  "synopsis": "Despite performing as an idol group for three years, Idolls! has failed to make its mark on the entertainment world, only boasting a meager three fans. While the girls are venting their frustrations, a small wooden statue in their room suddenly starts speaking to them and convinces them to book a venue that seats one hundred fans. The only problem is that their performance is in just nine days! Now in a race against time, the girls must prove themselves worthy of stardom or face the harsh reality of failure.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 1185,
+      "type": "anime",
+      "name": "81 Produce",
+      "url": "https://myanimelist.net/anime/producer/1185/81_Produce"
+    },
+    {
+      "mal_id": 1581,
+      "type": "anime",
+      "name": "RAY",
+      "url": "https://myanimelist.net/anime/producer/1581/RAY"
+    },
+    {
+      "mal_id": 2062,
+      "type": "anime",
+      "name": "Stray Cats",
+      "url": "https://myanimelist.net/anime/producer/2062/Stray_Cats"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 247,
+      "type": "anime",
+      "name": "Shin-Ei Animation",
+      "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,211 @@
+{
+  "mal_id": 999,
+  "url": "https://myanimelist.net/anime/999/Blue_Seed_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/2871.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/2871t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/2871l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/2871.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/2871t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/2871l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Blue Seed 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Blue Seed 2: Operation Mitama"
+    },
+    {
+      "type": "Synonym",
+      "title": "Blue Seed OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブルーシード 2"
+    },
+    {
+      "type": "English",
+      "title": "Blue Seed Beyond"
+    },
+    {
+      "type": "French",
+      "title": "Blue Seed Beyond"
+    }
+  ],
+  "title": "Blue Seed 2",
+  "title_english": "Blue Seed Beyond",
+  "title_japanese": "ブルーシード 2",
+  "title_synonyms": [
+    "Blue Seed 2: Operation Mitama",
+    "Blue Seed OVA"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-07-24T00:00:00+00:00",
+    "to": "1998-02-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 7,
+        "year": 1996
+      },
+      "to": {
+        "day": 4,
+        "month": 2,
+        "year": 1998
+      }
+    },
+    "string": "Jul 24, 1996 to Feb 4, 1998"
+  },
+  "duration": "28 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.4,
+  "scored_by": 3286,
+  "rank": 8044,
+  "popularity": 7822,
+  "members": 7841,
+  "favorites": 2,
+  "synopsis": "A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help. \n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 469,
+      "type": "anime",
+      "name": "ING",
+      "url": "https://myanimelist.net/anime/producer/469/ING"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

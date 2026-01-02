@@ -1,0 +1,146 @@
+{
+  "mal_id": 50607,
+  "url": "https://myanimelist.net/anime/50607/Yu☆Gi☆Oh_Go_Rush",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1690/140394.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1690/140394t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1690/140394l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1690/140394.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1690/140394t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1690/140394l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yu☆Gi☆Oh! Go Rush!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yuu Gi Ou: Go Rush!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "遊☆戯☆王ゴーラッシュ!!"
+    },
+    {
+      "type": "English",
+      "title": "Yu-Gi-Oh! Go Rush!!"
+    }
+  ],
+  "title": "Yu☆Gi☆Oh! Go Rush!!",
+  "title_english": "Yu-Gi-Oh! Go Rush!!",
+  "title_japanese": "遊☆戯☆王ゴーラッシュ!!",
+  "title_synonyms": [
+    "Yuu Gi Ou: Go Rush!!"
+  ],
+  "type": "TV",
+  "source": "Card game",
+  "episodes": 151,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-04-03T00:00:00+00:00",
+    "to": "2025-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2022
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2025
+      }
+    },
+    "string": "Apr 3, 2022 to Mar 30, 2025"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.19,
+  "scored_by": 1517,
+  "rank": 9296,
+  "popularity": 7869,
+  "members": 7724,
+  "favorites": 61,
+  "synopsis": "After inheriting the company from their parents, siblings Yuuhi and Yuamu Oudou have started to work at the Alien Trouble Consultancy, an organization that hunts aliens. Although they have never encountered aliens before, Yuuhi is desperate to meet one as he believes that an alien has stolen his important item, called the \"Earthdama\".\n\nOne day, while searching for extraterrestrial creatures, Yuuhi and Yuamu find a strange spot in the forest where many trees have fallen, forming a scenery similar to a crop circle. As they venture further, they discover a mysterious spaceship and enter it out of curiosity. To their surprise, they come across Yuudias Velgear, an alien from the Velgear Star Cluster. As it turns out, Yuudias is seeking to learn about Rush Duel—a card game popular among elementary school students—as he believes that it will save his home from a long war.\n\nWith the siblings agreeing to teach Yuudias about Rush Duel, they eventually realize that their first contact with an alien may not be a random coincidence.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2022,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "07:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 07:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 85,
+      "type": "anime",
+      "name": "Konami",
+      "url": "https://myanimelist.net/anime/producer/85/Konami"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 397,
+      "type": "anime",
+      "name": "Bridge",
+      "url": "https://myanimelist.net/anime/producer/397/Bridge"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": []
+}

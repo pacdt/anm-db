@@ -1,0 +1,134 @@
+{
+  "mal_id": 40197,
+  "url": "https://myanimelist.net/anime/40197/Urashimasakatasen_no_Nichijou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1294/102367.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/102367t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/102367l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1294/102367.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/102367t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/102367l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5bjgyAJ_4mo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Urashimasakatasen no Nichijou"
+    },
+    {
+      "type": "Japanese",
+      "title": "浦島坂田船の日常"
+    },
+    {
+      "type": "English",
+      "title": "Days of Urashimasakatasen"
+    },
+    {
+      "type": "German",
+      "title": "Days Of Urashimasakatasen"
+    },
+    {
+      "type": "Spanish",
+      "title": "Days of Urashimasakatasen"
+    },
+    {
+      "type": "French",
+      "title": "Days of Urashimasakatasen"
+    }
+  ],
+  "title": "Urashimasakatasen no Nichijou",
+  "title_english": "Days of Urashimasakatasen",
+  "title_japanese": "浦島坂田船の日常",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Music",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-10-02T00:00:00+00:00",
+    "to": "2019-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2019
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2019
+      }
+    },
+    "string": "Oct 2, 2019 to Dec 18, 2019"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.12,
+  "scored_by": 3022,
+  "rank": 9716,
+  "popularity": 8506,
+  "members": 6421,
+  "favorites": 39,
+  "synopsis": "The anime centers on the members of the real-world four-member male vocal unit Urashimasakatasen. Uratanuki, Shima, Tonari no Sakata, and Senra appear in the shorts as high school students.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2019,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 21:54 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1971,
+      "type": "anime",
+      "name": "Gainax Kyoto",
+      "url": "https://myanimelist.net/anime/producer/1971/Gainax_Kyoto"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

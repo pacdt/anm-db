@@ -1,0 +1,135 @@
+{
+  "mal_id": 38924,
+  "url": "https://myanimelist.net/anime/38924/Nekopara",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1716/104880.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1716/104880t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1716/104880l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1716/104880.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1716/104880t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1716/104880l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wSDfoGrDNjk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nekopara"
+    },
+    {
+      "type": "Synonym",
+      "title": "Neko Para"
+    },
+    {
+      "type": "Japanese",
+      "title": "ネコぱら"
+    },
+    {
+      "type": "English",
+      "title": "Nekopara"
+    }
+  ],
+  "title": "Nekopara",
+  "title_english": "Nekopara",
+  "title_japanese": "ネコぱら",
+  "title_synonyms": [
+    "Neko Para"
+  ],
+  "type": "TV",
+  "source": "Visual novel",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-09T00:00:00+00:00",
+    "to": "2020-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2020
+      }
+    },
+    "string": "Jan 9, 2020 to Mar 26, 2020"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.72,
+  "scored_by": 70600,
+  "rank": 6023,
+  "popularity": 1450,
+  "members": 186757,
+  "favorites": 860,
+  "synopsis": "The siblings Kashou and Shigure Minazuki enjoy the company of six catgirls. Chocola and Vanilla assist Kashou in his job as a baker at the patisserie La Soleil, while the others—Coconut, Azuki, Cinnamon, and Maple—accompany Shigure in her daily life back at their home.\n\nOne afternoon, when Chocola goes out for an errand, she notices a green-haired kitten alone by herself at a park and decides to bring her back to the patisserie. Soon after, the Minazuki household adopts her and gives her a name: Cacao. With a new member in their family, the members of the Minazuki household continue their everyday lives—bound to become livelier than ever.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "21:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 21:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1440,
+      "type": "anime",
+      "name": "Felix Film",
+      "url": "https://myanimelist.net/anime/producer/1440/Felix_Film"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,140 @@
+{
+  "mal_id": 27815,
+  "url": "https://myanimelist.net/anime/27815/Cardfight_Vanguard_G",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1330/125016.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1330/125016t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1330/125016l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1330/125016.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1330/125016t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1330/125016l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cardfight!! Vanguard G"
+    },
+    {
+      "type": "Japanese",
+      "title": "カードファイト!! ヴァンガードG"
+    },
+    {
+      "type": "English",
+      "title": "Cardfight!! Vanguard G"
+    }
+  ],
+  "title": "Cardfight!! Vanguard G",
+  "title_english": "Cardfight!! Vanguard G",
+  "title_japanese": "カードファイト!! ヴァンガードG",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Card game",
+  "episodes": 48,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-26T00:00:00+00:00",
+    "to": "2015-10-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 4,
+        "month": 10,
+        "year": 2015
+      }
+    },
+    "string": "Oct 26, 2014 to Oct 4, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.54,
+  "scored_by": 8717,
+  "rank": 7104,
+  "popularity": 5659,
+  "members": 17617,
+  "favorites": 52,
+  "synopsis": "Taking place after a three-year time skip, the series will follow Shindou Kurono, Kiba Shion, and Anjou Tokoha as the new protagonists of G.\n\nKurono uses the never-before-seen clan Gear Chronicle, which brings together the destinies of these three toward an \"impossible future, an impossible self signifying 'Generation.'\"\n\n(Source: vanguardus.blogspot.com, edited)",
+  "background": "",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "10:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 10:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": []
+}

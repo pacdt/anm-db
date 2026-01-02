@@ -1,0 +1,163 @@
+{
+  "mal_id": 31592,
+  "url": "https://myanimelist.net/anime/31592/Pokemon_XY_Z",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1627/140267.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1627/140267t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1627/140267l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1627/140267.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1627/140267t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1627/140267l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/JeyVL5FCCM8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pokemon XY&Z"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pocket Monsters XY&Z"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pokémon XY&Z"
+    },
+    {
+      "type": "Japanese",
+      "title": "ポケットモンスターXY&Z"
+    },
+    {
+      "type": "English",
+      "title": "Pokémon the Series: XYZ"
+    },
+    {
+      "type": "German",
+      "title": "Pokémon XYZ"
+    },
+    {
+      "type": "Spanish",
+      "title": "Pokémon Temporada XYZ"
+    },
+    {
+      "type": "French",
+      "title": "Pokémon XYZ"
+    }
+  ],
+  "title": "Pokemon XY&Z",
+  "title_english": "Pokémon the Series: XYZ",
+  "title_japanese": "ポケットモンスターXY&Z",
+  "title_synonyms": [
+    "Pocket Monsters XY&Z",
+    "Pokémon XY&Z"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 47,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-29T00:00:00+00:00",
+    "to": "2016-10-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 27,
+        "month": 10,
+        "year": 2016
+      }
+    },
+    "string": "Oct 29, 2015 to Oct 27, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG - Children",
+  "score": 7.81,
+  "scored_by": 102153,
+  "rank": 1064,
+  "popularity": 1642,
+  "members": 160917,
+  "favorites": 1281,
+  "synopsis": "The journey of Satoshi and his friends through the Kalos region continues! After Satoshi obtains his seventh gym badge, the group is moving toward the next town when Eureka discovers a mysterious Pokémon resting in her pochette. Soon given the name Puni-chan, it is one that even Satoshi and Serena's new Pokémon Zukan cannot identify. However, it quickly becomes apparent that Puni-chan is the target of a mysterious group clad in bright red suits known as Team Flare, aiming to capture the new Pokémon to further their agenda. But when Satoshi and the gang realize that the enigmatic organization has no intention of treating Puni-chan with any decency, they take a stand in opposition to Team Flare's plans, daring to fight back.\n\nWith Gojika's predictions looming above them, Satoshi aims for his final gym badge while Serena contests for her last Princess Key in order to be able to compete at the TriPokalon Master Class. But as Team Flare begins to move in search of the mysterious Z, the stories of Pokemon XY and Pokemon XY: Mega Evolution cross paths as Satoshi and his friends, along with Team Rocket, get caught up in a scheme that could put Kalos in great danger.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 18:55 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 499,
+      "type": "anime",
+      "name": "The Pokemon Company International",
+      "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ]
+}

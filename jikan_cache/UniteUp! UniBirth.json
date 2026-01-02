@@ -1,0 +1,128 @@
+{
+  "mal_id": 56135,
+  "url": "https://myanimelist.net/anime/56135/UniteUp_Uni_Birth",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1561/145507.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1561/145507t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1561/145507l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1561/145507.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1561/145507t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1561/145507l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/c6iEV6LNfR8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "UniteUp! Uni:Birth"
+    },
+    {
+      "type": "Japanese",
+      "title": "UniteUp! -Uni:Birth-"
+    },
+    {
+      "type": "English",
+      "title": "UniteUp! -Uni:Birth-"
+    }
+  ],
+  "title": "UniteUp! Uni:Birth",
+  "title_english": "UniteUp! -Uni:Birth-",
+  "title_japanese": "UniteUp! -Uni:Birth-",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Music",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-01-11T00:00:00+00:00",
+    "to": "2025-04-06T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2025
+      },
+      "to": {
+        "day": 6,
+        "month": 4,
+        "year": 2025
+      }
+    },
+    "string": "Jan 11, 2025 to Apr 6, 2025"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.73,
+  "scored_by": 1034,
+  "rank": 5979,
+  "popularity": 9548,
+  "members": 4718,
+  "favorites": 29,
+  "synopsis": "Second season of UniteUp!",
+  "background": "",
+  "season": "winter",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1835,
+      "type": "anime",
+      "name": "CloverWorks",
+      "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

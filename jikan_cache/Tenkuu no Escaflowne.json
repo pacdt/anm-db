@@ -1,0 +1,189 @@
+{
+  "mal_id": 182,
+  "url": "https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/30689.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/30689t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/30689l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/30689.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/30689t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/30689l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/YNTYLr3PF-A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tenkuu no Escaflowne"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tenkuu no Escaflowne"
+    },
+    {
+      "type": "Japanese",
+      "title": "天空のエスカフローネ"
+    },
+    {
+      "type": "English",
+      "title": "The Vision of Escaflowne"
+    },
+    {
+      "type": "German",
+      "title": "The Vision of Escaflowne"
+    },
+    {
+      "type": "Spanish",
+      "title": "La Visión de Escaflowne"
+    },
+    {
+      "type": "French",
+      "title": "The Vision of Escaflowne"
+    }
+  ],
+  "title": "Tenkuu no Escaflowne",
+  "title_english": "The Vision of Escaflowne",
+  "title_japanese": "天空のエスカフローネ",
+  "title_synonyms": [
+    "Tenkuu no Escaflowne"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 26,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-04-02T00:00:00+00:00",
+    "to": "1996-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 1996
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 1996
+      }
+    },
+    "string": "Apr 2, 1996 to Sep 24, 1996"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.65,
+  "scored_by": 69521,
+  "rank": 1514,
+  "popularity": 1548,
+  "members": 174353,
+  "favorites": 2273,
+  "synopsis": "Hitomi Kanzaki is just an ordinary 15-year-old schoolgirl with an interest in tarot cards and fortune telling, but one night, a boy named Van Fanel suddenly appears from the sky along with a vicious dragon. Thanks to a premonition from Hitomi, Van successfully kills the dragon, but a pillar of light appears and envelopes them both. As a result, Hitomi finds herself transported to the world of Gaea, a mysterious land where the Earth hangs in the sky.\n\nIn this new land, Hitomi soon discovers that Van is a prince of the Kingdom of Fanelia, which soon falls under attack by the evil empire of Zaibach. In an attempt to fight them off, Van boards his family's ancient guymelef Escaflowne—a mechanized battle suit—but fails to defeat them, and Fanelia ends up destroyed. Now on the run, Hitomi and Van encounter a handsome Asturian knight named Allen Schezar, whom Hitomi is shocked to find looks exactly like her crush from Earth. With some new allies on their side, Van and Hitomi fight back against the forces of Zaibach as the empire strives to revive an ancient power.\n\n[Written by MAL Rewrite]",
+  "background": "Escaflowne was originally planned to be a 39 episode series, but after cuts to its budget and an extensive reworking of the plot, the show was reduced to a 26 episode run. Due to time constraints, certain footage in earlier episodes were cut during its broadcast and later restored on the Japanese home video releases, referred to as the Director's Cut. The North American Bandai Entertainment releases used the TV masters, so their English dub does not sync properly with the Japanese home video masters on those specific episodes. FUNimation later licensed the series and, in 2016, launched a successful Kickstarter to redub the entirety of the Director's Cut edition.",
+  "season": "spring",
+  "year": 1996,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": []
+}

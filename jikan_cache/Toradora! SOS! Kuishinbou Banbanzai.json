@@ -1,0 +1,127 @@
+{
+  "mal_id": 6127,
+  "url": "https://myanimelist.net/anime/6127/Toradora__SOS_Kuishinbou_Banbanzai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1242/123508.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/123508t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/123508l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1242/123508.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/123508t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/123508l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Toradora!: SOS! Kuishinbou Banbanzai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Toradora! SOS! Hooray for Foodies"
+    },
+    {
+      "type": "Japanese",
+      "title": "とらドラ! SOS! 食いしん坊万々歳"
+    },
+    {
+      "type": "English",
+      "title": "Toradora!: SOS! Hurray for Gourmands"
+    }
+  ],
+  "title": "Toradora!: SOS! Kuishinbou Banbanzai",
+  "title_english": "Toradora!: SOS! Hurray for Gourmands",
+  "title_japanese": "とらドラ! SOS! 食いしん坊万々歳",
+  "title_synonyms": [
+    "Toradora! SOS! Hooray for Foodies"
+  ],
+  "type": "Special",
+  "source": "Light novel",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-02-03T00:00:00+00:00",
+    "to": "2009-08-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 2,
+        "year": 2009
+      },
+      "to": {
+        "day": 26,
+        "month": 8,
+        "year": 2009
+      }
+    },
+    "string": "Feb 3, 2009 to Aug 26, 2009"
+  },
+  "duration": "5 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.42,
+  "scored_by": 56052,
+  "rank": 7925,
+  "popularity": 2156,
+  "members": 113183,
+  "favorites": 84,
+  "synopsis": "Toradora DVD shorts featuring the miniature forms of the Toradora characters talking about, and eating, food.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 47,
+      "type": "anime",
+      "name": "Gourmet",
+      "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

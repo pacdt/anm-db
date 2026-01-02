@@ -1,0 +1,137 @@
+{
+  "mal_id": 2730,
+  "url": "https://myanimelist.net/anime/2730/1_2_Paradise",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/3679.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3679t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3679l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/3679.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/3679t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/3679l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "1+2=Paradise"
+    },
+    {
+      "type": "Japanese",
+      "title": "１＋２＝パラダイス"
+    }
+  ],
+  "title": "1+2=Paradise",
+  "title_english": null,
+  "title_japanese": "１＋２＝パラダイス",
+  "title_synonyms": [],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1990-02-23T00:00:00+00:00",
+    "to": "1990-04-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 2,
+        "year": 1990
+      },
+      "to": {
+        "day": 27,
+        "month": 4,
+        "year": 1990
+      }
+    },
+    "string": "Feb 23, 1990 to Apr 27, 1990"
+  },
+  "duration": "28 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 4.74,
+  "scored_by": 5501,
+  "rank": 14160,
+  "popularity": 6605,
+  "members": 11955,
+  "favorites": 27,
+  "synopsis": "Yuusuke Yamamoto has a crippling phobia of women, and understandably so—the twin girls living next door tried to cut off his penis as a child. Unfortunately, Yuusuke's father is a gynecologist and needs him to overcome his fear so he can inherit the family business. To accomplish this, Yuusuke's father offers sanctuary to sisters Rika and Yuka Nakamura in their home while the girls are studying at the nearby college.\n\nIn a terrible twist of fate, when Yuusuke realizes that their guest room is too small for two people, he is forced to choose which of the sisters is allowed to stay. Desperate to win his favor, the brazen Yuka and the more reserved Rika are willing to do whatever it takes to impress and eventually sway Yuusuke—even if it means making things physical and personal.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 183,
+      "type": "anime",
+      "name": "Agent 21",
+      "url": "https://myanimelist.net/anime/producer/183/Agent_21"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

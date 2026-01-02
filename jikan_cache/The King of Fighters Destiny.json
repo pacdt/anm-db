@@ -1,0 +1,147 @@
+{
+  "mal_id": 35204,
+  "url": "https://myanimelist.net/anime/35204/The_King_of_Fighters__Destiny",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1238/110960.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/110960t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/110960l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1238/110960.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/110960t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/110960l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "The King of Fighters: Destiny"
+    },
+    {
+      "type": "Synonym",
+      "title": "KOF"
+    },
+    {
+      "type": "Synonym",
+      "title": "Quanhuang Mingyun"
+    },
+    {
+      "type": "Japanese",
+      "title": "拳皇命运"
+    }
+  ],
+  "title": "The King of Fighters: Destiny",
+  "title_english": null,
+  "title_japanese": "拳皇命运",
+  "title_synonyms": [
+    "KOF",
+    "Quanhuang Mingyun"
+  ],
+  "type": "ONA",
+  "source": "Game",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-08-03T00:00:00+00:00",
+    "to": "2018-01-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 8,
+        "year": 2017
+      },
+      "to": {
+        "day": 4,
+        "month": 1,
+        "year": 2018
+      }
+    },
+    "string": "Aug 3, 2017 to Jan 4, 2018"
+  },
+  "duration": "16 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.54,
+  "scored_by": 1997,
+  "rank": 7154,
+  "popularity": 9188,
+  "members": 5280,
+  "favorites": 20,
+  "synopsis": "CG anime adaptation of The King of Fighters fighting game franchise.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 2629,
+      "type": "anime",
+      "name": "Bytehoo",
+      "url": "https://myanimelist.net/anime/producer/2629/Bytehoo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1767,
+      "type": "anime",
+      "name": "iDRAGONS Creative Studio",
+      "url": "https://myanimelist.net/anime/producer/1767/iDRAGONS_Creative_Studio"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": []
+}

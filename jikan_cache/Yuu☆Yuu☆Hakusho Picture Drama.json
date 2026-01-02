@@ -1,0 +1,141 @@
+{
+  "mal_id": 6964,
+  "url": "https://myanimelist.net/anime/6964/Yuu☆Yuu☆Hakusho_Picture_Drama",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/19920.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/19920t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/19920l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/19920.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/19920t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/19920l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yuu☆Yuu☆Hakusho Picture Drama"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yu Yu Hakusho Picture Drama"
+    },
+    {
+      "type": "Synonym",
+      "title": "YuYu Hakusho"
+    },
+    {
+      "type": "Japanese",
+      "title": "幽☆遊☆白書"
+    }
+  ],
+  "title": "Yuu☆Yuu☆Hakusho Picture Drama",
+  "title_english": null,
+  "title_japanese": "幽☆遊☆白書",
+  "title_synonyms": [
+    "Yu Yu Hakusho Picture Drama",
+    "YuYu Hakusho"
+  ],
+  "type": "Special",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 27, 2009"
+  },
+  "duration": "6 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.48,
+  "scored_by": 5218,
+  "rank": 7557,
+  "popularity": 6446,
+  "members": 12653,
+  "favorites": 13,
+  "synopsis": "Because the Demon World Tournament winner has requested it, Yusuke, Kuwabara and Kurama get together in front of an audience for each of them to record a morning and evening greeting.\n\nThe problem is how to get Hiei to do the same.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

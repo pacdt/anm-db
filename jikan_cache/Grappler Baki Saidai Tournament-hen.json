@@ -1,0 +1,160 @@
+{
+  "mal_id": 551,
+  "url": "https://myanimelist.net/anime/551/Grappler_Baki__Saidai_Tournament-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1433/96723.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1433/96723.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Grappler Baki: Saidai Tournament-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Baki the Grappler II"
+    },
+    {
+      "type": "Synonym",
+      "title": "Grappler Baki Second Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Baki The Grappler - The Ultimate Tournament"
+    },
+    {
+      "type": "Synonym",
+      "title": "Grappler Baki Maximum Tournament"
+    },
+    {
+      "type": "Japanese",
+      "title": "グラップラー刃牙(バキ) 最大トーナメント編"
+    },
+    {
+      "type": "English",
+      "title": "Baki the Grappler: Saidai Tournament-hen"
+    },
+    {
+      "type": "French",
+      "title": "Baki The Grappler Saison 2: Maximum Tournament"
+    }
+  ],
+  "title": "Grappler Baki: Saidai Tournament-hen",
+  "title_english": "Baki the Grappler: Saidai Tournament-hen",
+  "title_japanese": "グラップラー刃牙(バキ) 最大トーナメント編",
+  "title_synonyms": [
+    "Baki the Grappler II",
+    "Grappler Baki Second Season",
+    "Baki The Grappler - The Ultimate Tournament",
+    "Grappler Baki Maximum Tournament"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-07-24T00:00:00+00:00",
+    "to": "2001-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 7,
+        "year": 2001
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2001
+      }
+    },
+    "string": "Jul 24, 2001 to Dec 25, 2001"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.48,
+  "scored_by": 56718,
+  "rank": 2146,
+  "popularity": 2292,
+  "members": 102735,
+  "favorites": 300,
+  "synopsis": "Mitsunari Tokugawa, the organizer of the historic Tokugawa underground fighting ring, has created a tournament featuring 38 of the world's best fighters, many of whom are grandmasters in their respective form of martial arts. With the exception of weapons, anything goes in Tokugawa's ring so that each fighter is able to showcase their true power and strongest secret moves.\n\nBaki Hanma earned a place in the tournament due to his status as the reigning champion of Tokugawa's fighting ring. Will he be able to come out on top? \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2001,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

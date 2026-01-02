@@ -1,0 +1,170 @@
+{
+  "mal_id": 42391,
+  "url": "https://myanimelist.net/anime/42391/Osomatsu-san_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1290/113445.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1290/113445t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1290/113445l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1290/113445.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1290/113445t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1290/113445l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/tsn6dMnW6MI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Osomatsu-san 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "おそ松さん 第3期"
+    },
+    {
+      "type": "English",
+      "title": "Mr. Osomatsu 3"
+    },
+    {
+      "type": "German",
+      "title": "Mr. Osomatsu Staffel 3"
+    },
+    {
+      "type": "Spanish",
+      "title": "Mr. Osomatsu Temporada 3"
+    },
+    {
+      "type": "French",
+      "title": "Osomatsu-san Saison 3"
+    }
+  ],
+  "title": "Osomatsu-san 3rd Season",
+  "title_english": "Mr. Osomatsu 3",
+  "title_japanese": "おそ松さん 第3期",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-10-13T00:00:00+00:00",
+    "to": "2021-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 2020
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2021
+      }
+    },
+    "string": "Oct 13, 2020 to Mar 30, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.39,
+  "scored_by": 8878,
+  "rank": 2522,
+  "popularity": 4901,
+  "members": 25244,
+  "favorites": 120,
+  "synopsis": "Third season of Osomatsu-san.",
+  "background": "",
+  "season": "fall",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1632,
+      "type": "anime",
+      "name": "Daiichi Shokai",
+      "url": "https://myanimelist.net/anime/producer/1632/Daiichi_Shokai"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": []
+}

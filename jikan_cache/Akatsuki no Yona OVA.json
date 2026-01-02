@@ -1,0 +1,150 @@
+{
+  "mal_id": 30370,
+  "url": "https://myanimelist.net/anime/30370/Akatsuki_no_Yona_OVA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/75974.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75974t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/75974.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75974t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Akatsuki no Yona OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yona: The girl standing in the blush of dawn"
+    },
+    {
+      "type": "Synonym",
+      "title": "Akatsuki no Yona: Sono Se ni wa"
+    },
+    {
+      "type": "Synonym",
+      "title": "Akatsuki no Yona: Zeno-hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "暁のヨナ"
+    },
+    {
+      "type": "English",
+      "title": "Yona of the Dawn OVA"
+    }
+  ],
+  "title": "Akatsuki no Yona OVA",
+  "title_english": "Yona of the Dawn OVA",
+  "title_japanese": "暁のヨナ",
+  "title_synonyms": [
+    "Yona: The girl standing in the blush of dawn",
+    "Akatsuki no Yona: Sono Se ni wa",
+    "Akatsuki no Yona: Zeno-hen"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 3,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-09-18T00:00:00+00:00",
+    "to": "2016-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 9,
+        "year": 2015
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Sep 18, 2015 to Dec 20, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.1,
+  "scored_by": 75069,
+  "rank": 552,
+  "popularity": 1781,
+  "members": 145032,
+  "favorites": 416,
+  "synopsis": "At a remote hot springs lodge, Yona and the team rest. The boys are taking a bath with the exception of Ki-ja, who looks troubled. Jae-ha takes this chance to tease him, unwittingly finding a mark linked to the previous White Dragon—whom coincidentally is also Ki-ja's father—prompting Ki-ja to recall their complicated relationship.\n\nIn another time and place, Son Hak and the dragons banter as they hold a drinking contest. As they start to doze off one-by-one, Zeno dreams of his past, where his abilities and experiences, both as a person and as the Yellow Dragon, are revealed.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 148,
+      "type": "anime",
+      "name": "Hakusensha",
+      "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+    },
+    {
+      "mal_id": 1225,
+      "type": "anime",
+      "name": "Age Global Networks",
+      "url": "https://myanimelist.net/anime/producer/1225/Age_Global_Networks"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

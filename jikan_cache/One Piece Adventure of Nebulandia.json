@@ -1,0 +1,151 @@
+{
+  "mal_id": 32051,
+  "url": "https://myanimelist.net/anime/32051/One_Piece__Adventure_of_Nebulandia",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/77050.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/77050t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/77050l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/77050.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/77050t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/77050l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qxMA4tvKD94?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "One Piece: Adventure of Nebulandia"
+    },
+    {
+      "type": "Synonym",
+      "title": "One Piece Special"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワンピース～アドベンチャー オブ ネブランディア～"
+    },
+    {
+      "type": "English",
+      "title": "One Piece: Adventure of Nebulandia"
+    },
+    {
+      "type": "German",
+      "title": "One Piece: Abenteuer auf Nebulandia"
+    }
+  ],
+  "title": "One Piece: Adventure of Nebulandia",
+  "title_english": "One Piece: Adventure of Nebulandia",
+  "title_japanese": "ワンピース～アドベンチャー オブ ネブランディア～",
+  "title_synonyms": [
+    "One Piece Special"
+  ],
+  "type": "TV Special",
+  "source": "Manga",
+  "episodes": 1,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-12-19T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 19,
+        "month": 12,
+        "year": 2015
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 19, 2015"
+  },
+  "duration": "1 hr 46 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.22,
+  "scored_by": 25892,
+  "rank": 3425,
+  "popularity": 3489,
+  "members": 50558,
+  "favorites": 19,
+  "synopsis": "This special will have the Straw Hats fight Foxy again in the New World on Nebulandia, an island that nullifies Devil Fruit powers.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

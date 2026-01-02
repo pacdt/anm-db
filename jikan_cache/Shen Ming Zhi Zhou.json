@@ -1,0 +1,121 @@
+{
+  "mal_id": 33760,
+  "url": "https://myanimelist.net/anime/33760/Shen_Ming_Zhi_Zhou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1252/91166.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1252/91166t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1252/91166l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1252/91166.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1252/91166t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1252/91166l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shen Ming Zhi Zhou"
+    },
+    {
+      "type": "Japanese",
+      "title": "神明之胄"
+    },
+    {
+      "type": "English",
+      "title": "The Totem Warrior"
+    }
+  ],
+  "title": "Shen Ming Zhi Zhou",
+  "title_english": "The Totem Warrior",
+  "title_japanese": "神明之胄",
+  "title_synonyms": [],
+  "type": "ONA",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-12-02T00:00:00+00:00",
+    "to": "2016-05-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 12,
+        "year": 2015
+      },
+      "to": {
+        "day": 11,
+        "month": 5,
+        "year": 2016
+      }
+    },
+    "string": "Dec 2, 2015 to May 11, 2016"
+  },
+  "duration": "16 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.21,
+  "scored_by": 225,
+  "rank": 9175,
+  "popularity": 14060,
+  "members": 1266,
+  "favorites": 3,
+  "synopsis": "The series takes place in ancient times, where people worship totems and several unique tribes exist. The highly respected Totem Warriors have utmost faith in their beliefs and protect their tribes. The protagonist, though not initially set to becomes a Totem Warrior, is eventually placed on that path. And thus, his adventure begins.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1806,
+      "type": "anime",
+      "name": "iQIYI",
+      "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1325,
+      "type": "anime",
+      "name": "Haoliners Animation",
+      "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

@@ -1,0 +1,179 @@
+{
+  "mal_id": 40351,
+  "url": "https://myanimelist.net/anime/40351/Pokemon_2019",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/105554t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/105554l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1689/105554.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1689/105554t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1689/105554l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/dHyYZtWrTD4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pokemon (2019)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pocket Monsters"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pokemon 2019"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pokémon"
+    },
+    {
+      "type": "Japanese",
+      "title": "ポケットモンスター(2019)"
+    },
+    {
+      "type": "English",
+      "title": "Pokémon Journeys: The Series"
+    },
+    {
+      "type": "Spanish",
+      "title": "Pokémon Viajes Serie"
+    }
+  ],
+  "title": "Pokemon (2019)",
+  "title_english": "Pokémon Journeys: The Series",
+  "title_japanese": "ポケットモンスター(2019)",
+  "title_synonyms": [
+    "Pocket Monsters",
+    "Pokemon 2019",
+    "Pokémon"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 136,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-11-17T00:00:00+00:00",
+    "to": "2022-12-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 11,
+        "year": 2019
+      },
+      "to": {
+        "day": 16,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Nov 17, 2019 to Dec 16, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG - Children",
+  "score": 7.54,
+  "scored_by": 43351,
+  "rank": 1894,
+  "popularity": 2328,
+  "members": 100928,
+  "favorites": 669,
+  "synopsis": "On a new day in the Kanto region, Satoshi gets invited by Professor Yukinari Ookido over to Professor Sakuragi's lab-opening ceremony in Vermillion City. During the ceremonial speech, Professor Sakuragi receives an alert of a possibly rare Pokémon appearing in Vermillion City's harbor, leading Satoshi and the other trainers to rush to the area in hopes of finding the mysterious Pokémon. At the harbor, they find Lugia—a Legendary Pokémon—engaged in combat with other trainers.\n\nNoticing the other trainers' tactics, Satoshi has his partner, Pikachu, strike Lugia with a Thunderbolt attack. Unfazed, Lugia flees, but not before Satoshi determinedly leaps onto its back. To Satoshi's surprise, he meets another boy, Gou, who leapt onto Lugia's back as well. The two ride on Lugia's back as it brings them along on a bizarre adventure across the seas. As it lets the two back on the ground, Satoshi and Gou bid their farewells to Lugia and return to Sakuragi Institute.\n\nImpressed by Gou's findings and Satoshi's insight taken during their encounter, Sakuragi requests for the duo to be his new research partners. And so the duo's journey begins, traveling across multiple regions to meet many new Pokémon—including ones that have the ability to Gigantamax!\n\n[Written by MAL Rewrite]",
+  "background": "The airing time was Sundays 18:00 between November 17, 2019 - September 27, 2020. The airing time is changed to Fridays 18:55 beginning October 9, 2020.",
+  "season": "fall",
+  "year": 2019,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 18:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 499,
+      "type": "anime",
+      "name": "The Pokemon Company International",
+      "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ]
+}

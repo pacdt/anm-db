@@ -1,0 +1,148 @@
+{
+  "mal_id": 19889,
+  "url": "https://myanimelist.net/anime/19889/Genshiken_Nidaime_Specials",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/54119.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/54119t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/54119l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/54119.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/54119t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/54119l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Genshiken Nidaime Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "Genshiken Second Season Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Society for the Study of Modern Visual Culture Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "げんしけん 二代目 映像特典"
+    }
+  ],
+  "title": "Genshiken Nidaime Specials",
+  "title_english": null,
+  "title_japanese": "げんしけん 二代目 映像特典",
+  "title_synonyms": [
+    "Genshiken Second Season Specials",
+    "The Society for the Study of Modern Visual Culture Specials"
+  ],
+  "type": "Special",
+  "source": "Manga",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-09-04T00:00:00+00:00",
+    "to": "2013-12-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 9,
+        "year": 2013
+      },
+      "to": {
+        "day": 11,
+        "month": 12,
+        "year": 2013
+      }
+    },
+    "string": "Sep 4, 2013 to Dec 11, 2013"
+  },
+  "duration": "3 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.67,
+  "scored_by": 2971,
+  "rank": 6372,
+  "popularity": 7610,
+  "members": 8460,
+  "favorites": 1,
+  "synopsis": "Special episodes included in BD.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

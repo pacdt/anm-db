@@ -1,0 +1,168 @@
+{
+  "nome": "Youjo Shachou",
+  "slug": "youjo-shachou",
+  "imagem": "https://animefire.io/img/animes/youjo-shachou.webp",
+  "episodios": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4_temp/youjo-shachou/1/720p.mp4",
+      "nome": "Contract"
+    }
+  ],
+  "metadata_completo": {
+    "mal_id": 43001,
+    "url": "https://myanimelist.net/anime/43001/Youjo_Shachou",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1844/110500.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1844/110500t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1844/110500l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/1844/110500.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/1844/110500t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1844/110500l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": "https://www.youtube-nocookie.com/embed/GTr8CCjhH0I?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Youjo Shachou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Little Girl President"
+      },
+      {
+        "type": "Japanese",
+        "title": "幼女社長"
+      },
+      {
+        "type": "English",
+        "title": "Cute Executive Officer"
+      }
+    ],
+    "title": "Youjo Shachou",
+    "title_english": "Cute Executive Officer",
+    "title_japanese": "幼女社長",
+    "title_synonyms": [
+      "Little Girl President"
+    ],
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 1, 2021"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.59,
+    "scored_by": 1981,
+    "rank": 6827,
+    "popularity": 9952,
+    "members": 4167,
+    "favorites": 11,
+    "synopsis": "Najimu Mujina is just your average five-year-old girl—who also happens to be the CEO of Mujina company. While she leaves most of the important work to her secretary Yuki Karuizawa, she often tries to act like a CEO with her inadequate business jargon. But, although her innocent efforts can be unexpectedly kind and uplifting, it just usually adds to the troubles of those around her, such as diligent employee Mayu Warito and her fellow colleagues at Mujina Company.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 306,
+        "type": "anime",
+        "name": "Magic Capsule",
+        "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+      },
+      {
+        "mal_id": 2128,
+        "type": "anime",
+        "name": "Fabtone",
+        "url": "https://myanimelist.net/anime/producer/2128/Fabtone"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 376,
+        "type": "anime",
+        "name": "Sentai Filmworks",
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 439,
+        "type": "anime",
+        "name": "Project No.9",
+        "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 48,
+        "type": "anime",
+        "name": "Workplace",
+        "url": "https://myanimelist.net/anime/genre/48/Workplace"
+      }
+    ],
+    "demographics": []
+  },
+  "nomes_episodios": {
+    "1": "Contract",
+    "2": "Complaint",
+    "3": "Overtime / Corporate Drone",
+    "4": "Bankruptcy",
+    "5": "Office Cleaning / Hometown",
+    "6": "My First Errand",
+    "7": "Interview",
+    "8": "Cholesterol / Annual Physical",
+    "9": "TV Shoot",
+    "10": "Presents",
+    "11": "Design",
+    "12": "Kidnapping Part 1 / Kidnapping Part 2",
+    "13": "Slogan / Morning Meeting (Ending)"
+  }
+}

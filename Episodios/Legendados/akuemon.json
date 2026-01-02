@@ -1,0 +1,121 @@
+{
+  "nome": "Akuemon",
+  "slug": "akuemon",
+  "imagem": "https://animefire.io/img/animes/akuemon.webp",
+  "episodios": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s3/mp4/akuemon/sd/1.mp4"
+    }
+  ],
+  "metadata_completo": {
+    "mal_id": 14231,
+    "url": "https://myanimelist.net/anime/14231/Akuemon",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/87863.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87863t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87863l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/87863.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/3/87863t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/3/87863l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Akuemon"
+      },
+      {
+        "type": "Japanese",
+        "title": "悪右衛門"
+      }
+    ],
+    "title": "Akuemon",
+    "title_english": null,
+    "title_japanese": "悪右衛門",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "1993-07-16T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 16,
+          "month": 7,
+          "year": 1993
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 16, 1993"
+    },
+    "duration": "25 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 5.98,
+    "scored_by": 1186,
+    "rank": 10486,
+    "popularity": 12347,
+    "members": 2091,
+    "favorites": 2,
+    "synopsis": "A fortuneteller tells Hidari Taisho that he must hunt down 1000 foxes in order to conquer the country. So Akuemon, who is disliked by everybody, is hired to do the foxhunting. In response, the foxes send a female fox to Akuemon's house disguised as his wife. A story unfolds between Akuemon, who has never loved anyone, and the female fox, who slowly discovers true love in him even while tormented by sorrow over her comrades' death. This is the 6th work in \"The Lion Books\" series. It is also the first attempt by visualist Tezuka Makoto, Tezuka's older son, to render an original of his father's into an animated version. \n\n(Source: AniDB)",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 200,
+        "type": "anime",
+        "name": "Tezuka Productions",
+        "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": []
+  }
+}

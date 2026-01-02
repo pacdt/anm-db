@@ -1,0 +1,177 @@
+{
+  "mal_id": 36049,
+  "url": "https://myanimelist.net/anime/36049/Dagashi_Kashi_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1649/90141.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/90141t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/90141l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1649/90141.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/90141t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/90141l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/r82RCz6T8i8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dagashi Kashi 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dagashikashi 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "だがしかし2"
+    },
+    {
+      "type": "English",
+      "title": "Dagashi Kashi 2"
+    },
+    {
+      "type": "German",
+      "title": "Dagashi Kashi Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Dagashi Kashi Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "Dagashi Kashi Saison 2"
+    }
+  ],
+  "title": "Dagashi Kashi 2",
+  "title_english": "Dagashi Kashi 2",
+  "title_japanese": "だがしかし2",
+  "title_synonyms": [
+    "Dagashikashi 2"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-12T00:00:00+00:00",
+    "to": "2018-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Jan 12, 2018 to Mar 30, 2018"
+  },
+  "duration": "12 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.82,
+  "scored_by": 77269,
+  "rank": 5479,
+  "popularity": 1486,
+  "members": 181345,
+  "favorites": 214,
+  "synopsis": "Second season of Dagashi Kashi.",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:28",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:28 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1496,
+      "type": "anime",
+      "name": "Lawson",
+      "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+    },
+    {
+      "mal_id": 1557,
+      "type": "anime",
+      "name": "Pony Canyon Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprises"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 200,
+      "type": "anime",
+      "name": "Tezuka Productions",
+      "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 47,
+      "type": "anime",
+      "name": "Gourmet",
+      "url": "https://myanimelist.net/anime/genre/47/Gourmet"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

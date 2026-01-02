@@ -1,0 +1,133 @@
+{
+  "mal_id": 4191,
+  "url": "https://myanimelist.net/anime/4191/Popolocrois_Monogatari",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/17877.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/17877t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/17877l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/17877.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/17877t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/17877l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Popolocrois Monogatari"
+    },
+    {
+      "type": "Japanese",
+      "title": "ポポロクロイス物語"
+    },
+    {
+      "type": "English",
+      "title": "Popolocrois Monogatari"
+    }
+  ],
+  "title": "Popolocrois Monogatari",
+  "title_english": "Popolocrois Monogatari",
+  "title_japanese": "ポポロクロイス物語",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 25,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-10-04T00:00:00+00:00",
+    "to": "1999-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 1998
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 1999
+      }
+    },
+    "string": "Oct 4, 1998 to Mar 28, 1999"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG - Children",
+  "score": 6.98,
+  "scored_by": 1430,
+  "rank": 4677,
+  "popularity": 9859,
+  "members": 4298,
+  "favorites": 16,
+  "synopsis": "Prince Pietro is the half-human, half-dragon prince of the kingdom of Popolocrois.  After the evil GamiGami tries (unsuccessfuly, as ever) to take over the Kingdom, a mysterious girl named Hyuu appears in the forest near Popolocrois Castle, which is the beginning of an adventure for Pietro, his witch friend Narcia, and all their friends.  Set following the events of the first Popolocrois game.",
+  "background": "",
+  "season": "fall",
+  "year": 1998,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Bee Train",
+      "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": []
+}

@@ -1,0 +1,146 @@
+{
+  "mal_id": 7066,
+  "url": "https://myanimelist.net/anime/7066/Mahoromatic__Tadaima_Okaeri",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/16503.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/16503t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/16503l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/16503.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/16503t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/16503l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mahoromatic: Tadaima Okaeri"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mahoromatic: Tadaima◇Okaeri"
+    },
+    {
+      "type": "Japanese",
+      "title": "まほろまてぃっく ただいま◇おかえり"
+    },
+    {
+      "type": "English",
+      "title": "Mahoromatic: I'm Home!"
+    }
+  ],
+  "title": "Mahoromatic: Tadaima Okaeri",
+  "title_english": "Mahoromatic: I'm Home!",
+  "title_japanese": "まほろまてぃっく ただいま◇おかえり",
+  "title_synonyms": [
+    "Mahoromatic: Tadaima◇Okaeri"
+  ],
+  "type": "TV Special",
+  "source": "Manga",
+  "episodes": 2,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-17T00:00:00+00:00",
+    "to": "2009-10-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 24,
+        "month": 10,
+        "year": 2009
+      }
+    },
+    "string": "Oct 17, 2009 to Oct 24, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.03,
+  "scored_by": 4340,
+  "rank": 4418,
+  "popularity": 6940,
+  "members": 10578,
+  "favorites": 5,
+  "synopsis": "Suguru and his classmates prepare for a maid café to celebrate the town's anniversary. Meanwhile, Minawa is attacked by robots. Mahoro tries to save Minawa and help Suguru and his classmates prepare for the maid café.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

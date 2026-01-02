@@ -1,0 +1,138 @@
+{
+  "mal_id": 1375,
+  "url": "https://myanimelist.net/anime/1375/Watashi_no_Ashinaga_Ojisan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1969/98819.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/98819t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/98819l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1969/98819.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/98819t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/98819l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Watashi no Ashinaga Ojisan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sekai Meisaku Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Daddy-Long-Legs"
+    },
+    {
+      "type": "Japanese",
+      "title": "私のあしながおじさん"
+    },
+    {
+      "type": "English",
+      "title": "My Daddy Long Legs"
+    }
+  ],
+  "title": "Watashi no Ashinaga Ojisan",
+  "title_english": "My Daddy Long Legs",
+  "title_japanese": "私のあしながおじさん",
+  "title_synonyms": [
+    "Sekai Meisaku Gekijou",
+    "Daddy-Long-Legs"
+  ],
+  "type": "TV",
+  "source": "Novel",
+  "episodes": 40,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1990-01-04T00:00:00+00:00",
+    "to": "1990-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 1990
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 1990
+      }
+    },
+    "string": "Jan 4, 1990 to Dec 23, 1990"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.7,
+  "scored_by": 7282,
+  "rank": 1354,
+  "popularity": 5453,
+  "members": 19424,
+  "favorites": 164,
+  "synopsis": "Daddy Long Legs is based on the novel of the same name by Jean Webster. It chronicles the adventures of Judy Abbott, an orphan in New York. During a meeting for the superintendent, with other important and rich people in attendance, a scholarship is offered to Judy by a mysterious benefactor. Catching only a glimpse of his tall shadow as he leaves, Judy calls him \"Daddy Long Legs\" and writes him letters every month as per his request. While studying at the Lincoln Memorial school, she makes many friends and learns about a world she never knew about before. \n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 1990,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 19:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Nippon Animation",
+      "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,153 @@
+{
+  "mal_id": 37584,
+  "url": "https://myanimelist.net/anime/37584/Bakumatsu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1764/95110.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1764/95110t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1764/95110l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1764/95110.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1764/95110t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1764/95110l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/FFUJNaJY-f8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bakumatsu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Renai Bakumatsu Kareshi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bakumatsu: Renai Bakumatsu Kareshi Gaiden"
+    },
+    {
+      "type": "Japanese",
+      "title": "BAKUMATSU"
+    }
+  ],
+  "title": "Bakumatsu",
+  "title_english": null,
+  "title_japanese": "BAKUMATSU",
+  "title_synonyms": [
+    "Renai Bakumatsu Kareshi",
+    "Bakumatsu: Renai Bakumatsu Kareshi Gaiden"
+  ],
+  "type": "TV",
+  "source": "Game",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-05T00:00:00+00:00",
+    "to": "2018-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 5, 2018 to Dec 21, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.74,
+  "scored_by": 5559,
+  "rank": 11760,
+  "popularity": 4866,
+  "members": 25644,
+  "favorites": 34,
+  "synopsis": "The Bakumatsu was an era in which the souls of young men burned with anxiety for their country's future. Takasugi Shinsaku, a soldier of fortune from Choshu, sneaks aboard a government ship with his comrade Katsura Kogorou in search of a mysterious \"timepiece\" with the power to manipulate time that he fears the government wishes to keep for themselves. Rather than allow such power to fall into the wrong hands, Takasugi plans to destroy the artifact, but having obtained it, the artifact is quickly stolen, forcing the pair to follow the mysterious thief to the seat of government in Kyoto. However, when they arrive in the capital, they discover that the government has been overthrown and the deity Susanoo now reigns in its place. The streets of the city and the people in them are much different than Takasugi and Katsura remembered. The times may have changed but their mission hasn't - Takasugi and Katsura resolve to reset time and save their nation from the nefarious forces trying to hijack it.\n\n(Source: Tokyo Otaku Mode)",
+  "background": "",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 963,
+      "type": "anime",
+      "name": "MAGES.",
+      "url": "https://myanimelist.net/anime/producer/963/MAGES"
+    },
+    {
+      "mal_id": 1590,
+      "type": "anime",
+      "name": "FuRyu",
+      "url": "https://myanimelist.net/anime/producer/1590/FuRyu"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": []
+}

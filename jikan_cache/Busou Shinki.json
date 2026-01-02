@@ -1,0 +1,128 @@
+{
+  "mal_id": 14237,
+  "url": "https://myanimelist.net/anime/14237/Busou_Shinki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/43155.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/43155t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/43155l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/43155.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/43155t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/43155l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/jXfJHBVgHZo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Busou Shinki"
+    },
+    {
+      "type": "Japanese",
+      "title": "武装神姫"
+    },
+    {
+      "type": "English",
+      "title": "Busou Shinki: Armored War Goddess"
+    }
+  ],
+  "title": "Busou Shinki",
+  "title_english": "Busou Shinki: Armored War Goddess",
+  "title_japanese": "武装神姫",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Other",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-05T00:00:00+00:00",
+    "to": "2012-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Oct 5, 2012 to Dec 21, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.3,
+  "scored_by": 14354,
+  "rank": 8595,
+  "popularity": 3960,
+  "members": 40192,
+  "favorites": 42,
+  "synopsis": "The slice-of-life battle story is set in a future that has neither World War III nor an alien invasion—just an ordinary future set after our current age. In this world, robots are part of everyday life, and they contribute in various aspects of society. \"Shinki\" are 15-centimeter-tall (about 6-inch-tall) cute partners made to assist humans. Equipped with intelligence and emotions, they devote themselves to serving their \"Masters.\"\n\nThese Shinki can even be equipped with weapons and armor to fight each other. Such Shinki are named \"Busou Shinki\" (literally, \"armed divine princesses\"). In particular, the Shinki Ann (Arnval), Aines (Altines), and Lene (Altlene) serve a high school freshman named Masato. Things change when a new Shinki, the bellicose Strarf, joins them.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:55 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 441,
+      "type": "anime",
+      "name": "8bit",
+      "url": "https://myanimelist.net/anime/producer/441/8bit"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": []
+}

@@ -1,0 +1,139 @@
+{
+  "nome": "Nayuta",
+  "slug": "nayuta",
+  "imagem": "https://animefire.io/img/animes/nayuta.webp",
+  "episodios": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4/nayuta/sd/1.mp4"
+    }
+  ],
+  "metadata_completo": {
+    "mal_id": 3480,
+    "url": "https://myanimelist.net/anime/3480/Nayuta",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/5787.jpg",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/5787t.jpg",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/5787l.jpg"
+      },
+      "webp": {
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/5787.webp",
+        "small_image_url": "https://cdn.myanimelist.net/images/anime/8/5787t.webp",
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/8/5787l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nayuta"
+      },
+      {
+        "type": "Japanese",
+        "title": "那由他"
+      },
+      {
+        "type": "English",
+        "title": "Nayuta"
+      }
+    ],
+    "title": "Nayuta",
+    "title_english": "Nayuta",
+    "title_japanese": "那由他",
+    "title_synonyms": [],
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "1986-07-31T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 31,
+          "month": 7,
+          "year": 1986
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 31, 1986"
+    },
+    "duration": "1 hr 19 min",
+    "rating": "R+ - Mild Nudity",
+    "score": 5.49,
+    "scored_by": 1078,
+    "rank": 12764,
+    "popularity": 11314,
+    "members": 2786,
+    "favorites": 3,
+    "synopsis": "Scifi tale of a young girl who acquires ESP powers. \n\nBased on the manga by Sasaki Junko, published in three volumes by Shougakukan under the Flower Comics label.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 67,
+        "type": "anime",
+        "name": "OB Planning",
+        "url": "https://myanimelist.net/anime/producer/67/OB_Planning"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2574,
+        "type": "anime",
+        "name": "Circus Production",
+        "url": "https://myanimelist.net/anime/producer/2574/Circus_Production"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 24,
+        "type": "anime",
+        "name": "Sci-Fi",
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 25,
+        "type": "anime",
+        "name": "Shoujo",
+        "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+      }
+    ]
+  }
+}

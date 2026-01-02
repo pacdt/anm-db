@@ -1,0 +1,141 @@
+{
+  "mal_id": 35015,
+  "url": "https://myanimelist.net/anime/35015/Ani_ni_Tsukeru_Kusuri_wa_Nai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1896/129202.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1896/129202t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1896/129202l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1896/129202.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1896/129202t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1896/129202l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/cmyZYYEqSyI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Please Take My Brother Away"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kuai Ba Wo Ge Dai Zou"
+    },
+    {
+      "type": "Japanese",
+      "title": "兄に付ける薬はない!"
+    }
+  ],
+  "title": "Ani ni Tsukeru Kusuri wa Nai!",
+  "title_english": null,
+  "title_japanese": "兄に付ける薬はない!",
+  "title_synonyms": [
+    "Please Take My Brother Away",
+    "Kuai Ba Wo Ge Dai Zou"
+  ],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-07T00:00:00+00:00",
+    "to": "2017-06-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 23,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Apr 7, 2017 to Jun 23, 2017"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.47,
+  "scored_by": 45186,
+  "rank": 2153,
+  "popularity": 2241,
+  "members": 106020,
+  "favorites": 402,
+  "synopsis": "Shi Miao simply cannot stand her lazy, stupid, and unreliable elder brother Shi Fen, who is one year above her at the same high school. Though the two siblings can only depend on each other, Shi Miao's violent tendencies combined with Shi Fen's knack for causing trouble cause them to fight constantly. And so, Shi Miao can only hope that someone might take her brother away—even though, when push comes to shove, Shi Fen always tries to do what he believes is best for his cute younger sister.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "21:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 21:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 866,
+      "type": "anime",
+      "name": "Fanworks",
+      "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+    },
+    {
+      "mal_id": 1690,
+      "type": "anime",
+      "name": "Imagineer",
+      "url": "https://myanimelist.net/anime/producer/1690/Imagineer"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

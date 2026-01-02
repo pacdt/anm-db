@@ -1,0 +1,157 @@
+{
+  "mal_id": 8624,
+  "url": "https://myanimelist.net/anime/8624/Digimon_Xros_Wars",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/24495.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/24495t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/24495l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/24495.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/24495t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/24495l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/YTieVZU2rx0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Digimon Xros Wars"
+    },
+    {
+      "type": "Synonym",
+      "title": "Digimon Cross Wars"
+    },
+    {
+      "type": "Japanese",
+      "title": "デジモンクロスウォーズ"
+    },
+    {
+      "type": "English",
+      "title": "Digimon Fusion"
+    },
+    {
+      "type": "Spanish",
+      "title": "Digimon 6 Fusión"
+    }
+  ],
+  "title": "Digimon Xros Wars",
+  "title_english": "Digimon Fusion",
+  "title_japanese": "デジモンクロスウォーズ",
+  "title_synonyms": [
+    "Digimon Cross Wars"
+  ],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 30,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-07-06T00:00:00+00:00",
+    "to": "2011-03-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2010
+      },
+      "to": {
+        "day": 8,
+        "month": 3,
+        "year": 2011
+      }
+    },
+    "string": "Jul 6, 2010 to Mar 8, 2011"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG - Children",
+  "score": 6.69,
+  "scored_by": 28670,
+  "rank": 6196,
+  "popularity": 3362,
+  "members": 54079,
+  "favorites": 127,
+  "synopsis": "The Digital World is in a state of war, with the evil Bagra Army attempting to collect fragments of the Code Crown. Whoever manages to collect all 108 fragments will become king of the Digital World. An evil group of Digimon, known as the Bagra Army, are determined to get their hands on the Code Crown.\n\nDigimon Xros Wars features Taiki Kudou, a soccer-loving middle schooler who will always go out of his way to help people in need. When out with his friends Akari Hinomoto and Zenjirou Tsurugi one day, he hears a voice calling out for help. Investigating the situation, he meets a Digimon named Shoutmon who has been severely wounded in a nearby alley. Using the power of a strange device called a Xros Loader, Taiki manages to save Shoutmon's life, but is pulled into the Digital World alongside Akari and Zenjirou.\n\nDetermined not to let the evil Bagra have their way, Taiki and his friends join with Shoutmon and other local Digimon to form their own army known as Xros Heart. Now Xros Heart must fight their way across the Digital World to collect Code Crown fragments and defeat the Bagra Army, but Taiki and his friends are not the only humans caught up in this war of monsters…",
+  "background": "",
+  "season": "summer",
+  "year": 2010,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:27",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 19:27 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1163,
+      "type": "anime",
+      "name": "Flatiron Film Company",
+      "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Adventure",
+      "url": "https://myanimelist.net/anime/genre/2/Adventure"
+    },
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": []
+}

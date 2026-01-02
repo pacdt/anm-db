@@ -1,0 +1,165 @@
+{
+  "mal_id": 34839,
+  "url": "https://myanimelist.net/anime/34839/Sanrio_Danshi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/89890.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/89890t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/89890l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/89890.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/89890t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/89890l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/RNzK2DtDwf0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sanrio Danshi"
+    },
+    {
+      "type": "Japanese",
+      "title": "サンリオ男子"
+    },
+    {
+      "type": "English",
+      "title": "Sanrio Boys"
+    },
+    {
+      "type": "German",
+      "title": "Sanrio Boys"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sanrio Boys"
+    },
+    {
+      "type": "French",
+      "title": "Sanrio Boys"
+    }
+  ],
+  "title": "Sanrio Danshi",
+  "title_english": "Sanrio Boys",
+  "title_japanese": "サンリオ男子",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Mixed media",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-06T00:00:00+00:00",
+    "to": "2018-03-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 24,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Jan 6, 2018 to Mar 24, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.7,
+  "scored_by": 22950,
+  "rank": 6146,
+  "popularity": 2977,
+  "members": 67032,
+  "favorites": 307,
+  "synopsis": "Kouta Hasegawa is a completely normal high school student who likes his Pompompurin stuffed animal, a Sanrio character modelled after a Golden Retriever, which his grandmother gave him when he was young. However, an incident in which other kids accused him of being girly for liking Sanrio characters made him ashamed of his attachment to Pompompurin. \n\nThrough a series of unexpected events, Kouta ends up meeting others at school who also like Sanrio characters—Yuu Mizuno, a flashy boy who is popular with girls; Shunsuke Yoshino, a member of the soccer team; Ryou Nishimiya, an underclassman who is a library assistant; and Seiichirou Minamoto, the student council president.\n\nThrough his new friends, Kouta learns that there is no need to be embarrassed for liking Sanrio characters; and together, they aim to create a play for the cultural festival in order to transform his normal school life into a sparkly one.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 150,
+      "type": "anime",
+      "name": "Sanrio",
+      "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+    },
+    {
+      "mal_id": 1129,
+      "type": "anime",
+      "name": "Pierrot Plus",
+      "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+    },
+    {
+      "mal_id": 2034,
+      "type": "anime",
+      "name": "Akatsuki",
+      "url": "https://myanimelist.net/anime/producer/2034/Akatsuki"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1201,
+      "type": "anime",
+      "name": "Ponycan USA",
+      "url": "https://myanimelist.net/anime/producer/1201/Ponycan_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

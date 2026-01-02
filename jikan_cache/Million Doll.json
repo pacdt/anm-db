@@ -1,0 +1,114 @@
+{
+  "mal_id": 29941,
+  "url": "https://myanimelist.net/anime/29941/Million_Doll",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75013.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75013t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75013l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75013.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75013t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75013l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/74ACQUvIGGA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Million Doll"
+    },
+    {
+      "type": "Japanese",
+      "title": "ミリオンドール"
+    },
+    {
+      "type": "English",
+      "title": "Million Doll"
+    }
+  ],
+  "title": "Million Doll",
+  "title_english": "Million Doll",
+  "title_japanese": "ミリオンドール",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 11,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-07T00:00:00+00:00",
+    "to": "2015-09-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 22,
+        "month": 9,
+        "year": 2015
+      }
+    },
+    "string": "Jul 7, 2015 to Sep 22, 2015"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 4.77,
+  "scored_by": 4935,
+  "rank": 14141,
+  "popularity": 6590,
+  "members": 12021,
+  "favorites": 5,
+  "synopsis": "Million Doll revolves around Suuko, an idol-loving hikikomori (shut-in) who has one ability: To make any idol popular through the power of blogging. She puts her sights on the Fukuoka idol Itorio and tries to make her sell more, but she is impeded by the charismatic idol Ryuu-san and the underground idol Mariko.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:11",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:11 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 406,
+      "type": "anime",
+      "name": "Asahi Production",
+      "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": []
+}

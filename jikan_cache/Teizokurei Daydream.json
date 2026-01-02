@@ -1,0 +1,174 @@
+{
+  "mal_id": 1500,
+  "url": "https://myanimelist.net/anime/1500/Teizokurei_Daydream",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/3784.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/3784t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/3784l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/3784.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/3784t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/3784l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Teizokurei Daydream"
+    },
+    {
+      "type": "Synonym",
+      "title": "Teizoku Rei Daydream"
+    },
+    {
+      "type": "Synonym",
+      "title": "Vulgar Ghost Daydream"
+    },
+    {
+      "type": "Japanese",
+      "title": "低俗霊DAYDREAM"
+    },
+    {
+      "type": "English",
+      "title": "Ghost Talker's Daydream"
+    },
+    {
+      "type": "French",
+      "title": "Ghost Talker's Daydream"
+    }
+  ],
+  "title": "Teizokurei Daydream",
+  "title_english": "Ghost Talker's Daydream",
+  "title_japanese": "低俗霊DAYDREAM",
+  "title_synonyms": [
+    "Teizoku Rei Daydream",
+    "Vulgar Ghost Daydream"
+  ],
+  "type": "OVA",
+  "source": "Manga",
+  "episodes": 4,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-06-25T00:00:00+00:00",
+    "to": "2004-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 6,
+        "year": 2004
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Jun 25, 2004 to Dec 23, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.09,
+  "scored_by": 5063,
+  "rank": 9907,
+  "popularity": 6193,
+  "members": 13897,
+  "favorites": 20,
+  "synopsis": "Saiki Misaki has been able to see ghosts since she was a kid. Now, working at an S&amp;M club, her spare time goes to sending the spirits off to the other world by having to make them realize they're dead and have to leave. This would supposedly be a little bit easier if you didnt have a background of hardship and loneliness... and a perverted employer.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 2135,
+      "type": "anime",
+      "name": "Imagine",
+      "url": "https://myanimelist.net/anime/producer/2135/Imagine"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 34,
+      "type": "anime",
+      "name": "HAL Film Maker",
+      "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Horror",
+      "url": "https://myanimelist.net/anime/genre/14/Horror"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}

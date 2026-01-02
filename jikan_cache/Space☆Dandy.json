@@ -1,0 +1,157 @@
+{
+  "mal_id": 20057,
+  "url": "https://myanimelist.net/anime/20057/Space☆Dandy",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/56611.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56611t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56611l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/56611.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56611t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56611l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/hdhtVKk6-do?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Space☆Dandy"
+    },
+    {
+      "type": "Japanese",
+      "title": "スペース☆ダンディ"
+    },
+    {
+      "type": "English",
+      "title": "Space Dandy"
+    },
+    {
+      "type": "German",
+      "title": "Space Dandy"
+    }
+  ],
+  "title": "Space☆Dandy",
+  "title_english": "Space Dandy",
+  "title_japanese": "スペース☆ダンディ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Original",
+  "episodes": 13,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-05T00:00:00+00:00",
+    "to": "2014-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 5, 2014 to Mar 27, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.89,
+  "scored_by": 162596,
+  "rank": 900,
+  "popularity": 687,
+  "members": 385860,
+  "favorites": 5843,
+  "synopsis": "Dandy is a groovy, pompadour-wearing man who explores the stars in search of strange aliens for money, desiring to visit his favorite place: BooBies, the best diner in all the cosmos. Traversing the galaxies in his trusty ship, the Aloha Oe, Dandy is accompanied by his two equally unique friends: QT, the vacuum cleaner robot; and Meow, an alien with a cat-like appearance. \n\nAlthough exciting, Dandy's job is never simple, and each new day promises a completely different, thrilling adventure. Together, Dandy and his crew get dragged into perilous journeys, misadventures in romance, and out of this world scenarios—all whilst steering clear of the evil scientist, Dr. Gel of the Gogol Empire.\n\n[Written by MAL Rewrite]",
+  "background": "Space☆Dandy reunites a number of lead production staff members from Cowboy Bebop, including producer Masahiko Minami and director Shinichiro Watanabe. Its production involved as many as 70 animation creators and 20 musical artists as collaborators, with Watanabe insisting that artists could only use pre-1984 musical styles. Although character designer Yoshiyuki Itou is credited as an animation director, his designs were not standardized across the series, allowing for individual animators to express their style. The series was licensed in North America by Funimation. Due to licensing issues, their initial simulcast used the instrumental track Cosmic Adventure by jazz band Mountain Mocha Kilimanjaro as the opening song. Viva Namida was used from the 8th episode onwards.",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 1233,
+      "type": "anime",
+      "name": "Bandai Namco Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": []
+}

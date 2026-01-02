@@ -1,0 +1,194 @@
+{
+  "mal_id": 11239,
+  "url": "https://myanimelist.net/anime/11239/Hidamari_Sketch_x_Honeycomb",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/50501.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/50501t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/50501l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/50501.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/50501t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/50501l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hidamari Sketch x Honeycomb"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hidamari Sketch x Hanikamu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hidamari Sketch Dai Yon Ki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hidamari Sketch Fourth Series"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hidamari Sketch 4th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "ひだまりスケッチ×ハニカム"
+    }
+  ],
+  "title": "Hidamari Sketch x Honeycomb",
+  "title_english": null,
+  "title_japanese": "ひだまりスケッチ×ハニカム",
+  "title_synonyms": [
+    "Hidamari Sketch x Hanikamu",
+    "Hidamari Sketch Dai Yon Ki",
+    "Hidamari Sketch Fourth Series",
+    "Hidamari Sketch 4th Season"
+  ],
+  "type": "TV",
+  "source": "4-koma manga",
+  "episodes": 12,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-05T00:00:00+00:00",
+    "to": "2012-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Oct 5, 2012 to Dec 21, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.93,
+  "scored_by": 11493,
+  "rank": 813,
+  "popularity": 4739,
+  "members": 27427,
+  "favorites": 183,
+  "synopsis": "Studying at the Yamabuki Arts High School has been a dream-come-true for Yuno, and she's learned so much already! And not just from her instructors, but from her friends and neighbors who've become her second family and made the Hidamari Apartments such a safe and nurturing home. But as the day of her \"big sisters\" Sae and Hiro's graduation draws slowly closer, it's time for Yuno to start seriously taking on the same role for Nazuna, Nori and the other budding young artists who've entered Hidamari's protective cocoon. And it's also time to tackle some really challenging artistic assignments. That doesn't mean there won't still be time for fun with Miyako and all the others, but it's definitely time to pencil in her plans for the future. And sometimes that means you have to put the art before the course! \n\n(Source: Sentai Filmworks)",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 797,
+      "type": "anime",
+      "name": "Houbunsha",
+      "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+    },
+    {
+      "mal_id": 1254,
+      "type": "anime",
+      "name": "Grooove",
+      "url": "https://myanimelist.net/anime/producer/1254/Grooove"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Slice of Life",
+      "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Visual Arts",
+      "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+    }
+  ],
+  "demographics": []
+}

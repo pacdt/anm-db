@@ -1,0 +1,160 @@
+{
+  "mal_id": 38098,
+  "url": "https://myanimelist.net/anime/38098/Mix__Meisei_Story",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1353/104238.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1353/104238t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1353/104238l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1353/104238.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1353/104238t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1353/104238l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mix: Meisei Story"
+    },
+    {
+      "type": "Japanese",
+      "title": "MIX MEISEI STORY"
+    },
+    {
+      "type": "English",
+      "title": "MIX"
+    }
+  ],
+  "title": "Mix: Meisei Story",
+  "title_english": "MIX",
+  "title_japanese": "MIX MEISEI STORY",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-04-06T00:00:00+00:00",
+    "to": "2019-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2019
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Apr 6, 2019 to Sep 28, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.22,
+  "scored_by": 10628,
+  "rank": 3422,
+  "popularity": 4728,
+  "members": 27516,
+  "favorites": 71,
+  "synopsis": "Because of the legend left by Tatsuya Uesugi, Meisei Academy High School was well-known for their strong baseball team. But 26 years after their glory, the team has not been able to keep their record and has since lost their fame.\n\nTwo stepbrothers, Souichirou and Touma Tachibana, aim to revive of the once-strong Meisei Academy baseball team and enter the National High School Baseball Championship.\n\nSouichirou and Touma are second years in Meisei Academy Middle School. Both boys are talented baseball players. Souichirou has shown excellent skill as a catcher and batter. Though having an extraordinary skill as a pitcher, Touma no longer pitches due to a certain reason.\n\nOnce the two enter high school, they pair as a battery and aim to enter the National High School Baseball Championship!\n\n(Source: YTV, edited)",
+  "background": "",
+  "season": "spring",
+  "year": 2019,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 8,
+      "type": "anime",
+      "name": "Drama",
+      "url": "https://myanimelist.net/anime/genre/8/Drama"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 30,
+      "type": "anime",
+      "name": "Sports",
+      "url": "https://myanimelist.net/anime/genre/30/Sports"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}
