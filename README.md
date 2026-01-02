@@ -60,10 +60,12 @@ https://cdn.jsdelivr.net/gh/pacdt/anm-db@main/api_dist/v1/animes/one-piece.json
   "slug": "one-piece",
   "type": "legendado",
   "title": "One Piece",
-  "title_original": "ONE PIECE",
+  "title_english": "One Piece",
+  "title_japanese": "ONE PIECE",
   "image": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
   "score": 8.7,
   "synopsis": "Gol D. Roger was known as the 'Pirate King'...",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/...",
   "genres": ["Action", "Adventure", "Fantasy"],
   "episodes": [
     {
