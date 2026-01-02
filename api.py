@@ -197,7 +197,7 @@ def main():
     for item in results:
         # Resumo para listas
         summary = {
-            "title": item['title'],
+            "title": item['title_english'] or item['title'],
             "slug": item['slug'],
             "image": item['image'],
             "score": item['score'],
