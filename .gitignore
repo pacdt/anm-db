@@ -1,0 +1,12 @@
+# Scripts e Bat
+*.py
+*.vbs
+*.bat
+# Json
+status.json
+# Python caches
+__pycache__/
+*.pyc
+# Ambientes virtuais
+venv/
+.venv/
