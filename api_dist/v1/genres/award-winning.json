@@ -4,6 +4,335 @@
   "count": 71,
   "animes": [
     {
+      "title": "Zombie Land Saga",
+      "slug": "zombieland-saga",
+      "image": "https://cdn.myanimelist.net/images/anime/1084/128208l.webp",
+      "score": 7.5,
+      "type": "legendado"
+    },
+    {
+      "title": "Yuri!!! On Ice",
+      "slug": "yuri-on-ice",
+      "image": "https://cdn.myanimelist.net/images/anime/6/81149l.webp",
+      "score": 7.9,
+      "type": "legendado"
+    },
+    {
+      "title": "The Eccentric Family",
+      "slug": "uchouten-kazoku",
+      "image": "https://cdn.myanimelist.net/images/anime/3/85433l.webp",
+      "score": 7.82,
+      "type": "legendado"
+    },
+    {
+      "title": "Gunbuster 2",
+      "slug": "top-wo-nerae-2-diebuster",
+      "image": "https://cdn.myanimelist.net/images/anime/7/50475l.webp",
+      "score": 7.59,
+      "type": "legendado"
+    },
+    {
+      "title": "Gunbuster",
+      "slug": "top-wo-nerae-gunbuster",
+      "image": "https://cdn.myanimelist.net/images/anime/1303/92309l.webp",
+      "score": 7.85,
+      "type": "legendado"
+    },
+    {
+      "title": "Tokyo Magnitude 8.0",
+      "slug": "tokyo-magnitude-8-0",
+      "image": "https://cdn.myanimelist.net/images/anime/1653/152734l.webp",
+      "score": 8,
+      "type": "legendado"
+    },
+    {
+      "title": "Gurren Lagann",
+      "slug": "tengen-toppa-gurren-lagann",
+      "image": "https://cdn.myanimelist.net/images/anime/4/5123l.webp",
+      "score": 8.64,
+      "type": "legendado"
+    },
+    {
+      "title": "The Melancholy of Haruhi Suzumiya",
+      "slug": "suzumiya-haruhi-no-yuuutsu",
+      "image": "https://cdn.myanimelist.net/images/anime/1470/137929l.webp",
+      "score": 7.82,
+      "type": "legendado"
+    },
+    {
+      "title": "Spy x Family",
+      "slug": "spy-x-family",
+      "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.webp",
+      "score": 8.43,
+      "type": "legendado"
+    },
+    {
+      "title": "SSSS.Gridman",
+      "slug": "ssss-gridman",
+      "image": "https://cdn.myanimelist.net/images/anime/1973/95616l.webp",
+      "score": 7.13,
+      "type": "legendado"
+    },
+    {
+      "title": "Sonny Boy",
+      "slug": "sonny-boy",
+      "image": "https://cdn.myanimelist.net/images/anime/1509/117149l.webp",
+      "score": 7.84,
+      "type": "legendado"
+    },
+    {
+      "title": "Shirobako",
+      "slug": "shirobako",
+      "image": "https://cdn.myanimelist.net/images/anime/1460/141897l.webp",
+      "score": 8.26,
+      "type": "legendado"
+    },
+    {
+      "title": "Revolutionary Girl Utena",
+      "slug": "shoujo-kakumei-utena",
+      "image": "https://cdn.myanimelist.net/images/anime/1078/95285l.webp",
+      "score": 8.23,
+      "type": "legendado"
+    },
+    {
+      "title": "Attack on Titan",
+      "slug": "shingeki-no-kyojin",
+      "image": "https://cdn.myanimelist.net/images/anime/10/47347l.webp",
+      "score": 8.57,
+      "type": "legendado"
+    },
+    {
+      "title": "Serial Experiments Lain",
+      "slug": "serial-experiments-lain",
+      "image": "https://cdn.myanimelist.net/images/anime/1718/91550l.webp",
+      "score": 8.1,
+      "type": "legendado"
+    },
+    {
+      "title": "RahXephon",
+      "slug": "rahxephon",
+      "image": "https://cdn.myanimelist.net/images/anime/13/75168l.webp",
+      "score": 7.37,
+      "type": "legendado"
+    },
+    {
+      "title": "Ping Pong the Animation",
+      "slug": "ping-pong-the-animation",
+      "image": "https://cdn.myanimelist.net/images/anime/1586/146565l.webp",
+      "score": 8.63,
+      "type": "legendado"
+    },
+    {
+      "title": "Planetes",
+      "slug": "planetes",
+      "image": "https://cdn.myanimelist.net/images/anime/1209/142900l.webp",
+      "score": 8.24,
+      "type": "legendado"
+    },
+    {
+      "title": "[Oshi No Ko]",
+      "slug": "oshi-no-ko",
+      "image": "https://cdn.myanimelist.net/images/anime/1812/134736l.webp",
+      "score": 8.55,
+      "type": "legendado"
+    },
+    {
+      "title": "Odd Taxi",
+      "slug": "odd-taxi",
+      "image": "https://cdn.myanimelist.net/images/anime/1981/113348l.webp",
+      "score": 8.63,
+      "type": "legendado"
+    },
+    {
+      "title": "Cat Soup",
+      "slug": "nekojiru-sou",
+      "image": "https://cdn.myanimelist.net/images/anime/5/84241l.webp",
+      "score": 7.32,
+      "type": "legendado"
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "slug": "neon-genesis-evangelion",
+      "image": "https://cdn.myanimelist.net/images/anime/1314/108941l.webp",
+      "score": 8.36,
+      "type": "legendado"
+    },
+    {
+      "title": "Bodacious Space Pirates",
+      "slug": "mouretsu-pirates",
+      "image": "https://cdn.myanimelist.net/images/anime/1753/134881l.webp",
+      "score": 7.13,
+      "type": "legendado"
+    },
+    {
+      "title": "Paranoia Agent",
+      "slug": "mousou-dairinin",
+      "image": "https://cdn.myanimelist.net/images/anime/7/10240l.webp",
+      "score": 7.66,
+      "type": "legendado"
+    },
+    {
+      "title": "Infinite Ryvius",
+      "slug": "mugen-no-ryvius",
+      "image": "https://cdn.myanimelist.net/images/anime/3/16734l.webp",
+      "score": 7.4,
+      "type": "legendado"
+    },
+    {
+      "title": "Mobile Suit Gundam SEED",
+      "slug": "mobile-suit-gundam-seed",
+      "image": "https://cdn.myanimelist.net/images/anime/1792/91081l.webp",
+      "score": 7.73,
+      "type": "legendado"
+    },
+    {
+      "title": "Puella Magi Madoka Magica",
+      "slug": "mahou-shoujo-madoka-magica",
+      "image": "https://cdn.myanimelist.net/images/anime/11/55225l.webp",
+      "score": 8.38,
+      "type": "legendado"
+    },
+    {
+      "title": "Lupin the Third: The Woman Called Fujiko Mine",
+      "slug": "lupin-the-third-mine-fujiko-to-iu-onna",
+      "image": "https://cdn.myanimelist.net/images/anime/1482/133813l.webp",
+      "score": 7.76,
+      "type": "legendado"
+    },
+    {
+      "title": "Macross Frontier",
+      "slug": "macross-f",
+      "image": "https://cdn.myanimelist.net/images/anime/9/15648l.webp",
+      "score": 7.88,
+      "type": "legendado"
+    },
+    {
+      "title": "Love Live! School Idol Project 2",
+      "slug": "love-live-school-idol-project-2nd-season",
+      "image": "https://cdn.myanimelist.net/images/anime/10/59101l.webp",
+      "score": 7.76,
+      "type": "legendado"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "slug": "kimetsu-no-yaiba",
+      "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "score": 8.42,
+      "type": "legendado"
+    },
+    {
+      "title": "Kemono Friends",
+      "slug": "kemono-friends",
+      "image": "https://cdn.myanimelist.net/images/anime/2/83518l.webp",
+      "score": 7.51,
+      "type": "legendado"
+    },
+    {
+      "title": "Key the Metal Idol",
+      "slug": "key-the-metal-idol",
+      "image": "https://cdn.myanimelist.net/images/anime/1793/115026l.webp",
+      "score": 6.85,
+      "type": "legendado"
+    },
+    {
+      "title": "Kamichu!",
+      "slug": "kamichu",
+      "image": "https://cdn.myanimelist.net/images/anime/3/24641l.webp",
+      "score": 7.35,
+      "type": "legendado"
+    },
+    {
+      "title": "Astra Lost in Space",
+      "slug": "kanata-no-astra",
+      "image": "https://cdn.myanimelist.net/images/anime/1784/106428l.webp",
+      "score": 8.07,
+      "type": "legendado"
+    },
+    {
+      "title": "Kaiba",
+      "slug": "kaiba",
+      "image": "https://cdn.myanimelist.net/images/anime/1959/147908l.webp",
+      "score": 8.13,
+      "type": "legendado"
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "slug": "jujutsu-kaisen-tv",
+      "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
+      "score": 8.52,
+      "type": "legendado"
+    },
+    {
+      "title": "Into the Forest of Fireflies' Light",
+      "slug": "hotarubi-no-mori-e",
+      "image": "https://cdn.myanimelist.net/images/anime/1599/112267l.webp",
+      "score": 8.26,
+      "type": "legendado"
+    },
+    {
+      "title": "Dragon Pilot: Hisone and Masotan",
+      "slug": "hisone-to-maso-tan",
+      "image": "https://cdn.myanimelist.net/images/anime/1539/91169l.webp",
+      "score": 7.29,
+      "type": "legendado"
+    },
+    {
+      "title": "Eden of The East",
+      "slug": "higashi-no-eden",
+      "image": "https://cdn.myanimelist.net/images/anime/9/15033l.webp",
+      "score": 7.73,
+      "type": "legendado"
+    },
+    {
+      "title": "Godzilla Singular Point",
+      "slug": "godzilla-s-p",
+      "image": "https://cdn.myanimelist.net/images/anime/1447/114837l.webp",
+      "score": 6.65,
+      "type": "legendado"
+    },
+    {
+      "title": "Gankutsuou: The Count of Monte Cristo",
+      "slug": "gankutsuou",
+      "image": "https://cdn.myanimelist.net/images/anime/1910/138560l.webp",
+      "score": 8.11,
+      "type": "legendado"
+    },
+    {
+      "title": "Fullmetal Alchemist",
+      "slug": "fullmetal-alchemist",
+      "image": "https://cdn.myanimelist.net/images/anime/10/75815l.webp",
+      "score": 8.11,
+      "type": "legendado"
+    },
+    {
+      "title": "Fumiko's Confession",
+      "slug": "fumiko-no-kokuhaku",
+      "image": "https://cdn.myanimelist.net/images/anime/9/20806l.webp",
+      "score": 6.61,
+      "type": "legendado"
+    },
+    {
+      "title": "The Great Passage",
+      "slug": "fune-wo-amu",
+      "image": "https://cdn.myanimelist.net/images/anime/5/81624l.webp",
+      "score": 7.61,
+      "type": "legendado"
+    },
+    {
+      "title": "Keep Your Hands Off Eizouken!",
+      "slug": "eizouken-ni-wa-te-wo-dasu-na",
+      "image": "https://cdn.myanimelist.net/images/anime/1680/110451l.webp",
+      "score": 8.13,
+      "type": "legendado"
+    },
+    {
+      "title": "Den-noh Coil",
+      "slug": "dennou-coil",
+      "image": "https://cdn.myanimelist.net/images/anime/5/12844l.webp",
+      "score": 8.02,
+      "type": "legendado"
+    },
+    {
       "title": "Cowboy Bebop",
       "slug": "cowboy-bebop",
       "image": "https://cdn.myanimelist.net/images/anime/4/19644l.webp",
@@ -18,45 +347,10 @@
       "type": "legendado"
     },
     {
-      "title": "Macross Frontier",
-      "slug": "macross-f",
-      "image": "https://cdn.myanimelist.net/images/anime/9/15648l.webp",
-      "score": 7.88,
-      "type": "legendado"
-    },
-    {
-      "title": "Attack on Titan",
-      "slug": "shingeki-no-kyojin",
-      "image": "https://cdn.myanimelist.net/images/anime/10/47347l.webp",
-      "score": 8.57,
-      "type": "legendado"
-    },
-    {
-      "title": "Tokyo Magnitude 8.0",
-      "slug": "tokyo-magnitude-8-0",
-      "image": "https://cdn.myanimelist.net/images/anime/1653/152734l.webp",
-      "score": 8,
-      "type": "legendado"
-    },
-    {
-      "title": "Puella Magi Madoka Magica",
-      "slug": "mahou-shoujo-madoka-magica",
-      "image": "https://cdn.myanimelist.net/images/anime/11/55225l.webp",
-      "score": 8.38,
-      "type": "legendado"
-    },
-    {
-      "title": "Dragon Pilot: Hisone and Masotan",
-      "slug": "hisone-to-maso-tan",
-      "image": "https://cdn.myanimelist.net/images/anime/1539/91169l.webp",
-      "score": 7.29,
-      "type": "legendado"
-    },
-    {
-      "title": "Magical☆Shopping Arcade Abenobashi",
-      "slug": "abenobashi-mahou-shoutengai",
-      "image": "https://cdn.myanimelist.net/images/anime/1350/113655l.webp",
-      "score": 7.21,
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "slug": "code-geass-hangyaku-no-lelouch",
+      "image": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp",
+      "score": 8.71,
       "type": "legendado"
     },
     {
@@ -67,276 +361,10 @@
       "type": "legendado"
     },
     {
-      "title": "Infinite Ryvius",
-      "slug": "mugen-no-ryvius",
-      "image": "https://cdn.myanimelist.net/images/anime/3/16734l.webp",
-      "score": 7.4,
-      "type": "legendado"
-    },
-    {
-      "title": "Planetes",
-      "slug": "planetes",
-      "image": "https://cdn.myanimelist.net/images/anime/1209/142900l.webp",
-      "score": 8.24,
-      "type": "legendado"
-    },
-    {
-      "title": "Code Geass: Lelouch of the Rebellion",
-      "slug": "code-geass-hangyaku-no-lelouch",
-      "image": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp",
-      "score": 8.71,
-      "type": "legendado"
-    },
-    {
-      "title": "Kamichu!",
-      "slug": "kamichu",
-      "image": "https://cdn.myanimelist.net/images/anime/3/24641l.webp",
-      "score": 7.35,
-      "type": "legendado"
-    },
-    {
-      "title": "Ping Pong the Animation",
-      "slug": "ping-pong-the-animation",
-      "image": "https://cdn.myanimelist.net/images/anime/1586/146565l.webp",
-      "score": 8.63,
-      "type": "legendado"
-    },
-    {
-      "title": "Astra Lost in Space",
-      "slug": "kanata-no-astra",
-      "image": "https://cdn.myanimelist.net/images/anime/1784/106428l.webp",
-      "score": 8.07,
-      "type": "legendado"
-    },
-    {
-      "title": "Lupin the Third: The Woman Called Fujiko Mine",
-      "slug": "lupin-the-third-mine-fujiko-to-iu-onna",
-      "image": "https://cdn.myanimelist.net/images/anime/1482/133813l.webp",
-      "score": 7.76,
-      "type": "legendado"
-    },
-    {
-      "title": "Bodacious Space Pirates",
-      "slug": "mouretsu-pirates",
-      "image": "https://cdn.myanimelist.net/images/anime/1753/134881l.webp",
-      "score": 7.13,
-      "type": "legendado"
-    },
-    {
-      "title": "Zombie Land Saga",
-      "slug": "zombieland-saga",
-      "image": "https://cdn.myanimelist.net/images/anime/1084/128208l.webp",
-      "score": 7.5,
-      "type": "legendado"
-    },
-    {
-      "title": "Neon Genesis Evangelion",
-      "slug": "neon-genesis-evangelion",
-      "image": "https://cdn.myanimelist.net/images/anime/1314/108941l.webp",
-      "score": 8.36,
-      "type": "legendado"
-    },
-    {
-      "title": "The Eccentric Family",
-      "slug": "uchouten-kazoku",
-      "image": "https://cdn.myanimelist.net/images/anime/3/85433l.webp",
-      "score": 7.82,
-      "type": "legendado"
-    },
-    {
-      "title": "Love Live! School Idol Project 2",
-      "slug": "love-live-school-idol-project-2nd-season",
-      "image": "https://cdn.myanimelist.net/images/anime/10/59101l.webp",
-      "score": 7.76,
-      "type": "legendado"
-    },
-    {
       "title": "Modest Heroes",
       "slug": "chiisana-eiyuu-kani-to-tamago-to-toumei-ningen",
       "image": "https://cdn.myanimelist.net/images/anime/1881/93496l.webp",
       "score": 6.84,
-      "type": "legendado"
-    },
-    {
-      "title": "The Great Passage",
-      "slug": "fune-wo-amu",
-      "image": "https://cdn.myanimelist.net/images/anime/5/81624l.webp",
-      "score": 7.61,
-      "type": "legendado"
-    },
-    {
-      "title": "Mobile Suit Gundam SEED",
-      "slug": "mobile-suit-gundam-seed",
-      "image": "https://cdn.myanimelist.net/images/anime/1792/91081l.webp",
-      "score": 7.73,
-      "type": "legendado"
-    },
-    {
-      "title": "Serial Experiments Lain",
-      "slug": "serial-experiments-lain",
-      "image": "https://cdn.myanimelist.net/images/anime/1718/91550l.webp",
-      "score": 8.1,
-      "type": "legendado"
-    },
-    {
-      "title": "SSSS.Gridman",
-      "slug": "ssss-gridman",
-      "image": "https://cdn.myanimelist.net/images/anime/1973/95616l.webp",
-      "score": 7.13,
-      "type": "legendado"
-    },
-    {
-      "title": "Yuri!!! On Ice",
-      "slug": "yuri-on-ice",
-      "image": "https://cdn.myanimelist.net/images/anime/6/81149l.webp",
-      "score": 7.9,
-      "type": "legendado"
-    },
-    {
-      "title": "RahXephon",
-      "slug": "rahxephon",
-      "image": "https://cdn.myanimelist.net/images/anime/13/75168l.webp",
-      "score": 7.37,
-      "type": "legendado"
-    },
-    {
-      "title": "Paranoia Agent",
-      "slug": "mousou-dairinin",
-      "image": "https://cdn.myanimelist.net/images/anime/7/10240l.webp",
-      "score": 7.66,
-      "type": "legendado"
-    },
-    {
-      "title": "Den-noh Coil",
-      "slug": "dennou-coil",
-      "image": "https://cdn.myanimelist.net/images/anime/5/12844l.webp",
-      "score": 8.02,
-      "type": "legendado"
-    },
-    {
-      "title": "Eden of The East",
-      "slug": "higashi-no-eden",
-      "image": "https://cdn.myanimelist.net/images/anime/9/15033l.webp",
-      "score": 7.73,
-      "type": "legendado"
-    },
-    {
-      "title": "Into the Forest of Fireflies' Light",
-      "slug": "hotarubi-no-mori-e",
-      "image": "https://cdn.myanimelist.net/images/anime/1599/112267l.webp",
-      "score": 8.26,
-      "type": "legendado"
-    },
-    {
-      "title": "Gankutsuou: The Count of Monte Cristo",
-      "slug": "gankutsuou",
-      "image": "https://cdn.myanimelist.net/images/anime/1910/138560l.webp",
-      "score": 8.11,
-      "type": "legendado"
-    },
-    {
-      "title": "The Melancholy of Haruhi Suzumiya",
-      "slug": "suzumiya-haruhi-no-yuuutsu",
-      "image": "https://cdn.myanimelist.net/images/anime/1470/137929l.webp",
-      "score": 7.82,
-      "type": "legendado"
-    },
-    {
-      "title": "Shirobako",
-      "slug": "shirobako",
-      "image": "https://cdn.myanimelist.net/images/anime/1460/141897l.webp",
-      "score": 8.26,
-      "type": "legendado"
-    },
-    {
-      "title": "Keep Your Hands Off Eizouken!",
-      "slug": "eizouken-ni-wa-te-wo-dasu-na",
-      "image": "https://cdn.myanimelist.net/images/anime/1680/110451l.webp",
-      "score": 8.13,
-      "type": "legendado"
-    },
-    {
-      "title": "Kaiba",
-      "slug": "kaiba",
-      "image": "https://cdn.myanimelist.net/images/anime/1959/147908l.webp",
-      "score": 8.13,
-      "type": "legendado"
-    },
-    {
-      "title": "Gurren Lagann",
-      "slug": "tengen-toppa-gurren-lagann",
-      "image": "https://cdn.myanimelist.net/images/anime/4/5123l.webp",
-      "score": 8.64,
-      "type": "legendado"
-    },
-    {
-      "title": "Revolutionary Girl Utena",
-      "slug": "shoujo-kakumei-utena",
-      "image": "https://cdn.myanimelist.net/images/anime/1078/95285l.webp",
-      "score": 8.23,
-      "type": "legendado"
-    },
-    {
-      "title": "Kemono Friends",
-      "slug": "kemono-friends",
-      "image": "https://cdn.myanimelist.net/images/anime/2/83518l.webp",
-      "score": 7.51,
-      "type": "legendado"
-    },
-    {
-      "title": "Fullmetal Alchemist",
-      "slug": "fullmetal-alchemist",
-      "image": "https://cdn.myanimelist.net/images/anime/10/75815l.webp",
-      "score": 8.11,
-      "type": "legendado"
-    },
-    {
-      "title": "Cat Soup",
-      "slug": "nekojiru-sou",
-      "image": "https://cdn.myanimelist.net/images/anime/5/84241l.webp",
-      "score": 7.32,
-      "type": "legendado"
-    },
-    {
-      "title": "Fumiko's Confession",
-      "slug": "fumiko-no-kokuhaku",
-      "image": "https://cdn.myanimelist.net/images/anime/9/20806l.webp",
-      "score": 6.61,
-      "type": "legendado"
-    },
-    {
-      "title": "Gunbuster",
-      "slug": "top-wo-nerae-gunbuster",
-      "image": "https://cdn.myanimelist.net/images/anime/1303/92309l.webp",
-      "score": 7.85,
-      "type": "legendado"
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "slug": "jujutsu-kaisen-tv",
-      "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
-      "score": 8.52,
-      "type": "legendado"
-    },
-    {
-      "title": "Godzilla Singular Point",
-      "slug": "godzilla-s-p",
-      "image": "https://cdn.myanimelist.net/images/anime/1447/114837l.webp",
-      "score": 6.65,
-      "type": "legendado"
-    },
-    {
-      "title": "Odd Taxi",
-      "slug": "odd-taxi",
-      "image": "https://cdn.myanimelist.net/images/anime/1981/113348l.webp",
-      "score": 8.63,
-      "type": "legendado"
-    },
-    {
-      "title": "Key the Metal Idol",
-      "slug": "key-the-metal-idol",
-      "image": "https://cdn.myanimelist.net/images/anime/1793/115026l.webp",
-      "score": 6.85,
       "type": "legendado"
     },
     {
@@ -347,45 +375,31 @@
       "type": "legendado"
     },
     {
-      "title": "Gunbuster 2",
-      "slug": "top-wo-nerae-2-diebuster",
-      "image": "https://cdn.myanimelist.net/images/anime/7/50475l.webp",
-      "score": 7.59,
+      "title": "Magical☆Shopping Arcade Abenobashi",
+      "slug": "abenobashi-mahou-shoutengai",
+      "image": "https://cdn.myanimelist.net/images/anime/1350/113655l.webp",
+      "score": 7.21,
       "type": "legendado"
     },
     {
       "title": "Sonny Boy",
-      "slug": "sonny-boy",
+      "slug": "sonny-boy-dublado",
       "image": "https://cdn.myanimelist.net/images/anime/1509/117149l.webp",
       "score": 7.84,
-      "type": "legendado"
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
-      "slug": "kimetsu-no-yaiba",
-      "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
-      "score": 8.42,
-      "type": "legendado"
+      "type": "dublado"
     },
     {
       "title": "Spy x Family",
-      "slug": "spy-x-family",
+      "slug": "spy-x-family-dublado",
       "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.webp",
       "score": 8.43,
-      "type": "legendado"
+      "type": "dublado"
     },
     {
-      "title": "[Oshi No Ko]",
-      "slug": "oshi-no-ko",
-      "image": "https://cdn.myanimelist.net/images/anime/1812/134736l.webp",
-      "score": 8.55,
-      "type": "legendado"
-    },
-    {
-      "title": "Neon Genesis Evangelion",
-      "slug": "neon-genesis-evangelion-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1314/108941l.webp",
-      "score": 8.36,
+      "title": "Attack on Titan",
+      "slug": "shingeki-no-kyojin-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/10/47347l.webp",
+      "score": 8.57,
       "type": "dublado"
     },
     {
@@ -396,6 +410,27 @@
       "type": "dublado"
     },
     {
+      "title": "Odd Taxi",
+      "slug": "odd-taxi-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1981/113348l.webp",
+      "score": 8.63,
+      "type": "dublado"
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "slug": "neon-genesis-evangelion-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1314/108941l.webp",
+      "score": 8.36,
+      "type": "dublado"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "slug": "kimetsu-no-yaiba-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "score": 8.42,
+      "type": "dublado"
+    },
+    {
       "title": "Dragon Pilot: Hisone and Masotan",
       "slug": "hisone-to-maso-tan-dublado",
       "image": "https://cdn.myanimelist.net/images/anime/1539/91169l.webp",
@@ -403,10 +438,24 @@
       "type": "dublado"
     },
     {
-      "title": "Modest Heroes",
-      "slug": "chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1881/93496l.webp",
-      "score": 6.84,
+      "title": "Jujutsu Kaisen",
+      "slug": "jujutsu-kaisen-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
+      "score": 8.52,
+      "type": "dublado"
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "slug": "jujutsu-kaisen-tv-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
+      "score": 8.52,
+      "type": "dublado"
+    },
+    {
+      "title": "Godzilla Singular Point",
+      "slug": "godzilla-s-p-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1447/114837l.webp",
+      "score": 6.65,
       "type": "dublado"
     },
     {
@@ -424,45 +473,10 @@
       "type": "dublado"
     },
     {
-      "title": "Blue Submarine No. 6",
-      "slug": "ao-no-6-gou-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/3/20750l.webp",
-      "score": 6.97,
-      "type": "dublado"
-    },
-    {
-      "title": "Attack on Titan",
-      "slug": "shingeki-no-kyojin-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/10/47347l.webp",
-      "score": 8.57,
-      "type": "dublado"
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "slug": "jujutsu-kaisen-tv-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
-      "score": 8.52,
-      "type": "dublado"
-    },
-    {
-      "title": "Demon Slayer: Kimetsu no Yaiba",
-      "slug": "kimetsu-no-yaiba-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
-      "score": 8.42,
-      "type": "dublado"
-    },
-    {
-      "title": "Godzilla Singular Point",
-      "slug": "godzilla-s-p-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1447/114837l.webp",
-      "score": 6.65,
-      "type": "dublado"
-    },
-    {
-      "title": "Sonny Boy",
-      "slug": "sonny-boy-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1509/117149l.webp",
-      "score": 7.84,
+      "title": "Keep Your Hands Off Eizouken!",
+      "slug": "eizouken-ni-wa-te-wo-dasu-na-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1680/110451l.webp",
+      "score": 8.13,
       "type": "dublado"
     },
     {
@@ -473,31 +487,17 @@
       "type": "dublado"
     },
     {
-      "title": "Keep Your Hands Off Eizouken!",
-      "slug": "eizouken-ni-wa-te-wo-dasu-na-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1680/110451l.webp",
-      "score": 8.13,
+      "title": "Modest Heroes",
+      "slug": "chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1881/93496l.webp",
+      "score": 6.84,
       "type": "dublado"
     },
     {
-      "title": "Spy x Family",
-      "slug": "spy-x-family-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.webp",
-      "score": 8.43,
-      "type": "dublado"
-    },
-    {
-      "title": "Jujutsu Kaisen",
-      "slug": "jujutsu-kaisen-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
-      "score": 8.52,
-      "type": "dublado"
-    },
-    {
-      "title": "Odd Taxi",
-      "slug": "odd-taxi-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1981/113348l.webp",
-      "score": 8.63,
+      "title": "Blue Submarine No. 6",
+      "slug": "ao-no-6-gou-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/3/20750l.webp",
+      "score": 6.97,
       "type": "dublado"
     }
   ]
