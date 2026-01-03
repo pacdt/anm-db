@@ -155,7 +155,13 @@ def process_api_item(args):
     destino = os.path.join(API_ANIMES_DIR, f"{local['slug']}.json")
     save_json(destino, api_obj)
     
-    return api_obj
+    # Retornar metadados para construção dos índices
+    return {
+        "summary": api_obj,
+        "genres": jikan.get('genres', []) if jikan else [],
+        "last_updated": os.path.getmtime(path), # Data de modificação do arquivo local
+        "latest_episode": lista_episodios[-1] if lista_episodios else None
+    }
 
 def main():
     print("=== GERADOR DE API (MODO OFFLINE/CACHE) ===")
@@ -193,8 +199,13 @@ def main():
     # 3. Gerar Índices Globais (All e Genres)
     all_animes = []
     genres_map = {}
+    
+    # Ordenar resultados por data de modificação (mais recente primeiro)
+    results.sort(key=lambda x: x['last_updated'], reverse=True)
 
-    for item in results:
+    for data in results:
+        item = data['summary']
+        
         # Resumo para listas
         summary = {
             "title": item['title_english'] or item['title'],
@@ -206,7 +217,8 @@ def main():
         all_animes.append(summary)
 
         # Agrupar por Gênero
-        for g_name in item['genres']:
+        for g in data['genres']:
+            g_name = g['name']
             g_slug = sanitize_filename(g_name.lower().replace(" ", "-"))
             
             if g_slug not in genres_map:
@@ -222,6 +234,40 @@ def main():
 
     # Salvar 'all.json'
     save_json(os.path.join(API_ANIMES_DIR, "all.json"), all_animes)
+
+    # --- NOVO: Salvar 'new_animes.json' (Top 20 Recentes) ---
+    print(">>> Gerando lista de novos animes...")
+    new_animes_list = []
+    for data in results[:20]:
+        item = data['summary']
+        new_animes_list.append({
+            "title": item['title_english'] or item['title'],
+            "slug": item['slug'],
+            "image": item['image'],
+            "score": item['score'],
+            "type": item['type'],
+            "updated_at": time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(data['last_updated']))
+        })
+    save_json(os.path.join(API_ANIMES_DIR, "new_animes.json"), new_animes_list)
+
+    # --- NOVO: Salvar 'latest_episodes.json' (Top 50 Episódios Recentes) ---
+    print(">>> Gerando lista de últimos episódios...")
+    latest_episodes_list = []
+    for data in results[:50]:
+        if data['latest_episode']:
+            item = data['summary']
+            ep = data['latest_episode']
+            latest_episodes_list.append({
+                "anime_title": item['title_english'] or item['title'],
+                "anime_slug": item['slug'],
+                "anime_image": item['image'],
+                "episode_number": ep['numero'],
+                "episode_title": ep.get('nome', f"Episódio {ep['numero']}"),
+                "episode_url": ep['url'],
+                "type": item['type'],
+                "created_at": time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(data['last_updated']))
+            })
+    save_json(os.path.join(API_ANIMES_DIR, "latest_episodes.json"), latest_episodes_list)
 
     # Salvar arquivos de cada gênero e criar lista master
     lista_generos_simples = []

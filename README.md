@@ -138,6 +138,60 @@ https://cdn.jsdelivr.net/gh/pacdt/anm-db@main/api_dist/v1/genres/action.json
 
 ---
 
+### 5. Novos Animes (Recém Adicionados/Atualizados)
+
+Retorna uma lista dos 20 animes que foram adicionados ou atualizados mais recentemente na base de dados.
+
+- **URL:** `/animes/new_animes.json`
+- **Exemplo:**
+```
+https://cdn.jsdelivr.net/gh/pacdt/anm-db@main/api_dist/v1/animes/new_animes.json
+```
+
+**Resposta:**
+```json
+[
+  {
+    "title": "Solo Leveling",
+    "slug": "solo-leveling",
+    "image": "...",
+    "score": 8.4,
+    "type": "legendado",
+    "updated_at": "2023-10-27 15:30:00"
+  }
+]
+```
+
+---
+
+### 6. Últimos Episódios Lançados
+
+Retorna uma lista dos episódios mais recentes detectados pelo sistema (baseado na data de atualização do anime).
+
+- **URL:** `/animes/latest_episodes.json`
+- **Exemplo:**
+```
+https://cdn.jsdelivr.net/gh/pacdt/anm-db@main/api_dist/v1/animes/latest_episodes.json
+```
+
+**Resposta:**
+```json
+[
+  {
+    "anime_title": "One Piece",
+    "anime_slug": "one-piece",
+    "anime_image": "...",
+    "episode_number": 1080,
+    "episode_title": "Episódio 1080",
+    "episode_url": "...",
+    "type": "legendado",
+    "created_at": "2023-10-27 15:30:00"
+  }
+]
+```
+
+---
+
 ## 🛠 Como Usar (Exemplo JavaScript)
 
 ```javascript
