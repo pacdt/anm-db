@@ -1,17 +1,61 @@
 {
-  "id": 33531,
-  "slug": "juushinki-pandora-dublado",
-  "type": "dublado",
+  "mal_id": 33531,
+  "url": "https://myanimelist.net/anime/33531/Juushinki_Pandora",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1897/95230.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/95230t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/95230l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1897/95230.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/95230t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/95230l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5Vy7m97LMes?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Juushinki Pandora"
+    },
+    {
+      "type": "Synonym",
+      "title": "Unit Pandora"
+    },
+    {
+      "type": "Japanese",
+      "title": "重神機パンドーラ"
+    },
+    {
+      "type": "English",
+      "title": "Last Hope"
+    },
+    {
+      "type": "Spanish",
+      "title": "Last Hope"
+    }
+  ],
   "title": "Juushinki Pandora",
   "title_english": "Last Hope",
   "title_japanese": "重神機パンドーラ",
-  "image": "https://cdn.myanimelist.net/images/anime/1897/95230l.webp",
-  "score": 6.32,
-  "synopsis": "The series is set in a near-future world where the boundary between human being and AI is vague. A rapid biological evolution, similar to \"Cambrian Explosion,\" is caused by one incident. This incident turns into the genesis of a new jostle for supremacy, and the influence of the evolution goes beyond biological framework and spreads to various kinds of materials and technologies. The era of massive evolution involving diverse existences, such as human, machines, and biotechnologies, is coming. Characters fight an existential war in such a world.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/5Vy7m97LMes?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi"
+  "title_synonyms": [
+    "Unit Pandora"
   ],
+  "type": "dublado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +187,69 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy_QfOcEJugzzv9Igu_PP7U04AZZGGYsdHZ3kHPnNEC5XKX0zfUG1jgqH7ksS51RYiVLRnLxXKq7-cIMxYho5BxAp1xVX1pAMBhIEazwSftaizGJ6g6g9AoaV5fHWNDNY5Y0Ww",
       "nome": "The Chosen Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-03-29T00:00:00+00:00",
+    "to": "2018-09-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 3,
+        "year": 2018
+      },
+      "to": {
+        "day": 20,
+        "month": 9,
+        "year": 2018
+      }
+    },
+    "string": "Mar 29, 2018 to Sep 20, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.32,
+  "scored_by": 13147,
+  "rank": 8477,
+  "popularity": 3889,
+  "members": 41745,
+  "favorites": 43,
+  "synopsis": "The series is set in a near-future world where the boundary between human being and AI is vague. A rapid biological evolution, similar to \"Cambrian Explosion,\" is caused by one incident. This incident turns into the genesis of a new jostle for supremacy, and the influence of the evolution goes beyond biological framework and spreads to various kinds of materials and technologies. The era of massive evolution involving diverse existences, such as human, machines, and biotechnologies, is coming. Characters fight an existential war in such a world.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 23:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1897/95230l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/5Vy7m97LMes?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33531,
+  "slug": "juushinki-pandora-dublado"
 }

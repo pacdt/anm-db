@@ -1,18 +1,63 @@
 {
-  "id": 42395,
-  "slug": "shakunetsu-kabaddi",
-  "type": "legendado",
+  "mal_id": 42395,
+  "url": "https://myanimelist.net/anime/42395/Shakunetsu_Kabaddi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1936/114022.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1936/114022t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1936/114022l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1936/114022.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1936/114022t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1936/114022l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CeUcyCPcDa4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shakunetsu Kabaddi"
+    },
+    {
+      "type": "Japanese",
+      "title": "灼熱カバディ"
+    },
+    {
+      "type": "English",
+      "title": "Burning Kabaddi"
+    },
+    {
+      "type": "German",
+      "title": "Burning Kabaddi"
+    },
+    {
+      "type": "Spanish",
+      "title": "Burning Kabaddi"
+    },
+    {
+      "type": "French",
+      "title": "Burning Kabaddi"
+    }
+  ],
   "title": "Shakunetsu Kabaddi",
   "title_english": "Burning Kabaddi",
   "title_japanese": "灼熱カバディ",
-  "image": "https://cdn.myanimelist.net/images/anime/1936/114022l.webp",
-  "score": 7,
-  "synopsis": "Tatsuya Yoigoshi, a once nationally recognized soccer player, is now a first-year student at Noukin High School. Due to his developed hatred for sports, he has abandoned his previous aspirations to become a famous livestreamer on the internet. One day, Souma Azemichi, a first-year on the kabaddi team, seeks to recruit Yoigoshi and spontaneously interrupts his livestream.\n\nWithout any expectations, Yoigoshi follows Souma to the school gym, where he witnesses second-years Kyouhei Misumi and Shinji Date engaged in the primal contact sport of kabaddi. Despite ridiculing the rules of play, Yoigoshi is stunned by the intensity of the round. Because of an enticing deal and slight coercion, he agrees to settle the prospect of his recruitment through the most invigorating way: a battle of kabbadi, a team sport played empty-handed.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/CeUcyCPcDa4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +119,83 @@
       "url": "https://lightspeedst.net/s2/mp4/shakunetsu-kabaddi/hd/12.mp4",
       "nome": "After Giving Every Last Drop"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-03T00:00:00+00:00",
+    "to": "2021-06-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 19,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 3, 2021 to Jun 19, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7,
+  "scored_by": 42969,
+  "rank": 4583,
+  "popularity": 2215,
+  "members": 107984,
+  "favorites": 748,
+  "synopsis": "Tatsuya Yoigoshi, a once nationally recognized soccer player, is now a first-year student at Noukin High School. Due to his developed hatred for sports, he has abandoned his previous aspirations to become a famous livestreamer on the internet. One day, Souma Azemichi, a first-year on the kabaddi team, seeks to recruit Yoigoshi and spontaneously interrupts his livestream.\n\nWithout any expectations, Yoigoshi follows Souma to the school gym, where he witnesses second-years Kyouhei Misumi and Shinji Date engaged in the primal contact sport of kabaddi. Despite ridiculing the rules of play, Yoigoshi is stunned by the intensity of the round. Because of an enticing deal and slight coercion, he agrees to settle the prospect of his recruitment through the most invigorating way: a battle of kabbadi, a team sport played empty-handed.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:23",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:23 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1936/114022l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/CeUcyCPcDa4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 42395,
+  "slug": "shakunetsu-kabaddi"
 }

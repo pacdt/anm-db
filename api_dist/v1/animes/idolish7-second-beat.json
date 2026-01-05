@@ -1,17 +1,74 @@
 {
-  "id": 37962,
-  "slug": "idolish7-second-beat",
-  "type": "legendado",
+  "mal_id": 37962,
+  "url": "https://myanimelist.net/anime/37962/IDOLiSH7_Second_Beat",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1962/106361.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1962/106361t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1962/106361l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1962/106361.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1962/106361t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1962/106361l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/GFJnHFejErk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "IDOLiSH7 Second Beat!"
+    },
+    {
+      "type": "Synonym",
+      "title": "IDOLiSH7 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Idolish Seven 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "アイドリッシュセブン Second BEAT!"
+    },
+    {
+      "type": "English",
+      "title": "IDOLiSH7 Second BEAT!"
+    },
+    {
+      "type": "German",
+      "title": "IDOLiSH7 Second Beat!"
+    },
+    {
+      "type": "Spanish",
+      "title": "IDOLiSH7 Second Beat!"
+    },
+    {
+      "type": "French",
+      "title": "IDOLiSH7 Second Beat!"
+    }
+  ],
   "title": "IDOLiSH7 Second Beat!",
   "title_english": "IDOLiSH7 Second BEAT!",
   "title_japanese": "アイドリッシュセブン Second BEAT!",
-  "image": "https://cdn.myanimelist.net/images/anime/1962/106361l.webp",
-  "score": 8.13,
-  "synopsis": "Following their performance at the Black or White event, the idol group IDOLiSH7 is at the height of its popularity, with offers for various concerts and work coming in every day, much to the joy of the seven boys and their manager. However, as their fame continues to rise, Riku Nanase's health begins worsening due to the heavy workload.\n\nWith the gigantic idol duo Re:vale showing interest in the group and the reopening event of the Zero Arena coming up, IDOLiSH7: Second Beat follows IDOLiSH7 as they not only struggle to adapt to the challenges of the idol life but also to face their personal troubles, all while continuously meeting the expectations of their treasured fans.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/GFJnHFejErk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
+  "title_synonyms": [
+    "IDOLiSH7 2",
+    "Idolish Seven 2"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -88,5 +145,94 @@
       "url": "https://lightspeedst.net/s2/mp4/idolish7-second-beat/hd/15.mp4",
       "nome": "DiSCOVER THE FUTURE"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-05T00:00:00+00:00",
+    "to": "2020-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2020
+      }
+    },
+    "string": "Apr 5, 2020 to Dec 27, 2020"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.13,
+  "scored_by": 12879,
+  "rank": 508,
+  "popularity": 4182,
+  "members": 35874,
+  "favorites": 425,
+  "synopsis": "Following their performance at the Black or White event, the idol group IDOLiSH7 is at the height of its popularity, with offers for various concerts and work coming in every day, much to the joy of the seven boys and their manager. However, as their fame continues to rise, Riku Nanase's health begins worsening due to the heavy workload.\n\nWith the gigantic idol duo Re:vale showing interest in the group and the reopening event of the Zero Arena coming up, IDOLiSH7: Second Beat follows IDOLiSH7 as they not only struggle to adapt to the challenges of the idol life but also to face their personal troubles, all while continuously meeting the expectations of their treasured fans.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 1097,
+      "type": "anime",
+      "name": "Bandai Namco Games",
+      "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1103,
+      "type": "anime",
+      "name": "TROYCA",
+      "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1962/106361l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/GFJnHFejErk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37962,
+  "slug": "idolish7-second-beat"
 }

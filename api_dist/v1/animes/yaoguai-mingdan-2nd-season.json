@@ -1,20 +1,53 @@
 {
-  "id": 36160,
-  "slug": "yaoguai-mingdan-2nd-season",
-  "type": "legendado",
+  "mal_id": 36160,
+  "url": "https://myanimelist.net/anime/36160/Yaoguai_Mingdan_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1278/108493.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/108493t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/108493l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1278/108493.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/108493t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/108493l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kCU1Pqo3W7Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yaoguai Mingdan 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Monster List Season 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "妖怪名单第2季"
+    }
+  ],
   "title": "Yaoguai Mingdan 2nd Season",
   "title_english": "Yaoguai Mingdan 2nd Season",
   "title_japanese": "妖怪名单第2季",
-  "image": "https://cdn.myanimelist.net/images/anime/1278/108493l.webp",
-  "score": 7.43,
-  "synopsis": null,
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kCU1Pqo3W7Q?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Monster List Season 2"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -100,5 +133,72 @@
       "numero": 21,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwf7-wVDM0LvV9Kcy5ofOznMRXYRk4WVgz2mDRZBbfJ_cthGoqYDhtt_7yl_gmnz5iCbFuIfQE-b_qLc2RssZwGC_n4e1bmz9WnO4aAsiMLi5O5rOxwz5C91KfLacnpz5R2cJY"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-08-03T00:00:00+00:00",
+    "to": "2017-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 8,
+        "year": 2017
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2017
+      }
+    },
+    "string": "Aug 3, 2017 to Dec 28, 2017"
+  },
+  "duration": "16 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.43,
+  "scored_by": 2470,
+  "rank": 2329,
+  "popularity": 7213,
+  "members": 9685,
+  "favorites": 21,
+  "synopsis": null,
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1325,
+      "type": "anime",
+      "name": "Haoliners Animation",
+      "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1278/108493l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kCU1Pqo3W7Q?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36160,
+  "slug": "yaoguai-mingdan-2nd-season"
 }

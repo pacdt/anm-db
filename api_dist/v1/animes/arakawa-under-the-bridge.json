@@ -1,18 +1,51 @@
 {
-  "id": 7647,
-  "slug": "arakawa-under-the-bridge",
-  "type": "legendado",
+  "mal_id": 7647,
+  "url": "https://myanimelist.net/anime/7647/Arakawa_Under_the_Bridge",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1019/98620.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1019/98620t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1019/98620l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1019/98620.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1019/98620t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1019/98620l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/sqeoy8k6sco?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Arakawa Under the Bridge"
+    },
+    {
+      "type": "Japanese",
+      "title": "荒川アンダー ザ ブリッジ"
+    },
+    {
+      "type": "English",
+      "title": "Arakawa Under the Bridge"
+    }
+  ],
   "title": "Arakawa Under the Bridge",
   "title_english": "Arakawa Under the Bridge",
   "title_japanese": "荒川アンダー ザ ブリッジ",
-  "image": "https://cdn.myanimelist.net/images/anime/1019/98620l.webp",
-  "score": 7.56,
-  "synopsis": "Kou Ichinomiya is the son of a wealthy businessman who holds a firm belief in his elite status. As such, he is determined to avoid becoming indebted to anyone; but one day, after a run-in with some mischievous kids on Arakawa Bridge, he ends up falling into the river running underneath. Luckily for him, a passerby is there to save him—but now, he owes his life to this stranger!\n \nAngered by this, Kou insists on paying her back, but this may just be the worst deal the arrogant businessman has ever made. The stranger—a stoic, tracksuit-wearing homeless girl known only as Nino—lives in a cardboard box under the bridge and wants only one thing: to fall in love. Asking Kou to be her boyfriend, he has no choice but to accept, forcing him to move out of his comfortable home and start a new life under the bridge!\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/sqeoy8k6sco?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +112,103 @@
       "url": "https://lightspeedst.net/s3/mp4/arakawa-under-the-bridge/sd/13.mp4",
       "nome": "Bridge 13"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-04-05T00:00:00+00:00",
+    "to": "2010-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2010
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2010
+      }
+    },
+    "string": "Apr 5, 2010 to Jun 28, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.56,
+  "scored_by": 159494,
+  "rank": 1794,
+  "popularity": 721,
+  "members": 370560,
+  "favorites": 2480,
+  "synopsis": "Kou Ichinomiya is the son of a wealthy businessman who holds a firm belief in his elite status. As such, he is determined to avoid becoming indebted to anyone; but one day, after a run-in with some mischievous kids on Arakawa Bridge, he ends up falling into the river running underneath. Luckily for him, a passerby is there to save him—but now, he owes his life to this stranger!\n \nAngered by this, Kou insists on paying her back, but this may just be the worst deal the arrogant businessman has ever made. The stranger—a stoic, tracksuit-wearing homeless girl known only as Nino—lives in a cardboard box under the bridge and wants only one thing: to fall in love. Asking Kou to be her boyfriend, he has no choice but to accept, forcing him to move out of his comfortable home and start a new life under the bridge!\n\n[Written by MAL Rewrite]",
+  "background": "Episode 4 of Arakawa Under the Bridge was longer than the airing block it was scheduled for, so the epilogue and opening were cut out and streamed online instead.",
+  "season": "spring",
+  "year": 2010,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1019/98620l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/sqeoy8k6sco?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 7647,
+  "slug": "arakawa-under-the-bridge"
 }

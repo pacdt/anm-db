@@ -1,21 +1,55 @@
 {
-  "id": 366,
-  "slug": "aika",
-  "type": "legendado",
+  "mal_id": 366,
+  "url": "https://myanimelist.net/anime/366/AIKa",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/61673.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/61673t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/61673l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/61673.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/61673t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/61673l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ov0jIMsj9wA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "AIKa"
+    },
+    {
+      "type": "Japanese",
+      "title": "ＡＩＫａ"
+    },
+    {
+      "type": "English",
+      "title": "Agent AIKa"
+    },
+    {
+      "type": "German",
+      "title": "Agent AIKa"
+    }
+  ],
   "title": "AIKa",
   "title_english": "Agent AIKa",
   "title_japanese": "ＡＩＫａ",
-  "image": "https://cdn.myanimelist.net/images/anime/11/61673l.webp",
-  "score": 5.96,
-  "synopsis": "A catastrophic earthquake has left Tokyo, and most of the Earth for that matter, under the sea. Aika is a salvager who retrieves various remains from the watery ruins. When Aika accepts the dangerous mission of locating and obtaining the mysterious Lagu, she discovers that she's not the only one after it.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ov0jIMsj9wA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -52,5 +86,86 @@
       "url": "https://lightspeedst.net/s3/mp4/aika/sd/7.mp4",
       "nome": "Break the Decisive Battle! Delmo Base!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1997-04-25T00:00:00+00:00",
+    "to": "1999-04-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 4,
+        "year": 1997
+      },
+      "to": {
+        "day": 25,
+        "month": 4,
+        "year": 1999
+      }
+    },
+    "string": "Apr 25, 1997 to Apr 25, 1999"
+  },
+  "duration": "27 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.96,
+  "scored_by": 15722,
+  "rank": 10579,
+  "popularity": 3935,
+  "members": 40878,
+  "favorites": 83,
+  "synopsis": "A catastrophic earthquake has left Tokyo, and most of the Earth for that matter, under the sea. Aika is a salvager who retrieves various remains from the watery ruins. When Aika accepts the dangerous mission of locating and obtaining the mysterious Lagu, she discovers that she's not the only one after it.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    },
+    {
+      "mal_id": 284,
+      "type": "anime",
+      "name": "Central Park Media",
+      "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Studio Fantasia",
+      "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/61673l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ov0jIMsj9wA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 366,
+  "slug": "aika"
 }

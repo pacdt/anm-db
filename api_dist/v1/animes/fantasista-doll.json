@@ -1,18 +1,51 @@
 {
-  "id": 15883,
-  "slug": "fantasista-doll",
-  "type": "legendado",
+  "mal_id": 15883,
+  "url": "https://myanimelist.net/anime/15883/Fantasista_Doll",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/52529.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/52529t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/52529l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/52529.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/52529t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/52529l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/nsKeRDdCj7Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fantasista Doll"
+    },
+    {
+      "type": "Japanese",
+      "title": "ファンタジスタドール"
+    },
+    {
+      "type": "English",
+      "title": "Fantasista Doll"
+    }
+  ],
   "title": "Fantasista Doll",
   "title_english": "Fantasista Doll",
   "title_japanese": "ファンタジスタドール",
-  "image": "https://cdn.myanimelist.net/images/anime/7/52529l.webp",
-  "score": 6.15,
-  "synopsis": "Uzume Uno is a young student and former champion of a trading card game competition. She is trusted with a special device containing five powerful Fantasista Dolls. These dolls are sentient virtual beings who reside in cards which are now controlled by their new master, Uzume.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/nsKeRDdCj7Y?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwfL7T4YAp3r4rdz2D-CE6DIrJUQqpzKw4ZlDpgAdKfiOP1_Rizt6o6GSJH5vS6UmQJqCxEW1bT8e7rHbBtUjGQ7rhecHEGzmnjJtty0h0HearSc3I_XAHtNIW0bWnESrv2NfI",
       "nome": "Wishes Upbeat, Everyone's Shining"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-07T00:00:00+00:00",
+    "to": "2013-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 7, 2013 to Sep 29, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.15,
+  "scored_by": 10977,
+  "rank": 9519,
+  "popularity": 4660,
+  "members": 28438,
+  "favorites": 23,
+  "synopsis": "Uzume Uno is a young student and former champion of a trading card game competition. She is trusted with a special device containing five powerful Fantasista Dolls. These dolls are sentient virtual beings who reside in cards which are now controlled by their new master, Uzume.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "03:28",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 03:28 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 827,
+      "type": "anime",
+      "name": "Amber Film Works",
+      "url": "https://myanimelist.net/anime/producer/827/Amber_Film_Works"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 346,
+      "type": "anime",
+      "name": "Hoods Entertainment",
+      "url": "https://myanimelist.net/anime/producer/346/Hoods_Entertainment"
+    }
+  ],
+  "genres": [
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/52529l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/nsKeRDdCj7Y?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 15883,
+  "slug": "fantasista-doll"
 }

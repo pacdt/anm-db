@@ -1,18 +1,47 @@
 {
-  "id": 40327,
-  "slug": "mewkledreamy",
-  "type": "legendado",
+  "mal_id": 40327,
+  "url": "https://myanimelist.net/anime/40327/Mewkledreamy",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1806/105775.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/105775t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/105775l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1806/105775.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/105775t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/105775l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/0rDjIraRLnY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mewkledreamy"
+    },
+    {
+      "type": "Japanese",
+      "title": "ミュークルドリーミー"
+    }
+  ],
   "title": "Mewkledreamy",
   "title_english": "Mewkledreamy",
   "title_japanese": "ミュークルドリーミー",
-  "image": "https://cdn.myanimelist.net/images/anime/1806/105775l.webp",
-  "score": 7.01,
-  "synopsis": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/0rDjIraRLnY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -24,5 +53,77 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzNgKE4udm3lxBOmniMhZDa9SvGvhkQpSdMs_Qj0mWwAE0bgBuwI6GywVcdMwRUcWLOC4YQvuftdH_awHS4Z-1F8IlxoYf4Ott8Yx4OYxoqbjYb79RCGzS0C82TrCLvlctY4eo",
       "nome": "Trial Club Joining with Dream Synchro"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-05T00:00:00+00:00",
+    "to": "2021-04-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 4,
+        "month": 4,
+        "year": 2021
+      }
+    },
+    "string": "Apr 5, 2020 to Apr 4, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.01,
+  "scored_by": 1944,
+  "rank": 4548,
+  "popularity": 7335,
+  "members": 9270,
+  "favorites": 29,
+  "synopsis": "The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of \"Yume Synchro\" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "10:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 10:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 150,
+      "type": "anime",
+      "name": "Sanrio",
+      "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1806/105775l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/0rDjIraRLnY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40327,
+  "slug": "mewkledreamy"
 }

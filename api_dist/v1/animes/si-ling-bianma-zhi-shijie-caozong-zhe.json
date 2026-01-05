@@ -1,20 +1,51 @@
 {
-  "id": 33508,
-  "slug": "si-ling-bianma-zhi-shijie-caozong-zhe",
-  "type": "legendado",
+  "mal_id": 33508,
+  "url": "https://myanimelist.net/anime/33508/Si_Ling_Bianma__Shijie_Caozong_Zhe",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/81331.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/81331t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/81331l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/81331.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/81331t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/81331l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Si Ling Bianma: Shijie Caozong Zhe"
+    },
+    {
+      "type": "Japanese",
+      "title": "死灵编码：世界操纵者"
+    },
+    {
+      "type": "English",
+      "title": "Order Designer"
+    }
+  ],
   "title": "Si Ling Bianma: Shijie Caozong Zhe",
   "title_english": "Order Designer",
   "title_japanese": "死灵编码：世界操纵者",
-  "image": "https://cdn.myanimelist.net/images/anime/11/81331l.webp",
-  "score": 5.23,
-  "synopsis": "“Ghost” is an online mobile game that Ye Yinyi always dreamed of completing, and to that end, has poured his blood and tears into it, even missing a date with his girlfriend. However, he learns about an alarming monster attack on a young woman near his house, a photograph of which shows the monster to bear a resemblance to the monster he designed. Why is the world of his mobile game appearing in real life?",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Horror",
-    "Mystery"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -64,5 +95,97 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzVmOgOnxsqLwWFooWoch8OwP6CvM8p_b4-kCWpM0WgLnDL-YnxBKgtDUfjvteCBKhPOJ8pKAWo-SACE40jfUFPrUOgvI_PEGgr4rH1gFCIJqqPiDUcILWyST6TyFGJl-RdzfCK"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-12-19T00:00:00+00:00",
+    "to": "2014-06-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 19,
+        "month": 12,
+        "year": 2013
+      },
+      "to": {
+        "day": 4,
+        "month": 6,
+        "year": 2014
+      }
+    },
+    "string": "Dec 19, 2013 to Jun 4, 2014"
+  },
+  "duration": "9 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.23,
+  "scored_by": 474,
+  "rank": 13502,
+  "popularity": 12038,
+  "members": 2274,
+  "favorites": 0,
+  "synopsis": "“Ghost” is an online mobile game that Ye Yinyi always dreamed of completing, and to that end, has poured his blood and tears into it, even missing a date with his girlfriend. However, he learns about an alarming monster attack on a young woman near his house, a photograph of which shows the monster to bear a resemblance to the monster he designed. Why is the world of his mobile game appearing in real life?",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1431,
+      "type": "anime",
+      "name": "Yaoqi",
+      "url": "https://myanimelist.net/anime/producer/1431/Yaoqi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1667,
+      "type": "anime",
+      "name": "Foch Film",
+      "url": "https://myanimelist.net/anime/producer/1667/Foch_Film"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/81331l.webp",
+  "trailer_url": null,
+  "id": 33508,
+  "slug": "si-ling-bianma-zhi-shijie-caozong-zhe"
 }

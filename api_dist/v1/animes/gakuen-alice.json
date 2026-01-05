@@ -1,17 +1,66 @@
 {
-  "id": 74,
-  "slug": "gakuen-alice",
-  "type": "legendado",
+  "mal_id": 74,
+  "url": "https://myanimelist.net/anime/74/Gakuen_Alice",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/18118.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/18118t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/18118l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/18118.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/18118t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/18118l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gakuen Alice"
+    },
+    {
+      "type": "Synonym",
+      "title": "Campus Alice"
+    },
+    {
+      "type": "Synonym",
+      "title": "Alice Academy"
+    },
+    {
+      "type": "Japanese",
+      "title": "学園アリス"
+    },
+    {
+      "type": "English",
+      "title": "Gakuen Alice"
+    },
+    {
+      "type": "French",
+      "title": "Alice Academy"
+    }
+  ],
   "title": "Gakuen Alice",
   "title_english": "Gakuen Alice",
   "title_japanese": "学園アリス",
-  "image": "https://cdn.myanimelist.net/images/anime/4/18118l.webp",
-  "score": 7.64,
-  "synopsis": "Mikan Sakura is a normal 10-year-old girl. Optimistic, energetic, and overall a very sweet child, Mikan is the complete opposite of the aloof, intelligent, and somewhat cold-hearted, Hotaru Imai. Despite their glaring differences, the two girls have been best friends for a very long time. So when Hotaru suddenly transfers to Alice Academy, a prestigious school in the city, her best friend is devastated—especially when she hears of the horrible rumors regarding the academy's harsh treatment of students. Beset with worry, Mikan runs away to see her best friend!\n\nUpon her arrival, Mikan learns of \"Alices,\" individuals gifted with various supernatural abilities, and that the school is an institution built by the government to train and protect them. Discovering that she has her own unique powers, Mikan enrolls in the academy, and, after a lot of trouble, finally reunites with Hotaru.\n\nGakuen Alice is a heartwarming comedy that follows Mikan and her friends' adventures in the academy, as well as their attempt to uncover the mysteries surrounding the problematic, fire-wielding student Natsume Hyuuga.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Campus Alice",
+    "Alice Academy"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +192,102 @@
       "url": "https://lightspeedst.net/s3/mp4/gakuen-alice/sd/26.mp4",
       "nome": "Friendship Is Endless"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-30T00:00:00+00:00",
+    "to": "2005-05-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 30,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 14,
+        "month": 5,
+        "year": 2005
+      }
+    },
+    "string": "Oct 30, 2004 to May 14, 2005"
+  },
+  "duration": "25 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.64,
+  "scored_by": 53755,
+  "rank": 1535,
+  "popularity": 2250,
+  "members": 105794,
+  "favorites": 1511,
+  "synopsis": "Mikan Sakura is a normal 10-year-old girl. Optimistic, energetic, and overall a very sweet child, Mikan is the complete opposite of the aloof, intelligent, and somewhat cold-hearted, Hotaru Imai. Despite their glaring differences, the two girls have been best friends for a very long time. So when Hotaru suddenly transfers to Alice Academy, a prestigious school in the city, her best friend is devastated—especially when she hears of the horrible rumors regarding the academy's harsh treatment of students. Beset with worry, Mikan runs away to see her best friend!\n\nUpon her arrival, Mikan learns of \"Alices,\" individuals gifted with various supernatural abilities, and that the school is an institution built by the government to train and protect them. Discovering that she has her own unique powers, Mikan enrolls in the academy, and, after a lot of trouble, finally reunites with Hotaru.\n\nGakuen Alice is a heartwarming comedy that follows Mikan and her friends' adventures in the academy, as well as their attempt to uncover the mysteries surrounding the problematic, fire-wielding student Natsume Hyuuga.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:06",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 08:06 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 161,
+      "type": "anime",
+      "name": "Sogo Vision",
+      "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/18118l.webp",
+  "trailer_url": null,
+  "id": 74,
+  "slug": "gakuen-alice"
 }

@@ -1,17 +1,58 @@
 {
-  "id": 5945,
-  "slug": "element-hunters",
-  "type": "legendado",
+  "mal_id": 5945,
+  "url": "https://myanimelist.net/anime/5945/Element_Hunters",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1059/133878.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1059/133878t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1059/133878l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1059/133878.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1059/133878t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1059/133878l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/SQ0rDWpoT10?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Element Hunters"
+    },
+    {
+      "type": "Synonym",
+      "title": "Elementhunters"
+    },
+    {
+      "type": "Synonym",
+      "title": "Element Hunter"
+    },
+    {
+      "type": "Japanese",
+      "title": "エレメントハンター"
+    }
+  ],
   "title": "Element Hunters",
   "title_english": "Element Hunters",
   "title_japanese": "エレメントハンター",
-  "image": "https://cdn.myanimelist.net/images/anime/1059/133878l.webp",
-  "score": 6.59,
-  "synopsis": "In 2029, a large scale ground sinkage occurred in the Mediterranean Sea. Chemical elements such as oxygen, carbon, gold, molybdenum, and cobalt disappeared from the earth's crust suddenly. The human population was decreased by 90% in sixty years. Researchers found out that the disappeared elements were drained into a planet \"Nega Earth\", located in another dimension. To save the Earth, a special team called the \"Element Hunters\" is organized. All of the members are under 13 years old, because young and flexible brains are needed to access \"Nega Earth\".",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/SQ0rDWpoT10?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi"
+  "title_synonyms": [
+    "Elementhunters",
+    "Element Hunter"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +119,75 @@
       "url": "https://lightspeedst.net/s3/mp4/element-hunters/sd/13.mp4",
       "nome": "The Destructive Singularity"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-07-04T00:00:00+00:00",
+    "to": "2010-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2009
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2010
+      }
+    },
+    "string": "Jul 4, 2009 to Mar 27, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.59,
+  "scored_by": 4111,
+  "rank": 6843,
+  "popularity": 6150,
+  "members": 14187,
+  "favorites": 21,
+  "synopsis": "In 2029, a large scale ground sinkage occurred in the Mediterranean Sea. Chemical elements such as oxygen, carbon, gold, molybdenum, and cobalt disappeared from the earth's crust suddenly. The human population was decreased by 90% in sixty years. Researchers found out that the disappeared elements were drained into a planet \"Nega Earth\", located in another dimension. To save the Earth, a special team called the \"Element Hunters\" is organized. All of the members are under 13 years old, because young and flexible brains are needed to access \"Nega Earth\".",
+  "background": "",
+  "season": "summer",
+  "year": 2009,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 367,
+      "type": "anime",
+      "name": "Heewon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/367/Heewon_Entertainment"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1059/133878l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/SQ0rDWpoT10?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 5945,
+  "slug": "element-hunters"
 }

@@ -1,19 +1,62 @@
 {
-  "id": 49110,
-  "slug": "yami-shibai-9",
-  "type": "legendado",
+  "mal_id": 49110,
+  "url": "https://myanimelist.net/anime/49110/Yami_Shibai_9",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/115566.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/115566t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/115566l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/115566.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/115566t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/115566l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai 9"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories Ninth Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories 9"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居 九期"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai 9"
+    }
+  ],
   "title": "Yami Shibai 9",
   "title_english": "Theatre of Darkness: Yamishibai 9",
   "title_japanese": "闇芝居 九期",
-  "image": "https://cdn.myanimelist.net/images/anime/1880/115566l.webp",
-  "score": 5.92,
-  "synopsis": "Ninth season of Yami Shibai.",
-  "trailer_url": null,
-  "genres": [
-    "Avant Garde",
-    "Horror",
-    "Supernatural"
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories Ninth Season",
+    "Yamishibai: Japanese Ghost Stories 9"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +123,77 @@
       "url": "https://lightspeedst.net/s1/mp4/yami-shibai-9/hd/13.mp4",
       "nome": "Year of the Cat"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-07-12T00:00:00+00:00",
+    "to": "2021-10-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 7,
+        "year": 2021
+      },
+      "to": {
+        "day": 4,
+        "month": 10,
+        "year": 2021
+      }
+    },
+    "string": "Jul 12, 2021 to Oct 4, 2021"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.92,
+  "scored_by": 5554,
+  "rank": 10841,
+  "popularity": 6174,
+  "members": 14074,
+  "favorites": 40,
+  "synopsis": "Ninth season of Yami Shibai.",
+  "background": "",
+  "season": "summer",
+  "year": 2021,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "03:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 03:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2056,
+      "type": "anime",
+      "name": "DRAWIZ",
+      "url": "https://myanimelist.net/anime/producer/2056/DRAWIZ"
+    },
+    {
+      "mal_id": 2438,
+      "type": "anime",
+      "name": "yell",
+      "url": "https://myanimelist.net/anime/producer/2438/yell"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    "Avant Garde",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1880/115566l.webp",
+  "trailer_url": null,
+  "id": 49110,
+  "slug": "yami-shibai-9"
 }

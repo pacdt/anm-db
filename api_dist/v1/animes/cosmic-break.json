@@ -1,17 +1,47 @@
 {
-  "id": 17295,
-  "slug": "cosmic-break",
-  "type": "legendado",
+  "mal_id": 17295,
+  "url": "https://myanimelist.net/anime/17295/Cosmic_Break",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/46191.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/46191t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/46191l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/46191.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/46191t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/46191l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cosmic Break"
+    },
+    {
+      "type": "Japanese",
+      "title": "コズミックブレイク"
+    }
+  ],
   "title": "Cosmic Break",
   "title_english": "Cosmic Break",
   "title_japanese": "コズミックブレイク",
-  "image": "https://cdn.myanimelist.net/images/anime/12/46191l.webp",
-  "score": 5.7,
-  "synopsis": "The game is set in the distant future in a parallel dimension called the Cosmic Ark. There is a race of long-dormant, gigantic robots called Arks, which have suddenly awakened to find their galaxy being ruled by the evil Chaos. Since they lay dormant for aeons, the three remaining great Arks of Wisdom, Courage and Strength have been drained of their energy, and now there is only enough energy remaining for one of them to be revived with the power to vanquish the evil Chaos. In order to accomplish this, three different Unions of followers of each of the great Arks have formed, each competing for the revival of their respective Ark and thereby, for the defeat of the Chaos and the fate of the world.\n\nBesides this overarching story, there are several backstories of characters of the game. There is, for example, the background of Crimrose and Ivis, the story of Eihwaz, or the meeting between Eris and Resha among others.\n\n(Source: Wikipedia)",
-  "trailer_url": null,
-  "genres": [
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -25,5 +55,75 @@
       "numero": 3,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyV-t9RTGE42PcUwYb3FzOanxr5POg_8EQHnGCzodeMQNNlzty0DzQ1UgdGU9rs6k5eirfSoKVt-TanznHXkh-hgDJT5CZcHVQDh3WXY82-zXT0V1xswNX6_I_uKjjyk-3YRA8"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-09-09T00:00:00+00:00",
+    "to": "2012-02-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 9,
+        "year": 2010
+      },
+      "to": {
+        "day": 8,
+        "month": 2,
+        "year": 2012
+      }
+    },
+    "string": "Sep 9, 2010 to Feb 8, 2012"
+  },
+  "duration": "7 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.7,
+  "scored_by": 268,
+  "rank": 11918,
+  "popularity": 15395,
+  "members": 895,
+  "favorites": 1,
+  "synopsis": "The game is set in the distant future in a parallel dimension called the Cosmic Ark. There is a race of long-dormant, gigantic robots called Arks, which have suddenly awakened to find their galaxy being ruled by the evil Chaos. Since they lay dormant for aeons, the three remaining great Arks of Wisdom, Courage and Strength have been drained of their energy, and now there is only enough energy remaining for one of them to be revived with the power to vanquish the evil Chaos. In order to accomplish this, three different Unions of followers of each of the great Arks have formed, each competing for the revival of their respective Ark and thereby, for the defeat of the Chaos and the fate of the world.\n\nBesides this overarching story, there are several backstories of characters of the game. There is, for example, the background of Crimrose and Ivis, the story of Eihwaz, or the meeting between Eris and Resha among others.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 923,
+      "type": "anime",
+      "name": "CyberStep",
+      "url": "https://myanimelist.net/anime/producer/923/CyberStep"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/46191l.webp",
+  "trailer_url": null,
+  "id": 17295,
+  "slug": "cosmic-break"
 }

@@ -1,18 +1,51 @@
 {
-  "id": 33731,
-  "slug": "gabriel-dropout",
-  "type": "legendado",
+  "mal_id": 33731,
+  "url": "https://myanimelist.net/anime/33731/Gabriel_DropOut",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/82590.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/82590t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/82590l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/82590.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/82590t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/82590l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/4eADGP3b9j0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gabriel DropOut"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガヴリールドロップアウト"
+    },
+    {
+      "type": "English",
+      "title": "Gabriel DropOut"
+    }
+  ],
   "title": "Gabriel DropOut",
   "title_english": "Gabriel DropOut",
   "title_japanese": "ガヴリールドロップアウト",
-  "image": "https://cdn.myanimelist.net/images/anime/9/82590l.webp",
-  "score": 7.43,
-  "synopsis": "For centuries, Heaven has required its young angels to live and study among humans in order to become full-fledged angels. This is no different for top-of-her-class Gabriel White Tenma, who believes it is her mission to be a great angel who will bring happiness to mankind. However, Gabriel grows addicted to video games on Earth and eventually becomes a hikikomori. Proclaiming herself a \"Fallen Angel,\" she is apathetic to everything else—much to the annoyance of Vignette April Tsukinose, a demon whom Gabriel befriended in her angelic early days on Earth.\n\nVignette's attempts to revert Gabriel back to her previous self are in vain, as Gabriel shoots down any attempt to change her precious lifestyle. As they spend their time on Earth, they meet two eccentric personalities: the angel Raphiel Ainsworth Shiraha, Gabriel's classmate with a penchant for sadism, and the demon Satanichia McDowell Kurumizawa, a clumsy self-proclaimed future ruler of the Underworld.\n\nGabriel DropOut follows these four friends' comedic lives as they utterly fail to understand what it truly means to be a demon or an angel.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/4eADGP3b9j0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,120 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dykKmCBUlkecA6PeqMkGk6PX7175TM1j2v_nXM2IlbA6AXdm-tjWubyOQyVQBA41XP8CXI_Ord26XnjMdbe3CE3y6R_Pc74HCFvw86y-ZAFb_7UccN0KQx06UhfbqBHDhmM6hw",
       "nome": "Gabriel DropOut!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-09T00:00:00+00:00",
+    "to": "2017-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 9, 2017 to Mar 27, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.43,
+  "scored_by": 246741,
+  "rank": 2332,
+  "popularity": 530,
+  "members": 479678,
+  "favorites": 3155,
+  "synopsis": "For centuries, Heaven has required its young angels to live and study among humans in order to become full-fledged angels. This is no different for top-of-her-class Gabriel White Tenma, who believes it is her mission to be a great angel who will bring happiness to mankind. However, Gabriel grows addicted to video games on Earth and eventually becomes a hikikomori. Proclaiming herself a \"Fallen Angel,\" she is apathetic to everything else—much to the annoyance of Vignette April Tsukinose, a demon whom Gabriel befriended in her angelic early days on Earth.\n\nVignette's attempts to revert Gabriel back to her previous self are in vain, as Gabriel shoots down any attempt to change her precious lifestyle. As they spend their time on Earth, they meet two eccentric personalities: the angel Raphiel Ainsworth Shiraha, Gabriel's classmate with a penchant for sadism, and the demon Satanichia McDowell Kurumizawa, a clumsy self-proclaimed future ruler of the Underworld.\n\nGabriel DropOut follows these four friends' comedic lives as they utterly fail to understand what it truly means to be a demon or an angel.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1614,
+      "type": "anime",
+      "name": "NTT Plala",
+      "url": "https://myanimelist.net/anime/producer/1614/NTT_Plala"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/9/82590l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/4eADGP3b9j0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33731,
+  "slug": "gabriel-dropout"
 }

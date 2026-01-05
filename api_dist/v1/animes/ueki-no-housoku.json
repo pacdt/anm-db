@@ -1,19 +1,59 @@
 {
-  "id": 479,
-  "slug": "ueki-no-housoku",
-  "type": "legendado",
+  "mal_id": 479,
+  "url": "https://myanimelist.net/anime/479/Ueki_no_Housoku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/20596.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/20596t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/20596l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/20596.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/20596t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/20596l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7dVBXGt9KDQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ueki no Housoku"
+    },
+    {
+      "type": "Japanese",
+      "title": "うえきの法則"
+    },
+    {
+      "type": "English",
+      "title": "The Law of Ueki"
+    },
+    {
+      "type": "German",
+      "title": "The Law of Ueki"
+    },
+    {
+      "type": "French",
+      "title": "The Law of Ueki"
+    }
+  ],
   "title": "Ueki no Housoku",
   "title_english": "The Law of Ueki",
   "title_japanese": "うえきの法則",
-  "image": "https://cdn.myanimelist.net/images/anime/8/20596l.webp",
-  "score": 7.71,
-  "synopsis": "Unbeknownst to most humans, a bizarre tournament is held to decide the next ruler of the Heavenly World. In this tournament, 100 Heavenly Beings known as the \"God Candidates\" are required to search among the middle school students on Earth, and transfer their powers to a student of their choice. The chosen ones will then battle each other, representing their God Candidates. The victor of this tournament will be awarded the \"Blank Talent\"—allowing them to choose any one unique ability they so desire—while the God Candidate they represent will obtain the position of \"God\" and become the king of the Heavenly World.  \n\nParticipating in this grand tournament is Kousuke Ueki, a middle school student who is given the power to turn trash into trees by his homeroom teacher, Kobayashi. Despite the concerns of his classmate, Ai Mori, Ueki embarks on a journey to pursue his own sense of justice after witnessing the people around him misusing their powers for selfish purposes. But as he encounters talented power users such as Seiichirou Sano, Rinko Jerrard, Robert Haydn, and Hideyoshi Soya, he realizes that achieving his goal might be harder than it seems.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/7dVBXGt9KDQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -270,5 +310,110 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxNjlKzB51ahn1kT3BndN3DWtkVUJk-oj50zyNNclJb0ih5UcghtftK3mDuUwQO2MB3fB4B7tH48glR7jagjdCvPc1NyU_DlrcBhjnVcIfTSe34CR9HhajajNK52lIMHy1USZ2f",
       "nome": "The Law of Blank Zai"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-04-04T00:00:00+00:00",
+    "to": "2006-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2005
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Apr 4, 2005 to Mar 27, 2006"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.71,
+  "scored_by": 50728,
+  "rank": 1342,
+  "popularity": 2004,
+  "members": 124797,
+  "favorites": 930,
+  "synopsis": "Unbeknownst to most humans, a bizarre tournament is held to decide the next ruler of the Heavenly World. In this tournament, 100 Heavenly Beings known as the \"God Candidates\" are required to search among the middle school students on Earth, and transfer their powers to a student of their choice. The chosen ones will then battle each other, representing their God Candidates. The victor of this tournament will be awarded the \"Blank Talent\"—allowing them to choose any one unique ability they so desire—while the God Candidate they represent will obtain the position of \"God\" and become the king of the Heavenly World.  \n\nParticipating in this grand tournament is Kousuke Ueki, a middle school student who is given the power to turn trash into trees by his homeroom teacher, Kobayashi. Despite the concerns of his classmate, Ai Mori, Ueki embarks on a journey to pursue his own sense of justice after witnessing the people around him misusing their powers for selfish purposes. But as he encounters talented power users such as Seiichirou Sano, Rinko Jerrard, Robert Haydn, and Hideyoshi Soya, he realizes that achieving his goal might be harder than it seems.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2005,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 210,
+      "type": "anime",
+      "name": "Studio Tulip",
+      "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 3165,
+      "type": "anime",
+      "name": "Avex Mode",
+      "url": "https://myanimelist.net/anime/producer/3165/Avex_Mode"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/20596l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/7dVBXGt9KDQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 479,
+  "slug": "ueki-no-housoku"
 }

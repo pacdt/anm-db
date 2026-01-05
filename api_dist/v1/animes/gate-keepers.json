@@ -1,19 +1,53 @@
 {
-  "id": 127,
-  "slug": "gate-keepers",
-  "type": "legendado",
+  "mal_id": 127,
+  "url": "https://myanimelist.net/anime/127/Gate_Keepers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/15226.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/15226t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/15226l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/15226.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/15226t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/15226l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gate Keepers"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gatekeepers"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゲートキーパーズ"
+    }
+  ],
   "title": "Gate Keepers",
   "title_english": "Gate Keepers",
   "title_japanese": "ゲートキーパーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/12/15226l.webp",
-  "score": 6.9,
-  "synopsis": "Technology, science, and industry—this is 1969 Tokyo, and there is no better time to be alive! But a shadow looms quietly around every corner: \"Invaders\" have infiltrated the populace, and nobody knows who or what they are.\n\nOnly the members of the top-secret agency AEGIS know of their existence. Covertly fighting the enemy is their job, but only those with the ability to open \"Gates\" to another world can truly defeat them. Within AEGIS is a specialized task force known as the \"Gate Keepers.\" Composed of extraordinary individuals with a variety of Gate-related abilities, they are the only ones who can save humanity from the vicious Invaders plaguing the planet.\n\nShun Ukiya is an average high school student who lives with his widowed mother and little sister. While on his way home from school one day, he comes across a group of Invaders heading toward his house. In a desperate plight to save his family, Shun discovers he possesses the ability to open a Gate, allowing him to harness massive amounts of energy. With his newfound ability exposed, he catches the attention of AEGIS, and particularly the interest of one of its Gate Keepers, Shun's childhood friend Ruriko Ikusawa.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Gatekeepers"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +169,103 @@
       "url": "https://lightspeedst.net/s3/mp4/gate-keepers/sd/24.mp4",
       "nome": "For the Smiles of Tomorrow"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-04-03T00:00:00+00:00",
+    "to": "2000-09-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2000
+      },
+      "to": {
+        "day": 18,
+        "month": 9,
+        "year": 2000
+      }
+    },
+    "string": "Apr 3, 2000 to Sep 18, 2000"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.9,
+  "scored_by": 9982,
+  "rank": 5022,
+  "popularity": 4994,
+  "members": 24010,
+  "favorites": 62,
+  "synopsis": "Technology, science, and industry—this is 1969 Tokyo, and there is no better time to be alive! But a shadow looms quietly around every corner: \"Invaders\" have infiltrated the populace, and nobody knows who or what they are.\n\nOnly the members of the top-secret agency AEGIS know of their existence. Covertly fighting the enemy is their job, but only those with the ability to open \"Gates\" to another world can truly defeat them. Within AEGIS is a specialized task force known as the \"Gate Keepers.\" Composed of extraordinary individuals with a variety of Gate-related abilities, they are the only ones who can save humanity from the vicious Invaders plaguing the planet.\n\nShun Ukiya is an average high school student who lives with his widowed mother and little sister. While on his way home from school one day, he comes across a group of Invaders heading toward his house. In a desperate plight to save his family, Shun discovers he possesses the ability to open a Gate, allowing him to harness massive amounts of energy. With his newfound ability exposed, he catches the attention of AEGIS, and particularly the interest of one of its Gate Keepers, Shun's childhood friend Ruriko Ikusawa.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2000,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/15226l.webp",
+  "trailer_url": null,
+  "id": 127,
+  "slug": "gate-keepers"
 }

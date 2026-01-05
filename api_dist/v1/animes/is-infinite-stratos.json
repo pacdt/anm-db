@@ -1,21 +1,57 @@
 {
-  "id": 9041,
-  "slug": "is-infinite-stratos",
-  "type": "legendado",
+  "mal_id": 9041,
+  "url": "https://myanimelist.net/anime/9041/IS__Infinite_Stratos",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/74045.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/74045t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/74045l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/74045.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/74045t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/74045l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3VpielCeK7Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "IS: Infinite Stratos"
+    },
+    {
+      "type": "Synonym",
+      "title": "IS"
+    },
+    {
+      "type": "Japanese",
+      "title": "IS 〈インフィニット・ストラトス〉"
+    },
+    {
+      "type": "English",
+      "title": "Infinite Stratos"
+    }
+  ],
   "title": "IS: Infinite Stratos",
   "title_english": "Infinite Stratos",
   "title_japanese": "IS 〈インフィニット・ストラトス〉",
-  "image": "https://cdn.myanimelist.net/images/anime/3/74045l.webp",
-  "score": 6.6,
-  "synopsis": "An exoskeleton weapon engineered by Japan, Infinite Stratos (IS) can be piloted only by women. Its power and combat prowess are so immense that an international treaty has been signed banning its use as a military asset. \n\nWhen it is discovered that 15-year-old Ichika Orimura is the only male capable of steering an IS, he is forcibly enrolled in the Infinite Stratos Academy: an all-female boarding school, the students of which graduate to become IS pilots. At this training school, Ichika is reunited with two of his childhood friends, Houki Shinonono and Lingyin Huang, and befriends Cecilia Alcott, an IS representative from the United Kingdom.\n\nGuided by the legendary pilot Chifuyu Orimura—their strict homeroom teacher and Ichika's older sister—Ichika and the girls will need to use everything at their disposal to defend themselves and their academy against the dangers that will arise during the course of their thrilling school life.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3VpielCeK7Y?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Romance",
-    "Sci-Fi",
-    "Ecchi"
+  "title_synonyms": [
+    "IS"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -77,5 +113,117 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dymJuTxkQloPoJGsuUNtVFxqWjq2NiK0cjXK7eUjlMiIl1Rt-ipDuZzHJrkMg_4OMbfHlMnKl7aoRh0Fg7mBclEFm-3A0IeL8P9kMjpLqXj8hoDHpCjqunYnmYJaX1wKYEvxzE",
       "nome": "Your Name Is"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-01-07T00:00:00+00:00",
+    "to": "2011-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2011
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      }
+    },
+    "string": "Jan 7, 2011 to Apr 1, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.6,
+  "scored_by": 375021,
+  "rank": 6778,
+  "popularity": 355,
+  "members": 670060,
+  "favorites": 2339,
+  "synopsis": "An exoskeleton weapon engineered by Japan, Infinite Stratos (IS) can be piloted only by women. Its power and combat prowess are so immense that an international treaty has been signed banning its use as a military asset. \n\nWhen it is discovered that 15-year-old Ichika Orimura is the only male capable of steering an IS, he is forcibly enrolled in the Infinite Stratos Academy: an all-female boarding school, the students of which graduate to become IS pilots. At this training school, Ichika is reunited with two of his childhood friends, Houki Shinonono and Lingyin Huang, and befriends Cecilia Alcott, an IS representative from the United Kingdom.\n\nGuided by the legendary pilot Chifuyu Orimura—their strict homeroom teacher and Ichika's older sister—Ichika and the girls will need to use everything at their disposal to defend themselves and their academy against the dangers that will arise during the course of their thrilling school life.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+      "mal_id": 765,
+      "type": "anime",
+      "name": "Sakura Create",
+      "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 441,
+      "type": "anime",
+      "name": "8bit",
+      "url": "https://myanimelist.net/anime/producer/441/8bit"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Romance",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/74045l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3VpielCeK7Y?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 9041,
+  "slug": "is-infinite-stratos"
 }

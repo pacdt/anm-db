@@ -1,18 +1,47 @@
 {
-  "id": 39620,
-  "slug": "hakata-mentai-pirikarako-chan",
-  "type": "legendado",
+  "mal_id": 39620,
+  "url": "https://myanimelist.net/anime/39620/Hakata_Mentai_Pirikarako-chan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1562/113861.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1562/113861t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1562/113861l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1562/113861.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1562/113861t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1562/113861l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qYfXbWxQho0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "type": "Japanese",
+      "title": "博多明太！ぴりからこちゃん"
+    }
+  ],
   "title": "Hakata Mentai! Pirikarako-chan",
   "title_english": "Hakata Mentai! Pirikarako-chan",
   "title_japanese": "博多明太！ぴりからこちゃん",
-  "image": "https://cdn.myanimelist.net/images/anime/1562/113861l.webp",
-  "score": 5.13,
-  "synopsis": "A daily eating life happening at a street that seems like Hakata but not Hakata!?  Fairy of Mentaiko \"Pirikarako-chan\" goes around the street to solve (?)!",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/qYfXbWxQho0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Gourmet"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +103,63 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzCtpcqsSziNiByjGg82YRZSK7GbTvLYW9D_zXY5DOwIGZOZ_Axjgrr-2yUDHfswhw6uQ2bMA9JDy5iAluXEJctnNOJ6jE84xurMUMR_eVy0RqWjbhIMOU5Gzq1Ieghu0CrBbUH",
       "nome": "It's a Festival! Everyone Assemble"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-07T00:00:00+00:00",
+    "to": "2019-09-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 22,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Jul 7, 2019 to Sep 22, 2019"
+  },
+  "duration": "4 min per ep",
+  "rating": "G - All Ages",
+  "score": 5.13,
+  "scored_by": 1515,
+  "rank": 13693,
+  "popularity": 10384,
+  "members": 3633,
+  "favorites": 2,
+  "synopsis": "A daily eating life happening at a street that seems like Hakata but not Hakata!?  Fairy of Mentaiko \"Pirikarako-chan\" goes around the street to solve (?)!",
+  "background": "Summary screening via between April 18 and April 21. Regular broadcast via KBC Kyushu Asahi Broadcasting on Summer 2019.",
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "06:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 06:15 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1837,
+      "type": "anime",
+      "name": "G-angle",
+      "url": "https://myanimelist.net/anime/producer/1837/G-angle"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Gourmet"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1562/113861l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/qYfXbWxQho0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39620,
+  "slug": "hakata-mentai-pirikarako-chan"
 }

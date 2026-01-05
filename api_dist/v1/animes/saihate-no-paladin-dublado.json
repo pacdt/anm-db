@@ -1,19 +1,62 @@
 {
-  "id": 48761,
-  "slug": "saihate-no-paladin-dublado",
-  "type": "dublado",
+  "mal_id": 48761,
+  "url": "https://myanimelist.net/anime/48761/Saihate_no_Paladin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1176/118382.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1176/118382t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1176/118382l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1176/118382.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1176/118382t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1176/118382l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/E5ABo6NmlrQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saihate no Paladin"
+    },
+    {
+      "type": "Synonym",
+      "title": "Paladin of the End"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ultimate Paladin"
+    },
+    {
+      "type": "Japanese",
+      "title": "最果てのパラディン"
+    },
+    {
+      "type": "English",
+      "title": "The Faraway Paladin"
+    }
+  ],
   "title": "Saihate no Paladin",
   "title_english": "The Faraway Paladin",
   "title_japanese": "最果てのパラディン",
-  "image": "https://cdn.myanimelist.net/images/anime/1176/118382l.webp",
-  "score": 6.88,
-  "synopsis": "Born into a new world after a life of stagnancy, Will awakens to the faces of a skeleton, a ghost, and a mummy. Living in the ruins of a city long fallen, the three raise Will as their own. The skeleton— Blood—teaches him to fight; the ghost—Gus—teaches him magic; and the mummy—Mary—teaches him religion and responsibility. Most importantly, they all teach him love.      \n\nAs Will grows up and learns about the world he was born into, he prepares for the day when he must finally set out on his own. For Will, this journey includes a lifelong promise. At their coming-of-age, every adult is required to swear an oath to the god of their choice, with the strength of the pledge affecting the degree of their sworn god's blessing.\n\nWith his departure approaching, Will must prepare to accept the truth of his undead guardians and embark into a world that even they don't know the state of. Will discovers, however, that every oath must be fulfilled, one way or another.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/E5ABo6NmlrQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Paladin of the End",
+    "Ultimate Paladin"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +118,108 @@
       "url": "https://lightspeedst.net/s1/mp4/saihate-no-paladin-dublado/sd/12.mp4",
       "nome": "The Faraway Paladin"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-09T00:00:00+00:00",
+    "to": "2022-01-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 3,
+        "month": 1,
+        "year": 2022
+      }
+    },
+    "string": "Oct 9, 2021 to Jan 3, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.88,
+  "scored_by": 159493,
+  "rank": 5145,
+  "popularity": 772,
+  "members": 347325,
+  "favorites": 1492,
+  "synopsis": "Born into a new world after a life of stagnancy, Will awakens to the faces of a skeleton, a ghost, and a mummy. Living in the ruins of a city long fallen, the three raise Will as their own. The skeleton— Blood—teaches him to fight; the ghost—Gus—teaches him magic; and the mummy—Mary—teaches him religion and responsibility. Most importantly, they all teach him love.      \n\nAs Will grows up and learns about the world he was born into, he prepares for the day when he must finally set out on his own. For Will, this journey includes a lifelong promise. At their coming-of-age, every adult is required to swear an oath to the god of their choice, with the strength of the pledge affecting the degree of their sworn god's blessing.\n\nWith his departure approaching, Will must prepare to accept the truth of his undead guardians and embark into a world that even they don't know the state of. Will discovers, however, that every oath must be fulfilled, one way or another.\n\n[Written by MAL Rewrite]",
+  "background": "Saihate no Paladin was released on Blu-ray from January 26, 2022 to March 23, 2022.",
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1443,
+      "type": "anime",
+      "name": "Overlap",
+      "url": "https://myanimelist.net/anime/producer/1443/Overlap"
+    },
+    {
+      "mal_id": 1899,
+      "type": "anime",
+      "name": "Good Smile Film",
+      "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1407,
+      "type": "anime",
+      "name": "Children's Playground Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1407/Childrens_Playground_Entertainment"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1176/118382l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/E5ABo6NmlrQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 48761,
+  "slug": "saihate-no-paladin-dublado"
 }

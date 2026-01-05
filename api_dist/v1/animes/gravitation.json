@@ -1,18 +1,51 @@
 {
-  "id": 243,
-  "slug": "gravitation",
-  "type": "legendado",
+  "mal_id": 243,
+  "url": "https://myanimelist.net/anime/243/Gravitation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/21856.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/21856t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/21856l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/21856.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/21856t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/21856l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gravitation"
+    },
+    {
+      "type": "Japanese",
+      "title": "グラビテーション"
+    },
+    {
+      "type": "English",
+      "title": "Gravitation"
+    }
+  ],
   "title": "Gravitation",
   "title_english": "Gravitation",
   "title_japanese": "グラビテーション",
-  "image": "https://cdn.myanimelist.net/images/anime/4/21856l.webp",
-  "score": 6.89,
-  "synopsis": "All Shuichi ever dreamed about was following in the footsteps of his pop idol, Ryuichi Sakuma and the band Nittle Grasper. Together with his best friend Hiro, Shuichi's formed a band called Bad Luck and they've even managed to get signed to a major recording label! Unfortunately, the studio deadlines are looming and Shuichi still hasn't finished the lyrics for any of the songs. What he needs is a little inspiration... but he's been running a little low in that department lately. While Hiro recommends finding a girlfriend, fate has other things in store for him...\n\nWalking through the park late one night, Shuichi's latest lyrics flutter away and land at the feet of a stunning stranger that takes his breath away. Unfortunately, that mysterious stranger happens to be the famous novelist Eiri Yuki, who completely crushes the young singer by telling him he has \"zero talent\". Now, Shuichi's so annoyed that he's managed to finish his song just so he can find and confront Yuki once again. But, are his actions really motivated by anger, or has he actually fallen in love? \n\n(Source: RightStuf)",
-  "trailer_url": null,
-  "genres": [
-    "Boys Love",
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +112,103 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx0iGKsRqDyJRfAKAlb03ua0RnSpWVDBu_Xex7UwATDu9VSWkN4s4_ZOt7281NBCqkhJ2xMxv511lPLjhi3nxwZEk3AOtOPe4eB3ZAI3qFJJ2y4DOlzqeNVK1E2zHSmrGKke8IH",
       "nome": "Got It All"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-10-04T00:00:00+00:00",
+    "to": "2001-01-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2000
+      },
+      "to": {
+        "day": 10,
+        "month": 1,
+        "year": 2001
+      }
+    },
+    "string": "Oct 4, 2000 to Jan 10, 2001"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.89,
+  "scored_by": 66982,
+  "rank": 5079,
+  "popularity": 2000,
+  "members": 125171,
+  "favorites": 1137,
+  "synopsis": "All Shuichi ever dreamed about was following in the footsteps of his pop idol, Ryuichi Sakuma and the band Nittle Grasper. Together with his best friend Hiro, Shuichi's formed a band called Bad Luck and they've even managed to get signed to a major recording label! Unfortunately, the studio deadlines are looming and Shuichi still hasn't finished the lyrics for any of the songs. What he needs is a little inspiration... but he's been running a little low in that department lately. While Hiro recommends finding a girlfriend, fate has other things in store for him...\n\nWalking through the park late one night, Shuichi's latest lyrics flutter away and land at the feet of a stunning stranger that takes his breath away. Unfortunately, that mysterious stranger happens to be the famous novelist Eiri Yuki, who completely crushes the young singer by telling him he has \"zero talent\". Now, Shuichi's so annoyed that he's managed to finish his song just so he can find and confront Yuki once again. But, are his actions really motivated by anger, or has he actually fallen in love? \n\n(Source: RightStuf)",
+  "background": "Gravitation follows the manga adaptation closely with only minor differences and is less explicit than the original manga.",
+  "season": "fall",
+  "year": 2000,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Boys Love",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Showbiz",
+      "url": "https://myanimelist.net/anime/genre/75/Showbiz"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/21856l.webp",
+  "trailer_url": null,
+  "id": 243,
+  "slug": "gravitation"
 }

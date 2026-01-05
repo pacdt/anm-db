@@ -1,19 +1,69 @@
 {
-  "id": 195,
-  "slug": "onegai-teacher",
-  "type": "legendado",
+  "mal_id": 195,
+  "url": "https://myanimelist.net/anime/195/Onegai☆Teacher",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1371/138517.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1371/138517t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1371/138517l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1371/138517.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1371/138517t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1371/138517l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/edAOr7fhjAI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Onegai☆Teacher"
+    },
+    {
+      "type": "Synonym",
+      "title": "Onegai Sensei"
+    },
+    {
+      "type": "Japanese",
+      "title": "おねがい☆ティーチャー"
+    },
+    {
+      "type": "English",
+      "title": "Please Teacher!"
+    },
+    {
+      "type": "German",
+      "title": "Onegai Teacher"
+    },
+    {
+      "type": "Spanish",
+      "title": "Please Teacher!"
+    },
+    {
+      "type": "French",
+      "title": "Please Teacher!"
+    }
+  ],
   "title": "Onegai☆Teacher",
   "title_english": "Please Teacher!",
   "title_japanese": "おねがい☆ティーチャー",
-  "image": "https://cdn.myanimelist.net/images/anime/1371/138517l.webp",
-  "score": 7.08,
-  "synopsis": "One day, Kei Kusanagi notices a strange glowing woman by the lake. He discovers that the woman is actually an alien officer from the Galaxy Federation named Mizuho Kazami, and even more shocking—she's also his teacher! In spite of this setback, he and his teacher gradually get to know each other and a romance blossoms between them. However, soon enough, the principal of the school finds out about their relationship. The solution? Get married!\n\nTogether, the newlyweds must keep their marriage a secret, not only from Kei's high school friends, but also the Galaxy Federation. Onegai☆Teacher is the fragile but comedic love story of an alien and her student.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/edAOr7fhjAI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Onegai Sensei"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +125,97 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzQ9I_zLm4PXzGYpMIzHLGpcMitrbOBkxAr5v1zq1t68ypKCF0ZE94Iaa7Hqj9CnpsfPWJ2kwL5YBt4FYd_78HzYBbnc5ylxLR1WEHE5e-Xtx4ZS2iwvfKFRaBfd_UdDnRdikoy",
       "nome": "Teacher Once Again"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-01-10T00:00:00+00:00",
+    "to": "2002-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2002
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2002
+      }
+    },
+    "string": "Jan 10, 2002 to Mar 28, 2002"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.08,
+  "scored_by": 98646,
+  "rank": 4193,
+  "popularity": 1449,
+  "members": 186885,
+  "favorites": 1005,
+  "synopsis": "One day, Kei Kusanagi notices a strange glowing woman by the lake. He discovers that the woman is actually an alien officer from the Galaxy Federation named Mizuho Kazami, and even more shocking—she's also his teacher! In spite of this setback, he and his teacher gradually get to know each other and a romance blossoms between them. However, soon enough, the principal of the school finds out about their relationship. The solution? Get married!\n\nTogether, the newlyweds must keep their marriage a secret, not only from Kei's high school friends, but also the Galaxy Federation. Onegai☆Teacher is the fragile but comedic love story of an alien and her student.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2002,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Daume",
+      "url": "https://myanimelist.net/anime/producer/39/Daume"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1371/138517l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/edAOr7fhjAI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 195,
+  "slug": "onegai-teacher"
 }

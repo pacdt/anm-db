@@ -1,18 +1,69 @@
 {
-  "id": 238,
-  "slug": "rekka-no-honoo",
-  "type": "legendado",
+  "mal_id": 238,
+  "url": "https://myanimelist.net/anime/238/Rekka_no_Honoo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1646/113504.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1646/113504t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1646/113504l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1646/113504.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1646/113504t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1646/113504l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Rekka no Honoo"
+    },
+    {
+      "type": "Synonym",
+      "title": "Recca no Honoo"
+    },
+    {
+      "type": "Japanese",
+      "title": "烈火の炎"
+    },
+    {
+      "type": "English",
+      "title": "Flame of Recca"
+    },
+    {
+      "type": "German",
+      "title": "Flame of Recca"
+    },
+    {
+      "type": "Spanish",
+      "title": "Flame of Recca"
+    },
+    {
+      "type": "French",
+      "title": "Flame of Recca"
+    }
+  ],
   "title": "Rekka no Honoo",
   "title_english": "Flame of Recca",
   "title_japanese": "烈火の炎",
-  "image": "https://cdn.myanimelist.net/images/anime/1646/113504l.webp",
-  "score": 7.33,
-  "synopsis": "Most people think that ninjas are a thing of the past, but Rekka Hanabishi wishes otherwise. Although he comes from a family that makes fireworks, he likes to think of himself as a self-styled, modern-day ninja. Sounds like fun, right? Maybe not. Rekka ends up in lots of fights because he once made the bold announcement that if someone can defeat him, he will become their servant.\n\nThen one day, Rekka meets Yanagi Sakoshita, a gentle girl with the ability to heal any wound or injury. Their meeting sets off a chain of events, which culminate into a shocking discovery. Rekka is the last surviving member of a legendary ninja clan that was wiped out centuries ago. Even more astonishing than being an actual ninja, he also wields the power to control fire. What does this mean for Rekka? Who are these strange people after him and Yanagi? Find out in Rekka no Honoo!",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure"
+  "title_synonyms": [
+    "Recca no Honoo"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -224,5 +275,103 @@
       "url": "https://lightspeedst.net/s4/mp4/rekka-no-honoo/sd/42.mp4",
       "nome": "Battle To The Death! Until Life Is Extinguished..."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1997-07-19T00:00:00+00:00",
+    "to": "1998-07-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 19,
+        "month": 7,
+        "year": 1997
+      },
+      "to": {
+        "day": 10,
+        "month": 7,
+        "year": 1998
+      }
+    },
+    "string": "Jul 19, 1997 to Jul 10, 1998"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.33,
+  "scored_by": 29532,
+  "rank": 2799,
+  "popularity": 2865,
+  "members": 71841,
+  "favorites": 272,
+  "synopsis": "Most people think that ninjas are a thing of the past, but Rekka Hanabishi wishes otherwise. Although he comes from a family that makes fireworks, he likes to think of himself as a self-styled, modern-day ninja. Sounds like fun, right? Maybe not. Rekka ends up in lots of fights because he once made the bold announcement that if someone can defeat him, he will become their servant.\n\nThen one day, Rekka meets Yanagi Sakoshita, a gentle girl with the ability to heal any wound or injury. Their meeting sets off a chain of events, which culminate into a shocking discovery. Rekka is the last surviving member of a legendary ninja clan that was wiped out centuries ago. Even more astonishing than being an actual ninja, he also wields the power to control fire. What does this mean for Rekka? Who are these strange people after him and Yanagi? Find out in Rekka no Honoo!",
+  "background": "",
+  "season": "summer",
+  "year": 1997,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1646/113504l.webp",
+  "trailer_url": null,
+  "id": 238,
+  "slug": "rekka-no-honoo"
 }

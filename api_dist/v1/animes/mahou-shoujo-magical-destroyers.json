@@ -1,18 +1,62 @@
 {
-  "id": 48981,
-  "slug": "mahou-shoujo-magical-destroyers",
-  "type": "legendado",
+  "mal_id": 48981,
+  "url": "https://myanimelist.net/anime/48981/Mahou_Shoujo_Magical_Destroyers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1203/134079.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/134079t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/134079l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1203/134079.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/134079t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/134079l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5IOhCXBDH_g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mahou Shoujo Magical Destroyers"
+    },
+    {
+      "type": "Synonym",
+      "title": "Magical Girl Magical Destroyers"
+    },
+    {
+      "type": "Synonym",
+      "title": "MagiDes"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔法少女マジカルデストロイヤーズ"
+    },
+    {
+      "type": "English",
+      "title": "Magical Destroyers"
+    }
+  ],
   "title": "Mahou Shoujo Magical Destroyers",
   "title_english": "Magical Destroyers",
   "title_japanese": "魔法少女マジカルデストロイヤーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1203/134079l.webp",
-  "score": 6.24,
-  "synopsis": "In 2008, the Japanese government began hunting people who identify as otaku in an effort to protect the country's culture. In just one week, the enforcement agency known as the SSC captured almost every otaku by force and confiscated their memorabilia. One passionate man calling himself Otaku Hero refuses to allow this agency to do as they please: he raises a resistance army made up of other displaced geeks who band together to help defend their culture.\n\nThree years later, the fires of rebellion wane as all hope seems lost for otakus. Spurred on by his ally—the magical girl Anarchy—Otaku Hero commands the resistance in an effort to reunite Anarchy with the other two other magical girls: Blue and Pink. By combining the power of this trio, the resistance may be able to defeat the SSC and save otaku culture for everyone.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/5IOhCXBDH_g?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Suspense"
+  "title_synonyms": [
+    "Magical Girl Magical Destroyers",
+    "MagiDes"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +118,107 @@
       "url": "https://lightspeedst.net/s6/mp4/mahou-shoujo-magical-destroyers/hd/12.mp4",
       "nome": "What You Like, as Much as You Like"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-04-08T00:00:00+00:00",
+    "to": "2023-06-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2023
+      },
+      "to": {
+        "day": 24,
+        "month": 6,
+        "year": 2023
+      }
+    },
+    "string": "Apr 8, 2023 to Jun 24, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.24,
+  "scored_by": 24774,
+  "rank": 8988,
+  "popularity": 2617,
+  "members": 83787,
+  "favorites": 242,
+  "synopsis": "In 2008, the Japanese government began hunting people who identify as otaku in an effort to protect the country's culture. In just one week, the enforcement agency known as the SSC captured almost every otaku by force and confiscated their memorabilia. One passionate man calling himself Otaku Hero refuses to allow this agency to do as they please: he raises a resistance army made up of other displaced geeks who band together to help defend their culture.\n\nThree years later, the fires of rebellion wane as all hope seems lost for otakus. Spurred on by his ally—the magical girl Anarchy—Otaku Hero commands the resistance in an effort to reunite Anarchy with the other two other magical girls: Blue and Pink. By combining the power of this trio, the resistance may be able to defeat the SSC and save otaku culture for everyone.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2680,
+      "type": "anime",
+      "name": "Sankyo",
+      "url": "https://myanimelist.net/anime/producer/2680/Sankyo_"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1722,
+      "type": "anime",
+      "name": "Bibury Animation Studios",
+      "url": "https://myanimelist.net/anime/producer/1722/Bibury_Animation_Studios"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1203/134079l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/5IOhCXBDH_g?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 48981,
+  "slug": "mahou-shoujo-magical-destroyers"
 }

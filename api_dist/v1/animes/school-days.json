@@ -1,18 +1,51 @@
 {
-  "id": 2476,
-  "slug": "school-days",
-  "type": "legendado",
+  "mal_id": 2476,
+  "url": "https://myanimelist.net/anime/2476/School_Days",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1593/122440.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/122440t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/122440l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1593/122440.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/122440t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/122440l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "School Days"
+    },
+    {
+      "type": "Japanese",
+      "title": "スクールデイズ"
+    },
+    {
+      "type": "English",
+      "title": "School Days"
+    }
+  ],
   "title": "School Days",
   "title_english": "School Days",
   "title_japanese": "スクールデイズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1593/122440l.webp",
-  "score": 5.5,
-  "synopsis": "High school student Makoto Itou first notices Kotonoha Katsura at the start of his second semester, freshman year. Immediately, he becomes entranced by her beauty, but his bashfulness doesn't allow him to approach her, even though they ride the same train every day. Instead, he snaps a photo of her in secret and sets it as his cell phone's wallpaper: a charm that, if kept under wraps, would supposedly help you realize your love. However, classmate Sekai Saionji spots the picture, but instead of ratting him out, she offers to help set him up with Kotonoha—going so far as befriending her just for him. Thus, the trio begins a rather impromptu friendship.\n\nSchool Days follows the lives of these three teenagers as they traverse the joys and hardships that come with being a high schooler. In a story alive and brimming with romance and melancholy, the tale of these three students will linger in memory long after the momentous conclusion. \n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Drama",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzNx-h8GDOcRGMW_lIM2SHqaqA9AioyPiwprW7AWLDuinWHipjUiRPPq9JmQf-sWwZNzdPy8_4aQIteo-EsXCwaFTVCDOuayWpc-7cjMOOv8lqxT3Le-ZMYCn7gmf8tAbO8KFn4",
       "nome": "School Days"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-07-04T00:00:00+00:00",
+    "to": "2007-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2007
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Jul 4, 2007 to Sep 27, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.5,
+  "scored_by": 417141,
+  "rank": 12726,
+  "popularity": 331,
+  "members": 702827,
+  "favorites": 3593,
+  "synopsis": "High school student Makoto Itou first notices Kotonoha Katsura at the start of his second semester, freshman year. Immediately, he becomes entranced by her beauty, but his bashfulness doesn't allow him to approach her, even though they ride the same train every day. Instead, he snaps a photo of her in secret and sets it as his cell phone's wallpaper: a charm that, if kept under wraps, would supposedly help you realize your love. However, classmate Sekai Saionji spots the picture, but instead of ratting him out, she offers to help set him up with Kotonoha—going so far as befriending her just for him. Thus, the trio begins a rather impromptu friendship.\n\nSchool Days follows the lives of these three teenagers as they traverse the joys and hardships that come with being a high schooler. In a story alive and brimming with romance and melancholy, the tale of these three students will linger in memory long after the momentous conclusion. \n\n[Written by MAL Rewrite]",
+  "background": "At midnight on September 18, 2007, the final episode of the TVK program was cancelled without notice, and a travelogue program showing castles and boats was shown instead with the message, \"Due to circumstances, the program has been changed.\" In fact, the day before the last episode was aired, a 16-year-old girl murdered her father in Kyoto Prefecture, which led to the postponement and cancellation of the last episode with a similar murder scene.",
+  "season": "summer",
+  "year": 2007,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "02:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 02:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "Avex Entertainment",
+      "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 120,
+      "type": "anime",
+      "name": "TNK",
+      "url": "https://myanimelist.net/anime/producer/120/TNK"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1593/122440l.webp",
+  "trailer_url": null,
+  "id": 2476,
+  "slug": "school-days"
 }

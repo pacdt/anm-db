@@ -1,19 +1,51 @@
 {
-  "id": 873,
-  "slug": "hack-roots",
-  "type": "legendado",
+  "mal_id": 873,
+  "url": "https://myanimelist.net/anime/873/hack__Roots",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/13050.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/13050t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/13050l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/13050.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/13050t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/13050l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Jg3wbRsq6DA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": ".hack//Roots"
+    },
+    {
+      "type": "Japanese",
+      "title": ".hack//Roots"
+    },
+    {
+      "type": "English",
+      "title": ".hack//Roots"
+    }
+  ],
   "title": ".hack//Roots",
   "title_english": ".hack//Roots",
   "title_japanese": ".hack//Roots",
-  "image": "https://cdn.myanimelist.net/images/anime/3/13050l.webp",
-  "score": 6.85,
-  "synopsis": "After the termination of the incredibly popular virtual reality MMORPG \"The World,\" a new version of the game—The World R:2—is brought online. On his first day in the game, newcomer Haseo thinks he has made some friends to quest with. However, as if mocking his sentiments, they kill his character just for fun. Luckily, he is saved by a mysterious, one-armed player named Ovan who offers to show him around The World. \n\nAlongside Ovan and his cleric friend Shino, Haseo enjoys a wonderful first year in the game. But this peaceful life is shattered when Shino's character is killed by a familiar figure notoriously known as Tri-Edge, whose victims have all fallen into comas in the real world. In a fit of rage, Haseo vows to find the elusive Tri-Edge and kill him.\n\nTaking place during Haseo's first year in The World, .hack//Roots explores the friendships Haseo built in the game before Tri-Edge ripped them away.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Jg3wbRsq6DA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Drama",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +177,103 @@
       "url": "https://lightspeedst.net/s3/mp4/hack-roots/sd/26.mp4",
       "nome": "Determination"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-04-06T00:00:00+00:00",
+    "to": "2006-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2006
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2006
+      }
+    },
+    "string": "Apr 6, 2006 to Sep 28, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.85,
+  "scored_by": 36310,
+  "rank": 5314,
+  "popularity": 2754,
+  "members": 77172,
+  "favorites": 238,
+  "synopsis": "After the termination of the incredibly popular virtual reality MMORPG \"The World,\" a new version of the game—The World R:2—is brought online. On his first day in the game, newcomer Haseo thinks he has made some friends to quest with. However, as if mocking his sentiments, they kill his character just for fun. Luckily, he is saved by a mysterious, one-armed player named Ovan who offers to show him around The World. \n\nAlongside Ovan and his cleric friend Shino, Haseo enjoys a wonderful first year in the game. But this peaceful life is shattered when Shino's character is killed by a familiar figure notoriously known as Tri-Edge, whose victims have all fallen into comas in the real world. In a fit of rage, Haseo vows to find the elusive Tri-Edge and kill him.\n\nTaking place during Haseo's first year in The World, .hack//Roots explores the friendships Haseo built in the game before Tri-Edge ripped them away.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2006,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 231,
+      "type": "anime",
+      "name": "CyberConnect2",
+      "url": "https://myanimelist.net/anime/producer/231/CyberConnect2"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Bee Train",
+      "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/13050l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Jg3wbRsq6DA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 873,
+  "slug": "hack-roots"
 }

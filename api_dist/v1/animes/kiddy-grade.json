@@ -1,17 +1,51 @@
 {
-  "id": 274,
-  "slug": "kiddy-grade",
-  "type": "legendado",
+  "mal_id": 274,
+  "url": "https://myanimelist.net/anime/274/Kiddy_Grade",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/73995.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/73995t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/73995l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/73995.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/73995t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/73995l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/cef_kgNrC6c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kiddy Grade"
+    },
+    {
+      "type": "Japanese",
+      "title": "キディ・グレイド"
+    },
+    {
+      "type": "English",
+      "title": "Kiddy Grade"
+    }
+  ],
   "title": "Kiddy Grade",
   "title_english": "Kiddy Grade",
   "title_japanese": "キディ・グレイド",
-  "image": "https://cdn.myanimelist.net/images/anime/3/73995l.webp",
-  "score": 7.16,
-  "synopsis": "In the distant future, humanity has taken to the skies and colonized many planets throughout the universe. An agency known as the Galactic Organization of Trade and Tariffs (GOTT) has been formed to maintain order. Within GOTT, a secret squad of enhanced human beings—known as the ES Unit—carry out secret missions to put a stop to major galactic crimes. Two such operatives are the lowly C-ranked Éclair and Lumière.\n \nDespite being on the bottom of the totem pole, the pair wield formidable powers: Éclair's superhuman strength and lipstick whip and Lumière's ability to take control of any computer. Together, they can take on any mission that GOTT throws at them. But as they complete more and more missions, the duo begin to uncover a major conspiracy that leaves them questioning everything they know about themselves and the entire galaxy.\n \n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/cef_kgNrC6c?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -133,5 +167,95 @@
       "url": "https://lightspeedst.net/s3/mp4/kiddy-grade/sd/24.mp4",
       "nome": "As Time Goes By"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-10-09T00:00:00+00:00",
+    "to": "2003-03-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 10,
+        "year": 2002
+      },
+      "to": {
+        "day": 19,
+        "month": 3,
+        "year": 2003
+      }
+    },
+    "string": "Oct 9, 2002 to Mar 19, 2003"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.16,
+  "scored_by": 19911,
+  "rank": 3760,
+  "popularity": 3540,
+  "members": 49104,
+  "favorites": 253,
+  "synopsis": "In the distant future, humanity has taken to the skies and colonized many planets throughout the universe. An agency known as the Galactic Organization of Trade and Tariffs (GOTT) has been formed to maintain order. Within GOTT, a secret squad of enhanced human beings—known as the ES Unit—carry out secret missions to put a stop to major galactic crimes. Two such operatives are the lowly C-ranked Éclair and Lumière.\n \nDespite being on the bottom of the totem pole, the pair wield formidable powers: Éclair's superhuman strength and lipstick whip and Lumière's ability to take control of any computer. Together, they can take on any mission that GOTT throws at them. But as they complete more and more missions, the duo begin to uncover a major conspiracy that leaves them questioning everything they know about themselves and the entire galaxy.\n \n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2002,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 880,
+      "type": "anime",
+      "name": "gimik",
+      "url": "https://myanimelist.net/anime/producer/880/gimik"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/73995l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/cef_kgNrC6c?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 274,
+  "slug": "kiddy-grade"
 }

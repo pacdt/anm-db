@@ -1,18 +1,47 @@
 {
-  "id": 50638,
-  "slug": "muv-luv-alternative-2nd-season",
-  "type": "legendado",
+  "mal_id": 50638,
+  "url": "https://myanimelist.net/anime/50638/Muv-Luv_Alternative_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1253/127326.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/127326t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/127326l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1253/127326.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1253/127326t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1253/127326l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_MdNEjLtmeA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Muv-Luv Alternative 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "マブラヴ オルタネイティヴ"
+    }
+  ],
   "title": "Muv-Luv Alternative 2nd Season",
   "title_english": "Muv-Luv Alternative 2nd Season",
   "title_japanese": "マブラヴ オルタネイティヴ",
-  "image": "https://cdn.myanimelist.net/images/anime/1253/127326l.webp",
-  "score": 6.53,
-  "synopsis": "Thanks to Professor Yuuko Kouzuki's technology and Kasumi Yashiro's psychic powers, Cadet Takeru Shirogane travels back to his original world. With no time to lose, Takeru aims to enlist Yuuko's help in his world to complete the Alternative IV project—the last hope humanity has against the BETA, an alien species invading the planet. As the anti-BETA project nears completion, Takeru and other cadets graduate from the Yokohama pilot training academy.\n\nHowever, during a test of the new operating system for the Tactical Surface Fighters—the giant combat suits used by humanity against their adversary—the BETA ambush Takeru and his team. Barely escaping with his life, Takeru is left traumatized after witnessing the cruel death of one of his close friends.\n\nLosing his will to fight, Takeru flees back to the other world, where he experiences a similar tragedy. According to Yuuko's theory, people from parallel universes are bound to suffer the same fate. As a result, Takeru must overcome his trauma if he wants to protect the ones he holds dear.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_MdNEjLtmeA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +103,137 @@
       "url": "https://lightspeedst.net/s5/mp4/muv-luv-alternative-2nd-season/fhd/12.mp4",
       "nome": "The World Moves On"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-06T00:00:00+00:00",
+    "to": "2022-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 6, 2022 to Dec 22, 2022"
+  },
+  "duration": "22 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.53,
+  "scored_by": 6499,
+  "rank": 7176,
+  "popularity": 5364,
+  "members": 20351,
+  "favorites": 68,
+  "synopsis": "Thanks to Professor Yuuko Kouzuki's technology and Kasumi Yashiro's psychic powers, Cadet Takeru Shirogane travels back to his original world. With no time to lose, Takeru aims to enlist Yuuko's help in his world to complete the Alternative IV project—the last hope humanity has against the BETA, an alien species invading the planet. As the anti-BETA project nears completion, Takeru and other cadets graduate from the Yokohama pilot training academy.\n\nHowever, during a test of the new operating system for the Tactical Surface Fighters—the giant combat suits used by humanity against their adversary—the BETA ambush Takeru and his team. Barely escaping with his life, Takeru is left traumatized after witnessing the cruel death of one of his close friends.\n\nLosing his will to fight, Takeru flees back to the other world, where he experiences a similar tragedy. According to Yuuko's theory, people from parallel universes are bound to suffer the same fate. As a result, Takeru must overcome his trauma if he wants to protect the ones he holds dear.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1617,
+      "type": "anime",
+      "name": "Tencent Japan",
+      "url": "https://myanimelist.net/anime/producer/1617/Tencent_Japan"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    },
+    {
+      "mal_id": 2460,
+      "type": "anime",
+      "name": "aNCHOR",
+      "url": "https://myanimelist.net/anime/producer/2460/aNCHOR"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 96,
+      "type": "anime",
+      "name": "Yumeta Company",
+      "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+    },
+    {
+      "mal_id": 894,
+      "type": "anime",
+      "name": "Graphinica",
+      "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+    },
+    {
+      "mal_id": 2249,
+      "type": "anime",
+      "name": "Flagship Line",
+      "url": "https://myanimelist.net/anime/producer/2249/Flagship_Line"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1253/127326l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_MdNEjLtmeA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50638,
+  "slug": "muv-luv-alternative-2nd-season"
 }

@@ -1,19 +1,67 @@
 {
-  "id": 60560,
-  "slug": "xian-wang-de-richang-shenghuo-5",
-  "type": "legendado",
+  "mal_id": 60560,
+  "url": "https://myanimelist.net/anime/60560/Xian_Wang_de_Richang_Shenghuo_5",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1287/152353.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/152353t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/152353l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1287/152353.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/152353t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/152353l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/57xWvQUPhzc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Xian Wang de Richang Shenghuo 5"
+    },
+    {
+      "type": "Synonym",
+      "title": "Xian Wang de Richang Shenghuo 5th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Daily Life of the Immortal King 5th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "不死身な僕の日常 5期"
+    },
+    {
+      "type": "Japanese",
+      "title": "仙王的日常生活 第五季"
+    },
+    {
+      "type": "English",
+      "title": "The Daily Life of the Immortal King 5"
+    }
+  ],
   "title": "Xian Wang de Richang Shenghuo 5",
   "title_english": "The Daily Life of the Immortal King 5",
   "title_japanese": "仙王的日常生活 第五季",
-  "image": "https://cdn.myanimelist.net/images/anime/1287/152353l.webp",
-  "score": 7.46,
-  "synopsis": "Fifth season of Xian Wang de Richang Shenghuo.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/57xWvQUPhzc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Xian Wang de Richang Shenghuo 5th Season",
+    "The Daily Life of the Immortal King 5th Season",
+    "不死身な僕の日常 5期"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -30,6 +78,83 @@
     {
       "numero": 4,
       "url": "https://lightspeedst.net/s2/mp4_temp/xian-wang-de-richang-shenghuo-5/4/720p.mp4"
+    },
+    {
+      "numero": 5,
+      "url": "https://lightspeedst.net/s2/mp4_temp/xian-wang-de-richang-shenghuo-5/5/720p.mp4"
     }
-  ]
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2025-12-14T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 12,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 14, 2025 to ?"
+  },
+  "duration": "18 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.46,
+  "scored_by": 539,
+  "rank": 2207,
+  "popularity": 5956,
+  "members": 15407,
+  "favorites": 56,
+  "synopsis": "Fifth season of Xian Wang de Richang Shenghuo.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2645,
+      "type": "anime",
+      "name": "Liyu Culture",
+      "url": "https://myanimelist.net/anime/producer/2645/Liyu_Culture"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1287/152353l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/57xWvQUPhzc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60560,
+  "slug": "xian-wang-de-richang-shenghuo-5"
 }

@@ -1,19 +1,51 @@
 {
-  "id": 60083,
-  "slug": "kowloon-generic-romance",
-  "type": "legendado",
+  "mal_id": 60083,
+  "url": "https://myanimelist.net/anime/60083/Kowloon_Generic_Romance",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1719/150050.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1719/150050t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1719/150050l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1719/150050.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1719/150050t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1719/150050l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wIrH_z2TLqQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kowloon Generic Romance"
+    },
+    {
+      "type": "Japanese",
+      "title": "九龍ジェネリックロマンス"
+    },
+    {
+      "type": "English",
+      "title": "Kowloon Generic Romance"
+    }
+  ],
   "title": "Kowloon Generic Romance",
   "title_english": "Kowloon Generic Romance",
   "title_japanese": "九龍ジェネリックロマンス",
-  "image": "https://cdn.myanimelist.net/images/anime/1719/150050l.webp",
-  "score": 7.35,
-  "synopsis": "With its flickering streetlights, moldy back alleys, and noisy populace, the Second Kowloon Walled City, despite the squalor of its already-demolished predecessor, evokes a special kind of nostalgia that its residents find endearing. Amidst the walls of this fading yet beloved landscape lives Reiko Kujirai, a 32-year-old realtor deeply in love with her coworker, Hajime Kudou, who is two years her junior. Though they have their differences, the two get along well enough to experience the joys of the walled city together.\n\nHowever, everything starts to fall apart when Kudou, half-asleep, suddenly kisses Kujirai—seemingly reciprocating the feelings she has yet to confess. But when Kudou explains that he had mistaken her for someone else, Kujirai finds herself drawn into a series of events that lead her to a past she cannot remember.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/wIrH_z2TLqQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery",
-    "Romance",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +112,121 @@
       "url": "https://lightspeedst.net/s5/mp4/kowloon-generic-romance/hd/13.mp4",
       "nome": "Episode 13"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-05T00:00:00+00:00",
+    "to": "2025-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2025
+      }
+    },
+    "string": "Apr 5, 2025 to Jun 28, 2025"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.35,
+  "scored_by": 47267,
+  "rank": 2699,
+  "popularity": 1780,
+  "members": 145161,
+  "favorites": 525,
+  "synopsis": "With its flickering streetlights, moldy back alleys, and noisy populace, the Second Kowloon Walled City, despite the squalor of its already-demolished predecessor, evokes a special kind of nostalgia that its residents find endearing. Amidst the walls of this fading yet beloved landscape lives Reiko Kujirai, a 32-year-old realtor deeply in love with her coworker, Hajime Kudou, who is two years her junior. Though they have their differences, the two get along well enough to experience the joys of the walled city together.\n\nHowever, everything starts to fall apart when Kudou, half-asleep, suddenly kisses Kujirai—seemingly reciprocating the feelings she has yet to confess. But when Kudou explains that he had mistaken her for someone else, Kujirai finds herself drawn into a series of events that lead her to a past she cannot remember.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1501,
+      "type": "anime",
+      "name": "JR East Marketing & Communications",
+      "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing___Communications"
+    },
+    {
+      "mal_id": 2424,
+      "type": "anime",
+      "name": "Bandai Namco Filmworks",
+      "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1874,
+      "type": "anime",
+      "name": "Arvo Animation",
+      "url": "https://myanimelist.net/anime/producer/1874/Arvo_Animation"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1719/150050l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/wIrH_z2TLqQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60083,
+  "slug": "kowloon-generic-romance"
 }

@@ -1,19 +1,53 @@
 {
-  "id": 12367,
-  "slug": "shining-hearts-shiawase-no-pan",
-  "type": "legendado",
+  "mal_id": 12367,
+  "url": "https://myanimelist.net/anime/12367/Shining_Hearts__Shiawase_no_Pan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/38329.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/38329t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/38329l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/38329.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/38329t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/38329l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shining Hearts: Shiawase no Pan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shining Hearts: Bread of Happiness"
+    },
+    {
+      "type": "Japanese",
+      "title": "シャイニング・ハーツ 〜幸せのパン〜"
+    }
+  ],
   "title": "Shining Hearts: Shiawase no Pan",
   "title_english": "Shining Hearts: Shiawase no Pan",
   "title_japanese": "シャイニング・ハーツ 〜幸せのパン〜",
-  "image": "https://cdn.myanimelist.net/images/anime/5/38329l.webp",
-  "score": 6.12,
-  "synopsis": "One day, a mysterious girl named Kaguya was washed ashore the island of Wyndaria after a great storm. She encounters Rick, a swordsman who wound up working at the island's bakery. Apparently, Kaguya is suffering from having lost her memories and emotions. In addition, the usually peaceful Wyndaria is now swarming with pirates who came seeking for the special spirit stone that is worn around Kaguya's neck. Knowing the situation, Rick and his co-workers, Nellis, Amyl, and Aerie decided to bring back peace to island and help Kaguya regain her lost memories and emotions. \n\n(Source: Wikipedia)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Gourmet"
+  "title_synonyms": [
+    "Shining Hearts: Bread of Happiness"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +109,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzKllEJQaQqptmy-aYSIG0ruMMMSsJ8V3chsyzOmoy-aaTYVbphhcdx4x6XDpb8nrjISyqRqJM2IbO0Ewt-4WyrlGBPtm5yJUFxHpsHIMCcrque8eue-Lu8gshCpWgWuZBQNFzL",
       "nome": "The Bread of Happiness"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-13T00:00:00+00:00",
+    "to": "2012-06-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 30,
+        "month": 6,
+        "year": 2012
+      }
+    },
+    "string": "Apr 13, 2012 to Jun 30, 2012"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.12,
+  "scored_by": 17783,
+  "rank": 9710,
+  "popularity": 3614,
+  "members": 47376,
+  "favorites": 56,
+  "synopsis": "One day, a mysterious girl named Kaguya was washed ashore the island of Wyndaria after a great storm. She encounters Rick, a swordsman who wound up working at the island's bakery. Apparently, Kaguya is suffering from having lost her memories and emotions. In addition, the usually peaceful Wyndaria is now swarming with pirates who came seeking for the special spirit stone that is worn around Kaguya's neck. Knowing the situation, Rick and his co-workers, Nellis, Amyl, and Aerie decided to bring back peace to island and help Kaguya regain her lost memories and emotions. \n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "Avex Entertainment",
+      "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+    },
+    {
+      "mal_id": 167,
+      "type": "anime",
+      "name": "Sega",
+      "url": "https://myanimelist.net/anime/producer/167/Sega"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 655,
+      "type": "anime",
+      "name": "Volks",
+      "url": "https://myanimelist.net/anime/producer/655/Volks"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Gourmet"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/38329l.webp",
+  "trailer_url": null,
+  "id": 12367,
+  "slug": "shining-hearts-shiawase-no-pan"
 }

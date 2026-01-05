@@ -1,20 +1,62 @@
 {
-  "id": 6773,
-  "slug": "shakugan-no-shana-iii-final",
-  "type": "legendado",
+  "mal_id": 6773,
+  "url": "https://myanimelist.net/anime/6773/Shakugan_no_Shana_III_Final",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/32539.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/32539t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/32539l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/32539.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/32539t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/32539l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/NdNf2OlaRe0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shakugan no Shana III (Final)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shakugan no Shana Third"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shakugan no Shana 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "灼眼のシャナIII –Final–"
+    },
+    {
+      "type": "English",
+      "title": "Shakugan no Shana: Season III"
+    }
+  ],
   "title": "Shakugan no Shana III (Final)",
   "title_english": "Shakugan no Shana: Season III",
   "title_japanese": "灼眼のシャナIII –Final–",
-  "image": "https://cdn.myanimelist.net/images/anime/9/32539l.webp",
-  "score": 7.5,
-  "synopsis": "Yuji disappeared the fateful night he was supposed to choose between a life combating evil by Shana's side or as a normal teenager. He returns from near-death to lead the Crimson Denizens in a dubious plot to bring peace to the universe, but Shana isn't fooled. In an explosive reunion, the fiery warrior faces her unlikeliest of foes while Flame Hazes from across the world join forces to ignite a war that will determine the fate of all supernatural kind.\n\n(Source: FUNimation)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/NdNf2OlaRe0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Shakugan no Shana Third",
+    "Shakugan no Shana 3"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -136,5 +178,110 @@
       "url": "https://lightspeedst.net/s3/mp4/shakugan-no-shana-iii-final/sd/24.mp4",
       "nome": "Opening from the Ending"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-10-08T00:00:00+00:00",
+    "to": "2012-03-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2011
+      },
+      "to": {
+        "day": 24,
+        "month": 3,
+        "year": 2012
+      }
+    },
+    "string": "Oct 8, 2011 to Mar 24, 2012"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.5,
+  "scored_by": 121132,
+  "rank": 2065,
+  "popularity": 1120,
+  "members": 245567,
+  "favorites": 1152,
+  "synopsis": "Yuji disappeared the fateful night he was supposed to choose between a life combating evil by Shana's side or as a normal teenager. He returns from near-death to lead the Crimson Denizens in a dubious plot to bring peace to the universe, but Shana isn't fooled. In an explosive reunion, the fiery warrior faces her unlikeliest of foes while Flame Hazes from across the world join forces to ignite a war that will determine the fate of all supernatural kind.\n\n(Source: FUNimation)",
+  "background": "",
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Geneon Universal Entertainment",
+      "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/32539l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/NdNf2OlaRe0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 6773,
+  "slug": "shakugan-no-shana-iii-final"
 }

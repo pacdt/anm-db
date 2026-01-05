@@ -1,18 +1,57 @@
 {
-  "id": 40403,
-  "slug": "shin-sakura-taisen-the-animation",
-  "type": "legendado",
+  "mal_id": 40403,
+  "url": "https://myanimelist.net/anime/40403/Shin_Sakura_Taisen_the_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1341/105735.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/105735t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/105735l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1341/105735.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/105735t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/105735l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/tYbbM7clEYs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shin Sakura Taisen the Animation"
+    },
+    {
+      "type": "Synonym",
+      "title": "New Sakura Wars the Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "新サクラ大戦 the Animation"
+    },
+    {
+      "type": "English",
+      "title": "Sakura Wars the Animation"
+    }
+  ],
   "title": "Shin Sakura Taisen the Animation",
   "title_english": "Sakura Wars the Animation",
   "title_japanese": "新サクラ大戦 the Animation",
-  "image": "https://cdn.myanimelist.net/images/anime/1341/105735l.webp",
-  "score": 5.82,
-  "synopsis": "In 1941, one year after the defeat of Sotetsu Genan, captain Seijuurou Kamiyama of the Imperial Combat Revue's Flower Division in Tokyo leaves on a secret mission, with Sakura Amamiya temporarily assuming command. Following an incident in Europe, Kamiyama takes a young Russian girl named Klara M. Ruzhkova and leaves her in the Flower Division's care. However, Moscow Combat Revue captain Valery Kaminski is sent to Tokyo to retrieve Klara and the Flower Division must stop him.\n\n(Source: Wikipedia, edited)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/tYbbM7clEYs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Sci-Fi"
+  "title_synonyms": [
+    "New Sakura Wars the Animation"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,102 @@
       "url": "https://lightspeedst.net/s3/mp4/shin-sakura-taisen-the-animation/fhd/12.mp4",
       "nome": "The Grand Finale! Hope for Tomorrow!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-03T00:00:00+00:00",
+    "to": "2020-06-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 19,
+        "month": 6,
+        "year": 2020
+      }
+    },
+    "string": "Apr 3, 2020 to Jun 19, 2020"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.82,
+  "scored_by": 5601,
+  "rank": 11378,
+  "popularity": 5281,
+  "members": 21213,
+  "favorites": 24,
+  "synopsis": "In 1941, one year after the defeat of Sotetsu Genan, captain Seijuurou Kamiyama of the Imperial Combat Revue's Flower Division in Tokyo leaves on a secret mission, with Sakura Amamiya temporarily assuming command. Following an incident in Europe, Kamiyama takes a young Russian girl named Klara M. Ruzhkova and leaves her in the Flower Division's care. However, Moscow Combat Revue captain Valery Kaminski is sent to Tokyo to retrieve Klara and the Flower Division must stop him.\n\n(Source: Wikipedia, edited)",
+  "background": "Shin Sakura Taisen the Animation is an original sequel to the game Shin Sakura Taisen.",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 167,
+      "type": "anime",
+      "name": "Sega",
+      "url": "https://myanimelist.net/anime/producer/167/Sega"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1617,
+      "type": "anime",
+      "name": "Tencent Japan",
+      "url": "https://myanimelist.net/anime/producer/1617/Tencent_Japan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 537,
+      "type": "anime",
+      "name": "SANZIGEN",
+      "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1341/105735l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/tYbbM7clEYs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40403,
+  "slug": "shin-sakura-taisen-the-animation"
 }

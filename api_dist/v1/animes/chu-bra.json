@@ -1,18 +1,71 @@
 {
-  "id": 6645,
-  "slug": "chu-bra",
-  "type": "legendado",
+  "mal_id": 6645,
+  "url": "https://myanimelist.net/anime/6645/Chuu_Bra",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1130/91352.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1130/91352t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1130/91352l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1130/91352.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1130/91352t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1130/91352l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chuu Bra!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chuu Bra!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chubra!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chuubra!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ちゅーぶら!!"
+    },
+    {
+      "type": "English",
+      "title": "Chu-Bra!!"
+    },
+    {
+      "type": "Spanish",
+      "title": "Chu-Bra"
+    }
+  ],
   "title": "Chuu Bra!!",
   "title_english": "Chu-Bra!!",
   "title_japanese": "ちゅーぶら!!",
-  "image": "https://cdn.myanimelist.net/images/anime/1130/91352l.webp",
-  "score": 6.19,
-  "synopsis": "Nayu Hayama makes quite an impression on everyone at Ounan Middle School when she trips while attempting to get on stage to make a speech. The unfortunate incident causes Nayu to flash her unusual underwear in front of the entire freshman class, marking an eventful start to the school year.\n\nUnderwear is Nayu’s passion, and she believes that possessing a good selection of them is important to women of all ages. However, her desire to spread this wisdom to her classmates and teachers is not an easy task to accomplish. Not only does her odd hobby circulate embarrassing and uncomfortable rumors, but it also leads to unwanted attention from the opposite sex. With obstacles to her underwear school revolution beginning to mount, Nayu has her work cut out for her.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Ecchi"
+  "title_synonyms": [
+    "Chuu Bra!!",
+    "Chubra!!",
+    "Chuubra!!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +126,97 @@
       "url": "https://lightspeedst.net/s3/mp4/chu-bra/sd/12.mp4",
       "nome": "Until I Met You"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-01-04T00:00:00+00:00",
+    "to": "2010-03-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 2010
+      },
+      "to": {
+        "day": 22,
+        "month": 3,
+        "year": 2010
+      }
+    },
+    "string": "Jan 4, 2010 to Mar 22, 2010"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.19,
+  "scored_by": 22907,
+  "rank": 9305,
+  "popularity": 3486,
+  "members": 50614,
+  "favorites": 50,
+  "synopsis": "Nayu Hayama makes quite an impression on everyone at Ounan Middle School when she trips while attempting to get on stage to make a speech. The unfortunate incident causes Nayu to flash her unusual underwear in front of the entire freshman class, marking an eventful start to the school year.\n\nUnderwear is Nayu’s passion, and she believes that possessing a good selection of them is important to women of all ages. However, her desire to spread this wisdom to her classmates and teachers is not an easy task to accomplish. Not only does her odd hobby circulate embarrassing and uncomfortable rumors, but it also leads to unwanted attention from the opposite sex. With obstacles to her underwear school revolution beginning to mount, Nayu has her work cut out for her.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2010,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 721,
+      "type": "anime",
+      "name": "GANSIS",
+      "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1130/91352l.webp",
+  "trailer_url": null,
+  "id": 6645,
+  "slug": "chu-bra"
 }

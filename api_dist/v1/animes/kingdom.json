@@ -1,17 +1,51 @@
 {
-  "id": 12031,
-  "slug": "kingdom",
-  "type": "legendado",
+  "mal_id": 12031,
+  "url": "https://myanimelist.net/anime/12031/Kingdom",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/39511.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/39511t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/39511l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/39511.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/39511t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/39511l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/eRsUX5ac56g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kingdom"
+    },
+    {
+      "type": "Japanese",
+      "title": "キングダム"
+    },
+    {
+      "type": "English",
+      "title": "Kingdom"
+    }
+  ],
   "title": "Kingdom",
   "title_english": "Kingdom",
   "title_japanese": "キングダム",
-  "image": "https://cdn.myanimelist.net/images/anime/13/39511l.webp",
-  "score": 7.87,
-  "synopsis": "China’s Warring States period, a raging dragon that would raze the land for 500 years, saw many kingdoms rise and fall, making way for the next generation of kings and generals to fight for supremacy. Eventually, seven powerful states emerged from the endless cycle of warfare.\n\nIn the kingdom of Qin, Xin, a war-orphaned slave, trains vigorously with fellow slave and best friend, Piao, who shares his proud dream of one day becoming a Great General of the Heavens. However, the two are suddenly forced to part ways when Piao is recruited to work in the royal palace by a retainer of the King.\n\nAfter a fierce coup d'état unfolds, Piao returns to Xin, half dead, with a mission that will lead him to a meeting with China's young King, Ying Zheng, who bears a striking resemblance to Piao. Kingdom follows Xin as he takes his first steps into the great blood-soaked pages of China's history. He must carve his own path to glory on his long quest to become a Great General of the historic Seven Warring States.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/eRsUX5ac56g?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -203,5 +237,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx64vlOl_jNn_8la7qr4uJPO_pr9u-SJJg5HLLNY68IEquaMf_3JLQ8ksSWdbB1wdEyKMI7WFPvNZm4uJPzqwzK7yWg9jkXI8cvmuEI9E7YThEiSJMUxWafgNUi2fhxMLqxpeib",
       "nome": "Succession"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-06-04T00:00:00+00:00",
+    "to": "2013-02-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 6,
+        "year": 2012
+      },
+      "to": {
+        "day": 25,
+        "month": 2,
+        "year": 2013
+      }
+    },
+    "string": "Jun 4, 2012 to Feb 25, 2013"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.87,
+  "scored_by": 87656,
+  "rank": 929,
+  "popularity": 1075,
+  "members": 253922,
+  "favorites": 2242,
+  "synopsis": "China’s Warring States period, a raging dragon that would raze the land for 500 years, saw many kingdoms rise and fall, making way for the next generation of kings and generals to fight for supremacy. Eventually, seven powerful states emerged from the endless cycle of warfare.\n\nIn the kingdom of Qin, Xin, a war-orphaned slave, trains vigorously with fellow slave and best friend, Piao, who shares his proud dream of one day becoming a Great General of the Heavens. However, the two are suddenly forced to part ways when Piao is recruited to work in the royal palace by a retainer of the King.\n\nAfter a fierce coup d'état unfolds, Piao returns to Xin, half dead, with a mission that will lead him to a meeting with China's young King, Ying Zheng, who bears a striking resemblance to Piao. Kingdom follows Xin as he takes his first steps into the great blood-soaked pages of China's history. He must carve his own path to glory on his long quest to become a Great General of the historic Seven Warring States.\n\n[Written by MAL Rewrite]",
+  "background": "Kingdom adapts chapters 1-173 of the original manga.",
+  "season": "summer",
+  "year": 2012,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 161,
+      "type": "anime",
+      "name": "Sogo Vision",
+      "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/13/39511l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/eRsUX5ac56g?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 12031,
+  "slug": "kingdom"
 }

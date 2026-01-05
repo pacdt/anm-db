@@ -1,18 +1,69 @@
 {
-  "id": 35254,
-  "slug": "time-bokan-gyakushuu-no-san-akunin",
-  "type": "legendado",
+  "mal_id": 35254,
+  "url": "https://myanimelist.net/anime/35254/Time_Bokan__Gyakushuu_no_San_Akunin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/88224.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88224t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88224l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/88224.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/88224t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/88224l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Time Bokan: Gyakushuu no San Akunin"
+    },
+    {
+      "type": "Synonym",
+      "title": "Time Bokan 24 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "タイムボカン 逆襲の三悪人"
+    },
+    {
+      "type": "English",
+      "title": "Time Bokan: The Villains Strike Back"
+    },
+    {
+      "type": "German",
+      "title": "Time Bokan The Villains' Strike Back"
+    },
+    {
+      "type": "Spanish",
+      "title": "Time Bokan: The Villains' Strike Back"
+    },
+    {
+      "type": "French",
+      "title": "Time Bokan: The Villains Strike Back"
+    }
+  ],
   "title": "Time Bokan: Gyakushuu no San Akunin",
   "title_english": "Time Bokan: The Villains Strike Back",
   "title_japanese": "タイムボカン 逆襲の三悪人",
-  "image": "https://cdn.myanimelist.net/images/anime/9/88224l.webp",
-  "score": 5.87,
-  "synopsis": "Bimajo, Tsubuyakky, and Suzukky work at the History Paradise Company, which publishes text books in the 24th century, and they're also the evil trio, Akudama, that gets in the way of JKK's investigation of history!\n\nAfter their last battle in history with JKK officers Tokio and Calen, they were on a long yet short time off (unpaid, of course), when they finally received a new assignment from their mysterious boss.\n\nThe assignment... was to collect the mystical Dynamonds from famous people throughout history. Akudama starts hopping through time, as they're ordered, and try to get the Dynamonds from the various famous historical figures.\n\nThe evil trio's revenge mission through time was about to start once again!!\n\n(Source: Crunchyroll)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Comedy"
+  "title_synonyms": [
+    "Time Bokan 24 2nd Season"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -134,5 +185,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwaLwyvicmWm6lcQSVeFCikd1MxJ_qJiRIoSQewwaMbOEGpNASl3wjw5962BtdyesGt9F3cC9HHwapthcN5n7YMMMttyx7mbuve45kqtccN2C4PDD0dN-t5rma1Zz3VTaQPL3yO",
       "nome": "The Ranking That Prince Shotoku Came Up With: The Twelve Bokan Ranking System! And What Will Become of Bimajo?!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-10-07T00:00:00+00:00",
+    "to": "2018-03-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2017
+      },
+      "to": {
+        "day": 24,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Oct 7, 2017 to Mar 24, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.87,
+  "scored_by": 559,
+  "rank": 11078,
+  "popularity": 12019,
+  "members": 2284,
+  "favorites": 1,
+  "synopsis": "Bimajo, Tsubuyakky, and Suzukky work at the History Paradise Company, which publishes text books in the 24th century, and they're also the evil trio, Akudama, that gets in the way of JKK's investigation of history!\n\nAfter their last battle in history with JKK officers Tokio and Calen, they were on a long yet short time off (unpaid, of course), when they finally received a new assignment from their mysterious boss.\n\nThe assignment... was to collect the mystical Dynamonds from famous people throughout history. Akudama starts hopping through time, as they're ordered, and try to get the Dynamonds from the various famous historical figures.\n\nThe evil trio's revenge mission through time was about to start once again!!\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/88224l.webp",
+  "trailer_url": null,
+  "id": 35254,
+  "slug": "time-bokan-gyakushuu-no-san-akunin"
 }

@@ -1,24 +1,160 @@
 {
-  "id": 1817,
-  "slug": "dears-kin-no-tama-desu-no",
-  "type": "legendado",
+  "mal_id": 1817,
+  "url": "https://myanimelist.net/anime/1817/DearS__Kin_no_Tama_desu_no",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/83451.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83451t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83451l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/83451.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83451t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83451l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "DearS: Kin no Tama desu no?"
+    },
+    {
+      "type": "Synonym",
+      "title": "DearS: A Ball Of Gold"
+    },
+    {
+      "type": "Synonym",
+      "title": "DearS Special"
+    },
+    {
+      "type": "Japanese",
+      "title": "金の玉ですの？"
+    },
+    {
+      "type": "English",
+      "title": "DearS: Is It a Golden Ball?"
+    }
+  ],
   "title": "DearS: Kin no Tama desu no?",
   "title_english": "DearS: Is It a Golden Ball?",
   "title_japanese": "金の玉ですの？",
-  "image": "https://cdn.myanimelist.net/images/anime/7/83451l.webp",
+  "title_synonyms": [
+    "DearS: A Ball Of Gold",
+    "DearS Special"
+  ],
+  "type": "legendado",
+  "source": "Manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s4/mp4/dears-kin-no-tama-desu-no/sd/1.mp4"
+    }
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-03-16T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 3,
+        "year": 2005
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 16, 2005"
+  },
+  "duration": "23 min",
+  "rating": "R+ - Mild Nudity",
   "score": 6.77,
+  "scored_by": 14808,
+  "rank": 5736,
+  "popularity": 4742,
+  "members": 27423,
+  "favorites": 10,
   "synopsis": "Miu wins the grand prize in the local shopping district raffle, which is a free pass for up to four people to Yuniataru Studio, a spa resort. She decides to take Takeya, Ren and Neneko since her grandparents couldn't attend.",
-  "trailer_url": null,
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 34,
+      "type": "anime",
+      "name": "HAL Film Maker",
+      "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Daume",
+      "url": "https://myanimelist.net/anime/producer/39/Daume"
+    }
+  ],
   "genres": [
     "Comedy",
     "Romance",
     "Sci-Fi",
     "Ecchi"
   ],
-  "episodes": [
+  "explicit_genres": [],
+  "themes": [
     {
-      "numero": 1,
-      "url": "https://lightspeedst.net/s4/mp4/dears-kin-no-tama-desu-no/sd/1.mp4"
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
     }
-  ]
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/83451l.webp",
+  "trailer_url": null,
+  "id": 1817,
+  "slug": "dears-kin-no-tama-desu-no"
 }

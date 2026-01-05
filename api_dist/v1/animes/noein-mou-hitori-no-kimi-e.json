@@ -1,19 +1,57 @@
 {
-  "id": 584,
-  "slug": "noein-mou-hitori-no-kimi-e",
-  "type": "legendado",
+  "mal_id": 584,
+  "url": "https://myanimelist.net/anime/584/Noein__Mou_Hitori_no_Kimi_e",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1087/152978.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1087/152978t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1087/152978l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1087/152978.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1087/152978t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1087/152978l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/o4wCKA9wiPg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Noein: Mou Hitori no Kimi e"
+    },
+    {
+      "type": "Synonym",
+      "title": "Noein: Toward Another You"
+    },
+    {
+      "type": "Japanese",
+      "title": "ノエイン もうひとりの君へ"
+    },
+    {
+      "type": "English",
+      "title": "Noein: To Your Other Self"
+    }
+  ],
   "title": "Noein: Mou Hitori no Kimi e",
   "title_english": "Noein: To Your Other Self",
   "title_japanese": "ノエイン もうひとりの君へ",
-  "image": "https://cdn.myanimelist.net/images/anime/1087/152978l.webp",
-  "score": 7.55,
-  "synopsis": "During their last summer of elementary school, four friends decide to undertake a test of courage at their local graveyard. Before the test begins, Haruka Kaminogi makes a last effort to pull Yuu Gotou away from his controlling mother. While doing so, Haruka suddenly has a strange vision of blue snow followed by the appearance of an imposing silver-haired man. Later, a similar vision occurs at the graveyard to both Haruka and her friends before they try to escape what they assume are ghosts.\n\nUnbeknownst to the children, the people who appeared before them are Dragon Soldiers: an elite military group from a dimension known as La'cryma. The soldiers have traveled to this dimension to secure the \"Dragon Torque\"—an entity they believe to be their last hope for survival.  However, both the Dragon Soldiers and Haruka are shocked to learn that the Dragon Torque is Haruka herself. She attempts to escape from the Dragon Soldiers as she finds her own last ray of hope—the strange silver-haired man who claims to be another version of Yuu himself.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/o4wCKA9wiPg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Drama",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Noein: Toward Another You"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +173,115 @@
       "url": "https://lightspeedst.net/s3/mp4/noein-mou-hitori-no-kimi-e/sd/24.mp4",
       "nome": "The Beginning"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-10-12T00:00:00+00:00",
+    "to": "2006-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 10,
+        "year": 2005
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Oct 12, 2005 to Mar 29, 2006"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.55,
+  "scored_by": 31179,
+  "rank": 1876,
+  "popularity": 2394,
+  "members": 96327,
+  "favorites": 739,
+  "synopsis": "During their last summer of elementary school, four friends decide to undertake a test of courage at their local graveyard. Before the test begins, Haruka Kaminogi makes a last effort to pull Yuu Gotou away from his controlling mother. While doing so, Haruka suddenly has a strange vision of blue snow followed by the appearance of an imposing silver-haired man. Later, a similar vision occurs at the graveyard to both Haruka and her friends before they try to escape what they assume are ghosts.\n\nUnbeknownst to the children, the people who appeared before them are Dragon Soldiers: an elite military group from a dimension known as La'cryma. The soldiers have traveled to this dimension to secure the \"Dragon Torque\"—an entity they believe to be their last hope for survival.  However, both the Dragon Soldiers and Haruka are shocked to learn that the Dragon Torque is Haruka herself. She attempts to escape from the Dragon Soldiers as she finds her own last ray of hope—the strange silver-haired man who claims to be another version of Yuu himself.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2005,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 741,
+      "type": "anime",
+      "name": "Toshiba Entertainment",
+      "url": "https://myanimelist.net/anime/producer/741/Toshiba_Entertainment"
+    },
+    {
+      "mal_id": 1588,
+      "type": "anime",
+      "name": "Bandai Channel",
+      "url": "https://myanimelist.net/anime/producer/1588/Bandai_Channel"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 947,
+      "type": "anime",
+      "name": "Manga Entertainment",
+      "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1087/152978l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/o4wCKA9wiPg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 584,
+  "slug": "noein-mou-hitori-no-kimi-e"
 }

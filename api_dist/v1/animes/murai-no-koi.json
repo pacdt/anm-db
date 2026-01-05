@@ -1,18 +1,57 @@
 {
-  "id": 52080,
-  "slug": "murai-no-koi",
-  "type": "legendado",
+  "mal_id": 52080,
+  "url": "https://myanimelist.net/anime/52080/Murai_no_Koi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1260/144801.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1260/144801t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1260/144801l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1260/144801.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1260/144801t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1260/144801l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/QqoKgfLYrPU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Murai no Koi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Murai's Love"
+    },
+    {
+      "type": "Japanese",
+      "title": "村井の恋"
+    },
+    {
+      "type": "English",
+      "title": "Murai in Love"
+    }
+  ],
   "title": "Murai no Koi",
   "title_english": "Murai in Love",
   "title_japanese": "村井の恋",
-  "image": "https://cdn.myanimelist.net/images/anime/1260/144801l.webp",
-  "score": 7.51,
-  "synopsis": "Murai is a second-year student at Takebe Gakuen High School enrolled in the college preparatory course. His homeroom teacher, Tanaka, summons him to her office after he declares that his post-high school plans are to marry her. Tanaka rejects Murai, telling him that she would never be interested in a boy with long, black hair. Secretly an otaku, she has eyes only for Hitotose, a character from an otome video game. The next day, Murai appears before Tanaka a changed man. Having cut his hair short and dyed it blond, Murai looks exactly like her beloved Hitotose. Tanaka is unable to hide her shock at this sudden development and tries to distance herself from Murai, while Murai presses on in his attempts to romance his teacher.\n\n(Source: Disney+)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/QqoKgfLYrPU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Murai's Love"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,89 @@
       "url": "https://lightspeedst.net/s7/mp4/murai-no-koi/hd/12.mp4",
       "nome": "Episode 12"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-09-04T00:00:00+00:00",
+    "to": "2024-11-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 9,
+        "year": 2024
+      },
+      "to": {
+        "day": 20,
+        "month": 11,
+        "year": 2024
+      }
+    },
+    "string": "Sep 4, 2024 to Nov 20, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.51,
+  "scored_by": 7017,
+  "rank": 2013,
+  "popularity": 5146,
+  "members": 22404,
+  "favorites": 124,
+  "synopsis": "Murai is a second-year student at Takebe Gakuen High School enrolled in the college preparatory course. His homeroom teacher, Tanaka, summons him to her office after he declares that his post-high school plans are to marry her. Tanaka rejects Murai, telling him that she would never be interested in a boy with long, black hair. Secretly an otaku, she has eyes only for Hitotose, a character from an otome video game. The next day, Murai appears before Tanaka a changed man. Having cut his hair short and dyed it blond, Murai looks exactly like her beloved Hitotose. Tanaka is unable to hide her shock at this sudden development and tries to distance herself from Murai, while Murai presses on in his attempts to romance his teacher.\n\n(Source: Disney+)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1260/144801l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/QqoKgfLYrPU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 52080,
+  "slug": "murai-no-koi"
 }

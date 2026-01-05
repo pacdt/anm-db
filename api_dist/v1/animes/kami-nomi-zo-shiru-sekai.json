@@ -1,19 +1,65 @@
 {
-  "id": 8525,
-  "slug": "kami-nomi-zo-shiru-sekai",
-  "type": "legendado",
+  "mal_id": 8525,
+  "url": "https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/43361.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/43361t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/43361l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/43361.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/43361t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/43361l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/OdBmj4TWqzk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kami nomi zo Shiru Sekai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaminomi"
+    },
+    {
+      "type": "Japanese",
+      "title": "神のみぞ知るセカイ"
+    },
+    {
+      "type": "English",
+      "title": "The World God Only Knows"
+    },
+    {
+      "type": "German",
+      "title": "The World God Only Knows"
+    },
+    {
+      "type": "French",
+      "title": "Que sa volonté Soit Faite"
+    }
+  ],
   "title": "Kami nomi zo Shiru Sekai",
   "title_english": "The World God Only Knows",
   "title_japanese": "神のみぞ知るセカイ",
-  "image": "https://cdn.myanimelist.net/images/anime/2/43361l.webp",
-  "score": 7.64,
-  "synopsis": "Keima Katsuragi, known online as the legendary \"God of Conquest,\" can conquer any girl's heart—in dating sim games, at least. In reality, he opts for the two-dimensional world of gaming over real life because he is an unhealthily obsessed otaku of galge games (a type of Japanese video game centered on interactions with attractive girls).\n\nWhen he arrogantly accepts an anonymous offer to prove his supremacy at dating sim games, Keima is misled into aiding a naive and impish demon from hell named Elucia \"Elsie\" de Lute Ima with her mission: retrieving runaway evil spirits who have escaped from hell and scattered themselves throughout the human world. Keima discovers that the only way to capture these spirits is to conquer what he hates the most: the unpredictable hearts of three-dimensional girls! Shackled to Elsie via a deadly collar, Keima now has his title of \"God of Conquest\" put to the ultimate test as he is forced to navigate through the hearts of a multitude of real-life girls.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/OdBmj4TWqzk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Kaminomi"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +121,104 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxegF-ySefSRyn-c3DoMWavNSlobHOLHubXNXBMaFGD-dvBHb7waSdElfFq5nC06T-LE5qNvX3zMqq0wgyfFVcAZYGt2xsRkglyARXNPKAtTpRfKLQKIfJtUr0KS1TRriozF7pP",
       "nome": "More Than a God, Less Than a Human"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-10-07T00:00:00+00:00",
+    "to": "2010-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2010
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2010
+      }
+    },
+    "string": "Oct 7, 2010 to Dec 23, 2010"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.64,
+  "scored_by": 345389,
+  "rank": 1537,
+  "popularity": 366,
+  "members": 657236,
+  "favorites": 5856,
+  "synopsis": "Keima Katsuragi, known online as the legendary \"God of Conquest,\" can conquer any girl's heart—in dating sim games, at least. In reality, he opts for the two-dimensional world of gaming over real life because he is an unhealthily obsessed otaku of galge games (a type of Japanese video game centered on interactions with attractive girls).\n\nWhen he arrogantly accepts an anonymous offer to prove his supremacy at dating sim games, Keima is misled into aiding a naive and impish demon from hell named Elucia \"Elsie\" de Lute Ima with her mission: retrieving runaway evil spirits who have escaped from hell and scattered themselves throughout the human world. Keima discovers that the only way to capture these spirits is to conquer what he hates the most: the unpredictable hearts of three-dimensional girls! Shackled to Elsie via a deadly collar, Keima now has his title of \"God of Conquest\" put to the ultimate test as he is forced to navigate through the hearts of a multitude of real-life girls.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2010,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:50",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:50 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Geneon Universal Entertainment",
+      "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Manglobe",
+      "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/2/43361l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/OdBmj4TWqzk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 8525,
+  "slug": "kami-nomi-zo-shiru-sekai"
 }

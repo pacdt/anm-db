@@ -1,20 +1,65 @@
 {
-  "id": 3515,
-  "slug": "saint-seiya-meiou-hades-elysion-hen",
-  "type": "legendado",
+  "mal_id": 3515,
+  "url": "https://myanimelist.net/anime/3515/Saint_Seiya__Meiou_Hades_Elysion-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/55659.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/55659t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/55659l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/55659.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/55659t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/55659l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saint Seiya: Meiou Hades Elysion-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Saint Seiya: The Hades Elysion Chapter"
+    },
+    {
+      "type": "Japanese",
+      "title": "聖闘士星矢 冥王ハーデス エリシオン編"
+    },
+    {
+      "type": "English",
+      "title": "Saint Seiya: The Hades Chapter - Elysion"
+    },
+    {
+      "type": "Spanish",
+      "title": "Saint Seiya. Los Caballeros del Zodiaco: Capítulo de Hades Eliseos"
+    },
+    {
+      "type": "French",
+      "title": "Saint Seiya: Les Chevaliers du Zodiaque"
+    }
+  ],
   "title": "Saint Seiya: Meiou Hades Elysion-hen",
   "title_english": "Saint Seiya: The Hades Chapter - Elysion",
   "title_japanese": "聖闘士星矢 冥王ハーデス エリシオン編",
-  "image": "https://cdn.myanimelist.net/images/anime/9/55659l.webp",
-  "score": 7.58,
-  "synopsis": "After the 12 Gold Saints sacrifice their lives to destroy the Wailing Wall, The Bronze Saints enter the deepest realm of the Underworld, Elysion, where they face off against Hades's two most powerful servants: The Twin Gods, Hypnos and Thanatos, before they can reach Hades for the final battle.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Saint Seiya: The Hades Elysion Chapter"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -40,5 +85,79 @@
       "numero": 6,
       "url": "https://lightspeedst.net/s2/mp4/saint-seiya-meiou-hades-elysion-hen/sd/6.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-03-07T00:00:00+00:00",
+    "to": "2008-08-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 3,
+        "year": 2008
+      },
+      "to": {
+        "day": 1,
+        "month": 8,
+        "year": 2008
+      }
+    },
+    "string": "Mar 7, 2008 to Aug 1, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.58,
+  "scored_by": 27454,
+  "rank": 1722,
+  "popularity": 3768,
+  "members": 44186,
+  "favorites": 118,
+  "synopsis": "After the 12 Gold Saints sacrifice their lives to destroy the Wailing Wall, The Bronze Saints enter the deepest realm of the Underworld, Elysion, where they face off against Hades's two most powerful servants: The Twin Gods, Hypnos and Thanatos, before they can reach Hades for the final battle.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/9/55659l.webp",
+  "trailer_url": null,
+  "id": 3515,
+  "slug": "saint-seiya-meiou-hades-elysion-hen"
 }

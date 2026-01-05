@@ -1,19 +1,62 @@
 {
-  "id": 47164,
-  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou---meikyuu-hen",
-  "type": "legendado",
+  "mal_id": 47164,
+  "url": "https://myanimelist.net/anime/47164/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_IV__Shin_Shou_-_Meikyuu-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1318/126474.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1318/126474t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1318/126474l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1318/126474.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1318/126474t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1318/126474l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1Z_0xP-bS4Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "DanMachi 4th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Is It Wrong That I Want to Meet You in a Dungeon 4th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇"
+    },
+    {
+      "type": "English",
+      "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV"
+    }
+  ],
   "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen",
   "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
   "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇",
-  "image": "https://cdn.myanimelist.net/images/anime/1318/126474l.webp",
-  "score": 7.74,
-  "synopsis": "Intrepid adventurer Bell Cranel has leveled up, but he can’t rest on his dungeoneering laurels just yet. The Hestia Familia still has a long way to go before it can stand toe-to-toe with the other Familias of Orario — but before Bell can set out on his next mission, reports of a brutal murder rock the adventuring community! One of Bell’s trusted allies stands accused of the horrible crime, and it’s up to Bell and his friends to clear their name and uncover a nefarious plot brewing in the dungeon’s dark depths.\n\n(Source: Sentai Filmworks)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1Z_0xP-bS4Y?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "DanMachi 4th Season",
+    "Is It Wrong That I Want to Meet You in a Dungeon 4th Season"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -70,5 +113,126 @@
       "url": "https://lightspeedst.net/s4/mp4/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou---meikyuu-hen/fhd/11.mp4",
       "nome": "Endless"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-07-23T00:00:00+00:00",
+    "to": "2022-10-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 7,
+        "year": 2022
+      },
+      "to": {
+        "day": 1,
+        "month": 10,
+        "year": 2022
+      }
+    },
+    "string": "Jul 23, 2022 to Oct 1, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.74,
+  "scored_by": 174718,
+  "rank": 1241,
+  "popularity": 665,
+  "members": 398502,
+  "favorites": 2150,
+  "synopsis": "Intrepid adventurer Bell Cranel has leveled up, but he can’t rest on his dungeoneering laurels just yet. The Hestia Familia still has a long way to go before it can stand toe-to-toe with the other Familias of Orario — but before Bell can set out on his next mission, reports of a brutal murder rock the adventuring community! One of Bell’s trusted allies stands accused of the horrible crime, and it’s up to Bell and his friends to clear their name and uncover a nefarious plot brewing in the dungeon’s dark depths.\n\n(Source: Sentai Filmworks)",
+  "background": "The series adapts the volumes 12 and 13 of the light novel of Fujino Omori's series of the same title.",
+  "season": "summer",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1444,
+      "type": "anime",
+      "name": "Egg Firm",
+      "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+    },
+    {
+      "mal_id": 1590,
+      "type": "anime",
+      "name": "FuRyu",
+      "url": "https://myanimelist.net/anime/producer/1590/FuRyu"
+    },
+    {
+      "mal_id": 1815,
+      "type": "anime",
+      "name": "GREE",
+      "url": "https://myanimelist.net/anime/producer/1815/GREE"
+    },
+    {
+      "mal_id": 2117,
+      "type": "anime",
+      "name": "SB Creative",
+      "url": "https://myanimelist.net/anime/producer/2117/SB_Creative"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1318/126474l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1Z_0xP-bS4Y?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 47164,
+  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou---meikyuu-hen"
 }

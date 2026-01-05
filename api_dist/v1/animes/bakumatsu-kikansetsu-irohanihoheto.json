@@ -1,18 +1,51 @@
 {
-  "id": 1576,
-  "slug": "bakumatsu-kikansetsu-irohanihoheto",
-  "type": "legendado",
+  "mal_id": 1576,
+  "url": "https://myanimelist.net/anime/1576/Bakumatsu_Kikansetsu_Irohanihoheto",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/56037.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56037t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56037l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/56037.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56037t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56037l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bakumatsu Kikansetsu Irohanihoheto"
+    },
+    {
+      "type": "Japanese",
+      "title": "幕末機関説 いろはにほへと"
+    },
+    {
+      "type": "English",
+      "title": "Intrigue in the Bakumatsu: Irohanihoheto"
+    }
+  ],
   "title": "Bakumatsu Kikansetsu Irohanihoheto",
   "title_english": "Intrigue in the Bakumatsu: Irohanihoheto",
   "title_japanese": "幕末機関説 いろはにほへと",
-  "image": "https://cdn.myanimelist.net/images/anime/4/56037l.webp",
-  "score": 7.08,
-  "synopsis": "In the final years of the Bakumatsu, wandering mercenary Yojiro Akizuki travels the length and breadth of Japan. And while he employs his sword in the usual fashion, he also uses it to help him locate supernatural items which he pursues with single-minded determination, often with bloody results. In the course of his quest, he crosses paths with a traveling theater group whose members have their own dark agenda. Is it a chance meeting or the result of some, as yet, undiscovered conspiracy? \n\n(Source: Sentai Filmworks)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +177,90 @@
       "url": "https://lightspeedst.net/s3/mp4/bakumatsu-kikansetsu-irohanihoheto/sd/26.mp4",
       "nome": "To Go Towards the Sea"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-10-06T00:00:00+00:00",
+    "to": "2007-04-06T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2006
+      },
+      "to": {
+        "day": 6,
+        "month": 4,
+        "year": 2007
+      }
+    },
+    "string": "Oct 6, 2006 to Apr 6, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.08,
+  "scored_by": 12565,
+  "rank": 4167,
+  "popularity": 3981,
+  "members": 39720,
+  "favorites": 134,
+  "synopsis": "In the final years of the Bakumatsu, wandering mercenary Yojiro Akizuki travels the length and breadth of Japan. And while he employs his sword in the usual fashion, he also uses it to help him locate supernatural items which he pursues with single-minded determination, often with bloody results. In the course of his quest, he crosses paths with a traveling theater group whose members have their own dark agenda. Is it a chance meeting or the result of some, as yet, undiscovered conspiracy? \n\n(Source: Sentai Filmworks)",
+  "background": "The series was broadcast on the japanese video on demand service GyaO.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/56037l.webp",
+  "trailer_url": null,
+  "id": 1576,
+  "slug": "bakumatsu-kikansetsu-irohanihoheto"
 }

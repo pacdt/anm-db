@@ -1,19 +1,63 @@
 {
-  "id": 36587,
-  "slug": "granblue-fantasy-the-animation-season-2",
-  "type": "legendado",
+  "mal_id": 36587,
+  "url": "https://myanimelist.net/anime/36587/Granblue_Fantasy_The_Animation_Season_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1948/103308.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1948/103308t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1948/103308l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1948/103308.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1948/103308t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1948/103308l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5W5tvt1WhMo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Granblue Fantasy The Animation Season 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "グランブルーファンタジー The Animation Season2"
+    },
+    {
+      "type": "English",
+      "title": "Granblue Fantasy: The Animation Season 2"
+    },
+    {
+      "type": "German",
+      "title": "Granblue Fantasy: The Animation Staffeln 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Granblue Fantasy: The Animation Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "Granblue Fantasy: The Animation Saison 2"
+    }
+  ],
   "title": "Granblue Fantasy The Animation Season 2",
   "title_english": "Granblue Fantasy: The Animation Season 2",
   "title_japanese": "グランブルーファンタジー The Animation Season2",
-  "image": "https://cdn.myanimelist.net/images/anime/1948/103308l.webp",
-  "score": 6.73,
-  "synopsis": "On the run from the Erste Empire, Gran and the crew of the Grandcypher receive an offer to negotiate a ceasefire. Meeting at the neutral territory of Albion Citadel, they are welcomed and hosted by Vira Lillie: current Lord Commander of Albion and a friend of Katalina Alize from her officer training at Albion. Imperial General Furias grants the Skyfarers an official pardon, but fails to defuse the tense situation.\n\nGiven time to unwind, the Skyfarers attend a gala hosted by Vira to celebrate the arrival of the crew. However, tensions run high, as Furias and the Erste delegation remain at Albion even after the negotiations conclude. Learning about the existence of a Primal Beast on the island, the crew is shocked to discover a letter from Katalina announcing her resignation.\n\nWhile Gran heads off to find their former comrade, Eugen and Rackam decide to investigate the Imperial presence on the island, suspecting a more sinister scheme lying up the Empire's sleeve.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/5W5tvt1WhMo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +124,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxrMAqxic0nC4G_JDOblBW_orNzdQK-aao6W2HMtKD_5h2XN_oXbJn6jo0OoeU-kaaBzIpVafgzUYn07WqdNfdPQze-0eiutCcrnFFR0MqgPDQ_hNBK2FD77BpwPMkQBokzDjE",
       "nome": "Another Journey"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-10-05T00:00:00+00:00",
+    "to": "2019-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2019
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2019
+      }
+    },
+    "string": "Oct 5, 2019 to Dec 28, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.73,
+  "scored_by": 23825,
+  "rank": 5982,
+  "popularity": 2838,
+  "members": 73088,
+  "favorites": 82,
+  "synopsis": "On the run from the Erste Empire, Gran and the crew of the Grandcypher receive an offer to negotiate a ceasefire. Meeting at the neutral territory of Albion Citadel, they are welcomed and hosted by Vira Lillie: current Lord Commander of Albion and a friend of Katalina Alize from her officer training at Albion. Imperial General Furias grants the Skyfarers an official pardon, but fails to defuse the tense situation.\n\nGiven time to unwind, the Skyfarers attend a gala hosted by Vira to celebrate the arrival of the crew. However, tensions run high, as Furias and the Erste delegation remain at Albion even after the negotiations conclude. Learning about the existence of a Primal Beast on the island, the crew is shocked to discover a letter from Katalina announcing her resignation.\n\nWhile Gran heads off to find their former comrade, Eugen and Rackam decide to investigate the Imperial presence on the island, suspecting a more sinister scheme lying up the Empire's sleeve.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2019,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 1587,
+      "type": "anime",
+      "name": "Cygames",
+      "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+    },
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 569,
+      "type": "anime",
+      "name": "MAPPA",
+      "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1948/103308l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/5W5tvt1WhMo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36587,
+  "slug": "granblue-fantasy-the-animation-season-2"
 }

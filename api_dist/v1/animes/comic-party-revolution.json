@@ -1,18 +1,62 @@
 {
-  "id": 706,
-  "slug": "comic-party-revolution",
-  "type": "legendado",
+  "mal_id": 706,
+  "url": "https://myanimelist.net/anime/706/Comic_Party_Revolution",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1100/130425.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/130425t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/130425l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1100/130425.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/130425t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/130425l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/tPBmV_Xaeds?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Comic Party Revolution"
+    },
+    {
+      "type": "Synonym",
+      "title": "Comic Party Revolution TV"
+    },
+    {
+      "type": "Synonym",
+      "title": "Comic Party Revolution (2005)"
+    },
+    {
+      "type": "Japanese",
+      "title": "こみっくパーティー Revolution"
+    },
+    {
+      "type": "English",
+      "title": "Comic Party: Revolution"
+    }
+  ],
   "title": "Comic Party Revolution",
   "title_english": "Comic Party: Revolution",
   "title_japanese": "こみっくパーティー Revolution",
-  "image": "https://cdn.myanimelist.net/images/anime/1100/130425l.webp",
-  "score": 6.44,
-  "synopsis": "A man-made island sits on the edge of Tokyo, well off the beaten path. The time is drawing near when this island of cold concrete will be set afire with passion. People will gather to draw manga, search for manga, and get passionate about manga! It's a joyous celebration of individuals who've staked their entire youths on doujinshi. It's Comic Party!\n\nKazuki and Mizuki are college students immersing themselves in the otaku subculture. Kazuki has grown more confident in his abilities as a doujinshi (amateur comic) artist, but will all the girls distract him or help him succeed? And what of Taishi's plans for world domination?\n\n(Source: ADV Films)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/tPBmV_Xaeds?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama"
+  "title_synonyms": [
+    "Comic Party Revolution TV",
+    "Comic Party Revolution (2005)"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +123,96 @@
       "url": "https://lightspeedst.net/s3/mp4/comic-party-revolution/sd/13.mp4",
       "nome": "As Time Goes By"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-04-04T00:00:00+00:00",
+    "to": "2005-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2005
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2005
+      }
+    },
+    "string": "Apr 4, 2005 to Jun 28, 2005"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.44,
+  "scored_by": 4619,
+  "rank": 7769,
+  "popularity": 6821,
+  "members": 11013,
+  "favorites": 9,
+  "synopsis": "A man-made island sits on the edge of Tokyo, well off the beaten path. The time is drawing near when this island of cold concrete will be set afire with passion. People will gather to draw manga, search for manga, and get passionate about manga! It's a joyous celebration of individuals who've staked their entire youths on doujinshi. It's Comic Party!\n\nKazuki and Mizuki are college students immersing themselves in the otaku subculture. Kazuki has grown more confident in his abilities as a doujinshi (amateur comic) artist, but will all the girls distract him or help him succeed? And what of Taishi's plans for world domination?\n\n(Source: ADV Films)",
+  "background": "The first four episodes of Comic Party Revolution are edited versions of the previously released OVAs.",
+  "season": "spring",
+  "year": 2005,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1329,
+      "type": "anime",
+      "name": "AQUAPLUS",
+      "url": "https://myanimelist.net/anime/producer/1329/AQUAPLUS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 81,
+      "type": "anime",
+      "name": "Radix",
+      "url": "https://myanimelist.net/anime/producer/81/Radix"
+    },
+    {
+      "mal_id": 462,
+      "type": "anime",
+      "name": "Chaos Project",
+      "url": "https://myanimelist.net/anime/producer/462/Chaos_Project"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1100/130425l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/tPBmV_Xaeds?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 706,
+  "slug": "comic-party-revolution"
 }

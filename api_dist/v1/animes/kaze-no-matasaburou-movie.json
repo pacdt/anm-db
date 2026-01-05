@@ -1,21 +1,128 @@
 {
-  "id": 30922,
-  "slug": "kaze-no-matasaburou-movie",
-  "type": "legendado",
+  "mal_id": 30922,
+  "url": "https://myanimelist.net/anime/30922/Kaze_no_Matasaburou_Movie",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/76581.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/76581t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/76581l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/76581.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/76581t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/76581l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaze no Matasaburou (Movie)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wakate Animator Ikusei Project"
+    },
+    {
+      "type": "Synonym",
+      "title": "2016 Young Animator Training Project"
+    },
+    {
+      "type": "Synonym",
+      "title": "Anime Tamago"
+    },
+    {
+      "type": "Japanese",
+      "title": "風の又三郎"
+    },
+    {
+      "type": "English",
+      "title": "MATASABURO of the Wind"
+    }
+  ],
   "title": "Kaze no Matasaburou (Movie)",
   "title_english": "MATASABURO of the Wind",
   "title_japanese": "風の又三郎",
-  "image": "https://cdn.myanimelist.net/images/anime/13/76581l.webp",
-  "score": 6.09,
-  "synopsis": "A girl moves from the city and goes to school in the country due to some circumstances in her father's job. Her new schoolmates keep her at a distance. There is a boy she'd like to get to know better, but she worries about how he might treat her and doesn't try to get closer. She begins to hate life in the countryside and longs to return to the city, but she ends up meeting a real god of wind.\n\n(Source: MAL News)",
-  "trailer_url": null,
-  "genres": [
-    "Fantasy"
+  "title_synonyms": [
+    "Wakate Animator Ikusei Project",
+    "2016 Young Animator Training Project",
+    "Anime Tamago"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxjpf0OGXghkxLbnp9QgQNi9aZ0Kq5nq8cVCfEUXS90ApCvZ7rgFG6nDq2GFSu7Uea2O9pt1HR09ZSJnACY6wKq77jOtJcE0uk4lyrAHlnPbZiMAWvV2v-qtvxBpNVK-NzlL0fL"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-03-19T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 19,
+        "month": 3,
+        "year": 2016
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 19, 2016"
+  },
+  "duration": "22 min",
+  "rating": "G - All Ages",
+  "score": 6.09,
+  "scored_by": 1862,
+  "rank": 9875,
+  "popularity": 9954,
+  "members": 4165,
+  "favorites": 4,
+  "synopsis": "A girl moves from the city and goes to school in the country due to some circumstances in her father's job. Her new schoolmates keep her at a distance. There is a boy she'd like to get to know better, but she worries about how he might treat her and doesn't try to get closer. She begins to hate life in the countryside and longs to return to the city, but she ends up meeting a real god of wind.\n\n(Source: MAL News)",
+  "background": "Kaze no Matasaburou is one of four Anime Tamago 2016 young animator training projects.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1279,
+      "type": "anime",
+      "name": "Buemon",
+      "url": "https://myanimelist.net/anime/producer/1279/Buemon"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/76581l.webp",
+  "trailer_url": null,
+  "id": 30922,
+  "slug": "kaze-no-matasaburou-movie"
 }

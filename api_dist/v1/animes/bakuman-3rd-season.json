@@ -1,19 +1,57 @@
 {
-  "id": 12365,
-  "slug": "bakuman-3rd-season",
-  "type": "legendado",
+  "mal_id": 12365,
+  "url": "https://myanimelist.net/anime/12365/Bakuman_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/41845.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/41845t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/41845l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/41845.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/41845t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/41845l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bakuman. 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bakuman Season 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "バクマン。"
+    },
+    {
+      "type": "English",
+      "title": "Bakuman. Season 3"
+    }
+  ],
   "title": "Bakuman. 3rd Season",
   "title_english": "Bakuman. Season 3",
   "title_japanese": "バクマン。",
-  "image": "https://cdn.myanimelist.net/images/anime/6/41845l.webp",
-  "score": 8.52,
-  "synopsis": "Onto their third serialization, manga duo Moritaka Mashiro and Akito Takagi—also known by their pen name, Muto Ashirogi—are ever closer to their dream of an anime adaption. However, the real challenge is only just beginning: if they are unable to compete with the artist Eiji Niizuma in the rankings within the span of six months, they will be canceled. To top it off, numerous rivals are close behind and declaring war. They don't even have enough time to spare thinking about an anime!\n\nIn Bakuman. 3rd Season, Muto Ashirogi must find a way to stay atop the colossal mountain known as the Shounen Jack rankings. With new problems and new assistants, the pair continue to strive for their dream.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Bakuman Season 3"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -140,5 +178,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyiUDgzTdYxcRPZUymoCoXGGks0KVRLY_2clGaV--QW1ipm-X5LU1mgblOyc2a9UAEZVHufknKnd5JMANvxnRr1gTxfGbm5lx1jb7TbVWNaVX-96sXSH8kYRErliV252YL7DA",
       "nome": "Dreams & Reality"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-06T00:00:00+00:00",
+    "to": "2013-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2013
+      }
+    },
+    "string": "Oct 6, 2012 to Mar 30, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.52,
+  "scored_by": 202101,
+  "rank": 145,
+  "popularity": 775,
+  "members": 345427,
+  "favorites": 2954,
+  "synopsis": "Onto their third serialization, manga duo Moritaka Mashiro and Akito Takagi—also known by their pen name, Muto Ashirogi—are ever closer to their dream of an anime adaption. However, the real challenge is only just beginning: if they are unable to compete with the artist Eiji Niizuma in the rankings within the span of six months, they will be canceled. To top it off, numerous rivals are close behind and declaring war. They don't even have enough time to spare thinking about an anime!\n\nIn Bakuman. 3rd Season, Muto Ashirogi must find a way to stay atop the colossal mountain known as the Shounen Jack rankings. With new problems and new assistants, the pair continue to strive for their dream.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/41845l.webp",
+  "trailer_url": null,
+  "id": 12365,
+  "slug": "bakuman-3rd-season"
 }

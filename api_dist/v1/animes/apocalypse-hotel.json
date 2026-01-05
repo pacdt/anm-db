@@ -1,18 +1,51 @@
 {
-  "id": 59675,
-  "slug": "apocalypse-hotel",
-  "type": "legendado",
+  "mal_id": 59675,
+  "url": "https://myanimelist.net/anime/59675/Apocalypse_Hotel",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1511/148642.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1511/148642t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/148642l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1511/148642.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1511/148642t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/148642l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/IYtWf-Q5umQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Apocalypse Hotel"
+    },
+    {
+      "type": "Japanese",
+      "title": "アポカリプスホテル"
+    },
+    {
+      "type": "English",
+      "title": "Apocalypse Hotel"
+    }
+  ],
   "title": "Apocalypse Hotel",
   "title_english": "Apocalypse Hotel",
   "title_japanese": "アポカリプスホテル",
-  "image": "https://cdn.myanimelist.net/images/anime/1511/148642l.webp",
-  "score": 8.01,
-  "synopsis": "In the year 2157, Gingarou Hotel, a luxury establishment in Ginza, Tokyo, employs advanced hotelier robots to provide best-in-class hospitality. Unfortunately, no one has visited the hotel in decades, as humanity has long abandoned Earth due to its toxic atmosphere.\n\nYachiyo, the robot \"acting acting manager,\" works tirelessly every day alongside her mechanical crew to keep the hotel running in tip-top shape. Over the years, many employees have ceased functioning, with no hope of repair or replacement. Still, Yachiyo continues to fulfill her duties, just as she promised the hotel's owner before his departure. She remains optimistic that humanity will one day return to Earth—and that she will see the owner again.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/IYtWf-Q5umQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,100 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/apocalypse-hotel/12/720p.mp4",
       "nome": "Aim to Be the Number One Hotel in the Galaxy"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-09T00:00:00+00:00",
+    "to": "2025-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 2025
+      }
+    },
+    "string": "Apr 9, 2025 to Jun 25, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.01,
+  "scored_by": 22255,
+  "rank": 681,
+  "popularity": 3088,
+  "members": 62962,
+  "favorites": 386,
+  "synopsis": "In the year 2157, Gingarou Hotel, a luxury establishment in Ginza, Tokyo, employs advanced hotelier robots to provide best-in-class hospitality. Unfortunately, no one has visited the hotel in decades, as humanity has long abandoned Earth due to its toxic atmosphere.\n\nYachiyo, the robot \"acting acting manager,\" works tirelessly every day alongside her mechanical crew to keep the hotel running in tip-top shape. Over the years, many employees have ceased functioning, with no hope of repair or replacement. Still, Yachiyo continues to fulfill her duties, just as she promised the hotel's owner before his departure. She remains optimistic that humanity will one day return to Earth—and that she will see the owner again.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:34",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:34 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 332,
+      "type": "anime",
+      "name": "Takeshobo",
+      "url": "https://myanimelist.net/anime/producer/332/Takeshobo"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1422,
+      "type": "anime",
+      "name": "CyberAgent",
+      "url": "https://myanimelist.net/anime/producer/1422/CyberAgent"
+    },
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    },
+    {
+      "mal_id": 1986,
+      "type": "anime",
+      "name": "arma bianca",
+      "url": "https://myanimelist.net/anime/producer/1986/arma_bianca"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1893,
+      "type": "anime",
+      "name": "CygamesPictures",
+      "url": "https://myanimelist.net/anime/producer/1893/CygamesPictures"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1511/148642l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/IYtWf-Q5umQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59675,
+  "slug": "apocalypse-hotel"
 }

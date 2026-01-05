@@ -1,21 +1,150 @@
 {
-  "id": 39495,
-  "slug": "totsukuni-no-shoujo",
-  "type": "legendado",
+  "mal_id": 39495,
+  "url": "https://myanimelist.net/anime/39495/Totsukuni_no_Shoujo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1675/104684.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1675/104684t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1675/104684l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1675/104684.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1675/104684t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1675/104684l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HPQin-uuI9o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Totsukuni no Shoujo"
+    },
+    {
+      "type": "Synonym",
+      "title": "Foreign Girl"
+    },
+    {
+      "type": "Japanese",
+      "title": "とつくにの少女"
+    },
+    {
+      "type": "English",
+      "title": "The Girl From the Other Side: Siúil, a Rún"
+    }
+  ],
   "title": "Totsukuni no Shoujo",
   "title_english": "The Girl From the Other Side: Siúil, a Rún",
   "title_japanese": "とつくにの少女",
-  "image": "https://cdn.myanimelist.net/images/anime/1675/104684l.webp",
-  "score": 7.57,
-  "synopsis": "Let not an Outsider touch thee,\nLest thou shalt be cursed forever.\n\nOnce upon a time, in a land far away that was divided into two realms...\nThe Outside was roamed by teratomorphic creatures who had the power to curse whoever they touched. Humans could live safely only in the Inside. But when a lost little girl from the Inside named Shiva, and a demonic beast-looking Outsider simply known as \"Teacher\" initiate a quiet coexistence on the same side of the forest, their bond seems to transcend their incompatible natures. It is the beginning of a folktale about two outcasts -one human, one inhuman- who linger in the hazy twilight that separates night from day.\n\n(Source: Production I.G)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/HPQin-uuI9o?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Supernatural"
+  "title_synonyms": [
+    "Foreign Girl"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzaIhvT06dyXtsgz1FXCCYnRMWAmUlihzU29IBq9gb96Wsr1J0tqjjmmm7WNwwEG73J5ewvBmn3p6PHpdfjEr7ViT26hyG6sTq8K47o-bmKt0mMsL7HZEf-tt6cMCpKPEBr0C0k"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-09-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 9,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 10, 2019"
+  },
+  "duration": "10 min",
+  "rating": "G - All Ages",
+  "score": 7.57,
+  "scored_by": 23871,
+  "rank": 1767,
+  "popularity": 2944,
+  "members": 68586,
+  "favorites": 302,
+  "synopsis": "Let not an Outsider touch thee,\nLest thou shalt be cursed forever.\n\nOnce upon a time, in a land far away that was divided into two realms...\nThe Outside was roamed by teratomorphic creatures who had the power to curse whoever they touched. Humans could live safely only in the Inside. But when a lost little girl from the Inside named Shiva, and a demonic beast-looking Outsider simply known as \"Teacher\" initiate a quiet coexistence on the same side of the forest, their bond seems to transcend their incompatible natures. It is the beginning of a folktale about two outcasts -one human, one inhuman- who linger in the hazy twilight that separates night from day.\n\n(Source: Production I.G)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 1294,
+      "type": "anime",
+      "name": "Sound Team Don Juan",
+      "url": "https://myanimelist.net/anime/producer/1294/Sound_Team_Don_Juan"
+    },
+    {
+      "mal_id": 1452,
+      "type": "anime",
+      "name": "Mag Garden",
+      "url": "https://myanimelist.net/anime/producer/1452/Mag_Garden"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1675/104684l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/HPQin-uuI9o?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39495,
+  "slug": "totsukuni-no-shoujo"
 }

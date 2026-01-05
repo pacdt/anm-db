@@ -1,22 +1,166 @@
 {
-  "id": 54858,
-  "slug": "hypmic-2nd-season",
-  "type": "legendado",
+  "mal_id": 54858,
+  "url": "https://myanimelist.net/anime/54858/Hypnosis_Mic__Division_Rap_Battle_-_Rhyme_Anima__",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1373/135316.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1373/135316t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1373/135316l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1373/135316.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1373/135316t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1373/135316l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/BV_TIVW2K1g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima +"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hypmic 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hypmic +"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima Plus"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヒプノシスマイク -Division Rap Battle- Rhyme Anima +（プラス）"
+    },
+    {
+      "type": "English",
+      "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima PLUS"
+    }
+  ],
   "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima +",
   "title_english": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima PLUS",
   "title_japanese": "ヒプノシスマイク -Division Rap Battle- Rhyme Anima +（プラス）",
-  "image": "https://cdn.myanimelist.net/images/anime/1373/135316l.webp",
-  "score": 6.87,
-  "synopsis": "A recent uptick in civilian riots and crimes has been observed across the country following the conclusion of the second Division Rap Battle. To make matters more chaotic, the individuals perpetrating the crimes have no recollection of the incidents nor any reason to be committing them in the first place. Suspecting these events to be linked to the effect of the Hypnosis Microphones, the governing Party of Words begins investigating the whereabouts of the mastermind behind them.\n\nThese cases have been more frequent in the six divisions, and their respective leaders are scrambling to find a way to prevent further havoc. But when the culprit pulling the strings threatens their territories with more calamity, the six leaders must put aside their personal differences and work together to stop this mayhem.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/BV_TIVW2K1g?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi"
+  "title_synonyms": [
+    "Hypmic 2nd Season",
+    "Hypnosis Mic: Division Rap Battle - Rhyme Anima 2nd Season",
+    "Hypmic +",
+    "Hypnosis Mic: Division Rap Battle - Rhyme Anima Plus"
   ],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s6/mp4/hypmic-2nd-season/hd/1.mp4",
       "nome": "Revenge is a dish best served cold."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-07T00:00:00+00:00",
+    "to": "2023-12-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 30,
+        "month": 12,
+        "year": 2023
+      }
+    },
+    "string": "Oct 7, 2023 to Dec 30, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.87,
+  "scored_by": 3655,
+  "rank": 5181,
+  "popularity": 6377,
+  "members": 12964,
+  "favorites": 107,
+  "synopsis": "A recent uptick in civilian riots and crimes has been observed across the country following the conclusion of the second Division Rap Battle. To make matters more chaotic, the individuals perpetrating the crimes have no recollection of the incidents nor any reason to be committing them in the first place. Suspecting these events to be linked to the effect of the Hypnosis Microphones, the governing Party of Words begins investigating the whereabouts of the mastermind behind them.\n\nThese cases have been more frequent in the six divisions, and their respective leaders are scrambling to find a way to prevent further havoc. But when the culprit pulling the strings threatens their territories with more calamity, the six leaders must put aside their personal differences and work together to stop this mayhem.\n\n[Written by MAL Rewrite]",
+  "background": "Hypnosis Mic: Division Rap Battle - Rhyme Anima + was released on Blu-ray and DVD in six volumes by Aniplex from December 20, 2023, to June 26, 2024.",
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 1241,
+      "type": "anime",
+      "name": "Evil Line Records",
+      "url": "https://myanimelist.net/anime/producer/1241/Evil_Line_Records"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1373/135316l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/BV_TIVW2K1g?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54858,
+  "slug": "hypmic-2nd-season"
 }

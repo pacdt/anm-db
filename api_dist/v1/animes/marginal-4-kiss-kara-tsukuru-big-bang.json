@@ -1,17 +1,63 @@
 {
-  "id": 33788,
-  "slug": "marginal-4-kiss-kara-tsukuru-big-bang",
-  "type": "legendado",
+  "mal_id": 33788,
+  "url": "https://myanimelist.net/anime/33788/Marginal4__Kiss_kara_Tsukuru_Big_Bang",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/83799.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/83799t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/83799l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/83799.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/83799t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/83799l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/yooQ4O_1Tes?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Marginal#4: Kiss kara Tsukuru Big Bang"
+    },
+    {
+      "type": "Japanese",
+      "title": "MARGINAL#4 KISSから創造るBig Bang"
+    },
+    {
+      "type": "English",
+      "title": "MARGINAL #4 the Animation"
+    },
+    {
+      "type": "German",
+      "title": "Marginal #4 The Animation"
+    },
+    {
+      "type": "Spanish",
+      "title": "Marginal #4 The Animation"
+    },
+    {
+      "type": "French",
+      "title": "Marginal #4 The Animation"
+    }
+  ],
   "title": "Marginal#4: Kiss kara Tsukuru Big Bang",
   "title_english": "MARGINAL #4 the Animation",
   "title_japanese": "MARGINAL#4 KISSから創造るBig Bang",
-  "image": "https://cdn.myanimelist.net/images/anime/10/83799l.webp",
-  "score": 6.65,
-  "synopsis": "The freshly debuted idol group Marginal#4 dreams of delivering their kisses to the end of the galaxy. Composed of Atom Kirihara, Rui Aiba, and the twins L and R Nomura, Marginal#4 aims to reach the top of the idol world, following in the footsteps of Pythagoras Productions' previous idol group, Lagrange Point.\n\nWhen they aren't performing, however, the boys of Marginal#4 are ordinary high school students. From securing a club room and chasing down missing underwear to filming commercials, their days are packed with various hijinks. As the boys navigate a flurry of events, they try to become shooting star sensations and charm the hearts of their fans, known as the Starclusters.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/yooQ4O_1Tes?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Music",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +119,106 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy2mo6tREmWheoj0LRBLnseXqvTA-rci5DBvP0VN2RyYuKUQ9sViaKZzeuKOnmkDZwg_IB2CaWMby89nw9n8I2wu-lKOEn1NVXLC7HvLAELJMhRZRjly5-U6OZDXuimgVei94M",
       "nome": "A Big Bang Created from a Kiss"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-12T00:00:00+00:00",
+    "to": "2017-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 12, 2017 to Mar 30, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.65,
+  "scored_by": 5500,
+  "rank": 6493,
+  "popularity": 5646,
+  "members": 17727,
+  "favorites": 92,
+  "synopsis": "The freshly debuted idol group Marginal#4 dreams of delivering their kisses to the end of the galaxy. Composed of Atom Kirihara, Rui Aiba, and the twins L and R Nomura, Marginal#4 aims to reach the top of the idol world, following in the footsteps of Pythagoras Productions' previous idol group, Lagrange Point.\n\nWhen they aren't performing, however, the boys of Marginal#4 are ordinary high school students. From securing a club room and chasing down missing underwear to filming commercials, their days are packed with various hijinks. As the boys navigate a flurry of events, they try to become shooting star sensations and charm the hearts of their fans, known as the Starclusters.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/83799l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/yooQ4O_1Tes?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33788,
+  "slug": "marginal-4-kiss-kara-tsukuru-big-bang"
 }

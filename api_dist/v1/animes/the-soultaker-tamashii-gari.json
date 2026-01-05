@@ -1,18 +1,59 @@
 {
-  "id": 1048,
-  "slug": "the-soultaker-tamashii-gari",
-  "type": "legendado",
+  "mal_id": 1048,
+  "url": "https://myanimelist.net/anime/1048/The_SoulTaker__Tamashii-gari",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/11004.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/11004t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/11004l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/11004.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/11004t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/11004l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "The SoulTaker: Tamashii-gari"
+    },
+    {
+      "type": "Japanese",
+      "title": "The SoulTaker～魂狩～"
+    },
+    {
+      "type": "English",
+      "title": "SoulTaker"
+    },
+    {
+      "type": "German",
+      "title": "The SoulTaker"
+    },
+    {
+      "type": "French",
+      "title": "The SoulTaker"
+    }
+  ],
   "title": "The SoulTaker: Tamashii-gari",
   "title_english": "SoulTaker",
   "title_japanese": "The SoulTaker～魂狩～",
-  "image": "https://cdn.myanimelist.net/images/anime/9/11004l.webp",
-  "score": 6.32,
-  "synopsis": "Kyousuke Date comes home one night and finds his mother dying in a pool of her own blood. In her final moments, she stabs him in the chest. After a swift recovery, Kyousuke searches for answers regarding his mother's motives, but finds more than he bargained for when he is attacked by two rival organizations: the Hospital and the Kirihara Group.\n\nKyousuke is surprised to discover that he has a twin sister named Runa, and both groups try to coerce information out of him about her despite his ignorance to her existence. As their assault continues, Kyousuke soon makes another discovery—he has the ability to transform into a terrifying mutant called SoulTaker. With these newfound powers, Kyousuke resolves to crush both organizations, uncover the truth behind his mother's actions, and protect Runa.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Horror",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +120,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw0Wxt01Uy4fJ2kHLwpzK3WIRUhqtkTMZEUf7ER2GjzZep00BmO3j-wppgm28xlcALPJfSk4_xdFECc5Tv8NVyi8Mar8wqQUxxFgXgL8vfWNpLoG1R7br6BlEx9SJl_1d7sCguD",
       "nome": "The Last Inferno"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-04-04T00:00:00+00:00",
+    "to": "2001-07-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2001
+      },
+      "to": {
+        "day": 4,
+        "month": 7,
+        "year": 2001
+      }
+    },
+    "string": "Apr 4, 2001 to Jul 4, 2001"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.32,
+  "scored_by": 8776,
+  "rank": 8478,
+  "popularity": 4579,
+  "members": 29579,
+  "favorites": 83,
+  "synopsis": "Kyousuke Date comes home one night and finds his mother dying in a pool of her own blood. In her final moments, she stabs him in the chest. After a swift recovery, Kyousuke searches for answers regarding his mother's motives, but finds more than he bargained for when he is attacked by two rival organizations: the Hospital and the Kirihara Group.\n\nKyousuke is surprised to discover that he has a twin sister named Runa, and both groups try to coerce information out of him about her despite his ignorance to her existence. As their assault continues, Kyousuke soon makes another discovery—he has the ability to transform into a terrifying mutant called SoulTaker. With these newfound powers, Kyousuke resolves to crush both organizations, uncover the truth behind his mother's actions, and protect Runa.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2001,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 204,
+      "type": "anime",
+      "name": "Pioneer LDC",
+      "url": "https://myanimelist.net/anime/producer/204/Pioneer_LDC"
+    },
+    {
+      "mal_id": 741,
+      "type": "anime",
+      "name": "Toshiba Entertainment",
+      "url": "https://myanimelist.net/anime/producer/741/Toshiba_Entertainment"
+    },
+    {
+      "mal_id": 1685,
+      "type": "anime",
+      "name": "Toshiba Digital Frontiers",
+      "url": "https://myanimelist.net/anime/producer/1685/Toshiba_Digital_Frontiers"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/11004l.webp",
+  "trailer_url": null,
+  "id": 1048,
+  "slug": "the-soultaker-tamashii-gari"
 }

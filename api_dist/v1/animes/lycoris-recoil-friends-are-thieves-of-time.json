@@ -1,17 +1,51 @@
 {
-  "id": 59369,
-  "slug": "lycoris-recoil-friends-are-thieves-of-time",
-  "type": "legendado",
+  "mal_id": 59369,
+  "url": "https://myanimelist.net/anime/59369/Lycoris_Recoil__Friends_Are_Thieves_of_Time",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1314/147593.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/147593t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/147593l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1314/147593.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/147593t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/147593l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kal-KjsPStU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lycoris Recoil: Friends Are Thieves of Time."
+    },
+    {
+      "type": "Japanese",
+      "title": "『リコリス・リコイル』Friends are thieves of time."
+    },
+    {
+      "type": "English",
+      "title": "Lycoris Recoil: Friends are thieves of time."
+    }
+  ],
   "title": "Lycoris Recoil: Friends Are Thieves of Time.",
   "title_english": "Lycoris Recoil: Friends are thieves of time.",
   "title_japanese": "『リコリス・リコイル』Friends are thieves of time.",
-  "image": "https://cdn.myanimelist.net/images/anime/1314/147593l.webp",
-  "score": 7.71,
-  "synopsis": "Six short movies featuring the daily lives of Chisato, Takina, and their friends. Each movie will have a different director and storyboard.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kal-KjsPStU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -43,5 +77,75 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/lycoris-recoil-friends-are-thieves-of-time/6/720p.mp4",
       "nome": "Brief Respite"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-16T00:00:00+00:00",
+    "to": "2025-05-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 21,
+        "month": 5,
+        "year": 2025
+      }
+    },
+    "string": "Apr 16, 2025 to May 21, 2025"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.71,
+  "scored_by": 20718,
+  "rank": 1329,
+  "popularity": 3305,
+  "members": 55359,
+  "favorites": 153,
+  "synopsis": "Six short movies featuring the daily lives of Chisato, Takina, and their friends. Each movie will have a different director and storyboard.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1314/147593l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kal-KjsPStU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59369,
+  "slug": "lycoris-recoil-friends-are-thieves-of-time"
 }

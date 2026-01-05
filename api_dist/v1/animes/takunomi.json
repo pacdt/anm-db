@@ -1,18 +1,51 @@
 {
-  "id": 36108,
-  "slug": "takunomi",
-  "type": "legendado",
+  "mal_id": 36108,
+  "url": "https://myanimelist.net/anime/36108/Takunomi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1869/95731.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1869/95731t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1869/95731l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1869/95731.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1869/95731t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1869/95731l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WcJwO3Gq-hs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Takunomi."
+    },
+    {
+      "type": "Japanese",
+      "title": "たくのみ。"
+    },
+    {
+      "type": "English",
+      "title": "Takunomi"
+    }
+  ],
   "title": "Takunomi.",
   "title_english": "Takunomi",
   "title_japanese": "たくのみ。",
-  "image": "https://cdn.myanimelist.net/images/anime/1869/95731l.webp",
-  "score": 6.43,
-  "synopsis": "20-year-old Michiru Amatsuki moved to Tokyo after a career change, and now finds herself living in a woman only share house, Stella House Haruno, with a few other women of varying age and occupation. Every night the girls settle down and have a drink or two (or more) as drama ensues.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/WcJwO3Gq-hs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Gourmet"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -59,5 +92,132 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwLt4sJhdreTadK9G3ykRbuLd8Et3WFkvCRfvZAni94_AEtlQETQ0szLaNtvzVBS7rzs3o1ymwBUh_PhmQBmdLKFkziBqLZIJoyHrpMJxilNZ5Gj9GcVGXh0nkPmA0xamgy8vZf",
       "nome": "Otoko Ume Sour"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-12T00:00:00+00:00",
+    "to": "2018-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Jan 12, 2018 to Mar 30, 2018"
+  },
+  "duration": "12 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.43,
+  "scored_by": 16114,
+  "rank": 7837,
+  "popularity": 3506,
+  "members": 50064,
+  "favorites": 51,
+  "synopsis": "20-year-old Michiru Amatsuki moved to Tokyo after a career change, and now finds herself living in a woman only share house, Stella House Haruno, with a few other women of varying age and occupation. Every night the girls settle down and have a drink or two (or more) as drama ensues.",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:43",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:43 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1496,
+      "type": "anime",
+      "name": "Lawson",
+      "url": "https://myanimelist.net/anime/producer/1496/Lawson"
+    },
+    {
+      "mal_id": 1581,
+      "type": "anime",
+      "name": "RAY",
+      "url": "https://myanimelist.net/anime/producer/1581/RAY"
+    },
+    {
+      "mal_id": 1583,
+      "type": "anime",
+      "name": "U-NEXT",
+      "url": "https://myanimelist.net/anime/producer/1583/U-NEXT"
+    },
+    {
+      "mal_id": 1585,
+      "type": "anime",
+      "name": "Nichion",
+      "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1053,
+      "type": "anime",
+      "name": "Production IMS",
+      "url": "https://myanimelist.net/anime/producer/1053/Production_IMS"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Gourmet"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1869/95731l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/WcJwO3Gq-hs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36108,
+  "slug": "takunomi"
 }

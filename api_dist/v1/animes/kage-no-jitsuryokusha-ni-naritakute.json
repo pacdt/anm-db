@@ -1,19 +1,57 @@
 {
-  "id": 48316,
-  "slug": "kage-no-jitsuryokusha-ni-naritakute",
-  "type": "legendado",
+  "mal_id": 48316,
+  "url": "https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1091/128729.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/128729t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/128729l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1091/128729.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/128729t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/128729l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/H-3fre7943U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kage no Jitsuryokusha ni Naritakute!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shadow Garden"
+    },
+    {
+      "type": "Japanese",
+      "title": "陰の実力者になりたくて！"
+    },
+    {
+      "type": "English",
+      "title": "The Eminence in Shadow"
+    }
+  ],
   "title": "Kage no Jitsuryokusha ni Naritakute!",
   "title_english": "The Eminence in Shadow",
   "title_japanese": "陰の実力者になりたくて！",
-  "image": "https://cdn.myanimelist.net/images/anime/1091/128729l.webp",
-  "score": 8.23,
-  "synopsis": "For as long as he can remember, Minoru Kagenou has been fixated on becoming as strong as possible, which has led him to undertake all kinds of rigorous training. This wish, however, does not stem from a desire to be recognized by others; rather, Minoru does everything he can to blend in with the crowd. So, while pretending to be a completely average student during the day, he arms himself with a crowbar and ruthlessly thrashes local biker gangs at night. Yet when Minoru finds himself in a truck accident, his ambitions seemingly come to a sudden end. In his final moments, he laments his powerlessness—no matter how much he trained, there was nothing he could do to overcome his human limitations.\n\nBut instead of dying, Minoru reawakens as Cid, the second child of the noble Kagenou family, in another world—one where magic is commonplace. With the power he so desired finally within his grasp, he dons the moniker \"Shadow\" and establishes Shadow Garden: a group whose sole purpose is to combat the enigmatic Cult of Diablos, an organization born from Cid's imagination. However, as Shadow Garden grows in both membership and influence, it becomes increasingly apparent that the Cult of Diablos is not as fictional as Cid had intended.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/H-3fre7943U?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Shadow Garden"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -115,5 +153,115 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/kage-no-jitsuryokusha-ni-naritakute/20/720p.mp4",
       "nome": "Advent of the Demon"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-05T00:00:00+00:00",
+    "to": "2023-02-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 15,
+        "month": 2,
+        "year": 2023
+      }
+    },
+    "string": "Oct 5, 2022 to Feb 15, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.23,
+  "scored_by": 449361,
+  "rank": 378,
+  "popularity": 258,
+  "members": 829501,
+  "favorites": 17795,
+  "synopsis": "For as long as he can remember, Minoru Kagenou has been fixated on becoming as strong as possible, which has led him to undertake all kinds of rigorous training. This wish, however, does not stem from a desire to be recognized by others; rather, Minoru does everything he can to blend in with the crowd. So, while pretending to be a completely average student during the day, he arms himself with a crowbar and ruthlessly thrashes local biker gangs at night. Yet when Minoru finds himself in a truck accident, his ambitions seemingly come to a sudden end. In his final moments, he laments his powerlessness—no matter how much he trained, there was nothing he could do to overcome his human limitations.\n\nBut instead of dying, Minoru reawakens as Cid, the second child of the noble Kagenou family, in another world—one where magic is commonplace. With the power he so desired finally within his grasp, he dons the moniker \"Shadow\" and establishes Shadow Garden: a group whose sole purpose is to combat the enigmatic Cult of Diablos, an organization born from Cid's imagination. However, as Shadow Garden grows in both membership and influence, it becomes increasingly apparent that the Cult of Diablos is not as fictional as Cid had intended.\n\n[Written by MAL Rewrite]",
+  "background": "Kage no Jitsuryokusha ni Naritakute! was released on Blu-ray and DVD in four volumes from January 25, 2023, to April 26, 2023. The anime adapts volumes 1 and 2 of the light novel series.",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1779,
+      "type": "anime",
+      "name": "NewGin",
+      "url": "https://myanimelist.net/anime/producer/1779/NewGin"
+    },
+    {
+      "mal_id": 2435,
+      "type": "anime",
+      "name": "Aiming",
+      "url": "https://myanimelist.net/anime/producer/2435/Aiming"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 852,
+      "type": "anime",
+      "name": "Nexus",
+      "url": "https://myanimelist.net/anime/producer/852/Nexus"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1091/128729l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/H-3fre7943U?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 48316,
+  "slug": "kage-no-jitsuryokusha-ni-naritakute"
 }

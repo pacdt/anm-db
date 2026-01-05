@@ -1,19 +1,67 @@
 {
-  "id": 589,
-  "slug": "ginga-nagareboshi-gin",
-  "type": "legendado",
+  "mal_id": 589,
+  "url": "https://myanimelist.net/anime/589/Ginga_Nagareboshi_Gin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/47461.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/47461t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/47461l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/47461.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/47461t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/47461l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ginga Nagareboshi Gin"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ginga: Nagareboshi Gin"
+    },
+    {
+      "type": "Synonym",
+      "title": "Silverfang"
+    },
+    {
+      "type": "Synonym",
+      "title": "The small hero. Birth of Gin"
+    },
+    {
+      "type": "Japanese",
+      "title": "銀牙　流れ星銀"
+    },
+    {
+      "type": "English",
+      "title": "Silver Fang"
+    }
+  ],
   "title": "Ginga Nagareboshi Gin",
   "title_english": "Silver Fang",
   "title_japanese": "銀牙　流れ星銀",
-  "image": "https://cdn.myanimelist.net/images/anime/3/47461l.webp",
-  "score": 8.02,
-  "synopsis": "Having been born a brindle (\"Tora-ge\" or tiger striped) Akita, Gin (\"Silver\", named after his fur color) is destined to become a successful bear-hunting dog. However, when he witnesses his father's death at the hands of the man-eating demon bear Akakabuto, he is chosen above his siblings to become his father's successor and defeat the monstrous bear that terrorizes his home village. As Akakabuto gathers his own allies, Gin must travel across Japan in search of dogs to join him in an all out war of dog vs. bear.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Drama"
+  "title_synonyms": [
+    "Ginga: Nagareboshi Gin",
+    "Silverfang",
+    "The small hero. Birth of Gin"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -120,5 +168,85 @@
       "url": "https://lightspeedst.net/s2/mp4/ginga-nagareboshi-gin/sd/21.mp4",
       "nome": "Gin! Embark on the Journey of a New Male!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1986-04-07T00:00:00+00:00",
+    "to": "1986-08-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 1986
+      },
+      "to": {
+        "day": 22,
+        "month": 8,
+        "year": 1986
+      }
+    },
+    "string": "Apr 7, 1986 to Aug 22, 1986"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.02,
+  "scored_by": 12578,
+  "rank": 665,
+  "popularity": 4570,
+  "members": 29771,
+  "favorites": 866,
+  "synopsis": "Having been born a brindle (\"Tora-ge\" or tiger striped) Akita, Gin (\"Silver\", named after his fur color) is destined to become a successful bear-hunting dog. However, when he witnesses his father's death at the hands of the man-eating demon bear Akakabuto, he is chosen above his siblings to become his father's successor and defeat the monstrous bear that terrorizes his home village. As Akakabuto gathers his own allies, Gin must travel across Japan in search of dogs to join him in an all out war of dog vs. bear.",
+  "background": "",
+  "season": "spring",
+  "year": 1986,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Saturdays at Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/47461l.webp",
+  "trailer_url": null,
+  "id": 589,
+  "slug": "ginga-nagareboshi-gin"
 }

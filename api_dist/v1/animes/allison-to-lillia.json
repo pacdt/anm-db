@@ -1,18 +1,67 @@
 {
-  "id": 3549,
-  "slug": "allison-to-lillia",
-  "type": "legendado",
+  "mal_id": 3549,
+  "url": "https://myanimelist.net/anime/3549/Allison_to_Lillia",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/50491.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/50491t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/50491l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/50491.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/50491t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/50491l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Allison to Lillia"
+    },
+    {
+      "type": "Synonym",
+      "title": "Alison and Lilia"
+    },
+    {
+      "type": "Synonym",
+      "title": "Arison to Riria"
+    },
+    {
+      "type": "Synonym",
+      "title": "Allison and Lillia"
+    },
+    {
+      "type": "Japanese",
+      "title": "アリソンとリリア"
+    },
+    {
+      "type": "English",
+      "title": "Allison & Lillia"
+    }
+  ],
   "title": "Allison to Lillia",
   "title_english": "Allison & Lillia",
   "title_japanese": "アリソンとリリア",
-  "image": "https://cdn.myanimelist.net/images/anime/9/50491l.webp",
-  "score": 7.32,
-  "synopsis": "Set in a continent divided into two commonwealths that have been engaged in war for hundreds of years, Allison and Will go on a mission to search \"the treasure that will put an end to the war\". Their hope is inherited to their daughter Lillia, who strives to thaw the torn nations into a united country. This anime encourages young generations to believe in a world without hatred or war regardless of nationalities and beliefs.\n\n(Source: Anime Network)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure"
+  "title_synonyms": [
+    "Alison and Lilia",
+    "Arison to Riria",
+    "Allison and Lillia"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +193,70 @@
       "url": "https://lightspeedst.net/s3/mp4/allison-to-lillia/sd/26.mp4",
       "nome": "My Prince"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-04-03T00:00:00+00:00",
+    "to": "2008-10-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2008
+      },
+      "to": {
+        "day": 2,
+        "month": 10,
+        "year": 2008
+      }
+    },
+    "string": "Apr 3, 2008 to Oct 2, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.32,
+  "scored_by": 15961,
+  "rank": 2827,
+  "popularity": 3739,
+  "members": 44806,
+  "favorites": 180,
+  "synopsis": "Set in a continent divided into two commonwealths that have been engaged in war for hundreds of years, Allison and Will go on a mission to search \"the treasure that will put an end to the war\". Their hope is inherited to their daughter Lillia, who strives to thaw the torn nations into a united country. This anime encourages young generations to believe in a world without hatred or war regardless of nationalities and beliefs.\n\n(Source: Anime Network)",
+  "background": "",
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:32",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:32 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/50491l.webp",
+  "trailer_url": null,
+  "id": 3549,
+  "slug": "allison-to-lillia"
 }

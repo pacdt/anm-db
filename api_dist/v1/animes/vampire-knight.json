@@ -1,20 +1,61 @@
 {
-  "id": 3457,
-  "slug": "vampire-knight",
-  "type": "legendado",
+  "mal_id": 3457,
+  "url": "https://myanimelist.net/anime/3457/Vampire_Knight",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/7327.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/7327t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/7327l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/7327.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/7327t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/7327l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/d9QDCOJS78w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Vampire Knight"
+    },
+    {
+      "type": "Synonym",
+      "title": "Vampire Kishi"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヴァンパイア騎士〈ナイト〉"
+    },
+    {
+      "type": "English",
+      "title": "Vampire Knight"
+    },
+    {
+      "type": "Spanish",
+      "title": "El Caballero Vampiro"
+    }
+  ],
   "title": "Vampire Knight",
   "title_english": "Vampire Knight",
   "title_japanese": "ヴァンパイア騎士〈ナイト〉",
-  "image": "https://cdn.myanimelist.net/images/anime/3/7327l.webp",
-  "score": 6.84,
-  "synopsis": "The cheerful Yuuki Cross and the gruff Zero Kiryuu are members of the disciplinary committee at Cross Academy, which houses two very distinct classes: the Day Class and the Night Class. Their job consists of upholding order between the classes when they switch out. While that may not seem like an especially difficult task, the Day Class is unaware of the truth behind the Night Class—their utterly gorgeous students are vampires.\n\nTen years ago, Yuuki was saved from a vampire attack by Kaname Kuran, a Pureblood vampire. Now, Kaname is the leader of the Night Class, and Yuuki's disciplinary committee position allows her to see him again, making her feelings for him grow complicated. Meanwhile, Zero bears a white-hot hatred of all vampires and believes they can never live in harmony with humans. But a secret from Zero's past soon threatens the fragile peace of all at the academy, and things may never be the same again.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/d9QDCOJS78w?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Mystery",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Vampire Kishi"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -81,5 +122,117 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy46y39SPcmHq0wUBOXNZRNbHf8b_EZo50EmnypyoxhDLV5LbEt4jslW6-lUfH6XaOSjF5s26N7EwV9NJ4kMNUl5gKM9EXvalmSkLy3ReIcr8D6E11Fg5QYCdRicPON1OQxREhj",
       "nome": "Crimson Chains"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-04-08T00:00:00+00:00",
+    "to": "2008-07-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2008
+      },
+      "to": {
+        "day": 1,
+        "month": 7,
+        "year": 2008
+      }
+    },
+    "string": "Apr 8, 2008 to Jul 1, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.84,
+  "scored_by": 365639,
+  "rank": 5383,
+  "popularity": 386,
+  "members": 630674,
+  "favorites": 7440,
+  "synopsis": "The cheerful Yuuki Cross and the gruff Zero Kiryuu are members of the disciplinary committee at Cross Academy, which houses two very distinct classes: the Day Class and the Night Class. Their job consists of upholding order between the classes when they switch out. While that may not seem like an especially difficult task, the Day Class is unaware of the truth behind the Night Class—their utterly gorgeous students are vampires.\n\nTen years ago, Yuuki was saved from a vampire attack by Kaname Kuran, a Pureblood vampire. Now, Kaname is the leader of the Night Class, and Yuuki's disciplinary committee position allows her to see him again, making her feelings for him grow complicated. Meanwhile, Zero bears a white-hot hatred of all vampires and believes they can never live in harmony with humans. But a secret from Zero's past soon threatens the fragile peace of all at the academy, and things may never be the same again.\n\n[Written by MAL Rewrite]",
+  "background": "Vampire Knight was released by Manga Entertainment in the UK and by Madman Entertainment in Australia. Vampire Knight is available for streaming on Hulu and Netflix. Additionally, the anime has been adapted into drama CDs, live-action musicals, dating simulators and art books.",
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/7327l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/d9QDCOJS78w?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 3457,
+  "slug": "vampire-knight"
 }

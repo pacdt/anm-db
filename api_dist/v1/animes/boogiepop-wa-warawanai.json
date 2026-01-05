@@ -1,22 +1,70 @@
 {
-  "id": 369,
-  "slug": "boogiepop-wa-warawanai",
-  "type": "legendado",
+  "mal_id": 369,
+  "url": "https://myanimelist.net/anime/369/Boogiepop_wa_Warawanai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1327/95777.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/95777t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/95777l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1327/95777.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/95777t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/95777l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/b5mvW9-nyOo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Boogiepop wa Warawanai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Boogiepop Never Laughs"
+    },
+    {
+      "type": "Synonym",
+      "title": "Boogiepop Doesn't Laugh"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブギーポップは笑わない Boogiepop Phantom"
+    },
+    {
+      "type": "English",
+      "title": "Boogiepop Phantom"
+    },
+    {
+      "type": "Spanish",
+      "title": "Boogiepop Phantom"
+    },
+    {
+      "type": "French",
+      "title": "Boogiepop Phantom"
+    }
+  ],
   "title": "Boogiepop wa Warawanai",
   "title_english": "Boogiepop Phantom",
   "title_japanese": "ブギーポップは笑わない Boogiepop Phantom",
-  "image": "https://cdn.myanimelist.net/images/anime/1327/95777l.webp",
-  "score": 7.15,
-  "synopsis": "Boogiepop, a rumored shinigami, is said to lurk where they cannot be seen. Five years ago, a string of gruesome murders shocked the populace, and students attributed some of those killings to the aforementioned death god. When mysterious happenings once again affect the lives of those attending Hijiridani High School and Shinyo Academy, whispers of the enigmatic Boogiepop are resurrected. The stories being told may contain partial truths, or perhaps the world as humans know it is more dangerous than previously believed.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/b5mvW9-nyOo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Avant Garde",
-    "Drama",
-    "Horror",
-    "Mystery",
-    "Supernatural",
-    "Suspense"
+  "title_synonyms": [
+    "Boogiepop Never Laughs",
+    "Boogiepop Doesn't Laugh"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +126,100 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyquzEfe-tr2pqpqfGV6NGVLAExVvJxKRoY-PiE3II1Bj1WJUuHTBzGhC52qojx_9aEiS-vVXlq71Pn57va1pSdUppjhFCGdJSkJm6mDNyPTgbCgAkVmcbyZ7SBEgrlXNGsuUE",
       "nome": "A Requiem"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-01-05T00:00:00+00:00",
+    "to": "2000-03-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2000
+      },
+      "to": {
+        "day": 22,
+        "month": 3,
+        "year": 2000
+      }
+    },
+    "string": "Jan 5, 2000 to Mar 22, 2000"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.15,
+  "scored_by": 37345,
+  "rank": 3813,
+  "popularity": 1726,
+  "members": 150783,
+  "favorites": 1260,
+  "synopsis": "Boogiepop, a rumored shinigami, is said to lurk where they cannot be seen. Five years ago, a string of gruesome murders shocked the populace, and students attributed some of those killings to the aforementioned death god. When mysterious happenings once again affect the lives of those attending Hijiridani High School and Shinyo Academy, whispers of the enigmatic Boogiepop are resurrected. The stories being told may contain partial truths, or perhaps the world as humans know it is more dangerous than previously believed.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2000,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 164,
+      "type": "anime",
+      "name": "d-rights",
+      "url": "https://myanimelist.net/anime/producer/164/d-rights"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Avant Garde",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Supernatural",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1327/95777l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/b5mvW9-nyOo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 369,
+  "slug": "boogiepop-wa-warawanai"
 }

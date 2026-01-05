@@ -1,18 +1,69 @@
 {
-  "id": 41574,
-  "slug": "guraburu",
-  "type": "legendado",
+  "mal_id": 41574,
+  "url": "https://myanimelist.net/anime/41574/Guraburu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1870/119993.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1870/119993t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1870/119993l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1870/119993.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1870/119993t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1870/119993l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_5WKtYkMYEg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Guraburu!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Grablu!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ぐらぶるっ！"
+    },
+    {
+      "type": "English",
+      "title": "Grand Blues!"
+    },
+    {
+      "type": "German",
+      "title": "Grand Blues!"
+    },
+    {
+      "type": "Spanish",
+      "title": "Grand Blues!"
+    },
+    {
+      "type": "French",
+      "title": "Grand Blues!"
+    }
+  ],
   "title": "Guraburu!",
   "title_english": "Grand Blues!",
   "title_japanese": "ぐらぶるっ！",
-  "image": "https://cdn.myanimelist.net/images/anime/1870/119993l.webp",
-  "score": 5.8,
-  "synopsis": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_5WKtYkMYEg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Grablu!"
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +125,76 @@
       "url": "https://lightspeedst.net/s2/mp4/guraburu/hd/12.mp4",
       "nome": "A Final Battle to Shake Off Your Blues!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-10-08T00:00:00+00:00",
+    "to": "2020-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2020
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2020
+      }
+    },
+    "string": "Oct 8, 2020 to Dec 24, 2020"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.8,
+  "scored_by": 4682,
+  "rank": 11496,
+  "popularity": 5924,
+  "members": 15649,
+  "favorites": 22,
+  "synopsis": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+  "background": "",
+  "season": "fall",
+  "year": 2020,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 21:54 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1396,
+      "type": "anime",
+      "name": "W-Toon Studio",
+      "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+    },
+    {
+      "mal_id": 1673,
+      "type": "anime",
+      "name": "DMM.futureworks",
+      "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1870/119993l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_5WKtYkMYEg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41574,
+  "slug": "guraburu"
 }

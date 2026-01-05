@@ -1,18 +1,57 @@
 {
-  "id": 10793,
-  "slug": "guilty-crown",
-  "type": "legendado",
+  "mal_id": 10793,
+  "url": "https://myanimelist.net/anime/10793/Guilty_Crown",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1566/133912.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/133912t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/133912l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1566/133912.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/133912t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/133912l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/JToS6gmWzgw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Guilty Crown"
+    },
+    {
+      "type": "Synonym",
+      "title": "GUILTY CROWN"
+    },
+    {
+      "type": "Japanese",
+      "title": "ギルティクラウン"
+    },
+    {
+      "type": "English",
+      "title": "Guilty Crown"
+    }
+  ],
   "title": "Guilty Crown",
   "title_english": "Guilty Crown",
   "title_japanese": "ギルティクラウン",
-  "image": "https://cdn.myanimelist.net/images/anime/1566/133912l.webp",
-  "score": 7.39,
-  "synopsis": "On December 24, 2029—the day colloquially known as the \"Lost Christmas\"—the Apocalypse Virus spread across Japan, bringing death to its citizens and plunging the country into utter chaos. In an effort to establish order, the United Nations sends the GHQ to assist with the crisis by containing the outbreak while removing all political autonomy in the process. A decade later, the country still lives under their control, unable to break free from their draconian rule.\n\nFrustrated with the state of the nation, a resistance group named the Funeral Parlor aims to liberate Japan from the GHQ. Led by the charismatic Gai Tsutsugami, the group plots to steal a vial containing the \"Void Genome\" to further their goals. The vial falls into the hands of internet vocalist Inori Yuzuriha, who ends up being hunted by the GHQ's Anti-Bodies forces. Having nowhere to go, she seeks refuge in a warehouse where she meets Shuu Ouma—a socially awkward high school student who is a huge fan of her music.\n\nShuu gets dragged into the conflict the moment he rescues Inori, and the Void Genome shatters in his hand, granting him the \"Power of the Kings.\" While learning how to control his grand new ability, Shuu must now fight to liberate Japan from its cruel oppressors.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/JToS6gmWzgw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Sci-Fi"
+  "title_synonyms": [
+    "GUILTY CROWN"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -124,5 +163,120 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzhvuXIoOZNXoNXVRBxC5sy__uRRpesTrQT8GJRJdCbaEnwoaQ4wtiCJy5q5kzzweKH5hv8y79ok56GR5iVTbVlI-yjodBwQ4IiFeU6zNMXSI1wHjvFugerEFDCumBcihRlEBE",
       "nome": "Prayer:Convergence"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-10-14T00:00:00+00:00",
+    "to": "2012-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 10,
+        "year": 2011
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 2012
+      }
+    },
+    "string": "Oct 14, 2011 to Mar 23, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.39,
+  "scored_by": 659276,
+  "rank": 2537,
+  "popularity": 123,
+  "members": 1268613,
+  "favorites": 17145,
+  "synopsis": "On December 24, 2029—the day colloquially known as the \"Lost Christmas\"—the Apocalypse Virus spread across Japan, bringing death to its citizens and plunging the country into utter chaos. In an effort to establish order, the United Nations sends the GHQ to assist with the crisis by containing the outbreak while removing all political autonomy in the process. A decade later, the country still lives under their control, unable to break free from their draconian rule.\n\nFrustrated with the state of the nation, a resistance group named the Funeral Parlor aims to liberate Japan from the GHQ. Led by the charismatic Gai Tsutsugami, the group plots to steal a vial containing the \"Void Genome\" to further their goals. The vial falls into the hands of internet vocalist Inori Yuzuriha, who ends up being hunted by the GHQ's Anti-Bodies forces. Having nowhere to go, she seeks refuge in a warehouse where she meets Shuu Ouma—a socially awkward high school student who is a huge fan of her music.\n\nShuu gets dragged into the conflict the moment he rescues Inori, and the Void Genome shatters in his hand, granting him the \"Power of the Kings.\" While learning how to control his grand new ability, Shuu must now fight to liberate Japan from its cruel oppressors.\n\n[Written by MAL Rewrite]",
+  "background": "The first two episodes of Guilty Crown were screened at the New York Anime Festival on October 15, 2011. The screening of the second episode was a world premiere as the episode did not air in Japan until October 20, 2011.",
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 769,
+      "type": "anime",
+      "name": "Fujipacific Music",
+      "url": "https://myanimelist.net/anime/producer/769/Fujipacific_Music"
+    },
+    {
+      "mal_id": 2137,
+      "type": "anime",
+      "name": "1IN",
+      "url": "https://myanimelist.net/anime/producer/2137/1IN"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1566/133912l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/JToS6gmWzgw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 10793,
+  "slug": "guilty-crown"
 }

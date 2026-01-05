@@ -1,19 +1,62 @@
 {
-  "id": 41409,
-  "slug": "wu-shen-zhu-zai",
-  "type": "legendado",
+  "mal_id": 41409,
+  "url": "https://myanimelist.net/anime/41409/Wushen_Zhuzai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1738/107609t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1738/107609l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1738/107609.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1738/107609t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1738/107609l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/tsPGZjBrz-Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wushen Zhuzai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Martial Master"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wu Shen Zhu Zai"
+    },
+    {
+      "type": "Japanese",
+      "title": "武神主宰"
+    },
+    {
+      "type": "English",
+      "title": "The God of War Dominates"
+    }
+  ],
   "title": "Wushen Zhuzai",
   "title_english": "The God of War Dominates",
   "title_japanese": "武神主宰",
-  "image": "https://cdn.myanimelist.net/images/anime/1738/107609l.webp",
-  "score": 7.56,
-  "synopsis": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/tsPGZjBrz-Q?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Fantasy"
+  "title_synonyms": [
+    "Martial Master",
+    "Wu Shen Zhu Zai"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -115,5 +158,96 @@
       "numero": 25,
       "url": "https://lightspeedst.net/s3/mp4/wu-shen-zhu-zai/sd/25.mp4"
     }
-  ]
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2020-03-08T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 3,
+        "year": 2020
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 8, 2020 to ?"
+  },
+  "duration": "8 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.56,
+  "scored_by": 1735,
+  "rank": 1825,
+  "popularity": 8366,
+  "members": 6675,
+  "favorites": 86,
+  "synopsis": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
+  "background": "Adaptation of An Mo Shi's (暗魔师) web novel of the same title.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 2619,
+      "type": "anime",
+      "name": "Quyue Technology",
+      "url": "https://myanimelist.net/anime/producer/2619/Quyue_Technology"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2042,
+      "type": "anime",
+      "name": "Ruo Hong Culture",
+      "url": "https://myanimelist.net/anime/producer/2042/Ruo_Hong_Culture"
+    },
+    {
+      "mal_id": 2620,
+      "type": "anime",
+      "name": "Manhoo Culture",
+      "url": "https://myanimelist.net/anime/producer/2620/Manhoo_Culture"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1738/107609l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/tsPGZjBrz-Q?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41409,
+  "slug": "wu-shen-zhu-zai"
 }

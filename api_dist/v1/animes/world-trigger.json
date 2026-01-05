@@ -1,18 +1,51 @@
 {
-  "id": 24405,
-  "slug": "world-trigger",
-  "type": "legendado",
+  "mal_id": 24405,
+  "url": "https://myanimelist.net/anime/24405/World_Trigger",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1783/106843.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1783/106843t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1783/106843l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1783/106843.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1783/106843t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1783/106843l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2oui7JLlBpk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "World Trigger"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワールドトリガー"
+    },
+    {
+      "type": "English",
+      "title": "World Trigger"
+    }
+  ],
   "title": "World Trigger",
   "title_english": "World Trigger",
   "title_japanese": "ワールドトリガー",
-  "image": "https://cdn.myanimelist.net/images/anime/1783/106843l.webp",
-  "score": 7.58,
-  "synopsis": "When a gate to another world suddenly opens on Earth, Mikado City is invaded by strange creatures known as \"Neighbors,\" malicious beings impervious to traditional weaponry. In response to their arrival, an organization called the Border Defense Agency has been established to combat the Neighbor menace through special weapons called \"Triggers.\" Even though several years have passed after the gate first opened, Neighbors are still a threat and members of Border remain on guard to ensure the safety of the planet.\n\nDespite this delicate situation, members-in-training, such as Osamu Mikumo, are not permitted to use their Triggers outside of headquarters. But when the mysterious new student in his class is dragged into a forbidden area by bullies, they are attacked by Neighbors, and Osamu has no choice but to do what he believes is right. Much to his surprise, however, the transfer student Yuuma Kuga makes short work of the aliens, revealing that he is a humanoid Neighbor in disguise.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/2oui7JLlBpk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -379,5 +412,84 @@
       "url": "https://lightspeedst.net/s2/mp4/world-trigger/sd/73.mp4",
       "nome": "To the Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-05T00:00:00+00:00",
+    "to": "2016-04-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 3,
+        "month": 4,
+        "year": 2016
+      }
+    },
+    "string": "Oct 5, 2014 to Apr 3, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.58,
+  "scored_by": 158808,
+  "rank": 1728,
+  "popularity": 553,
+  "members": 461882,
+  "favorites": 3137,
+  "synopsis": "When a gate to another world suddenly opens on Earth, Mikado City is invaded by strange creatures known as \"Neighbors,\" malicious beings impervious to traditional weaponry. In response to their arrival, an organization called the Border Defense Agency has been established to combat the Neighbor menace through special weapons called \"Triggers.\" Even though several years have passed after the gate first opened, Neighbors are still a threat and members of Border remain on guard to ensure the safety of the planet.\n\nDespite this delicate situation, members-in-training, such as Osamu Mikumo, are not permitted to use their Triggers outside of headquarters. But when the mysterious new student in his class is dragged into a forbidden area by bullies, they are attacked by Neighbors, and Osamu has no choice but to do what he believes is right. Much to his surprise, however, the transfer student Yuuma Kuga makes short work of the aliens, revealing that he is a humanoid Neighbor in disguise.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "06:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 06:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1783/106843l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/2oui7JLlBpk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 24405,
+  "slug": "world-trigger"
 }

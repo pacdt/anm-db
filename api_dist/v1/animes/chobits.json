@@ -1,21 +1,51 @@
 {
-  "id": 59,
-  "slug": "chobits",
-  "type": "legendado",
+  "mal_id": 59,
+  "url": "https://myanimelist.net/anime/59/Chobits",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/24648.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/24648t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/24648l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/24648.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/24648t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/24648l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DxsPKYq4OSc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chobits"
+    },
+    {
+      "type": "Japanese",
+      "title": "ちょびっツ"
+    },
+    {
+      "type": "English",
+      "title": "Chobits"
+    }
+  ],
   "title": "Chobits",
   "title_english": "Chobits",
   "title_japanese": "ちょびっツ",
-  "image": "https://cdn.myanimelist.net/images/anime/4/24648l.webp",
-  "score": 7.39,
-  "synopsis": "When computers start to look like humans, can love remain the same?\n\nHideki Motosuwa is a young country boy who is studying hard to get into college. Coming from a poor background, he can barely afford the expenses, let alone the newest fad: Persocoms, personal computers that look exactly like human beings. One evening while walking home, he finds an abandoned Persocom. After taking her home and managing to activate her, she seems to be defective, as she can only say one word, \"Chii,\" which eventually becomes her name. Unlike other Persocoms, however, Chii cannot download information onto her hard drive, so Hideki decides to teach her about the world the old-fashioned way, while studying for his college entrance exams at the same time.\n\nAlong with his friends, Hideki tries to unravel the mystery of Chii, who may be a \"Chobit,\" an urban legend about special units that have real human emotions and thoughts, and love toward their owner. But can romance flourish between a Persocom and a human? \n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DxsPKYq4OSc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -137,5 +167,99 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxF2yMXvKw8bpD9jvWW4Mle3xCl9yPa2x3FhXztqfavlgzJKh3fYnLCOJCyoRM7reGcGQkJw3MBePyOmEE4OFBNrnVNapqkwnoyAER8LAErvrNoTWXq3T5LE7dyCTwRSDcv9nZ9",
       "nome": "Chi Wears And Takes Off"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-04-03T00:00:00+00:00",
+    "to": "2002-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2002
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2002
+      }
+    },
+    "string": "Apr 3, 2002 to Sep 25, 2002"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.39,
+  "scored_by": 263459,
+  "rank": 2534,
+  "popularity": 490,
+  "members": 508904,
+  "favorites": 4299,
+  "synopsis": "When computers start to look like humans, can love remain the same?\n\nHideki Motosuwa is a young country boy who is studying hard to get into college. Coming from a poor background, he can barely afford the expenses, let alone the newest fad: Persocoms, personal computers that look exactly like human beings. One evening while walking home, he finds an abandoned Persocom. After taking her home and managing to activate her, she seems to be defective, as she can only say one word, \"Chii,\" which eventually becomes her name. Unlike other Persocoms, however, Chii cannot download information onto her hard drive, so Hideki decides to teach her about the world the old-fashioned way, while studying for his college entrance exams at the same time.\n\nAlong with his friends, Hideki tries to unravel the mystery of Chii, who may be a \"Chobit,\" an urban legend about special units that have real human emotions and thoughts, and love toward their owner. But can romance flourish between a Persocom and a human? \n\n[Written by MAL Rewrite]",
+  "background": "The original episodes 9 and 18 are \"recap\" episodes, summarizing previous events. These episodes were re-numbered for the DVD release as episodes 8.5 and 16.5, respectively, and removed from their original sequence by being published together on the final DVD. (Source: Wikipedia)",
+  "season": "spring",
+  "year": 2002,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "02:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 02:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 204,
+      "type": "anime",
+      "name": "Pioneer LDC",
+      "url": "https://myanimelist.net/anime/producer/204/Pioneer_LDC"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/24648l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DxsPKYq4OSc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59,
+  "slug": "chobits"
 }

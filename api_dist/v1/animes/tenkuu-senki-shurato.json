@@ -1,18 +1,58 @@
 {
-  "id": 2113,
-  "slug": "tenkuu-senki-shurato",
-  "type": "legendado",
+  "mal_id": 2113,
+  "url": "https://myanimelist.net/anime/2113/Tenkuu_Senki_Shurato",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1989/92418.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1989/92418t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1989/92418l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1989/92418.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1989/92418t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1989/92418l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tenkuu Senki Shurato"
+    },
+    {
+      "type": "Synonym",
+      "title": "Heaven Wars Shurato"
+    },
+    {
+      "type": "Synonym",
+      "title": "Legend of Heavenly Sphere Shurato"
+    },
+    {
+      "type": "Japanese",
+      "title": "天空戦記シュラト"
+    }
+  ],
   "title": "Tenkuu Senki Shurato",
   "title_english": "Tenkuu Senki Shurato",
   "title_japanese": "天空戦記シュラト",
-  "image": "https://cdn.myanimelist.net/images/anime/1989/92418l.webp",
-  "score": 7.18,
-  "synopsis": "A 16-year-old boy named Shurato and his friend Gai happen to be drawn into a gigantic ball of light while competing in the final match of a martial arts tournament. When they regain their senses, they find themselves transferred to a mystic heavenly sphere with a divine atmosphere. It's soon discovered that Shurato used to be the governing king of this world and that he has only been brought to his original state. Shurato is shocked as Gai suddenly turns hostile. After this unfortunate incident, a spectacular yet fantastic drama develops involving the two.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Fantasy"
+  "title_synonyms": [
+    "Heaven Wars Shurato",
+    "Legend of Heavenly Sphere Shurato"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -204,5 +244,70 @@
       "url": "https://lightspeedst.net/s3/mp4/tenkuu-senki-shurato/sd/38.mp4",
       "nome": "Be Forever, Shura-Oh!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1989-04-06T00:00:00+00:00",
+    "to": "1990-01-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 1989
+      },
+      "to": {
+        "day": 18,
+        "month": 1,
+        "year": 1990
+      }
+    },
+    "string": "Apr 6, 1989 to Jan 18, 1990"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.18,
+  "scored_by": 5682,
+  "rank": 3633,
+  "popularity": 6449,
+  "members": 12646,
+  "favorites": 69,
+  "synopsis": "A 16-year-old boy named Shurato and his friend Gai happen to be drawn into a gigantic ball of light while competing in the final match of a martial arts tournament. When they regain their senses, they find themselves transferred to a mystic heavenly sphere with a divine atmosphere. It's soon discovered that Shurato used to be the governing king of this world and that he has only been brought to his original state. Shurato is shocked as Gai suddenly turns hostile. After this unfortunate incident, a spectacular yet fantastic drama develops involving the two.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 1989,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1989/92418l.webp",
+  "trailer_url": null,
+  "id": 2113,
+  "slug": "tenkuu-senki-shurato"
 }

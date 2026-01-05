@@ -1,19 +1,65 @@
 {
-  "id": 17909,
-  "slug": "uchouten-kazoku",
-  "type": "legendado",
+  "mal_id": 17909,
+  "url": "https://myanimelist.net/anime/17909/Uchouten_Kazoku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/85433.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85433t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85433l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/85433.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85433t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85433l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/QVu8qiE7Yv4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Uchouten Kazoku"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uchoten Kazoku"
+    },
+    {
+      "type": "Japanese",
+      "title": "有頂天家族"
+    },
+    {
+      "type": "English",
+      "title": "The Eccentric Family"
+    },
+    {
+      "type": "German",
+      "title": "The Eccentric Family"
+    },
+    {
+      "type": "French",
+      "title": "La Famille Excentrique"
+    }
+  ],
   "title": "Uchouten Kazoku",
   "title_english": "The Eccentric Family",
   "title_japanese": "有頂天家族",
-  "image": "https://cdn.myanimelist.net/images/anime/3/85433l.webp",
-  "score": 7.82,
-  "synopsis": "Kyoto has been populated by groups of tanuki and tengu for years, living alongside humans who are oblivious to the existence of these creatures. Yasaburou Shimogamo is the third son of an influential tanuki family who spends his carefree days taking care of an old tengu, observing humans through his ability to shapeshift, and dealing with the mysterious woman named Benten.\n\nBehind the peace and tranquility, however, is a painful memory from long ago as Yasaburou's father, head of the tanuki community, was killed and eaten by a group of humans known as the Friday Fellows. Uchouten Kazoku follows the trials and tribulations of the Shimogamo brothers as they struggle to avoid their own grisly demise while coming ever closer to unraveling the truth behind their father's death.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/QVu8qiE7Yv4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Award Winning",
-    "Drama",
-    "Supernatural"
+  "title_synonyms": [
+    "Uchoten Kazoku"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +126,121 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxMGucPK9bOiqWk2mIhnPjiMOSbzrZB5llwoE4cz8S3t259AhyuKa6YPcHWQlze0S3k1LJ0yIJHFM4rOs0J9TPA3441DcClPHH4rke0HJhrfLGWfqvk1HlKVt_IMnekwa5jV9sY",
       "nome": "The Eccentric Family"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-07T00:00:00+00:00",
+    "to": "2013-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 7, 2013 to Sep 29, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.82,
+  "scored_by": 67705,
+  "rank": 1044,
+  "popularity": 1435,
+  "members": 188354,
+  "favorites": 1539,
+  "synopsis": "Kyoto has been populated by groups of tanuki and tengu for years, living alongside humans who are oblivious to the existence of these creatures. Yasaburou Shimogamo is the third son of an influential tanuki family who spends his carefree days taking care of an old tengu, observing humans through his ability to shapeshift, and dealing with the mysterious woman named Benten.\n\nBehind the peace and tranquility, however, is a painful memory from long ago as Yasaburou's father, head of the tanuki community, was killed and eaten by a group of humans known as the Friday Fellows. Uchouten Kazoku follows the trials and tribulations of the Shimogamo brothers as they struggle to avoid their own grisly demise while coming ever closer to unraveling the truth behind their father's death.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 158,
+      "type": "anime",
+      "name": "Kids Station",
+      "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 132,
+      "type": "anime",
+      "name": "P.A. Works",
+      "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+    }
+  ],
+  "genres": [
+    "Award Winning",
+    "Drama",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/85433l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/QVu8qiE7Yv4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 17909,
+  "slug": "uchouten-kazoku"
 }

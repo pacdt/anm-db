@@ -1,18 +1,62 @@
 {
-  "id": 3470,
-  "slug": "special-a",
-  "type": "legendado",
+  "mal_id": 3470,
+  "url": "https://myanimelist.net/anime/3470/Special_A",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/77363.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/77363t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/77363l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/77363.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/77363t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/77363l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Special A"
+    },
+    {
+      "type": "Synonym",
+      "title": "S.A."
+    },
+    {
+      "type": "Synonym",
+      "title": "Special A Class"
+    },
+    {
+      "type": "Japanese",
+      "title": "スペシャル・エー"
+    },
+    {
+      "type": "English",
+      "title": "Special A (S.A)"
+    }
+  ],
   "title": "Special A",
   "title_english": "Special A (S.A)",
   "title_japanese": "スペシャル・エー",
-  "image": "https://cdn.myanimelist.net/images/anime/8/77363l.webp",
-  "score": 7.5,
-  "synopsis": "Hikari Hanazono has always been able to do things that normal people cannot. As a child, she assumed no one could beat her—until she met Kei Takishima. Thinking she would win, Hikari challenged him to a match. But things didn’t go as planned; she lost not once but each time she rechallenged him. From that point on, she has sworn to best Kei at everything, ranging from academics to athletics.\n\nTo achieve her goal, Hikari enrolls in the same school as Kei—Hakusenkan, a prestigious institute for the wealthy. As a pair, they hold the top two rankings in school and are among seven of the academy's best students in a class known as Special A.\n\nWhile Hikari treats Kei as a rival, she is completely oblivious that he harbors hidden feelings for her. Together, the members of Special A deal with competition, friendship, and just a bit of love.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "S.A.",
+    "Special A Class"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -134,5 +178,97 @@
       "url": "https://lightspeedst.net/s3/mp4/special-a/sd/24.mp4",
       "nome": "Hanazono Hikari & Takishima Kei"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-04-07T00:00:00+00:00",
+    "to": "2008-09-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2008
+      },
+      "to": {
+        "day": 15,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Apr 7, 2008 to Sep 15, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.5,
+  "scored_by": 192005,
+  "rank": 2067,
+  "popularity": 695,
+  "members": 382009,
+  "favorites": 2806,
+  "synopsis": "Hikari Hanazono has always been able to do things that normal people cannot. As a child, she assumed no one could beat her—until she met Kei Takishima. Thinking she would win, Hikari challenged him to a match. But things didn’t go as planned; she lost not once but each time she rechallenged him. From that point on, she has sworn to best Kei at everything, ranging from academics to athletics.\n\nTo achieve her goal, Hikari enrolls in the same school as Kei—Hakusenkan, a prestigious institute for the wealthy. As a pair, they hold the top two rankings in school and are among seven of the academy's best students in a class known as Special A.\n\nWhile Hikari treats Kei as a rival, she is completely oblivious that he harbors hidden feelings for her. Together, the members of Special A deal with competition, friendship, and just a bit of love.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/77363l.webp",
+  "trailer_url": null,
+  "id": 3470,
+  "slug": "special-a"
 }

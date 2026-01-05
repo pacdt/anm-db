@@ -1,17 +1,62 @@
 {
-  "id": 3841,
-  "slug": "chi-s-sweet-home",
-  "type": "legendado",
+  "mal_id": 3841,
+  "url": "https://myanimelist.net/anime/3841/Chis_Sweet_Home",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/7632.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/7632t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/7632l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/7632.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/7632t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/7632l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chi's Sweet Home"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chii's Sweet Home"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chiizu"
+    },
+    {
+      "type": "Japanese",
+      "title": "チーズスイートホーム"
+    },
+    {
+      "type": "French",
+      "title": "Chi une vie de chat"
+    }
+  ],
   "title": "Chi's Sweet Home",
   "title_english": "Chi's Sweet Home",
   "title_japanese": "チーズスイートホーム",
-  "image": "https://cdn.myanimelist.net/images/anime/6/7632l.webp",
-  "score": 7.67,
-  "synopsis": "One day, a small kitten named Chi is found by a young boy named Youhei and his mother. They decide to bring her back to their home to live with them despite their apartment's rules against keeping any pets. Chi, Youhei, and Youhei's parents cherish their time together as they make new friends, good memories, and have fun times together.\n\nThese short adventures revolve around the daily life of Chi and her family, in addition to the many friends that they make along the way. No matter what trouble Chi ends up getting into, she knows that her family will always love her!\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Chii's Sweet Home",
+    "Chiizu"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -533,5 +578,96 @@
       "url": "https://lightspeedst.net/s4/mp4/chi-s-sweet-home/sd/104.mp4",
       "nome": "Chi Discovers"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-03-31T00:00:00+00:00",
+    "to": "2008-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 3,
+        "year": 2008
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Mar 31, 2008 to Sep 25, 2008"
+  },
+  "duration": "3 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.67,
+  "scored_by": 28366,
+  "rank": 1442,
+  "popularity": 2954,
+  "members": 68158,
+  "favorites": 467,
+  "synopsis": "One day, a small kitten named Chi is found by a young boy named Youhei and his mother. They decide to bring her back to their home to live with them despite their apartment's rules against keeping any pets. Chi, Youhei, and Youhei's parents cherish their time together as they make new friends, good memories, and have fun times together.\n\nThese short adventures revolve around the daily life of Chi and her family, in addition to the many friends that they make along the way. No matter what trouble Chi ends up getting into, she knows that her family will always love her!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Not scheduled once per week"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 1488,
+      "type": "anime",
+      "name": "Hakuhodo DY Media Partners",
+      "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 71,
+      "type": "anime",
+      "name": "Pets",
+      "url": "https://myanimelist.net/anime/genre/71/Pets"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/7632l.webp",
+  "trailer_url": null,
+  "id": 3841,
+  "slug": "chi-s-sweet-home"
 }

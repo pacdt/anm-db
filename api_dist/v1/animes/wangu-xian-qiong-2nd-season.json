@@ -1,19 +1,73 @@
 {
-  "id": 37294,
-  "slug": "wangu-xian-qiong-2nd-season",
-  "type": "legendado",
+  "mal_id": 37294,
+  "url": "https://myanimelist.net/anime/37294/Wangu_Xian_Qiong_II",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1102/93891.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/93891t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/93891l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1102/93891.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/93891t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/93891l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wangu Xian Qiong II"
+    },
+    {
+      "type": "Synonym",
+      "title": "Everlasting Immortal Firmament 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ancient Celestial Firmament 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ancient Divine Pinnacle 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wangu Xian Qiong 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "万古仙穹 第二季"
+    },
+    {
+      "type": "Japanese",
+      "title": "万古仙穹 Ⅱ"
+    }
+  ],
   "title": "Wangu Xian Qiong II",
   "title_english": "Wangu Xian Qiong II",
   "title_japanese": "万古仙穹 Ⅱ",
-  "image": "https://cdn.myanimelist.net/images/anime/1102/93891l.webp",
-  "score": 6.71,
-  "synopsis": "Second season of Wangu Xian Qiong.",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Everlasting Immortal Firmament 2nd Season",
+    "Ancient Celestial Firmament 2nd Season",
+    "Ancient Divine Pinnacle 2nd Season",
+    "Wangu Xian Qiong 2nd Season",
+    "万古仙穹 第二季"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +117,77 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxfTcnrM3f73L8ubHWPT6CWM9BygPfuiq9Z4Oavaz89CKTkgapmpfSb0VnzeEz8aS3Q35rECk9f1r2YKfsN7beYieqsgighI9z1cYuTurycVIgauIpSep_3QUFqLfEg6dA4xFw"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-03-15T00:00:00+00:00",
+    "to": "2018-05-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 3,
+        "year": 2018
+      },
+      "to": {
+        "day": 31,
+        "month": 5,
+        "year": 2018
+      }
+    },
+    "string": "Mar 15, 2018 to May 31, 2018"
+  },
+  "duration": "15 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.71,
+  "scored_by": 778,
+  "rank": 6070,
+  "popularity": 11172,
+  "members": 2908,
+  "favorites": 4,
+  "synopsis": "Second season of Wangu Xian Qiong.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1806,
+      "type": "anime",
+      "name": "iQIYI",
+      "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1325,
+      "type": "anime",
+      "name": "Haoliners Animation",
+      "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation"
+    },
+    {
+      "mal_id": 2048,
+      "type": "anime",
+      "name": "ASK Animation Studio",
+      "url": "https://myanimelist.net/anime/producer/2048/ASK_Animation_Studio"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1102/93891l.webp",
+  "trailer_url": null,
+  "id": 37294,
+  "slug": "wangu-xian-qiong-2nd-season"
 }

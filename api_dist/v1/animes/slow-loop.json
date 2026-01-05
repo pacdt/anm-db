@@ -1,18 +1,51 @@
 {
-  "id": 45425,
-  "slug": "slow-loop",
-  "type": "legendado",
+  "mal_id": 45425,
+  "url": "https://myanimelist.net/anime/45425/Slow_Loop",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1360/119608.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/119608t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/119608l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1360/119608.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1360/119608t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1360/119608l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/LyxCk1GUais?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Slow Loop"
+    },
+    {
+      "type": "Japanese",
+      "title": "スローループ"
+    },
+    {
+      "type": "English",
+      "title": "Slow Loop"
+    }
+  ],
   "title": "Slow Loop",
   "title_english": "Slow Loop",
   "title_japanese": "スローループ",
-  "image": "https://cdn.myanimelist.net/images/anime/1360/119608l.webp",
-  "score": 7.25,
-  "synopsis": "Since childhood, Hiyori Yamakawa has witnessed her father's various eccentricities, but one activity she has always loved doing with him is fly fishing—a complicated yet rewarding method of catching fish. Even after his sudden death, Hiyori still visits the seaside in her spare time, savoring the joy that her father's memento brings her.\n\nThree years later, Hiyori's mother decides to remarry and arranges a dinner with her fiancé, his daughter, and Hiyori to celebrate. Anxious and wanting to pass the time, Hiyori goes to her usual fishing spot when a rather energetic girl named Koharu Minagi suddenly appears before her. The two soon become acquainted, with Koharu taking an interest in fly fishing herself. However, their meeting is more than just a coincidence: Koharu turns out to be Hiyori's future stepsibling, which is only the beginning of treasured memories the both of them will reel in as they foster their sisterhood.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/LyxCk1GUais?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Gourmet",
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,113 @@
       "url": "https://lightspeedst.net/s1/mp4/slow-loop/sd/12.mp4",
       "nome": "Let's Pick Some Out Together"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-01-07T00:00:00+00:00",
+    "to": "2022-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2022
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2022
+      }
+    },
+    "string": "Jan 7, 2022 to Mar 25, 2022"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.25,
+  "scored_by": 25364,
+  "rank": 3213,
+  "popularity": 2911,
+  "members": 69864,
+  "favorites": 296,
+  "synopsis": "Since childhood, Hiyori Yamakawa has witnessed her father's various eccentricities, but one activity she has always loved doing with him is fly fishing—a complicated yet rewarding method of catching fish. Even after his sudden death, Hiyori still visits the seaside in her spare time, savoring the joy that her father's memento brings her.\n\nThree years later, Hiyori's mother decides to remarry and arranges a dinner with her fiancé, his daughter, and Hiyori to celebrate. Anxious and wanting to pass the time, Hiyori goes to her usual fishing spot when a rather energetic girl named Koharu Minagi suddenly appears before her. The two soon become acquainted, with Koharu taking an interest in fly fishing herself. However, their meeting is more than just a coincidence: Koharu turns out to be Hiyori's future stepsibling, which is only the beginning of treasured memories the both of them will reel in as they foster their sisterhood.\n\n[Written by MAL Rewrite]",
+  "background": "Slow Loop was released on Blu-ray and DVD in three volumes from March 30, 2022 to May 25, 2022.",
+  "season": "winter",
+  "year": 2022,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 797,
+      "type": "anime",
+      "name": "Houbunsha",
+      "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2380,
+      "type": "anime",
+      "name": "eStream",
+      "url": "https://myanimelist.net/anime/producer/2380/eStream"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 957,
+      "type": "anime",
+      "name": "Connect",
+      "url": "https://myanimelist.net/anime/producer/957/Connect"
+    }
+  ],
+  "genres": [
+    "Gourmet",
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1360/119608l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/LyxCk1GUais?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 45425,
+  "slug": "slow-loop"
 }

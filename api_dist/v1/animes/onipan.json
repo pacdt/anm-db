@@ -1,18 +1,51 @@
 {
-  "id": 50955,
-  "slug": "onipan",
-  "type": "legendado",
+  "mal_id": 50955,
+  "url": "https://myanimelist.net/anime/50955/Onipan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1278/120805.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/120805t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/120805l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1278/120805.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/120805t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/120805l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/z1024ituhXU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Onipan!"
+    },
+    {
+      "type": "Japanese",
+      "title": "おにぱん！"
+    },
+    {
+      "type": "English",
+      "title": "Onipan!"
+    }
+  ],
   "title": "Onipan!",
   "title_english": "Onipan!",
   "title_japanese": "おにぱん！",
-  "image": "https://cdn.myanimelist.net/images/anime/1278/120805l.webp",
-  "score": 6.5,
-  "synopsis": "Three oni-kids who, through the power of the onipan (a portmanteau of \"oni\" and \"pantsu\") become human to help fix the relationship between humans and oni. The three girls transfer into a normal Tokyo high school to aid in their task and help fix their image by revitalizing the town, sometimes jumping headfirst into school events, and other times...becoming idols!\n\n(Source: Crunchyroll News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/z1024ituhXU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -38,5 +71,84 @@
       "numero": 6,
       "url": "https://lightspeedst.net/s4/mp4_temp/onipan/6/720p.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-04-11T00:00:00+00:00",
+    "to": "2022-07-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2022
+      },
+      "to": {
+        "day": 1,
+        "month": 7,
+        "year": 2022
+      }
+    },
+    "string": "Apr 11, 2022 to Jul 1, 2022"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG - Children",
+  "score": 6.5,
+  "scored_by": 4758,
+  "rank": 7411,
+  "popularity": 5707,
+  "members": 17253,
+  "favorites": 44,
+  "synopsis": "Three oni-kids who, through the power of the onipan (a portmanteau of \"oni\" and \"pantsu\") become human to help fix the relationship between humans and oni. The three girls transfer into a normal Tokyo high school to aid in their task and help fix their image by revitalizing the town, sometimes jumping headfirst into school events, and other times...becoming idols!\n\n(Source: Crunchyroll News)",
+  "background": "",
+  "season": "spring",
+  "year": 2022,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Not scheduled once per week"
+  },
+  "producers": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1278/120805l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/z1024ituhXU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50955,
+  "slug": "onipan"
 }

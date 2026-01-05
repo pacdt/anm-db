@@ -1,18 +1,57 @@
 {
-  "id": 54103,
-  "slug": "hikikomari-kyuuketsuki-no-monmon",
-  "type": "legendado",
+  "mal_id": 54103,
+  "url": "https://myanimelist.net/anime/54103/Hikikomari_Kyuuketsuki_no_Monmon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1032/137893.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/137893t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/137893l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1032/137893.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/137893t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/137893l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/YRDSausZ4_g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hikikomari Kyuuketsuki no Monmon"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Shut-In Vampire Princess' Worries"
+    },
+    {
+      "type": "Japanese",
+      "title": "ひきこまり吸血姫の悶々"
+    },
+    {
+      "type": "English",
+      "title": "The Vexations of a Shut-In Vampire Princess"
+    }
+  ],
   "title": "Hikikomari Kyuuketsuki no Monmon",
   "title_english": "The Vexations of a Shut-In Vampire Princess",
   "title_japanese": "ひきこまり吸血姫の悶々",
-  "image": "https://cdn.myanimelist.net/images/anime/1032/137893l.webp",
-  "score": 7.14,
-  "synopsis": "In a world where death is not permanent, Terakomari \"Komari\" Gandesblood has been a self-proclaimed professional shut-in for the past three years. As part of the noble Gandesblood lineage, she once tried to meet the expectations of her family. However, as a vampire who cannot use magic or consume blood, she soon gave up on becoming an imperial general like her ancestors. Unfortunately, a misunderstanding with her father earns her the formidable position of one of the Seven Crimson Lords, the strongest fighters and generals in the Mulnite Empire. \n\nNow, Komari must hide her lack of talent from the soldiers she commands, or they may attempt to overthrow her. Working alongside her newly-assigned maid, Villhaze, Komari manages to trick her unit of soldiers into believing she is a ruthless warlord and promises to conquer the world. But as more people come to admire Komari, her life is further threatened as a vampire from her past reappears with every intention to kill her for good.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/YRDSausZ4_g?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "The Shut-In Vampire Princess' Worries"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,132 @@
       "url": "https://lightspeedst.net/s6/mp4/hikikomari-kyuuketsuki-no-monmon/hd/12.mp4",
       "nome": "A Golden World"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-07T00:00:00+00:00",
+    "to": "2023-12-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 30,
+        "month": 12,
+        "year": 2023
+      }
+    },
+    "string": "Oct 7, 2023 to Dec 30, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.14,
+  "scored_by": 49369,
+  "rank": 3867,
+  "popularity": 1950,
+  "members": 129544,
+  "favorites": 836,
+  "synopsis": "In a world where death is not permanent, Terakomari \"Komari\" Gandesblood has been a self-proclaimed professional shut-in for the past three years. As part of the noble Gandesblood lineage, she once tried to meet the expectations of her family. However, as a vampire who cannot use magic or consume blood, she soon gave up on becoming an imperial general like her ancestors. Unfortunately, a misunderstanding with her father earns her the formidable position of one of the Seven Crimson Lords, the strongest fighters and generals in the Mulnite Empire. \n\nNow, Komari must hide her lack of talent from the soldiers she commands, or they may attempt to overthrow her. Working alongside her newly-assigned maid, Villhaze, Komari manages to trick her unit of soldiers into believing she is a ruthless warlord and promises to conquer the world. But as more people come to admire Komari, her life is further threatened as a vampire from her past reappears with every intention to kill her for good.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1542,
+      "type": "anime",
+      "name": "DMM.com",
+      "url": "https://myanimelist.net/anime/producer/1542/DMMcom"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 1899,
+      "type": "anime",
+      "name": "Good Smile Film",
+      "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2117,
+      "type": "anime",
+      "name": "SB Creative",
+      "url": "https://myanimelist.net/anime/producer/2117/SB_Creative"
+    },
+    {
+      "mal_id": 2634,
+      "type": "anime",
+      "name": "Yostar",
+      "url": "https://myanimelist.net/anime/producer/2634/Yostar"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 439,
+      "type": "anime",
+      "name": "Project No.9",
+      "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1032/137893l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/YRDSausZ4_g?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54103,
+  "slug": "hikikomari-kyuuketsuki-no-monmon"
 }

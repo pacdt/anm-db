@@ -1,18 +1,51 @@
 {
-  "id": 39988,
-  "slug": "isekai-quartet-2",
-  "type": "legendado",
+  "mal_id": 39988,
+  "url": "https://myanimelist.net/anime/39988/Isekai_Quartet_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1030/103383t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1030/103383l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1030/103383.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1030/103383t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1030/103383l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DgAW7Nlcqlw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Isekai Quartet 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "異世界かるてっと2"
+    },
+    {
+      "type": "English",
+      "title": "Isekai Quartet2"
+    }
+  ],
   "title": "Isekai Quartet 2",
   "title_english": "Isekai Quartet2",
   "title_japanese": "異世界かるてっと2",
-  "image": "https://cdn.myanimelist.net/images/anime/1030/103383l.webp",
-  "score": 7.36,
-  "synopsis": "Despite completing all the tasks given to them, Ainz Ooal Gown, Tanya Degurechaff, Kazuma Satou, Subaru Natsuki, and the other members of Class 2 are surprised to find out that their role as students is far from over. With no means of returning home, the class of eccentric personalities is still mysteriously stuck in the unfamiliar world. Although, as they are becoming quite fond of each other, spending more time together does not sound that bad.\n\nWith the unexpected arrival of new transfer students, the comedic antics of our beloved characters continue to grow. Thus, their bizarre yet nonchalant school life continues.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DgAW7Nlcqlw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxQBiL3tD0beMICQUT0VF5p06U6pxzScy0Abc-VNldQDGctnuEganKalnHMpVnecWpy-yolkpX8Guk99Rg46uPAu8m4-eOUG9OeEDNFfAWVMskOy7DSCELTPvTSdQvV27sDN0g",
       "nome": "The Show Begins! Showtime"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-15T00:00:00+00:00",
+    "to": "2020-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      }
+    },
+    "string": "Jan 15, 2020 to Apr 1, 2020"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.36,
+  "scored_by": 150634,
+  "rank": 2624,
+  "popularity": 1082,
+  "members": 252826,
+  "favorites": 267,
+  "synopsis": "Despite completing all the tasks given to them, Ainz Ooal Gown, Tanya Degurechaff, Kazuma Satou, Subaru Natsuki, and the other members of Class 2 are surprised to find out that their role as students is far from over. With no means of returning home, the class of eccentric personalities is still mysteriously stuck in the unfamiliar world. Although, as they are becoming quite fond of each other, spending more time together does not sound that bad.\n\nWith the unexpected arrival of new transfer students, the comedic antics of our beloved characters continue to grow. Thus, their bizarre yet nonchalant school life continues.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 443,
+      "type": "anime",
+      "name": "Studio PuYUKAI",
+      "url": "https://myanimelist.net/anime/producer/443/Studio_PuYUKAI"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1030/103383l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DgAW7Nlcqlw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39988,
+  "slug": "isekai-quartet-2"
 }

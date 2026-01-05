@@ -1,19 +1,53 @@
 {
-  "id": 5032,
-  "slug": "cobra-the-animation",
-  "type": "legendado",
+  "mal_id": 5032,
+  "url": "https://myanimelist.net/anime/5032/Cobra_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/18900.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/18900t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/18900l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/18900.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/18900t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/18900l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cobra The Animation"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cobra The Animation: Rokunin no Yuushi"
+    },
+    {
+      "type": "Japanese",
+      "title": "COBRA THE ANIMATION"
+    }
+  ],
   "title": "Cobra The Animation",
   "title_english": "Cobra The Animation",
   "title_japanese": "COBRA THE ANIMATION",
-  "image": "https://cdn.myanimelist.net/images/anime/13/18900l.webp",
-  "score": 7.07,
-  "synopsis": "This Cobra adaptation features short arcs of Cobra saving the world, his friends or himself.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Cobra The Animation: Rokunin no Yuushi"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +114,98 @@
       "url": "https://lightspeedst.net/s3/mp4/cobra-the-animation/sd/13.mp4",
       "nome": "Distant Memories"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-01-02T00:00:00+00:00",
+    "to": "2010-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 1,
+        "year": 2010
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2010
+      }
+    },
+    "string": "Jan 2, 2010 to Mar 27, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.07,
+  "scored_by": 4053,
+  "rank": 4234,
+  "popularity": 6958,
+  "members": 10541,
+  "favorites": 29,
+  "synopsis": "This Cobra adaptation features short arcs of Cobra saving the world, his friends or himself.",
+  "background": "",
+  "season": "winter",
+  "year": 2010,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 787,
+      "type": "anime",
+      "name": "Happinet Pictures",
+      "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 207,
+      "type": "anime",
+      "name": "Magic Bus",
+      "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/13/18900l.webp",
+  "trailer_url": null,
+  "id": 5032,
+  "slug": "cobra-the-animation"
 }

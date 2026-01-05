@@ -1,15 +1,53 @@
 {
-  "id": 36763,
-  "slug": "himawari",
-  "type": "legendado",
+  "mal_id": 36763,
+  "url": "https://myanimelist.net/anime/36763/Himawari",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/88895.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88895t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88895l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/88895.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/88895t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/88895l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Himawari"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mr. Children: Himawari"
+    },
+    {
+      "type": "Japanese",
+      "title": "himawari"
+    }
+  ],
   "title": "Himawari",
   "title_english": "Himawari",
   "title_japanese": "himawari",
-  "image": "https://cdn.myanimelist.net/images/anime/10/88895l.webp",
-  "score": 6.03,
-  "synopsis": "A music video for Mr. Children's song \"Himawari.\"",
-  "trailer_url": null,
-  "genres": [],
+  "title_synonyms": [
+    "Mr. Children: Himawari"
+  ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +101,67 @@
       "numero": 13,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzFKQ_pDvSGbUreekLxMZ7xZ6PzMQM73UULI1Ysn7fQgZ9k04iesUVffjijGky23FVnGNrSvGIS_cX5_xE2gzCHUMjQlDF9FfIqSSXdx67pTBvNs7HFWYo8R0uqq3AIUDfL5EVq"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-09-09T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 9,
+        "year": 2017
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 9, 2017"
+  },
+  "duration": "6 min",
+  "rating": "G - All Ages",
+  "score": 6.03,
+  "scored_by": 206,
+  "rank": null,
+  "popularity": 18841,
+  "members": 441,
+  "favorites": 0,
+  "synopsis": "A music video for Mr. Children's song \"Himawari.\"",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1390,
+      "type": "anime",
+      "name": "Toy's Factory",
+      "url": "https://myanimelist.net/anime/producer/1390/Toys_Factory"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/88895l.webp",
+  "trailer_url": null,
+  "id": 36763,
+  "slug": "himawari"
 }

@@ -1,19 +1,57 @@
 {
-  "id": 37185,
-  "slug": "ze-tian-ji-3rd-season",
-  "type": "legendado",
+  "mal_id": 37185,
+  "url": "https://myanimelist.net/anime/37185/Ze_Tian_Ji_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1724/90239.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1724/90239t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1724/90239l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1724/90239.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1724/90239t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1724/90239l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/PZK3F7b_oTc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ze Tian Ji 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fighter of the Destiny"
+    },
+    {
+      "type": "Japanese",
+      "title": "择天记 第三季"
+    },
+    {
+      "type": "English",
+      "title": "Way of Choices"
+    }
+  ],
   "title": "Ze Tian Ji 3rd Season",
   "title_english": "Way of Choices",
   "title_japanese": "择天记 第三季",
-  "image": "https://cdn.myanimelist.net/images/anime/1724/90239l.webp",
-  "score": 6.96,
-  "synopsis": "The third season of Ze Tian Ji.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/PZK3F7b_oTc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Fighter of the Destiny"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +101,84 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dx00KDBoZlIV3yVcQ6O41LerSHyP5HiceC3j1eak2CfO1A1N0akckm5FjiO87zT8A2WMTBR6DPVaOh2xS5w-xukrQuvGnLrbOUnsOkon_U9rheQS6k_N3N1PwHqklIchlqLCTWa"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-26T00:00:00+00:00",
+    "to": "2017-10-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": 11,
+        "month": 10,
+        "year": 2017
+      }
+    },
+    "string": "Jul 26, 2017 to Oct 11, 2017"
+  },
+  "duration": "20 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.96,
+  "scored_by": 1289,
+  "rank": 4768,
+  "popularity": 10397,
+  "members": 3617,
+  "favorites": 5,
+  "synopsis": "The third season of Ze Tian Ji.",
+  "background": "Episodes 26-37 of Ze Tian Ji.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1667,
+      "type": "anime",
+      "name": "Foch Film",
+      "url": "https://myanimelist.net/anime/producer/1667/Foch_Film"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1724/90239l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/PZK3F7b_oTc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37185,
+  "slug": "ze-tian-ji-3rd-season"
 }

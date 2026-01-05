@@ -1,17 +1,67 @@
 {
-  "id": 50425,
-  "slug": "fuufu-ijou-koibito-miman",
-  "type": "legendado",
+  "mal_id": 50425,
+  "url": "https://myanimelist.net/anime/50425/Fuufu_Ijou_Koibito_Miman",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1713/126442.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1713/126442t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1713/126442l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1713/126442.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1713/126442t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1713/126442l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/l5D8xknhQNA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fuufu Ijou, Koibito Miman."
+    },
+    {
+      "type": "Synonym",
+      "title": "More than a Couple"
+    },
+    {
+      "type": "Synonym",
+      "title": "Less than Lovers."
+    },
+    {
+      "type": "Synonym",
+      "title": "Fuukoi"
+    },
+    {
+      "type": "Japanese",
+      "title": "夫婦以上、恋人未満。"
+    },
+    {
+      "type": "English",
+      "title": "More than a Married Couple, but Not Lovers."
+    }
+  ],
   "title": "Fuufu Ijou, Koibito Miman.",
   "title_english": "More than a Married Couple, but Not Lovers.",
   "title_japanese": "夫婦以上、恋人未満。",
-  "image": "https://cdn.myanimelist.net/images/anime/1713/126442l.webp",
-  "score": 7.59,
-  "synopsis": "Third-year high school student Jirou Yakuin is in love with his childhood friend and classmate, Shiori Sakurazaka. Thus, he hopes to be paired with her for the marriage practical: their school's practice of randomly selecting boy-girl pairs to live as pretend married couples while monitoring and rating them on how close they have gotten. Meanwhile, the lively Akari Watanabe wants to be assigned to her crush, the popular and good-looking Minami Tenjin.\n\nMuch to their dismay, Jirou and Akari find out that not only have they been paired together, but so have Shiori and Minami! Determined to be with their crushes, Jirou and Akari strive to earn as many points as possible, as the top 10 pairs earn the right to switch their partners—so long as both couples agree.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/l5D8xknhQNA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Romance"
+  "title_synonyms": [
+    "More than a Couple",
+    "Less than Lovers.",
+    "Fuukoi"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +123,131 @@
       "url": "https://lightspeedst.net/s5/mp4/fuufu-ijou-koibito-miman/fhd/12.mp4",
       "nome": "Done, Being Less Than Love."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-09T00:00:00+00:00",
+    "to": "2022-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 9, 2022 to Dec 25, 2022"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.59,
+  "scored_by": 221356,
+  "rank": 1707,
+  "popularity": 647,
+  "members": 407484,
+  "favorites": 4686,
+  "synopsis": "Third-year high school student Jirou Yakuin is in love with his childhood friend and classmate, Shiori Sakurazaka. Thus, he hopes to be paired with her for the marriage practical: their school's practice of randomly selecting boy-girl pairs to live as pretend married couples while monitoring and rating them on how close they have gotten. Meanwhile, the lively Akari Watanabe wants to be assigned to her crush, the popular and good-looking Minami Tenjin.\n\nMuch to their dismay, Jirou and Akari find out that not only have they been paired together, but so have Shiori and Minami! Determined to be with their crushes, Jirou and Akari strive to earn as many points as possible, as the top 10 pairs earn the right to switch their partners—so long as both couples agree.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1598,
+      "type": "anime",
+      "name": "Exa International",
+      "url": "https://myanimelist.net/anime/producer/1598/Exa_International"
+    },
+    {
+      "mal_id": 1604,
+      "type": "anime",
+      "name": "Sun TV",
+      "url": "https://myanimelist.net/anime/producer/1604/Sun_TV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2246,
+      "type": "anime",
+      "name": "studio MOTHER",
+      "url": "https://myanimelist.net/anime/producer/2246/studio_MOTHER"
+    }
+  ],
+  "genres": [
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1713/126442l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/l5D8xknhQNA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50425,
+  "slug": "fuufu-ijou-koibito-miman"
 }

@@ -1,23 +1,127 @@
 {
-  "id": 31980,
-  "slug": "okusama-ga-seitokaichou-seitokaichou-to-ofuro-asobi",
-  "type": "legendado",
+  "mal_id": 31980,
+  "url": "https://myanimelist.net/anime/31980/Okusama_ga_Seitokaichou_Seitokaichou_to_Ofuro_Asobi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/78265.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/78265t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/78265l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/78265.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/78265t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/78265l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Okusama ga Seitokaichou! OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "おくさまが生徒会長！ 生徒会長とお風呂遊び"
+    },
+    {
+      "type": "English",
+      "title": "My Wife is the Student Council President OVA"
+    }
+  ],
   "title": "Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi",
   "title_english": "My Wife is the Student Council President OVA",
   "title_japanese": "おくさまが生徒会長！ 生徒会長とお風呂遊び",
-  "image": "https://cdn.myanimelist.net/images/anime/12/78265l.webp",
-  "score": 6.71,
-  "synopsis": "The student council president, Ui Wakana, organizes a campaign encouraging the act of holding hands. While Ui hangs up posters, her husband and vice president, Hayato Izumi, injures his hand when he tries to save her from falling. Feeling guilty and wanting to make up for the incident, Ui assists Izumi with bathing—even when he insists that he does not need help.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Okusama ga Seitokaichou! OVA"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dw7RTdy5Zdq9sGiLLyjcNavjyoM12UJA45GYgZRw_7OMwQUixI4iJcBdqZJd1U9-j8JE09brxlUiKlKRkFtBzEXCAN9-mRW-TK1VLc6jMgcThbu-_0t_XwMvXfTxHqQ9YzpnxPQ"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-01-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 1,
+        "year": 2016
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 27, 2016"
+  },
+  "duration": "10 min",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.71,
+  "scored_by": 25494,
+  "rank": 6124,
+  "popularity": 3529,
+  "members": 49314,
+  "favorites": 19,
+  "synopsis": "The student council president, Ui Wakana, organizes a campaign encouraging the act of holding hands. While Ui hangs up posters, her husband and vice president, Hayato Izumi, injures his hand when he tries to save her from falling. Feeling guilty and wanting to make up for the incident, Ui assists Izumi with bathing—even when he insists that he does not need help.\n\n[Written by MAL Rewrite]",
+  "background": "Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi was bundled with the release of the ninth volume of the Okusama ga Seitokaichou! manga.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 541,
+      "type": "anime",
+      "name": "Seven",
+      "url": "https://myanimelist.net/anime/producer/541/Seven"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/78265l.webp",
+  "trailer_url": null,
+  "id": 31980,
+  "slug": "okusama-ga-seitokaichou-seitokaichou-to-ofuro-asobi"
 }

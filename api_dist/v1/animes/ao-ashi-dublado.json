@@ -1,17 +1,51 @@
 {
-  "id": 49052,
-  "slug": "ao-ashi-dublado",
-  "type": "dublado",
+  "mal_id": 49052,
+  "url": "https://myanimelist.net/anime/49052/Ao_Ashi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1731/120871.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1731/120871t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1731/120871l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1731/120871.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1731/120871t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1731/120871l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/PQbCVl_CDzI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ao Ashi"
+    },
+    {
+      "type": "Japanese",
+      "title": "アオアシ"
+    },
+    {
+      "type": "English",
+      "title": "Aoashi"
+    }
+  ],
   "title": "Ao Ashi",
   "title_english": "Aoashi",
   "title_japanese": "アオアシ",
-  "image": "https://cdn.myanimelist.net/images/anime/1731/120871l.webp",
-  "score": 8.15,
-  "synopsis": "In a quiet rural town, the spotlight of a local junior high school football team rests on one player: Ashito Aoi. Known for his unpredictable moves and self-centered playing style, Ashito is the sole powerhouse pushing his team through an important high school preliminary tournament. However, their win streak is short-lived—an opponent causes Ashito to lose his temper and act violently, resulting in his removal from the rest of the game.\n\nWithout their star player, the team is quickly eliminated from the tournament. Just as he believes all hope is lost, Ashito is approached by a youth team coach named Tatsuya Fukuda who senses potential in him, and Fukuda invites him for tryouts in Tokyo. In an unfamiliar setting surrounded by talent, Ashito must bring out the best of his ability to prove himself and secure what could be a life-changing career.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/PQbCVl_CDzI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -133,5 +167,108 @@
       "url": "https://lightspeedst.net/s3/mp4/ao-ashi-dublado/fhd/24.mp4",
       "nome": "From Now"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-04-09T00:00:00+00:00",
+    "to": "2022-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2022
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2022
+      }
+    },
+    "string": "Apr 9, 2022 to Sep 24, 2022"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.15,
+  "scored_by": 126633,
+  "rank": 487,
+  "popularity": 1101,
+  "members": 249512,
+  "favorites": 3419,
+  "synopsis": "In a quiet rural town, the spotlight of a local junior high school football team rests on one player: Ashito Aoi. Known for his unpredictable moves and self-centered playing style, Ashito is the sole powerhouse pushing his team through an important high school preliminary tournament. However, their win streak is short-lived—an opponent causes Ashito to lose his temper and act violently, resulting in his removal from the rest of the game.\n\nWithout their star player, the team is quickly eliminated from the tournament. Just as he believes all hope is lost, Ashito is approached by a youth team coach named Tatsuya Fukuda who senses potential in him, and Fukuda invites him for tryouts in Tokyo. In an unfamiliar setting surrounded by talent, Ashito must bring out the best of his ability to prove himself and secure what could be a life-changing career.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    },
+    {
+      "mal_id": 1992,
+      "type": "anime",
+      "name": "Bandai Spirits",
+      "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1731/120871l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/PQbCVl_CDzI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49052,
+  "slug": "ao-ashi-dublado"
 }

@@ -1,21 +1,108 @@
 {
-  "id": 10448,
-  "slug": "rain-town",
-  "type": "legendado",
+  "mal_id": 10448,
+  "url": "https://myanimelist.net/anime/10448/Rain_Town",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/29062.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/29062t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/29062l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/29062.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/29062t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/29062l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Rain Town"
+    },
+    {
+      "type": "Japanese",
+      "title": "rain town"
+    }
+  ],
   "title": "Rain Town",
   "title_english": "Rain Town",
   "title_japanese": "rain town",
-  "image": "https://cdn.myanimelist.net/images/anime/5/29062l.webp",
-  "score": 7.08,
-  "synopsis": "In a small, forgotten town where the rain never stops, a chance encounter between a robot and an inquisitive little girl brings back memories and a chance reunion with a girl the girl the robot has never forgotten.",
-  "trailer_url": null,
-  "genres": [
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/rain-town/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-01-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "2011"
+  },
+  "duration": "9 min",
+  "rating": "G - All Ages",
+  "score": 7.08,
+  "scored_by": 14625,
+  "rank": 4163,
+  "popularity": 4770,
+  "members": 26924,
+  "favorites": 47,
+  "synopsis": "In a small, forgotten town where the rain never stops, a chance encounter between a robot and an inquisitive little girl brings back memories and a chance reunion with a girl the girl the robot has never forgotten.",
+  "background": "Winner of the New Face Award on the 15th Japan Media Arts Festival.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 3053,
+      "type": "anime",
+      "name": "Kyoto Seika University",
+      "url": "https://myanimelist.net/anime/producer/3053/Kyoto_Seika_University"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/29062l.webp",
+  "trailer_url": null,
+  "id": 10448,
+  "slug": "rain-town"
 }

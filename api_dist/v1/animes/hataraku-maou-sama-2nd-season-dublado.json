@@ -1,18 +1,62 @@
 {
-  "id": 53200,
-  "slug": "hataraku-maou-sama-2nd-season-dublado",
-  "type": "dublado",
+  "mal_id": 53200,
+  "url": "https://myanimelist.net/anime/53200/Hataraku_Maou-sama_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1392/136670.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/136670t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/136670l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1392/136670.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1392/136670t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1392/136670l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/k-LZicv1K4I?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hataraku Maou-sama!! 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Devil is a Part-Timer! 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hataraku Maou-sama 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "はたらく魔王さま！！"
+    },
+    {
+      "type": "English",
+      "title": "The Devil is a Part-Timer! Season 2 Part 2"
+    }
+  ],
   "title": "Hataraku Maou-sama!! 2nd Season",
   "title_english": "The Devil is a Part-Timer! Season 2 Part 2",
   "title_japanese": "はたらく魔王さま！！",
-  "image": "https://cdn.myanimelist.net/images/anime/1392/136670l.webp",
-  "score": 6.67,
-  "synopsis": "Following the revelations of the archangel Gabriel, Ente Isla hero Emilia Justina—who lives on Earth under the alias Emi Yusa—starts doubting the validity of her mission to slay the Demon Lord Satan, now reduced to a modest employee of MgRonald's as Sadao Maou. At the same time, Sadao's high school-aged coworker Chiho Sasaki pursues a new dream with hopes to protect not only herself but also her friends. Secretly training with Emi and Suzuno Kamazuki to develop telepathic powers, Chiho's training is cut short when a group of demons abducts her.\n\nAs angel and demon attacks threaten the fragile peace between the two worlds, Sadao and Emi need to put their troubled past behind them if they want to have a chance to find their new purpose in life.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/k-LZicv1K4I?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Supernatural"
+  "title_synonyms": [
+    "The Devil is a Part-Timer! 3rd Season",
+    "Hataraku Maou-sama 3"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +118,124 @@
       "url": "https://lightspeedst.net/s6/mp4/hataraku-maou-sama-2nd-season-dublado/fhd/12.mp4",
       "nome": "The Devil and the Hero Witness Change in Ente Isla"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-07-13T00:00:00+00:00",
+    "to": "2023-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 7,
+        "year": 2023
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2023
+      }
+    },
+    "string": "Jul 13, 2023 to Sep 28, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.67,
+  "scored_by": 59817,
+  "rank": 6376,
+  "popularity": 1573,
+  "members": 170796,
+  "favorites": 340,
+  "synopsis": "Following the revelations of the archangel Gabriel, Ente Isla hero Emilia Justina—who lives on Earth under the alias Emi Yusa—starts doubting the validity of her mission to slay the Demon Lord Satan, now reduced to a modest employee of MgRonald's as Sadao Maou. At the same time, Sadao's high school-aged coworker Chiho Sasaki pursues a new dream with hopes to protect not only herself but also her friends. Secretly training with Emi and Suzuno Kamazuki to develop telepathic powers, Chiho's training is cut short when a group of demons abducts her.\n\nAs angel and demon attacks threaten the fragile peace between the two worlds, Sadao and Emi need to put their troubled past behind them if they want to have a chance to find their new purpose in life.\n\n[Written by MAL Rewrite]",
+  "background": "Hataraku Maou-sama!! 2nd Season was released on Blu-ray in two volumes from October 18, 2023, to December 6, 2023.",
+  "season": "summer",
+  "year": 2023,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    },
+    {
+      "mal_id": 2431,
+      "type": "anime",
+      "name": "Happinet Phantom Studios",
+      "url": "https://myanimelist.net/anime/producer/2431/Happinet_Phantom_Studios"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1127,
+      "type": "anime",
+      "name": "Studio 3Hz",
+      "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1392/136670l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/k-LZicv1K4I?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 53200,
+  "slug": "hataraku-maou-sama-2nd-season-dublado"
 }

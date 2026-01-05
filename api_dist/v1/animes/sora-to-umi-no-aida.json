@@ -1,19 +1,55 @@
 {
-  "id": 36000,
-  "slug": "sora-to-umi-no-aida",
-  "type": "legendado",
+  "mal_id": 36000,
+  "url": "https://myanimelist.net/anime/36000/Sora_to_Umi_no_Aida",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1297/97156.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/97156t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/97156l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1297/97156.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1297/97156t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1297/97156l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DcAfBkSXFxs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sora to Umi no Aida"
+    },
+    {
+      "type": "Japanese",
+      "title": "ソラとウミのアイダ"
+    },
+    {
+      "type": "English",
+      "title": "Between the Sky and Sea"
+    },
+    {
+      "type": "French",
+      "title": "Between the Sky and Sea"
+    }
+  ],
   "title": "Sora to Umi no Aida",
   "title_english": "Between the Sky and Sea",
   "title_japanese": "ソラとウミのアイダ",
-  "image": "https://cdn.myanimelist.net/images/anime/1297/97156l.webp",
-  "score": 5.68,
-  "synopsis": "In the future in Onomichi, Hiroshima fish disappear from the sea around the world and only whales live in the ocean. The Ministry of Fishery decides to set up giant experimental Universe Fish Tanks in space. The Onomichi Universe Fishery Union is established and begins to train space fishermen. Female fishermen are in demand due to the strengthening of an equal employment law for men and women. Six new female space fishermen are selected, and the story centers on supporting their growth.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DcAfBkSXFxs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +111,85 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwVEnbFOQVvh_FDT7B8wJfAaZRjFcFNeR47VYHdayDH5k1QyD876OZLFads3wmSk7fRDBKrTKWcbmdJnXOEc_qq6tbjLSdsf0gSJa6gBdu0E8hK73aWDmzm9xFSwEnkbpXcWqGh",
       "nome": "Between the Sky and Sea"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-04T00:00:00+00:00",
+    "to": "2018-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 4, 2018 to Dec 20, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.68,
+  "scored_by": 6973,
+  "rank": 12028,
+  "popularity": 5158,
+  "members": 22344,
+  "favorites": 21,
+  "synopsis": "In the future in Onomichi, Hiroshima fish disappear from the sea around the world and only whales live in the ocean. The Ministry of Fishery decides to set up giant experimental Universe Fish Tanks in space. The Onomichi Universe Fishery Union is established and begins to train space fishermen. Female fishermen are in demand due to the strengthening of an equal employment law for men and women. Six new female space fishermen are selected, and the story centers on supporting their growth.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1297/97156l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DcAfBkSXFxs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36000,
+  "slug": "sora-to-umi-no-aida"
 }

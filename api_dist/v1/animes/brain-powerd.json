@@ -1,18 +1,53 @@
 {
-  "id": 1542,
-  "slug": "brain-powerd",
-  "type": "legendado",
+  "mal_id": 1542,
+  "url": "https://myanimelist.net/anime/1542/Brain_Powerd",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1749/91562.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1749/91562t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1749/91562l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1749/91562.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1749/91562t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1749/91562l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WgYrJ4AsGio?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Brain Powerd"
+    },
+    {
+      "type": "Synonym",
+      "title": "Brain Powered"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブレンパワード"
+    }
+  ],
   "title": "Brain Powerd",
   "title_english": "Brain Powerd",
   "title_japanese": "ブレンパワード",
-  "image": "https://cdn.myanimelist.net/images/anime/1749/91562l.webp",
-  "score": 6.19,
-  "synopsis": "In the not so distant future much of the earth has been submerged under the sea or destroyed by earthquakes. At the center of the turmoil is the mysterious Orphan. Orphan may or may not be the original cause of the cataclysms. Orphan's goal is to raise a ship hidden deep beneath the sea to the surface, but doing so would result in the destruction of all humans except for the small number which are loyal to Orphan.\n\nOrphan's agents pilot mysterious mecha known as Grand Cheres, and search the world for mysterious, giant disks which occasionally appear, flying at high speeds and wrecking much of the countryside, or cities, when they hit the ground. After a dying disc almost kills Hime, a Brain Powerd is born from the disc. Brain Powerds are another type of Mecha, similar to but not the same as Grand Cheres.\n\nHime becomes the Brain Powerd's pilot, forming a symbiotic relationship with the living mecha and joins an International Organization dedicated to stopping Orphan, or at the very least saving humanity should Orphan succeed.\n\n(Source: AniDB)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/WgYrJ4AsGio?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Brain Powered"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +179,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwvVpesaShw9tuf3x2n_JFODcdChZXp0yIxZ5eS7nMpK1MCb71jpw1VZXT8RHBKIgESloxFpm5oTKGKT0KvpmjR4YZUZAIFpRzOu7XM0ebwIFNZC9dkuJEG9wiL3ej46SYDh-w",
       "nome": "Flight"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-04-08T00:00:00+00:00",
+    "to": "1998-11-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 1998
+      },
+      "to": {
+        "day": 11,
+        "month": 11,
+        "year": 1998
+      }
+    },
+    "string": "Apr 8, 1998 to Nov 11, 1998"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.19,
+  "scored_by": 3586,
+  "rank": 9303,
+  "popularity": 6389,
+  "members": 12889,
+  "favorites": 47,
+  "synopsis": "In the not so distant future much of the earth has been submerged under the sea or destroyed by earthquakes. At the center of the turmoil is the mysterious Orphan. Orphan may or may not be the original cause of the cataclysms. Orphan's goal is to raise a ship hidden deep beneath the sea to the surface, but doing so would result in the destruction of all humans except for the small number which are loyal to Orphan.\n\nOrphan's agents pilot mysterious mecha known as Grand Cheres, and search the world for mysterious, giant disks which occasionally appear, flying at high speeds and wrecking much of the countryside, or cities, when they hit the ground. After a dying disc almost kills Hime, a Brain Powerd is born from the disc. Brain Powerds are another type of Mecha, similar to but not the same as Grand Cheres.\n\nHime becomes the Brain Powerd's pilot, forming a symbiotic relationship with the living mecha and joins an International Organization dedicated to stopping Orphan, or at the very least saving humanity should Orphan succeed.\n\n(Source: AniDB)",
+  "background": "",
+  "season": "spring",
+  "year": 1998,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 1506,
+      "type": "anime",
+      "name": "Audio Planning U",
+      "url": "https://myanimelist.net/anime/producer/1506/Audio_Planning_U"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1749/91562l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/WgYrJ4AsGio?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1542,
+  "slug": "brain-powerd"
 }

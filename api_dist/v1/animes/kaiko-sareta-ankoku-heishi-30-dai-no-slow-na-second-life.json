@@ -1,18 +1,51 @@
 {
-  "id": 52446,
-  "slug": "kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life",
-  "type": "legendado",
+  "mal_id": 52446,
+  "url": "https://myanimelist.net/anime/52446/Kaiko_sareta_Ankoku_Heishi_30-dai_no_Slow_na_Second_Life",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1224/132328.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1224/132328t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/132328l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1224/132328.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1224/132328t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/132328l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/oVO3VxKTDrk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
+    },
+    {
+      "type": "Japanese",
+      "title": "解雇された暗黒兵士（30代）のスローなセカンドライフ"
+    },
+    {
+      "type": "English",
+      "title": "Chillin' in My 30s after Getting Fired from the Demon King's Army"
+    }
+  ],
   "title": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
   "title_english": "Chillin' in My 30s after Getting Fired from the Demon King's Army",
   "title_japanese": "解雇された暗黒兵士（30代）のスローなセカンドライフ",
-  "image": "https://cdn.myanimelist.net/images/anime/1224/132328l.webp",
-  "score": 7,
-  "synopsis": "For more than 30 years, Dariel has been a loyal soldier in the Demon King's army, having been raised by Granbarza, one of the Four Heavenly Generals. However, as Dariel lacks any magical potential, he is nothing but a disgrace in the eyes of Granbarza's son, Bashbarza, who fires Dariel right after assuming his father's position as a general.\n\nStripped of a home and a job, Dariel wanders the forests, where he stumbles upon a human girl named Malika running from a monster. After Dariel intervenes to help Malika, she invites him to stay at her village in return. There, he discovers that the reason he has zero suitability for magic as a demon is that he is, in fact, a human.\n\nHowever, Dariel is no ordinary human. Possessing potential that far outweighs even heroes, Dariel may soon find himself involved in the humans and demons' seemingly never-ending conflict, facing against the race he once considered allies.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/oVO3VxKTDrk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,101 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life/12/720p.mp4",
       "nome": "Dariel Reaches Out His Hand."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-07T00:00:00+00:00",
+    "to": "2023-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Jan 7, 2023 to Mar 25, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7,
+  "scored_by": 88753,
+  "rank": 4560,
+  "popularity": 1469,
+  "members": 183299,
+  "favorites": 584,
+  "synopsis": "For more than 30 years, Dariel has been a loyal soldier in the Demon King's army, having been raised by Granbarza, one of the Four Heavenly Generals. However, as Dariel lacks any magical potential, he is nothing but a disgrace in the eyes of Granbarza's son, Bashbarza, who fires Dariel right after assuming his father's position as a general.\n\nStripped of a home and a job, Dariel wanders the forests, where he stumbles upon a human girl named Malika running from a monster. After Dariel intervenes to help Malika, she invites him to stay at her village in return. There, he discovers that the reason he has zero suitability for magic as a demon is that he is, in fact, a human.\n\nHowever, Dariel is no ordinary human. Possessing potential that far outweighs even heroes, Dariel may soon find himself involved in the humans and demons' seemingly never-ending conflict, facing against the race he once considered allies.\n\n[Written by MAL Rewrite]",
+  "background": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life was released on Blu-ray in four volumes from March 22, 2023, to June 21, 2023.",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1899,
+      "type": "anime",
+      "name": "Good Smile Film",
+      "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 354,
+      "type": "anime",
+      "name": "Encourage Films",
+      "url": "https://myanimelist.net/anime/producer/354/Encourage_Films"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1224/132328l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/oVO3VxKTDrk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 52446,
+  "slug": "kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life"
 }

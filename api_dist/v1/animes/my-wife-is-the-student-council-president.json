@@ -1,19 +1,65 @@
 {
-  "id": 28819,
-  "slug": "my-wife-is-the-student-council-president",
-  "type": "legendado",
+  "mal_id": 28819,
+  "url": "https://myanimelist.net/anime/28819/Okusama_ga_Seitokaichou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/75012.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/75012t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/75012l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/75012.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/75012t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/75012l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1UDp4TdyJsg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Okusama ga Seitokaichou!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Oku-sama ga Seito Kaichou!"
+    },
+    {
+      "type": "Japanese",
+      "title": "おくさまが生徒会長！"
+    },
+    {
+      "type": "English",
+      "title": "My Wife is the Student Council President!"
+    },
+    {
+      "type": "German",
+      "title": "My Wife is the Student Council President"
+    },
+    {
+      "type": "French",
+      "title": "Okusama ga Seitokaichô!"
+    }
+  ],
   "title": "Okusama ga Seitokaichou!",
   "title_english": "My Wife is the Student Council President!",
   "title_japanese": "おくさまが生徒会長！",
-  "image": "https://cdn.myanimelist.net/images/anime/12/75012l.webp",
-  "score": 6.55,
-  "synopsis": "Hayato Izumi, an introverted and studious high school student, is running for the position of student council president. However, his ambition is soon shattered by his rival, Ui Wakana, an outgoing person focused on the noble goal of improving school life through love and sex education. Accepting his loss, Hayato takes on the role of vice president.\n\nShortly after the election, Hayato is met with a surprise: Ui announces that she will be moving in with him—as his wife! Although initially hesitant, Hayato discovers that this marriage was arranged by their parents, and he eventually complies. Now that they are welcoming a new beginning, the couple must learn how to live with each other while keeping their unconventional relationship a secret from the entire school.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1UDp4TdyJsg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Oku-sama ga Seito Kaichou!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +121,110 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyHvbvvQ8wEzgalo--qwSyb5L6SGlCe910AKhYNAJZgrhJsUxFvWCBE3xGzKSHSmz7NtiAlGxwH3Ge9uHWwypNMrFb8RJuLYM1njV-HXdJHbHFxhoyakX-OoOHWglIEmkgO0eaz",
       "nome": "More of the President's Family"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-02T00:00:00+00:00",
+    "to": "2015-09-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 17,
+        "month": 9,
+        "year": 2015
+      }
+    },
+    "string": "Jul 2, 2015 to Sep 17, 2015"
+  },
+  "duration": "8 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.55,
+  "scored_by": 157911,
+  "rank": 7061,
+  "popularity": 868,
+  "members": 316770,
+  "favorites": 474,
+  "synopsis": "Hayato Izumi, an introverted and studious high school student, is running for the position of student council president. However, his ambition is soon shattered by his rival, Ui Wakana, an outgoing person focused on the noble goal of improving school life through love and sex education. Accepting his loss, Hayato takes on the role of vice president.\n\nShortly after the election, Hayato is met with a surprise: Ui announces that she will be moving in with him—as his wife! Although initially hesitant, Hayato discovers that this marriage was arranged by their parents, and he eventually complies. Now that they are welcoming a new beginning, the couple must learn how to live with each other while keeping their unconventional relationship a secret from the entire school.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 615,
+      "type": "anime",
+      "name": "Dream Creation",
+      "url": "https://myanimelist.net/anime/producer/615/Dream_Creation"
+    },
+    {
+      "mal_id": 1599,
+      "type": "anime",
+      "name": "Studio CHANT",
+      "url": "https://myanimelist.net/anime/producer/1599/Studio_CHANT"
+    },
+    {
+      "mal_id": 1784,
+      "type": "anime",
+      "name": "Crunchyroll SC Anime Fund",
+      "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 541,
+      "type": "anime",
+      "name": "Seven",
+      "url": "https://myanimelist.net/anime/producer/541/Seven"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/75012l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1UDp4TdyJsg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 28819,
+  "slug": "my-wife-is-the-student-council-president"
 }

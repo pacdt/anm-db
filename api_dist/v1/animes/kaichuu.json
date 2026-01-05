@@ -1,18 +1,53 @@
 {
-  "id": 9205,
-  "slug": "kaichuu",
-  "type": "legendado",
+  "mal_id": 9205,
+  "url": "https://myanimelist.net/anime/9205/Kaichuu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/25520.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/25520t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/25520l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/25520.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/25520t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/25520l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaichuu!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaichu!"
+    },
+    {
+      "type": "Japanese",
+      "title": "カイチュー!"
+    }
+  ],
   "title": "Kaichuu!",
   "title_english": "Kaichuu!",
   "title_japanese": "カイチュー!",
-  "image": "https://cdn.myanimelist.net/images/anime/12/25520l.webp",
-  "score": 5.78,
-  "synopsis": "Tachikawa Tetsuya is a freshman at a new high school and he wants to become a great archer, like his late grandfather, Fudou.\n\nOne day, a new transfer student joins his class. In a surprise to everyone, it is a cute girl and not a guy like the rumors were saying... The name is Sasaki Gonzaburou, and... \"she\"... or maybe \"he\"... well, this person has some \"little\" secrets.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sports"
+  "title_synonyms": [
+    "Kaichu!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -31,5 +66,77 @@
       "numero": 4,
       "url": "https://lightspeedst.net/s3/mp4/kaichuu/sd/4.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-07-16T00:00:00+00:00",
+    "to": "2011-10-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 7,
+        "year": 2010
+      },
+      "to": {
+        "day": 1,
+        "month": 10,
+        "year": 2011
+      }
+    },
+    "string": "Jul 16, 2010 to Oct 2011"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.78,
+  "scored_by": 5090,
+  "rank": 11587,
+  "popularity": 7075,
+  "members": 10184,
+  "favorites": 11,
+  "synopsis": "Tachikawa Tetsuya is a freshman at a new high school and he wants to become a great archer, like his late grandfather, Fudou.\n\nOne day, a new transfer student joins his class. In a surprise to everyone, it is a cute girl and not a guy like the rumors were saying... The name is Sasaki Gonzaburou, and... \"she\"... or maybe \"he\"... well, this person has some \"little\" secrets.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 254,
+      "type": "anime",
+      "name": "Soft Garage",
+      "url": "https://myanimelist.net/anime/producer/254/Soft_Garage"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 81,
+      "type": "anime",
+      "name": "Crossdressing",
+      "url": "https://myanimelist.net/anime/genre/81/Crossdressing"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/25520l.webp",
+  "trailer_url": null,
+  "id": 9205,
+  "slug": "kaichuu"
 }

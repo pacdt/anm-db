@@ -1,18 +1,51 @@
 {
-  "id": 1698,
-  "slug": "nodame-cantabile",
-  "type": "legendado",
+  "mal_id": 1698,
+  "url": "https://myanimelist.net/anime/1698/Nodame_Cantabile",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/11986.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/11986t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/11986l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/11986.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/11986t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/11986l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nodame Cantabile"
+    },
+    {
+      "type": "Japanese",
+      "title": "のだめカンタービレ"
+    },
+    {
+      "type": "English",
+      "title": "Nodame Cantabile"
+    }
+  ],
   "title": "Nodame Cantabile",
   "title_english": "Nodame Cantabile",
   "title_japanese": "のだめカンタービレ",
-  "image": "https://cdn.myanimelist.net/images/anime/9/11986l.webp",
-  "score": 8.25,
-  "synopsis": "Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist—not only is he highly critical of himself, but of others as well. The only thing stopping Shinichi from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.\n\nDuring his fourth year at Japan's top music university, Shinichi happens to meet Megumi Noda or, as she refers to herself, Nodame. On the surface, she seems to be an unkempt girl with no direction in life. However, when Shinichi hears Nodame play the piano for the first time, he is in awe of the kind of music she creates. Nevertheless, Shinichi is dismayed to discover that Nodame is his neighbor, and worse, she ends up falling head over heels in love with him.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -124,5 +157,144 @@
       "url": "https://lightspeedst.net/s3/mp4/nodame-cantabile/sd/22.mp4",
       "nome": "Lesson 22: Last"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-01-12T00:00:00+00:00",
+    "to": "2007-06-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2007
+      },
+      "to": {
+        "day": 15,
+        "month": 6,
+        "year": 2007
+      }
+    },
+    "string": "Jan 12, 2007 to Jun 15, 2007"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.25,
+  "scored_by": 133718,
+  "rank": 356,
+  "popularity": 826,
+  "members": 329646,
+  "favorites": 4981,
+  "synopsis": "Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist—not only is he highly critical of himself, but of others as well. The only thing stopping Shinichi from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.\n\nDuring his fourth year at Japan's top music university, Shinichi happens to meet Megumi Noda or, as she refers to herself, Nodame. On the surface, she seems to be an unkempt girl with no direction in life. However, when Shinichi hears Nodame play the piano for the first time, he is in awe of the kind of music she creates. Nevertheless, Shinichi is dismayed to discover that Nodame is his neighbor, and worse, she ends up falling head over heels in love with him.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2007,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "21:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 21:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 147,
+      "type": "anime",
+      "name": "SKY Perfect Well Think",
+      "url": "https://myanimelist.net/anime/producer/147/SKY_Perfect_Well_Think"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 769,
+      "type": "anime",
+      "name": "Fujipacific Music",
+      "url": "https://myanimelist.net/anime/producer/769/Fujipacific_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/9/11986l.webp",
+  "trailer_url": null,
+  "id": 1698,
+  "slug": "nodame-cantabile"
 }

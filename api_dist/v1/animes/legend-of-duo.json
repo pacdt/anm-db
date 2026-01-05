@@ -1,19 +1,47 @@
 {
-  "id": 600,
-  "slug": "legend-of-duo",
-  "type": "legendado",
+  "mal_id": 600,
+  "url": "https://myanimelist.net/anime/600/Legend_of_Duo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/23556.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/23556t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/23556l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/23556.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/23556t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/23556l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Legend of Duo"
+    },
+    {
+      "type": "Japanese",
+      "title": "LEGEND OF DUO"
+    }
+  ],
   "title": "Legend of Duo",
   "title_english": "Legend of Duo",
   "title_japanese": "LEGEND OF DUO",
-  "image": "https://cdn.myanimelist.net/images/anime/7/23556l.webp",
-  "score": 4.83,
-  "synopsis": "It is the early 21st century, and mankind is doomed. Due to a mysterious virus that steals the essence of human life, humanity has been pushed to the brink of extinction with only one hope for salvation: the blood of a vampire. Vampires have closely guarded the key to curing the virus for several years, which has led to an immense rift between them and humans and the world's descension into chaos.\n\nA vampire named Duo, having leaked the secret to saving humanity, is now considered a traitor to his race, and the powerful vampire Zieg is on his trail. However, due to Zieg's sense of duty, his heart is torn: should he kill the man who betrayed his people, or will his personal history with Duo sway him to have a change of heart?\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Boys Love",
-    "Drama",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +103,77 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyQIPPnmeDez57Z63bViORKhl7gE_R-6iKaI0L5dm-mMzVGxCzq30G5EV_oJQN6NranGctzdmABoyNsIiLCoUsDIA0hf4X8sLoBzmFqhlzin6qoK2I84O6jUJEEmwrb11eHs5aN",
       "nome": "Dear"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-27T00:00:00+00:00",
+    "to": "2005-01-12T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 12,
+        "month": 1,
+        "year": 2005
+      }
+    },
+    "string": "Oct 27, 2004 to Jan 12, 2005"
+  },
+  "duration": "5 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 4.83,
+  "scored_by": 5035,
+  "rank": 14086,
+  "popularity": 6439,
+  "members": 12683,
+  "favorites": 14,
+  "synopsis": "It is the early 21st century, and mankind is doomed. Due to a mysterious virus that steals the essence of human life, humanity has been pushed to the brink of extinction with only one hope for salvation: the blood of a vampire. Vampires have closely guarded the key to curing the virus for several years, which has led to an immense rift between them and humans and the world's descension into chaos.\n\nA vampire named Duo, having leaked the secret to saving humanity, is now considered a traitor to his race, and the powerful vampire Zieg is on his trail. However, due to Zieg's sense of duty, his heart is torn: should he kill the man who betrayed his people, or will his personal history with Duo sway him to have a change of heart?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 23:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 81,
+      "type": "anime",
+      "name": "Radix",
+      "url": "https://myanimelist.net/anime/producer/81/Radix"
+    },
+    {
+      "mal_id": 1363,
+      "type": "anime",
+      "name": "Marine Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1363/Marine_Entertainment"
+    }
+  ],
+  "genres": [
+    "Boys Love",
+    "Drama",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/23556l.webp",
+  "trailer_url": null,
+  "id": 600,
+  "slug": "legend-of-duo"
 }

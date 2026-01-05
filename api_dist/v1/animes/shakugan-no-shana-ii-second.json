@@ -1,20 +1,57 @@
 {
-  "id": 2787,
-  "slug": "shakugan-no-shana-ii-second",
-  "type": "legendado",
+  "mal_id": 2787,
+  "url": "https://myanimelist.net/anime/2787/Shakugan_no_Shana_II_Second",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1827/134365.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1827/134365t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1827/134365l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1827/134365.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1827/134365t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1827/134365l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shakugan no Shana II (Second)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shakugan no Shana 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "灼眼のシャナII –Second–"
+    },
+    {
+      "type": "English",
+      "title": "Shakugan no Shana: Season II"
+    }
+  ],
   "title": "Shakugan no Shana II (Second)",
   "title_english": "Shakugan no Shana: Season II",
   "title_japanese": "灼眼のシャナII –Second–",
-  "image": "https://cdn.myanimelist.net/images/anime/1827/134365l.webp",
-  "score": 7.54,
-  "synopsis": "Denizens from the Crimson Realm continue to infiltrate Misaki City and steal life energy from humans. To combat this threat, Flame Hazes are tasked with saving humans from losing their existences. But while it is a Flame Haze's duty to protect humans, Shana—the \"Flame-Haired Burning-Eyed Hunter\"—seems to be focusing her attention on one human in particular: Yuuji Sakai, a teenage boy who was unwittingly dragged into the fight between Crimson Denizens and Flame Hazes. Since her first encounter with Yuuji, Shana has started to see him as more than just a friend. In fact, Yuuji wonders if Shana might have revealed her feelings to him once before, but it is difficult for him to confirm due to her hot-and-cold personality. Nonetheless, their days pass like any other, until a new transfer student arrives at their high school—one who bears a striking resemblance to an old enemy.\n\nYuuji and Shana have no time to dance around their feelings for each other; while their adversaries from the Bal Masqué organization plan their next attack, the two must keep their guard up as they explore the origin behind the coveted magical object within Yuuji's body, the \"Midnight Lost Child.\"\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Drama",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Shakugan no Shana 2"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -136,5 +173,98 @@
       "url": "https://lightspeedst.net/s3/mp4/shakugan-no-shana-ii-second/sd/24.mp4",
       "nome": "What Must Be Protected"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-10-05T00:00:00+00:00",
+    "to": "2008-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2007
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Oct 5, 2007 to Mar 28, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.54,
+  "scored_by": 176320,
+  "rank": 1900,
+  "popularity": 866,
+  "members": 318117,
+  "favorites": 991,
+  "synopsis": "Denizens from the Crimson Realm continue to infiltrate Misaki City and steal life energy from humans. To combat this threat, Flame Hazes are tasked with saving humans from losing their existences. But while it is a Flame Haze's duty to protect humans, Shana—the \"Flame-Haired Burning-Eyed Hunter\"—seems to be focusing her attention on one human in particular: Yuuji Sakai, a teenage boy who was unwittingly dragged into the fight between Crimson Denizens and Flame Hazes. Since her first encounter with Yuuji, Shana has started to see him as more than just a friend. In fact, Yuuji wonders if Shana might have revealed her feelings to him once before, but it is difficult for him to confirm due to her hot-and-cold personality. Nonetheless, their days pass like any other, until a new transfer student arrives at their high school—one who bears a striking resemblance to an old enemy.\n\nYuuji and Shana have no time to dance around their feelings for each other; while their adversaries from the Bal Masqué organization plan their next attack, the two must keep their guard up as they explore the origin behind the coveted magical object within Yuuji's body, the \"Midnight Lost Child.\"\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2007,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1827/134365l.webp",
+  "trailer_url": null,
+  "id": 2787,
+  "slug": "shakugan-no-shana-ii-second"
 }

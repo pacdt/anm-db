@@ -1,19 +1,57 @@
 {
-  "id": 41491,
-  "slug": "nanatsu-no-taizai-fundo-no-shinpan",
-  "type": "legendado",
+  "mal_id": 41491,
+  "url": "https://myanimelist.net/anime/41491/Nanatsu_no_Taizai__Funnu_no_Shinpan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1011/111551.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1011/111551t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1011/111551l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1011/111551.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1011/111551t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1011/111551l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3OdKxdaxzyg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nanatsu no Taizai: Funnu no Shinpan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nanatsu no Taizai: Fundo no Shinpan"
+    },
+    {
+      "type": "Japanese",
+      "title": "七つの大罪 憤怒の審判"
+    },
+    {
+      "type": "English",
+      "title": "The Seven Deadly Sins: Dragon's Judgement"
+    }
+  ],
   "title": "Nanatsu no Taizai: Funnu no Shinpan",
   "title_english": "The Seven Deadly Sins: Dragon's Judgement",
   "title_japanese": "七つの大罪 憤怒の審判",
-  "image": "https://cdn.myanimelist.net/images/anime/1011/111551l.webp",
-  "score": 6.57,
-  "synopsis": "After the Kingdom of Liones faces a new threat, the Seven Deadly Sins split up in order to defeat an enemy force spanning Britannia. With their members divided, they face 3 powerful foes, attempt to rescue the lost part of a dear friend, and begin their rescue of Elizabeth.\n\nHowever, all is not quite as it seems. Along the way, the truth of what brought the end of the Holy War 3000 years ago is uncovered, causing old friends to come face to face against each other.\n\nNanatsu no Taizai: Funnu no Shinpan continues the adventure of the Seven Deadly Sins and their friends, and sees a great power released.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3OdKxdaxzyg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Nanatsu no Taizai: Fundo no Shinpan"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +173,78 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzHy-6rrh5h6ZLtFi7tnmlCKGRB3WewSnoba__H3NjARI7iT78q_2X06jbACwgADEdPhTgOJv2R3QWbT0L9dx1HY42nfs3ohsUFPTIOquWuWdK9E4y4hPaAVczeNDaZZVjywtmW",
       "nome": "Heirs"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-13T00:00:00+00:00",
+    "to": "2021-06-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 23,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Jan 13, 2021 to Jun 23, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.57,
+  "scored_by": 226922,
+  "rank": 6957,
+  "popularity": 537,
+  "members": 470524,
+  "favorites": 1596,
+  "synopsis": "After the Kingdom of Liones faces a new threat, the Seven Deadly Sins split up in order to defeat an enemy force spanning Britannia. With their members divided, they face 3 powerful foes, attempt to rescue the lost part of a dear friend, and begin their rescue of Elizabeth.\n\nHowever, all is not quite as it seems. Along the way, the truth of what brought the end of the Holy War 3000 years ago is uncovered, causing old friends to come face to face against each other.\n\nNanatsu no Taizai: Funnu no Shinpan continues the adventure of the Seven Deadly Sins and their friends, and sees a great power released.",
+  "background": "",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "17:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 17:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1011/111551l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3OdKxdaxzyg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41491,
+  "slug": "nanatsu-no-taizai-fundo-no-shinpan"
 }

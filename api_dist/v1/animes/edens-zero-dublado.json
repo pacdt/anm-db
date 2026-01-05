@@ -1,20 +1,51 @@
 {
-  "id": 42192,
-  "slug": "edens-zero-dublado",
-  "type": "dublado",
+  "mal_id": 42192,
+  "url": "https://myanimelist.net/anime/42192/Edens_Zero",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1011/111811.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1011/111811t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1011/111811l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1011/111811.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1011/111811t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1011/111811l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pB_o3-2etA8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Edens Zero"
+    },
+    {
+      "type": "Japanese",
+      "title": "EDENS ZERO"
+    },
+    {
+      "type": "English",
+      "title": "Edens Zero"
+    }
+  ],
   "title": "Edens Zero",
   "title_english": "Edens Zero",
   "title_japanese": "EDENS ZERO",
-  "image": "https://cdn.myanimelist.net/images/anime/1011/111811l.webp",
-  "score": 7.25,
-  "synopsis": "All his life, Shiki has been surrounded by machines. At Granbell Kingdom, a long-abandoned amusement park, he is the only one of his kind around. That is, until Rebecca Bluegarden and her feline companion Happy arrive, unaware that they are Granbell's first visitors in one hundred years. Their goal is to make fun videos for their B-Cube channel, but what they find instead is a friend in the socially awkward Shiki.\n\nWhen Granbell becomes too dangerous for the three of them, they set off on an adventure through the Sakura Cosmos. They hope to make more interesting videos and even find the elusive goddess Mother, while Shiki wants to make more friends, spurred on by the words of his late grandfather. Of course, the journey will not be easy, as no one has seen Mother before, but Shiki is determined to reach his goal and explore the boundless reaches of space together with his new friends.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/pB_o3-2etA8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -141,5 +172,98 @@
       "url": "https://lightspeedst.net/s1/mp4/edens-zero-dublado/hd/25.mp4",
       "nome": "Someone to Love"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-11T00:00:00+00:00",
+    "to": "2021-10-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 3,
+        "month": 10,
+        "year": 2021
+      }
+    },
+    "string": "Apr 11, 2021 to Oct 3, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.25,
+  "scored_by": 106041,
+  "rank": 3230,
+  "popularity": 965,
+  "members": 282080,
+  "favorites": 1976,
+  "synopsis": "All his life, Shiki has been surrounded by machines. At Granbell Kingdom, a long-abandoned amusement park, he is the only one of his kind around. That is, until Rebecca Bluegarden and her feline companion Happy arrive, unaware that they are Granbell's first visitors in one hundred years. Their goal is to make fun videos for their B-Cube channel, but what they find instead is a friend in the socially awkward Shiki.\n\nWhen Granbell becomes too dangerous for the three of them, they set off on an adventure through the Sakura Cosmos. They hope to make more interesting videos and even find the elusive goddess Mother, while Shiki wants to make more friends, spurred on by the words of his late grandfather. Of course, the journey will not be easy, as no one has seen Mother before, but Shiki is determined to reach his goal and explore the boundless reaches of space together with his new friends.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1418,
+      "type": "anime",
+      "name": "Nippon Television Music",
+      "url": "https://myanimelist.net/anime/producer/1418/Nippon_Television_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1011/111811l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/pB_o3-2etA8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 42192,
+  "slug": "edens-zero-dublado"
 }

@@ -1,17 +1,63 @@
 {
-  "id": 6377,
-  "slug": "zan-sayonara-zetsubou-sensei",
-  "type": "legendado",
+  "mal_id": 6377,
+  "url": "https://myanimelist.net/anime/6377/Zan_Sayonara_Zetsubou_Sensei",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/78774.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/78774t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/78774l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/78774.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/78774t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/78774l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Zan Sayonara Zetsubou Sensei"
+    },
+    {
+      "type": "Synonym",
+      "title": "Zan Sayonara Zetsubo Sensei"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sayonara Zetsubou Sensei 3"
+    },
+    {
+      "type": "Synonym",
+      "title": "ZSZS"
+    },
+    {
+      "type": "Japanese",
+      "title": "懺・さよなら絶望先生"
+    }
+  ],
   "title": "Zan Sayonara Zetsubou Sensei",
   "title_english": "Zan Sayonara Zetsubou Sensei",
   "title_japanese": "懺・さよなら絶望先生",
-  "image": "https://cdn.myanimelist.net/images/anime/2/78774l.webp",
-  "score": 7.86,
-  "synopsis": "Nozomu Itoshiki is still the bizarre teacher of the even stranger Class 2-F. He attempts to teach his students the negative aspects of the world and society, only to have each circumstance thrown at his face whenever he tries. With more students and friends than before, Zetsubo-sensei's life becomes harder and crazier than ever before.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Zan Sayonara Zetsubo Sensei",
+    "Sayonara Zetsubou Sensei 3",
+    "ZSZS"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +111,95 @@
       "numero": 13,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxHzlUYssp6vWP_jpeDlh5Dum-k2fq04RC6qihaMo37_F4PFUz9r9mL141_MNaxbn8QpTW24QYFCHDzeyQip1pVMHOtTppya_fdBokmNI0Qi906Xpyjg9YNnL3RdLYIhfA4XVI"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-07-05T00:00:00+00:00",
+    "to": "2009-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2009
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2009
+      }
+    },
+    "string": "Jul 5, 2009 to Sep 27, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.86,
+  "scored_by": 42946,
+  "rank": 970,
+  "popularity": 2159,
+  "members": 112870,
+  "favorites": 251,
+  "synopsis": "Nozomu Itoshiki is still the bizarre teacher of the even stranger Class 2-F. He attempts to teach his students the negative aspects of the world and society, only to have each circumstance thrown at his face whenever he tries. With more students and friends than before, Zetsubo-sensei's life becomes harder and crazier than ever before.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/2/78774l.webp",
+  "trailer_url": null,
+  "id": 6377,
+  "slug": "zan-sayonara-zetsubou-sensei"
 }

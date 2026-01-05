@@ -1,20 +1,55 @@
 {
-  "id": 36516,
-  "slug": "beatless",
-  "type": "legendado",
+  "mal_id": 36516,
+  "url": "https://myanimelist.net/anime/36516/Beatless",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1986/90184.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1986/90184t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1986/90184l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1986/90184.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1986/90184t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1986/90184l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZKVpM8esO6Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Beatless"
+    },
+    {
+      "type": "Japanese",
+      "title": "BEATLESS"
+    },
+    {
+      "type": "English",
+      "title": "Beatless"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sin Latidos"
+    }
+  ],
   "title": "Beatless",
   "title_english": "Beatless",
   "title_japanese": "BEATLESS",
-  "image": "https://cdn.myanimelist.net/images/anime/1986/90184l.webp",
-  "score": 6.22,
-  "synopsis": "With great advancements in technology, mankind has created hIEs, human-like robots that act as public and personal servants for society. Unlike many others, the kind-hearted high school student Arato Endou treats hIEs as equals, but his financial situation keeps him from ever owning one.\n\nHowever, his normal life is shattered when an ordinary run to the local grocery store goes horribly awry. Viciously assaulted by a hacked hIE, Arato is on the verge of death; but luckily, he is saved by an abnormal hIE carrying a weaponized coffin. Her name is Lacia, one of five highly advanced hIEs that recently escaped the clutches of the mysterious MemeFrame Corporation.\n\nFaced with a hacked car threatening to run them over, Lacia offers Arato a deal: in exchange for saving his life, he must register as her new owner, thus taking full responsibility for her actions. With little choice, he decides to trust this artificial girl and allows her to live in his home. Though Lacia begins to adapt to her new, peaceful lifestyle, she warns the entranced Arato of one thing—she does not have a soul.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ZKVpM8esO6Q?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Romance",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -106,5 +141,96 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz3DdiznsFFAXGhyyXoD13u3MKDko6E4VMnByhPVpZ2WlXWsVqBWpRvPoyPyeeGl_bkFV-1wBeGx9utsRyPkub5q5uTzr91EaKBCq_GS9cnF12PsBOa0LAWr-UJVBLwU5YH2to",
       "nome": "Protocol Love"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-13T00:00:00+00:00",
+    "to": "2018-06-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 30,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Jan 13, 2018 to Jun 30, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.22,
+  "scored_by": 56491,
+  "rank": 9106,
+  "popularity": 1489,
+  "members": 181195,
+  "favorites": 505,
+  "synopsis": "With great advancements in technology, mankind has created hIEs, human-like robots that act as public and personal servants for society. Unlike many others, the kind-hearted high school student Arato Endou treats hIEs as equals, but his financial situation keeps him from ever owning one.\n\nHowever, his normal life is shattered when an ordinary run to the local grocery store goes horribly awry. Viciously assaulted by a hacked hIE, Arato is on the verge of death; but luckily, he is saved by an abnormal hIE carrying a weaponized coffin. Her name is Lacia, one of five highly advanced hIEs that recently escaped the clutches of the mysterious MemeFrame Corporation.\n\nFaced with a hacked car threatening to run them over, Lacia offers Arato a deal: in exchange for saving his life, he must register as her new owner, thus taking full responsibility for her actions. With little choice, he decides to trust this artificial girl and allows her to live in his home. Though Lacia begins to adapt to her new, peaceful lifestyle, she warns the entranced Arato of one thing—she does not have a soul.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1449,
+      "type": "anime",
+      "name": "Animatic",
+      "url": "https://myanimelist.net/anime/producer/1449/Animatic"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1986/90184l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ZKVpM8esO6Q?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36516,
+  "slug": "beatless"
 }

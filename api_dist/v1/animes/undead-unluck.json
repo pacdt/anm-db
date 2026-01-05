@@ -1,18 +1,47 @@
 {
-  "id": 52741,
-  "slug": "undead-unluck",
-  "type": "legendado",
+  "mal_id": 52741,
+  "url": "https://myanimelist.net/anime/52741/Undead_Unluck",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1136/138410.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1136/138410t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1136/138410l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1136/138410.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1136/138410t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1136/138410l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/bZGXu-Ts_o4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Undead Unluck"
+    },
+    {
+      "type": "Japanese",
+      "title": "アンデッドアンラック"
+    }
+  ],
   "title": "Undead Unluck",
   "title_english": "Undead Unluck",
   "title_japanese": "アンデッドアンラック",
-  "image": "https://cdn.myanimelist.net/images/anime/1136/138410l.webp",
-  "score": 7.75,
-  "synopsis": "With the conclusion of her favorite romance manga, Fuuko Izumo is ready to end her life of misery and loneliness having long accepted her fate of never being able to experience passionate love like fictional characters. Cursed with \"unluck,\" anyone Fuuko touches is in grave danger of experiencing unimaginable calamity.\n\nWhile the possibility of imminent danger would have most sane people run in the opposite direction, Undead has other ideas. He is an immortal being with superhuman regenerative powers desperately seeking death, which has always eluded him. When their paths finally cross, Undead sees an opportunity to finally end his suffering by using Fuuko's unluck.\n\nBut before Undead can unlock the full potential of Fuuko's power to trigger the final devastating blow, the duo must first fend off a murderous secret organization hell-bent on exterminating those with special abilities.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/bZGXu-Ts_o4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -134,5 +163,102 @@
       "url": "https://lightspeedst.net/s7/mp4/undead-unluck/fhd/24.mp4",
       "nome": "To You, From Me"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-07T00:00:00+00:00",
+    "to": "2024-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 2024
+      }
+    },
+    "string": "Oct 7, 2023 to Mar 23, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.75,
+  "scored_by": 120114,
+  "rank": 1219,
+  "popularity": 807,
+  "members": 335336,
+  "favorites": 1889,
+  "synopsis": "With the conclusion of her favorite romance manga, Fuuko Izumo is ready to end her life of misery and loneliness having long accepted her fate of never being able to experience passionate love like fictional characters. Cursed with \"unluck,\" anyone Fuuko touches is in grave danger of experiencing unimaginable calamity.\n\nWhile the possibility of imminent danger would have most sane people run in the opposite direction, Undead has other ideas. He is an immortal being with superhuman regenerative powers desperately seeking death, which has always eluded him. When their paths finally cross, Undead sees an opportunity to finally end his suffering by using Fuuko's unluck.\n\nBut before Undead can unlock the full potential of Fuuko's power to trigger the final devastating blow, the duo must first fend off a murderous secret organization hell-bent on exterminating those with special abilities.\n\n[Written by MAL Rewrite]",
+  "background": "Undead Unluck was released on Blu-ray and DVD in two volumes from March 27, 2024, to June 26, 2024.",
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:23",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:23 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1136/138410l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/bZGXu-Ts_o4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 52741,
+  "slug": "undead-unluck"
 }

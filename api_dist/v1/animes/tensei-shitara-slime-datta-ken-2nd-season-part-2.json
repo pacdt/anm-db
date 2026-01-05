@@ -1,19 +1,69 @@
 {
-  "id": 41487,
-  "slug": "tensei-shitara-slime-datta-ken-2nd-season-part-2",
-  "type": "legendado",
+  "mal_id": 41487,
+  "url": "https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1033/118296.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1033/118296t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1033/118296l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1033/118296.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1033/118296t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1033/118296l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/nle-73CcG1k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tensura 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "転生したらスライムだった件"
+    },
+    {
+      "type": "English",
+      "title": "That Time I Got Reincarnated as a Slime Season 2 Part 2"
+    },
+    {
+      "type": "German",
+      "title": "Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 2 Teil 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "That Time I Got Reincarnated as a Slime Temporada 2 Parte 2"
+    },
+    {
+      "type": "French",
+      "title": "Moi, Quand Je Me Réincarne en Slime Saison 2 Partie 2"
+    }
+  ],
   "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
   "title_english": "That Time I Got Reincarnated as a Slime Season 2 Part 2",
   "title_japanese": "転生したらスライムだった件",
-  "image": "https://cdn.myanimelist.net/images/anime/1033/118296l.webp",
-  "score": 8.3,
-  "synopsis": "The nation of Tempest is in a festive mood after successfully overcoming the surprise attack from the Falmuth Army and the Western Holy Church. Beyond the festivities lies a meeting between Tempest and its allies to decide the future of the Nation of Monsters. The aftermath of the Falmuth invasion, Milim Nava's suspicious behavior, and the disappearance of Demon Lord Carrion—the problems seem to keep on piling up.\n\nRimuru Tempest, now awakened as a True Demon Lord, decides to go on the offensive against Clayman. With the fully revived Storm Dragon Veldora, Ultimate Skill Raphael, and other powerful comrades, the ruler of the Tempest is confident in taking down his enemies one by one until he can face the man pulling the strings.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/nle-73CcG1k?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Tensura 2"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +125,134 @@
       "url": "https://lightspeedst.net/s1/mp4/tensei-shitara-slime-datta-ken-2nd-season-part-2/fhd/12.mp4",
       "nome": "Octagram"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-07-06T00:00:00+00:00",
+    "to": "2021-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2021
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2021
+      }
+    },
+    "string": "Jul 6, 2021 to Sep 21, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.3,
+  "scored_by": 512491,
+  "rank": 306,
+  "popularity": 231,
+  "members": 884717,
+  "favorites": 11024,
+  "synopsis": "The nation of Tempest is in a festive mood after successfully overcoming the surprise attack from the Falmuth Army and the Western Holy Church. Beyond the festivities lies a meeting between Tempest and its allies to decide the future of the Nation of Monsters. The aftermath of the Falmuth invasion, Milim Nava's suspicious behavior, and the disappearance of Demon Lord Carrion—the problems seem to keep on piling up.\n\nRimuru Tempest, now awakened as a True Demon Lord, decides to go on the offensive against Clayman. With the fully revived Storm Dragon Veldora, Ultimate Skill Raphael, and other powerful comrades, the ruler of the Tempest is confident in taking down his enemies one by one until he can face the man pulling the strings.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2021,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    },
+    {
+      "mal_id": 1896,
+      "type": "anime",
+      "name": "Micro Magazine Publishing",
+      "url": "https://myanimelist.net/anime/producer/1896/Micro_Magazine_Publishing"
+    },
+    {
+      "mal_id": 1992,
+      "type": "anime",
+      "name": "Bandai Spirits",
+      "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+    },
+    {
+      "mal_id": 2106,
+      "type": "anime",
+      "name": "Sony Music Solutions",
+      "url": "https://myanimelist.net/anime/producer/2106/Sony_Music_Solutions"
+    },
+    {
+      "mal_id": 2232,
+      "type": "anime",
+      "name": "ADK Marketing Solutions",
+      "url": "https://myanimelist.net/anime/producer/2232/ADK_Marketing_Solutions"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 441,
+      "type": "anime",
+      "name": "8bit",
+      "url": "https://myanimelist.net/anime/producer/441/8bit"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1033/118296l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/nle-73CcG1k?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41487,
+  "slug": "tensei-shitara-slime-datta-ken-2nd-season-part-2"
 }

@@ -1,17 +1,51 @@
 {
-  "id": 54716,
-  "slug": "kibou-no-chikara-otona-precure-23",
-  "type": "legendado",
+  "mal_id": 54716,
+  "url": "https://myanimelist.net/anime/54716/Kibou_no_Chikara__Otona_Precure_23",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1192/138182.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/138182t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/138182l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1192/138182.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1192/138182t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1192/138182l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1d-u6ahqIdA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kibou no Chikara: Otona Precure '23"
+    },
+    {
+      "type": "Japanese",
+      "title": "キボウノチカラ～オトナプリキュア'23～"
+    },
+    {
+      "type": "English",
+      "title": "Power of Hope ~Precure Full Bloom~"
+    }
+  ],
   "title": "Kibou no Chikara: Otona Precure '23",
   "title_english": "Power of Hope ~Precure Full Bloom~",
   "title_japanese": "キボウノチカラ～オトナプリキュア'23～",
-  "image": "https://cdn.myanimelist.net/images/anime/1192/138182l.webp",
-  "score": 6.55,
-  "synopsis": "When Nozomi Yumehara was a very ordinary middle school student, she met the mysterious fairy Coco, who had come from Palmier Kingdom. In order to protect everyone's hopes, she became the Precure of Hope, Cure Dream, and fought against powerful enemies alongside her friends. Years later, Nozomi and her friends are now adults. They are all busy and enjoying their work, private lives, friends, family and love lives, while also stressing over the obstacles and troubles that adult life brings. Then suddenly, the mysterious Shadows appear, attacking humans. At the chiming of the clocktower bell, grown-up Nozomi and her friends embark on a new saga.\n\n(Source: Toei Animation)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1d-u6ahqIdA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +107,81 @@
       "url": "https://lightspeedst.net/s6/mp4/kibou-no-chikara-otona-precure-23/fhd/12.mp4",
       "nome": "The Power of Hope"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-07T00:00:00+00:00",
+    "to": "2023-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2023
+      }
+    },
+    "string": "Oct 7, 2023 to Dec 23, 2023"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.55,
+  "scored_by": 2725,
+  "rank": 7052,
+  "popularity": 7217,
+  "members": 9671,
+  "favorites": 29,
+  "synopsis": "When Nozomi Yumehara was a very ordinary middle school student, she met the mysterious fairy Coco, who had come from Palmier Kingdom. In order to protect everyone's hopes, she became the Precure of Hope, Cure Dream, and fought against powerful enemies alongside her friends. Years later, Nozomi and her friends are now adults. They are all busy and enjoying their work, private lives, friends, family and love lives, while also stressing over the obstacles and troubles that adult life brings. Then suddenly, the mysterious Shadows appear, attacking humans. At the chiming of the clocktower bell, grown-up Nozomi and her friends embark on a new saga.\n\n(Source: Toei Animation)",
+  "background": "",
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:25 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1192/138182l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1d-u6ahqIdA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54716,
+  "slug": "kibou-no-chikara-otona-precure-23"
 }

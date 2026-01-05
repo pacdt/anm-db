@@ -1,18 +1,69 @@
 {
-  "id": 32906,
-  "slug": "bishoujo-yuugi-unit-crane-game-girls",
-  "type": "legendado",
+  "mal_id": 32906,
+  "url": "https://myanimelist.net/anime/32906/Bishoujo_Yuugi_Unit_Crane_Game_Girls",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/78958.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/78958t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/78958l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/78958.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/78958t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/78958l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bishoujo Yuugi Unit Crane Game Girls"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bishoujo Yuugi Unit Crane Gale: Crane Game Girls"
+    },
+    {
+      "type": "Japanese",
+      "title": "美少女遊戯ユニットクレーンゲール Crane Game Girls"
+    },
+    {
+      "type": "English",
+      "title": "Crane Game Girls"
+    },
+    {
+      "type": "German",
+      "title": "Crane Game Girls"
+    },
+    {
+      "type": "Spanish",
+      "title": "Crane Game Girls"
+    },
+    {
+      "type": "French",
+      "title": "Crane Game Girls"
+    }
+  ],
   "title": "Bishoujo Yuugi Unit Crane Game Girls",
   "title_english": "Crane Game Girls",
   "title_japanese": "美少女遊戯ユニットクレーンゲール Crane Game Girls",
-  "image": "https://cdn.myanimelist.net/images/anime/12/78958l.webp",
-  "score": 4.41,
-  "synopsis": "One day, Saya, an agent of the World Space Association, receives a sudden message that says a large number of asteroids are on a collision course with Earth, and it is her mission to stop them. Unfortunately, the only way to save the Earth is by having three people with extraordinary potential demonstrate a new skill on a crane game, which will create a beam of energy able to divert the asteroids.\n\nThe only three people with enough potential are three high school girls—Asuka, Mirai, and Kyouko. In order to harness their energy, Saya tells them that she has scouted them as idols and has them work at an arcade where she can monitor them. She says to the girls that all successful idols are good at crane games, and that building their skills is their first step in idol training. As the girls learn new crane game techniques, they begin to doubt Saya's intentions but are nonetheless unaware that the fate of the Earth lies in their hands.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Bishoujo Yuugi Unit Crane Gale: Crane Game Girls"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +130,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx378DlLK7L0n6HXKTvKeAbaLA1tNtiW-P_E4hamyKX3GlFYNOAmF1-gjuAzhiuFyNGlHG9ZjVK0LJc35TbRpir2YieuQmzZbstrZptTuCWOj46VXZpRNJF1WmNuLzw6SfjPQ71",
       "nome": "Episode 13"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-06T00:00:00+00:00",
+    "to": "2016-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 6, 2016 to Jun 29, 2016"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG - Children",
+  "score": 4.41,
+  "scored_by": 4148,
+  "rank": 14378,
+  "popularity": 7544,
+  "members": 8682,
+  "favorites": 6,
+  "synopsis": "One day, Saya, an agent of the World Space Association, receives a sudden message that says a large number of asteroids are on a collision course with Earth, and it is her mission to stop them. Unfortunately, the only way to save the Earth is by having three people with extraordinary potential demonstrate a new skill on a crane game, which will create a beam of energy able to divert the asteroids.\n\nThe only three people with enough potential are three high school girls—Asuka, Mirai, and Kyouko. In order to harness their energy, Saya tells them that she has scouted them as idols and has them work at an arcade where she can monitor them. She says to the girls that all successful idols are good at crane games, and that building their skills is their first step in idol training. As the girls learn new crane game techniques, they begin to doubt Saya's intentions but are nonetheless unaware that the fate of the Earth lies in their hands.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 833,
+      "type": "anime",
+      "name": "Kyotoma",
+      "url": "https://myanimelist.net/anime/producer/833/Kyotoma"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/78958l.webp",
+  "trailer_url": null,
+  "id": 32906,
+  "slug": "bishoujo-yuugi-unit-crane-game-girls"
 }

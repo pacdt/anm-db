@@ -1,20 +1,61 @@
 {
-  "id": 552,
-  "slug": "digimon-adventure",
-  "type": "legendado",
+  "mal_id": 552,
+  "url": "https://myanimelist.net/anime/552/Digimon_Adventure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1471/99249.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/99249t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/99249l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1471/99249.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/99249t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/99249l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Digimon Adventure"
+    },
+    {
+      "type": "Synonym",
+      "title": "Digimon Adventure 01"
+    },
+    {
+      "type": "Japanese",
+      "title": "デジモンアドベンチャー"
+    },
+    {
+      "type": "English",
+      "title": "Digimon: Digital Monsters"
+    },
+    {
+      "type": "French",
+      "title": "Digimon: Digital Monsters"
+    }
+  ],
   "title": "Digimon Adventure",
   "title_english": "Digimon: Digital Monsters",
   "title_japanese": "デジモンアドベンチャー",
-  "image": "https://cdn.myanimelist.net/images/anime/1471/99249l.webp",
-  "score": 7.78,
-  "synopsis": "When a group of seven children go to summer camp, the last thing that they expect is snow falling in July. In the confusion that follows this phenomenon, they each receive an odd device that transports them to another world. As soon as they wake up in this new world, they encounter strange creatures who call themselves \"Digimon.\" The Digimon tell them that they've landed in the \"Digital World,\" far from home.\n\nWith only the Digimon and the \"Digivices\" as protection, the seven children set off to find their way home and learn the reason why they were brought here. Led by the impulsive Taichi Yagami and his hungry Digimon partner Agumon, this group will have to fight unknown evils as they discover more about this outlandish Digital World.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Digimon Adventure 01"
   ],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -286,5 +327,111 @@
       "url": "https://lightspeedst.net/s2/mp4/digimon-adventure/sd/54.mp4",
       "nome": "The Fate of Two Worlds"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-03-07T00:00:00+00:00",
+    "to": "2000-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 3,
+        "year": 1999
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2000
+      }
+    },
+    "string": "Mar 7, 1999 to Mar 26, 2000"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 7.78,
+  "scored_by": 267382,
+  "rank": 1152,
+  "popularity": 617,
+  "members": 422069,
+  "favorites": 5720,
+  "synopsis": "When a group of seven children go to summer camp, the last thing that they expect is snow falling in July. In the confusion that follows this phenomenon, they each receive an odd device that transports them to another world. As soon as they wake up in this new world, they encounter strange creatures who call themselves \"Digimon.\" The Digimon tell them that they've landed in the \"Digital World,\" far from home.\n\nWith only the Digimon and the \"Digivices\" as protection, the seven children set off to find their way home and learn the reason why they were brought here. Led by the impulsive Taichi Yagami and his hungry Digimon partner Agumon, this group will have to fight unknown evils as they discover more about this outlandish Digital World.\n\n[Written by MAL Rewrite]",
+  "background": "Digimon Adventure was originally planned to be a short film, but it was expanded into a full-fledged series before production could begin.",
+  "season": "spring",
+  "year": 1999,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "09:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 09:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 841,
+      "type": "anime",
+      "name": "Saban Entertainment",
+      "url": "https://myanimelist.net/anime/producer/841/Saban_Entertainment"
+    },
+    {
+      "mal_id": 1163,
+      "type": "anime",
+      "name": "Flatiron Film Company",
+      "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1471/99249l.webp",
+  "trailer_url": null,
+  "id": 552,
+  "slug": "digimon-adventure"
 }

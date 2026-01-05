@@ -1,17 +1,55 @@
 {
-  "id": 2116,
-  "slug": "captain-tsubasa",
-  "type": "legendado",
+  "mal_id": 2116,
+  "url": "https://myanimelist.net/anime/2116/Captain_Tsubasa",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1580/134917.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/134917t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/134917l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1580/134917.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/134917t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/134917l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Captain Tsubasa"
+    },
+    {
+      "type": "Japanese",
+      "title": "キャプテン翼"
+    },
+    {
+      "type": "English",
+      "title": "Flash Kicker"
+    },
+    {
+      "type": "Spanish",
+      "title": "Captain Tsubasa: Campeones: Oliver y Benji"
+    }
+  ],
   "title": "Captain Tsubasa",
   "title_english": "Flash Kicker",
   "title_japanese": "キャプテン翼",
-  "image": "https://cdn.myanimelist.net/images/anime/1580/134917l.webp",
-  "score": 7.36,
-  "synopsis": "Captain Tsubasa is the passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing soccer at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession. \n\nIn order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.\n\nHe encounters not only rivals, but also new friends like the pretty girl Sanae Nakazawa and the talented goalkeeper, Genzo Wakabayashi, who shares the same passion as Tsubasa, and will prove to be a treasured friend in helping him push towards his dreams. Representing Japan in the FIFA World Cup is Tsubasa’s ultimate dream, but it will take a lot more than talent to reach it.",
-  "trailer_url": null,
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -243,5 +281,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyf-avN7ieji_KXCbscjVBwHHIlX4DpcJiyMQQWFhMVZ4wk2EjQ3nV5Obq_VBjD3YDccc9xIMpcRxhGEPxzF8UdNx2gaSRqfL_PBYaMBFrDffx-F7vfiPpqkoCPZU9meqp6hDw",
       "nome": "Against Better Knowledge"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1983-10-13T00:00:00+00:00",
+    "to": "1986-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 1983
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 1986
+      }
+    },
+    "string": "Oct 13, 1983 to Mar 27, 1986"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.36,
+  "scored_by": 55158,
+  "rank": 2666,
+  "popularity": 2463,
+  "members": 92173,
+  "favorites": 640,
+  "synopsis": "Captain Tsubasa is the passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing soccer at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession. \n\nIn order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.\n\nHe encounters not only rivals, but also new friends like the pretty girl Sanae Nakazawa and the talented goalkeeper, Genzo Wakabayashi, who shares the same passion as Tsubasa, and will prove to be a treasured friend in helping him push towards his dreams. Representing Japan in the FIFA World Cup is Tsubasa’s ultimate dream, but it will take a lot more than talent to reach it.",
+  "background": "Captain Tsubasa has inspired real footballers such as Hidetoshi Nakata, Fernando Torres and Lionel Messi in their own football dreams. A bronze statue of Tsubasa Oozora was erected in Katsushika, Tokyo in 2013, which is the neighbourhood where the original manga creator lived.",
+  "season": "fall",
+  "year": 1983,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 390,
+      "type": "anime",
+      "name": "Tsuchida Productions",
+      "url": "https://myanimelist.net/anime/producer/390/Tsuchida_Productions"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1580/134917l.webp",
+  "trailer_url": null,
+  "id": 2116,
+  "slug": "captain-tsubasa"
 }

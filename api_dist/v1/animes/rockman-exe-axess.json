@@ -1,20 +1,57 @@
 {
-  "id": 2108,
-  "slug": "rockman-exe-axess",
-  "type": "legendado",
+  "mal_id": 2108,
+  "url": "https://myanimelist.net/anime/2108/RockmanEXE_Axess",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1409/133686.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1409/133686t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1409/133686l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1409/133686.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1409/133686t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1409/133686l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Rockman.EXE Axess"
+    },
+    {
+      "type": "Synonym",
+      "title": "Rockman EXE Axess"
+    },
+    {
+      "type": "Japanese",
+      "title": "ロックマンエグゼ Axess"
+    },
+    {
+      "type": "English",
+      "title": "MegaMan NT Warrior: Axess"
+    }
+  ],
   "title": "Rockman.EXE Axess",
   "title_english": "MegaMan NT Warrior: Axess",
   "title_japanese": "ロックマンエグゼ Axess",
-  "image": "https://cdn.myanimelist.net/images/anime/1409/133686l.webp",
-  "score": 7.14,
-  "synopsis": "Netto's father Yuuichirou Hikari has made a scientific breakthrough by introducing the \"synchro chips\". If an operator and his or her navi are in a special enviroment known as a \"dimensional area\", they can fuse together in the real world via a technique called \"cross fusion\"! Yuuichirou's first test subject, Misaki Gorou, attempts the process and sadly fails. Netto offers to try with Rockman, but his father forbids it. Cross Fusion puts enormous strain on the operator's health, and battling in the real world could mean death. \n\n(Source: Official Site)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Rockman EXE Axess"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -196,5 +233,92 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxfBaknoB5N2zT-xegqqCG7rhEPzYLPTrrJpR7jU8kRhkT4scA4i37_rEx2-3y8Lg_Mj7Qyi1qSrba7O6ALSDpp_wg2EcHFE_l7E6jgQSlD-XUIPDgcXtizycMOEYMsILSixgg",
       "nome": "Completion! New Style PET!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-10-04T00:00:00+00:00",
+    "to": "2004-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2003
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Oct 4, 2003 to Sep 25, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 7.14,
+  "scored_by": 9033,
+  "rank": 3867,
+  "popularity": 5521,
+  "members": 18866,
+  "favorites": 50,
+  "synopsis": "Netto's father Yuuichirou Hikari has made a scientific breakthrough by introducing the \"synchro chips\". If an operator and his or her navi are in a special enviroment known as a \"dimensional area\", they can fuse together in the real world via a technique called \"cross fusion\"! Yuuichirou's first test subject, Misaki Gorou, attempts the process and sadly fails. Netto offers to try with Rockman, but his father forbids it. Cross Fusion puts enormous strain on the operator's health, and battling in the real world could mean death. \n\n(Source: Official Site)",
+  "background": "",
+  "season": "fall",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 3087,
+      "type": "anime",
+      "name": "Shogakukan Productions",
+      "url": "https://myanimelist.net/anime/producer/3087/Shogakukan_Productions"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1409/133686l.webp",
+  "trailer_url": null,
+  "id": 2108,
+  "slug": "rockman-exe-axess"
 }

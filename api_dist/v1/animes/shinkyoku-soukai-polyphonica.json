@@ -1,19 +1,51 @@
 {
-  "id": 1727,
-  "slug": "shinkyoku-soukai-polyphonica",
-  "type": "legendado",
+  "mal_id": 1727,
+  "url": "https://myanimelist.net/anime/1727/Shinkyoku_Soukai_Polyphonica",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1610/95574.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/95574t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/95574l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1610/95574.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/95574t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/95574l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shinkyoku Soukai Polyphonica"
+    },
+    {
+      "type": "Japanese",
+      "title": "神曲奏界ポリフォニカ"
+    },
+    {
+      "type": "English",
+      "title": "Polyphonica"
+    }
+  ],
   "title": "Shinkyoku Soukai Polyphonica",
   "title_english": "Polyphonica",
   "title_japanese": "神曲奏界ポリフォニカ",
-  "image": "https://cdn.myanimelist.net/images/anime/1610/95574l.webp",
-  "score": 6.78,
-  "synopsis": "Phoron Tatara's no ordinary musician. As one of the rare Dantists who can summon elder spirits using music called Commandia, his gift is so strong that his spirit partner is none other than the infamous Corticarte Apa Lagranges. Sure, she may look like a young girl in her human form, but you don't get nicknames like \"The Crimson Annihilator\" and \"The Bloody Duchess\" for sitting back and watching the daisies grow.\n\nNow, at the behest of the Tsuge Divine Music Player Office, this dynamic duet travels the continent of Polyphonica on Phoron's combination motorcycle/organ, following the song of the open road, orchestrating rescues and generally fixing whatever's baroque! Some musicians wait for a muse to hit them, but Phoron makes his work for scale!\n\n(Source: RightStuf)",
-  "trailer_url": null,
-  "genres": [
-    "Drama",
-    "Fantasy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +107,139 @@
       "url": "https://lightspeedst.net/s3/mp4/shinkyoku-soukai-polyphonica/sd/12.mp4",
       "nome": "Symphony: The Divine Song of the Rainbow"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-04T00:00:00+00:00",
+    "to": "2007-06-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 20,
+        "month": 6,
+        "year": 2007
+      }
+    },
+    "string": "Apr 4, 2007 to Jun 20, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.78,
+  "scored_by": 11003,
+  "rank": 5696,
+  "popularity": 4366,
+  "members": 32824,
+  "favorites": 44,
+  "synopsis": "Phoron Tatara's no ordinary musician. As one of the rare Dantists who can summon elder spirits using music called Commandia, his gift is so strong that his spirit partner is none other than the infamous Corticarte Apa Lagranges. Sure, she may look like a young girl in her human form, but you don't get nicknames like \"The Crimson Annihilator\" and \"The Bloody Duchess\" for sitting back and watching the daisies grow.\n\nNow, at the behest of the Tsuge Divine Music Player Office, this dynamic duet travels the continent of Polyphonica on Phoron's combination motorcycle/organ, following the song of the open road, orchestrating rescues and generally fixing whatever's baroque! Some musicians wait for a muse to hit them, but Phoron makes his work for scale!\n\n(Source: RightStuf)",
+  "background": "",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 621,
+      "type": "anime",
+      "name": "SoftBank Creative",
+      "url": "https://myanimelist.net/anime/producer/621/SoftBank_Creative"
+    },
+    {
+      "mal_id": 647,
+      "type": "anime",
+      "name": "Memory-Tech",
+      "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+    },
+    {
+      "mal_id": 1015,
+      "type": "anime",
+      "name": "T.O Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1015/TO_Entertainment"
+    },
+    {
+      "mal_id": 1556,
+      "type": "anime",
+      "name": "Fuji Creative",
+      "url": "https://myanimelist.net/anime/producer/1556/Fuji_Creative"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 176,
+      "type": "anime",
+      "name": "Ginga Ya",
+      "url": "https://myanimelist.net/anime/producer/176/Ginga_Ya"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1610/95574l.webp",
+  "trailer_url": null,
+  "id": 1727,
+  "slug": "shinkyoku-soukai-polyphonica"
 }

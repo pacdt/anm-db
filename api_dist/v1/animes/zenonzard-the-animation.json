@@ -1,18 +1,51 @@
 {
-  "id": 40940,
-  "slug": "zenonzard-the-animation",
-  "type": "legendado",
+  "mal_id": 40940,
+  "url": "https://myanimelist.net/anime/40940/Zenonzard_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1035/106164.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1035/106164t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1035/106164l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1035/106164.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1035/106164t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1035/106164l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Zenonzard The Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゼノンザード THE ANIMATION"
+    },
+    {
+      "type": "English",
+      "title": "ZENONZARD THE ANIMATION"
+    }
+  ],
   "title": "Zenonzard The Animation",
   "title_english": "ZENONZARD THE ANIMATION",
   "title_japanese": "ゼノンザード THE ANIMATION",
-  "image": "https://cdn.myanimelist.net/images/anime/1035/106164l.webp",
-  "score": 5.88,
-  "synopsis": "Hinaria is unemployed, gaming every day. One day she decides to hack the servers belonging to the Beholder Group for some money, and she stumbles across a carefully secured record of two witches, Alice and Rimel. The two women wished to coexist with mankind, and the history they experienced is connected to the modern ZENONZARD.\n\n(Source: Official Site)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -46,5 +79,77 @@
       "numero": 8,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzp3L-6GfCOLoL3SYdtwimMtI13zCBbi3a54YZnnaAVIkje9fhLdnKUR1gxC08xQ6hIbif3wolGjRGEv4gcnlbqOGynsp2H5ClXCF1zwfKrDBSOWdy7bMRiY8hL1mLrlJZl5ZxX"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-31T00:00:00+00:00",
+    "to": "2020-10-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 31,
+        "month": 10,
+        "year": 2020
+      }
+    },
+    "string": "Jan 31, 2020 to Oct 31, 2020"
+  },
+  "duration": "14 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.88,
+  "scored_by": 3648,
+  "rank": 11071,
+  "popularity": 5355,
+  "members": 20457,
+  "favorites": 31,
+  "synopsis": "Hinaria is unemployed, gaming every day. One day she decides to hack the servers belonging to the Beholder Group for some money, and she stumbles across a carefully secured record of two witches, Alice and Rimel. The two women wished to coexist with mankind, and the history they experienced is connected to the modern ZENONZARD.\n\n(Source: Official Site)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 441,
+      "type": "anime",
+      "name": "8bit",
+      "url": "https://myanimelist.net/anime/producer/441/8bit"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1035/106164l.webp",
+  "trailer_url": null,
+  "id": 40940,
+  "slug": "zenonzard-the-animation"
 }

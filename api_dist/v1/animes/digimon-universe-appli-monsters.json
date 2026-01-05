@@ -1,21 +1,69 @@
 {
-  "id": 33314,
-  "slug": "digimon-universe-appli-monsters",
-  "type": "legendado",
+  "mal_id": 33314,
+  "url": "https://myanimelist.net/anime/33314/Digimon_Universe__Appli_Monsters",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1189/98841.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/98841t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/98841l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1189/98841.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1189/98841t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1189/98841l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/jEcbj4NkNwo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Digimon Universe: Appli Monsters"
+    },
+    {
+      "type": "Synonym",
+      "title": "Appmon"
+    },
+    {
+      "type": "Japanese",
+      "title": "デジモンユニバース アプリモンスターズ"
+    },
+    {
+      "type": "English",
+      "title": "Digimon Universe App Monsters"
+    },
+    {
+      "type": "German",
+      "title": "Digimon Universe App Monsters"
+    },
+    {
+      "type": "Spanish",
+      "title": "Digimon Universe App Monsters"
+    },
+    {
+      "type": "French",
+      "title": "Digimon Universe App Monsters"
+    }
+  ],
   "title": "Digimon Universe: Appli Monsters",
   "title_english": "Digimon Universe App Monsters",
   "title_japanese": "デジモンユニバース アプリモンスターズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1189/98841l.webp",
-  "score": 6.63,
-  "synopsis": "Everyone in the world uses smartphone apps. But inside them lurks unknown creatures called \"Appli Monsters,\" or \"Appmon.\" The Appmon are AI lifeforms with the ability to think and act, and exist in the boundary between the human world and digital space. In the vast sea of the internet, the \"last boss AI\" Leviathan takes control of the Appmon with a virus and begins hacking every system, thus starting to control the human world from the world of the net. Haru Shinkai is led to acquire the Appli Drive, and uses it to materialize Gatchmon, a search app monster.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/jEcbj4NkNwo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Appmon"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -277,5 +325,80 @@
       "url": "https://lightspeedst.net/s3/mp4/digimon-universe-appli-monsters/sd/52.mp4",
       "nome": "Our Singularity"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-01T00:00:00+00:00",
+    "to": "2017-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2017
+      }
+    },
+    "string": "Oct 1, 2016 to Sep 30, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 6.63,
+  "scored_by": 6789,
+  "rank": 6579,
+  "popularity": 5713,
+  "members": 17184,
+  "favorites": 91,
+  "synopsis": "Everyone in the world uses smartphone apps. But inside them lurks unknown creatures called \"Appli Monsters,\" or \"Appmon.\" The Appmon are AI lifeforms with the ability to think and act, and exist in the boundary between the human world and digital space. In the vast sea of the internet, the \"last boss AI\" Leviathan takes control of the Appmon with a virus and begins hacking every system, thus starting to control the human world from the world of the net. Haru Shinkai is led to acquire the Appli Drive, and uses it to materialize Gatchmon, a search app monster.\n\n(Source: ANN)",
+  "background": "The original airing time was Saturday 7:00 a.m., but it has been pushed back Saturday 9:30 a.m. starting April 1, 2017.",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "09:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 09:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1189/98841l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/jEcbj4NkNwo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33314,
+  "slug": "digimon-universe-appli-monsters"
 }

@@ -1,19 +1,70 @@
 {
-  "id": 4814,
-  "slug": "junjou-romantica-2",
-  "type": "legendado",
+  "mal_id": 4814,
+  "url": "https://myanimelist.net/anime/4814/Junjou_Romantica_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/38417.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/38417t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/38417l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/38417.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/38417t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/38417l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_RbvvzcLmzQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Junjou Romantica 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Junjou Romantica Second Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Junjyou Romantica II"
+    },
+    {
+      "type": "Japanese",
+      "title": "純情ロマンチカ2(に)"
+    },
+    {
+      "type": "English",
+      "title": "Junjo Romantica 2"
+    },
+    {
+      "type": "German",
+      "title": "Junjo Romantica 2"
+    },
+    {
+      "type": "French",
+      "title": "Junjo Romantica 2"
+    }
+  ],
   "title": "Junjou Romantica 2",
   "title_english": "Junjo Romantica 2",
   "title_japanese": "純情ロマンチカ2(に)",
-  "image": "https://cdn.myanimelist.net/images/anime/6/38417l.webp",
-  "score": 7.67,
-  "synopsis": "The second part of Junjou Romantica continuing the story.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_RbvvzcLmzQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Boys Love",
-    "Comedy",
-    "Drama"
+  "title_synonyms": [
+    "Junjou Romantica Second Season",
+    "Junjyou Romantica II"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +126,115 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxl8TUXs0B7z8qh0NjckcUPLD26gEgTgcuLe1xeddAcAG8-H7ZncCAjsAbihHDEXa5LTiEvxoEzTlbxgfQTCI2IbFCYACe1ETxcwdtlzzciWaq6M5p94ZQRsIOph81RvN7LGMxh",
       "nome": "All's Well That Ends Well"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-12T00:00:00+00:00",
+    "to": "2008-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2008
+      }
+    },
+    "string": "Oct 12, 2008 to Dec 28, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.67,
+  "scored_by": 110197,
+  "rank": 1448,
+  "popularity": 1445,
+  "members": 187304,
+  "favorites": 969,
+  "synopsis": "The second part of Junjou Romantica continuing the story.",
+  "background": "",
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 352,
+      "type": "anime",
+      "name": "Kadokawa Pictures Japan",
+      "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 647,
+      "type": "anime",
+      "name": "Memory-Tech",
+      "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+    },
+    {
+      "mal_id": 1293,
+      "type": "anime",
+      "name": "Romantica club !!",
+      "url": "https://myanimelist.net/anime/producer/1293/Romantica_club_"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Boys Love",
+    "Comedy",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/38417l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_RbvvzcLmzQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 4814,
+  "slug": "junjou-romantica-2"
 }

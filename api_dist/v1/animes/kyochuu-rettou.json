@@ -1,22 +1,169 @@
 {
-  "id": 38915,
-  "slug": "kyochuu-rettou",
-  "type": "legendado",
+  "mal_id": 38915,
+  "url": "https://myanimelist.net/anime/38915/Kyochuu_Rettou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1808/116867.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1808/116867t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1808/116867l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1808/116867.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1808/116867t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1808/116867l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3PqHO98z5QE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kyochuu Rettou"
+    },
+    {
+      "type": "Japanese",
+      "title": "巨蟲列島"
+    },
+    {
+      "type": "English",
+      "title": "The Island of Giant Insects"
+    },
+    {
+      "type": "German",
+      "title": "The Island of Giant Insects Folge OVA"
+    },
+    {
+      "type": "Spanish",
+      "title": "The Island of Giant Insects Episodio OVA"
+    },
+    {
+      "type": "French",
+      "title": "The Island of Giant Insects Épisode OVA"
+    }
+  ],
   "title": "Kyochuu Rettou",
   "title_english": "The Island of Giant Insects",
   "title_japanese": "巨蟲列島",
-  "image": "https://cdn.myanimelist.net/images/anime/1808/116867l.webp",
-  "score": 4.39,
-  "synopsis": "After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!\n\n(Source: MangaHelpers)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3PqHO98z5QE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Horror",
-    "Suspense"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzlxrT2H0_mtWV5wne5LgDroGg34AsUxLGU4WmstueP41RQvx6ALg74HT42l1nvneZbvKaDHpK3hl-rpTOWy6FnmEo5_6uW7csSzxrlbeVaf5fjwtEFlkGVyEd2VWkSUHWmjK8P"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-06-20T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 6,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 20, 2019"
+  },
+  "duration": "22 min",
+  "rating": "R+ - Mild Nudity",
+  "score": 4.39,
+  "scored_by": 8558,
+  "rank": 14386,
+  "popularity": 5288,
+  "members": 21138,
+  "favorites": 21,
+  "synopsis": "After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!\n\n(Source: MangaHelpers)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 911,
+      "type": "anime",
+      "name": "Passione",
+      "url": "https://myanimelist.net/anime/producer/911/Passione"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Survival",
+      "url": "https://myanimelist.net/anime/genre/76/Survival"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1808/116867l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3PqHO98z5QE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38915,
+  "slug": "kyochuu-rettou"
 }

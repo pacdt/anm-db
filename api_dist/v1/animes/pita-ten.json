@@ -1,19 +1,65 @@
 {
-  "id": 162,
-  "slug": "pita-ten",
-  "type": "legendado",
+  "mal_id": 162,
+  "url": "https://myanimelist.net/anime/162/Pita_Ten",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/25205.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/25205t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/25205l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/25205.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/25205t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/25205l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pita Ten"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pitaten"
+    },
+    {
+      "type": "Japanese",
+      "title": "ぴたテン"
+    },
+    {
+      "type": "English",
+      "title": "Pita-Ten"
+    },
+    {
+      "type": "German",
+      "title": "Pita-Ten"
+    },
+    {
+      "type": "Spanish",
+      "title": "Pita-Ten"
+    }
+  ],
   "title": "Pita Ten",
   "title_english": "Pita-Ten",
   "title_japanese": "ぴたテン",
-  "image": "https://cdn.myanimelist.net/images/anime/7/25205l.webp",
-  "score": 6.92,
-  "synopsis": "Kotarou was pretty much supposed to be your average boy, worried about the pressures of education while enjoying a simple life with his friends. Much to his despair, he one day finds the overly cheerful Misha at his door, asking to be friends out of nowhere. Even more shocking is that Misha is an apprentice angel, yet she does more bad then good. Along with Kotarou's school friends Takashi and Koboshi and the so called devil Shia (once again being able to do more good then bad), the group of friends spend their days getting into all sorts of adventures and troubles.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Pitaten"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +191,92 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dycADUHAs8zyXSv0ZBHnWvpZNqE7NZdXfa9C_kBVgCtO2Ig6Pdk2GW4euJvXPUO8Dc9xA6TpiYRMF0bepscqXyAPSix5FoNFozR9apyGMKUvXkLCk90e5Ovq_6D4rGCqNZFXTM",
       "nome": "How to Connect Our Feelings"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-04-07T00:00:00+00:00",
+    "to": "2002-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2002
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2002
+      }
+    },
+    "string": "Apr 7, 2002 to Sep 29, 2002"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.92,
+  "scored_by": 11252,
+  "rank": 4957,
+  "popularity": 4863,
+  "members": 25686,
+  "favorites": 92,
+  "synopsis": "Kotarou was pretty much supposed to be your average boy, worried about the pressures of education while enjoying a simple life with his friends. Much to his despair, he one day finds the overly cheerful Misha at his door, asking to be friends out of nowhere. Even more shocking is that Misha is an apprentice angel, yet she does more bad then good. Along with Kotarou's school friends Takashi and Koboshi and the so called devil Shia (once again being able to do more good then bad), the group of friends spend their days getting into all sorts of adventures and troubles.",
+  "background": "",
+  "season": "spring",
+  "year": 2002,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "09:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 09:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 116,
+      "type": "anime",
+      "name": "Broccoli",
+      "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/25205l.webp",
+  "trailer_url": null,
+  "id": 162,
+  "slug": "pita-ten"
 }

@@ -1,19 +1,69 @@
 {
-  "id": 18095,
-  "slug": "nourin",
-  "type": "legendado",
+  "mal_id": 18095,
+  "url": "https://myanimelist.net/anime/18095/Nourin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/57563.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/57563t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/57563l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/57563.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/57563t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/57563l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1Dhxhd8JWJY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nourin"
+    },
+    {
+      "type": "Synonym",
+      "title": "Agriculture and Forestry"
+    },
+    {
+      "type": "Japanese",
+      "title": "のうりん"
+    },
+    {
+      "type": "English",
+      "title": "No-Rin"
+    },
+    {
+      "type": "German",
+      "title": "No-Rin"
+    },
+    {
+      "type": "Spanish",
+      "title": "No-Rin"
+    },
+    {
+      "type": "French",
+      "title": "No-Rin"
+    }
+  ],
   "title": "Nourin",
   "title_english": "No-Rin",
   "title_japanese": "のうりん",
-  "image": "https://cdn.myanimelist.net/images/anime/6/57563l.webp",
-  "score": 6.74,
-  "synopsis": "Idol-obsessed Kousaku Hata is left devastated when his favorite, Yuka Kusakabe, unexpectedly announces her retirement at the peak of an illustrious career. As Yuka’s biggest fan, this news proves to be more difficult than he can bear. Shaken to his very core, he sinks into depression and places himself in self-imposed isolation. However, on the day his friends managed to convince him to attend school again, he gets a pleasant surprise.\n\nIt turns out that his beloved idol, under the guise of Ringo Kinoshita, has transferred into his class. This miraculous development fills Kousaku with newfound resolve, as he dedicates himself to take advantage of the once-in-a-lifetime opportunity. With the support of his teacher and friends, Kousaku works toward getting close to the girl of his dreams and uncovering the reason for her retirement from the entertainment industry.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1Dhxhd8JWJY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Agriculture and Forestry"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +125,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzqhK-L-r374Dy3VWrHxGXxZUTPVCbilPKjlaBrY_8KQFPskoQZNqe0hZM3TxQ2j7FTVCDMvQoTfXs-N-a16fqXddBSLgR0SoL2tDAcnJ9iTQBAE_irZiLP7Z9h25S7TiC0o5rp",
       "nome": "Everybody's No-Rin"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-11T00:00:00+00:00",
+    "to": "2014-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 11, 2014 to Mar 29, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.74,
+  "scored_by": 83233,
+  "rank": 5923,
+  "popularity": 1336,
+  "members": 203984,
+  "favorites": 310,
+  "synopsis": "Idol-obsessed Kousaku Hata is left devastated when his favorite, Yuka Kusakabe, unexpectedly announces her retirement at the peak of an illustrious career. As Yuka’s biggest fan, this news proves to be more difficult than he can bear. Shaken to his very core, he sinks into depression and places himself in self-imposed isolation. However, on the day his friends managed to convince him to attend school again, he gets a pleasant surprise.\n\nIt turns out that his beloved idol, under the guise of Ringo Kinoshita, has transferred into his class. This miraculous development fills Kousaku with newfound resolve, as he dedicates himself to take advantage of the once-in-a-lifetime opportunity. With the support of his teacher and friends, Kousaku works toward getting close to the girl of his dreams and uncovering the reason for her retirement from the entertainment industry.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/57563l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1Dhxhd8JWJY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 18095,
+  "slug": "nourin"
 }

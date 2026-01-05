@@ -1,18 +1,51 @@
 {
-  "id": 40934,
-  "slug": "bungou-to-alchemist-shinpan-no-haguruma",
-  "type": "legendado",
+  "mal_id": 40934,
+  "url": "https://myanimelist.net/anime/40934/Bungou_to_Alchemist__Shinpan_no_Haguruma",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1223/114346.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1223/114346t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1223/114346l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1223/114346.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1223/114346t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1223/114346l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/UIKMusmnZ1M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bungou to Alchemist: Shinpan no Haguruma"
+    },
+    {
+      "type": "Japanese",
+      "title": "文豪とアルケミスト 〜審判ノ歯車〜"
+    },
+    {
+      "type": "English",
+      "title": "Bungo and Alchemist -Gears of Judgement-"
+    }
+  ],
   "title": "Bungou to Alchemist: Shinpan no Haguruma",
   "title_english": "Bungo and Alchemist -Gears of Judgement-",
   "title_japanese": "文豪とアルケミスト 〜審判ノ歯車〜",
-  "image": "https://cdn.myanimelist.net/images/anime/1223/114346l.webp",
-  "score": 6.52,
-  "synopsis": "Famous writers throughout history find themselves being reincarnated by a mysterious, unseen entity known as the Alchemist. With their souls confined and bound to an expansive library, they are tasked by the Alchemist to jump into books to purify the pages of monsters called Taints. Along the way, they must also rescue and recruit fellow authors trapped within the very stories they themselves had written.\n\nAlthough the writers take on new and powerful forms for this endeavor, some still maintain a semblance of who they once were, while others struggle to remember their pasts and the works they had penned. Despite there being no apparent end to their grand mission, they remain committed to the cause in hope of resolving the mystery behind their collective resurrection as well as questions that have haunted their former lives.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/UIKMusmnZ1M?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +112,70 @@
       "url": "https://lightspeedst.net/s3/mp4/bungou-to-alchemist-shinpan-no-haguruma/hd/13.mp4",
       "nome": "Cogwheels Part 2"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-04T00:00:00+00:00",
+    "to": "2020-08-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 8,
+        "month": 8,
+        "year": 2020
+      }
+    },
+    "string": "Apr 4, 2020 to Aug 8, 2020"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.52,
+  "scored_by": 15067,
+  "rank": 7272,
+  "popularity": 3221,
+  "members": 58040,
+  "favorites": 244,
+  "synopsis": "Famous writers throughout history find themselves being reincarnated by a mysterious, unseen entity known as the Alchemist. With their souls confined and bound to an expansive library, they are tasked by the Alchemist to jump into books to purify the pages of monsters called Taints. Along the way, they must also rescue and recruit fellow authors trapped within the very stories they themselves had written.\n\nAlthough the writers take on new and powerful forms for this endeavor, some still maintain a semblance of who they once were, while others struggle to remember their pasts and the works they had penned. Despite there being no apparent end to their grand mission, they remain committed to the cause in hope of resolving the mystery behind their collective resurrection as well as questions that have haunted their former lives.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:23",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:23 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1223/114346l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/UIKMusmnZ1M?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40934,
+  "slug": "bungou-to-alchemist-shinpan-no-haguruma"
 }

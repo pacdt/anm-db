@@ -1,18 +1,51 @@
 {
-  "id": 857,
-  "slug": "air-gear",
-  "type": "legendado",
+  "mal_id": 857,
+  "url": "https://myanimelist.net/anime/857/Air_Gear",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/18227.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/18227t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/18227l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/18227.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/18227t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/18227l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/9lKEW0lvqcs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Air Gear"
+    },
+    {
+      "type": "Japanese",
+      "title": "エア・ギア"
+    },
+    {
+      "type": "English",
+      "title": "Air Gear"
+    }
+  ],
   "title": "Air Gear",
   "title_english": "Air Gear",
   "title_japanese": "エア・ギア",
-  "image": "https://cdn.myanimelist.net/images/anime/11/18227l.webp",
-  "score": 7.48,
-  "synopsis": "Air Trecks, also known as AT, are motorized and futuristic inline skates that are the new craze taking the nation by storm. Although each AT comes with a speed limiter, a community of daredevils known as the \"Storm Riders\" are brave enough to tamper with the device. Utilizing AT's in underground battles, individual teams wager valuable AT parts or team emblems—their symbol of pride—to dominate the streets.\n\nLiving in this era is Itsuki Minami, a middle school student notorious for engaging in street fights. Always wanting to reach heights no one else is able to, the reckless punk will break through any obstacle that stands in his way, alongside his best friends Kazuma Mikura and Onigiri. However, it is when he discovers a pair of Air Trecks in his house that the path to his true desire finally opens: to rule the skies.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/9lKEW0lvqcs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -139,5 +172,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw53XUt_KRSpB7e55z9f4xhrGDiK_gedT7ZiP8DiF_mezNntgl_lCthpl2sQlDDnrax6k5X2yAtz4YxuVgZY4n2vkqG1hW3ARqCf7Yb3CdlRsQlLDv9uhMv4n_4a_Kt2EVxHOHM",
       "nome": "I'm a genius!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-04-05T00:00:00+00:00",
+    "to": "2006-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2006
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2006
+      }
+    },
+    "string": "Apr 5, 2006 to Sep 27, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.48,
+  "scored_by": 185499,
+  "rank": 2138,
+  "popularity": 729,
+  "members": 369109,
+  "favorites": 3762,
+  "synopsis": "Air Trecks, also known as AT, are motorized and futuristic inline skates that are the new craze taking the nation by storm. Although each AT comes with a speed limiter, a community of daredevils known as the \"Storm Riders\" are brave enough to tamper with the device. Utilizing AT's in underground battles, individual teams wager valuable AT parts or team emblems—their symbol of pride—to dominate the streets.\n\nLiving in this era is Itsuki Minami, a middle school student notorious for engaging in street fights. Always wanting to reach heights no one else is able to, the reckless punk will break through any obstacle that stands in his way, alongside his best friends Kazuma Mikura and Onigiri. However, it is when he discovers a pair of Air Trecks in his house that the path to his true desire finally opens: to rule the skies.\n\n[Written by MAL Rewrite]",
+  "background": "Air Gear adapts chapters 1-103 of the original manga.",
+  "season": "spring",
+  "year": 2006,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Sports",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "Delinquents",
+      "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/18227l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/9lKEW0lvqcs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 857,
+  "slug": "air-gear"
 }

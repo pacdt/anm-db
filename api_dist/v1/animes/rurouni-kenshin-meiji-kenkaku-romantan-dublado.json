@@ -1,19 +1,74 @@
 {
-  "id": 45,
-  "slug": "rurouni-kenshin-meiji-kenkaku-romantan-dublado",
-  "type": "dublado",
+  "mal_id": 45,
+  "url": "https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/119505t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/119505l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1346/119505.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1346/119505t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1346/119505l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Samurai X"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wandering Kenshin: Romantic Tales from the Meiji Era"
+    },
+    {
+      "type": "Japanese",
+      "title": "るろうに剣心 -明治剣客浪漫譚-"
+    },
+    {
+      "type": "English",
+      "title": "Rurouni Kenshin"
+    },
+    {
+      "type": "German",
+      "title": "Rurouni Kenshin"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kenshin, el Guerrero Samurai"
+    },
+    {
+      "type": "French",
+      "title": "Kenshin le Vagabond"
+    }
+  ],
   "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
   "title_english": "Rurouni Kenshin",
   "title_japanese": "るろうに剣心 -明治剣客浪漫譚-",
-  "image": "https://cdn.myanimelist.net/images/anime/1346/119505l.webp",
-  "score": 8.28,
-  "synopsis": "In the final years of the Bakumatsu era lived a legendary assassin known as Hitokiri Battousai. Feared as a merciless killer, he was unmatched throughout the country, but mysteriously disappeared at the peak of the Japanese Revolution. It has been ten peaceful years since then, but the very mention of Battousai still strikes terror into the hearts of war veterans.\n\nUnbeknownst to them, Battousai has abandoned his bloodstained lifestyle in an effort to repent for his sins, now living as Kenshin Himura, a wandering swordsman with a cheerful attitude and a strong will. Vowing never to kill again, Kenshin dedicates himself to protecting the weak. One day, he stumbles across Kaoru Kamiya at her kendo dojo, which is being threatened by an impostor claiming to be Battousai. After receiving help from Kenshin, Kaoru allows him to stay at the dojo, and so the former assassin temporarily ceases his travels.\n\nRurouni Kenshin: Meiji Kenkaku Romantan tells the story of Kenshin as he strives to save those in need of saving. However, as enemies from both past and present begin to emerge, will the reformed killer be able to uphold his new ideals?\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Samurai X",
+    "Wandering Kenshin: Romantic Tales from the Meiji Era"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -489,5 +544,122 @@
       "numero": 95,
       "url": "https://lightspeedst.net/s2/mp4/rurouni-kenshin-meiji-kenkaku-romantan-dublado/sd/95.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-01-10T00:00:00+00:00",
+    "to": "1998-09-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 1996
+      },
+      "to": {
+        "day": 8,
+        "month": 9,
+        "year": 1998
+      }
+    },
+    "string": "Jan 10, 1996 to Sep 8, 1998"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.28,
+  "scored_by": 246437,
+  "rank": 322,
+  "popularity": 478,
+  "members": 520516,
+  "favorites": 10328,
+  "synopsis": "In the final years of the Bakumatsu era lived a legendary assassin known as Hitokiri Battousai. Feared as a merciless killer, he was unmatched throughout the country, but mysteriously disappeared at the peak of the Japanese Revolution. It has been ten peaceful years since then, but the very mention of Battousai still strikes terror into the hearts of war veterans.\n\nUnbeknownst to them, Battousai has abandoned his bloodstained lifestyle in an effort to repent for his sins, now living as Kenshin Himura, a wandering swordsman with a cheerful attitude and a strong will. Vowing never to kill again, Kenshin dedicates himself to protecting the weak. One day, he stumbles across Kaoru Kamiya at her kendo dojo, which is being threatened by an impostor claiming to be Battousai. After receiving help from Kenshin, Kaoru allows him to stay at the dojo, and so the former assassin temporarily ceases his travels.\n\nRurouni Kenshin: Meiji Kenkaku Romantan tells the story of Kenshin as he strives to save those in need of saving. However, as enemies from both past and present begin to emerge, will the reformed killer be able to uphold his new ideals?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 1996,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 149,
+      "type": "anime",
+      "name": "SME Visual Works",
+      "url": "https://myanimelist.net/anime/producer/149/SME_Visual_Works"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    },
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Gallop",
+      "url": "https://myanimelist.net/anime/producer/36/Gallop"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1346/119505l.webp",
+  "trailer_url": null,
+  "id": 45,
+  "slug": "rurouni-kenshin-meiji-kenkaku-romantan-dublado"
 }

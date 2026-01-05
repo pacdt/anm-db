@@ -1,19 +1,53 @@
 {
-  "id": 10611,
-  "slug": "r-15",
-  "type": "legendado",
+  "mal_id": 10611,
+  "url": "https://myanimelist.net/anime/10611/R-15",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/33029.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/33029t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33029l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/33029.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/33029t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33029l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/bK0HgI8hUCc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "R-15"
+    },
+    {
+      "type": "Synonym",
+      "title": "R-15"
+    },
+    {
+      "type": "Japanese",
+      "title": "あーるじゅうご"
+    }
+  ],
   "title": "R-15",
   "title_english": "R-15",
   "title_japanese": "あーるじゅうご",
-  "image": "https://cdn.myanimelist.net/images/anime/9/33029l.webp",
-  "score": 6.4,
-  "synopsis": "R-15 is about a boy, Taketo Akutagawa, who attends a school for geniuses: Inspiration Academy Private High School. Taketo is a genius novelist and writes erotica. Despite negative perceptions many people have of him, he aims to be at the top of his class and be recognized as the world's greatest writer.\n\n(Source: Wikipedia)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/bK0HgI8hUCc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "R-15"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +109,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxVy8wpGqPLnqPD1IQbMEMBycnG_9wTyiDG1LicT-DA1gyVvRBcLCNlJO4WlBVbvMP5n3zMXh2VWCTpf3y7Cr1Rhskctee7I6ZSfJogjBfRtm3rxUUkkpS5PiS7oIe-qh6dsQ",
       "nome": "I Love You!!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-10T00:00:00+00:00",
+    "to": "2011-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Jul 10, 2011 to Sep 25, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.4,
+  "scored_by": 40197,
+  "rank": 8024,
+  "popularity": 2420,
+  "members": 94403,
+  "favorites": 84,
+  "synopsis": "R-15 is about a boy, Taketo Akutagawa, who attends a school for geniuses: Inspiration Academy Private High School. Taketo is a genius novelist and writes erotica. Despite negative perceptions many people have of him, he aims to be at the top of his class and be recognized as the world's greatest writer.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 352,
+      "type": "anime",
+      "name": "Kadokawa Pictures Japan",
+      "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 779,
+      "type": "anime",
+      "name": "AMG MUSIC",
+      "url": "https://myanimelist.net/anime/producer/779/AMG_MUSIC"
+    },
+    {
+      "mal_id": 1255,
+      "type": "anime",
+      "name": "Glovision",
+      "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/33029l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/bK0HgI8hUCc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 10611,
+  "slug": "r-15"
 }

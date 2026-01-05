@@ -1,20 +1,66 @@
 {
-  "id": 1442,
-  "slug": "alexander-senki",
-  "type": "legendado",
+  "mal_id": 1442,
+  "url": "https://myanimelist.net/anime/1442/Alexander_Senki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1108/95688.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/95688t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/95688l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1108/95688.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/95688t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/95688l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Alexander Senki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Alexander's Campaign"
+    },
+    {
+      "type": "Synonym",
+      "title": "Alexander Record of War"
+    },
+    {
+      "type": "Japanese",
+      "title": "アレクサンダー戦記"
+    },
+    {
+      "type": "English",
+      "title": "Reign: The Conqueror"
+    },
+    {
+      "type": "French",
+      "title": "Alexander"
+    }
+  ],
   "title": "Alexander Senki",
   "title_english": "Reign: The Conqueror",
   "title_japanese": "アレクサンダー戦記",
-  "image": "https://cdn.myanimelist.net/images/anime/1108/95688l.webp",
-  "score": 5.78,
-  "synopsis": "In 356 BC, Alexander the Great arrives in Greece with the ominous destiny that he will become the \"destroyer of the world.\" Inheriting the crown, he becomes king of the Macedonians and starts down a road of conquest with terrific speed. Alexander ultimately confronts his fated nemesis, Darius the Third, in a war with Persia which changes Alexander into the devil he was fated to become, assuring the destruction of all in his path, and possibly himself.\n\n(Source: TBS Global Business)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Alexander's Campaign",
+    "Alexander Record of War"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -81,5 +127,110 @@
       "url": "https://lightspeedst.net/s3/mp4/alexander-senki/sd/13.mp4",
       "nome": "The Prophecy Come to Pass"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-09-15T00:00:00+00:00",
+    "to": "1999-09-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 9,
+        "year": 1999
+      },
+      "to": {
+        "day": 18,
+        "month": 9,
+        "year": 1999
+      }
+    },
+    "string": "Sep 15, 1999 to Sep 18, 1999"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.78,
+  "scored_by": 3860,
+  "rank": 11565,
+  "popularity": 7168,
+  "members": 9853,
+  "favorites": 39,
+  "synopsis": "In 356 BC, Alexander the Great arrives in Greece with the ominous destiny that he will become the \"destroyer of the world.\" Inheriting the crown, he becomes king of the Macedonians and starts down a road of conquest with terrific speed. Alexander ultimately confronts his fated nemesis, Darius the Third, in a war with Persia which changes Alexander into the devil he was fated to become, assuring the destruction of all in his path, and possibly himself.\n\n(Source: TBS Global Business)",
+  "background": "",
+  "season": "summer",
+  "year": 1999,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Not scheduled once per week"
+  },
+  "producers": [
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 1913,
+      "type": "anime",
+      "name": "Kadokawa Haruki Corporation",
+      "url": "https://myanimelist.net/anime/producer/1913/Kadokawa_Haruki_Corporation"
+    },
+    {
+      "mal_id": 1914,
+      "type": "anime",
+      "name": "Samsung",
+      "url": "https://myanimelist.net/anime/producer/1914/Samsung"
+    },
+    {
+      "mal_id": 1915,
+      "type": "anime",
+      "name": "Namisokan",
+      "url": "https://myanimelist.net/anime/producer/1915/Namisokan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 484,
+      "type": "anime",
+      "name": "Tokyopop",
+      "url": "https://myanimelist.net/anime/producer/484/Tokyopop"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1108/95688l.webp",
+  "trailer_url": null,
+  "id": 1442,
+  "slug": "alexander-senki"
 }

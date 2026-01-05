@@ -1,21 +1,61 @@
 {
-  "id": 246,
-  "slug": "groove-adventure-rave",
-  "type": "legendado",
+  "mal_id": 246,
+  "url": "https://myanimelist.net/anime/246/Groove_Adventure_Rave",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/20134.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/20134t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/20134l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/20134.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/20134t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/20134l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zUTWNo1fC4Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Groove Adventure Rave"
+    },
+    {
+      "type": "Synonym",
+      "title": "Rave"
+    },
+    {
+      "type": "Japanese",
+      "title": "レイヴ"
+    },
+    {
+      "type": "English",
+      "title": "Rave Master"
+    },
+    {
+      "type": "French",
+      "title": "Rave Master"
+    }
+  ],
   "title": "Groove Adventure Rave",
   "title_english": "Rave Master",
   "title_japanese": "レイヴ",
-  "image": "https://cdn.myanimelist.net/images/anime/9/20134l.webp",
-  "score": 7.2,
-  "synopsis": "Fifty years ago, malevolent stones known as Dark Brings brought about the \"Overdrive,\" a calamitous event that destroyed one-tenth of the world. In the present day, the nefarious organization Demon Card seeks the Dark Brings' power for their all but innocent intentions. \n\nHaru Glory, a sword-wielding silver-haired teenager, inherits the title of Rave Master: the person who wields the power of the legendary Rave Stones, artifacts capable of destroying the Dark Brings. However, the many Rave Stones were scattered across the globe as a result of the Overdrive, allowing Demon Card to continue their malpractices. \n\nGroove Adventure Rave follows Haru, his strange dog Plue, the fiery blonde Ellie, and the infamous thief Musica, as they embark on a great journey that will take them around the vast world, searching for the Rave Stones that will finally end Demon Card's injustice.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/zUTWNo1fC4Q?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Rave"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -272,5 +312,93 @@
       "url": "https://lightspeedst.net/s3/mp4/groove-adventure-rave/sd/51.mp4",
       "nome": "Vow Towards the Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-10-13T00:00:00+00:00",
+    "to": "2002-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 2001
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2002
+      }
+    },
+    "string": "Oct 13, 2001 to Sep 28, 2002"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.2,
+  "scored_by": 42531,
+  "rank": 3503,
+  "popularity": 2248,
+  "members": 105832,
+  "favorites": 384,
+  "synopsis": "Fifty years ago, malevolent stones known as Dark Brings brought about the \"Overdrive,\" a calamitous event that destroyed one-tenth of the world. In the present day, the nefarious organization Demon Card seeks the Dark Brings' power for their all but innocent intentions. \n\nHaru Glory, a sword-wielding silver-haired teenager, inherits the title of Rave Master: the person who wields the power of the legendary Rave Stones, artifacts capable of destroying the Dark Brings. However, the many Rave Stones were scattered across the globe as a result of the Overdrive, allowing Demon Card to continue their malpractices. \n\nGroove Adventure Rave follows Haru, his strange dog Plue, the fiery blonde Ellie, and the infamous thief Musica, as they embark on a great journey that will take them around the vast world, searching for the Rave Stones that will finally end Demon Card's injustice.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2001,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 484,
+      "type": "anime",
+      "name": "Tokyopop",
+      "url": "https://myanimelist.net/anime/producer/484/Tokyopop"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/9/20134l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/zUTWNo1fC4Q?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 246,
+  "slug": "groove-adventure-rave"
 }

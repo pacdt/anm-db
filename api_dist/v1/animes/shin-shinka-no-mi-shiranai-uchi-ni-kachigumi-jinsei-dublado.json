@@ -1,19 +1,57 @@
 {
-  "id": 51495,
-  "slug": "shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-dublado",
-  "type": "dublado",
+  "mal_id": 51495,
+  "url": "https://myanimelist.net/anime/51495/Shin_Shinka_no_Mi__Shiranai_Uchi_ni_Kachigumi_Jinsei",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1862/128297.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1862/128297t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1862/128297l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1862/128297.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1862/128297t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1862/128297l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/d5FndkCYsXE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shinka no Mi 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "真・進化の実～知らないうちに勝ち組人生～"
+    },
+    {
+      "type": "English",
+      "title": "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2"
+    }
+  ],
   "title": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
   "title_english": "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2",
   "title_japanese": "真・進化の実～知らないうちに勝ち組人生～",
-  "image": "https://cdn.myanimelist.net/images/anime/1862/128297l.webp",
-  "score": 5.48,
-  "synopsis": "Thanks to the Fruit of Evolution, Seiichi Hiiragi's amazing new life in another world allows him to meet dependable allies and create formidable spells. His abilities catch the attention of Barnabus Ablitt, the principal of the Barbador Academy of Magic, who invites Seiichi to become a teacher at the institution. Coincidentally, Seiichi's classmates from Earth are enrolled there, which will lead to an awkward reunion if he is to meet them.\n\nBehind the scenes, however, an enigmatic cult called The Great Devil Order devises a sinister scheme to resurrect their deity and sacrifice the students of Barbador to hasten the process. As Seiichi's power is second to none, it is up to him to protect not only his friends but also the entire world from the looming darkness.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/d5FndkCYsXE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Shinka no Mi 2nd Season"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +113,126 @@
       "url": "https://lightspeedst.net/s6/mp4/shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-dublado/fhd/12.mp4",
       "nome": "True Fruit of Evolution"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-14T00:00:00+00:00",
+    "to": "2023-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2023
+      }
+    },
+    "string": "Jan 14, 2023 to Apr 1, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.48,
+  "scored_by": 51684,
+  "rank": 12774,
+  "popularity": 1987,
+  "members": 126372,
+  "favorites": 591,
+  "synopsis": "Thanks to the Fruit of Evolution, Seiichi Hiiragi's amazing new life in another world allows him to meet dependable allies and create formidable spells. His abilities catch the attention of Barnabus Ablitt, the principal of the Barbador Academy of Magic, who invites Seiichi to become a teacher at the institution. Coincidentally, Seiichi's classmates from Earth are enrolled there, which will lead to an awkward reunion if he is to meet them.\n\nBehind the scenes, however, an enigmatic cult called The Great Devil Order devises a sinister scheme to resurrect their deity and sacrifice the students of Barbador to hasten the process. As Seiichi's power is second to none, it is up to him to protect not only his friends but also the entire world from the looming darkness.\n\n[Written by MAL Rewrite]",
+  "background": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei was released on Blu-ray and DVD on May 26, 2023.",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:23",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:23 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 134,
+      "type": "anime",
+      "name": "HoriPro",
+      "url": "https://myanimelist.net/anime/producer/134/HoriPro"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1255,
+      "type": "anime",
+      "name": "Glovision",
+      "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1377,
+      "type": "anime",
+      "name": "Futabasha",
+      "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 2228,
+      "type": "anime",
+      "name": "Bushiroad Move",
+      "url": "https://myanimelist.net/anime/producer/2228/Bushiroad_Move"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 723,
+      "type": "anime",
+      "name": "Hotline",
+      "url": "https://myanimelist.net/anime/producer/723/Hotline"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1862/128297l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/d5FndkCYsXE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51495,
+  "slug": "shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-dublado"
 }

@@ -1,20 +1,61 @@
 {
-  "id": 249,
-  "slug": "inuyasha",
-  "type": "legendado",
+  "mal_id": 249,
+  "url": "https://myanimelist.net/anime/249/InuYasha",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/95329t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/95329l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1589/95329.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/95329t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/95329l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/UCFBsLagBPk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "InuYasha"
+    },
+    {
+      "type": "Synonym",
+      "title": "Inu Yasha"
+    },
+    {
+      "type": "Japanese",
+      "title": "犬夜叉"
+    },
+    {
+      "type": "English",
+      "title": "InuYasha"
+    },
+    {
+      "type": "Spanish",
+      "title": "Inuyasha"
+    }
+  ],
   "title": "InuYasha",
   "title_english": "InuYasha",
   "title_japanese": "犬夜叉",
-  "image": "https://cdn.myanimelist.net/images/anime/1589/95329l.webp",
-  "score": 7.87,
-  "synopsis": "Kagome Higurashi's 15th birthday takes a sudden turn when she is forcefully pulled by a demon into the old well of her family's shrine. Brought to the past, when demons were a common sight in feudal Japan, Kagome finds herself persistently hunted by these vile creatures, all yearning for an item she unknowingly carries: the Shikon Jewel, a small sphere holding extraordinary power. \n\nAmid such a predicament, Kagome encounters a half-demon boy named Inuyasha who mistakes her for Kikyou, a shrine maiden he seems to resent. Because of her resemblance to Kikyou, Inuyasha takes a violent dislike to Kagome. However, after realizing the dire circumstances they are both in, he sets aside his hostility and lends her a hand. \n\nUnfortunately, during a fight for the Shikon Jewel, the miraculous object ends up shattered into pieces and scattered across the land. Fearing the disastrous consequences of this accident, Kagome and Inuyasha set out on a challenging quest to recover the shards before they fall into the wrong hands.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/UCFBsLagBPk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Inu Yasha"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -851,5 +892,117 @@
       "url": "https://lightspeedst.net/s4/mp4/inuyasha/sd/167.mp4",
       "nome": "The Bond Between Them, Use the Sacred Jewel Shard! (Part 2)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-10-16T00:00:00+00:00",
+    "to": "2004-09-13T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 10,
+        "year": 2000
+      },
+      "to": {
+        "day": 13,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Oct 16, 2000 to Sep 13, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.87,
+  "scored_by": 411324,
+  "rank": 924,
+  "popularity": 249,
+  "members": 849904,
+  "favorites": 19844,
+  "synopsis": "Kagome Higurashi's 15th birthday takes a sudden turn when she is forcefully pulled by a demon into the old well of her family's shrine. Brought to the past, when demons were a common sight in feudal Japan, Kagome finds herself persistently hunted by these vile creatures, all yearning for an item she unknowingly carries: the Shikon Jewel, a small sphere holding extraordinary power. \n\nAmid such a predicament, Kagome encounters a half-demon boy named Inuyasha who mistakes her for Kikyou, a shrine maiden he seems to resent. Because of her resemblance to Kikyou, Inuyasha takes a violent dislike to Kagome. However, after realizing the dire circumstances they are both in, he sets aside his hostility and lends her a hand. \n\nUnfortunately, during a fight for the Shikon Jewel, the miraculous object ends up shattered into pieces and scattered across the land. Fearing the disastrous consequences of this accident, Kagome and Inuyasha set out on a challenging quest to recover the shards before they fall into the wrong hands.\n\n[Written by MAL Rewrite]",
+  "background": "This first InuYasha anime series, alternatively known as Sengoku Otogizoushi InuYasha, was broadcast in more than 30 countries outside Japan. In North America, it aired on Adult Swim, Toonami, and YTV's Bionix. The series' success led to over one million English-language DVDs being sold between March 2003 and November 2004. The anime won the \"Property of the Year\" award in ICv2's Anime Awards for both 2004 and 2005. It placed third in Animage's Anime Grand Prix \"Best Anime\" category in 2003. Between January 2004 and December 2008, Viz Media, the official licensor of the English dub version in the USA, released 30 animanga volumes based on screenshots of the anime's episodes.",
+  "season": "fall",
+  "year": 2000,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 3165,
+      "type": "anime",
+      "name": "Avex Mode",
+      "url": "https://myanimelist.net/anime/producer/3165/Avex_Mode"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1589/95329l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/UCFBsLagBPk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 249,
+  "slug": "inuyasha"
 }

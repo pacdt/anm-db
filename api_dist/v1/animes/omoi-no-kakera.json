@@ -1,22 +1,116 @@
 {
-  "id": 32190,
-  "slug": "omoi-no-kakera",
-  "type": "legendado",
+  "mal_id": 32190,
+  "url": "https://myanimelist.net/anime/32190/Omoi_no_Kakera",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/80101.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/80101t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/80101l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/80101.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/80101t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/80101l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Omoi no Kakera"
+    },
+    {
+      "type": "Japanese",
+      "title": "想いのかけら"
+    }
+  ],
   "title": "Omoi no Kakera",
   "title_english": "Omoi no Kakera",
   "title_japanese": "想いのかけら",
-  "image": "https://cdn.myanimelist.net/images/anime/5/80101l.webp",
-  "score": 6.48,
-  "synopsis": "Hina Satou is a 13-year-old who loves figure skating and lives in a port town in Miyagi Prefecture. After losing her mother in the 2011 earthquake, she and her father are currently living in temporary housing. With sad memories of the earthquake and memories of a gentle mother, the cheerful Hina continues to move toward her dreams.\n\n(Source: Fukushima Gainax)",
-  "trailer_url": null,
-  "genres": [
-    "Slice of Life",
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzWotHtMBfL1bJQCk1C1uLiBdyi50bB0q6BA5pZDSPR33SJGbN2wvaWpB6ALRsJBJ8F6zRy5HE8uXX1HvIOremMrXWHwdpJSgFYADrYwQ9S59xycPvHZAwwQiJVnM8WgY-l4WDl"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-03-24T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 3,
+        "year": 2016
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 24, 2016"
+  },
+  "duration": "24 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.48,
+  "scored_by": 2950,
+  "rank": 7531,
+  "popularity": 8339,
+  "members": 6719,
+  "favorites": 4,
+  "synopsis": "Hina Satou is a 13-year-old who loves figure skating and lives in a port town in Miyagi Prefecture. After losing her mother in the 2011 earthquake, she and her father are currently living in temporary housing. With sad memories of the earthquake and memories of a gentle mother, the cheerful Hina continues to move toward her dreams.\n\n(Source: Fukushima Gainax)",
+  "background": "Production of Omoi no Kakera was led by NHK Sendai Broadcasting, which brought together six NHK broadcast stations in the Tohoku region in a project to support reconstruction efforts for the 2011 earthquake and tsunami. A two-minute pilot was first screened at the 2015 NHK Trophy ISU Grand Prix of Figure Skating in Nagano and later on NHK networks across Japan.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1314,
+      "type": "anime",
+      "name": "Gaina",
+      "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+    }
+  ],
+  "genres": [
+    "Slice of Life",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/80101l.webp",
+  "trailer_url": null,
+  "id": 32190,
+  "slug": "omoi-no-kakera"
 }

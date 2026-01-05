@@ -1,19 +1,62 @@
 {
-  "id": 18115,
-  "slug": "magi-the-kingdom-of-magic",
-  "type": "legendado",
+  "mal_id": 18115,
+  "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/55039.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/55039t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/55039l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/55039.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/55039t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/55039l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5ujX_FFmU0k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Magi: The Kingdom of Magic"
+    },
+    {
+      "type": "Synonym",
+      "title": "Magi: The Labyrinth of Magic 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Magi Season 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "マギ The kingdom of magic"
+    },
+    {
+      "type": "English",
+      "title": "Magi: The Kingdom of Magic"
+    }
+  ],
   "title": "Magi: The Kingdom of Magic",
   "title_english": "Magi: The Kingdom of Magic",
   "title_japanese": "マギ The kingdom of magic",
-  "image": "https://cdn.myanimelist.net/images/anime/13/55039l.webp",
-  "score": 8.2,
-  "synopsis": "After celebrating their victory against Al-Thamen, Aladdin and his friends depart the land of Sindria. With the end of the battle, however, comes the time for each of them to go their separate ways. Hakuryuu and Kougyoku are ordered to go back to their home country, the Kou Empire. Meanwhile Aladdin announces he needs to head for Magnostadt—a mysterious country ruled by magicians—to investigate the mysterious events occurring in this new kingdom and become more proficient in magic. For their part, encouraged by Aladdin's words, Alibaba and Morgiana also set off in pursuit of their own goals: training and going to her homeland, respectively.\n\nMagi: The Kingdom of Magic follows these friends as they all go about their separate adventures, each facing their own challenges. However, a new threat begins to rise as a great war looms over the horizon...\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/5ujX_FFmU0k?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Magi: The Labyrinth of Magic 2",
+    "Magi Season 2"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -140,5 +183,115 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyp_lsjC41c_c-jhrUTw6ztG86c7DGN19qmF7wk9ICo3NGO6gEmwh3o47dCinNdrCCXIU1eaA6VE--BzlA21urWjsTMK86B7LLPVqvwplCEBclkxRWFzdH3Dg8kmy884e4q85I",
       "nome": "Welcome Home"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-10-06T00:00:00+00:00",
+    "to": "2014-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2013
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Oct 6, 2013 to Mar 30, 2014"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.2,
+  "scored_by": 479751,
+  "rank": 415,
+  "popularity": 227,
+  "members": 889074,
+  "favorites": 7792,
+  "synopsis": "After celebrating their victory against Al-Thamen, Aladdin and his friends depart the land of Sindria. With the end of the battle, however, comes the time for each of them to go their separate ways. Hakuryuu and Kougyoku are ordered to go back to their home country, the Kou Empire. Meanwhile Aladdin announces he needs to head for Magnostadt—a mysterious country ruled by magicians—to investigate the mysterious events occurring in this new kingdom and become more proficient in magic. For their part, encouraged by Aladdin's words, Alibaba and Morgiana also set off in pursuit of their own goals: training and going to her homeland, respectively.\n\nMagi: The Kingdom of Magic follows these friends as they all go about their separate adventures, each facing their own challenges. However, a new threat begins to rise as a great war looms over the horizon...\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2013,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 17:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 1602,
+      "type": "anime",
+      "name": "GYAO!",
+      "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/13/55039l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/5ujX_FFmU0k?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 18115,
+  "slug": "magi-the-kingdom-of-magic"
 }

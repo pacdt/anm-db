@@ -1,19 +1,57 @@
 {
-  "id": 37184,
-  "slug": "ze-tian-ji-2nd-season",
-  "type": "legendado",
+  "mal_id": 37184,
+  "url": "https://myanimelist.net/anime/37184/Ze_Tian_Ji_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1592/90238.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1592/90238t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1592/90238l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1592/90238.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1592/90238t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1592/90238l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ze Tian Ji 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fighter of the Destiny"
+    },
+    {
+      "type": "Japanese",
+      "title": "择天记 第二季"
+    },
+    {
+      "type": "English",
+      "title": "Way of Choices"
+    }
+  ],
   "title": "Ze Tian Ji 2nd Season",
   "title_english": "Way of Choices",
   "title_japanese": "择天记 第二季",
-  "image": "https://cdn.myanimelist.net/images/anime/1592/90238l.webp",
-  "score": 6.99,
-  "synopsis": "The second season of Ze Tian Ji.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Fighter of the Destiny"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +101,84 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzYlEP2GNFv55gB76CoeVqrakR0Af16P62AMmi6fGhh1Een4Uz67nUOUq0N-I46lNu5ldLJHp4zSNc7E3S_HH_rAGzkk9E4WJtNh4bQTMPSenCazsGXHYf2R73qu1kT7ZzgzmUX"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-07-20T00:00:00+00:00",
+    "to": "2016-10-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 7,
+        "year": 2016
+      },
+      "to": {
+        "day": 5,
+        "month": 10,
+        "year": 2016
+      }
+    },
+    "string": "Jul 20, 2016 to Oct 5, 2016"
+  },
+  "duration": "19 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.99,
+  "scored_by": 1682,
+  "rank": 4637,
+  "popularity": 9979,
+  "members": 4133,
+  "favorites": 4,
+  "synopsis": "The second season of Ze Tian Ji.",
+  "background": "Episodes 14-25 of Ze Tian Ji.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1667,
+      "type": "anime",
+      "name": "Foch Film",
+      "url": "https://myanimelist.net/anime/producer/1667/Foch_Film"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1592/90238l.webp",
+  "trailer_url": null,
+  "id": 37184,
+  "slug": "ze-tian-ji-2nd-season"
 }

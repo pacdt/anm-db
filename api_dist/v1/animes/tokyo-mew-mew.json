@@ -1,18 +1,55 @@
 {
-  "id": 687,
-  "slug": "tokyo-mew-mew",
-  "type": "legendado",
+  "mal_id": 687,
+  "url": "https://myanimelist.net/anime/687/Tokyo_Mew_Mew",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/89298.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89298t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89298l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/89298.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89298t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89298l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tokyo Mew Mew"
+    },
+    {
+      "type": "Japanese",
+      "title": "東京ミュウミュウ"
+    },
+    {
+      "type": "English",
+      "title": "Mew Mew Power"
+    },
+    {
+      "type": "French",
+      "title": "Mew Mew Power"
+    }
+  ],
   "title": "Tokyo Mew Mew",
   "title_english": "Mew Mew Power",
   "title_japanese": "東京ミュウミュウ",
-  "image": "https://cdn.myanimelist.net/images/anime/4/89298l.webp",
-  "score": 7.11,
-  "synopsis": "Ichigo Momomiya expected her date with her crush, Masaya Aoyama, to have a more romantic ending than her falling asleep after she sees a vision of a cat entering her body. Things get even stranger when, the next day, she begins displaying cat-like behaviors such as an intense craving for fish. When Masaya is attacked by a monster, she discovers that she is able to transform into the cat-eared magical girl, Mew Ichigo.\n \nAfter she saves Masaya, two researchers named Ryou Shirogane and Keiichiro Akasaka approach her and reveal they had injected her with Iriomote Cat DNA in order to create a magical girl that can save the world from aliens. Ichigo is tasked with fighting these monsters, but saving the world proves to be just too much for Ichigo to handle by herself. Fortunately, she learns that there are four other girls just like her, and now, Ichigo must find them quickly before the aliens completely take over the planet.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Romance",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -274,5 +311,103 @@
       "url": "https://lightspeedst.net/s2/mp4/tokyo-mew-mew/sd/52.mp4",
       "nome": "We Serve the Future of the Earth!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-04-06T00:00:00+00:00",
+    "to": "2003-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2002
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2003
+      }
+    },
+    "string": "Apr 6, 2002 to Mar 29, 2003"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.11,
+  "scored_by": 78750,
+  "rank": 4056,
+  "popularity": 1609,
+  "members": 165878,
+  "favorites": 1764,
+  "synopsis": "Ichigo Momomiya expected her date with her crush, Masaya Aoyama, to have a more romantic ending than her falling asleep after she sees a vision of a cat entering her body. Things get even stranger when, the next day, she begins displaying cat-like behaviors such as an intense craving for fish. When Masaya is attacked by a monster, she discovers that she is able to transform into the cat-eared magical girl, Mew Ichigo.\n \nAfter she saves Masaya, two researchers named Ryou Shirogane and Keiichiro Akasaka approach her and reveal they had injected her with Iriomote Cat DNA in order to create a magical girl that can save the world from aliens. Ichigo is tasked with fighting these monsters, but saving the world proves to be just too much for Ichigo to handle by herself. Fortunately, she learns that there are four other girls just like her, and now, Ichigo must find them quickly before the aliens completely take over the planet.\n\n[Written by MAL Rewrite]",
+  "background": "Tokyo Mew Mew's anime adaption was created by Studio Pierrot and Nippon Animation, first airing in Japan on TV Tokyo and TV Aichi. 4Kids handled English localization and was also only able to license and dub the first 26 episodes of the series.",
+  "season": "spring",
+  "year": 2002,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 08:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1355,
+      "type": "anime",
+      "name": "TV Aichi",
+      "url": "https://myanimelist.net/anime/producer/1355/TV_Aichi"
+    },
+    {
+      "mal_id": 2817,
+      "type": "anime",
+      "name": "Tokyu Agency",
+      "url": "https://myanimelist.net/anime/producer/2817/Tokyu_Agency"
+    },
+    {
+      "mal_id": 2823,
+      "type": "anime",
+      "name": "We've Inc.",
+      "url": "https://myanimelist.net/anime/producer/2823/Weve_Inc"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 252,
+      "type": "anime",
+      "name": "4Kids Entertainment",
+      "url": "https://myanimelist.net/anime/producer/252/4Kids_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/89298l.webp",
+  "trailer_url": null,
+  "id": 687,
+  "slug": "tokyo-mew-mew"
 }

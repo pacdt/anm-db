@@ -1,17 +1,69 @@
 {
-  "id": 14811,
-  "slug": "gj-bu",
-  "type": "legendado",
+  "mal_id": 14811,
+  "url": "https://myanimelist.net/anime/14811/GJ-bu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/45995.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/45995t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/45995l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/45995.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/45995t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/45995l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "GJ-bu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Good Job-bu"
+    },
+    {
+      "type": "Japanese",
+      "title": "GJ部"
+    },
+    {
+      "type": "English",
+      "title": "GJ Club"
+    },
+    {
+      "type": "German",
+      "title": "GJ Club"
+    },
+    {
+      "type": "Spanish",
+      "title": "GJ Club"
+    },
+    {
+      "type": "French",
+      "title": "GJ Club"
+    }
+  ],
   "title": "GJ-bu",
   "title_english": "GJ Club",
   "title_japanese": "GJ部",
-  "image": "https://cdn.myanimelist.net/images/anime/10/45995l.webp",
-  "score": 7.28,
-  "synopsis": "School clubs usually advertise their activities, but the goings-on of the GJ Club are a mystery. Kyouya \"Kyoro\" Shinomiya recently joined and became the sole male member of the five-person club.\n\nBesides Kyoro, there is Mao Amatsuka, the club president who has a tendency to bite Kyoro when she gets mad or bashful; Megumi Amatsuka, Mao's composed younger sister who always makes tea and desserts for the club's members; Shion Sumeragi, a demure chess prodigy; and Kirara Bernstein, a meat lover with a strong feline personality. All four girls have some form of interest in Kyoro.\n\nWith the girls' idiosyncratic and cute personalities, Kyoro's time in GJ-bu will never be a dull one, for better or for worse.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Good Job-bu"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +125,94 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyuUQkekK39jeXKMgbAWpzLW7uTBkcmHs37rtpeDDzQo7YByYsRMmcOxWAdhaXBkEuwkI_KEsvZNnPYI_yj6vGfUoZbQSpnKS9bN-jWTe9aczbQBCzcWDT5cvWn-ZxlxWeh1sZ7",
       "nome": "Let Us Say Good Bye, GJ Club"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-01-10T00:00:00+00:00",
+    "to": "2013-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2013
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2013
+      }
+    },
+    "string": "Jan 10, 2013 to Mar 28, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.28,
+  "scored_by": 79049,
+  "rank": 3060,
+  "popularity": 1481,
+  "members": 181777,
+  "favorites": 765,
+  "synopsis": "School clubs usually advertise their activities, but the goings-on of the GJ Club are a mystery. Kyouya \"Kyoro\" Shinomiya recently joined and became the sole male member of the five-person club.\n\nBesides Kyoro, there is Mao Amatsuka, the club president who has a tendency to bite Kyoro when she gets mad or bashful; Megumi Amatsuka, Mao's composed younger sister who always makes tea and desserts for the club's members; Shion Sumeragi, a demure chess prodigy; and Kirara Bernstein, a meat lover with a strong feline personality. All four girls have some form of interest in Kyoro.\n\nWith the girls' idiosyncratic and cute personalities, Kyoro's time in GJ-bu will never be a dull one, for better or for worse.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2013,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 3193,
+      "type": "anime",
+      "name": "Sound Inn Studio",
+      "url": "https://myanimelist.net/anime/producer/3193/Sound_Inn_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/45995l.webp",
+  "trailer_url": null,
+  "id": 14811,
+  "slug": "gj-bu"
 }

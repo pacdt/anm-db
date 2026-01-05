@@ -1,18 +1,57 @@
 {
-  "id": 3467,
-  "slug": "nogizaka-haruka-no-himitsu",
-  "type": "legendado",
+  "mal_id": 3467,
+  "url": "https://myanimelist.net/anime/3467/Nogizaka_Haruka_no_Himitsu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/56965.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/56965t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/56965l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/56965.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/56965t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/56965l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nogizaka Haruka no Himitsu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nogizaka Haruka no Himitsu"
+    },
+    {
+      "type": "Japanese",
+      "title": "乃木坂春香の秘密"
+    },
+    {
+      "type": "English",
+      "title": "Haruka Nogizaka's Secret"
+    }
+  ],
   "title": "Nogizaka Haruka no Himitsu",
   "title_english": "Haruka Nogizaka's Secret",
   "title_japanese": "乃木坂春香の秘密",
-  "image": "https://cdn.myanimelist.net/images/anime/11/56965l.webp",
-  "score": 7.19,
-  "synopsis": "Haruka Nogizaka is the most popular student in the prestigious Hakujo Academy, possessing unparalleled beauty, talent, and influence. Unbeknownst to her fellow students, however, she keeps an embarrassing secret of being an otaku—something that can potentially destroy her elegant reputation.\n\nUnfortunately for Haruka, an encounter with the timid Yuuto Ayase in the school library spells the end of her well-kept secret. However, the two reach a mutual agreement with Yuuto promising to keep Haruka's secret, sparking an unexpected friendship between them. Nonetheless, with Haruka's status as the school celebrity and her friendly relationship with Yuuto, both of them are bound to be the subject of gossip everywhere they go!\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Nogizaka Haruka no Himitsu"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxHL4KbPFQqy4afgPD9P08iQ1wqBFs7_5ULpnY8mHlI1C6HybQlpKiTCwtlwW3ISydhE3EK_Yhq8Kv9GWt1ZHN_Lkza3S6jeN-bTzBn8Vp15gsRH9QbUl8xcKWIJg5w3OehkzET",
       "nome": "It's a Secret!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-07-11T00:00:00+00:00",
+    "to": "2008-09-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 7,
+        "year": 2008
+      },
+      "to": {
+        "day": 26,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Jul 11, 2008 to Sep 26, 2008"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.19,
+  "scored_by": 69518,
+  "rank": 3598,
+  "popularity": 1842,
+  "members": 139029,
+  "favorites": 454,
+  "synopsis": "Haruka Nogizaka is the most popular student in the prestigious Hakujo Academy, possessing unparalleled beauty, talent, and influence. Unbeknownst to her fellow students, however, she keeps an embarrassing secret of being an otaku—something that can potentially destroy her elegant reputation.\n\nUnfortunately for Haruka, an encounter with the timid Yuuto Ayase in the school library spells the end of her well-kept secret. However, the two reach a mutual agreement with Yuuto promising to keep Haruka's secret, sparking an unexpected friendship between them. Nonetheless, with Haruka's status as the school celebrity and her friendly relationship with Yuuto, both of them are bound to be the subject of gossip everywhere they go!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2008,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/56965l.webp",
+  "trailer_url": null,
+  "id": 3467,
+  "slug": "nogizaka-haruka-no-himitsu"
 }

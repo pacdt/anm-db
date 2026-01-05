@@ -1,19 +1,69 @@
 {
-  "id": 2131,
-  "slug": "bokusatsu-tenshi-dokuro-chan-2",
-  "type": "legendado",
+  "mal_id": 2131,
+  "url": "https://myanimelist.net/anime/2131/Bokusatsu_Tenshi_Dokuro-chan_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/14709.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/14709t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/14709l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/14709.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/14709t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/14709l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bokusatsu Tenshi Dokuro-chan 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Club-To-Death Angel Dokuro-chan 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "撲殺天使ドクロちゃん2[セカンド]"
+    },
+    {
+      "type": "English",
+      "title": "Bludgeoning Angel Dokuro-chan 2"
+    },
+    {
+      "type": "German",
+      "title": "Bludgeoning Angel Dokuro-chan Second"
+    },
+    {
+      "type": "Spanish",
+      "title": "Bludgeoning Angel Dokuro-chan Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "Bludgeoning Angel Dokuro-chan Second"
+    }
+  ],
   "title": "Bokusatsu Tenshi Dokuro-chan 2",
   "title_english": "Bludgeoning Angel Dokuro-chan 2",
   "title_japanese": "撲殺天使ドクロちゃん2[セカンド]",
-  "image": "https://cdn.myanimelist.net/images/anime/7/14709l.webp",
-  "score": 6.63,
-  "synopsis": "Only more bizarre, troublesome, and funny adventures await Sakura Kusakabe as he continues living with the angel sisters Dokuro and Zakuro Mitsukai. More angels, including the polite Sabato Mihashigo and the quirky Zansu, show up to join in on the crazy situations. More often than not, their antics lead to Dokuro and her trusty Excalibolg killing Sakura, turning him into a bloody pulp.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Supernatural",
-    "Ecchi"
+  "title_synonyms": [
+    "Club-To-Death Angel Dokuro-chan 2"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -23,5 +73,109 @@
       "numero": 2,
       "url": "https://lightspeedst.net/s3/mp4/bokusatsu-tenshi-dokuro-chan-2/sd/2.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-08-11T00:00:00+00:00",
+    "to": "2007-11-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 8,
+        "year": 2007
+      },
+      "to": {
+        "day": 10,
+        "month": 11,
+        "year": 2007
+      }
+    },
+    "string": "Aug 11, 2007 to Nov 10, 2007"
+  },
+  "duration": "26 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.63,
+  "scored_by": 68892,
+  "rank": 6575,
+  "popularity": 2135,
+  "members": 114753,
+  "favorites": 126,
+  "synopsis": "Only more bizarre, troublesome, and funny adventures await Sakura Kusakabe as he continues living with the angel sisters Dokuro and Zakuro Mitsukai. More angels, including the polite Sabato Mihashigo and the quirky Zansu, show up to join in on the crazy situations. More often than not, their antics lead to Dokuro and her trusty Excalibolg killing Sakura, turning him into a bloody pulp.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 34,
+      "type": "anime",
+      "name": "HAL Film Maker",
+      "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Supernatural",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/14709l.webp",
+  "trailer_url": null,
+  "id": 2131,
+  "slug": "bokusatsu-tenshi-dokuro-chan-2"
 }

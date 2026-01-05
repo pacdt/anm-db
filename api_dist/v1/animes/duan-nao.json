@@ -1,19 +1,57 @@
 {
-  "id": 28673,
-  "slug": "duan-nao",
-  "type": "legendado",
+  "mal_id": 28673,
+  "url": "https://myanimelist.net/anime/28673/Duan_Nao",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/82664.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/82664t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/82664l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/82664.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/82664t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/82664l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/TjeUcm2cIRo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Duan Nao"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cerebrum"
+    },
+    {
+      "type": "Japanese",
+      "title": "端脑"
+    },
+    {
+      "type": "English",
+      "title": "Die Now"
+    }
+  ],
   "title": "Duan Nao",
   "title_english": "Die Now",
   "title_japanese": "端脑",
-  "image": "https://cdn.myanimelist.net/images/anime/3/82664l.webp",
-  "score": 6.38,
-  "synopsis": "The word cerebrum refers to a gigantic system consisting of collision universes, which is called cerebrum universe. The story starts from a series of unknown murders, unravelling the secret hiding beneath the entire universe, ranging from horrifying conspiracies to galaxy wars, from anti-human betrayals to honourable sacrifices. Having realised her weakness and backwardness, mankind takes the last stand.\n\n(Source: Official website)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/TjeUcm2cIRo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery",
-    "Sci-Fi",
-    "Suspense"
+  "title_synonyms": [
+    "Cerebrum"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -71,5 +109,77 @@
       "numero": 14,
       "url": "https://www.blogger.com/video.g?token=AD6v5dy-HN6yWoDa-9A439utAOqCLNCtIr5hEgpyTvYAIiFCio0_YPUPfVHREUEq_GAHpepmWA6_txWQ2MPY_KFYXVT5cMa0ukwetgMmuukYBoBkXaC9EkG6QALB_AI9sQvZOrutiZ2r"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-11-28T00:00:00+00:00",
+    "to": "2015-07-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 11,
+        "year": 2014
+      },
+      "to": {
+        "day": 31,
+        "month": 7,
+        "year": 2015
+      }
+    },
+    "string": "Nov 28, 2014 to Jul 31, 2015"
+  },
+  "duration": "14 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.38,
+  "scored_by": 1167,
+  "rank": 8145,
+  "popularity": 8463,
+  "members": 6493,
+  "favorites": 7,
+  "synopsis": "The word cerebrum refers to a gigantic system consisting of collision universes, which is called cerebrum universe. The story starts from a series of unknown murders, unravelling the secret hiding beneath the entire universe, ranging from horrifying conspiracies to galaxy wars, from anti-human betrayals to honourable sacrifices. Having realised her weakness and backwardness, mankind takes the last stand.\n\n(Source: Official website)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1431,
+      "type": "anime",
+      "name": "Yaoqi",
+      "url": "https://myanimelist.net/anime/producer/1431/Yaoqi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1325,
+      "type": "anime",
+      "name": "Haoliners Animation",
+      "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/82664l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/TjeUcm2cIRo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 28673,
+  "slug": "duan-nao"
 }

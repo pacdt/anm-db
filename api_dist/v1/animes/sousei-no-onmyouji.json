@@ -1,19 +1,63 @@
 {
-  "id": 32105,
-  "slug": "sousei-no-onmyouji",
-  "type": "legendado",
+  "mal_id": 32105,
+  "url": "https://myanimelist.net/anime/32105/Sousei_no_Onmyouji",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/79556.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/79556t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/79556l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/79556.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/79556t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/79556l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/6_dDnFYGXBE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sousei no Onmyouji"
+    },
+    {
+      "type": "Japanese",
+      "title": "双星の陰陽師"
+    },
+    {
+      "type": "English",
+      "title": "Twin Star Exorcists"
+    },
+    {
+      "type": "German",
+      "title": "Twin Star Exorcists"
+    },
+    {
+      "type": "Spanish",
+      "title": "Twin Star Exorcists"
+    },
+    {
+      "type": "French",
+      "title": "Twin Star Exorcists"
+    }
+  ],
   "title": "Sousei no Onmyouji",
   "title_english": "Twin Star Exorcists",
   "title_japanese": "双星の陰陽師",
-  "image": "https://cdn.myanimelist.net/images/anime/12/79556l.webp",
-  "score": 7.29,
-  "synopsis": "Magano, a parallel realm filled with monsters known as \"Kegare,\" is a place where exorcists deal with all impurities. Benio Adashino is a prodigy exorcist who is recognized for her strength and is summoned to Tokyo by the Exorcist Union. On her way, she plummets into the arms of Rokuro Enmadou, a young exorcist with a troubled past.\n\nBut the impurities of Magano do not rest. When these two exorcists witness a couple of children stolen by a Kegare, Benio rushes to save them, dragging Rokuro along with her into Magano. Engaged in a fight she is on the verge of being defeated in, Benio is saved by Rokuro, revealing himself capable of being her rival in talent.\n\nSousei no Onmyouji tells the story of two talented exorcists who are destined to become the \"Twin Star Exorcists\" and the prophesised parents of the Miko—the reincarnation of Abe no Seimei—who will cleanse the world of all impurities.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/6_dDnFYGXBE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -265,5 +309,122 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxlClCP8yXCu4w-xBN8ckdmBieZLrhbKYjOQDUPxOZ1woeKiKtCkA9HlGHa-One8VgSnWIgoCPAIBajuUU6XBCRaGEN-IOtLCOYVq-9pDhfgFpiOelJhAaKIH2LQyrDVL84rGbY",
       "nome": "Twin Stars: Twins"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-06T00:00:00+00:00",
+    "to": "2017-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Apr 6, 2016 to Mar 29, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.29,
+  "scored_by": 226923,
+  "rank": 3016,
+  "popularity": 450,
+  "members": 546758,
+  "favorites": 3126,
+  "synopsis": "Magano, a parallel realm filled with monsters known as \"Kegare,\" is a place where exorcists deal with all impurities. Benio Adashino is a prodigy exorcist who is recognized for her strength and is summoned to Tokyo by the Exorcist Union. On her way, she plummets into the arms of Rokuro Enmadou, a young exorcist with a troubled past.\n\nBut the impurities of Magano do not rest. When these two exorcists witness a couple of children stolen by a Kegare, Benio rushes to save them, dragging Rokuro along with her into Magano. Engaged in a fight she is on the verge of being defeated in, Benio is saved by Rokuro, revealing himself capable of being her rival in talent.\n\nSousei no Onmyouji tells the story of two talented exorcists who are destined to become the \"Twin Star Exorcists\" and the prophesised parents of the Miko—the reincarnation of Abe no Seimei—who will cleanse the world of all impurities.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/79556l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/6_dDnFYGXBE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32105,
+  "slug": "sousei-no-onmyouji"
 }

@@ -1,19 +1,62 @@
 {
-  "id": 529,
-  "slug": "saishuu-heiki-kanojo-dublado",
-  "type": "dublado",
+  "mal_id": 529,
+  "url": "https://myanimelist.net/anime/529/Saishuu_Heiki_Kanojo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/529.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/529t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/529l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/529.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/529t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/529l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2p790KjDWes?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saishuu Heiki Kanojo"
+    },
+    {
+      "type": "Synonym",
+      "title": "SaiKano"
+    },
+    {
+      "type": "Synonym",
+      "title": "Saishuuheiki Kanojo: The Last Love Song on This Little Planet"
+    },
+    {
+      "type": "Japanese",
+      "title": "最終兵器彼女"
+    },
+    {
+      "type": "English",
+      "title": "She, The Ultimate Weapon"
+    }
+  ],
   "title": "Saishuu Heiki Kanojo",
   "title_english": "She, The Ultimate Weapon",
   "title_japanese": "最終兵器彼女",
-  "image": "https://cdn.myanimelist.net/images/anime/1/529l.webp",
-  "score": 7.13,
-  "synopsis": "Chise is an ordinary schoolgirl: small, frail, and not particularly intelligent. Her greatest joy is her budding romance with her classmate and childhood friend, Shuuji. They both live in a small military town in Hokkaido, where high schoolers have few concerns other than who is dating whom and complaining about the steep climb up \"Hell Hill\" every day before school.\n\nOne day, Shuuji and his friends make a trip to Sapporo to buy gifts for their girlfriends. A massive air raid on Sapporo that day kills thousands, including one of Shuuji's friends, and signals the beginning of a war. Fleeing from the carnage, Shuuji spots Chise, though now she has steel wings and a massive gun where her right arm should be. Against her will, she has been transformed into the ultimate cyborg weapon, capable of leveling entire cities.\n\nAs the war rages closer and closer to their hometown, Chise and Shuuji's relationship is strained by her transformation, and they are left to wonder whether she is even still human.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/2p790KjDWes?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Sci-Fi"
+  "title_synonyms": [
+    "SaiKano",
+    "Saishuuheiki Kanojo: The Last Love Song on This Little Planet"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +123,116 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzVrr9RP6-z2EzHkJwSyXOtnNjTpUDMCTTNa2g_1CGK1gN3cwZc69Ezy9Ou-boI7PXJHgcxKNj1rhZL2fgGIkC8UkubY43jf0J9AdIThzz54amTlVAkEOv-yBM7DqK6L9GVd1k",
       "nome": "And We Will Love"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-07-02T00:00:00+00:00",
+    "to": "2002-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2002
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2002
+      }
+    },
+    "string": "Jul 2, 2002 to Sep 24, 2002"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.13,
+  "scored_by": 39140,
+  "rank": 3884,
+  "popularity": 2277,
+  "members": 103861,
+  "favorites": 619,
+  "synopsis": "Chise is an ordinary schoolgirl: small, frail, and not particularly intelligent. Her greatest joy is her budding romance with her classmate and childhood friend, Shuuji. They both live in a small military town in Hokkaido, where high schoolers have few concerns other than who is dating whom and complaining about the steep climb up \"Hell Hill\" every day before school.\n\nOne day, Shuuji and his friends make a trip to Sapporo to buy gifts for their girlfriends. A massive air raid on Sapporo that day kills thousands, including one of Shuuji's friends, and signals the beginning of a war. Fleeing from the carnage, Shuuji spots Chise, though now she has steel wings and a massive gun where her right arm should be. Against her will, she has been transformed into the ultimate cyborg weapon, capable of leveling entire cities.\n\nAs the war rages closer and closer to their hometown, Chise and Shuuji's relationship is strained by her transformation, and they are left to wonder whether she is even still human.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2002,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 141,
+      "type": "anime",
+      "name": "Toei Video",
+      "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+    },
+    {
+      "mal_id": 224,
+      "type": "anime",
+      "name": "Toshiba EMI",
+      "url": "https://myanimelist.net/anime/producer/224/Toshiba_EMI"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1/529l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/2p790KjDWes?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 529,
+  "slug": "saishuu-heiki-kanojo-dublado"
 }

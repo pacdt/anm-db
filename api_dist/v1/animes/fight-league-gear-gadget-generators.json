@@ -1,17 +1,51 @@
 {
-  "id": 38719,
-  "slug": "fight-league-gear-gadget-generators",
-  "type": "legendado",
+  "mal_id": 38719,
+  "url": "https://myanimelist.net/anime/38719/Fight_League__Gear_Gadget_Generators",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1351/96571.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1351/96571t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1351/96571l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1351/96571.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1351/96571t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1351/96571l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/-hH4ZN381Ls?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fight League: Gear Gadget Generators"
+    },
+    {
+      "type": "Japanese",
+      "title": "ファイトリーグ ギア・ガジェット・ジェネレーターズ"
+    },
+    {
+      "type": "English",
+      "title": "Fight League: Gear Gadget Generators"
+    }
+  ],
   "title": "Fight League: Gear Gadget Generators",
   "title_english": "Fight League: Gear Gadget Generators",
   "title_japanese": "ファイトリーグ ギア・ガジェット・ジェネレーターズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1351/96571l.webp",
-  "score": 6.04,
-  "synopsis": "Hot-blooded in nature, Adjust Wrench competes with her team Boltechs in a popular tournament known as the \"Fight League,\" where two teams fight using personalized weapons called \"Gadgets\" until only one team is left standing. However, despite their best efforts, Wrench and her friends have only achieved moderate success in the Fight League—winning just as often as they lose.\n\nAiming to gain more strength, Wrench installs a mysterious computer chip that her grandfather possessed into her Gadget and inadvertently summons an overwhelmingly powerful girl. Naming herself Mona Chrome, she joins Boltechs, and together, the group starts rising through the ranks with their new teammate's abilities. But as the other teams push themselves to become stronger, everyone begins to question Chrome's identity and the source of her power.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/-hH4ZN381Ls?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +177,75 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxuSg4APXD3_P_hAW0JOdq4dAbwgxCFhSDW93e47cAl-gubV6bSJ45LwUeyfI5heWQSB9ej2CFrijBv78CXxrS8EyqpmUMjw07KDeuVViy-YLiFhtU-oX_i0LaKUEs05znuCZg",
       "nome": "Scrap and Build"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-02-14T00:00:00+00:00",
+    "to": "2019-08-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 2,
+        "year": 2019
+      },
+      "to": {
+        "day": 8,
+        "month": 8,
+        "year": 2019
+      }
+    },
+    "string": "Feb 14, 2019 to Aug 8, 2019"
+  },
+  "duration": "10 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.04,
+  "scored_by": 1205,
+  "rank": 10185,
+  "popularity": 9581,
+  "members": 4669,
+  "favorites": 17,
+  "synopsis": "Hot-blooded in nature, Adjust Wrench competes with her team Boltechs in a popular tournament known as the \"Fight League,\" where two teams fight using personalized weapons called \"Gadgets\" until only one team is left standing. However, despite their best efforts, Wrench and her friends have only achieved moderate success in the Fight League—winning just as often as they lose.\n\nAiming to gain more strength, Wrench installs a mysterious computer chip that her grandfather possessed into her Gadget and inadvertently summons an overwhelmingly powerful girl. Naming herself Mona Chrome, she joins Boltechs, and together, the group starts rising through the ranks with their new teammate's abilities. But as the other teams push themselves to become stronger, everyone begins to question Chrome's identity and the source of her power.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    },
+    {
+      "mal_id": 1572,
+      "type": "anime",
+      "name": "XFLAG",
+      "url": "https://myanimelist.net/anime/producer/1572/XFLAG"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1351/96571l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/-hH4ZN381Ls?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38719,
+  "slug": "fight-league-gear-gadget-generators"
 }

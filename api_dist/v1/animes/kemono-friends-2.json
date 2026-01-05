@@ -1,18 +1,47 @@
 {
-  "id": 35313,
-  "slug": "kemono-friends-2",
-  "type": "legendado",
+  "mal_id": 35313,
+  "url": "https://myanimelist.net/anime/35313/Kemono_Friends_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1015/100471.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/100471t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/100471l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1015/100471.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/100471t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/100471l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/H46H3dKfuSQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kemono Friends 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "けものフレンズ2"
+    }
+  ],
   "title": "Kemono Friends 2",
   "title_english": "Kemono Friends 2",
   "title_japanese": "けものフレンズ2",
-  "image": "https://cdn.myanimelist.net/images/anime/1015/100471l.webp",
-  "score": 5.81,
-  "synopsis": "Serval and Caracal find a \"human\" child in the forest. As they travel with the child, they meet new Friends, uncover the secrets of Japari Park, and become involved in an event that will \"shake the earth.\"\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/H46H3dKfuSQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -64,5 +93,138 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwQzJd-wXbrcjEylz5GH1VlT1EUTx2ifazYBi0_eQimeoeL0sFpg7AdyxUMfE-C5fi81WbwltIuNlV0dyxPKIUWcYwMRSHRXootvkalXp_ofdaVLz-FJdkW1fpLRwR7A4V19-Wc",
       "nome": "Check-in"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-15T00:00:00+00:00",
+    "to": "2019-04-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 2,
+        "month": 4,
+        "year": 2019
+      }
+    },
+    "string": "Jan 15, 2019 to Apr 2, 2019"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.81,
+  "scored_by": 7033,
+  "rank": 11441,
+  "popularity": 5460,
+  "members": 19394,
+  "favorites": 44,
+  "synopsis": "Serval and Caracal find a \"human\" child in the forest. As they travel with the child, they meet new Friends, uncover the secrets of Japari Park, and become involved in an event that will \"shake the earth.\"\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 1225,
+      "type": "anime",
+      "name": "Age Global Networks",
+      "url": "https://myanimelist.net/anime/producer/1225/Age_Global_Networks"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1784,
+      "type": "anime",
+      "name": "Crunchyroll SC Anime Fund",
+      "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+    },
+    {
+      "mal_id": 2653,
+      "type": "anime",
+      "name": "Sega Games",
+      "url": "https://myanimelist.net/anime/producer/2653/Sega_Games"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 587,
+      "type": "anime",
+      "name": "Tomason",
+      "url": "https://myanimelist.net/anime/producer/587/Tomason"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1015/100471l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/H46H3dKfuSQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 35313,
+  "slug": "kemono-friends-2"
 }

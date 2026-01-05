@@ -1,20 +1,67 @@
 {
-  "id": 54141,
-  "slug": "bastard-ankoku-no-hakaishin-season-2-ona-dublado",
-  "type": "dublado",
+  "mal_id": 54141,
+  "url": "https://myanimelist.net/anime/54141/Bastard_Ankoku_no_Hakaishin__Jigoku_no_Chinkonka-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1268/137255.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1268/137255t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1268/137255l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1268/137255.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1268/137255t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1268/137255l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/fQRI7cTbFh4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bastard!! Ankoku no Hakaishin Season 2 (ONA)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bastard!! Heavy Metal"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dark Fantasy: Hell's Requiem Arc"
+    },
+    {
+      "type": "Japanese",
+      "title": "BASTARD!! -暗黒の破壊神- 地獄の鎮魂歌編"
+    },
+    {
+      "type": "English",
+      "title": "Bastard‼ Heavy Metal, Dark Fantasy Season 2"
+    }
+  ],
   "title": "Bastard!! Ankoku no Hakaishin: Jigoku no Chinkonka-hen",
   "title_english": "Bastard‼ Heavy Metal, Dark Fantasy Season 2",
   "title_japanese": "BASTARD!! -暗黒の破壊神- 地獄の鎮魂歌編",
-  "image": "https://cdn.myanimelist.net/images/anime/1268/137255l.webp",
-  "score": 7.07,
-  "synopsis": "Two years after the heroic sacrifice of Dark Schneider in the battle against Abigail, Kall-Su, the final surviving member of the Four Divine Kings, is close to seizing global power. As cities and kingdoms fall one after the other, humanity's last beacon of hope is a group of samurai led by the high priestess Yoko Tia Noto. However, the brutal assaults of Kall-Su's lieutenants against the samurai's fortress quickly make the situation desperate. Once more, Yoko's only way to fix the rapidly devolving crisis is to find Dark Schneider's soul, which has seemingly deserted Lucien Renlen's body since the demise of the kingdom of Metallicana.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/fQRI7cTbFh4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Ecchi"
+  "title_synonyms": [
+    "Bastard!! Ankoku no Hakaishin Season 2 (ONA)",
+    "Bastard!! Heavy Metal",
+    "Dark Fantasy: Hell's Requiem Arc"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +123,98 @@
       "numero": 15,
       "url": "https://lightspeedst.net/s6/mp4/bastard-ankoku-no-hakaishin-season-2-ona-dublado/hd/15.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-07-31T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 7,
+        "year": 2023
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 31, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.07,
+  "scored_by": 8256,
+  "rank": 4229,
+  "popularity": 5301,
+  "members": 21001,
+  "favorites": 65,
+  "synopsis": "Two years after the heroic sacrifice of Dark Schneider in the battle against Abigail, Kall-Su, the final surviving member of the Four Divine Kings, is close to seizing global power. As cities and kingdoms fall one after the other, humanity's last beacon of hope is a group of samurai led by the high priestess Yoko Tia Noto. However, the brutal assaults of Kall-Su's lieutenants against the samurai's fortress quickly make the situation desperate. Once more, Yoko's only way to fix the rapidly devolving crisis is to find Dark Schneider's soul, which has seemingly deserted Lucien Renlen's body since the demise of the kingdom of Metallicana.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1440,
+      "type": "anime",
+      "name": "Felix Film",
+      "url": "https://myanimelist.net/anime/producer/1440/Felix_Film"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1268/137255l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/fQRI7cTbFh4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54141,
+  "slug": "bastard-ankoku-no-hakaishin-season-2-ona-dublado"
 }

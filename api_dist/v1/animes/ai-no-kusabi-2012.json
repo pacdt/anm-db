@@ -1,20 +1,47 @@
 {
-  "id": 5784,
-  "slug": "ai-no-kusabi-2012",
-  "type": "legendado",
+  "mal_id": 5784,
+  "url": "https://myanimelist.net/anime/5784/Ai_no_Kusabi_2012",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75531.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75531t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75531l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75531.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75531t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75531l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ai no Kusabi (2012)"
+    },
+    {
+      "type": "Japanese",
+      "title": "間の楔"
+    }
+  ],
   "title": "Ai no Kusabi (2012)",
   "title_english": "Ai no Kusabi (2012)",
   "title_japanese": "間の楔",
-  "image": "https://cdn.myanimelist.net/images/anime/7/75531l.webp",
-  "score": 6.53,
-  "synopsis": "The story is set in the future on the planet named Amoi which is controlled by a supercomputer named Jupiter. Among the mostly male human population, the light-haired elite class is allowed to temporarily keep the dark-haired \"mongrels\" as pets. One elite member, Iason, encounters a mongrel named Riki in the slums and decides to take him in. However, Iason keeps Riki longer than it is socially approved, and rumors abound about their possible relationship.",
-  "trailer_url": null,
-  "genres": [
-    "Boys Love",
-    "Drama",
-    "Sci-Fi",
-    "Erotica"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -33,5 +60,85 @@
       "numero": 4,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxlRYIGAsm4SYO8dW_e_wYQ7eMdg6mGz-rZaG2ROVqnHxaDxBq2DiwECj1C6z9gjkF0OCk6NPml1ma7pfpSW6v1igHALpeikvtReL_L3NkZjwB_p3O0udyBvbmYDJ5WMUOSjVU"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-18T00:00:00+00:00",
+    "to": "2012-04-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 18,
+        "month": 4,
+        "year": 2012
+      }
+    },
+    "string": "Jan 18, 2012 to Apr 18, 2012"
+  },
+  "duration": "25 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.53,
+  "scored_by": 16002,
+  "rank": null,
+  "popularity": 4193,
+  "members": 35652,
+  "favorites": 122,
+  "synopsis": "The story is set in the future on the planet named Amoi which is controlled by a supercomputer named Jupiter. Among the mostly male human population, the light-haired elite class is allowed to temporarily keep the dark-haired \"mongrels\" as pets. One elite member, Iason, encounters a mongrel named Riki in the slums and decides to take him in. However, Iason keeps Riki longer than it is socially approved, and rumors abound about their possible relationship.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 283,
+      "type": "anime",
+      "name": "Ken Media",
+      "url": "https://myanimelist.net/anime/producer/283/Ken_Media"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Boys Love",
+    "Drama",
+    "Sci-Fi",
+    "Erotica"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/75531l.webp",
+  "trailer_url": null,
+  "id": 5784,
+  "slug": "ai-no-kusabi-2012"
 }

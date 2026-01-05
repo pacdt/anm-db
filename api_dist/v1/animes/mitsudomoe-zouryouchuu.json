@@ -1,17 +1,58 @@
 {
-  "id": 9510,
-  "slug": "mitsudomoe-zouryouchuu",
-  "type": "legendado",
+  "mal_id": 9510,
+  "url": "https://myanimelist.net/anime/9510/Mitsudomoe_Zouryouchuu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/71554.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/71554t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/71554l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/71554.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/71554t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/71554l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mitsudomoe Zouryouchuu!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mitsudomoe Dai Ni Ki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mitsudomoe 2-ki"
+    },
+    {
+      "type": "Japanese",
+      "title": "みつどもえ増量中！"
+    }
+  ],
   "title": "Mitsudomoe Zouryouchuu!",
   "title_english": "Mitsudomoe Zouryouchuu!",
   "title_japanese": "みつどもえ増量中！",
-  "image": "https://cdn.myanimelist.net/images/anime/11/71554l.webp",
-  "score": 7.64,
-  "synopsis": "Satoshi Yabe has grown accustomed to being class 6-3's homeroom teacher. Since his assignment, the Marui triplets have used countless antics to play around with him. As a result, however, Yabe and the sisters learn more about each other. Continuing their last year in elementary school alongside Yabe, the triplets and their classmates never fail to stir up trouble and play pranks on one another.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Mitsudomoe Dai Ni Ki",
+    "Mitsudomoe 2-ki"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -53,5 +94,101 @@
       "url": "https://lightspeedst.net/s3/mp4/mitsudomoe-zouryouchuu/sd/8.mp4",
       "nome": "These Three Girls Will Keep Going On and On"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-01-09T00:00:00+00:00",
+    "to": "2011-02-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2011
+      },
+      "to": {
+        "day": 27,
+        "month": 2,
+        "year": 2011
+      }
+    },
+    "string": "Jan 9, 2011 to Feb 27, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.64,
+  "scored_by": 27374,
+  "rank": 1543,
+  "popularity": 3548,
+  "members": 48849,
+  "favorites": 91,
+  "synopsis": "Satoshi Yabe has grown accustomed to being class 6-3's homeroom teacher. Since his assignment, the Marui triplets have used countless antics to play around with him. As a result, however, Yabe and the sisters learn more about each other. Continuing their last year in elementary school alongside Yabe, the triplets and their classmates never fail to stir up trouble and play pranks on one another.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2011,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 02:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 619,
+      "type": "anime",
+      "name": "Cospa",
+      "url": "https://myanimelist.net/anime/producer/619/Cospa"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 397,
+      "type": "anime",
+      "name": "Bridge",
+      "url": "https://myanimelist.net/anime/producer/397/Bridge"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/71554l.webp",
+  "trailer_url": null,
+  "id": 9510,
+  "slug": "mitsudomoe-zouryouchuu"
 }

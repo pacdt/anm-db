@@ -1,19 +1,63 @@
 {
-  "id": 47391,
-  "slug": "seven-knights-revolution-eiyuu-no-keishousha",
-  "type": "legendado",
+  "mal_id": 47391,
+  "url": "https://myanimelist.net/anime/47391/Seven_Knights_Revolution__Eiyuu_no_Keishousha",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/114017.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/114017t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/114017l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/114017.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/114017t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/114017l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/JmWoG1RzUOY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Seven Knights Revolution: Eiyuu no Keishousha"
+    },
+    {
+      "type": "Japanese",
+      "title": "セブンナイツ レボリューション -英雄の継承者-"
+    },
+    {
+      "type": "English",
+      "title": "Seven Knights Revolution: Hero Successor"
+    },
+    {
+      "type": "German",
+      "title": "Seven Knights Revolution: Hero Successor"
+    },
+    {
+      "type": "Spanish",
+      "title": "Seven Knights Revolution: Hero Successor"
+    },
+    {
+      "type": "French",
+      "title": "Seven Knights Revolution: Hero Successor"
+    }
+  ],
   "title": "Seven Knights Revolution: Eiyuu no Keishousha",
   "title_english": "Seven Knights Revolution: Hero Successor",
   "title_japanese": "セブンナイツ レボリューション -英雄の継承者-",
-  "image": "https://cdn.myanimelist.net/images/anime/1079/114017l.webp",
-  "score": 6.3,
-  "synopsis": "Seven Knights Revolution: Eiyuu no Keishousha is set in a world where eons ago valiant heroes fought against the forces of \"Destruction.\" While their deeds passed into legend, the power of these heroes was later inherited by \"successors\" who fought to protect the world. One day, Faria, a successor of the Seven Knights, saves an ordinary boy named Nemo from the forces of Destruction.\n\nDuring the ensuing battle, Nemo summons the power of a hero and becomes a successor as well. However, Nemo's hero is a stranger that is unknown to history, and so an epic journey where the past and present collide begins. \n\n(Source: Crunchyroll, edited)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/JmWoG1RzUOY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxDC3ipa29rpjCdF0bcMuhu_nBc79vSq6u7YN7T4nYbwQYF1FC968lJg2xeLkDMsWWyfbZbhk36fOa8_yQkBtDNcaDZ-K6jFsV7DNQXf9f5yZU64407R7s7C-rZm4cy7OByPyw",
       "nome": "Finale: Nemo"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-05T00:00:00+00:00",
+    "to": "2021-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 5, 2021 to Jun 21, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.3,
+  "scored_by": 24389,
+  "rank": 8594,
+  "popularity": 3099,
+  "members": 62617,
+  "favorites": 186,
+  "synopsis": "Seven Knights Revolution: Eiyuu no Keishousha is set in a world where eons ago valiant heroes fought against the forces of \"Destruction.\" While their deeds passed into legend, the power of these heroes was later inherited by \"successors\" who fought to protect the world. One day, Faria, a successor of the Seven Knights, saves an ordinary boy named Nemo from the forces of Destruction.\n\nDuring the ensuing battle, Nemo summons the power of a hero and becomes a successor as well. However, Nemo's hero is a stranger that is unknown to history, and so an epic journey where the past and present collide begins. \n\n(Source: Crunchyroll, edited)",
+  "background": "Based on the Seven Knights smartphone role-playing game by Netmarble.",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    },
+    {
+      "mal_id": 1380,
+      "type": "anime",
+      "name": "domerica",
+      "url": "https://myanimelist.net/anime/producer/1380/domerica"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1079/114017l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/JmWoG1RzUOY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 47391,
+  "slug": "seven-knights-revolution-eiyuu-no-keishousha"
 }

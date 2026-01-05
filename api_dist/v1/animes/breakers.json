@@ -1,17 +1,51 @@
 {
-  "id": 40850,
-  "slug": "breakers",
-  "type": "legendado",
+  "mal_id": 40850,
+  "url": "https://myanimelist.net/anime/40850/Breakers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1125/106426.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/106426t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/106426l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1125/106426.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1125/106426t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1125/106426l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Breakers"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブレーカーズ"
+    },
+    {
+      "type": "English",
+      "title": "Breakers"
+    }
+  ],
   "title": "Breakers",
   "title_english": "Breakers",
   "title_japanese": "ブレーカーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1125/106426l.webp",
-  "score": 6.32,
-  "synopsis": "The anime will center on para-athletes who all meet an outcast sports scientist named Ren Narita. The anime will have four stories about four different sports: wheelchair basketball, track and high jump, goalball, and paralympic swimming.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -93,5 +127,100 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxeIFtdTWkb-CZqRTba684sOR4aIHelKdzzd4VdRk6IvQU_lMyymc5-DzKzlPTLap3BfnnKX_UrvtiJITBoF79OQRewr2QipAN5Qwe-4j4uAj2_Pjavzr0IVsavIVBbLMeBwSbq",
       "nome": "Para-Swimming #4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-07T00:00:00+00:00",
+    "to": "2020-05-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 26,
+        "month": 5,
+        "year": 2020
+      }
+    },
+    "string": "Jan 7, 2020 to May 26, 2020"
+  },
+  "duration": "9 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.32,
+  "scored_by": 3596,
+  "rank": 8492,
+  "popularity": 6740,
+  "members": 11355,
+  "favorites": 11,
+  "synopsis": "The anime will center on para-athletes who all meet an outcast sports scientist named Ren Narita. The anime will have four stories about four different sports: wheelchair basketball, track and high jump, goalball, and paralympic swimming.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1999,
+      "type": "anime",
+      "name": "Albacrow",
+      "url": "https://myanimelist.net/anime/producer/1999/Albacrow"
+    },
+    {
+      "mal_id": 2053,
+      "type": "anime",
+      "name": "l-a-unch・BOX",
+      "url": "https://myanimelist.net/anime/producer/2053/l-a-unch%E3%83%BBBOX"
+    },
+    {
+      "mal_id": 2134,
+      "type": "anime",
+      "name": "Studio CANDY BOX",
+      "url": "https://myanimelist.net/anime/producer/2134/Studio_CANDY_BOX"
+    },
+    {
+      "mal_id": 2875,
+      "type": "anime",
+      "name": "Blaze Studio",
+      "url": "https://myanimelist.net/anime/producer/2875/Blaze_Studio"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1125/106426l.webp",
+  "trailer_url": null,
+  "id": 40850,
+  "slug": "breakers"
 }

@@ -1,19 +1,62 @@
 {
-  "id": 4197,
-  "slug": "blue-dragon-tenkai-no-shichi-ryuu",
-  "type": "legendado",
+  "mal_id": 4197,
+  "url": "https://myanimelist.net/anime/4197/Blue_Dragon__Tenkai_no_Shichi_Ryuu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/21147.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/21147t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/21147l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/21147.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/21147t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/21147l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/fEm7lyc7D4o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Blue Dragon: Tenkai no Shichi Ryuu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Blue Dragon: Tenkuu no Nana Ryuu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Blue Dragon: The Seven Dragons of Heaven"
+    },
+    {
+      "type": "Japanese",
+      "title": "BLUE DRAGON 天界の七竜"
+    },
+    {
+      "type": "English",
+      "title": "Blue Dragon: Trials of the Seven Shadows"
+    }
+  ],
   "title": "Blue Dragon: Tenkai no Shichi Ryuu",
   "title_english": "Blue Dragon: Trials of the Seven Shadows",
   "title_japanese": "BLUE DRAGON 天界の七竜",
-  "image": "https://cdn.myanimelist.net/images/anime/2/21147l.webp",
-  "score": 6.55,
-  "synopsis": "After the events of the Blue Dragon series, Shu and Bouquet join a resistance group to fight General Rogi's army of invasion.They encounter a mysterious child , Noi, who has the power to revive Shu's shadow counter-part Blue Dragon, and save her from the pursuit of a red dragon. Now Shu and his company have to set foot once again on a journey to discover the purpose of the dragons, undergo their tests and stop the chains of events which threatens the fate of humanity. \n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/fEm7lyc7D4o?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Blue Dragon: Tenkuu no Nana Ryuu",
+    "Blue Dragon: The Seven Dragons of Heaven"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +188,78 @@
       "url": "https://lightspeedst.net/s3/mp4/blue-dragon-tenkai-no-shichi-ryuu/sd/26.mp4",
       "nome": "Her Wish"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-04-05T00:00:00+00:00",
+    "to": "2009-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2008
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2009
+      }
+    },
+    "string": "Apr 5, 2008 to Mar 28, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 6.55,
+  "scored_by": 8574,
+  "rank": 7082,
+  "popularity": 5441,
+  "members": 19532,
+  "favorites": 23,
+  "synopsis": "After the events of the Blue Dragon series, Shu and Bouquet join a resistance group to fight General Rogi's army of invasion.They encounter a mysterious child , Noi, who has the power to revive Shu's shadow counter-part Blue Dragon, and save her from the pursuit of a red dragon. Now Shu and his company have to set foot once again on a journey to discover the purpose of the dragons, undergo their tests and stop the chains of events which threatens the fate of humanity. \n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "09:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 09:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/2/21147l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/fEm7lyc7D4o?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 4197,
+  "slug": "blue-dragon-tenkai-no-shichi-ryuu"
 }

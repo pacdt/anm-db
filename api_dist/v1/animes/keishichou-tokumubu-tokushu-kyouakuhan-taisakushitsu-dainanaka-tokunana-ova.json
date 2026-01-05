@@ -1,23 +1,139 @@
 {
-  "id": 40762,
-  "slug": "keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-ova",
-  "type": "legendado",
+  "mal_id": 40762,
+  "url": "https://myanimelist.net/anime/40762/Keishichou_Tokumubu_Tokushu_Kyouakuhan_Taisakushitsu_Dainanaka__Tokunana_-_Ichinen_Mae_Nijou_Kujaku_no_Urei",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1156/146362.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/146362t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/146362l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1156/146362.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/146362t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/146362l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana - Ichinen Mae, Nijou Kujaku no Urei"
+    },
+    {
+      "type": "Synonym",
+      "title": "Special Crime Investigation Unit - Special 7 OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- OVA File.0.5「一年前、二条クジャクの憂い」"
+    },
+    {
+      "type": "English",
+      "title": "Special 7: Special Crime Investigation Unit Episode 0.5"
+    }
+  ],
   "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana - Ichinen Mae, Nijou Kujaku no Urei",
   "title_english": "Special 7: Special Crime Investigation Unit Episode 0.5",
   "title_japanese": "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- OVA File.0.5「一年前、二条クジャクの憂い」",
-  "image": "https://cdn.myanimelist.net/images/anime/1156/146362l.webp",
-  "score": 6.09,
-  "synopsis": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Mystery"
+  "title_synonyms": [
+    "Special Crime Investigation Unit - Special 7 OVA"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s3/mp4/keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-ova/hd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-24T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 24, 2020"
+  },
+  "duration": "22 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.09,
+  "scored_by": 1696,
+  "rank": 9877,
+  "popularity": 9482,
+  "members": 4828,
+  "favorites": 3,
+  "synopsis": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1983,
+      "type": "anime",
+      "name": "Anima&Co.",
+      "url": "https://myanimelist.net/anime/producer/1983/Anima_Co"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1156/146362l.webp",
+  "trailer_url": null,
+  "id": 40762,
+  "slug": "keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-ova"
 }

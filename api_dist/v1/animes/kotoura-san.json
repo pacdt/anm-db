@@ -1,18 +1,69 @@
 {
-  "id": 15379,
-  "slug": "kotoura-san",
-  "type": "legendado",
+  "mal_id": 15379,
+  "url": "https://myanimelist.net/anime/15379/Kotoura-san",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/75585.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75585t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75585l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/75585.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75585t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75585l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/LMPFyusWR0g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kotoura-san"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kotoura-san"
+    },
+    {
+      "type": "Japanese",
+      "title": "琴浦さん"
+    },
+    {
+      "type": "English",
+      "title": "The Troubled Life of Miss Kotoura"
+    },
+    {
+      "type": "German",
+      "title": "Kotoura-San"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kotoura-San"
+    },
+    {
+      "type": "French",
+      "title": "Kotoura-San"
+    }
+  ],
   "title": "Kotoura-san",
   "title_english": "The Troubled Life of Miss Kotoura",
   "title_japanese": "琴浦さん",
-  "image": "https://cdn.myanimelist.net/images/anime/10/75585l.webp",
-  "score": 7.15,
-  "synopsis": "Since childhood, Haruka Kotoura's classmates have seen her as a creepy and monstrous person. This is due to her ability to read other people's minds—the same ability that drove her parents away, leaving her alone with her grandfather. As a result, she has grown accustomed to the bitter treatment by the people around her, becoming completely cold and unsociable to others.\n\nHowever, everything starts to change when Haruka transfers to a new school. While most are off put by her as usual, she meets Yoshihisa Manabe, who finds her power astonishing. Yoshihisa then proceeds to befriend Haruka, promising to never leave her no matter what happens.\n\nHaruka's new experiences of social belonging thus begin, meeting new friends and learning to open herself along the way.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/LMPFyusWR0g?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Kotoura-san"
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +125,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy-x_oxiS5m_LwWH5QskaHa5tEXeEDgxdTdMaX7WDdmJCv7CIbvhLo21TUxIICJEoJ-51iPb_ieZCK2EbSMj6AGaHc7A3nzqR9ijODIur_75SYNpZX2-jwnNEoQp3pBAYwM0kk",
       "nome": "The Things I Want to Tell You"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-01-11T00:00:00+00:00",
+    "to": "2013-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2013
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2013
+      }
+    },
+    "string": "Jan 11, 2013 to Mar 29, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.15,
+  "scored_by": 186064,
+  "rank": 3782,
+  "popularity": 743,
+  "members": 361886,
+  "favorites": 1125,
+  "synopsis": "Since childhood, Haruka Kotoura's classmates have seen her as a creepy and monstrous person. This is due to her ability to read other people's minds—the same ability that drove her parents away, leaving her alone with her grandfather. As a result, she has grown accustomed to the bitter treatment by the people around her, becoming completely cold and unsociable to others.\n\nHowever, everything starts to change when Haruka transfers to a new school. While most are off put by her as usual, she meets Yoshihisa Manabe, who finds her power astonishing. Yoshihisa then proceeds to befriend Haruka, promising to never leave her no matter what happens.\n\nHaruka's new experiences of social belonging thus begin, meeting new friends and learning to open herself along the way.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2013,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    },
+    {
+      "mal_id": 146,
+      "type": "anime",
+      "name": "CBC Television",
+      "url": "https://myanimelist.net/anime/producer/146/CBC_Television"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1306,
+      "type": "anime",
+      "name": "AIC Classic",
+      "url": "https://myanimelist.net/anime/producer/1306/AIC_Classic"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/75585l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/LMPFyusWR0g?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 15379,
+  "slug": "kotoura-san"
 }

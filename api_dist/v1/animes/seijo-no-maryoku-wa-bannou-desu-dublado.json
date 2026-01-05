@@ -1,18 +1,69 @@
 {
-  "id": 42826,
-  "slug": "seijo-no-maryoku-wa-bannou-desu-dublado",
-  "type": "dublado",
+  "mal_id": 42826,
+  "url": "https://myanimelist.net/anime/42826/Seijo_no_Maryoku_wa_Bannou_desu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1947/114235.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/114235t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/114235l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1947/114235.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1947/114235t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1947/114235l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/neuik8auVmE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Seijo no Maryoku wa Bannou desu"
+    },
+    {
+      "type": "Synonym",
+      "title": "The power of the saint is all around."
+    },
+    {
+      "type": "Japanese",
+      "title": "聖女の魔力は万能です"
+    },
+    {
+      "type": "English",
+      "title": "The Saint's Magic Power is Omnipotent"
+    },
+    {
+      "type": "German",
+      "title": "The Saint's Magic Power is Omnipotent"
+    },
+    {
+      "type": "Spanish",
+      "title": "The Saint's Magic Power is Omnipotent"
+    },
+    {
+      "type": "French",
+      "title": "The Saint's Magic Power is Omnipotent"
+    }
+  ],
   "title": "Seijo no Maryoku wa Bannou desu",
   "title_english": "The Saint's Magic Power is Omnipotent",
   "title_japanese": "聖女の魔力は万能です",
-  "image": "https://cdn.myanimelist.net/images/anime/1947/114235l.webp",
-  "score": 7.31,
-  "synopsis": "Since ancient times, the citizens of Slantania have lived within a shroud of miasma, a force that brings forth monsters creating havoc around the world. When the kingdom's Order of Knights becomes incapable of containing the monsters, the Grand Magus summons a holy maiden—the legendary \"Saint\"—to obliterate the horrid creatures and restore peace.\n\nOne evening, as Sei Takanashi returns home from a long day at work, a magical force pulls her into a foreign world. Upon her arrival to the kingdom of Slantania, she overhears that the Grand Magus inadvertently summoned two Saints—Sei and a brown-haired girl. Needing only one holy maiden, the prince declares the other girl as the Saint, leaving Sei to her own devices.\n\nSei sets her sight on the Medicinal Flora Research Institute, an establishment known for its studies regarding herbs and potions. While indulging in her latest passion, Sei has a fateful encounter with the commander of the Third Order of Knights. But little does she know, her aptitude as a Saint will continue to exert its influence over her new life.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/neuik8auVmE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "The power of the saint is all around."
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +125,96 @@
       "url": "https://lightspeedst.net/s1/mp4/seijo-no-maryoku-wa-bannou-desu-dublado/hd/12.mp4",
       "nome": "Return"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-06T00:00:00+00:00",
+    "to": "2021-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 6, 2021 to Jun 22, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.31,
+  "scored_by": 112743,
+  "rank": 2893,
+  "popularity": 1154,
+  "members": 239061,
+  "favorites": 1346,
+  "synopsis": "Since ancient times, the citizens of Slantania have lived within a shroud of miasma, a force that brings forth monsters creating havoc around the world. When the kingdom's Order of Knights becomes incapable of containing the monsters, the Grand Magus summons a holy maiden—the legendary \"Saint\"—to obliterate the horrid creatures and restore peace.\n\nOne evening, as Sei Takanashi returns home from a long day at work, a magical force pulls her into a foreign world. Upon her arrival to the kingdom of Slantania, she overhears that the Grand Magus inadvertently summoned two Saints—Sei and a brown-haired girl. Needing only one holy maiden, the prince declares the other girl as the Saint, leaving Sei to her own devices.\n\nSei sets her sight on the Medicinal Flora Research Institute, an establishment known for its studies regarding herbs and potions. While indulging in her latest passion, Sei has a fateful encounter with the commander of the Third Order of Knights. But little does she know, her aptitude as a Saint will continue to exert its influence over her new life.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1947/114235l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/neuik8auVmE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 42826,
+  "slug": "seijo-no-maryoku-wa-bannou-desu-dublado"
 }

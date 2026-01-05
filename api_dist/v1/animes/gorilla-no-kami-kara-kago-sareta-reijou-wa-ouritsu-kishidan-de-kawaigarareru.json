@@ -1,19 +1,67 @@
 {
-  "id": 59935,
-  "slug": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru",
-  "type": "legendado",
+  "mal_id": 59935,
+  "url": "https://myanimelist.net/anime/59935/Gorilla_no_Kami_kara_Kago_sareta_Reijou_wa_Ouritsu_Kishidan_de_Kawaigarareru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1714/148317.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1714/148317t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1714/148317l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1714/148317.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1714/148317t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1714/148317l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kTrG6N72ZN4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Young Lady"
+    },
+    {
+      "type": "Synonym",
+      "title": "Who Was Blessed by the Gorilla God"
+    },
+    {
+      "type": "Synonym",
+      "title": "Is Adored in the Royal Knight Order"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる"
+    },
+    {
+      "type": "English",
+      "title": "The Gorilla God's Go-To Girl"
+    }
+  ],
   "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
   "title_english": "The Gorilla God's Go-To Girl",
   "title_japanese": "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる",
-  "image": "https://cdn.myanimelist.net/images/anime/1714/148317l.webp",
-  "score": 6.52,
-  "synopsis": "In a world where individuals receive blessings from various animal gods at the age of sixteen, Sophia Riller, a timid count's daughter, unexpectedly receives the blessing of the \"Gorilla God\"—said to be the strongest in combat. Though she longs for a peaceful school life, her rare and powerful ability attracts the attention of the Royal Knights, who scout her as an apprentice knight. Despite her efforts to hide her overwhelming strength, she can't help but stand out. Meanwhile, the promising young knights around her watch over her with kindness.\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kTrG6N72ZN4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "The Young Lady",
+    "Who Was Blessed by the Gorilla God",
+    "Is Adored in the Royal Knight Order"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +123,126 @@
       "url": "https://lightspeedst.net/s5/mp4/gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru/hd/12.mp4",
       "nome": "The Gorilla End Filled with Determination and Love"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-06T00:00:00+00:00",
+    "to": "2025-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2025
+      }
+    },
+    "string": "Apr 6, 2025 to Jun 22, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.52,
+  "scored_by": 27246,
+  "rank": 7246,
+  "popularity": 3116,
+  "members": 61984,
+  "favorites": 159,
+  "synopsis": "In a world where individuals receive blessings from various animal gods at the age of sixteen, Sophia Riller, a timid count's daughter, unexpectedly receives the blessing of the \"Gorilla God\"—said to be the strongest in combat. Though she longs for a peaceful school life, her rare and powerful ability attracts the attention of the Royal Knights, who scout her as an apprentice knight. Despite her efforts to hide her overwhelming strength, she can't help but stand out. Meanwhile, the promising young knights around her watch over her with kindness.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2017,
+      "type": "anime",
+      "name": "Culture Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2017/Culture_Entertainment"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3048,
+      "type": "anime",
+      "name": "Kachigarasu",
+      "url": "https://myanimelist.net/anime/producer/3048/Kachigarasu"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1714/148317l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kTrG6N72ZN4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59935,
+  "slug": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru"
 }

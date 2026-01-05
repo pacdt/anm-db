@@ -1,18 +1,57 @@
 {
-  "id": 38677,
-  "slug": "guomin-laogong-dai-huijia-4th-season",
-  "type": "legendado",
+  "mal_id": 38677,
+  "url": "https://myanimelist.net/anime/38677/Guomin_Laogong_Dai_Huijia_4th_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1057/96198.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/96198t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/96198l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1057/96198.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/96198t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/96198l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_a7tuz-s4f4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Guomin Laogong Dai Huijia 4th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "How to Steal 55 Kisses 4th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "国民老公带回家"
+    },
+    {
+      "type": "English",
+      "title": "National Husband Bring Home 4"
+    }
+  ],
   "title": "Guomin Laogong Dai Huijia 4th Season",
   "title_english": "National Husband Bring Home 4",
   "title_japanese": "国民老公带回家",
-  "image": "https://cdn.myanimelist.net/images/anime/1057/96198l.webp",
-  "score": 6.11,
-  "synopsis": "Fourth season of Guomin Laogong Dai Huijia.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_a7tuz-s4f4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "How to Steal 55 Kisses 4th Season"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -62,5 +101,76 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dy_Qhq_fN1Q4FFHUauXNdjm9JczRC5jYlLFBtSNbEVDULKRtILeXjXMyH9uG6Chb8adPkHm8dBse8rkHnCGTB5COiEswZaEJ5UZE4WBev-ZUUHQvIYc4TINgXI_LCsxcS6u0Qs"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-03T00:00:00+00:00",
+    "to": "2018-12-12T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 12,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 3, 2018 to Dec 12, 2018"
+  },
+  "duration": "12 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.11,
+  "scored_by": 867,
+  "rank": 9750,
+  "popularity": 9710,
+  "members": 4491,
+  "favorites": 17,
+  "synopsis": "Fourth season of Guomin Laogong Dai Huijia.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1772,
+      "type": "anime",
+      "name": "Wawayu Animation",
+      "url": "https://myanimelist.net/anime/producer/1772/Wawayu_Animation"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1057/96198l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_a7tuz-s4f4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38677,
+  "slug": "guomin-laogong-dai-huijia-4th-season"
 }

@@ -1,19 +1,61 @@
 {
-  "id": 29325,
-  "slug": "koukaku-kidoutai-arise-alternative-architecture",
-  "type": "legendado",
+  "mal_id": 29325,
+  "url": "https://myanimelist.net/anime/29325/Koukaku_Kidoutai_Arise__Alternative_Architecture",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/72037.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/72037t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/72037l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/72037.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/72037t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/72037l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Py1W0uZvpDw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koukaku Kidoutai Arise: Alternative Architecture"
+    },
+    {
+      "type": "Synonym",
+      "title": "Koukaku Kidoutai: Arise (TV)"
+    },
+    {
+      "type": "Japanese",
+      "title": "攻殻機動隊 ARISE ALTERNATIVE ARCHITECTURE"
+    },
+    {
+      "type": "English",
+      "title": "Ghost in the Shell: Arise - Alternative Architecture"
+    },
+    {
+      "type": "French",
+      "title": "Ghost in the Shell Arise Pyrophoric Cult"
+    }
+  ],
   "title": "Koukaku Kidoutai Arise: Alternative Architecture",
   "title_english": "Ghost in the Shell: Arise - Alternative Architecture",
   "title_japanese": "攻殻機動隊 ARISE ALTERNATIVE ARCHITECTURE",
-  "image": "https://cdn.myanimelist.net/images/anime/5/72037l.webp",
-  "score": 7.22,
-  "synopsis": "A TV anime version of Ghost in the Shell: Arise. The first eight episodes are an edited version of the four movies while the last two features a new arc called \"Pyrophoric Cult.\"\n\nThe plot involves the \"Fire Starter\" virus explored previously, and introduces the new character Pyromania. The episode will have ties to the upcoming film.\n\n(Source: Wikipedia)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Py1W0uZvpDw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery",
-    "Sci-Fi",
-    "Suspense"
+  "title_synonyms": [
+    "Koukaku Kidoutai: Arise (TV)"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +107,109 @@
       "url": "https://lightspeedst.net/s2/mp4/koukaku-kidoutai-arise-alternative-architecture/sd/10.mp4",
       "nome": "PYROPHORIC CULT, Part 2"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-04-05T00:00:00+00:00",
+    "to": "2015-06-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2015
+      },
+      "to": {
+        "day": 14,
+        "month": 6,
+        "year": 2015
+      }
+    },
+    "string": "Apr 5, 2015 to Jun 14, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.22,
+  "scored_by": 15678,
+  "rank": 3416,
+  "popularity": 3689,
+  "members": 45784,
+  "favorites": 48,
+  "synopsis": "A TV anime version of Ghost in the Shell: Arise. The first eight episodes are an edited version of the four movies while the last two features a new arc called \"Pyrophoric Cult.\"\n\nThe plot involves the \"Fire Starter\" virus explored previously, and introduces the new character Pyromania. The episode will have ties to the upcoming film.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "spring",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Sci-Fi",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/72037l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Py1W0uZvpDw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 29325,
+  "slug": "koukaku-kidoutai-arise-alternative-architecture"
 }

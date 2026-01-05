@@ -1,17 +1,47 @@
 {
-  "id": 7453,
-  "slug": "aika-zero-picture-drama",
-  "type": "legendado",
+  "mal_id": 7453,
+  "url": "https://myanimelist.net/anime/7453/AIKa_Zero_Picture_Drama",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/17813.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/17813t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/17813l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/17813.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/17813t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/17813l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "AIKa Zero Picture Drama"
+    },
+    {
+      "type": "Japanese",
+      "title": "AIKa ZERO"
+    }
+  ],
   "title": "AIKa Zero Picture Drama",
   "title_english": "AIKa Zero Picture Drama",
   "title_japanese": "AIKa ZERO",
-  "image": "https://cdn.myanimelist.net/images/anime/10/17813l.webp",
-  "score": 5.52,
-  "synopsis": "Short specials added to DVDs and Blu-rays.",
-  "trailer_url": null,
-  "genres": [
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -28,5 +58,62 @@
       "url": "https://lightspeedst.net/s4/mp4/aika-zero-picture-drama/sd/3.mp4",
       "nome": "Female Leopard"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-08-25T00:00:00+00:00",
+    "to": "2009-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 8,
+        "year": 2009
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2009
+      }
+    },
+    "string": "Aug 25, 2009 to Dec 22, 2009"
+  },
+  "duration": "4 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.52,
+  "scored_by": 2247,
+  "rank": 12643,
+  "popularity": 8457,
+  "members": 6504,
+  "favorites": 8,
+  "synopsis": "Short specials added to DVDs and Blu-rays.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Studio Fantasia",
+      "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+    }
+  ],
+  "genres": [
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/17813l.webp",
+  "trailer_url": null,
+  "id": 7453,
+  "slug": "aika-zero-picture-drama"
 }

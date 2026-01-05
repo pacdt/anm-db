@@ -1,18 +1,57 @@
 {
-  "id": 1289,
-  "slug": "kidou-keisatsu-patlabor-new-ova",
-  "type": "legendado",
+  "mal_id": 1289,
+  "url": "https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1602/134832.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1602/134832t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1602/134832l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1602/134832.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1602/134832t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1602/134832l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HTkZPSmpFKY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kidou Keisatsu Patlabor: New OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Patlabor 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "機動警察パトレイバー　NEW OVA"
+    },
+    {
+      "type": "English",
+      "title": "Mobile Police Patlabor: The New Files"
+    }
+  ],
   "title": "Kidou Keisatsu Patlabor: New OVA",
   "title_english": "Mobile Police Patlabor: The New Files",
   "title_japanese": "機動警察パトレイバー　NEW OVA",
-  "image": "https://cdn.myanimelist.net/images/anime/1602/134832l.webp",
-  "score": 7.57,
-  "synopsis": "Special Vehicles Division 2 is back on duty, along with their Ingram Patrol Labor (Patlabor) robots. Using their courage as well as the Ingrams, Captain Goto's motley crew of officers battle crime in Tokyo city. They also deal with their personal lives, as well as the supernatural. \n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/HTkZPSmpFKY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Patlabor 2"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -94,5 +133,102 @@
       "url": "https://lightspeedst.net/s4/mp4/kidou-keisatsu-patlabor-new-ova/sd/16.mp4",
       "nome": "All Quiet in the Second Unit"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1990-11-22T00:00:00+00:00",
+    "to": "1992-04-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 22,
+        "month": 11,
+        "year": 1990
+      },
+      "to": {
+        "day": 23,
+        "month": 4,
+        "year": 1992
+      }
+    },
+    "string": "Nov 22, 1990 to Apr 23, 1992"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.57,
+  "scored_by": 4496,
+  "rank": 1752,
+  "popularity": 6454,
+  "members": 12624,
+  "favorites": 44,
+  "synopsis": "Special Vehicles Division 2 is back on duty, along with their Ingram Patrol Labor (Patlabor) robots. Using their courage as well as the Ingrams, Captain Goto's motley crew of officers battle crime in Tokyo city. They also deal with their personal lives, as well as the supernatural. \n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 284,
+      "type": "anime",
+      "name": "Central Park Media",
+      "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+    },
+    {
+      "mal_id": 490,
+      "type": "anime",
+      "name": "Maiden Japan",
+      "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1602/134832l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/HTkZPSmpFKY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1289,
+  "slug": "kidou-keisatsu-patlabor-new-ova"
 }

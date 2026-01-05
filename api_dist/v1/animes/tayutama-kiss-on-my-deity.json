@@ -1,18 +1,53 @@
 {
-  "id": 5734,
-  "slug": "tayutama-kiss-on-my-deity",
-  "type": "legendado",
+  "mal_id": 5734,
+  "url": "https://myanimelist.net/anime/5734/Tayutama__Kiss_on_My_Deity",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/11972.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/11972t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/11972l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/11972.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/11972t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/11972l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CjG8v21hLko?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tayutama: Kiss on My Deity"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tayutama"
+    },
+    {
+      "type": "Japanese",
+      "title": "タユタマ -Kiss on my Deity-"
+    }
+  ],
   "title": "Tayutama: Kiss on My Deity",
   "title_english": "Tayutama: Kiss on My Deity",
   "title_japanese": "タユタマ -Kiss on my Deity-",
-  "image": "https://cdn.myanimelist.net/images/anime/2/11972l.webp",
-  "score": 6.7,
-  "synopsis": "Yuuri Mito is a typical, normal Japanese teenager.  He goes to school, works on people's motorcycles and performs exorcisms.  Okay, that last part's a little bit unusual, but his family lives in a shrine and they do that sort of thing.  Still, you would think he'd know enough to be careful with an ancient relic he finds in the woods, especially when a mysterious goddess appears and tells him to leave it alone.  Unfortunately, despite Mito's best efforts, the seal gets broken anyway and a number of dangerous \"tayuti\" that it held in stasis get loose.  This is bad.  Mito also ends up with a beautiful goddess girl who decides that she's going to marry him.  This might not be so bad. if he wasn't already caught up in the middle of a war between the entities he's released.  The flesh may be weak but the spirit's more than willing to compensate. \n\n(Source: Sentai Filmworks)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/CjG8v21hLko?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Tayutama"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +109,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyYgB9vswaewCGZmzGNoE8_8q-Jv2AL0kzW_S-kzomr1_xVCf1lkb_ToNm_AcU4M_uwou3E6nRFbW9MXjckEiBvfkMb5BmUn1F93RFGCSXf8LlDGFVZXRrD6qBpmd8nlnqdX7QX",
       "nome": "Yuri"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-04-06T00:00:00+00:00",
+    "to": "2009-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2009
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2009
+      }
+    },
+    "string": "Apr 6, 2009 to Jun 22, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.7,
+  "scored_by": 31032,
+  "rank": 6153,
+  "popularity": 2832,
+  "members": 73388,
+  "favorites": 127,
+  "synopsis": "Yuuri Mito is a typical, normal Japanese teenager.  He goes to school, works on people's motorcycles and performs exorcisms.  Okay, that last part's a little bit unusual, but his family lives in a shrine and they do that sort of thing.  Still, you would think he'd know enough to be careful with an ancient relic he finds in the woods, especially when a mysterious goddess appears and tells him to leave it alone.  Unfortunately, despite Mito's best efforts, the seal gets broken anyway and a number of dangerous \"tayuti\" that it held in stasis get loose.  This is bad.  Mito also ends up with a beautiful goddess girl who decides that she's going to marry him.  This might not be so bad. if he wasn't already caught up in the middle of a war between the entities he's released.  The flesh may be weak but the spirit's more than willing to compensate. \n\n(Source: Sentai Filmworks)",
+  "background": "",
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 711,
+      "type": "anime",
+      "name": "Delfi Sound",
+      "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/2/11972l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/CjG8v21hLko?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 5734,
+  "slug": "tayutama-kiss-on-my-deity"
 }

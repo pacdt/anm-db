@@ -1,18 +1,47 @@
 {
-  "id": 50302,
-  "slug": "pupa",
-  "type": "legendado",
+  "mal_id": 50302,
+  "url": "https://myanimelist.net/anime/50302/Pupa_Movie",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1498/120874.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/120874t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/120874l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1498/120874.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/120874t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/120874l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pupa (Movie)"
+    },
+    {
+      "type": "Japanese",
+      "title": "Pupa"
+    }
+  ],
   "title": "Pupa (Movie)",
   "title_english": "Pupa (Movie)",
   "title_japanese": "Pupa",
-  "image": "https://cdn.myanimelist.net/images/anime/1498/120874l.webp",
-  "score": 5.91,
-  "synopsis": "How long has it been since she lost control of her body? She is completely tapped out and finds herself wishing that she could just shed her body.\n\n(Source: Geidai Animation)",
-  "trailer_url": null,
-  "genres": [
-    "Avant Garde",
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -62,5 +91,63 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxXHrtdgPyKX2bLj17BMQPwH4N71048ldWQ2R6M6CEiIKFOo2MjVu5dAvwFkaliqVuyLwM29qef8k2FWufZxO9REf7VNn3ZLj-lCdX4FLtenOYLxXUziyRX-XXOEFIUSz7x5YE"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "2019"
+  },
+  "duration": "3 min",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.91,
+  "scored_by": 566,
+  "rank": 10894,
+  "popularity": 14061,
+  "members": 1266,
+  "favorites": 1,
+  "synopsis": "How long has it been since she lost control of her body? She is completely tapped out and finds herself wishing that she could just shed her body.\n\n(Source: Geidai Animation)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1524,
+      "type": "anime",
+      "name": "Geidai Animation",
+      "url": "https://myanimelist.net/anime/producer/1524/Geidai_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    "Avant Garde",
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1498/120874l.webp",
+  "trailer_url": null,
+  "id": 50302,
+  "slug": "pupa"
 }

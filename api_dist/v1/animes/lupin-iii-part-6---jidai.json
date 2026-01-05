@@ -1,24 +1,142 @@
 {
-  "id": 50094,
-  "slug": "lupin-iii-part-6---jidai",
-  "type": "legendado",
+  "mal_id": 50094,
+  "url": "https://myanimelist.net/anime/50094/Lupin_III__Part_6_-_Jidai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1589/118735.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/118735t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/118735l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1589/118735.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/118735t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/118735l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lupin III: Part 6 - Jidai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Lupin III: Part 6 Episode 0 - The Times"
+    },
+    {
+      "type": "Japanese",
+      "title": "ルパン三世 PART6 EPISODE 0 ―時代―"
+    },
+    {
+      "type": "English",
+      "title": "Lupin the Third Part 6: The Times"
+    }
+  ],
   "title": "Lupin III: Part 6 - Jidai",
   "title_english": "Lupin the Third Part 6: The Times",
   "title_japanese": "ルパン三世 PART6 EPISODE 0 ―時代―",
-  "image": "https://cdn.myanimelist.net/images/anime/1589/118735l.webp",
+  "title_synonyms": [
+    "Lupin III: Part 6 Episode 0 - The Times"
+  ],
+  "type": "legendado",
+  "source": "Manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s1/mp4/lupin-iii-part-6---jidai/hd/1.mp4"
+    }
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 10, 2021"
+  },
+  "duration": "22 min",
+  "rating": "PG-13 - Teens 13 or older",
   "score": 7.33,
+  "scored_by": 3206,
+  "rank": 2787,
+  "popularity": 8123,
+  "members": 7143,
+  "favorites": 15,
   "synopsis": "Episode 0 of Lupin III: Part 6 series.",
-  "trailer_url": null,
+  "background": "This special is the final episode that Kiyoshi Kobayashi did as the voice of Daisuke Jigen prior to his retirement, having voiced the character for 52 years, starting with the original pilot film from 1969. It acts as a final send off for the voice actor for his long years of having done the character.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
   "genres": [
     "Action",
     "Adventure",
     "Comedy",
     "Mystery"
   ],
-  "episodes": [
+  "explicit_genres": [],
+  "themes": [
     {
-      "numero": 1,
-      "url": "https://lightspeedst.net/s1/mp4/lupin-iii-part-6---jidai/hd/1.mp4"
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
     }
-  ]
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1589/118735l.webp",
+  "trailer_url": null,
+  "id": 50094,
+  "slug": "lupin-iii-part-6---jidai"
 }

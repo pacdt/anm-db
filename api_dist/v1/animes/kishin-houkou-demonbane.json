@@ -1,19 +1,53 @@
 {
-  "id": 766,
-  "slug": "kishin-houkou-demonbane",
-  "type": "legendado",
+  "mal_id": 766,
+  "url": "https://myanimelist.net/anime/766/Kishin_Houkou_Demonbane",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/766.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/766t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/766l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/766.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/766t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/766l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kishin Houkou Demonbane"
+    },
+    {
+      "type": "Synonym",
+      "title": "Demonbane OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "機神咆吼デモンベイン"
+    }
+  ],
   "title": "Kishin Houkou Demonbane",
   "title_english": "Kishin Houkou Demonbane",
   "title_japanese": "機神咆吼デモンベイン",
-  "image": "https://cdn.myanimelist.net/images/anime/1/766l.webp",
-  "score": 5.98,
-  "synopsis": "Lily Bridge, a young journalist, arrives at Arkham City, hoping to find a big scoop. However, with all the strange things occuring around the city, only the exceptional findings are news-worthy, such as the mysterious mecha known as Demonbane. However, upon finding a small piece of machinery that seemed to be connected with the Hadou Combine, Lily is determined to find the truth. Little does she know, she enters into a dark world, involving herself with Demonbane and the powerful forces that control the city.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Demonbane OVA"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +97,102 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwkI5eUVefn7KWQ3YFF_dNb191JkQ9mV56Dss-qYKFIeF5PMLHcfexQKE3-s8rjCSkUpvhPwk9IrzQ_A-JzcjUrsUMqorFTKPexIg31nrRkybQVz9moXZsrPsmAxghLsfXIZA"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-07-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 7,
+        "year": 2004
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 1, 2004"
+  },
+  "duration": "24 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.98,
+  "scored_by": 4033,
+  "rank": 10451,
+  "popularity": 7042,
+  "members": 10296,
+  "favorites": 13,
+  "synopsis": "Lily Bridge, a young journalist, arrives at Arkham City, hoping to find a big scoop. However, with all the strange things occuring around the city, only the exceptional findings are news-worthy, such as the mysterious mecha known as Demonbane. However, upon finding a small piece of machinery that seemed to be connected with the Hadou Combine, Lily is determined to find the truth. Little does she know, she enters into a dark world, involving herself with Demonbane and the powerful forces that control the city.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 1439,
+      "type": "anime",
+      "name": "Digiturbo",
+      "url": "https://myanimelist.net/anime/producer/1439/Digiturbo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    },
+    {
+      "mal_id": 433,
+      "type": "anime",
+      "name": "Viewworks",
+      "url": "https://myanimelist.net/anime/producer/433/Viewworks"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1/766l.webp",
+  "trailer_url": null,
+  "id": 766,
+  "slug": "kishin-houkou-demonbane"
 }

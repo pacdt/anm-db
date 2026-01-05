@@ -1,18 +1,47 @@
 {
-  "id": 39249,
-  "slug": "pandora-to-akubi",
-  "type": "legendado",
+  "mal_id": 39249,
+  "url": "https://myanimelist.net/anime/39249/Pandora_to_Akubi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1765/142890.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1765/142890t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1765/142890l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1765/142890.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1765/142890t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1765/142890l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/q9fnVoU3Uhw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pandora to Akubi"
+    },
+    {
+      "type": "Japanese",
+      "title": "パンドラとアクビ"
+    }
+  ],
   "title": "Pandora to Akubi",
   "title_english": "Pandora to Akubi",
   "title_japanese": "パンドラとアクビ",
-  "image": "https://cdn.myanimelist.net/images/anime/1765/142890l.webp",
-  "score": 6.19,
-  "synopsis": "Pandora and Akubi form a team to find \"The Pieces of Calamity\" that have a great power to destroy the whole world. To find the pieces that have been scattered around various places, the two travel beyond dimensions.\n\n(Source: Crunchyroll)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/q9fnVoU3Uhw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -22,5 +51,82 @@
       "numero": 2,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyw2cKN9qFBLAC7Ot8QJNTQS-GbvE6_dK3sZfGmFDQUMsur_WiAwe3ooGxiiRLj0YGYJhfsU-bXaM1IfNmks4ZaYdUP1SYHG26MtCTfaugHQi43BWM6csvq0sVQho9Iv_eIx2nb"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-04-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 5, 2019"
+  },
+  "duration": "27 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.19,
+  "scored_by": 773,
+  "rank": 9273,
+  "popularity": 10113,
+  "members": 3992,
+  "favorites": 2,
+  "synopsis": "Pandora and Akubi form a team to find \"The Pieces of Calamity\" that have a great power to destroy the whole world. To find the pieces that have been scattered around various places, the two travel beyond dimensions.\n\n(Source: Crunchyroll)",
+  "background": "Pandora to Akubi is a joint production between XFLAG and Tatsunoko Production, featuring characters from the companies' intellectual properties. Pandora is from XFLAG's Monster Strike smartphone game, while Akubi originates from Tatsunoko Production's 1969 anime series Hakushon Daimaou (The Genie Family). (Source: MAL News)",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    },
+    {
+      "mal_id": 1572,
+      "type": "anime",
+      "name": "XFLAG",
+      "url": "https://myanimelist.net/anime/producer/1572/XFLAG"
+    },
+    {
+      "mal_id": 1858,
+      "type": "anime",
+      "name": "Sonilude",
+      "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1984,
+      "type": "anime",
+      "name": "Bakken Record",
+      "url": "https://myanimelist.net/anime/producer/1984/Bakken_Record"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1765/142890l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/q9fnVoU3Uhw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39249,
+  "slug": "pandora-to-akubi"
 }

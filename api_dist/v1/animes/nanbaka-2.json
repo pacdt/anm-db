@@ -1,19 +1,63 @@
 {
-  "id": 34414,
-  "slug": "nanbaka-2",
-  "type": "legendado",
+  "mal_id": 34414,
+  "url": "https://myanimelist.net/anime/34414/Nanbaka_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1294/127370.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/127370t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/127370l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1294/127370.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1294/127370t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1294/127370l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/sN_pg69cLAI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nanbaka 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "ナンバカ 2期"
+    },
+    {
+      "type": "English",
+      "title": "Nanbaka Season 2"
+    },
+    {
+      "type": "German",
+      "title": "Nanbaka Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Nanbaka Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "Nanbaka Saison 2"
+    }
+  ],
   "title": "Nanbaka 2",
   "title_english": "Nanbaka Season 2",
   "title_japanese": "ナンバカ 2期",
-  "image": "https://cdn.myanimelist.net/images/anime/1294/127370l.webp",
-  "score": 7.49,
-  "synopsis": "The second part of Nanbaka. The prisoners and their guards continue their comfortable lives at Nanba Prison. However, from the shadows emerges a new threat: Enki Gokuu, a person from Samon's past, who has mysterious goals of his own.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/sN_pg69cLAI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,114 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzL0RXqwokem7dWos61s76408ndR08iFQ3_viAens-Lo3l--fP_FGn7jlHgOQUYQT8ZGgBAo_qfKuKW9ZYXBJ34lp6Lppq-Zc5--rkQKghapq6pE7a2QTnC-h-j1cKW7k-Yn-w",
       "nome": "Sarabaka"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-04T00:00:00+00:00",
+    "to": "2017-03-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 22,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 4, 2017 to Mar 22, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.49,
+  "scored_by": 69763,
+  "rank": 2114,
+  "popularity": 1810,
+  "members": 142196,
+  "favorites": 399,
+  "synopsis": "The second part of Nanbaka. The prisoners and their guards continue their comfortable lives at Nanba Prison. However, from the shadows emerges a new threat: Enki Gokuu, a person from Samon's past, who has mysterious goals of his own.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1481,
+      "type": "anime",
+      "name": "comico",
+      "url": "https://myanimelist.net/anime/producer/1481/comico"
+    },
+    {
+      "mal_id": 1493,
+      "type": "anime",
+      "name": "Tokuma Japan Communications",
+      "url": "https://myanimelist.net/anime/producer/1493/Tokuma_Japan_Communications"
+    },
+    {
+      "mal_id": 1555,
+      "type": "anime",
+      "name": "Nelke Planning",
+      "url": "https://myanimelist.net/anime/producer/1555/Nelke_Planning"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1294/127370l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/sN_pg69cLAI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34414,
+  "slug": "nanbaka-2"
 }

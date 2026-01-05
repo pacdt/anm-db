@@ -1,18 +1,53 @@
 {
-  "id": 964,
-  "slug": "hit-wo-nerae",
-  "type": "legendado",
+  "mal_id": 964,
+  "url": "https://myanimelist.net/anime/964/Hit_wo_Nerae",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/75237.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75237t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75237l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/75237.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75237t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75237l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hit wo Nerae!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Smash Hit!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヒットをねらえ!"
+    }
+  ],
   "title": "Hit wo Nerae!",
   "title_english": "Hit wo Nerae!",
   "title_japanese": "ヒットをねらえ!",
-  "image": "https://cdn.myanimelist.net/images/anime/10/75237l.webp",
-  "score": 5.46,
-  "synopsis": "Mitsuki Ikuta works for the Houchiku Corporation, making movies. To all who know her, she is perceived as being a very infantile woman, still wearing childish fashions. A fan of the detective movie genre, she suddenly finds herself chosen to be the main producer of a new film—but it's a \"hero movie\" (a genre generally considered childish). Determined to succeed, regardless, she takes on the job.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Ecchi"
+  "title_synonyms": [
+    "Smash Hit!"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -46,5 +81,76 @@
       "numero": 8,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxNqJ_ejZxo-YDKgdn21vWblxiu-5JnBsRVHLwZsUz4QuFTWPtEgve-M9wg4PWehl5NXzTSPQrOIAYevBoA5HADnNnneQskKglg58v4YueYNUZCo0UCSz0S9re-az-IVR8JAIg"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-03-09T00:00:00+00:00",
+    "to": "2004-04-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 3,
+        "year": 2004
+      },
+      "to": {
+        "day": 27,
+        "month": 4,
+        "year": 2004
+      }
+    },
+    "string": "Mar 9, 2004 to Apr 27, 2004"
+  },
+  "duration": "14 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.46,
+  "scored_by": 2923,
+  "rank": 12849,
+  "popularity": 7993,
+  "members": 7483,
+  "favorites": 1,
+  "synopsis": "Mitsuki Ikuta works for the Houchiku Corporation, making movies. To all who know her, she is perceived as being a very infantile woman, still wearing childish fashions. A fan of the detective movie genre, she suddenly finds herself chosen to be the main producer of a new film—but it's a \"hero movie\" (a genre generally considered childish). Determined to succeed, regardless, she takes on the job.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "m.o.e.",
+      "url": "https://myanimelist.net/anime/producer/40/moe"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Imagin",
+      "url": "https://myanimelist.net/anime/producer/75/Imagin"
+    },
+    {
+      "mal_id": 1383,
+      "type": "anime",
+      "name": "Studio Live",
+      "url": "https://myanimelist.net/anime/producer/1383/Studio_Live"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/75237l.webp",
+  "trailer_url": null,
+  "id": 964,
+  "slug": "hit-wo-nerae"
 }

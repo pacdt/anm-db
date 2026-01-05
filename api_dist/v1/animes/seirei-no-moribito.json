@@ -1,19 +1,69 @@
 {
-  "id": 1827,
-  "slug": "seirei-no-moribito",
-  "type": "legendado",
+  "mal_id": 1827,
+  "url": "https://myanimelist.net/anime/1827/Seirei_no_Moribito",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50337.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50337t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50337l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50337.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50337t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50337l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/9I8doA-vYvU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Seirei no Moribito"
+    },
+    {
+      "type": "Synonym",
+      "title": "Guardian of the Sacred Spirit"
+    },
+    {
+      "type": "Japanese",
+      "title": "精霊の守り人"
+    },
+    {
+      "type": "English",
+      "title": "Moribito - Guardian of the Spirit"
+    },
+    {
+      "type": "German",
+      "title": "Guardian of the Spirit"
+    },
+    {
+      "type": "Spanish",
+      "title": "Moribito: Guardíán del Espíritu Sagrado"
+    },
+    {
+      "type": "French",
+      "title": "Moribito: Guardian Of The Spirit"
+    }
+  ],
   "title": "Seirei no Moribito",
   "title_english": "Moribito - Guardian of the Spirit",
   "title_japanese": "精霊の守り人",
-  "image": "https://cdn.myanimelist.net/images/anime/4/50337l.webp",
-  "score": 8.12,
-  "synopsis": "On the precipice of a cataclysmic drought, the Star Readers of the Shin Yogo Empire must devise a plan to avoid widespread famine. It is written in ancient myths that the first emperor, along with eight warriors, slew a water demon to avoid a great drought and save the land that was to become Shin Yogo. If a water demon was to appear once more, its death could bring salvation. However, the water demon manifests itself within the body of the emperor's son, Prince Chagum—by the emperor's order, Chagum is to be sacrificed to save the empire.\n\nMeanwhile, a mysterious spear-wielding mercenary named Balsa arrives in Shin Yogo on business. After saving Chagum from a thinly veiled assassination attempt, she is tasked by Chagum's mother to protect him from the emperor and his hunters. Bound by a sacred vow she once made, Balsa accepts.\n\nSeirei no Moribito follows Balsa as she embarks on her journey to protect Chagum, exploring the beauty of life, nature, family, and the bonds that form between strangers.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/9I8doA-vYvU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Guardian of the Sacred Spirit"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +195,114 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwgD3XsMeR2JNjMe4u-dlbVmMRztZbRKE9rfc8fI7GWyHaITSF8M30gsoiGrSmOEkXPxrDLth5H0ioSBEEqGXm8c-fGdIvpa6YsWNG40IZSO_vIhiyURoxg91yJJV4Torz8Q2U",
       "nome": "Departure"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-07T00:00:00+00:00",
+    "to": "2007-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 7, 2007 to Sep 29, 2007"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.12,
+  "scored_by": 79975,
+  "rank": 519,
+  "popularity": 1186,
+  "members": 232859,
+  "favorites": 2869,
+  "synopsis": "On the precipice of a cataclysmic drought, the Star Readers of the Shin Yogo Empire must devise a plan to avoid widespread famine. It is written in ancient myths that the first emperor, along with eight warriors, slew a water demon to avoid a great drought and save the land that was to become Shin Yogo. If a water demon was to appear once more, its death could bring salvation. However, the water demon manifests itself within the body of the emperor's son, Prince Chagum—by the emperor's order, Chagum is to be sacrificed to save the empire.\n\nMeanwhile, a mysterious spear-wielding mercenary named Balsa arrives in Shin Yogo on business. After saving Chagum from a thinly veiled assassination attempt, she is tasked by Chagum's mother to protect him from the emperor and his hunters. Bound by a sacred vow she once made, Balsa accepts.\n\nSeirei no Moribito follows Balsa as she embarks on her journey to protect Chagum, exploring the beauty of life, nature, family, and the bonds that form between strangers.\n\n[Written by MAL Rewrite]",
+  "background": "Seirei no Moribito is based on Nahoko Uehashi's Moribito novel series. It adapts the first novel in the series, and greatly expands the midsection of the novel.",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:06",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 08:06 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    },
+    {
+      "mal_id": 3024,
+      "type": "anime",
+      "name": "Fonishia",
+      "url": "https://myanimelist.net/anime/producer/3024/Fonishia"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/50337l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/9I8doA-vYvU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1827,
+  "slug": "seirei-no-moribito"
 }

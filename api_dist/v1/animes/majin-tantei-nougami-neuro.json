@@ -1,19 +1,62 @@
 {
-  "id": 2985,
-  "slug": "majin-tantei-nougami-neuro",
-  "type": "legendado",
+  "mal_id": 2985,
+  "url": "https://myanimelist.net/anime/2985/Majin_Tantei_Nougami_Neuro",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/20930.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/20930t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/20930l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/20930.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/20930t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/20930l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Majin Tantei Nougami Neuro"
+    },
+    {
+      "type": "Synonym",
+      "title": "Private Evil-Eye Nougami Neuro"
+    },
+    {
+      "type": "Synonym",
+      "title": "Demon Detective Nougami Neuro"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔人探偵 脳噛ネウロ"
+    },
+    {
+      "type": "English",
+      "title": "Neuro: Supernatural Detective"
+    }
+  ],
   "title": "Majin Tantei Nougami Neuro",
   "title_english": "Neuro: Supernatural Detective",
   "title_japanese": "魔人探偵 脳噛ネウロ",
-  "image": "https://cdn.myanimelist.net/images/anime/12/20930l.webp",
-  "score": 7.57,
-  "synopsis": "Yako Katsuragi is an acclaimed high school detective, who, despite her young age, has solved many cases. In fact, there seems to be no case that she cannot solve, or any culprit that escapes justice. But within the walls of her detective agency lies the secret to her prolific crime-solving skills: the cases are actually solved by her assistant, Neuro Nougami.\n\nHowever, to call Neuro an ordinary man would be incorrect. In reality, he is a demon, who came to the human world in search of the ultimate mystery, having already solved every mystery in the demon world. With Yako as his proxy, he feasts on the negative energy released by humans when they commit crimes. Thus, he promises to help Yako solve the mystery of her father's death. But to do so, he must avoid drawing too much attention to himself, which is why Yako plays the role of the detective. As Yako desperately searches for the truth of her father's death, the unlikely duo continues to solve case after case in order to satisfy Neuro's ravenous appetite.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Mystery",
-    "Supernatural"
+  "title_synonyms": [
+    "Private Evil-Eye Nougami Neuro",
+    "Demon Detective Nougami Neuro"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -140,5 +183,97 @@
       "url": "https://lightspeedst.net/s3/mp4/majin-tantei-nougami-neuro/sd/25.mp4",
       "nome": "Sai (Final)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-10-03T00:00:00+00:00",
+    "to": "2008-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2007
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Oct 3, 2007 to Mar 26, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.57,
+  "scored_by": 28792,
+  "rank": 1755,
+  "popularity": 2889,
+  "members": 70964,
+  "favorites": 604,
+  "synopsis": "Yako Katsuragi is an acclaimed high school detective, who, despite her young age, has solved many cases. In fact, there seems to be no case that she cannot solve, or any culprit that escapes justice. But within the walls of her detective agency lies the secret to her prolific crime-solving skills: the cases are actually solved by her assistant, Neuro Nougami.\n\nHowever, to call Neuro an ordinary man would be incorrect. In reality, he is a demon, who came to the human world in search of the ultimate mystery, having already solved every mystery in the demon world. With Yako as his proxy, he feasts on the negative energy released by humans when they commit crimes. Thus, he promises to help Yako solve the mystery of her father's death. But to do so, he must avoid drawing too much attention to himself, which is why Yako plays the role of the detective. As Yako desperately searches for the truth of her father's death, the unlikely duo continues to solve case after case in order to satisfy Neuro's ravenous appetite.\n\n[Written by MAL Rewrite]",
+  "background": "Majin Tantei Nougami Neuro was released on DVD in nine volumes from December 21, 2007, to August 27, 2008.",
+  "season": "fall",
+  "year": 2007,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:29",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:29 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Mystery",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/20930l.webp",
+  "trailer_url": null,
+  "id": 2985,
+  "slug": "majin-tantei-nougami-neuro"
 }

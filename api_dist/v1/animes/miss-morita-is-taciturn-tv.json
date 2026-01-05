@@ -1,17 +1,65 @@
 {
-  "id": 10671,
-  "slug": "miss-morita-is-taciturn-tv",
-  "type": "legendado",
+  "mal_id": 10671,
+  "url": "https://myanimelist.net/anime/10671/Morita-san_wa_Mukuchi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/30166.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/30166t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/30166l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/30166.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/30166t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/30166l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Morita-san wa Mukuchi."
+    },
+    {
+      "type": "Synonym",
+      "title": "Miss Morita is Taciturn (TV)"
+    },
+    {
+      "type": "Japanese",
+      "title": "森田さんは無口。"
+    },
+    {
+      "type": "German",
+      "title": "Morita-san wa Mukuchi"
+    },
+    {
+      "type": "Spanish",
+      "title": "Morita-san wa Mukuchi"
+    },
+    {
+      "type": "French",
+      "title": "Morita-san wa Mukuchi"
+    }
+  ],
   "title": "Morita-san wa Mukuchi.",
   "title_english": "Morita-san wa Mukuchi.",
   "title_japanese": "森田さんは無口。",
-  "image": "https://cdn.myanimelist.net/images/anime/13/30166l.webp",
-  "score": 6.49,
-  "synopsis": "Morita Mayu, a high school girl. She is extremely reticent and her silence and habit of looking at people's eyes straightly sometimes cause misunderstanding. The reason behind it is not because she doesn’t like to talk nor because she has nothing to say. The reason she rarely speaks is due to the fact she thinks too much before speaking, thus losing the timing to speak altogether. But she lives a happy school life with her classmates.",
-  "trailer_url": null,
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Miss Morita is Taciturn (TV)"
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +126,82 @@
       "url": "https://lightspeedst.net/s2/mp4/miss-morita-is-taciturn-tv/sd/13.mp4",
       "nome": "Spending Our Day off Together"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-06T00:00:00+00:00",
+    "to": "2011-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Jul 6, 2011 to Sep 28, 2011"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.49,
+  "scored_by": 11405,
+  "rank": 7441,
+  "popularity": 4832,
+  "members": 26104,
+  "favorites": 15,
+  "synopsis": "Morita Mayu, a high school girl. She is extremely reticent and her silence and habit of looking at people's eyes straightly sometimes cause misunderstanding. The reason behind it is not because she doesn’t like to talk nor because she has nothing to say. The reason she rarely speaks is due to the fact she thinks too much before speaking, thus losing the timing to speak altogether. But she lives a happy school life with her classmates.",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 332,
+      "type": "anime",
+      "name": "Takeshobo",
+      "url": "https://myanimelist.net/anime/producer/332/Takeshobo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 541,
+      "type": "anime",
+      "name": "Seven",
+      "url": "https://myanimelist.net/anime/producer/541/Seven"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/30166l.webp",
+  "trailer_url": null,
+  "id": 10671,
+  "slug": "miss-morita-is-taciturn-tv"
 }

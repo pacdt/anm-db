@@ -1,22 +1,160 @@
 {
-  "id": 62246,
-  "slug": "yi-ren-zhi-xia-6",
-  "type": "legendado",
+  "mal_id": 62246,
+  "url": "https://myanimelist.net/anime/62246/Yi_Ren_Zhi_Xia_6",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1756/151431.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1756/151431t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1756/151431l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1756/151431.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1756/151431t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1756/151431l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/XNJpvJcz4wg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yi Ren Zhi Xia 6"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yi Ren Zhi Xia 6th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Outcast 6th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "一人之下 第6季"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hitori No Shita: The Outcast 6th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "一人之下6"
+    },
+    {
+      "type": "English",
+      "title": "The Outcast Season 6"
+    }
+  ],
   "title": "Yi Ren Zhi Xia 6",
   "title_english": "The Outcast Season 6",
   "title_japanese": "一人之下6",
-  "image": "https://cdn.myanimelist.net/images/anime/1756/151431l.webp",
-  "score": null,
-  "synopsis": "Following the incident in Bi You Village, Zhang Chulan continues his investigation into Feng Baobao's origins, leading him to visit Lu Jin. From Lu Jin, Zhang Chulan obtains the list of the Thirty-Six Thieves and unexpectedly learns the reason for Jin Feng's abduction. To prevent Wu Gengsheng's collection from falling into the hands of thieves, the group begins their journey deeper into the Qinling Mountains.\n\n(Source: Tencent, translated)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/XNJpvJcz4wg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Supernatural"
+  "title_synonyms": [
+    "Yi Ren Zhi Xia 6th Season",
+    "The Outcast 6th Season",
+    "一人之下 第6季",
+    "Hitori No Shita: The Outcast 6th Season"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4_temp/yi-ren-zhi-xia-6/1/720p.mp4"
     }
-  ]
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-01-02T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 2, 2026 to ?"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": null,
+  "scored_by": null,
+  "rank": 16979,
+  "popularity": 13434,
+  "members": 1491,
+  "favorites": 5,
+  "synopsis": "Following the incident in Bi You Village, Zhang Chulan continues his investigation into Feng Baobao's origins, leading him to visit Lu Jin. From Lu Jin, Zhang Chulan obtains the list of the Thirty-Six Thieves and unexpectedly learns the reason for Jin Feng's abduction. To prevent Wu Gengsheng's collection from falling into the hands of thieves, the group begins their journey deeper into the Qinling Mountains.\n\n(Source: Tencent, translated)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    },
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2521,
+      "type": "anime",
+      "name": "Qiyuan Yinghua",
+      "url": "https://myanimelist.net/anime/producer/2521/Qiyuan_Yinghua"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1756/151431l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/XNJpvJcz4wg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 62246,
+  "slug": "yi-ren-zhi-xia-6"
 }

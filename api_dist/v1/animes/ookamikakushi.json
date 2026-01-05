@@ -1,20 +1,57 @@
 {
-  "id": 7079,
-  "slug": "ookamikakushi",
-  "type": "legendado",
+  "mal_id": 7079,
+  "url": "https://myanimelist.net/anime/7079/Ookamikakushi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/21784.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/21784t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/21784l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/21784.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/21784t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/21784l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/MpbOTIsQryg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ookamikakushi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wolfed Away"
+    },
+    {
+      "type": "Japanese",
+      "title": "おおかみかくし"
+    },
+    {
+      "type": "English",
+      "title": "Okamikakushi: Masque of the Wolf"
+    }
+  ],
   "title": "Ookamikakushi",
   "title_english": "Okamikakushi: Masque of the Wolf",
   "title_japanese": "おおかみかくし",
-  "image": "https://cdn.myanimelist.net/images/anime/10/21784l.webp",
-  "score": 6.29,
-  "synopsis": "Due to his father's job, 15-year-old Hiroshi Kuzumi and his family move to the mountain town of Jouga. While some teenagers might have to worry about fitting in or feel out of place in a new environment, Hiroshi is welcomed enthusiastically at school by most of his new classmates. In fact, it seems like they just can't get enough of him, and he makes two friends rather quickly: the clingy and overly-affectionate Isuzu Tsumuhana, who is also his neighbor; and Kaname Asagiri, who also recently moved to Jouga. All in all, Hiroshi's new life seems to be quite normal—until people start disappearing.\n\nHiroshi is told that the missing townsfolk have simply moved away or suddenly transferred, but he can't shake the feeling that something is wrong. Meanwhile, in the dead of night under a red moon, masked individuals led by a girl with a scythe stalk their prey in the darkened streets of Jouga. Who are they, and are any of the residents safe from their wrath?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/MpbOTIsQryg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Horror",
-    "Mystery",
-    "Supernatural",
-    "Suspense"
+  "title_synonyms": [
+    "Wolfed Away"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +113,92 @@
       "url": "https://lightspeedst.net/s2/mp4/ookamikakushi/sd/12.mp4",
       "nome": "The Mysterious Take of Joga Town"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-01-08T00:00:00+00:00",
+    "to": "2010-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2010
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2010
+      }
+    },
+    "string": "Jan 8, 2010 to Mar 26, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.29,
+  "scored_by": 31735,
+  "rank": 8728,
+  "popularity": 2772,
+  "members": 75998,
+  "favorites": 93,
+  "synopsis": "Due to his father's job, 15-year-old Hiroshi Kuzumi and his family move to the mountain town of Jouga. While some teenagers might have to worry about fitting in or feel out of place in a new environment, Hiroshi is welcomed enthusiastically at school by most of his new classmates. In fact, it seems like they just can't get enough of him, and he makes two friends rather quickly: the clingy and overly-affectionate Isuzu Tsumuhana, who is also his neighbor; and Kaname Asagiri, who also recently moved to Jouga. All in all, Hiroshi's new life seems to be quite normal—until people start disappearing.\n\nHiroshi is told that the missing townsfolk have simply moved away or suddenly transferred, but he can't shake the feeling that something is wrong. Meanwhile, in the dead of night under a red moon, masked individuals led by a girl with a scythe stalk their prey in the darkened streets of Jouga. Who are they, and are any of the residents safe from their wrath?\n\n[Written by MAL Rewrite]",
+  "background": "Ookamikakushi is an adaptation of the 2009 PlayStation Portable visual novel of the same name, developed and published by Konami. The anime was released on DVD and Blu-ray by Sentai Filmworks as Okamikakushi: Masque of the Wolf on May 28, 2013 and December 16, 2014 respectively.",
+  "season": "winter",
+  "year": 2010,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:59",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:59 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Supernatural",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/21784l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/MpbOTIsQryg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 7079,
+  "slug": "ookamikakushi"
 }

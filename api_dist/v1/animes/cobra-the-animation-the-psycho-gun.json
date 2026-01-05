@@ -1,18 +1,63 @@
 {
-  "id": 4646,
-  "slug": "cobra-the-animation-the-psycho-gun",
-  "type": "legendado",
+  "mal_id": 4646,
+  "url": "https://myanimelist.net/anime/4646/Cobra_The_Animation__The_Psycho-Gun",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1592/96818.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1592/96818t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1592/96818l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1592/96818.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1592/96818t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1592/96818l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cobra The Animation: The Psycho-Gun"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cobra the Space Pirate"
+    },
+    {
+      "type": "Synonym",
+      "title": "Space Adventure Cobra OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cobra The Animation: The Psychogun"
+    },
+    {
+      "type": "Japanese",
+      "title": "COBRA THE ANIMATION ザ・サイコガン"
+    }
+  ],
   "title": "Cobra The Animation: The Psycho-Gun",
   "title_english": "Cobra The Animation: The Psycho-Gun",
   "title_japanese": "COBRA THE ANIMATION ザ・サイコガン",
-  "image": "https://cdn.myanimelist.net/images/anime/1592/96818l.webp",
-  "score": 6.82,
-  "synopsis": "When Utopia More discovers an ancient record that holds the key to unlocking the secrets of the universe, she becomes the target of the ruthless Gypsy Doc of the Pirate Guild. Utopia finds herself saved by the easy-going yet legendary space pirate, Cobra, whose custom made Psychogun makes him a force to be reckoned with. Together, the two of them attempt to stop Gypsy Doc (along with Cobra's revived arch-nemesis, Crystal Boy) and his efforts to steal the record and use its secrets to rule the universe.",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Cobra the Space Pirate",
+    "Space Adventure Cobra OVA",
+    "Cobra The Animation: The Psychogun"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -30,5 +75,96 @@
       "numero": 4,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzjPU_mDtDRi2NNyC9DeDb2NpOk84n7qlUDNLMm6OnaZ0csX7M9f559aY-_Knl_kDYkjgj1-yol3xMlPH4jdP6__g1PH-gZ7pzPn3FgDNTOmI1Giapk_PK8lSL79mXrQ8yNOu8R"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-08-29T00:00:00+00:00",
+    "to": "2009-02-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 8,
+        "year": 2008
+      },
+      "to": {
+        "day": 27,
+        "month": 2,
+        "year": 2009
+      }
+    },
+    "string": "Aug 29, 2008 to Feb 27, 2009"
+  },
+  "duration": "29 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.82,
+  "scored_by": 2923,
+  "rank": 5475,
+  "popularity": 8360,
+  "members": 6688,
+  "favorites": 9,
+  "synopsis": "When Utopia More discovers an ancient record that holds the key to unlocking the secrets of the universe, she becomes the target of the ruthless Gypsy Doc of the Pirate Guild. Utopia finds herself saved by the easy-going yet legendary space pirate, Cobra, whose custom made Psychogun makes him a force to be reckoned with. Together, the two of them attempt to stop Gypsy Doc (along with Cobra's revived arch-nemesis, Crystal Boy) and his efforts to steal the record and use its secrets to rule the universe.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 207,
+      "type": "anime",
+      "name": "Magic Bus",
+      "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1592/96818l.webp",
+  "trailer_url": null,
+  "id": 4646,
+  "slug": "cobra-the-animation-the-psycho-gun"
 }

@@ -1,20 +1,47 @@
 {
-  "id": 1184,
-  "slug": "lost-universe",
-  "type": "legendado",
+  "mal_id": 1184,
+  "url": "https://myanimelist.net/anime/1184/Lost_Universe",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/20409.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/20409t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/20409l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/20409.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/20409t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/20409l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lost Universe"
+    },
+    {
+      "type": "Japanese",
+      "title": "ロスト・ユニバース"
+    }
+  ],
   "title": "Lost Universe",
   "title_english": "Lost Universe",
   "title_japanese": "ロスト・ユニバース",
-  "image": "https://cdn.myanimelist.net/images/anime/3/20409l.webp",
-  "score": 6.99,
-  "synopsis": "Millie Nocturne has one great goal in life: to be the best in the universe - at absolutely everything! But when she tries her hand at being the \"best detective,\" she ends up an unwilling partner with two people who will change her life forever: Kane Blueriver, the psi-blade-wielding master of the starship Swordbreaker, and Canal, the smart-mouthed holographic image of the ship's computer.\n\nJoin this unlikely trio on their adventures as they hurtle through space facing off against intergalactic crime lords, rogue starships, and hijackers dressed as chickens... and that's just the tip of the asteroid! \n\n(Source: RightStuf)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Drama",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -146,5 +173,98 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dymEPFmUmX3dgYrj7-zO_KPIM8TZpyCTJO8XKNBwvngBflaeXxt7b1ZQr3eJdl85hqOCiOMte_ur2OgL4cp2agzDCg4C98sgayuwPldVPaCaIt2DjBa73AELcifCFeq5400cwHJ",
       "nome": "And… the Blade of Light Shines On"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-04-03T00:00:00+00:00",
+    "to": "1998-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 1998
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 1998
+      }
+    },
+    "string": "Apr 3, 1998 to Sep 25, 1998"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.99,
+  "scored_by": 7431,
+  "rank": 4612,
+  "popularity": 5512,
+  "members": 18957,
+  "favorites": 63,
+  "synopsis": "Millie Nocturne has one great goal in life: to be the best in the universe - at absolutely everything! But when she tries her hand at being the \"best detective,\" she ends up an unwilling partner with two people who will change her life forever: Kane Blueriver, the psi-blade-wielding master of the starship Swordbreaker, and Canal, the smart-mouthed holographic image of the ship's computer.\n\nJoin this unlikely trio on their adventures as they hurtle through space facing off against intergalactic crime lords, rogue starships, and hijackers dressed as chickens... and that's just the tip of the asteroid! \n\n(Source: RightStuf)",
+  "background": "The TV broadcast version of Lost Universe Episode 4, \"Yashigani Hofuru\" is notorious for its atrocious animation, later leading to bad animation being nicknamed \"yashigani\".",
+  "season": "spring",
+  "year": 1998,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 153,
+      "type": "anime",
+      "name": "SoftX",
+      "url": "https://myanimelist.net/anime/producer/153/SoftX"
+    },
+    {
+      "mal_id": 210,
+      "type": "anime",
+      "name": "Studio Tulip",
+      "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 154,
+      "type": "anime",
+      "name": "E&G Films",
+      "url": "https://myanimelist.net/anime/producer/154/E_G_Films"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/20409l.webp",
+  "trailer_url": null,
+  "id": 1184,
+  "slug": "lost-universe"
 }

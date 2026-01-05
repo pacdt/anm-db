@@ -1,17 +1,57 @@
 {
-  "id": 40392,
-  "slug": "runway-de-waratte",
-  "type": "legendado",
+  "mal_id": 40392,
+  "url": "https://myanimelist.net/anime/40392/Runway_de_Waratte",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1544/104540.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/104540t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/104540l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1544/104540.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/104540t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/104540l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/6gKt-yNzhUI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Runway de Waratte"
+    },
+    {
+      "type": "Synonym",
+      "title": "Smile at the Runway"
+    },
+    {
+      "type": "Japanese",
+      "title": "ランウェイで笑って"
+    },
+    {
+      "type": "English",
+      "title": "Smile Down the Runway"
+    }
+  ],
   "title": "Runway de Waratte",
   "title_english": "Smile Down the Runway",
   "title_japanese": "ランウェイで笑って",
-  "image": "https://cdn.myanimelist.net/images/anime/1544/104540l.webp",
-  "score": 7.54,
-  "synopsis": "Being the daughter of a modeling agency owner, Chiyuki Fujito aspires to represent her father's agency in the prestigious Paris Fashion Week, shining under the spotlight as a runway model. However, although she is equipped with great looks and talent, she unfortunately lacks a key element in becoming a successful model—height. Stuck at 158 cm even after entering high school, her childhood dream seems out of reach.\n\nMeanwhile, Ikuto Tsumura is a high school student with a knack in designing clothes; however, without the resources to pursue the necessary education, his ambition of becoming a fashion designer remains a mere dream. But as fate brings Chiyuki and Ikuto together, the dim hopes within their hearts are ignited once again. Together, the two promise to rebel against convention and carve out their own paths in the fashion world.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/6gKt-yNzhUI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
+  "title_synonyms": [
+    "Smile at the Runway"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +113,120 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx5JSh96JTTpv8dpFWCklQU9zq_LxGIT8r1G_MNv0mu1DUKpetsR3sAeToUb_T60q1W3FcOMmCa2GADBpoyUJjgS8Jheu1Y2jigSYbt82d4jG5yh1v7yh5cZ3WDhubOZQnqtJA",
       "nome": "This Is My Story"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-11T00:00:00+00:00",
+    "to": "2020-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2020
+      }
+    },
+    "string": "Jan 11, 2020 to Mar 28, 2020"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.54,
+  "scored_by": 56062,
+  "rank": 1896,
+  "popularity": 1854,
+  "members": 137995,
+  "favorites": 439,
+  "synopsis": "Being the daughter of a modeling agency owner, Chiyuki Fujito aspires to represent her father's agency in the prestigious Paris Fashion Week, shining under the spotlight as a runway model. However, although she is equipped with great looks and talent, she unfortunately lacks a key element in becoming a successful model—height. Stuck at 158 cm even after entering high school, her childhood dream seems out of reach.\n\nMeanwhile, Ikuto Tsumura is a high school student with a knack in designing clothes; however, without the resources to pursue the necessary education, his ambition of becoming a fashion designer remains a mere dream. But as fate brings Chiyuki and Ikuto together, the dim hopes within their hearts are ignited once again. Together, the two promise to rebel against convention and carve out their own paths in the fashion world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "02:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 02:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1671,
+      "type": "anime",
+      "name": "DMM pictures",
+      "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+    },
+    {
+      "mal_id": 3155,
+      "type": "anime",
+      "name": "Team-MAX",
+      "url": "https://myanimelist.net/anime/producer/3155/Team-MAX"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1864,
+      "type": "anime",
+      "name": "Ezόla",
+      "url": "https://myanimelist.net/anime/producer/1864/Ez%CF%8Cla"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Showbiz",
+      "url": "https://myanimelist.net/anime/genre/75/Showbiz"
+    },
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Visual Arts",
+      "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1544/104540l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/6gKt-yNzhUI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40392,
+  "slug": "runway-de-waratte"
 }

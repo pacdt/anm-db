@@ -1,19 +1,47 @@
 {
-  "id": 39893,
-  "slug": "muteking-the-dancing-hero",
-  "type": "legendado",
+  "mal_id": 39893,
+  "url": "https://myanimelist.net/anime/39893/Muteking_the_Dancing_Hero",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1402/118465.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/118465t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/118465l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1402/118465.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1402/118465t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1402/118465l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ThnaNnoA9KQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Muteking the Dancing Hero"
+    },
+    {
+      "type": "Japanese",
+      "title": "MUTEKING THE Dancing HERO"
+    }
+  ],
   "title": "Muteking the Dancing Hero",
   "title_english": "Muteking the Dancing Hero",
   "title_japanese": "MUTEKING THE Dancing HERO",
-  "image": "https://cdn.myanimelist.net/images/anime/1402/118465l.webp",
-  "score": 5.85,
-  "synopsis": "Set in a city modeled after San Francisco in the 1980s, the protagonist has transformed into the hero Muteking and is fighting against evil aliens for some reason. Such a cheerful hero will return in 2020! Sci-fi hero love comedy Muteking the Dancing Hero, singing and dancing with pop music.\n\n(Source: Official Website)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ThnaNnoA9KQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +103,97 @@
       "url": "https://lightspeedst.net/s1/mp4/muteking-the-dancing-hero/hd/12.mp4",
       "nome": "The Dancing Hero"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-03T00:00:00+00:00",
+    "to": "2021-12-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 19,
+        "month": 12,
+        "year": 2021
+      }
+    },
+    "string": "Oct 3, 2021 to Dec 19, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.85,
+  "scored_by": 2714,
+  "rank": 11196,
+  "popularity": 8144,
+  "members": 7100,
+  "favorites": 22,
+  "synopsis": "Set in a city modeled after San Francisco in the 1980s, the protagonist has transformed into the hero Muteking and is fighting against evil aliens for some reason. Such a cheerful hero will return in 2020! Sci-fi hero love comedy Muteking the Dancing Hero, singing and dancing with pop music.\n\n(Source: Official Website)",
+  "background": "",
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:26",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:26 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    },
+    {
+      "mal_id": 2293,
+      "type": "anime",
+      "name": "Smile Company",
+      "url": "https://myanimelist.net/anime/producer/2293/Smile_Company"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    },
+    {
+      "mal_id": 200,
+      "type": "anime",
+      "name": "Tezuka Productions",
+      "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1402/118465l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ThnaNnoA9KQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39893,
+  "slug": "muteking-the-dancing-hero"
 }

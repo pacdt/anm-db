@@ -1,17 +1,63 @@
 {
-  "id": 42883,
-  "slug": "sore-dake-ga-neck",
-  "type": "legendado",
+  "mal_id": 42883,
+  "url": "https://myanimelist.net/anime/42883/Sore_dake_ga_Neck",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1768/109666.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1768/109666t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1768/109666l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1768/109666.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1768/109666t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1768/109666l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Qx75v_RaNbI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sore dake ga Neck"
+    },
+    {
+      "type": "Japanese",
+      "title": "それだけがネック"
+    },
+    {
+      "type": "English",
+      "title": "That is the Bottleneck"
+    },
+    {
+      "type": "German",
+      "title": "That is the Bottleneck"
+    },
+    {
+      "type": "Spanish",
+      "title": "That is the Bottleneck"
+    },
+    {
+      "type": "French",
+      "title": "That is the Bottleneck"
+    }
+  ],
   "title": "Sore dake ga Neck",
   "title_english": "That is the Bottleneck",
   "title_japanese": "それだけがネック",
-  "image": "https://cdn.myanimelist.net/images/anime/1768/109666l.webp",
-  "score": 5.67,
-  "synopsis": "Set in a convenience store that seems to be everywhere, through the appearance of a convenience store clerk who does not talk properly, while raising problems with the way of modern communication, we will approach the secret of the mysterious hero Mutou.\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Qx75v_RaNbI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +119,69 @@
       "url": "https://lightspeedst.net/s2/mp4_temp/sore-dake-ga-neck/12/720p.mp4",
       "nome": "The Neck of an Onigiri"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-10-13T00:00:00+00:00",
+    "to": "2021-01-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 2020
+      },
+      "to": {
+        "day": 5,
+        "month": 1,
+        "year": 2021
+      }
+    },
+    "string": "Oct 13, 2020 to Jan 5, 2021"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.67,
+  "scored_by": 3228,
+  "rank": 12061,
+  "popularity": 8158,
+  "members": 7060,
+  "favorites": 3,
+  "synopsis": "Set in a convenience store that seems to be everywhere, through the appearance of a convenience store clerk who does not talk properly, while raising problems with the way of modern communication, we will approach the secret of the mysterious hero Mutou.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "fall",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2057,
+      "type": "anime",
+      "name": "Toho Interactive Animation",
+      "url": "https://myanimelist.net/anime/producer/2057/Toho_Interactive_Animation"
+    }
+  ],
+  "genres": [
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1768/109666l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Qx75v_RaNbI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 42883,
+  "slug": "sore-dake-ga-neck"
 }

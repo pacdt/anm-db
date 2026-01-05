@@ -1,20 +1,74 @@
 {
-  "id": 36522,
-  "slug": "ling-qi-2",
-  "type": "legendado",
+  "mal_id": 36522,
+  "url": "https://myanimelist.net/anime/36522/Ling_Qi_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1328/90485.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1328/90485t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1328/90485l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1328/90485.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1328/90485t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1328/90485l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/BY2Qsnw5fBw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ling Qi 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Spirit Pact: Yomi no Chigiri"
+    },
+    {
+      "type": "Synonym",
+      "title": "Spirit Pact: Bond of the Underworld"
+    },
+    {
+      "type": "Japanese",
+      "title": "灵契 2"
+    },
+    {
+      "type": "English",
+      "title": "Spiritpact: Bond of the Underworld"
+    },
+    {
+      "type": "German",
+      "title": "Spiritpact: Bond of The Underworld"
+    },
+    {
+      "type": "Spanish",
+      "title": "Spiritpact: Bond of the Underworld"
+    },
+    {
+      "type": "French",
+      "title": "Spiritpact: Bond of the Underworld"
+    }
+  ],
   "title": "Ling Qi 2",
   "title_english": "Spiritpact: Bond of the Underworld",
   "title_japanese": "灵契 2",
-  "image": "https://cdn.myanimelist.net/images/anime/1328/90485l.webp",
-  "score": 7.49,
-  "synopsis": "In this new season, we will discover the backstory of Tanmoki and who will learn through his memories who was his ancestor Rakugetsu.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/BY2Qsnw5fBw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Boys Love",
-    "Comedy",
-    "Supernatural"
+  "title_synonyms": [
+    "Spirit Pact: Yomi no Chigiri",
+    "Spirit Pact: Bond of the Underworld"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +130,72 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxqDiYyft1DDj0xpBy5hpe25_CDpQUO0qRuyojKHSjsvI8Sr8BwBrqeqBpN_dx0snKcwRnwQ4OMq9EaoCS5w2sf8q-h1mhXnzCtTxxc-rs-gKD20icgUzJdJzF0mAWgUDWZxy4M",
       "nome": "The Bonds That Bind Me"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-02-23T00:00:00+00:00",
+    "to": "2018-05-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 2,
+        "year": 2018
+      },
+      "to": {
+        "day": 11,
+        "month": 5,
+        "year": 2018
+      }
+    },
+    "string": "Feb 23, 2018 to May 11, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.49,
+  "scored_by": 20704,
+  "rank": 2111,
+  "popularity": 3419,
+  "members": 52381,
+  "favorites": 237,
+  "synopsis": "In this new season, we will discover the backstory of Tanmoki and who will learn through his memories who was his ancestor Rakugetsu.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "21:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 21:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1325,
+      "type": "anime",
+      "name": "Haoliners Animation",
+      "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Boys Love",
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1328/90485l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/BY2Qsnw5fBw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36522,
+  "slug": "ling-qi-2"
 }

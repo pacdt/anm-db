@@ -1,20 +1,74 @@
 {
-  "id": 174,
-  "slug": "tenjou-tenge",
-  "type": "legendado",
+  "mal_id": 174,
+  "url": "https://myanimelist.net/anime/174/Tenjou_Tenge",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1507/101835.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1507/101835t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1507/101835l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1507/101835.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1507/101835t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1507/101835l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tenjou Tenge"
+    },
+    {
+      "type": "Synonym",
+      "title": "Heaven and Earth"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tenjo Tenge"
+    },
+    {
+      "type": "Japanese",
+      "title": "天上天下"
+    },
+    {
+      "type": "English",
+      "title": "Tenjho Tenge"
+    },
+    {
+      "type": "German",
+      "title": "Tenjo Tenge"
+    },
+    {
+      "type": "Spanish",
+      "title": "Tenjho Tenge"
+    },
+    {
+      "type": "French",
+      "title": "Tenjo Tenge"
+    }
+  ],
   "title": "Tenjou Tenge",
   "title_english": "Tenjho Tenge",
   "title_japanese": "天上天下",
-  "image": "https://cdn.myanimelist.net/images/anime/1507/101835l.webp",
-  "score": 6.86,
-  "synopsis": "For some people, high school represents the opportunity for a fresh start. You can take new classes and make new friends. For Souichiro Nagi and Bob Makihara, though, high school means something different: the chance to become the top fighters in the entire student body! Too bad Toudou Academy is the hardest possible place to realize their dreams. Their new high school is no ordinary academic institution. Rather than concentrating on classic subjects like math and science, Toudou Academy was created for the sole purpose of reviving the martial arts in Japan!\n\nAs a result, Souichiro's aspirations to become top dog are cut short when he runs afoul of Masataka Takayanagi and Maya Natsume. The two upperclassmen easily stop the freshmen duo's rampage across school, but rather than serving as a deterrent, it only stokes their competitive fire. What kind of monstrous fighters attend Toudou Academy? Are there any stronger than Masataka and Maya? And why in the world is Maya's younger sister stalking Souichiro? Learn the answers to these questions and more in Tenjou Tenge!",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Drama",
-    "Supernatural",
-    "Ecchi"
+  "title_synonyms": [
+    "Heaven and Earth",
+    "Tenjo Tenge"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -136,5 +190,129 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxoV2lHj6EMODyNEtipzqJBvTXG1aaFqjuBRkO5PAiv80H7qPowufQSie81LnLALghlV0T2D1ctQn2g7wO6tUIFpnR2kn3k_TmJaQw-K8HdP_ipfYJNIQt12BRBA_UPy08n6YFQ",
       "nome": "Vicissitudes"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-04-02T00:00:00+00:00",
+    "to": "2004-09-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 17,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Apr 2, 2004 to Sep 17, 2004"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.86,
+  "scored_by": 93455,
+  "rank": 5221,
+  "popularity": 1370,
+  "members": 198701,
+  "favorites": 631,
+  "synopsis": "For some people, high school represents the opportunity for a fresh start. You can take new classes and make new friends. For Souichiro Nagi and Bob Makihara, though, high school means something different: the chance to become the top fighters in the entire student body! Too bad Toudou Academy is the hardest possible place to realize their dreams. Their new high school is no ordinary academic institution. Rather than concentrating on classic subjects like math and science, Toudou Academy was created for the sole purpose of reviving the martial arts in Japan!\n\nAs a result, Souichiro's aspirations to become top dog are cut short when he runs afoul of Masataka Takayanagi and Maya Natsume. The two upperclassmen easily stop the freshmen duo's rampage across school, but rather than serving as a deterrent, it only stokes their competitive fire. What kind of monstrous fighters attend Toudou Academy? Are there any stronger than Masataka and Maya? And why in the world is Maya's younger sister stalking Souichiro? Learn the answers to these questions and more in Tenjou Tenge!",
+  "background": "",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:42",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:42 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 3165,
+      "type": "anime",
+      "name": "Avex Mode",
+      "url": "https://myanimelist.net/anime/producer/3165/Avex_Mode"
+    },
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Supernatural",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "Delinquents",
+      "url": "https://myanimelist.net/anime/genre/55/Delinquents"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1507/101835l.webp",
+  "trailer_url": null,
+  "id": 174,
+  "slug": "tenjou-tenge"
 }

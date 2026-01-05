@@ -1,17 +1,66 @@
 {
-  "id": 340,
-  "slug": "mutsu-enmei-ryuu-gaiden-shura-no-toki",
-  "type": "legendado",
+  "mal_id": 340,
+  "url": "https://myanimelist.net/anime/340/Mutsu_Enmei_Ryuu_Gaiden__Shura_no_Toki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/56847.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/56847t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/56847l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/56847.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/56847t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/56847l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mutsu Enmei Ryuu Gaiden: Shura no Toki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shura no Toki - Age of Chaos"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shura no Toki"
+    },
+    {
+      "type": "Japanese",
+      "title": "陸奥圓明流外伝 修羅の刻"
+    },
+    {
+      "type": "English",
+      "title": "Time of Shura"
+    },
+    {
+      "type": "French",
+      "title": "L'Ère des Shura"
+    }
+  ],
   "title": "Mutsu Enmei Ryuu Gaiden: Shura no Toki",
   "title_english": "Time of Shura",
   "title_japanese": "陸奥圓明流外伝 修羅の刻",
-  "image": "https://cdn.myanimelist.net/images/anime/3/56847l.webp",
-  "score": 7.54,
-  "synopsis": "Legends tell of an invincible martial art known as Mutsu Enmei-Ryu, an unarmed style that allows the user to defeat any number of armed opponents using incredible speed and strength. This is the story of three generations of those who bear the name Mutsu, and their encounters and battles with the strongest fighters of their era. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "Shura no Toki - Age of Chaos",
+    "Shura no Toki"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -142,5 +191,120 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzEXL2yEVQBZCw-1-cZseevklxOVJ5GWjt40D8KONabqW1pH8bxmJ3dmmJJh3BYEhsBAnmjSi-uk8ORbENKeEw8UQuDepdY9-wE6ymQL50WuGpY3Awb6zADfzkpGmQxtsMfsek",
       "nome": "The Demon and The Shura"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-04-06T00:00:00+00:00",
+    "to": "2004-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Apr 6, 2004 to Sep 28, 2004"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.54,
+  "scored_by": 10426,
+  "rank": 1890,
+  "popularity": 4824,
+  "members": 26176,
+  "favorites": 138,
+  "synopsis": "Legends tell of an invincible martial art known as Mutsu Enmei-Ryu, an unarmed style that allows the user to defeat any number of armed opponents using incredible speed and strength. This is the story of three generations of those who bear the name Mutsu, and their encounters and battles with the strongest fighters of their era. \n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 126,
+      "type": "anime",
+      "name": "Studio Comet",
+      "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/56847l.webp",
+  "trailer_url": null,
+  "id": 340,
+  "slug": "mutsu-enmei-ryuu-gaiden-shura-no-toki"
 }

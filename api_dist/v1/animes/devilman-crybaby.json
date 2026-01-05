@@ -1,20 +1,63 @@
 {
-  "id": 35120,
-  "slug": "devilman-crybaby",
-  "type": "legendado",
+  "mal_id": 35120,
+  "url": "https://myanimelist.net/anime/35120/Devilman__Crybaby",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/89973.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/89973t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/89973l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/89973t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ww06yGPM7Kc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Devilman: Crybaby"
+    },
+    {
+      "type": "Japanese",
+      "title": "DEVILMAN crybaby"
+    },
+    {
+      "type": "English",
+      "title": "Devilman: Crybaby"
+    },
+    {
+      "type": "German",
+      "title": "DEVILMAN: Crybaby"
+    },
+    {
+      "type": "Spanish",
+      "title": "DEVILMAN: Crybaby"
+    },
+    {
+      "type": "French",
+      "title": "DEVILMAN: Crybaby"
+    }
+  ],
   "title": "Devilman: Crybaby",
   "title_english": "Devilman: Crybaby",
   "title_japanese": "DEVILMAN crybaby",
-  "image": "https://cdn.myanimelist.net/images/anime/2/89973l.webp",
-  "score": 7.74,
-  "synopsis": "Devils cannot take form without a living host. However, if the will of an individual is strong enough, they can overcome the demon and make its power their own, becoming a Devilman.\n\nWeak and unassuming, Akira Fudou has always had a bleeding heart. So when his childhood friend Ryou Asuka asks for his help in uncovering devils, Akira accepts without hesitation. However, to Akira's surprise, the place they go to is Sabbath: an immoral party of debauchery and degeneracy. Amidst bloodshed and death, demons possess the partiers, turning their bodies into grotesque monsters, and begin wreaking havoc. In a reckless attempt to save his best friend, Akira unwittingly merges with the devil Amon and becomes a Devilman, gaining the power to defeat the remaining demons.\n\nThough it grants him great power, this new partnership awakens an insatiable and primeval part of Akira. Having the body of a devil but the same crybaby heart, Akira works alongside Ryou, destroying those that harm humanity and his loved ones.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ww06yGPM7Kc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Avant Garde",
-    "Horror",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -66,5 +109,111 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzAs3aIudKKWrukqlPkbOYctMn8uQzd50tqkrRfLzdL-O9QyLtR-T2-6Lf3vapuQjE9OOwFIBiG12YFl3-p2LDevYz6dLihmsgmmkH2DtJs4tRphs3R8rKhQ2rVsWXGILW4PqPp",
       "nome": "Crybaby"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 5, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.74,
+  "scored_by": 753795,
+  "rank": 1239,
+  "popularity": 127,
+  "members": 1254843,
+  "favorites": 25752,
+  "synopsis": "Devils cannot take form without a living host. However, if the will of an individual is strong enough, they can overcome the demon and make its power their own, becoming a Devilman.\n\nWeak and unassuming, Akira Fudou has always had a bleeding heart. So when his childhood friend Ryou Asuka asks for his help in uncovering devils, Akira accepts without hesitation. However, to Akira's surprise, the place they go to is Sabbath: an immoral party of debauchery and degeneracy. Amidst bloodshed and death, demons possess the partiers, turning their bodies into grotesque monsters, and begin wreaking havoc. In a reckless attempt to save his best friend, Akira unwittingly merges with the devil Amon and becomes a Devilman, gaining the power to defeat the remaining demons.\n\nThough it grants him great power, this new partnership awakens an insatiable and primeval part of Akira. Having the body of a devil but the same crybaby heart, Akira works alongside Ryou, destroying those that harm humanity and his loved ones.\n\n[Written by MAL Rewrite]",
+  "background": "Devilman: Crybaby adapts the entire original manga while modernizing the setting.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 921,
+      "type": "anime",
+      "name": "Dynamic Planning",
+      "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+    },
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 3051,
+      "type": "anime",
+      "name": "Anime Limited",
+      "url": "https://myanimelist.net/anime/producer/3051/Anime_Limited"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1591,
+      "type": "anime",
+      "name": "Science SARU",
+      "url": "https://myanimelist.net/anime/producer/1591/Science_SARU"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Avant Garde",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/2/89973l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ww06yGPM7Kc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 35120,
+  "slug": "devilman-crybaby"
 }

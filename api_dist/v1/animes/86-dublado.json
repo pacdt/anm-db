@@ -1,18 +1,69 @@
 {
-  "id": 41457,
-  "slug": "86-dublado",
-  "type": "dublado",
+  "mal_id": 41457,
+  "url": "https://myanimelist.net/anime/41457/86",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1987/117507t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1987/117507.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1987/117507t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1987/117507l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WVegRUOgkPM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "86"
+    },
+    {
+      "type": "Synonym",
+      "title": "Eighty Six"
+    },
+    {
+      "type": "Japanese",
+      "title": "86―エイティシックス―"
+    },
+    {
+      "type": "English",
+      "title": "86 Eighty-Six"
+    },
+    {
+      "type": "German",
+      "title": "86 Eighty-Six"
+    },
+    {
+      "type": "Spanish",
+      "title": "86 Eighty-Six"
+    },
+    {
+      "type": "French",
+      "title": "86 Eighty-Six"
+    }
+  ],
   "title": "86",
   "title_english": "86 Eighty-Six",
   "title_japanese": "86―エイティシックス―",
-  "image": "https://cdn.myanimelist.net/images/anime/1987/117507l.webp",
-  "score": 8.34,
-  "synopsis": "According to the Republic of San Magnolia, their ongoing war against the Giadian Empire has no casualties—however, that is mere propaganda. While the silver-haired Alba of the Republic's eighty-five sectors live safely behind protective walls, those of different appearances are interned in a secret eighty-sixth faction. Known within the military as the Eighty-Six, they are forced to fight against the Empire's autonomous Legion under the command of the Republican \"Handlers.\"\n\nVladilena Milizé is assigned to the Spearhead squadron to replace their previous Handler. Shunned by her peers for being a fellow Eighty-Six supporter, she continues to fight against their inhumane discrimination. Shinei Nouzen is the captain of the Spearhead squadron. Infamous for being the sole survivor of every squadron he's been in, he insists on shouldering the names and wishes of his fallen comrades. When the fates of these young souls from two different worlds collide, will it ignite the spark that lights their path to salvation, or will they burn themselves in the flames of despair?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/WVegRUOgkPM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Eighty Six"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -69,5 +120,95 @@
       "url": "https://lightspeedst.net/s1/mp4/86-dublado/fhd/11.mp4",
       "nome": "Here We Go"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-11T00:00:00+00:00",
+    "to": "2021-06-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 20,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 11, 2021 to Jun 20, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.34,
+  "scored_by": 490058,
+  "rank": 265,
+  "popularity": 210,
+  "members": 936845,
+  "favorites": 25915,
+  "synopsis": "According to the Republic of San Magnolia, their ongoing war against the Giadian Empire has no casualties—however, that is mere propaganda. While the silver-haired Alba of the Republic's eighty-five sectors live safely behind protective walls, those of different appearances are interned in a secret eighty-sixth faction. Known within the military as the Eighty-Six, they are forced to fight against the Empire's autonomous Legion under the command of the Republican \"Handlers.\"\n\nVladilena Milizé is assigned to the Spearhead squadron to replace their previous Handler. Shunned by her peers for being a fellow Eighty-Six supporter, she continues to fight against their inhumane discrimination. Shinei Nouzen is the captain of the Spearhead squadron. Infamous for being the sole survivor of every squadron he's been in, he insists on shouldering the names and wishes of his fallen comrades. When the fates of these young souls from two different worlds collide, will it ignite the spark that lights their path to salvation, or will they burn themselves in the flames of despair?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1992,
+      "type": "anime",
+      "name": "Bandai Spirits",
+      "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1987/117507l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/WVegRUOgkPM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41457,
+  "slug": "86-dublado"
 }

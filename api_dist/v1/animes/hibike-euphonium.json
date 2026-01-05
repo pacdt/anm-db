@@ -1,17 +1,63 @@
 {
-  "id": 27989,
-  "slug": "hibike-euphonium",
-  "type": "legendado",
+  "mal_id": 27989,
+  "url": "https://myanimelist.net/anime/27989/Hibike_Euphonium",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1517/142072.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/142072t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/142072l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1517/142072.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1517/142072t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1517/142072l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/r_Kk9xhVkB8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hibike! Euphonium"
+    },
+    {
+      "type": "Japanese",
+      "title": "響け！ユーフォニアム"
+    },
+    {
+      "type": "English",
+      "title": "Sound! Euphonium"
+    },
+    {
+      "type": "German",
+      "title": "Sound! Euphonium"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sound! Euphonium"
+    },
+    {
+      "type": "French",
+      "title": "Sound! Euphonium"
+    }
+  ],
   "title": "Hibike! Euphonium",
   "title_english": "Sound! Euphonium",
   "title_japanese": "響け！ユーフォニアム",
-  "image": "https://cdn.myanimelist.net/images/anime/1517/142072l.webp",
-  "score": 8.02,
-  "synopsis": "Now that Kumiko Oumae has enrolled in Kitauji High School, she hopes to forget about her past. Despite her desire for a fresh start, she gets dragged into the school's band club by her new friends—Sapphire Kawashima and Hazuki Katou—and is once again stuck playing the euphonium. \n\nAs the band currently stands, they won't be able to participate in the local festival, Sunfest, let alone compete at a national level. The band's new advisor, Noboru Taki, gives them a choice: they can relax and have fun, or practice hard and attempt to get into nationals. Not wanting to repeat her mistakes from middle school, Kumiko is doubtful as to whether they should try for nationals. Amidst the chaos, she learns that her old bandmate, Reina Kousaka (who she had a bitter relationship with) has joined Kitauji's band club. Under the pressure of Noboru's strict training, Kumiko and her bandmates must learn to overcome their struggles and find success together.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/r_Kk9xhVkB8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +124,113 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwZnlsWDs1Crwea9Pb5kBv4cZKFhXCCVWhCDPGlfYdJ-b0GTWv-hvfEno4fDIpsFrTnN1S2B8s2_tH1oKCcAh3LG5d6f8nV4wpuNpkzYhxg1fRTrwkTBmqlj9Snkr2lnR18Qe1A",
       "nome": "Goodbye Competition"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-04-08T00:00:00+00:00",
+    "to": "2015-07-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2015
+      },
+      "to": {
+        "day": 1,
+        "month": 7,
+        "year": 2015
+      }
+    },
+    "string": "Apr 8, 2015 to Jul 1, 2015"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.02,
+  "scored_by": 209371,
+  "rank": 680,
+  "popularity": 500,
+  "members": 503616,
+  "favorites": 8051,
+  "synopsis": "Now that Kumiko Oumae has enrolled in Kitauji High School, she hopes to forget about her past. Despite her desire for a fresh start, she gets dragged into the school's band club by her new friends—Sapphire Kawashima and Hazuki Katou—and is once again stuck playing the euphonium. \n\nAs the band currently stands, they won't be able to participate in the local festival, Sunfest, let alone compete at a national level. The band's new advisor, Noboru Taki, gives them a choice: they can relax and have fun, or practice hard and attempt to get into nationals. Not wanting to repeat her mistakes from middle school, Kumiko is doubtful as to whether they should try for nationals. Amidst the chaos, she learns that her old bandmate, Reina Kousaka (who she had a bitter relationship with) has joined Kitauji's band club. Under the pressure of Noboru's strict training, Kumiko and her bandmates must learn to overcome their struggles and find success together.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2015,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1201,
+      "type": "anime",
+      "name": "Ponycan USA",
+      "url": "https://myanimelist.net/anime/producer/1201/Ponycan_USA"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1517/142072l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/r_Kk9xhVkB8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 27989,
+  "slug": "hibike-euphonium"
 }

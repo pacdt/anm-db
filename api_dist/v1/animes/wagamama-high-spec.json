@@ -1,17 +1,51 @@
 {
-  "id": 31439,
-  "slug": "wagamama-high-spec",
-  "type": "legendado",
+  "mal_id": 31439,
+  "url": "https://myanimelist.net/anime/31439/Wagamama_High_Spec",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/79135.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/79135t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/79135l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/79135.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/79135t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/79135l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/aLRUlJAmqmE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wagamama High Spec"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワガママハイスペック"
+    },
+    {
+      "type": "English",
+      "title": "Wagamama High Spec"
+    }
+  ],
   "title": "Wagamama High Spec",
   "title_english": "Wagamama High Spec",
   "title_japanese": "ワガママハイスペック",
-  "image": "https://cdn.myanimelist.net/images/anime/3/79135l.webp",
-  "score": 5.38,
-  "synopsis": "The adorable girls of Ousui Academy's student council love to spend time with their crush, Kouki Narumi. But what happens when he isn't around? \n\nFor the student council, consisting of otaku president Kaoruko Rokuonji; headstrong Ashe Rufflette Sakuragi; quiet computer programmer Toa Narumi; and Toa's best friend, the impish Mihiro Miyase, it means they will have to keep themselves entertained. Wagamama High Spec offers a glimpse into the girls' lives as they get into amusing—and sometimes risqué—hijinks at their school and around town.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/aLRUlJAmqmE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +107,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzY6dAXE0cbx72dAHHgvmKL0_sG32h1ZJDgceKWOzhxOCXd0h3FQ5N6e8Oh4QLknkHXlVegz7r9JR7_sSij7CXGzBUjUE8gUE8PyyDm7hev1ud5LkBVKoa7RmK3JMjK2cyAP1U",
       "nome": "Exciting Surprise"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-12T00:00:00+00:00",
+    "to": "2016-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 12, 2016 to Jun 28, 2016"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.38,
+  "scored_by": 14569,
+  "rank": 13132,
+  "popularity": 4229,
+  "members": 35165,
+  "favorites": 30,
+  "synopsis": "The adorable girls of Ousui Academy's student council love to spend time with their crush, Kouki Narumi. But what happens when he isn't around? \n\nFor the student council, consisting of otaku president Kaoruko Rokuonji; headstrong Ashe Rufflette Sakuragi; quiet computer programmer Toa Narumi; and Toa's best friend, the impish Mihiro Miyase, it means they will have to keep themselves entertained. Wagamama High Spec offers a glimpse into the girls' lives as they get into amusing—and sometimes risqué—hijinks at their school and around town.\n\n[Written by MAL Rewrite]",
+  "background": "Wagamama High Spec is set after Madosoft's third game, officially abbreviated as Wagahigh. The visual novel game has five authors: Mojasubii, Ryusuke Mutsu, Nissy, Coyote Hayama, and Hato. On April 28, 2016, the game's full version was released for Windows. A sequel developed by Madosoft titled Wagamama High Spec Over Clock was released on August 25, 2017 for Windows.",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:10",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:10 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1347,
+      "type": "anime",
+      "name": "Hobi Animation",
+      "url": "https://myanimelist.net/anime/producer/1347/Hobi_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1299,
+      "type": "anime",
+      "name": "AXsiZ",
+      "url": "https://myanimelist.net/anime/producer/1299/AXsiZ"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/79135l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/aLRUlJAmqmE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31439,
+  "slug": "wagamama-high-spec"
 }

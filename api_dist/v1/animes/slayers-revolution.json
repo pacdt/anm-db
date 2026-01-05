@@ -1,20 +1,63 @@
 {
-  "id": 4028,
-  "slug": "slayers-revolution",
-  "type": "legendado",
+  "mal_id": 4028,
+  "url": "https://myanimelist.net/anime/4028/Slayers_Revolution",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/20940.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/20940t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/20940l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/20940.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/20940t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/20940l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/C22XXEnwGkk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Slayers Revolution"
+    },
+    {
+      "type": "Synonym",
+      "title": "Slayers 4th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Slayers 4th Series"
+    },
+    {
+      "type": "Synonym",
+      "title": "Slayers (TV 2008)"
+    },
+    {
+      "type": "Japanese",
+      "title": "スレイヤーズ"
+    }
+  ],
   "title": "Slayers Revolution",
   "title_english": "Slayers Revolution",
   "title_japanese": "スレイヤーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/7/20940l.webp",
-  "score": 7.25,
-  "synopsis": "Having lost the Sword of Light in the previous battle, Lina and Gourry continue their journey in search of a replacement weapon. On the way, the two of them meet up with Amelia and Zelgadis in the kingdom of Luvinagard while taunting some pirates. Lina is happy to reunite with her old friends, but appearing before her is Luvinagard's Inspector of the Special Investigative Unit; a man called Wizer. However, Lina is amazed at his unusual behavior... \n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/C22XXEnwGkk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Slayers 4th Season",
+    "Slayers 4th Series",
+    "Slayers (TV 2008)"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -81,5 +124,78 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxEH5xiCPVqv8_-6TDLRDAgbiLyxpUQiTHa0E6vYQXVgSk1-ikYUJp747Y6uRo3hj8OZLpaxPDGPJMYOxGPqvioc3EjYXNPrZE0xoaJ2rmFnLr87jORY6znxEypsc819SeFwH-3",
       "nome": "Misty - The Blades are Brought Down!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-07-03T00:00:00+00:00",
+    "to": "2008-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2008
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Jul 3, 2008 to Sep 25, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.25,
+  "scored_by": 19520,
+  "rank": 3210,
+  "popularity": 3967,
+  "members": 39975,
+  "favorites": 43,
+  "synopsis": "Having lost the Sword of Light in the previous battle, Lina and Gourry continue their journey in search of a replacement weapon. On the way, the two of them meet up with Amelia and Zelgadis in the kingdom of Luvinagard while taunting some pirates. Lina is happy to reunite with her old friends, but appearing before her is Luvinagard's Inspector of the Special Investigative Unit; a man called Wizer. However, Lina is amazed at his unusual behavior... \n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2008,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:20 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 595,
+      "type": "anime",
+      "name": "NYAV Post",
+      "url": "https://myanimelist.net/anime/producer/595/NYAV_Post"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/20940l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/C22XXEnwGkk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 4028,
+  "slug": "slayers-revolution"
 }

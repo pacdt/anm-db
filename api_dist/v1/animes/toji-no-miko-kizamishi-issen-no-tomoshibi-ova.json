@@ -1,18 +1,57 @@
 {
-  "id": 40901,
-  "slug": "toji-no-miko-kizamishi-issen-no-tomoshibi-ova",
-  "type": "legendado",
+  "mal_id": 40901,
+  "url": "https://myanimelist.net/anime/40901/Toji_no_Miko__Kizamishi_Issen_no_Tomoshibi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1767/108306.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1767/108306t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1767/108306l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1767/108306.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1767/108306t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1767/108306l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/bhlxUxusd-o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Toji no Miko: Kizamishi Issen no Tomoshibi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tojitomo"
+    },
+    {
+      "type": "Japanese",
+      "title": "刀使ノ巫女 刻みし一閃の燈火"
+    },
+    {
+      "type": "English",
+      "title": "Katana Maidens: Tomoshibi"
+    }
+  ],
   "title": "Toji no Miko: Kizamishi Issen no Tomoshibi",
   "title_english": "Katana Maidens: Tomoshibi",
   "title_japanese": "刀使ノ巫女 刻みし一閃の燈火",
-  "image": "https://cdn.myanimelist.net/images/anime/1767/108306l.webp",
-  "score": 6.63,
-  "synopsis": "Since ancient times, shrine maidens who wield swords have been exorcising \"aratama,\" strange existences that threaten the human world. These young women who wear school uniforms and a sword are called \"Toji,\" and they serve as an official unit within the police force as a \"special religious service police squad.\" The government authorizes the Toji to wear swords and serve as government officials, and the government has set up five schools throughout the country for the girls to attend. In the spring, the five schools send their best Toji to compete in a tournament. As the tournament comes closer, all of the representatives rigorously train themselves in order to get stronger and improve their skills.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/bhlxUxusd-o?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
+  "title_synonyms": [
+    "Tojitomo"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -23,5 +62,119 @@
       "url": "https://lightspeedst.net/s3/mp4/toji-no-miko-kizamishi-issen-no-tomoshibi-ova/hd/2.mp4",
       "nome": "Untitled"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-10-25T00:00:00+00:00",
+    "to": "2020-11-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 10,
+        "year": 2020
+      },
+      "to": {
+        "day": 29,
+        "month": 11,
+        "year": 2020
+      }
+    },
+    "string": "Oct 25, 2020 to Nov 29, 2020"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.63,
+  "scored_by": 2179,
+  "rank": 6623,
+  "popularity": 8339,
+  "members": 6724,
+  "favorites": 12,
+  "synopsis": "Since ancient times, shrine maidens who wield swords have been exorcising \"aratama,\" strange existences that threaten the human world. These young women who wear school uniforms and a sword are called \"Toji,\" and they serve as an official unit within the police force as a \"special religious service police squad.\" The government authorizes the Toji to wear swords and serve as government officials, and the government has set up five schools throughout the country for the girls to attend. In the spring, the five schools send their best Toji to compete in a tournament. As the tournament comes closer, all of the representatives rigorously train themselves in order to get stronger and improve their skills.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 418,
+      "type": "anime",
+      "name": "Studio Gokumi",
+      "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1744,
+      "type": "anime",
+      "name": "My Theater D.D.",
+      "url": "https://myanimelist.net/anime/producer/1744/My_Theater_DD"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 439,
+      "type": "anime",
+      "name": "Project No.9",
+      "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1767/108306l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/bhlxUxusd-o?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40901,
+  "slug": "toji-no-miko-kizamishi-issen-no-tomoshibi-ova"
 }

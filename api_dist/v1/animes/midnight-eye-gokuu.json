@@ -1,23 +1,164 @@
 {
-  "id": 1879,
-  "slug": "midnight-eye-gokuu",
-  "type": "legendado",
+  "mal_id": 1879,
+  "url": "https://myanimelist.net/anime/1879/Midnight_Eye__Gokuu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1699/106790.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/106790t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/106790l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1699/106790.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/106790t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/106790l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Midnight Eye: Gokuu"
+    },
+    {
+      "type": "Japanese",
+      "title": "MIDNIGHT EYE　ゴクウ"
+    },
+    {
+      "type": "English",
+      "title": "Goku: Midnight Eye"
+    },
+    {
+      "type": "Spanish",
+      "title": "Midnight Eye Goku"
+    }
+  ],
   "title": "Midnight Eye: Gokuu",
   "title_english": "Goku: Midnight Eye",
   "title_japanese": "MIDNIGHT EYE　ゴクウ",
-  "image": "https://cdn.myanimelist.net/images/anime/1699/106790l.webp",
-  "score": 6.47,
-  "synopsis": "Private investigator Gokuu Fuurinji is well-acquainted with Tokyo's underbelly. When he notices that every detective investigating arms dealer Genji Hakuryu has died under suspicious circumstances, Gokuu knows he is the only man for the job. Discovering the existence of modified humans with strange powers, Gokuu almost falls victim to an assassin's hypnotic suggestions. But when a mysterious man implants a supercomputer into Gokuu's left eye that can easily hack into any computer in the world, the detective can stand against the man who destroyed many of his colleagues' lives.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Mystery",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyY2c2kHrG4prKbBWBSBzlJkeZaK9A-UcUCnmKnXi904ef9MPZttME2QeRJLf2MWVMigiJxWU6p6eiWEb0nnEg3HvB0bgmvZo02cFVWPXNZGoI1ddBbOPqX_le1xuNHy_kFJvNS"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1989-01-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 1,
+        "year": 1989
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 27, 1989"
+  },
+  "duration": "50 min",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.47,
+  "scored_by": 6245,
+  "rank": 7615,
+  "popularity": 5842,
+  "members": 16209,
+  "favorites": 23,
+  "synopsis": "Private investigator Gokuu Fuurinji is well-acquainted with Tokyo's underbelly. When he notices that every detective investigating arms dealer Genji Hakuryu has died under suspicious circumstances, Gokuu knows he is the only man for the job. Discovering the existence of modified humans with strange powers, Gokuu almost falls victim to an assassin's hypnotic suggestions. But when a mysterious man implants a supercomputer into Gokuu's left eye that can easily hack into any computer in the world, the detective can stand against the man who destroyed many of his colleagues' lives.\n\n[Written by MAL Rewrite]",
+  "background": "Midnight Eye: Gokuu was released on DVD and Blu-ray by Discotek Media on July 25, 2017, and October 31, 2023, respectively.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 141,
+      "type": "anime",
+      "name": "Toei Video",
+      "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1447,
+      "type": "anime",
+      "name": "Urban Vision",
+      "url": "https://myanimelist.net/anime/producer/1447/Urban_Vision"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1699/106790l.webp",
+  "trailer_url": null,
+  "id": 1879,
+  "slug": "midnight-eye-gokuu"
 }

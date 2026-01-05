@@ -1,19 +1,63 @@
 {
-  "id": 28817,
-  "slug": "mikagura-gakuen-kumikyoku-tv",
-  "type": "legendado",
+  "mal_id": 28817,
+  "url": "https://myanimelist.net/anime/28817/Mikagura_Gakuen_Kumikyoku_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/73590.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/73590t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/73590l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/73590.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/73590t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/73590l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CPHlJooEIl4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mikagura Gakuen Kumikyoku (TV)"
+    },
+    {
+      "type": "Japanese",
+      "title": "ミカグラ学園組曲"
+    },
+    {
+      "type": "English",
+      "title": "Mikagura School Suite"
+    },
+    {
+      "type": "German",
+      "title": "Mikagura School Suite"
+    },
+    {
+      "type": "Spanish",
+      "title": "Mikagura School Suite"
+    },
+    {
+      "type": "French",
+      "title": "Mikagura School Suite"
+    }
+  ],
   "title": "Mikagura Gakuen Kumikyoku (TV)",
   "title_english": "Mikagura School Suite",
   "title_japanese": "ミカグラ学園組曲",
-  "image": "https://cdn.myanimelist.net/images/anime/6/73590l.webp",
-  "score": 6.67,
-  "synopsis": "To be around cute girls wearing cute clothing is all Eruna Ichinomiya desires. Since Mikagura High School happens to have the cutest uniforms around, she decides to enroll in this prestigious high school known for its cultural clubs.\n\nHowever, she does not realize that joining a club is mandatory, and representatives from each club must battle for a ranking. Based on these rankings, club members are awarded housing and food. Chasing after Seisa Mikagura, the most beautiful girl in school, Eruna joins the going-home club but finds herself thrust into fighting the next club battle. With the other club representatives wielding unique powers, the competition is sure to be fierce!\n\nBased on the popular song series, Mikagura Gakuen Kumikyoku follows Eruna as she explores the various clubs in school and assists the members with their troubled lives, all of whom are also vying for the top spot in school.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/CPHlJooEIl4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Girls Love"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,115 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzuaWbj1EmWsdosA53pe04bpxVZdNNyi8O7XeeBBIlf9Sv3s94wet-xX7AnmEwO8w9fjOfRjAhoxQ-7816WVgdZAe2d8Snj5xpmXTvde4MteL6jlJV7_oLm9Nu0B17MpRf20Ug",
       "nome": "Infinite Grand Finale"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-04-07T00:00:00+00:00",
+    "to": "2015-06-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2015
+      },
+      "to": {
+        "day": 23,
+        "month": 6,
+        "year": 2015
+      }
+    },
+    "string": "Apr 7, 2015 to Jun 23, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.67,
+  "scored_by": 36638,
+  "rank": 6334,
+  "popularity": 2435,
+  "members": 93518,
+  "favorites": 184,
+  "synopsis": "To be around cute girls wearing cute clothing is all Eruna Ichinomiya desires. Since Mikagura High School happens to have the cutest uniforms around, she decides to enroll in this prestigious high school known for its cultural clubs.\n\nHowever, she does not realize that joining a club is mandatory, and representatives from each club must battle for a ranking. Based on these rankings, club members are awarded housing and food. Chasing after Seisa Mikagura, the most beautiful girl in school, Eruna joins the going-home club but finds herself thrust into fighting the next club battle. With the other club representatives wielding unique powers, the competition is sure to be fierce!\n\nBased on the popular song series, Mikagura Gakuen Kumikyoku follows Eruna as she explores the various clubs in school and assists the members with their troubled lives, all of whom are also vying for the top spot in school.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2015,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Girls Love"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Visual Arts",
+      "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/73590l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/CPHlJooEIl4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 28817,
+  "slug": "mikagura-gakuen-kumikyoku-tv"
 }

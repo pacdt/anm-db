@@ -1,19 +1,69 @@
 {
-  "id": 9969,
-  "slug": "gintama",
-  "type": "legendado",
+  "mal_id": 9969,
+  "url": "https://myanimelist.net/anime/9969/Gintama",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50361t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50361.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50361t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gintama'"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gintama (2011)"
+    },
+    {
+      "type": "Japanese",
+      "title": "銀魂'"
+    },
+    {
+      "type": "English",
+      "title": "Gintama Season 2"
+    },
+    {
+      "type": "German",
+      "title": "Gintama Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Gintama Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "Gintama Saison 2"
+    }
+  ],
   "title": "Gintama'",
   "title_english": "Gintama Season 2",
   "title_japanese": "銀魂'",
-  "image": "https://cdn.myanimelist.net/images/anime/4/50361l.webp",
-  "score": 9.02,
-  "synopsis": "After a one-year hiatus, Shinpachi Shimura returns to Edo, only to stumble upon a shocking surprise: Gintoki and Kagura, his fellow Yorozuya members, have become completely different characters! Fleeing from the Yorozuya headquarters in confusion, Shinpachi finds that all the denizens of Edo have undergone impossibly extreme changes, in both appearance and personality. Most unbelievably, his sister Otae has married the Shinsengumi chief and shameless stalker Isao Kondou and is pregnant with their first child.\n\nBewildered, Shinpachi agrees to join the Shinsengumi at Otae and Kondou's request and finds even more startling transformations afoot both in and out of the ranks of the the organization. However, discovering that Vice Chief Toushirou Hijikata has remained unchanged, Shinpachi and his unlikely Shinsengumi ally set out to return the city of Edo to how they remember it.\n\nWith even more dirty jokes, tongue-in-cheek parodies, and shameless references, Gintama' follows the Yorozuya team through more of their misadventures in the vibrant, alien-filled world of Edo.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Gintama (2011)"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -866,5 +916,133 @@
       "numero": 200,
       "url": "https://lightspeedst.net/s2/mp4/gintama/sd/200.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-04-04T00:00:00+00:00",
+    "to": "2012-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2011
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2012
+      }
+    },
+    "string": "Apr 4, 2011 to Mar 26, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 9.02,
+  "scored_by": 253904,
+  "rank": 10,
+  "popularity": 406,
+  "members": 603612,
+  "favorites": 8528,
+  "synopsis": "After a one-year hiatus, Shinpachi Shimura returns to Edo, only to stumble upon a shocking surprise: Gintoki and Kagura, his fellow Yorozuya members, have become completely different characters! Fleeing from the Yorozuya headquarters in confusion, Shinpachi finds that all the denizens of Edo have undergone impossibly extreme changes, in both appearance and personality. Most unbelievably, his sister Otae has married the Shinsengumi chief and shameless stalker Isao Kondou and is pregnant with their first child.\n\nBewildered, Shinpachi agrees to join the Shinsengumi at Otae and Kondou's request and finds even more startling transformations afoot both in and out of the ranks of the the organization. However, discovering that Vice Chief Toushirou Hijikata has remained unchanged, Shinpachi and his unlikely Shinsengumi ally set out to return the city of Edo to how they remember it.\n\nWith even more dirty jokes, tongue-in-cheek parodies, and shameless references, Gintama' follows the Yorozuya team through more of their misadventures in the vibrant, alien-filled world of Edo.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2011,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 643,
+      "type": "anime",
+      "name": "Trinity Sound",
+      "url": "https://myanimelist.net/anime/producer/643/Trinity_Sound"
+    },
+    {
+      "mal_id": 763,
+      "type": "anime",
+      "name": "Miracle Robo",
+      "url": "https://myanimelist.net/anime/producer/763/Miracle_Robo"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/50361l.webp",
+  "trailer_url": null,
+  "id": 9969,
+  "slug": "gintama"
 }

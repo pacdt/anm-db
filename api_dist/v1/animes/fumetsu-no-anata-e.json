@@ -1,19 +1,74 @@
 {
-  "id": 41025,
-  "slug": "fumetsu-no-anata-e",
-  "type": "legendado",
+  "mal_id": 41025,
+  "url": "https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/118484t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/118484.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/118484t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/118484l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/YOn779f6lwI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fumetsu no Anata e"
+    },
+    {
+      "type": "Synonym",
+      "title": "To You"
+    },
+    {
+      "type": "Synonym",
+      "title": "the Immortal"
+    },
+    {
+      "type": "Japanese",
+      "title": "不滅のあなたへ"
+    },
+    {
+      "type": "English",
+      "title": "To Your Eternity"
+    },
+    {
+      "type": "German",
+      "title": "To Your Eternity"
+    },
+    {
+      "type": "Spanish",
+      "title": "To Your Eternity"
+    },
+    {
+      "type": "French",
+      "title": "To Your Eternity"
+    }
+  ],
   "title": "Fumetsu no Anata e",
   "title_english": "To Your Eternity",
   "title_japanese": "不滅のあなたへ",
-  "image": "https://cdn.myanimelist.net/images/anime/1880/118484l.webp",
-  "score": 8.35,
-  "synopsis": "An Orb, known only as It, is cast to Earth to be observed from afar. Capable of changing forms from beings whose reflections It captures, It first becomes a rock and then, due to the rising temperature, moss.\n\nIt does not move until one snowy day, a wolf at death's door barely crosses by. When It takes the animal's form, It attains awareness of its consciousness and starts to wander with an unclear destination in mind. Soon, It comes across the wolf's master—a young boy waiting for his tribe to return from a paradise abundant with fish and fruit in the south. Although the boy is lonely, he still hopes those whom he holds dear in his memories have not forgotten him and that he will reunite with them one day.\n\nThe boy wants to explore new surroundings and decides to abandon his home with It to find the paradise using the traces his tribe left behind. However, with a heavily injured body and no sight of his elder comrades, what will become of the boy?\n\nFumetsu no Anata e illustrates the story of an immortal being experiencing humanity, meeting all types of people in many places throughout time.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/YOn779f6lwI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Drama",
-    "Supernatural"
+  "title_synonyms": [
+    "To You",
+    "the Immortal"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -115,5 +170,91 @@
       "url": "https://lightspeedst.net/s1/mp4/fumetsu-no-anata-e/fhd/20.mp4",
       "nome": "Echoes"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-12T00:00:00+00:00",
+    "to": "2021-08-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 30,
+        "month": 8,
+        "year": 2021
+      }
+    },
+    "string": "Apr 12, 2021 to Aug 30, 2021"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.35,
+  "scored_by": 414352,
+  "rank": 257,
+  "popularity": 194,
+  "members": 974824,
+  "favorites": 15988,
+  "synopsis": "An Orb, known only as It, is cast to Earth to be observed from afar. Capable of changing forms from beings whose reflections It captures, It first becomes a rock and then, due to the rising temperature, moss.\n\nIt does not move until one snowy day, a wolf at death's door barely crosses by. When It takes the animal's form, It attains awareness of its consciousness and starts to wander with an unclear destination in mind. Soon, It comes across the wolf's master—a young boy waiting for his tribe to return from a paradise abundant with fish and fruit in the south. Although the boy is lonely, he still hopes those whom he holds dear in his memories have not forgotten him and that he will reunite with them one day.\n\nThe boy wants to explore new surroundings and decides to abandon his home with It to find the paradise using the traces his tribe left behind. However, with a heavily injured body and no sight of his elder comrades, what will become of the boy?\n\nFumetsu no Anata e illustrates the story of an immortal being experiencing humanity, meeting all types of people in many places throughout time.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "22:50",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 22:50 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1880/118484l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/YOn779f6lwI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41025,
+  "slug": "fumetsu-no-anata-e"
 }

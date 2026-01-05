@@ -1,19 +1,61 @@
 {
-  "id": 311,
-  "slug": "ace-wo-nerae",
-  "type": "legendado",
+  "mal_id": 311,
+  "url": "https://myanimelist.net/anime/311/Ace_wo_Nerae",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1414/91264.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1414/91264t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1414/91264l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1414/91264.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1414/91264t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1414/91264l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ace wo Nerae!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ace o Nerae"
+    },
+    {
+      "type": "Japanese",
+      "title": "エースをねらえ!"
+    },
+    {
+      "type": "English",
+      "title": "Aim for the Ace!"
+    },
+    {
+      "type": "French",
+      "title": "Jeu, Set et Match!"
+    }
+  ],
   "title": "Ace wo Nerae!",
   "title_english": "Aim for the Ace!",
   "title_japanese": "エースをねらえ!",
-  "image": "https://cdn.myanimelist.net/images/anime/1414/91264l.webp",
-  "score": 7.1,
-  "synopsis": "On her first day at Nishi High School, 15-year-old Hiromi Oka is inspired by top player Reika \"Ochoufujin\" Ryuuzaki to take up tennis. Shortly after joining the school's tennis club, she encounters Jin Munakata, the club's new coach. Munakata puts everyone under rigorous training that even puts Ochoufujin to shame. Despite the hardships, Hiromi's determination prompts the coach to select her as part of the club's main players. Because of this, Hiromi must endure the peer pressure from her seniors to become an ace tennis player.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Drama",
-    "Romance",
-    "Sports"
+  "title_synonyms": [
+    "Ace o Nerae"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +187,92 @@
       "url": "https://lightspeedst.net/s2/mp4/ace-wo-nerae/sd/26.mp4",
       "nome": "Hiromi versus the Butterfly! The Final Showdown"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1973-10-05T00:00:00+00:00",
+    "to": "1974-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 1973
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 1974
+      }
+    },
+    "string": "Oct 5, 1973 to Mar 29, 1974"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.1,
+  "scored_by": 4456,
+  "rank": 4068,
+  "popularity": 5867,
+  "members": 15996,
+  "favorites": 115,
+  "synopsis": "On her first day at Nishi High School, 15-year-old Hiromi Oka is inspired by top player Reika \"Ochoufujin\" Ryuuzaki to take up tennis. Shortly after joining the school's tennis club, she encounters Jin Munakata, the club's new coach. Munakata puts everyone under rigorous training that even puts Ochoufujin to shame. Despite the hardships, Hiromi's determination prompts the coach to select her as part of the club's main players. Because of this, Hiromi must endure the peer pressure from her seniors to become an ace tennis player.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 1973,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 65,
+      "type": "anime",
+      "name": "Tokyo Movie Shinsha",
+      "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1414/91264l.webp",
+  "trailer_url": null,
+  "id": 311,
+  "slug": "ace-wo-nerae"
 }

@@ -1,19 +1,51 @@
 {
-  "id": 198,
-  "slug": "speed-grapher",
-  "type": "legendado",
+  "mal_id": 198,
+  "url": "https://myanimelist.net/anime/198/Speed_Grapher",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/12343.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/12343t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/12343l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/12343.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/12343t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/12343l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/gxluGU_jnBs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Speed Grapher"
+    },
+    {
+      "type": "Japanese",
+      "title": "スピードグラファー"
+    },
+    {
+      "type": "English",
+      "title": "Speed Grapher"
+    }
+  ],
   "title": "Speed Grapher",
   "title_english": "Speed Grapher",
   "title_japanese": "スピードグラファー",
-  "image": "https://cdn.myanimelist.net/images/anime/13/12343l.webp",
-  "score": 7.29,
-  "synopsis": "Ten years after the Bubble War, the dichotomy between the rich and the poor in the world becomes more prominent and Japan is no exception. The rich seek to satisfy their desires and derive pleasure for themselves, and Tokyo has materialized into such a city as a result. Saiga, once a war photographer, works for Hibara Ginza in the capitalist state of Tokyo. He infiltrates the Roppongi Club, a secretive base located in the red light district of the city, to collect information about them. However, he was caught in the process and brought forward to a girl called Kagura who was in the midst of a ritual. His contact with Kagura awakens his special ability: the power to make things explode when photographed. In order to unravel the mystery behind the Roppongi Club and Kagura, Saiga begins his solitary battle.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/gxluGU_jnBs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Mystery",
-    "Suspense"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +167,133 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dznxjCL-fV_moruX-tmq8WtrSS8TkzoGuuV-kMdBXdtMMFJRkNStuD6blRJPeXrzdjtX5oLc88JCGiny1EHnIbW8vh72ZoYNBC_YdhEciulNVf-VLy57tfiVW68x8LIWJycXWOm",
       "nome": "The Roppongi Crisis"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-04-08T00:00:00+00:00",
+    "to": "2005-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2005
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2005
+      }
+    },
+    "string": "Apr 8, 2005 to Sep 30, 2005"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.29,
+  "scored_by": 43122,
+  "rank": 3015,
+  "popularity": 2020,
+  "members": 123617,
+  "favorites": 638,
+  "synopsis": "Ten years after the Bubble War, the dichotomy between the rich and the poor in the world becomes more prominent and Japan is no exception. The rich seek to satisfy their desires and derive pleasure for themselves, and Tokyo has materialized into such a city as a result. Saiga, once a war photographer, works for Hibara Ginza in the capitalist state of Tokyo. He infiltrates the Roppongi Club, a secretive base located in the red light district of the city, to collect information about them. However, he was caught in the process and brought forward to a girl called Kagura who was in the midst of a ritual. His contact with Kagura awakens his special ability: the power to make things explode when photographed. In order to unravel the mystery behind the Roppongi Club and Kagura, Saiga begins his solitary battle.",
+  "background": "",
+  "season": "spring",
+  "year": 2005,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 318,
+      "type": "anime",
+      "name": "WAO World",
+      "url": "https://myanimelist.net/anime/producer/318/WAO_World"
+    },
+    {
+      "mal_id": 416,
+      "type": "anime",
+      "name": "TAP",
+      "url": "https://myanimelist.net/anime/producer/416/TAP"
+    },
+    {
+      "mal_id": 2963,
+      "type": "anime",
+      "name": "Future Vision Music",
+      "url": "https://myanimelist.net/anime/producer/2963/Future_Vision_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 68,
+      "type": "anime",
+      "name": "Organized Crime",
+      "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/12343l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/gxluGU_jnBs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 198,
+  "slug": "speed-grapher"
 }

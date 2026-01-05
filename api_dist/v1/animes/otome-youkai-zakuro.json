@@ -1,18 +1,61 @@
 {
-  "id": 8476,
-  "slug": "otome-youkai-zakuro",
-  "type": "legendado",
+  "mal_id": 8476,
+  "url": "https://myanimelist.net/anime/8476/Otome_Youkai_Zakuro",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/85430.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85430t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85430l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/85430.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/85430t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/85430l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/TmONRcfX1Kw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Otome Youkai Zakuro"
+    },
+    {
+      "type": "Synonym",
+      "title": "Girl Demon Zakuro"
+    },
+    {
+      "type": "Japanese",
+      "title": "おとめ妖怪 ざくろ"
+    },
+    {
+      "type": "English",
+      "title": "Zakuro"
+    },
+    {
+      "type": "Spanish",
+      "title": "Otome Yokai Zakuro"
+    }
+  ],
   "title": "Otome Youkai Zakuro",
   "title_english": "Zakuro",
   "title_japanese": "おとめ妖怪 ざくろ",
-  "image": "https://cdn.myanimelist.net/images/anime/5/85430l.webp",
-  "score": 7.42,
-  "synopsis": "Second Lieutenant Kei Agemaki, the son of a famous general, has hidden his extreme fear of paranormal beings all his life. However, when he and two others are reassigned to live and work with youkai in the Ministry of Spirit Affairs, he is brought face-to-face with his worst nightmare. Now with the help of the fox spirit Kushimatsu, he and his fellow officers must learn to work alongside youkai maidens—Zakuro, Susukihotaru, Hoozuki, and Bonbori—to solve paranormal cases.\n\nSet in the midst of an alternate version of Japanese Westernization, Otome Youkai Zakuro explores the clashes and unions that can occur when east meets west, local meets foreign, and women meet men. The unusual alliance of the youkai maidens and human officers must learn to work together in a world that is changing around them.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/TmONRcfX1Kw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Girl Demon Zakuro"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +122,103 @@
       "url": "https://lightspeedst.net/s3/mp4/otome-youkai-zakuro/sd/13.mp4",
       "nome": "Brilliant Finale"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-10-05T00:00:00+00:00",
+    "to": "2010-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2010
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2010
+      }
+    },
+    "string": "Oct 5, 2010 to Dec 28, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.42,
+  "scored_by": 51457,
+  "rank": 2360,
+  "popularity": 1938,
+  "members": 130391,
+  "favorites": 435,
+  "synopsis": "Second Lieutenant Kei Agemaki, the son of a famous general, has hidden his extreme fear of paranormal beings all his life. However, when he and two others are reassigned to live and work with youkai in the Ministry of Spirit Affairs, he is brought face-to-face with his worst nightmare. Now with the help of the fox spirit Kushimatsu, he and his fellow officers must learn to work alongside youkai maidens—Zakuro, Susukihotaru, Hoozuki, and Bonbori—to solve paranormal cases.\n\nSet in the midst of an alternate version of Japanese Westernization, Otome Youkai Zakuro explores the clashes and unions that can occur when east meets west, local meets foreign, and women meet men. The unusual alliance of the youkai maidens and human officers must learn to work together in a world that is changing around them.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2010,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/5/85430l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/TmONRcfX1Kw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 8476,
+  "slug": "otome-youkai-zakuro"
 }

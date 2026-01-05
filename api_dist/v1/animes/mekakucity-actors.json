@@ -1,19 +1,62 @@
 {
-  "id": 21603,
-  "slug": "mekakucity-actors",
-  "type": "legendado",
+  "mal_id": 21603,
+  "url": "https://myanimelist.net/anime/21603/Mekakucity_Actors",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/61519.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/61519t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/61519l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/61519.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/61519t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/61519l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/J4KkvN2qipg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mekakucity Actors"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mekaku City Actors"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kagerou Project"
+    },
+    {
+      "type": "Japanese",
+      "title": "メカクシティアクターズ"
+    },
+    {
+      "type": "English",
+      "title": "Mekakucity Actors"
+    }
+  ],
   "title": "Mekakucity Actors",
   "title_english": "Mekakucity Actors",
   "title_japanese": "メカクシティアクターズ",
-  "image": "https://cdn.myanimelist.net/images/anime/11/61519l.webp",
-  "score": 7.01,
-  "synopsis": "On the hot summer day of August 14, Shintarou Kisaragi is forced to leave his room for the first time in two years. While arguing with the cyber girl Ene who lives in his computer, Shintarou Kisaragi accidentally spills soda all over his keyboard. Though they try to find a replacement online, most stores are closed due to the Obon festival, leaving them with no other choice but to visit the local department store. Venturing outside makes Shintarou extremely anxious, but the thought of living without his computer is even worse. It's just his luck that on the day he finally goes out, he's caught in a terrifying hostage situation.\n\nLuckily, a group of teenagers with mysterious eye powers, who call themselves the \"Mekakushi Dan,\" assist Shintarou in resolving the situation. As a result, he is forced to join their group, along with Ene. Their abilities seem to be like pieces of a puzzle, connecting one another, and as each member's past is unveiled, the secret that ties them together is slowly brought to light.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/J4KkvN2qipg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Mystery",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Mekaku City Actors",
+    "Kagerou Project"
   ],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +118,103 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzQKJ6Dht7srdNCuEzhQ3KnejKrxGt0-Du1D8R9d6KkzHhXTN05FO3TE2ODHKa8hO6HmOFEkJb-F-7_Lbr1kQ4IC49meIUpIeELHEn2Zr3G03aTRClH38m29Fkfy6nSI4ujabk",
       "nome": "Summertime Record"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-04-13T00:00:00+00:00",
+    "to": "2014-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 4,
+        "year": 2014
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2014
+      }
+    },
+    "string": "Apr 13, 2014 to Jun 29, 2014"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.01,
+  "scored_by": 209252,
+  "rank": 4546,
+  "popularity": 561,
+  "members": 455081,
+  "favorites": 3807,
+  "synopsis": "On the hot summer day of August 14, Shintarou Kisaragi is forced to leave his room for the first time in two years. While arguing with the cyber girl Ene who lives in his computer, Shintarou Kisaragi accidentally spills soda all over his keyboard. Though they try to find a replacement online, most stores are closed due to the Obon festival, leaving them with no other choice but to visit the local department store. Venturing outside makes Shintarou extremely anxious, but the thought of living without his computer is even worse. It's just his luck that on the day he finally goes out, he's caught in a terrifying hostage situation.\n\nLuckily, a group of teenagers with mysterious eye powers, who call themselves the \"Mekakushi Dan,\" assist Shintarou in resolving the situation. As a result, he is forced to join their group, along with Ene. Their abilities seem to be like pieces of a puzzle, connecting one another, and as each member's past is unveiled, the secret that ties them together is slowly brought to light.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 1117,
+      "type": "anime",
+      "name": "1st PLACE",
+      "url": "https://myanimelist.net/anime/producer/1117/1st_PLACE"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/61519l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/J4KkvN2qipg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 21603,
+  "slug": "mekakucity-actors"
 }

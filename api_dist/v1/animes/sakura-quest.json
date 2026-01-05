@@ -1,17 +1,51 @@
 {
-  "id": 34494,
-  "slug": "sakura-quest",
-  "type": "legendado",
+  "mal_id": 34494,
+  "url": "https://myanimelist.net/anime/34494/Sakura_Quest",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/85222.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/85222t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/85222l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/85222.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/85222t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/85222l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KYGzOTL5sOs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sakura Quest"
+    },
+    {
+      "type": "Japanese",
+      "title": "サクラクエスト"
+    },
+    {
+      "type": "English",
+      "title": "Sakura Quest"
+    }
+  ],
   "title": "Sakura Quest",
   "title_english": "Sakura Quest",
   "title_japanese": "サクラクエスト",
-  "image": "https://cdn.myanimelist.net/images/anime/6/85222l.webp",
-  "score": 7.38,
-  "synopsis": "Tired of her rural home, recent college graduate Yoshino Koharu is desperate to lead a more exciting life in Tokyo. After a fruitless job hunt, she finally receives a part-time offer as queen of the bizarre \"Kingdom of Chupakabura,\" a rundown mini-attraction in the small agricultural town of Manoyama. However, Yoshino discovers upon her arrival in Manoyama that she was mistaken for a celebrity and the job offer was a mistake. Left with no other options, Yoshino reluctantly agrees to take on the role and aid the Board of Tourism in their efforts to revitalize Manoyama. Determined to bring excitement to the dying town with the help of local residents, the queen enacts a series of projects to highlight the beauty and charm of Manoyama's culture.\n\nSakura Quest delves into the story of a tight-knit community that is struggling to balance change while also maintaining the rich traditions and bonds which define their identity.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/KYGzOTL5sOs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -133,5 +167,119 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxDKV8LQhYHPlBTsnJ8BAsvsUW1RO1KQGkTELFjTh49RfsUkNgCgCSDdHVsGOsJPFogBYrsHd3LhEizCcaXhXNV3d1BnPmLgSJDsg2TY3aELVUGtOKoXZUN7sTHFDepb4wZHUiy",
       "nome": "The Eternal Obelisk"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-06T00:00:00+00:00",
+    "to": "2017-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2017
+      }
+    },
+    "string": "Apr 6, 2017 to Sep 21, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.38,
+  "scored_by": 49620,
+  "rank": 2569,
+  "popularity": 1646,
+  "members": 159996,
+  "favorites": 550,
+  "synopsis": "Tired of her rural home, recent college graduate Yoshino Koharu is desperate to lead a more exciting life in Tokyo. After a fruitless job hunt, she finally receives a part-time offer as queen of the bizarre \"Kingdom of Chupakabura,\" a rundown mini-attraction in the small agricultural town of Manoyama. However, Yoshino discovers upon her arrival in Manoyama that she was mistaken for a celebrity and the job offer was a mistake. Left with no other options, Yoshino reluctantly agrees to take on the role and aid the Board of Tourism in their efforts to revitalize Manoyama. Determined to bring excitement to the dying town with the help of local residents, the queen enacts a series of projects to highlight the beauty and charm of Manoyama's culture.\n\nSakura Quest delves into the story of a tight-knit community that is struggling to balance change while also maintaining the rich traditions and bonds which define their identity.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 797,
+      "type": "anime",
+      "name": "Houbunsha",
+      "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    },
+    {
+      "mal_id": 1516,
+      "type": "anime",
+      "name": "Sony PCL",
+      "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 132,
+      "type": "anime",
+      "name": "P.A. Works",
+      "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/85222l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/KYGzOTL5sOs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34494,
+  "slug": "sakura-quest"
 }

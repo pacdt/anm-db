@@ -1,18 +1,57 @@
 {
-  "id": 7193,
-  "slug": "aoi-bungaku-series",
-  "type": "legendado",
+  "mal_id": 7193,
+  "url": "https://myanimelist.net/anime/7193/Aoi_Bungaku_Series",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/17471.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/17471t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/17471l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/17471.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/17471t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/17471l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mkZf_LbiAHo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Aoi Bungaku Series"
+    },
+    {
+      "type": "Synonym",
+      "title": "Blue Literature"
+    },
+    {
+      "type": "Japanese",
+      "title": "青い文学シリーズ"
+    },
+    {
+      "type": "French",
+      "title": "Youth Literature"
+    }
+  ],
   "title": "Aoi Bungaku Series",
   "title_english": "Aoi Bungaku Series",
   "title_japanese": "青い文学シリーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/10/17471l.webp",
-  "score": 7.65,
-  "synopsis": "1. Ningen Shikkaku\n2. Sakura no Mori no Mankai no Shita\n3. Kokoro\n4. Hashire, Melos!\n5. Kumo no Ito\n6. Jigokuhen",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/mkZf_LbiAHo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Suspense"
+  "title_synonyms": [
+    "Blue Literature"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,107 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyZIc2Exl9lgU5ky0D2_jRJjeSnCQf2hoHGyMpezi1TXXI1LNC03NuTPwQ9oIV_0kbR4Q3-JYD0IC5RUK6a5aus0bsPZrbHrceQhi2faIxVizrpPSOwlMx-pgqMMud_N1IyXhfZ",
       "nome": "Hell Screen"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-11T00:00:00+00:00",
+    "to": "2009-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2009
+      }
+    },
+    "string": "Oct 11, 2009 to Dec 27, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.65,
+  "scored_by": 67827,
+  "rank": 1491,
+  "popularity": 1191,
+  "members": 231826,
+  "favorites": 1621,
+  "synopsis": "1. Ningen Shikkaku\n2. Sakura no Mori no Mankai no Shita\n3. Kokoro\n4. Hashire, Melos!\n5. Kumo no Ito\n6. Jigokuhen",
+  "background": "Aoi Bungaku Series is adapted from renowned modern Japanese literary classics: Osamu Dazai's Ningen Shikkaku and Hashire, Melos!, Ango Sakaguchi's Sakura no Mori no Mankai no Shita, Natsume Souseki's Kokoro, and Ryuunosuke Akutagawa's Kumo no Ito and Jigokuhen.",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 787,
+      "type": "anime",
+      "name": "Happinet Pictures",
+      "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+    },
+    {
+      "mal_id": 1488,
+      "type": "anime",
+      "name": "Hakuhodo DY Media Partners",
+      "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+    },
+    {
+      "mal_id": 1581,
+      "type": "anime",
+      "name": "RAY",
+      "url": "https://myanimelist.net/anime/producer/1581/RAY"
+    },
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/17471l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/mkZf_LbiAHo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 7193,
+  "slug": "aoi-bungaku-series"
 }

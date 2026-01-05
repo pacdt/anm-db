@@ -1,17 +1,53 @@
 {
-  "id": 21407,
-  "slug": "happiness-charge-precure",
-  "type": "legendado",
+  "mal_id": 21407,
+  "url": "https://myanimelist.net/anime/21407/Happiness_Charge_Precure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1973/94568.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1973/94568t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1973/94568l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1973/94568.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1973/94568t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1973/94568l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Happiness Charge Precure!"
+    },
+    {
+      "type": "Synonym",
+      "title": "HappinessCharge Precure!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ハピネスチャージプリキュア！"
+    }
+  ],
   "title": "Happiness Charge Precure!",
   "title_english": "Happiness Charge Precure!",
   "title_japanese": "ハピネスチャージプリキュア！",
-  "image": "https://cdn.myanimelist.net/images/anime/1973/94568l.webp",
-  "score": 6.79,
-  "synopsis": "Some time ago, the opening of a box known as the \"Axia\" set loose the previously sealed members of the Phantom Empire into the world. Rising to protect humanity from these spiteful villains are warriors known as the Precure, whose heroic feats have garnered them celebrity status on television screens across the globe.\n\nHime Shirayuki, princess of the kingdom where the Axia was originally held, is one such warrior who transforms into \"Cure Princess\" to battle monsters summoned by the Empire. However, Hime's timid personality often hampers her success in fending off the enemy. Frustrated with her hard luck and determined to find a Precure partner, Hime befriends Megumi Aino, a happy-go-lucky teenager. When a general of the Phantom Empire appears, Hime fails to do much in the face of his attacks. Intent on protecting her new friend, Megumi ignites her hidden potential—transforming into \"Cure Lovely.\"\n\nWith their sights set on protecting the world, Megumi and Hime form a new Precure team known as the \"Happiness Charge Precure\" whilst embarking on a journey to discover true love.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "HappinessCharge Precure!"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -258,5 +294,69 @@
       "url": "https://lightspeedst.net/s2/mp4/happiness-charge-precure/sd/49.mp4",
       "nome": "Love Will Shine Forever! Everyone's Happiness!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-02-02T00:00:00+00:00",
+    "to": "2015-01-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 2,
+        "year": 2014
+      },
+      "to": {
+        "day": 25,
+        "month": 1,
+        "year": 2015
+      }
+    },
+    "string": "Feb 2, 2014 to Jan 25, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.79,
+  "scored_by": 5518,
+  "rank": 5614,
+  "popularity": 6134,
+  "members": 14239,
+  "favorites": 59,
+  "synopsis": "Some time ago, the opening of a box known as the \"Axia\" set loose the previously sealed members of the Phantom Empire into the world. Rising to protect humanity from these spiteful villains are warriors known as the Precure, whose heroic feats have garnered them celebrity status on television screens across the globe.\n\nHime Shirayuki, princess of the kingdom where the Axia was originally held, is one such warrior who transforms into \"Cure Princess\" to battle monsters summoned by the Empire. However, Hime's timid personality often hampers her success in fending off the enemy. Frustrated with her hard luck and determined to find a Precure partner, Hime befriends Megumi Aino, a happy-go-lucky teenager. When a general of the Phantom Empire appears, Hime fails to do much in the face of his attacks. Intent on protecting her new friend, Megumi ignites her hidden potential—transforming into \"Cure Lovely.\"\n\nWith their sights set on protecting the world, Megumi and Hime form a new Precure team known as the \"Happiness Charge Precure\" whilst embarking on a journey to discover true love.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1973/94568l.webp",
+  "trailer_url": null,
+  "id": 21407,
+  "slug": "happiness-charge-precure"
 }

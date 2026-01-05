@@ -1,18 +1,61 @@
 {
-  "id": 33299,
-  "slug": "magic-kyun-renaissance",
-  "type": "legendado",
+  "mal_id": 33299,
+  "url": "https://myanimelist.net/anime/33299/Magic-Kyun_Renaissance",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/80828.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/80828t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/80828l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/80828.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/80828t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/80828l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_5vn1rZi1s8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Magic-Kyun! Renaissance"
+    },
+    {
+      "type": "Synonym",
+      "title": "Maji-Kyun! Renaissance"
+    },
+    {
+      "type": "Japanese",
+      "title": "マジきゅんっ！ルネッサンス"
+    },
+    {
+      "type": "English",
+      "title": "Magic-Kyun! Renaissance"
+    },
+    {
+      "type": "German",
+      "title": "Magic-kyun! Renaissance"
+    }
+  ],
   "title": "Magic-Kyun! Renaissance",
   "title_english": "Magic-Kyun! Renaissance",
   "title_japanese": "マジきゅんっ！ルネッサンス",
-  "image": "https://cdn.myanimelist.net/images/anime/7/80828l.webp",
-  "score": 7,
-  "synopsis": "A world where art becomes magic. In this world, people who can inspire passion with their Magic Arts are called Artistas, and are employed in show business. In Hoshinomori Private Magical Arts High School, where Artistas are taught, a strange new student named Kohana Aigasaki transfers into the school.\n\nKohana is placed on the planning committee for the school's yearly Hoshinomori Summer Festa cultural festival. She spends her romantic school life with six other boys who aim to become entertainers in the future. Each of the boys specializes in his own Arts, and aims to make Hoshi Fes a success. In addition, the boys also aim to be chosen alongside Kohana as the school's Artista Prince and Princess, only chosen once a year.\n\n(Source: Official site)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_5vn1rZi1s8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Maji-Kyun! Renaissance"
   ],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +122,126 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz3dDFqsgaw_2eXFH0r6Nw2rmp2VlXxVcUD2LBwYUDfQHqkwGHQQr49Y_PFVpBYacSeRF_Mrx0x9T8Qbbu-1ArweadMLRgrgwU6sCUPSob-5MZ4YUdmiLzGms0FTmwzVKT50UM",
       "nome": "Magic-Kyun For You!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-02T00:00:00+00:00",
+    "to": "2016-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 2, 2016 to Dec 25, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7,
+  "scored_by": 23227,
+  "rank": 4565,
+  "popularity": 3135,
+  "members": 61263,
+  "favorites": 227,
+  "synopsis": "A world where art becomes magic. In this world, people who can inspire passion with their Magic Arts are called Artistas, and are employed in show business. In Hoshinomori Private Magical Arts High School, where Artistas are taught, a strange new student named Kohana Aigasaki transfers into the school.\n\nKohana is placed on the planning committee for the school's yearly Hoshinomori Summer Festa cultural festival. She spends her romantic school life with six other boys who aim to become entertainers in the future. Each of the boys specializes in his own Arts, and aims to make Hoshi Fes a success. In addition, the boys also aim to be chosen alongside Kohana as the school's Artista Prince and Princess, only chosen once a year.\n\n(Source: Official site)",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 116,
+      "type": "anime",
+      "name": "Broccoli",
+      "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 687,
+      "type": "anime",
+      "name": "Bandai Namco Live Creative",
+      "url": "https://myanimelist.net/anime/producer/687/Bandai_Namco_Live_Creative"
+    },
+    {
+      "mal_id": 1543,
+      "type": "anime",
+      "name": "Sunrise Music",
+      "url": "https://myanimelist.net/anime/producer/1543/Sunrise_Music"
+    },
+    {
+      "mal_id": 1544,
+      "type": "anime",
+      "name": "Bandai Namco Rights Marketing",
+      "url": "https://myanimelist.net/anime/producer/1544/Bandai_Namco_Rights_Marketing"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1201,
+      "type": "anime",
+      "name": "Ponycan USA",
+      "url": "https://myanimelist.net/anime/producer/1201/Ponycan_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Visual Arts",
+      "url": "https://myanimelist.net/anime/genre/80/Visual_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/80828l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_5vn1rZi1s8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33299,
+  "slug": "magic-kyun-renaissance"
 }

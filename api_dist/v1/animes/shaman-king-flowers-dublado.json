@@ -1,19 +1,47 @@
 {
-  "id": 51673,
-  "slug": "shaman-king-flowers-dublado",
-  "type": "dublado",
+  "mal_id": 51673,
+  "url": "https://myanimelist.net/anime/51673/Shaman_King__Flowers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1117/139294.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1117/139294t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1117/139294l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1117/139294.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1117/139294t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1117/139294l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_IibHdCX7Nk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shaman King: Flowers"
+    },
+    {
+      "type": "Japanese",
+      "title": "SHAMAN KING FLOWERS"
+    }
+  ],
   "title": "Shaman King: Flowers",
   "title_english": "Shaman King: Flowers",
   "title_japanese": "SHAMAN KING FLOWERS",
-  "image": "https://cdn.myanimelist.net/images/anime/1117/139294l.webp",
-  "score": 6.58,
-  "synopsis": "The story will center on You and Anna's son, Hana.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_IibHdCX7Nk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +93,78 @@
       "url": "https://lightspeedst.net/s7/mp4/shaman-king-flowers-dublado/hd/10.mp4",
       "nome": "Island of Death Zero"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-01-10T00:00:00+00:00",
+    "to": "2024-04-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2024
+      },
+      "to": {
+        "day": 3,
+        "month": 4,
+        "year": 2024
+      }
+    },
+    "string": "Jan 10, 2024 to Apr 3, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.58,
+  "scored_by": 8382,
+  "rank": 6908,
+  "popularity": 4164,
+  "members": 36128,
+  "favorites": 130,
+  "synopsis": "The story will center on You and Anna's son, Hana.",
+  "background": "",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 397,
+      "type": "anime",
+      "name": "Bridge",
+      "url": "https://myanimelist.net/anime/producer/397/Bridge"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1117/139294l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_IibHdCX7Nk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51673,
+  "slug": "shaman-king-flowers-dublado"
 }

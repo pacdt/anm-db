@@ -1,17 +1,63 @@
 {
-  "id": 12021,
-  "slug": "poyopoyo-kansatsu-nikki",
-  "type": "legendado",
+  "mal_id": 12021,
+  "url": "https://myanimelist.net/anime/12021/Poyopoyo_Kansatsu_Nikki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/35455.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/35455t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/35455l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/35455.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/35455t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/35455l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Poyopoyo Kansatsu Nikki"
+    },
+    {
+      "type": "Japanese",
+      "title": "ポヨポヨ観察日記"
+    },
+    {
+      "type": "English",
+      "title": "Poyopoyo"
+    },
+    {
+      "type": "German",
+      "title": "Poyopoyo"
+    },
+    {
+      "type": "Spanish",
+      "title": "Poyopoyo"
+    },
+    {
+      "type": "French",
+      "title": "Poyopoyo"
+    }
+  ],
   "title": "Poyopoyo Kansatsu Nikki",
   "title_english": "Poyopoyo",
   "title_japanese": "ポヨポヨ観察日記",
-  "image": "https://cdn.myanimelist.net/images/anime/11/35455l.webp",
-  "score": 7.63,
-  "synopsis": "Moe Sato is a young lady who finds a cat and starts taking care of him. Named Poyo due to his round shape, he quickly becomes a dear member of the Sato family. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -273,5 +319,95 @@
       "url": "https://lightspeedst.net/s2/mp4/poyopoyo-kansatsu-nikki/sd/52.mp4",
       "nome": "Until We Come 'Round Again"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-08T00:00:00+00:00",
+    "to": "2012-12-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 30,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Jan 8, 2012 to Dec 30, 2012"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG - Children",
+  "score": 7.63,
+  "scored_by": 9901,
+  "rank": 1553,
+  "popularity": 5084,
+  "members": 23107,
+  "favorites": 155,
+  "synopsis": "Moe Sato is a young lady who finds a cat and starts taking care of him. Named Poyo due to his round shape, he quickly becomes a dear member of the Sato family. \n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Sundays at Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 615,
+      "type": "anime",
+      "name": "Dream Creation",
+      "url": "https://myanimelist.net/anime/producer/615/Dream_Creation"
+    },
+    {
+      "mal_id": 637,
+      "type": "anime",
+      "name": "Möbius Tone",
+      "url": "https://myanimelist.net/anime/producer/637/M%C3%B6bius_Tone"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 71,
+      "type": "anime",
+      "name": "Pets",
+      "url": "https://myanimelist.net/anime/genre/71/Pets"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/35455l.webp",
+  "trailer_url": null,
+  "id": 12021,
+  "slug": "poyopoyo-kansatsu-nikki"
 }

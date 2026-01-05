@@ -1,18 +1,57 @@
 {
-  "id": 28,
-  "slug": "yakitate-japan",
-  "type": "legendado",
+  "mal_id": 28,
+  "url": "https://myanimelist.net/anime/28/Yakitate_Japan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/76432.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/76432t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/76432.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/76432t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/76432l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yakitate!! Japan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Freshly Baked!! Ja-pan!"
+    },
+    {
+      "type": "Japanese",
+      "title": "焼きたて!! ジャぱん"
+    },
+    {
+      "type": "English",
+      "title": "Yakitate!! Japan"
+    }
+  ],
   "title": "Yakitate!! Japan",
   "title_english": "Yakitate!! Japan",
   "title_japanese": "焼きたて!! ジャぱん",
-  "image": "https://cdn.myanimelist.net/images/anime/3/76432l.webp",
-  "score": 7.91,
-  "synopsis": "While countries such as France, England, and Germany all have their own internationally celebrated bread, Japan simply does not have one that can match in reputation.\n\nThus after discovering the wonders of breadmaking at a young age, Kazuma Azuma embarks on a quest to create Japan's own unique national bread. And being blessed with unusually warm hands that allow dough to ferment faster, Azuma is able to bring his baking innovations to another level.\n\nAs he begins working at the prestigious Japanese bakery chain, Pantasia, Azuma encounters other talented bakers and experiences firsthand the competitive world of baking. Along with his newfound friends and rivals, Azuma strives to create new and unparalleled bread that will start a baking revolution. \n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Gourmet"
+  "title_synonyms": [
+    "Freshly Baked!! Ja-pan!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -134,5 +173,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyoBlyRYssuxt_F-Jy5OWTGGCaGzbFX6Li4gMSYCZhLkuT5BP_6_uSChfTD0eKid4eEbVG2IBn0GtlRRIRsh46FRC9foes-R0YxbjkSeO_g36_rO-tABhSvBynVPdn6q-4iok1N",
       "nome": "The Flying Meister!! Who Will Win!?"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-12T00:00:00+00:00",
+    "to": "2006-03-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 14,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Oct 12, 2004 to Mar 14, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.91,
+  "scored_by": 42989,
+  "rank": 842,
+  "popularity": 2270,
+  "members": 104350,
+  "favorites": 943,
+  "synopsis": "While countries such as France, England, and Germany all have their own internationally celebrated bread, Japan simply does not have one that can match in reputation.\n\nThus after discovering the wonders of breadmaking at a young age, Kazuma Azuma embarks on a quest to create Japan's own unique national bread. And being blessed with unusually warm hands that allow dough to ferment faster, Azuma is able to bring his baking innovations to another level.\n\nAs he begins working at the prestigious Japanese bakery chain, Pantasia, Azuma encounters other talented bakers and experiences firsthand the competitive world of baking. Along with his newfound friends and rivals, Azuma strives to create new and unparalleled bread that will start a baking revolution. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 164,
+      "type": "anime",
+      "name": "d-rights",
+      "url": "https://myanimelist.net/anime/producer/164/d-rights"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    },
+    {
+      "mal_id": 1175,
+      "type": "anime",
+      "name": "Atelier Musa",
+      "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Gourmet"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/76432l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 28,
+  "slug": "yakitate-japan"
 }

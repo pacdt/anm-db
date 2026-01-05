@@ -1,17 +1,57 @@
 {
-  "id": 60098,
-  "slug": "boku-no-hero-academia-final-season",
-  "type": "legendado",
+  "mal_id": 60098,
+  "url": "https://myanimelist.net/anime/60098/Boku_no_Hero_Academia__Final_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wQgQij8Ry4g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Boku no Hero Academia: Final Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "My Hero Academia 8"
+    },
+    {
+      "type": "Japanese",
+      "title": "僕のヒーローアカデミア FINAL SEASON"
+    },
+    {
+      "type": "English",
+      "title": "My Hero Academia Final Season"
+    }
+  ],
   "title": "Boku no Hero Academia: Final Season",
   "title_english": "My Hero Academia Final Season",
   "title_japanese": "僕のヒーローアカデミア FINAL SEASON",
-  "image": "https://cdn.myanimelist.net/images/anime/1959/151055l.webp",
-  "score": 8.78,
-  "synopsis": "Final season of Boku no Hero Academia.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/wQgQij8Ry4g?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "My Hero Academia 8"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +105,137 @@
       "numero": 11,
       "url": "https://lightspeedst.net/s2/mp4/boku-no-hero-academia-final-season/hd/11.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-10-04T00:00:00+00:00",
+    "to": "2025-12-13T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2025
+      },
+      "to": {
+        "day": 13,
+        "month": 12,
+        "year": 2025
+      }
+    },
+    "string": "Oct 4, 2025 to Dec 13, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.78,
+  "scored_by": 95276,
+  "rank": 36,
+  "popularity": 1160,
+  "members": 237490,
+  "favorites": 2096,
+  "synopsis": "Final season of Boku no Hero Academia.",
+  "background": "",
+  "season": "fall",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1499,
+      "type": "anime",
+      "name": "Techno Sound",
+      "url": "https://myanimelist.net/anime/producer/1499/Techno_Sound"
+    },
+    {
+      "mal_id": 2229,
+      "type": "anime",
+      "name": "Toho Music",
+      "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3045,
+      "type": "anime",
+      "name": "Bones Film",
+      "url": "https://myanimelist.net/anime/producer/3045/Bones_Film"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1959/151055l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/wQgQij8Ry4g?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60098,
+  "slug": "boku-no-hero-academia-final-season"
 }

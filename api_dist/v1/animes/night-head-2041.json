@@ -1,20 +1,51 @@
 {
-  "id": 43767,
-  "slug": "night-head-2041",
-  "type": "legendado",
+  "mal_id": 43767,
+  "url": "https://myanimelist.net/anime/43767/Night_Head_2041",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1819/116662.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1819/116662t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1819/116662l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1819/116662.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1819/116662t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1819/116662l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/g3jeyoPbKbk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Night Head 2041"
+    },
+    {
+      "type": "Japanese",
+      "title": "NIGHT HEAD 2041"
+    },
+    {
+      "type": "English",
+      "title": "Night Head 2041"
+    }
+  ],
   "title": "Night Head 2041",
   "title_english": "Night Head 2041",
   "title_japanese": "NIGHT HEAD 2041",
-  "image": "https://cdn.myanimelist.net/images/anime/1819/116662l.webp",
-  "score": 6.49,
-  "synopsis": "In the year 2041, World War III has wiped out two-thirds of the human population, and in the newfound structure, the belief in any god or beyond-human entity is considered a preposterous notion. In order to prevent citizens from bearing possibly incriminating thoughts, the government has assembled a Special Weapon Enforcement division to capture and rehabilitate such believers.\n\nThe Kirihara brothers, Naoya and Naoto—who were hidden away from society by their captors for years to conceal their psychic abilities—were promised freedom once the world was ready to face their existence. Now, wandering in the appalling new societal climate where psychics are not welcome, the brothers find themselves on the run from the Enforcement's devoted operatives, Yuuya and Takuya Kuroki.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/g3jeyoPbKbk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Mystery",
-    "Sci-Fi",
-    "Suspense"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +107,109 @@
       "url": "https://lightspeedst.net/s1/mp4/night-head-2041/hd/12.mp4",
       "nome": "Inheritance and Reincarnation -Start Over-"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-07-15T00:00:00+00:00",
+    "to": "2021-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 7,
+        "year": 2021
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2021
+      }
+    },
+    "string": "Jul 15, 2021 to Sep 30, 2021"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.49,
+  "scored_by": 10711,
+  "rank": 7442,
+  "popularity": 3611,
+  "members": 47468,
+  "favorites": 312,
+  "synopsis": "In the year 2041, World War III has wiped out two-thirds of the human population, and in the newfound structure, the belief in any god or beyond-human entity is considered a preposterous notion. In order to prevent citizens from bearing possibly incriminating thoughts, the government has assembled a Special Weapon Enforcement division to capture and rehabilitate such believers.\n\nThe Kirihara brothers, Naoya and Naoto—who were hidden away from society by their captors for years to conceal their psychic abilities—were promised freedom once the world was ready to face their existence. Now, wandering in the appalling new societal climate where psychics are not welcome, the brothers find themselves on the run from the Enforcement's devoted operatives, Yuuya and Takuya Kuroki.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2021,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 735,
+      "type": "anime",
+      "name": "Slow Curve",
+      "url": "https://myanimelist.net/anime/producer/735/Slow_Curve"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1488,
+      "type": "anime",
+      "name": "Hakuhodo DY Media Partners",
+      "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+    },
+    {
+      "mal_id": 2286,
+      "type": "anime",
+      "name": "Office ENDLESS",
+      "url": "https://myanimelist.net/anime/producer/2286/Office_ENDLESS"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 235,
+      "type": "anime",
+      "name": "Shirogumi",
+      "url": "https://myanimelist.net/anime/producer/235/Shirogumi"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1819/116662l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/g3jeyoPbKbk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 43767,
+  "slug": "night-head-2041"
 }

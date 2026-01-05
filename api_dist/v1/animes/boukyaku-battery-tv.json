@@ -1,18 +1,51 @@
 {
-  "id": 56165,
-  "slug": "boukyaku-battery-tv",
-  "type": "legendado",
+  "mal_id": 56165,
+  "url": "https://myanimelist.net/anime/56165/Boukyaku_Battery_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1372/142242.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1372/142242t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1372/142242l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1372/142242.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1372/142242t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1372/142242l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/N-R73WwXUgU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Boukyaku Battery (TV)"
+    },
+    {
+      "type": "Japanese",
+      "title": "忘却バッテリー"
+    },
+    {
+      "type": "English",
+      "title": "Oblivion Battery"
+    }
+  ],
   "title": "Boukyaku Battery (TV)",
   "title_english": "Oblivion Battery",
   "title_japanese": "忘却バッテリー",
-  "image": "https://cdn.myanimelist.net/images/anime/1372/142242l.webp",
-  "score": 7.52,
-  "synopsis": "Haruka Kiyomine and Kei Kaname were once recognized as the most formidable pitcher-catcher duo in middle school baseball. Known as the \"General,\" Kaname paired his expert strategies with Kiyomine's explosive pitches, crushing the dreams of many starry-eyed players who hoped to one day make it to the big leagues.\n\nHigh school freshman Tarou Yamada is one such former player. Having given up on competing, he enrolls in Kotesashi High School—a completely average public school with no baseball team to speak of—where he discovers that his new classmates are the legendary pair who once destroyed his dreams. Adding to this shocking revelation, he learns that amnesia has reduced the once level-headed General to a vulgar class clown. Having lost all interest in baseball, Kaname dragged a disappointed Kiyomine to Kotesashi simply because the school was close to where they live.\n\nAs Kotesashi forms a fledgling baseball club, Yamada meets other players he once admired who also left baseball behind. While they might be unwilling now, Yamada believes that if he can convince such talented athletes to start playing again, it might be possible to achieve their dreams and win the national championship—as long as they can put up with Kaname's incessant joking.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/N-R73WwXUgU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,96 @@
       "url": "https://lightspeedst.net/s7/mp4/boukyaku-battery-tv/hd/12.mp4",
       "nome": "Did You Hate It?"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-04-10T00:00:00+00:00",
+    "to": "2024-07-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 4,
+        "year": 2024
+      },
+      "to": {
+        "day": 3,
+        "month": 7,
+        "year": 2024
+      }
+    },
+    "string": "Apr 10, 2024 to Jul 3, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.52,
+  "scored_by": 18802,
+  "rank": 1983,
+  "popularity": 3557,
+  "members": 48545,
+  "favorites": 280,
+  "synopsis": "Haruka Kiyomine and Kei Kaname were once recognized as the most formidable pitcher-catcher duo in middle school baseball. Known as the \"General,\" Kaname paired his expert strategies with Kiyomine's explosive pitches, crushing the dreams of many starry-eyed players who hoped to one day make it to the big leagues.\n\nHigh school freshman Tarou Yamada is one such former player. Having given up on competing, he enrolls in Kotesashi High School—a completely average public school with no baseball team to speak of—where he discovers that his new classmates are the legendary pair who once destroyed his dreams. Adding to this shocking revelation, he learns that amnesia has reduced the once level-headed General to a vulgar class clown. Having lost all interest in baseball, Kaname dragged a disappointed Kiyomine to Kotesashi simply because the school was close to where they live.\n\nAs Kotesashi forms a fledgling baseball club, Yamada meets other players he once admired who also left baseball behind. While they might be unwilling now, Yamada believes that if he can convince such talented athletes to start playing again, it might be possible to achieve their dreams and win the national championship—as long as they can put up with Kaname's incessant joking.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2024,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 569,
+      "type": "anime",
+      "name": "MAPPA",
+      "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1372/142242l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/N-R73WwXUgU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 56165,
+  "slug": "boukyaku-battery-tv"
 }

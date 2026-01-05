@@ -1,18 +1,63 @@
 {
-  "id": 4415,
-  "slug": "world-destruction-sekai-bokumetsu-no-rokunin",
-  "type": "legendado",
+  "mal_id": 4415,
+  "url": "https://myanimelist.net/anime/4415/World_Destruction__Sekai_Bokumetsu_no_Rokunin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/30347.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/30347t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/30347l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/30347.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/30347t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/30347l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "World Destruction: Sekai Bokumetsu no Rokunin"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワールド・デストラクション ～世界撲滅の六人～"
+    },
+    {
+      "type": "English",
+      "title": "Sands of Destruction"
+    },
+    {
+      "type": "German",
+      "title": "Sands of Destruction"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sands of Destruction"
+    },
+    {
+      "type": "French",
+      "title": "Sands of Destruction"
+    }
+  ],
   "title": "World Destruction: Sekai Bokumetsu no Rokunin",
   "title_english": "Sands of Destruction",
   "title_japanese": "ワールド・デストラクション ～世界撲滅の六人～",
-  "image": "https://cdn.myanimelist.net/images/anime/3/30347l.webp",
-  "score": 6.92,
-  "synopsis": "Spinoff based on the Nintendo DS RPG game by SEGA, released in Japan July, 2008. \n\nIn a world where humans serve as livestock for the ruling beastman, and where sand fills the roles of water and fire. Kyrie is recruited by the \"World Destruction Committee\" to assist in putting an end to their world. Kyrie alone holds the power needed to do it. \n\n(Source: AniDB)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +124,83 @@
       "url": "https://lightspeedst.net/s3/mp4/world-destruction-sekai-bokumetsu-no-rokunin/sd/13.mp4",
       "nome": "There are Two Kinds of Futures"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-07-08T00:00:00+00:00",
+    "to": "2008-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2008
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Jul 8, 2008 to Sep 30, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.92,
+  "scored_by": 24498,
+  "rank": 4922,
+  "popularity": 3359,
+  "members": 54092,
+  "favorites": 117,
+  "synopsis": "Spinoff based on the Nintendo DS RPG game by SEGA, released in Japan July, 2008. \n\nIn a world where humans serve as livestock for the ruling beastman, and where sand fills the roles of water and fire. Kyrie is recruited by the \"World Destruction Committee\" to assist in putting an end to their world. Kyrie alone holds the power needed to do it. \n\n(Source: AniDB)",
+  "background": "",
+  "season": "summer",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 167,
+      "type": "anime",
+      "name": "Sega",
+      "url": "https://myanimelist.net/anime/producer/167/Sega"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/30347l.webp",
+  "trailer_url": null,
+  "id": 4415,
+  "slug": "world-destruction-sekai-bokumetsu-no-rokunin"
 }

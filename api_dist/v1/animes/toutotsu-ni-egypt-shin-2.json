@@ -1,18 +1,62 @@
 {
-  "id": 49522,
-  "slug": "toutotsu-ni-egypt-shin-2",
-  "type": "legendado",
+  "mal_id": 49522,
+  "url": "https://myanimelist.net/anime/49522/Toutotsu_ni_Egypt_Shin_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1448/122765.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1448/122765t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1448/122765l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1448/122765.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1448/122765t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1448/122765l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Ahf0lAw-l84?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Toutotsu ni Egypt Shin 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Suddenly"
+    },
+    {
+      "type": "Synonym",
+      "title": "Egyptian Gods 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "とーとつにエジプト神"
+    },
+    {
+      "type": "English",
+      "title": "Oh, Suddenly Egyptian God 2"
+    }
+  ],
   "title": "Toutotsu ni Egypt Shin 2",
   "title_english": "Oh, Suddenly Egyptian God 2",
   "title_japanese": "とーとつにエジプト神",
-  "image": "https://cdn.myanimelist.net/images/anime/1448/122765l.webp",
-  "score": 6.63,
-  "synopsis": "Second season of Toutotsu ni Egypt Shin web series.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Ahf0lAw-l84?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Suddenly",
+    "Egyptian Gods 2nd Season"
   ],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -39,5 +83,70 @@
       "url": "https://lightspeedst.net/s5/mp4/toutotsu-ni-egypt-shin-2/fhd/5.mp4",
       "nome": "Suddenly, Help From Otter"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-11T00:00:00+00:00",
+    "to": "2023-03-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 15,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Jan 11, 2023 to Mar 15, 2023"
+  },
+  "duration": "5 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.63,
+  "scored_by": 1339,
+  "rank": 6630,
+  "popularity": 10605,
+  "members": 3405,
+  "favorites": 8,
+  "synopsis": "Second season of Toutotsu ni Egypt Shin web series.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1340,
+      "type": "anime",
+      "name": "Typhoon Graphics",
+      "url": "https://myanimelist.net/anime/producer/1340/Typhoon_Graphics"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1448/122765l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Ahf0lAw-l84?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49522,
+  "slug": "toutotsu-ni-egypt-shin-2"
 }

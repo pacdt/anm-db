@@ -1,17 +1,62 @@
 {
-  "id": 60130,
-  "slug": "muchuu-sa-kimi-ni",
-  "type": "legendado",
+  "mal_id": 60130,
+  "url": "https://myanimelist.net/anime/60130/Muchuu_sa_Kimi_ni",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1359/150668.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1359/150668t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1359/150668l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1359/150668.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1359/150668t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1359/150668l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/k6ilRP0XBmQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Muchuu sa, Kimi ni."
+    },
+    {
+      "type": "Synonym",
+      "title": "Captivated"
+    },
+    {
+      "type": "Synonym",
+      "title": "by You"
+    },
+    {
+      "type": "Japanese",
+      "title": "夢中さ、きみに。"
+    },
+    {
+      "type": "English",
+      "title": "Captivated, By You"
+    }
+  ],
   "title": "Muchuu sa, Kimi ni.",
   "title_english": "Captivated, By You",
   "title_japanese": "夢中さ、きみに。",
-  "image": "https://cdn.myanimelist.net/images/anime/1359/150668l.webp",
-  "score": 7.27,
-  "synopsis": "To escape from the monotony of his daily life, Jouji Ema likes to count all the cute things he sees. However, this has become a difficult task at his all-boys school, with one exception: his classmate Miyoshi Hayashi. After a random mishap with Hayashi at the sports festival, the boy starts following Ema around asking him if he thinks he is cute. Ema is puzzled by Hayashi's frank yet naive attitude, but he cannot help but be drawn in by his eccentric personality.\n\nMeanwhile, Yuuichi Medaka's school year takes a wrong step when he is seated in front of Akira Nikaidou, a gloomy boy rumored to put curses on anyone that crosses his path. Determined to get in Nikaidou's good graces, Medaka tries to befriend him, but to no avail. Just when he is about to admit defeat, he discovers that Nikaidou might not be the bad omen everyone believes he is.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/k6ilRP0XBmQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Captivated",
+    "by You"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -38,5 +83,76 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/muchuu-sa-kimi-ni/5/720p.mp4",
       "nome": "Nikaidou Behind Me: Terrifying School Trip Ver."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-08-21T00:00:00+00:00",
+    "to": "2025-09-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 8,
+        "year": 2025
+      },
+      "to": {
+        "day": 18,
+        "month": 9,
+        "year": 2025
+      }
+    },
+    "string": "Aug 21, 2025 to Sep 18, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.27,
+  "scored_by": 4501,
+  "rank": 3121,
+  "popularity": 5928,
+  "members": 15619,
+  "favorites": 63,
+  "synopsis": "To escape from the monotony of his daily life, Jouji Ema likes to count all the cute things he sees. However, this has become a difficult task at his all-boys school, with one exception: his classmate Miyoshi Hayashi. After a random mishap with Hayashi at the sports festival, the boy starts following Ema around asking him if he thinks he is cute. Ema is puzzled by Hayashi's frank yet naive attitude, but he cannot help but be drawn in by his eccentric personality.\n\nMeanwhile, Yuuichi Medaka's school year takes a wrong step when he is seated in front of Akira Nikaidou, a gloomy boy rumored to put curses on anyone that crosses his path. Determined to get in Nikaidou's good graces, Medaka tries to befriend him, but to no avail. Just when he is about to admit defeat, he discovers that Nikaidou might not be the bad omen everyone believes he is.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2025,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1359/150668l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/k6ilRP0XBmQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60130,
+  "slug": "muchuu-sa-kimi-ni"
 }

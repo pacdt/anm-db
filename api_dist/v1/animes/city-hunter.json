@@ -1,19 +1,51 @@
 {
-  "id": 1470,
-  "slug": "city-hunter",
-  "type": "legendado",
+  "mal_id": 1470,
+  "url": "https://myanimelist.net/anime/1470/City_Hunter",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/20587.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/20587t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/20587l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/20587.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/20587t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/20587l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/VpYMunHzfws?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "City Hunter"
+    },
+    {
+      "type": "Japanese",
+      "title": "シティーハンター"
+    },
+    {
+      "type": "French",
+      "title": "Nicky Larson"
+    }
+  ],
   "title": "City Hunter",
   "title_english": "City Hunter",
   "title_japanese": "シティーハンター",
-  "image": "https://cdn.myanimelist.net/images/anime/8/20587l.webp",
-  "score": 7.9,
-  "synopsis": "\"City Hunter\" is a notorious contractor group with the call sign \"XYZ.\" No matter the job, they will take it, cleaning up the scum on the streets of Tokyo. The key member of City Hunter is Ryou Saeba; armed with his trusty Colt Python and pinpoint accuracy, he works alongside willful tomboy Kaori Makimura.\n\nTogether they solve tough cases and tackle the numerous dangers that accompany their trade head-on. However, when he's not out hunting crooks and villains, Ryou finds pleasure in chasing beautiful ladies with only Kaori and her one hundred-ton hammer to keep him in check. From pickpockets and arms dealers to crime syndicates, nothing can stand in the way of Ryou Saeba when he takes aim at his next mission.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/VpYMunHzfws?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Mystery"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -270,5 +302,98 @@
       "url": "https://lightspeedst.net/s4/mp4/city-hunter/sd/51.mp4",
       "nome": "The Deadliest Enemy! Ryo's and Kaori's Final Match (Part Two)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1987-04-06T00:00:00+00:00",
+    "to": "1988-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 1987
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 1988
+      }
+    },
+    "string": "Apr 6, 1987 to Mar 28, 1988"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.9,
+  "scored_by": 26080,
+  "rank": 879,
+  "popularity": 2499,
+  "members": 90224,
+  "favorites": 1100,
+  "synopsis": "\"City Hunter\" is a notorious contractor group with the call sign \"XYZ.\" No matter the job, they will take it, cleaning up the scum on the streets of Tokyo. The key member of City Hunter is Ryou Saeba; armed with his trusty Colt Python and pinpoint accuracy, he works alongside willful tomboy Kaori Makimura.\n\nTogether they solve tough cases and tackle the numerous dangers that accompany their trade head-on. However, when he's not out hunting crooks and villains, Ryou finds pleasure in chasing beautiful ladies with only Kaori and her one hundred-ton hammer to keep him in check. From pickpockets and arms dealers to crime syndicates, nothing can stand in the way of Ryou Saeba when he takes aim at his next mission.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 1987,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/20587l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/VpYMunHzfws?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1470,
+  "slug": "city-hunter"
 }

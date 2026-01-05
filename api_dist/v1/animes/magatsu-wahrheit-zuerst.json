@@ -1,18 +1,57 @@
 {
-  "id": 37599,
-  "slug": "magatsu-wahrheit-zuerst",
-  "type": "legendado",
+  "mal_id": 37599,
+  "url": "https://myanimelist.net/anime/37599/Magatsu_Wahrheit__Zuerst",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1109/108983.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/108983t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/108983l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1109/108983.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/108983t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/108983l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3VyUAlzY2JA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Magatsu Wahrheit: Zuerst"
+    },
+    {
+      "type": "Synonym",
+      "title": "MWZ"
+    },
+    {
+      "type": "Japanese",
+      "title": "禍つヴァールハイト -ZUERST-"
+    },
+    {
+      "type": "English",
+      "title": "MAGATSU WAHRHEIT"
+    }
+  ],
   "title": "Magatsu Wahrheit: Zuerst",
   "title_english": "MAGATSU WAHRHEIT",
   "title_japanese": "禍つヴァールハイト -ZUERST-",
-  "image": "https://cdn.myanimelist.net/images/anime/1109/108983l.webp",
-  "score": 6.54,
-  "synopsis": "In the technologically and magically advanced Wahrheit Empire, rumors of a returning catastrophe known only as the \"light\" causes a disturbance amongst the people. Meanwhile, in the capital of the Empire, transporter Innumael Grauer prepares his daily deliveries, struggling to make ends meet for himself and his sister. Leocadio Wöhler, a newly recruited soldier, assists Innumael whilst commuting to work—unknowingly loading a mysterious package containing contraband artillery belonging to a criminal organization.\n\nInnumael is accused of smuggling the package, facing possible execution due to the Empire's strict oversight of weapons in response to the rising disorder. However, unbeknownst to him, the very syndicate that placed him in this unfortunate predicament may save him from this fate, at least temporarily. Elsewhere, Leocadio is assigned his first mission—to apprehend the criminal group known as \"Headkeeper,\" suspected of transporting illegal weaponry.\n\nMagatsu Wahrheit: Zuerst follows these two young men on a journey encompassing the Wahrheit Empire, triggering a chain of events that will not only change their lives but also alter the course of the Empire as they know it.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3VyUAlzY2JA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
+  "title_synonyms": [
+    "MWZ"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,125 @@
       "url": "https://lightspeedst.net/s4/mp4/magatsu-wahrheit-zuerst/sd/12.mp4",
       "nome": "The Hand that Rocks the Cradle"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-10-13T00:00:00+00:00",
+    "to": "2020-12-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 2020
+      },
+      "to": {
+        "day": 29,
+        "month": 12,
+        "year": 2020
+      }
+    },
+    "string": "Oct 13, 2020 to Dec 29, 2020"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.54,
+  "scored_by": 13186,
+  "rank": 7137,
+  "popularity": 4002,
+  "members": 39325,
+  "favorites": 68,
+  "synopsis": "In the technologically and magically advanced Wahrheit Empire, rumors of a returning catastrophe known only as the \"light\" causes a disturbance amongst the people. Meanwhile, in the capital of the Empire, transporter Innumael Grauer prepares his daily deliveries, struggling to make ends meet for himself and his sister. Leocadio Wöhler, a newly recruited soldier, assists Innumael whilst commuting to work—unknowingly loading a mysterious package containing contraband artillery belonging to a criminal organization.\n\nInnumael is accused of smuggling the package, facing possible execution due to the Empire's strict oversight of weapons in response to the rising disorder. However, unbeknownst to him, the very syndicate that placed him in this unfortunate predicament may save him from this fate, at least temporarily. Elsewhere, Leocadio is assigned his first mission—to apprehend the criminal group known as \"Headkeeper,\" suspected of transporting illegal weaponry.\n\nMagatsu Wahrheit: Zuerst follows these two young men on a journey encompassing the Wahrheit Empire, triggering a chain of events that will not only change their lives but also alter the course of the Empire as they know it.\n\n[Written by MAL Rewrite]",
+  "background": "Magatsu Wahrheit: Zuerst is an adaptation of the mobile MMORPG Magatsu Wahrheit, developed and published by KLab. The game company announced the adaptation on March 24, 2018 as an \"animation project\" upon the launch of the smartphone game's website. On April 23, 2020, an official website revealed the production of the television series.",
+  "season": "fall",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1287,
+      "type": "anime",
+      "name": "Q-Tec",
+      "url": "https://myanimelist.net/anime/producer/1287/Q-Tec"
+    },
+    {
+      "mal_id": 1336,
+      "type": "anime",
+      "name": "Chugai Mining",
+      "url": "https://myanimelist.net/anime/producer/1336/Chugai_Mining"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1787,
+      "type": "anime",
+      "name": "KLab",
+      "url": "https://myanimelist.net/anime/producer/1787/KLab"
+    },
+    {
+      "mal_id": 1800,
+      "type": "anime",
+      "name": "Marui Group",
+      "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1687,
+      "type": "anime",
+      "name": "Yokohama Animation Lab",
+      "url": "https://myanimelist.net/anime/producer/1687/Yokohama_Animation_Lab"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1109/108983l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3VyUAlzY2JA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37599,
+  "slug": "magatsu-wahrheit-zuerst"
 }

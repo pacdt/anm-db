@@ -1,17 +1,51 @@
 {
-  "id": 50739,
-  "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken",
-  "type": "legendado",
+  "mal_id": 50739,
+  "url": "https://myanimelist.net/anime/50739/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1240/133638.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1240/133638t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1240/133638l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1240/133638.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1240/133638t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1240/133638l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/IUq59ARXtdg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+    },
+    {
+      "type": "Japanese",
+      "title": "お隣の天使様にいつの間にか駄目人間にされていた件"
+    },
+    {
+      "type": "English",
+      "title": "The Angel Next Door Spoils Me Rotten"
+    }
+  ],
   "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
   "title_english": "The Angel Next Door Spoils Me Rotten",
   "title_japanese": "お隣の天使様にいつの間にか駄目人間にされていた件",
-  "image": "https://cdn.myanimelist.net/images/anime/1240/133638l.webp",
-  "score": 7.85,
-  "synopsis": "Mahiru Shiina is worthy of her nickname \"Angel\": she is a divine beauty loved by all, and she excels in both academics and athletics. Shiina lives in an entirely different world from Amane Fujimiya, her next-door neighbor. Despite living so close together, they have never spoken once. But their silence is broken when Fujimiya spots Shiina gloomily sitting on a swing amidst a heavy rainstorm and lends her his umbrella. \n\nWhen Fujimiya catches a cold the next day, Shiina wishes to return the favor for the umbrella by nursing him back to health. Believing that this would be their first and last interaction, he silently appreciates her kindness. However, Shiina—who cannot help but worry about Fujimiya's lack of tidiness and proper nutrition—begins to cook and clean for him. As the unlikely pair spend time together in Fujimiya's apartment, they explore the true nature of their relationship and the gentle emotions that emerge from it.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/IUq59ARXtdg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +107,130 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken/12/720p.mp4",
       "nome": "Say Goodbye to My Cowardice"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-07T00:00:00+00:00",
+    "to": "2023-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Jan 7, 2023 to Mar 25, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.85,
+  "scored_by": 224253,
+  "rank": 976,
+  "popularity": 637,
+  "members": 412624,
+  "favorites": 6889,
+  "synopsis": "Mahiru Shiina is worthy of her nickname \"Angel\": she is a divine beauty loved by all, and she excels in both academics and athletics. Shiina lives in an entirely different world from Amane Fujimiya, her next-door neighbor. Despite living so close together, they have never spoken once. But their silence is broken when Fujimiya spots Shiina gloomily sitting on a swing amidst a heavy rainstorm and lends her his umbrella. \n\nWhen Fujimiya catches a cold the next day, Shiina wishes to return the favor for the umbrella by nursing him back to health. Believing that this would be their first and last interaction, he silently appreciates her kindness. However, Shiina—who cannot help but worry about Fujimiya's lack of tidiness and proper nutrition—begins to cook and clean for him. As the unlikely pair spend time together in Fujimiya's apartment, they explore the true nature of their relationship and the gentle emotions that emerge from it.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1406,
+      "type": "anime",
+      "name": "Miracle Bus",
+      "url": "https://myanimelist.net/anime/producer/1406/Miracle_Bus"
+    },
+    {
+      "mal_id": 2111,
+      "type": "anime",
+      "name": "Pia",
+      "url": "https://myanimelist.net/anime/producer/2111/Pia"
+    },
+    {
+      "mal_id": 2117,
+      "type": "anime",
+      "name": "SB Creative",
+      "url": "https://myanimelist.net/anime/producer/2117/SB_Creative"
+    },
+    {
+      "mal_id": 2229,
+      "type": "anime",
+      "name": "Toho Music",
+      "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 439,
+      "type": "anime",
+      "name": "Project No.9",
+      "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+    }
+  ],
+  "genres": [
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1240/133638l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/IUq59ARXtdg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50739,
+  "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken"
 }

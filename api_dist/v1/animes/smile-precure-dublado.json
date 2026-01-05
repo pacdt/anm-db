@@ -1,17 +1,57 @@
 {
-  "id": 12191,
-  "slug": "smile-precure-dublado",
-  "type": "dublado",
+  "mal_id": 12191,
+  "url": "https://myanimelist.net/anime/12191/Smile_Precure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/76179.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76179t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76179l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/76179.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76179t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76179l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Smile Precure!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Smile Pretty Cure!"
+    },
+    {
+      "type": "Japanese",
+      "title": "スマイルプリキュア"
+    },
+    {
+      "type": "English",
+      "title": "Glitter Force"
+    }
+  ],
   "title": "Smile Precure!",
   "title_english": "Glitter Force",
   "title_japanese": "スマイルプリキュア",
-  "image": "https://cdn.myanimelist.net/images/anime/12/76179l.webp",
-  "score": 6.88,
-  "synopsis": "To teenager Miyuki Hoshizora, fairy tales are a world of wondrous encounters and happy endings. Inspired by her love for these stories, she lives every day searching for happiness. While running late on her first day of school as a transfer student, Miyuki meets Candy—a mysterious fairy from the world of fairy tales, Märchenland. However, when Candy disappears as quickly as she appeared, Miyuki is left believing the encounter was only a dream.\n\nAfter an eventful first day, Miyuki finds a mysterious library at school. While combing through the bookshelves, she is transported next to Candy, who claims to be searching for the so-called legendary warriors, Precure. When forced to protect Candy's and everyone else's happiness, Miyuki transforms into \"Cure Happy,\" one of the Precure warriors! As Cure Happy, Miyuki is now tasked with finding the other legendary warriors and protecting the world from destruction, all while possibly discovering her very own happy ending.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "Smile Pretty Cure!"
   ],
+  "type": "dublado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -213,5 +253,76 @@
       "url": "https://lightspeedst.net/s4/mp4/smile-precure/sd/40.mp4",
       "nome": "Hot-Blooded! Akane's Treasure Hunting Life!!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-02-05T00:00:00+00:00",
+    "to": "2013-01-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 2,
+        "year": 2012
+      },
+      "to": {
+        "day": 27,
+        "month": 1,
+        "year": 2013
+      }
+    },
+    "string": "Feb 5, 2012 to Jan 27, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.88,
+  "scored_by": 25704,
+  "rank": 5134,
+  "popularity": 3466,
+  "members": 51116,
+  "favorites": 454,
+  "synopsis": "To teenager Miyuki Hoshizora, fairy tales are a world of wondrous encounters and happy endings. Inspired by her love for these stories, she lives every day searching for happiness. While running late on her first day of school as a transfer student, Miyuki meets Candy—a mysterious fairy from the world of fairy tales, Märchenland. However, when Candy disappears as quickly as she appeared, Miyuki is left believing the encounter was only a dream.\n\nAfter an eventful first day, Miyuki finds a mysterious library at school. While combing through the bookshelves, she is transported next to Candy, who claims to be searching for the so-called legendary warriors, Precure. When forced to protect Candy's and everyone else's happiness, Miyuki transforms into \"Cure Happy,\" one of the Precure warriors! As Cure Happy, Miyuki is now tasked with finding the other legendary warriors and protecting the world from destruction, all while possibly discovering her very own happy ending.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1323,
+      "type": "anime",
+      "name": "Saban Brands",
+      "url": "https://myanimelist.net/anime/producer/1323/Saban_Brands"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/76179l.webp",
+  "trailer_url": null,
+  "id": 12191,
+  "slug": "smile-precure-dublado"
 }

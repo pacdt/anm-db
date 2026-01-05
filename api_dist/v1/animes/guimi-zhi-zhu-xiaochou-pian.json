@@ -1,20 +1,62 @@
 {
-  "id": 49818,
-  "slug": "guimi-zhi-zhu-xiaochou-pian",
-  "type": "legendado",
+  "mal_id": 49818,
+  "url": "https://myanimelist.net/anime/49818/Guimi_Zhi_Zhu__Xiaochou_Pian",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1952/149229.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1952/149229t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1952/149229l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1952/149229.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1952/149229t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1952/149229l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/BVP0ld7BB4A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Guimi Zhi Zhu: Xiaochou Pian"
+    },
+    {
+      "type": "Synonym",
+      "title": "Lord of the Mysteries"
+    },
+    {
+      "type": "Synonym",
+      "title": "LOTM"
+    },
+    {
+      "type": "Japanese",
+      "title": "诡秘之主 小丑篇"
+    },
+    {
+      "type": "English",
+      "title": "Lord of Mysteries"
+    }
+  ],
   "title": "Guimi Zhi Zhu: Xiaochou Pian",
   "title_english": "Lord of Mysteries",
   "title_japanese": "诡秘之主 小丑篇",
-  "image": "https://cdn.myanimelist.net/images/anime/1952/149229l.webp",
-  "score": 8.63,
-  "synopsis": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor's edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential...and unspeakable danger.\n\n(Source: Crunchyroll)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/BVP0ld7BB4A?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Mystery",
-    "Suspense"
+  "title_synonyms": [
+    "Lord of the Mysteries",
+    "LOTM"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -81,5 +123,91 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/guimi-zhi-zhu-xiaochou-pian/13/720p.mp4",
       "nome": "Light"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-06-28T00:00:00+00:00",
+    "to": "2025-08-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 6,
+        "year": 2025
+      },
+      "to": {
+        "day": 16,
+        "month": 8,
+        "year": 2025
+      }
+    },
+    "string": "Jun 28, 2025 to Aug 16, 2025"
+  },
+  "duration": "35 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.63,
+  "scored_by": 59320,
+  "rank": 88,
+  "popularity": 1548,
+  "members": 174324,
+  "favorites": 3507,
+  "synopsis": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor's edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential...and unspeakable danger.\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1350,
+      "type": "anime",
+      "name": "B.CMAY PICTURES",
+      "url": "https://myanimelist.net/anime/producer/1350/BCMAY_PICTURES"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Mystery",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1952/149229l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/BVP0ld7BB4A?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49818,
+  "slug": "guimi-zhi-zhu-xiaochou-pian"
 }

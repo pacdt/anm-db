@@ -1,17 +1,63 @@
 {
-  "id": 35821,
-  "slug": "chio-chan-no-tsuugakuro",
-  "type": "legendado",
+  "mal_id": 35821,
+  "url": "https://myanimelist.net/anime/35821/Chio-chan_no_Tsuugakuro",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1073/95042.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1073/95042t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1073/95042l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1073/95042.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1073/95042t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1073/95042l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/gcwaJq9pDYs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "type": "Japanese",
+      "title": "ちおちゃんの通学路"
+    },
+    {
+      "type": "English",
+      "title": "Chio's School Road"
+    },
+    {
+      "type": "German",
+      "title": "Chio's School Road"
+    },
+    {
+      "type": "Spanish",
+      "title": "Chio's School Road"
+    },
+    {
+      "type": "French",
+      "title": "Chio's School Road"
+    }
+  ],
   "title": "Chio-chan no Tsuugakuro",
   "title_english": "Chio's School Road",
   "title_japanese": "ちおちゃんの通学路",
-  "image": "https://cdn.myanimelist.net/images/anime/1073/95042l.webp",
-  "score": 7.45,
-  "synopsis": "For the average Japanese high school student, walking to school can be a chore, but for first-year Chio Miyamo, it's always an adventure. Constantly running late due to her long night sessions playing video games, she is forced to come up with new routes to make it to Samejima Private Academy on time. \n\nOn her many bizarre journeys to school, Chio contends with obstacles like street-blocking detours, overzealous kabaddi players, and befuddled motorcycle gang leaders. But these minor hindrances are no match for the special ops training that Chio, AKA the legendary assassin \"Bloody Butterfly,\" has received from her extensive gaming obsession. Together with her best friends Manana Nonomura and Yuki Hosokawa, Chio will do whatever it takes to avoid her school's harsh penalties for tardiness.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/gcwaJq9pDYs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +119,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyWyAQfy5jxjm9pbqvDrjFES6spUzzRhudw_99zc0tKKgE_OHHa9q00JhS_9CM2wpnSxLLVX4kWqzpxN8u5SmH-uS5ftGIVPCoxSpjOsDk5wu0dvI8GCTOKKUehoXr4oNHFYztb",
       "nome": "Just One Masterful Method / Yuki-chan Bares It All"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-06T00:00:00+00:00",
+    "to": "2018-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2018
+      }
+    },
+    "string": "Jul 6, 2018 to Sep 21, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.45,
+  "scored_by": 54739,
+  "rank": 2260,
+  "popularity": 1972,
+  "members": 127471,
+  "favorites": 448,
+  "synopsis": "For the average Japanese high school student, walking to school can be a chore, but for first-year Chio Miyamo, it's always an adventure. Constantly running late due to her long night sessions playing video games, she is forced to come up with new routes to make it to Samejima Private Academy on time. \n\nOn her many bizarre journeys to school, Chio contends with obstacles like street-blocking detours, overzealous kabaddi players, and befuddled motorcycle gang leaders. But these minor hindrances are no match for the special ops training that Chio, AKA the legendary assassin \"Bloody Butterfly,\" has received from her extensive gaming obsession. Together with her best friends Manana Nonomura and Yuki Hosokawa, Chio will do whatever it takes to avoid her school's harsh penalties for tardiness.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2018,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1073/95042l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/gcwaJq9pDYs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 35821,
+  "slug": "chio-chan-no-tsuugakuro"
 }

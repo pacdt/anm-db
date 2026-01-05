@@ -1,19 +1,59 @@
 {
-  "id": 8986,
-  "slug": "supernatural-the-animation",
-  "type": "legendado",
+  "mal_id": 8986,
+  "url": "https://myanimelist.net/anime/8986/Supernatural_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/37135.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/37135t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/37135l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/37135.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/37135t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/37135l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/VogJgkb8QH0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Supernatural The Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "スーパーナチュラル・ザ・アニメーション"
+    },
+    {
+      "type": "English",
+      "title": "Supernatural: The Anime Series"
+    },
+    {
+      "type": "German",
+      "title": "Supernatural: Die Anime Serie"
+    },
+    {
+      "type": "French",
+      "title": "Supernatural: La Série Animée"
+    }
+  ],
   "title": "Supernatural The Animation",
   "title_english": "Supernatural: The Anime Series",
   "title_japanese": "スーパーナチュラル・ザ・アニメーション",
-  "image": "https://cdn.myanimelist.net/images/anime/8/37135l.webp",
-  "score": 6.95,
-  "synopsis": "Monsters walk the earth. While some may refute their existence as myths or urban legends, the Winchester brothers—Sam and Dean—know all too well what dangers lurk out there in the dark. Driving around in their 1967 Chevrolet Impala, these brothers have made it their life's mission to destroy anything supernatural that would threaten human lives.\n\nFrom shapeshifters to werewolves, vampires, ghosts, and even demons, the Winchesters track down and kill every evil being they can find, while also searching for the creature that caused them so much personal tragedy.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/VogJgkb8QH0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Horror",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -103,5 +143,91 @@
       "numero": 22,
       "url": "https://lightspeedst.net/s3/mp4/supernatural-the-animation/sd/22.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-02-23T00:00:00+00:00",
+    "to": "2011-04-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 2,
+        "year": 2011
+      },
+      "to": {
+        "day": 27,
+        "month": 4,
+        "year": 2011
+      }
+    },
+    "string": "Feb 23, 2011 to Apr 27, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.95,
+  "scored_by": 10995,
+  "rank": 4776,
+  "popularity": 4289,
+  "members": 34186,
+  "favorites": 82,
+  "synopsis": "Monsters walk the earth. While some may refute their existence as myths or urban legends, the Winchester brothers—Sam and Dean—know all too well what dangers lurk out there in the dark. Driving around in their 1967 Chevrolet Impala, these brothers have made it their life's mission to destroy anything supernatural that would threaten human lives.\n\nFrom shapeshifters to werewolves, vampires, ghosts, and even demons, the Winchesters track down and kill every evil being they can find, while also searching for the creature that caused them so much personal tragedy.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1889,
+      "type": "anime",
+      "name": "Warner Bros. Pictures",
+      "url": "https://myanimelist.net/anime/producer/1889/Warner_Bros_Pictures"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/37135l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/VogJgkb8QH0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 8986,
+  "slug": "supernatural-the-animation"
 }

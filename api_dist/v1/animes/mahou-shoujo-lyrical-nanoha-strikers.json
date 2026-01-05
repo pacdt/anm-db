@@ -1,19 +1,57 @@
 {
-  "id": 1915,
-  "slug": "mahou-shoujo-lyrical-nanoha-strikers",
-  "type": "legendado",
+  "mal_id": 1915,
+  "url": "https://myanimelist.net/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/14190.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/14190t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/14190l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/14190.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/14190t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/14190l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mahou Shoujo Lyrical Nanoha StrikerS"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nanoha Season 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔法少女リリカルなのはStrikerS"
+    },
+    {
+      "type": "English",
+      "title": "Magical Girl Lyrical Nanoha StrikerS"
+    }
+  ],
   "title": "Mahou Shoujo Lyrical Nanoha StrikerS",
   "title_english": "Magical Girl Lyrical Nanoha StrikerS",
   "title_japanese": "魔法少女リリカルなのはStrikerS",
-  "image": "https://cdn.myanimelist.net/images/anime/3/14190l.webp",
-  "score": 7.61,
-  "synopsis": "Distinguished mages Nanoha Takamachi, Fate Testarossa, and Hayate Yagami now work as military personnel for the Time-Space Administration Bureau on the planet Midchilda, having completed their studies on Earth in the last ten years since the \"Book of Darkness\" incident.\n\nOne day, the three end up helping the Bureau respond to a severe airport fire, but their efforts are left unrecognized. A series of unfortunate events motivate Hayate to create the elite unit Riot Force 6, which handles cases involving public safety as well as dangerous magical objects known as Lost Logia. There the trio works alongside promising recruits Subaru Nakajima, Teana Lanster, Caro Ru Lushe, and Erio Mondial, who endure difficult training to fulfill expectations while overcoming hurdles and achieving personal goals.\n\nHowever, carrying out their mission proves to be a constant struggle. Battling foes who exploit the Lost Logia and facing criticisms from within the Bureau, Riot Force 6 quickly finds itself stretched thin.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Drama"
+  "title_synonyms": [
+    "Nanoha Season 3"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +183,97 @@
       "url": "https://lightspeedst.net/s3/mp4/mahou-shoujo-lyrical-nanoha-strikers/sd/26.mp4",
       "nome": "Toward The Promised Skies"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-02T00:00:00+00:00",
+    "to": "2007-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 2, 2007 to Sep 24, 2007"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.61,
+  "scored_by": 27291,
+  "rank": 1643,
+  "popularity": 3290,
+  "members": 56026,
+  "favorites": 573,
+  "synopsis": "Distinguished mages Nanoha Takamachi, Fate Testarossa, and Hayate Yagami now work as military personnel for the Time-Space Administration Bureau on the planet Midchilda, having completed their studies on Earth in the last ten years since the \"Book of Darkness\" incident.\n\nOne day, the three end up helping the Bureau respond to a severe airport fire, but their efforts are left unrecognized. A series of unfortunate events motivate Hayate to create the elite unit Riot Force 6, which handles cases involving public safety as well as dangerous magical objects known as Lost Logia. There the trio works alongside promising recruits Subaru Nakajima, Teana Lanster, Caro Ru Lushe, and Erio Mondial, who endure difficult training to fulfill expectations while overcoming hurdles and achieving personal goals.\n\nHowever, carrying out their mission proves to be a constant struggle. Battling foes who exploit the Lost Logia and facing criticisms from within the Bureau, Riot Force 6 quickly finds itself stretched thin.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 171,
+      "type": "anime",
+      "name": "A-Line",
+      "url": "https://myanimelist.net/anime/producer/171/A-Line"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Seven Arcs",
+      "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/14190l.webp",
+  "trailer_url": null,
+  "id": 1915,
+  "slug": "mahou-shoujo-lyrical-nanoha-strikers"
 }

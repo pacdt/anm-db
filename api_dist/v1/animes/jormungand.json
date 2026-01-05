@@ -1,18 +1,51 @@
 {
-  "id": 12413,
-  "slug": "jormungand",
-  "type": "legendado",
+  "mal_id": 12413,
+  "url": "https://myanimelist.net/anime/12413/Jormungand",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/73280.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73280t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73280l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/73280.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73280t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73280l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/vICtI_aYz4I?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jormungand"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヨルムンガンド"
+    },
+    {
+      "type": "English",
+      "title": "Jormungand"
+    }
+  ],
   "title": "Jormungand",
   "title_english": "Jormungand",
   "title_japanese": "ヨルムンガンド",
-  "image": "https://cdn.myanimelist.net/images/anime/11/73280l.webp",
-  "score": 7.79,
-  "synopsis": "Brought up in a conflict-ridden environment, child soldier Jonathan \"Jonah\" Mar hates weapons and those who deal them. But when Koko Hekmatyar, an international arms dealer, takes on Jonah as one of her bodyguards, he has little choice but to take up arms. Along with Koko's other bodyguards, composed mostly of former special-ops soldiers, Jonah is now tasked with protecting Koko and her overly idealistic goal of world peace from the countless dangers that come from her line of work.\n\nJormungand follows Koko, Jonah, and the rest of crew as they travel the world selling weapons under the international shipping company HCLI. As Koko's work is illegal under international law, she is forced to constantly sidestep both local and international authorities while doing business with armies, private militaries, and militias. With the CIA always hot on her trail, and assassins around every corner, Jonah and the crew must guard Koko and her dream of world peace with their lives or die trying.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/vICtI_aYz4I?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwWO3MgirrL3WbTD03Q61Ws5fkVGJhuSlctBY3RVIlH9wowk0yUHPLfkBmHmGwrlQ8BcmMkQaR9O_eXbth7wUwHBt2vOSkAUvvCaqIP_htZoxjSQEYu2suMuVQJcoCzyJaPZTwx",
       "nome": "The Hill of Ruin (Phase 2)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-11T00:00:00+00:00",
+    "to": "2012-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2012
+      }
+    },
+    "string": "Apr 11, 2012 to Jun 27, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.79,
+  "scored_by": 161442,
+  "rank": 1126,
+  "popularity": 677,
+  "members": 391381,
+  "favorites": 3268,
+  "synopsis": "Brought up in a conflict-ridden environment, child soldier Jonathan \"Jonah\" Mar hates weapons and those who deal them. But when Koko Hekmatyar, an international arms dealer, takes on Jonah as one of her bodyguards, he has little choice but to take up arms. Along with Koko's other bodyguards, composed mostly of former special-ops soldiers, Jonah is now tasked with protecting Koko and her overly idealistic goal of world peace from the countless dangers that come from her line of work.\n\nJormungand follows Koko, Jonah, and the rest of crew as they travel the world selling weapons under the international shipping company HCLI. As Koko's work is illegal under international law, she is forced to constantly sidestep both local and international authorities while doing business with armies, private militaries, and militias. With the CIA always hot on her trail, and assassins around every corner, Jonah and the crew must guard Koko and her dream of world peace with their lives or die trying.\n\n[Written by MAL Rewrite]",
+  "background": "Jormungand was released on Blu-ray and DVD in six volumes from June 27, 2012, to November 28, 2012.",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Geneon Universal Entertainment",
+      "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 314,
+      "type": "anime",
+      "name": "White Fox",
+      "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 68,
+      "type": "anime",
+      "name": "Organized Crime",
+      "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/73280l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/vICtI_aYz4I?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 12413,
+  "slug": "jormungand"
 }

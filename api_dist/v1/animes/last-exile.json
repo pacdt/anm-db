@@ -1,19 +1,51 @@
 {
-  "id": 97,
-  "slug": "last-exile",
-  "type": "legendado",
+  "mal_id": 97,
+  "url": "https://myanimelist.net/anime/97/Last_Exile",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/10888.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/10888t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/10888l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/10888.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/10888t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/10888l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/SQYDIG4g9ik?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Last Exile"
+    },
+    {
+      "type": "Japanese",
+      "title": "LAST EXILE（ラストエグザイル）"
+    },
+    {
+      "type": "English",
+      "title": "Last Exile"
+    }
+  ],
   "title": "Last Exile",
   "title_english": "Last Exile",
   "title_japanese": "LAST EXILE（ラストエグザイル）",
-  "image": "https://cdn.myanimelist.net/images/anime/7/10888l.webp",
-  "score": 7.78,
-  "synopsis": "In the world of Prester, flight is the dominant mode of transportation, made possible by Claudia Fluid: a liquidized form of the crystals that are produced on the planet. An organization known solely as \"the Guild\" has absolute authority over the skies, with a monopoly on the engines that make use of this fluid. Moreover, as ecological disasters destabilize the warring countries of Anatoray and Disith, the Guild also arbitrates in the disputes between the two. Caught in the middle of the conflict are Sky Couriers, piloting small, two-person vanships that fly freely through the sky.\n\nLast Exile follows the adventures of two teenagers who dream of surpassing their parents: Claus Valca, son of a famous vanship pilot, and Lavie Head, Claus' best friend and navigator. Their job as couriers entails passing through an air current called the Grand Stream that separates the hostile nations, which even standard airships struggle to survive. However, when they take on a high-rated delivery to bring an orphan girl named Alvis Hamilton to the battleship Silvana, they get dragged into a much greater conflict that pits them against the might of the Guild.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/SQYDIG4g9ik?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +177,96 @@
       "url": "https://lightspeedst.net/s3/mp4/last-exile/sd/26.mp4",
       "nome": "Resign"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-04-08T00:00:00+00:00",
+    "to": "2003-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2003
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2003
+      }
+    },
+    "string": "Apr 8, 2003 to Sep 30, 2003"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.78,
+  "scored_by": 73606,
+  "rank": 1141,
+  "popularity": 1458,
+  "members": 185303,
+  "favorites": 1932,
+  "synopsis": "In the world of Prester, flight is the dominant mode of transportation, made possible by Claudia Fluid: a liquidized form of the crystals that are produced on the planet. An organization known solely as \"the Guild\" has absolute authority over the skies, with a monopoly on the engines that make use of this fluid. Moreover, as ecological disasters destabilize the warring countries of Anatoray and Disith, the Guild also arbitrates in the disputes between the two. Caught in the middle of the conflict are Sky Couriers, piloting small, two-person vanships that fly freely through the sky.\n\nLast Exile follows the adventures of two teenagers who dream of surpassing their parents: Claus Valca, son of a famous vanship pilot, and Lavie Head, Claus' best friend and navigator. Their job as couriers entails passing through an air current called the Grand Stream that separates the hostile nations, which even standard airships struggle to survive. However, when they take on a high-rated delivery to bring an orphan girl named Alvis Hamilton to the battleship Silvana, they get dragged into a much greater conflict that pits them against the might of the Guild.\n\n[Written by MAL Rewrite]",
+  "background": "Last Exile is the 10th anniversary work of animation studio Gonzo. Its episode titles were originally given in English and use terms from chess.",
+  "season": "spring",
+  "year": 2003,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "GDH",
+      "url": "https://myanimelist.net/anime/producer/42/GDH"
+    },
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/10888l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/SQYDIG4g9ik?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 97,
+  "slug": "last-exile"
 }

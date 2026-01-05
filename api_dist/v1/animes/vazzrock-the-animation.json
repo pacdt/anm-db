@@ -1,15 +1,51 @@
 {
-  "id": 43771,
-  "slug": "vazzrock-the-animation",
-  "type": "legendado",
+  "mal_id": 43771,
+  "url": "https://myanimelist.net/anime/43771/Vazzrock_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1488/127334.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1488/127334t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1488/127334l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1488/127334.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1488/127334t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1488/127334l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/OcN0l1qDsHk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Vazzrock The Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "VAZZROCK THE ANIMATION"
+    },
+    {
+      "type": "English",
+      "title": "Vazzrock the Animation"
+    }
+  ],
   "title": "Vazzrock The Animation",
   "title_english": "Vazzrock the Animation",
   "title_japanese": "VAZZROCK THE ANIMATION",
-  "image": "https://cdn.myanimelist.net/images/anime/1488/127334l.webp",
-  "score": 5.45,
-  "synopsis": "VAZZY and ROCK DOWN are the two units that make up Tsukino Talent Production's all-male VAZZROCK group. Led by Takaaki Mamiya and Shou Onoda respectively, both units announce via a round-table livestream that they are working hard to prepare for the upcoming VAZZROCK Live Flawless event. From taking extra dancing and singing lessons to starring in a TV period drama, these 12 idols must give it their all as they work toward a spectacular show that will impress their fans.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/OcN0l1qDsHk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Music",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +112,73 @@
       "url": "https://lightspeedst.net/s5/mp4/vazzrock-the-animation/fhd/13.mp4",
       "nome": "Your Jewelry"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-05T00:00:00+00:00",
+    "to": "2022-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 5, 2022 to Dec 28, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.45,
+  "scored_by": 1295,
+  "rank": 12879,
+  "popularity": 7971,
+  "members": 7510,
+  "favorites": 29,
+  "synopsis": "VAZZY and ROCK DOWN are the two units that make up Tsukino Talent Production's all-male VAZZROCK group. Led by Takaaki Mamiya and Shou Onoda respectively, both units announce via a round-table livestream that they are working hard to prepare for the upcoming VAZZROCK Live Flawless event. From taking extra dancing and singing lessons to starring in a TV period drama, these 12 idols must give it their all as they work toward a spectacular show that will impress their fans.\n\n[Written by MAL Rewrite]",
+  "background": "Vazzrock The Animation was released on Blu-ray in seven volumes by Movic from January 27, 2023 to July 28, 2023.",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 753,
+      "type": "anime",
+      "name": "PRA",
+      "url": "https://myanimelist.net/anime/producer/753/PRA"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1488/127334l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/OcN0l1qDsHk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 43771,
+  "slug": "vazzrock-the-animation"
 }

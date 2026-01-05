@@ -1,20 +1,57 @@
 {
-  "id": 7,
-  "slug": "witch-hunter-robin",
-  "type": "legendado",
+  "mal_id": 7,
+  "url": "https://myanimelist.net/anime/7/Witch_Hunter_Robin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/19969.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19969t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/19969.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/19969t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/19969l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Witch Hunter Robin"
+    },
+    {
+      "type": "Synonym",
+      "title": "WHR"
+    },
+    {
+      "type": "Japanese",
+      "title": "Witch Hunter ROBIN (ウイッチハンターロビン)"
+    },
+    {
+      "type": "English",
+      "title": "Witch Hunter Robin"
+    }
+  ],
   "title": "Witch Hunter Robin",
   "title_english": "Witch Hunter Robin",
   "title_japanese": "Witch Hunter ROBIN (ウイッチハンターロビン)",
-  "image": "https://cdn.myanimelist.net/images/anime/10/19969l.webp",
-  "score": 7.23,
-  "synopsis": "Though hidden away from the general public, Witches—those with supernatural powers—have always existed in human societies. Neither numerous nor inherently evil, Witches are nonetheless capable of creating disorder by misusing their powers for criminal means. The task of solving supernatural crimes falls outside of the jurisdiction of normal authorities and is instead handled by the Solomon organization.\n\nHaving finished her training in Italy, Robin Sena transfers to Solomon's local Japanese branch, STNJ. Possessing powerful pyrokinetic abilities, she is herself a Witch, putting her at odds with STNJ's methods of dealing with rogue Witches. In particular, Robin opposes the use of an elixir called Orbo, which can weaken or even neutralize a Witch's powers. If Robin wants to find her place within the organization, she must find a way to navigate the internal politics of Solomon while also handling the threat of hostile Witches—but both seem to be dangerous for very different reasons.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Mystery",
-    "Supernatural"
+  "title_synonyms": [
+    "WHR"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -146,5 +183,104 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwUNkTQHNJiD8DggIrghRu4bDpt6hPRlVakNcvVHKWuTBYXMiQZ4S6RcOvZHws4WgbvEiGMF80gb0zbdmgi4tM1m23NSrULIW1kxQuoJkui3M0LDCsCZtRzhcSFIjhSd2w3",
       "nome": "Time to Tell"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-07-03T00:00:00+00:00",
+    "to": "2002-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2002
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2002
+      }
+    },
+    "string": "Jul 3, 2002 to Dec 25, 2002"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.23,
+  "scored_by": 45953,
+  "rank": 3373,
+  "popularity": 1985,
+  "members": 126724,
+  "favorites": 692,
+  "synopsis": "Though hidden away from the general public, Witches—those with supernatural powers—have always existed in human societies. Neither numerous nor inherently evil, Witches are nonetheless capable of creating disorder by misusing their powers for criminal means. The task of solving supernatural crimes falls outside of the jurisdiction of normal authorities and is instead handled by the Solomon organization.\n\nHaving finished her training in Italy, Robin Sena transfers to Solomon's local Japanese branch, STNJ. Possessing powerful pyrokinetic abilities, she is herself a Witch, putting her at odds with STNJ's methods of dealing with rogue Witches. In particular, Robin opposes the use of an elixir called Orbo, which can weaken or even neutralize a Witch's powers. If Robin wants to find her place within the organization, she must find a way to navigate the internal politics of Solomon while also handling the threat of hostile Witches—but both seem to be dangerous for very different reasons.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2002,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/19969l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 7,
+  "slug": "witch-hunter-robin"
 }

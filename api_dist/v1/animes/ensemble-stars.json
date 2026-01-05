@@ -1,15 +1,53 @@
 {
-  "id": 32212,
-  "slug": "ensemble-stars",
-  "type": "legendado",
+  "mal_id": 32212,
+  "url": "https://myanimelist.net/anime/32212/Ensemble_Stars",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1804/107203.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1804/107203t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1804/107203l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1804/107203.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1804/107203t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1804/107203l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/cOG0gLHhOUM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ensemble Stars!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Enstars"
+    },
+    {
+      "type": "Japanese",
+      "title": "あんさんぶるスターズ！"
+    }
+  ],
   "title": "Ensemble Stars!",
   "title_english": "Ensemble Stars!",
   "title_japanese": "あんさんぶるスターズ！",
-  "image": "https://cdn.myanimelist.net/images/anime/1804/107203l.webp",
-  "score": 6.93,
-  "synopsis": "Yumenosaki Academy has been home to the best boy idols of different generations. Holding immense influence over the school, its student council maintains the status quo by enforcing old traditions with an iron fist. Transfer student Anzu winds up attending as the very first member in the production course, making her the sole female student in the entire school. There, she meets Subaru Akehoshi, Hokuto Hidaka, Mao Isara, and Makoto Yuuki—her classmates and members of the idol unit \"Trickstar.\" \n\nThe academy holds Dream Idol Festivals—stage battles that put its students' singing and dancing skills against each other, with the audience voting on the winner. Winning these \"DreFes\" guarantees the members of the idol unit various privileges and prestige. However, with the student council intervening and punishing everyone involved in an unsanctioned DreFes, the members of Trickstar find that they can no longer sit around and let it continue. Alongside Anzu as their producer, they plot to become the revolutionaries of the academy.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/cOG0gLHhOUM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [],
+  "title_synonyms": [
+    "Enstars"
+  ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -101,5 +139,111 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx9RNDUjrAylQTPn8Q0CoqNETs1oHcAGlp2NnP82V_3xgI9hqdKObMx6Xc5EJkV7dBkE4HfG-nLC6geee5Zyjbi1skqX90tEd0L9tswtTnRWdVVOG3AU3xNHDFJ2s1wqbQzYdo",
       "nome": "Judgment"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-07T00:00:00+00:00",
+    "to": "2019-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2019
+      }
+    },
+    "string": "Jul 7, 2019 to Dec 22, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.93,
+  "scored_by": 14221,
+  "rank": 4865,
+  "popularity": 3435,
+  "members": 52096,
+  "favorites": 683,
+  "synopsis": "Yumenosaki Academy has been home to the best boy idols of different generations. Holding immense influence over the school, its student council maintains the status quo by enforcing old traditions with an iron fist. Transfer student Anzu winds up attending as the very first member in the production course, making her the sole female student in the entire school. There, she meets Subaru Akehoshi, Hokuto Hidaka, Mao Isara, and Makoto Yuuki—her classmates and members of the idol unit \"Trickstar.\" \n\nThe academy holds Dream Idol Festivals—stage battles that put its students' singing and dancing skills against each other, with the audience voting on the winner. Winning these \"DreFes\" guarantees the members of the idol unit various privileges and prestige. However, with the student council intervening and punishing everyone involved in an unsanctioned DreFes, the members of Trickstar find that they can no longer sit around and let it continue. Alongside Anzu as their producer, they plot to become the revolutionaries of the academy.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 1793,
+      "type": "anime",
+      "name": "Happy Elements",
+      "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1804/107203l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/cOG0gLHhOUM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32212,
+  "slug": "ensemble-stars"
 }

@@ -1,20 +1,55 @@
 {
-  "id": 419,
-  "slug": "samurai-deeper-kyou",
-  "type": "legendado",
+  "mal_id": 419,
+  "url": "https://myanimelist.net/anime/419/Samurai_Deeper_Kyou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1376/147349.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/147349t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/147349l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1376/147349.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/147349t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/147349l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Samurai Deeper Kyou"
+    },
+    {
+      "type": "Japanese",
+      "title": "SAMURAI DEEPER KYO"
+    },
+    {
+      "type": "English",
+      "title": "Samurai Deeper Kyo"
+    },
+    {
+      "type": "French",
+      "title": "Samurai Deeper Kyo"
+    }
+  ],
   "title": "Samurai Deeper Kyou",
   "title_english": "Samurai Deeper Kyo",
   "title_japanese": "SAMURAI DEEPER KYO",
-  "image": "https://cdn.myanimelist.net/images/anime/1376/147349l.webp",
-  "score": 6.88,
-  "synopsis": "In the year 1600, at the fog-covered battlefield of Sekigahara, a fierce battle was waged by two exemplary swordsmen. One was Kyoushirou Mibu, a skilled and noble warrior in possession of the unique powers of the Mibu Clan. The other was the thousand-man slayer, with eyes and hair the color of blood, \"Demon Eyes\" Kyou. Their legendary clash was cut short when a meteor from the heavens fell down upon that battlefield, leaving both to vanish in its wake.\n\nSamurai Deeper Kyou begins four years after that battle, when a gun-wielding bounty hunter by the name of Yuya Shiina hunts down Kyoushirou—now a perverted, traveling medicine-man who has built up a large debt. On her way to claim his bounty, they are attacked by an inhuman monster that seeks to devour Kyoushirou. This encounter awakens \"Demon Eyes\" Kyou, whose mind has been trapped inside of Kyoushirou's body ever since that fateful battle. Thus begins a grand tale of legendary two swordsmen and the discovery of their secrets.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -146,5 +181,105 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyDzfuJGL5O5Uc_RHuf9IuXMfW6HkWatniCR-FhsG4V_7tXkwIeSgx8cgYVMS0q21uVDtHxOgu9oo-UbBLrBj2cQO5vpAyBw0HG0NBrN9UdCh9El4So85InkAcXIVx6VM8IYuY",
       "nome": "The Ballad of the Samurai"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-07-02T00:00:00+00:00",
+    "to": "2002-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2002
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2002
+      }
+    },
+    "string": "Jul 2, 2002 to Dec 24, 2002"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.88,
+  "scored_by": 27330,
+  "rank": 5127,
+  "popularity": 3176,
+  "members": 59582,
+  "favorites": 206,
+  "synopsis": "In the year 1600, at the fog-covered battlefield of Sekigahara, a fierce battle was waged by two exemplary swordsmen. One was Kyoushirou Mibu, a skilled and noble warrior in possession of the unique powers of the Mibu Clan. The other was the thousand-man slayer, with eyes and hair the color of blood, \"Demon Eyes\" Kyou. Their legendary clash was cut short when a meteor from the heavens fell down upon that battlefield, leaving both to vanish in its wake.\n\nSamurai Deeper Kyou begins four years after that battle, when a gun-wielding bounty hunter by the name of Yuya Shiina hunts down Kyoushirou—now a perverted, traveling medicine-man who has built up a large debt. On her way to claim his bounty, they are attacked by an inhuman monster that seeks to devour Kyoushirou. This encounter awakens \"Demon Eyes\" Kyou, whose mind has been trapped inside of Kyoushirou's body ever since that fateful battle. Thus begins a grand tale of legendary two swordsmen and the discovery of their secrets.",
+  "background": "",
+  "season": "summer",
+  "year": 2002,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    },
+    {
+      "mal_id": 595,
+      "type": "anime",
+      "name": "NYAV Post",
+      "url": "https://myanimelist.net/anime/producer/595/NYAV_Post"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1376/147349l.webp",
+  "trailer_url": null,
+  "id": 419,
+  "slug": "samurai-deeper-kyou"
 }

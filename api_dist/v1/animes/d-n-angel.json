@@ -1,20 +1,62 @@
 {
-  "id": 61,
-  "slug": "d-n-angel",
-  "type": "legendado",
+  "mal_id": 61,
+  "url": "https://myanimelist.net/anime/61/DNAngel",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1126/98904.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1126/98904t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1126/98904l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1126/98904.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1126/98904t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1126/98904l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/u41_Wclv2GE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "D.N.Angel"
+    },
+    {
+      "type": "Synonym",
+      "title": "DN Angel"
+    },
+    {
+      "type": "Synonym",
+      "title": "DNAngel"
+    },
+    {
+      "type": "Japanese",
+      "title": "Ｄ・Ｎ・ＡＮＧＥＬ"
+    },
+    {
+      "type": "English",
+      "title": "D.N.Angel"
+    }
+  ],
   "title": "D.N.Angel",
   "title_english": "D.N.Angel",
   "title_japanese": "Ｄ・Ｎ・ＡＮＧＥＬ",
-  "image": "https://cdn.myanimelist.net/images/anime/1126/98904l.webp",
-  "score": 7.15,
-  "synopsis": "Daisuke Niwa is a clumsy, block-headed, and wimpy middle school student who has few redeeming qualities. On his 14th birthday, he finally decides to confess his love to his longtime crush Risa Harada, but is rejected. \n\nIn an unexpected turn of events, however, Daisuke finds himself transforming into Dark Mousy, the infamous phantom thief, whenever his mind is set on Risa. Though Daisuke is unaware of this strange heritage, his mother is certainly not: since before the boy was born, his mother had been planning for him to steal valuable works of art and let the name of the elusive art thief be known.\n\nWith doubt and confusion constantly clouding his mind, Daisuke finds himself struggling in his relationships with classmates and family. And it is not long before Daisuke realizes that he is not the only one with a fated family legacy—his greatest adversary could be the one classmate he is most unwilling to fight. \n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/u41_Wclv2GE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "DN Angel",
+    "DNAngel"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -146,5 +188,99 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz5o4kuMzDJ7dbwBKXvbxiJSqQ6nxGtQiyIvvT-_tH0kCzrbXHlLtH9GRPaeb0xPYP37FrTsXhFY9ekYkC-LTobEJbhwxS2lcMnncKF3TSVn8AJo9gTdV3dWOVvxeWcOge3GONW",
       "nome": "Eternal Dark"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-04-03T00:00:00+00:00",
+    "to": "2003-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2003
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2003
+      }
+    },
+    "string": "Apr 3, 2003 to Sep 25, 2003"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.15,
+  "scored_by": 101038,
+  "rank": 3815,
+  "popularity": 1422,
+  "members": 190721,
+  "favorites": 1296,
+  "synopsis": "Daisuke Niwa is a clumsy, block-headed, and wimpy middle school student who has few redeeming qualities. On his 14th birthday, he finally decides to confess his love to his longtime crush Risa Harada, but is rejected. \n\nIn an unexpected turn of events, however, Daisuke finds himself transforming into Dark Mousy, the infamous phantom thief, whenever his mind is set on Risa. Though Daisuke is unaware of this strange heritage, his mother is certainly not: since before the boy was born, his mother had been planning for him to steal valuable works of art and let the name of the elusive art thief be known.\n\nWith doubt and confusion constantly clouding his mind, Daisuke finds himself struggling in his relationships with classmates and family. And it is not long before Daisuke realizes that he is not the only one with a fated family legacy—his greatest adversary could be the one classmate he is most unwilling to fight. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2003,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1126/98904l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/u41_Wclv2GE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 61,
+  "slug": "d-n-angel"
 }

@@ -1,17 +1,51 @@
 {
-  "id": 59360,
-  "slug": "rock-wa-lady-no-tashinami-deshite",
-  "type": "legendado",
+  "mal_id": 59360,
+  "url": "https://myanimelist.net/anime/59360/Rock_wa_Lady_no_Tashinami_deshite",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1781/150071.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1781/150071t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1781/150071l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1781/150071.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1781/150071t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1781/150071l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/aqoJPh1uk74?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Rock wa Lady no Tashinami deshite"
+    },
+    {
+      "type": "Japanese",
+      "title": "ロックは淑女の嗜みでして"
+    },
+    {
+      "type": "English",
+      "title": "Rock Is a Lady's Modesty"
+    }
+  ],
   "title": "Rock wa Lady no Tashinami deshite",
   "title_english": "Rock Is a Lady's Modesty",
   "title_japanese": "ロックは淑女の嗜みでして",
-  "image": "https://cdn.myanimelist.net/images/anime/1781/150071l.webp",
-  "score": 7.9,
-  "synopsis": "Oushin Girls' Academy is a respected institution reserved only for wealthy young ladies. Very few of its students excel enough to earn the title of Noble Maiden, awarded to those who embody the ideal Japanese woman of culture and refinement. Lilisa Suzunomiya, a girl of common roots, has suddenly found herself as the daughter of a newly remarried real estate mogul and seeks to become a Noble Maiden to prove that commoners like her can be noble as well.\n\nThe most difficult challenge Lilisa has faced in pursuit of this goal is abandoning her love of rock music to keep up the rich girl facade she must now wear. But her resolve crumbles once she happens upon Otoha Kurogane, the daughter of a prominent politician, skillfully playing the drums while rocking out in an abandoned school building. Despite initially being at odds, they embrace their passion for music together while leading a double life.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/aqoJPh1uk74?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +112,132 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/rock-wa-lady-no-tashinami-deshite/13/720p.mp4",
       "nome": "Rock Lady"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-03T00:00:00+00:00",
+    "to": "2025-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2025
+      }
+    },
+    "string": "Apr 3, 2025 to Jun 26, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.9,
+  "scored_by": 28844,
+  "rank": 881,
+  "popularity": 2794,
+  "members": 75112,
+  "favorites": 505,
+  "synopsis": "Oushin Girls' Academy is a respected institution reserved only for wealthy young ladies. Very few of its students excel enough to earn the title of Noble Maiden, awarded to those who embody the ideal Japanese woman of culture and refinement. Lilisa Suzunomiya, a girl of common roots, has suddenly found herself as the daughter of a newly remarried real estate mogul and seeks to become a Noble Maiden to prove that commoners like her can be noble as well.\n\nThe most difficult challenge Lilisa has faced in pursuit of this goal is abandoning her love of rock music to keep up the rich girl facade she must now wear. But her resolve crumbles once she happens upon Otoha Kurogane, the daughter of a prominent politician, skillfully playing the drums while rocking out in an abandoned school building. Despite initially being at odds, they embrace their passion for music together while leading a double life.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:56",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:56 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 148,
+      "type": "anime",
+      "name": "Hakusensha",
+      "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 1817,
+      "type": "anime",
+      "name": "Rakuten",
+      "url": "https://myanimelist.net/anime/producer/1817/Rakuten"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1781/150071l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/aqoJPh1uk74?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59360,
+  "slug": "rock-wa-lady-no-tashinami-deshite"
 }

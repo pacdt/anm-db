@@ -1,19 +1,51 @@
 {
-  "id": 5682,
-  "slug": "phantom-requiem-for-the-phantom",
-  "type": "legendado",
+  "mal_id": 5682,
+  "url": "https://myanimelist.net/anime/5682/Phantom__Requiem_for_the_Phantom",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/22470.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/22470t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/22470l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/22470.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/22470t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/22470l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/4omZ0Hkn1lU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Phantom: Requiem for the Phantom"
+    },
+    {
+      "type": "Japanese",
+      "title": "Phantom 〜Requiem for the Phantom〜"
+    },
+    {
+      "type": "English",
+      "title": "Phantom: Requiem for the Phantom"
+    }
+  ],
   "title": "Phantom: Requiem for the Phantom",
   "title_english": "Phantom: Requiem for the Phantom",
   "title_japanese": "Phantom 〜Requiem for the Phantom〜",
-  "image": "https://cdn.myanimelist.net/images/anime/8/22470l.webp",
-  "score": 7.91,
-  "synopsis": "Mafia is rife in America where assassinations are a regular occurrence on the streets. Inferno, a mysterious company, is behind most of these dealings through the use of their near-invincible human weapon, \"Phantom.\"\n\nOne day, a Japanese tourist accidentally witnesses Phantom's latest murder. Desperate to escape, the tourist hides in a secluded building. However, Phantom, revealed to be a young woman named Ein, and the leader of Inferno \"Scythe Master\" captures the tourist and brainwashes him.\n\nGiven the name \"Zwei,\" this once peaceful tourist is now a puppet of Inferno with no memories. Drawn into a world of lies, deceit, and violence, Zwei must fight to survive, hopefully to one day regain his memories and escape from this world where he is constantly on the brink of death.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/4omZ0Hkn1lU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Suspense"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +177,103 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dynvqCfGm4fCNoOrL_fXIQQnmKILzyBksvvnlRz5NoyG_q8fq3zY_sodX2_EH45uc1GW0ucCua3bPL7yrmWv0Ff0xOil8e8rFyOd0KTY7btZaUCYO7jy9UWp6h_ijkPwSj1uWix",
       "nome": "Eren"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-04-03T00:00:00+00:00",
+    "to": "2009-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2009
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2009
+      }
+    },
+    "string": "Apr 3, 2009 to Sep 25, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.91,
+  "scored_by": 130337,
+  "rank": 863,
+  "popularity": 756,
+  "members": 352996,
+  "favorites": 4586,
+  "synopsis": "Mafia is rife in America where assassinations are a regular occurrence on the streets. Inferno, a mysterious company, is behind most of these dealings through the use of their near-invincible human weapon, \"Phantom.\"\n\nOne day, a Japanese tourist accidentally witnesses Phantom's latest murder. Desperate to escape, the tourist hides in a secluded building. However, Phantom, revealed to be a young woman named Ein, and the leader of Inferno \"Scythe Master\" captures the tourist and brainwashes him.\n\nGiven the name \"Zwei,\" this once peaceful tourist is now a puppet of Inferno with no memories. Drawn into a world of lies, deceit, and violence, Zwei must fight to survive, hopefully to one day regain his memories and escape from this world where he is constantly on the brink of death.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Bee Train",
+      "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 68,
+      "type": "anime",
+      "name": "Organized Crime",
+      "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/22470l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/4omZ0Hkn1lU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 5682,
+  "slug": "phantom-requiem-for-the-phantom"
 }

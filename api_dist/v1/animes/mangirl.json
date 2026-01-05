@@ -1,17 +1,47 @@
 {
-  "id": 14045,
-  "slug": "mangirl",
-  "type": "legendado",
+  "mal_id": 14045,
+  "url": "https://myanimelist.net/anime/14045/Mangirl",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/45314.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/45314t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/45314l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/45314.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/45314t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/45314l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mangirl!"
+    },
+    {
+      "type": "Japanese",
+      "title": "まんがーる!"
+    }
+  ],
   "title": "Mangirl!",
   "title_english": "Mangirl!",
   "title_japanese": "まんがーる!",
-  "image": "https://cdn.myanimelist.net/images/anime/6/45314l.webp",
-  "score": 5.81,
-  "synopsis": "\"We're going to launch a manga magazine!\" \n\nA team of girls with zero experience in manga editing are off and running toward their dream of creating the biggest manga magazine in Japan! They seem to do nothing but run into problems and failures... But still they're working hard every day!\n\n(Source: Crunchyroll)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +108,82 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyW5cCaQGq0zwnYfa1kPjX2lge3M7ipK9Zf5GCXF5A7EDnILCB5oD_23OfEx63WGIZjKmG_rUfDpoKfoKh-kzDFyhnOeh99lPYrHzWnZipFmMuLQ7L16NaCvOna67XQb6TlL1g",
       "nome": "It's Anime Time"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-01-03T00:00:00+00:00",
+    "to": "2013-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 1,
+        "year": 2013
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2013
+      }
+    },
+    "string": "Jan 3, 2013 to Mar 28, 2013"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.81,
+  "scored_by": 15275,
+  "rank": 11446,
+  "popularity": 4249,
+  "members": 34797,
+  "favorites": 16,
+  "synopsis": "\"We're going to launch a manga magazine!\" \n\nA team of girls with zero experience in manga editing are off and running toward their dream of creating the biggest manga magazine in Japan! They seem to do nothing but run into problems and failures... But still they're working hard every day!\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "winter",
+  "year": 2013,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 925,
+      "type": "anime",
+      "name": "Earth Star Entertainment",
+      "url": "https://myanimelist.net/anime/producer/925/Earth_Star_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/45314l.webp",
+  "trailer_url": null,
+  "id": 14045,
+  "slug": "mangirl"
 }

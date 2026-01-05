@@ -1,22 +1,170 @@
 {
-  "id": 49915,
-  "slug": "hitori-no-shita-the-outcast-4th-season",
-  "type": "legendado",
+  "mal_id": 49915,
+  "url": "https://myanimelist.net/anime/49915/Yi_Ren_Zhi_Xia_4",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1199/154313.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1199/154313t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1199/154313l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1199/154313.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1199/154313t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1199/154313l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/j9f_dyt0lE0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yi Ren Zhi Xia 4"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Outcast 4th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yi Ren Zhi Xia 4th season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hitori no Shita: The Outcast 4th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "一人之下 第四季"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yi Ren Zhi Xia 4: Chufa! Bi You Cun"
+    },
+    {
+      "type": "Synonym",
+      "title": "一人之下4 出发！碧游村"
+    },
+    {
+      "type": "Japanese",
+      "title": "一人之下4"
+    },
+    {
+      "type": "English",
+      "title": "The Outcast 4"
+    }
+  ],
   "title": "Yi Ren Zhi Xia 4",
   "title_english": "The Outcast 4",
   "title_japanese": "一人之下4",
-  "image": "https://cdn.myanimelist.net/images/anime/1199/154313l.webp",
-  "score": 6.97,
-  "synopsis": "Fourth season of Yi Ren Zhi Xia.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/j9f_dyt0lE0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Supernatural"
+  "title_synonyms": [
+    "The Outcast 4th Season",
+    "Yi Ren Zhi Xia 4th season",
+    "Hitori no Shita: The Outcast 4th Season",
+    "一人之下 第四季",
+    "Yi Ren Zhi Xia 4: Chufa! Bi You Cun",
+    "一人之下4 出发！碧游村"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s1/mp4/hitori-no-shita-the-outcast-4th-season/hd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-09-24T00:00:00+00:00",
+    "to": "2021-12-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 9,
+        "year": 2021
+      },
+      "to": {
+        "day": 3,
+        "month": 12,
+        "year": 2021
+      }
+    },
+    "string": "Sep 24, 2021 to Dec 3, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.97,
+  "scored_by": 2530,
+  "rank": 4701,
+  "popularity": 6047,
+  "members": 14775,
+  "favorites": 45,
+  "synopsis": "Fourth season of Yi Ren Zhi Xia.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    },
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 2756,
+      "type": "anime",
+      "name": "Yikuiduo Animation",
+      "url": "https://myanimelist.net/anime/producer/2756/Yikuiduo_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2521,
+      "type": "anime",
+      "name": "Qiyuan Yinghua",
+      "url": "https://myanimelist.net/anime/producer/2521/Qiyuan_Yinghua"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1199/154313l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/j9f_dyt0lE0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49915,
+  "slug": "hitori-no-shita-the-outcast-4th-season"
 }

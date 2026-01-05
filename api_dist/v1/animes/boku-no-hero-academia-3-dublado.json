@@ -1,17 +1,63 @@
 {
-  "id": 36456,
-  "slug": "boku-no-hero-academia-3-dublado",
-  "type": "dublado",
+  "mal_id": 36456,
+  "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wMCeFIPwrHE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Boku no Hero Academia 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "僕のヒーローアカデミア"
+    },
+    {
+      "type": "English",
+      "title": "My Hero Academia Season 3"
+    },
+    {
+      "type": "German",
+      "title": "My Hero Academia 3. Staffel"
+    },
+    {
+      "type": "Spanish",
+      "title": "My Hero Academia Temporada 3"
+    },
+    {
+      "type": "French",
+      "title": "My Hero Academia Saison 3"
+    }
+  ],
   "title": "Boku no Hero Academia 3rd Season",
   "title_english": "My Hero Academia Season 3",
   "title_japanese": "僕のヒーローアカデミア",
-  "image": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-  "score": 7.98,
-  "synopsis": "As summer arrives for the students at UA Academy, each of these superheroes-in-training puts in their best efforts to become renowned heroes. They head off to a forest training camp run by UA's pro heroes, where the students face one another in battle and go through dangerous tests, improving their abilities and pushing past their limits. However, their school trip is suddenly turned upside down when the League of Villains arrives, invading the camp with a mission to capture one of the students. \n\nBoku no Hero Academia 3rd Season follows Izuku \"Deku\" Midoriya, an ambitious student training to achieve his dream of becoming a hero similar to his role model—All Might. Being one of the students caught up amidst the chaos of the villain attack, Deku must take a stand with his classmates and fight for their survival.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/wMCeFIPwrHE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -138,5 +184,126 @@
       "url": "https://lightspeedst.net/s3/mp4/boku-no-hero-academia-3-dublado/sd/25.mp4",
       "nome": "Unrivaled"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-07T00:00:00+00:00",
+    "to": "2018-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2018
+      }
+    },
+    "string": "Apr 7, 2018 to Sep 29, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.98,
+  "scored_by": 1535310,
+  "rank": 723,
+  "popularity": 25,
+  "members": 2342783,
+  "favorites": 12451,
+  "synopsis": "As summer arrives for the students at UA Academy, each of these superheroes-in-training puts in their best efforts to become renowned heroes. They head off to a forest training camp run by UA's pro heroes, where the students face one another in battle and go through dangerous tests, improving their abilities and pushing past their limits. However, their school trip is suddenly turned upside down when the League of Villains arrives, invading the camp with a mission to capture one of the students. \n\nBoku no Hero Academia 3rd Season follows Izuku \"Deku\" Midoriya, an ambitious student training to achieve his dream of becoming a hero similar to his role model—All Might. Being one of the students caught up amidst the chaos of the villain attack, Deku must take a stand with his classmates and fight for their survival.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/wMCeFIPwrHE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36456,
+  "slug": "boku-no-hero-academia-3-dublado"
 }

@@ -1,18 +1,63 @@
 {
-  "id": 33203,
-  "slug": "fukumenkei-noise",
-  "type": "legendado",
+  "mal_id": 33203,
+  "url": "https://myanimelist.net/anime/33203/Fukumenkei_Noise",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/85350.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/85350t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/85350l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/85350.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/85350t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/85350l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/-Qw9Fu7NvMk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fukumenkei Noise"
+    },
+    {
+      "type": "Japanese",
+      "title": "覆面系ノイズ"
+    },
+    {
+      "type": "English",
+      "title": "Anonymous Noise"
+    },
+    {
+      "type": "German",
+      "title": "The Anonymous Noise"
+    },
+    {
+      "type": "Spanish",
+      "title": "Anonymous Noise"
+    },
+    {
+      "type": "French",
+      "title": "Anonymous Noise"
+    }
+  ],
   "title": "Fukumenkei Noise",
   "title_english": "Anonymous Noise",
   "title_japanese": "覆面系ノイズ",
-  "image": "https://cdn.myanimelist.net/images/anime/11/85350l.webp",
-  "score": 6.95,
-  "synopsis": "Every day, a young girl wearing a mask stands by the beach and sings a nostalgic melody. After experiencing two sudden heart-wrenching partings when she was only a child, Nino Arisugawa has been singing her songs to the ocean, bound by a promise made with her two childhood friends—her first love, Momo Sakaki, and a boy who composed music, Kanade \"Yuzu\" Yuzuriha. Having never met each other, the boys both individually promised that if Nino was ever separated from them, her voice would be the beacon to reunite them once again.\n\nAfter six long years, destiny has finally placed Nino, Momo, and Yuzu in the same high school. However, the passage of time has changed many things in their lives—while Nino relentlessly attempts to fulfill her childhood promise with the boys, Yuzu's feelings for her from the past resurface, and Momo goes to great lengths to prevent a reunion with Nino. Through music, will they be able to mend their friendship and overcome all the feelings involved in this complicated love triangle?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/-Qw9Fu7NvMk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -69,5 +114,139 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw0I4DMBF5C5PgEHNiyC3-l9XRWFyBLX5dw5oy9PsAEql1VfdH_b-tmq-4j_WO5H07zds5mww3C-cDViz2V3lxZbSSQkntXifYuBOXfdg1xL19G9EdsiIlMDKi8D4Phv6AB3g",
       "nome": "I'll Make It So All of Them Can Never Leave"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-11T00:00:00+00:00",
+    "to": "2017-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Apr 11, 2017 to Jun 27, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.95,
+  "scored_by": 52612,
+  "rank": 4794,
+  "popularity": 1901,
+  "members": 133895,
+  "favorites": 682,
+  "synopsis": "Every day, a young girl wearing a mask stands by the beach and sings a nostalgic melody. After experiencing two sudden heart-wrenching partings when she was only a child, Nino Arisugawa has been singing her songs to the ocean, bound by a promise made with her two childhood friends—her first love, Momo Sakaki, and a boy who composed music, Kanade \"Yuzu\" Yuzuriha. Having never met each other, the boys both individually promised that if Nino was ever separated from them, her voice would be the beacon to reunite them once again.\n\nAfter six long years, destiny has finally placed Nino, Momo, and Yuzu in the same high school. However, the passage of time has changed many things in their lives—while Nino relentlessly attempts to fulfill her childhood promise with the boys, Yuzu's feelings for her from the past resurface, and Momo goes to great lengths to prevent a reunion with Nino. Through music, will they be able to mend their friendship and overcome all the feelings involved in this complicated love triangle?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 148,
+      "type": "anime",
+      "name": "Hakusensha",
+      "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/85350l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/-Qw9Fu7NvMk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33203,
+  "slug": "fukumenkei-noise"
 }

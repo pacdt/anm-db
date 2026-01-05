@@ -1,17 +1,62 @@
 {
-  "id": 13263,
-  "slug": "fate-zero-onegai-einzbern-soudanshitsu",
-  "type": "legendado",
+  "mal_id": 13263,
+  "url": "https://myanimelist.net/anime/13263/Fate_Zero__Onegai_Einzbern_Soudanshitsu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/64273.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/64273t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/64273l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/64273.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/64273t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/64273l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fate/Zero: Onegai! Einzbern Soudanshitsu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fate/Zero Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "Please! Einzbern Consultation Room"
+    },
+    {
+      "type": "Japanese",
+      "title": "お願い!アインツベルン相談室"
+    },
+    {
+      "type": "English",
+      "title": "Fate/Zero: Please! Einzbern Counseling Room"
+    }
+  ],
   "title": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
   "title_english": "Fate/Zero: Please! Einzbern Counseling Room",
   "title_japanese": "お願い!アインツベルン相談室",
-  "image": "https://cdn.myanimelist.net/images/anime/4/64273l.webp",
-  "score": 6.64,
-  "synopsis": "Written by Kinoko Nasu, these specials are included in the BD box sets I &amp; II.\n\nJoin Irisviel as she helps Disciple No. Zero understand more details and history relating to the Holy Grail War.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Fate/Zero Specials",
+    "Please! Einzbern Consultation Room"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -43,5 +88,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxuFLN-EYBWJFHHVNfPJ3LqRdo8P_yES-JBu4R2vKKzEvlMGRqV7W8JUvj6kC5Bgabt7mZVj5BoujBbytb-j5iqRhB6kgL4rRFk-fRxEjPF2pGG26Gc__OO4s5mzaEU8vNShpMK",
       "nome": "Please! Einzbern Consultation Room: Part 6"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-03-07T00:00:00+00:00",
+    "to": "2012-09-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 3,
+        "year": 2012
+      },
+      "to": {
+        "day": 19,
+        "month": 9,
+        "year": 2012
+      }
+    },
+    "string": "Mar 7, 2012 to Sep 19, 2012"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.64,
+  "scored_by": 17541,
+  "rank": 6556,
+  "popularity": 3984,
+  "members": 39653,
+  "favorites": 16,
+  "synopsis": "Written by Kinoko Nasu, these specials are included in the BD box sets I &amp; II.\n\nJoin Irisviel as she helps Disciple No. Zero understand more details and history relating to the Holy Grail War.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "ufotable",
+      "url": "https://myanimelist.net/anime/producer/43/ufotable"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/64273l.webp",
+  "trailer_url": null,
+  "id": 13263,
+  "slug": "fate-zero-onegai-einzbern-soudanshitsu"
 }

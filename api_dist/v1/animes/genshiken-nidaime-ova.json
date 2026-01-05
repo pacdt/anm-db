@@ -1,21 +1,145 @@
 {
-  "id": 19159,
-  "slug": "genshiken-nidaime-ova",
-  "type": "legendado",
+  "mal_id": 19159,
+  "url": "https://myanimelist.net/anime/19159/Genshiken_Nidaime_OVA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/57145.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57145t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57145l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/57145.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57145t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57145l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Genshiken Nidaime OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Genshiken Nidaime OAD"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Society for the Study of Modern Visual Culture OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "げんしけん オリジナルアニメDVD"
+    }
+  ],
   "title": "Genshiken Nidaime OVA",
   "title_english": "Genshiken Nidaime OVA",
   "title_japanese": "げんしけん オリジナルアニメDVD",
-  "image": "https://cdn.myanimelist.net/images/anime/12/57145l.webp",
-  "score": 7.15,
-  "synopsis": "Bundled with the limited edition of the 15th volume of the manga.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Genshiken Nidaime OAD",
+    "The Society for the Study of Modern Visual Culture OVA"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwzrOM2r4K5qzSOqDcyDtMQodL19FoE5ogUNNqQG75AIc6rX5N7dPQmRPc75p_ur2R3gGNg50H0zVLHsPKqcLUBuXlqmAQriQaQ1mdpiG85Y3yN12i_QL-8rJqplBeXgTcsl_g"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-12-20T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 12,
+        "year": 2013
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 20, 2013"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.15,
+  "scored_by": 9411,
+  "rank": 3791,
+  "popularity": 5386,
+  "members": 20109,
+  "favorites": 10,
+  "synopsis": "Bundled with the limited edition of the 15th volume of the manga.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/57145l.webp",
+  "trailer_url": null,
+  "id": 19159,
+  "slug": "genshiken-nidaime-ova"
 }

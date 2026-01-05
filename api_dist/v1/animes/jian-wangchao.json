@@ -1,17 +1,51 @@
 {
-  "id": 36996,
-  "slug": "jian-wangchao",
-  "type": "legendado",
+  "mal_id": 36996,
+  "url": "https://myanimelist.net/anime/36996/Jian_Wangchao",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/89662.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/89662t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/89662l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/89662.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/89662t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/89662l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jian Wangchao"
+    },
+    {
+      "type": "Japanese",
+      "title": "剣王朝"
+    },
+    {
+      "type": "English",
+      "title": "Sword Dynasty"
+    }
+  ],
   "title": "Jian Wangchao",
   "title_english": "Sword Dynasty",
   "title_japanese": "剣王朝",
-  "image": "https://cdn.myanimelist.net/images/anime/9/89662l.webp",
-  "score": 5.76,
-  "synopsis": "The story takes place in the twilight years of the Qin Dynasty, and follows a young man who will dismantle the Qin Dynasty and create the Sword Dynasty.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -41,5 +75,76 @@
       "numero": 7,
       "url": "https://www.blogger.com/video.g?token=AD6v5dycqQdDWZmo6Iq3Rx33BCD6VFRlxsa-5wR-OzRvMhnbXpydcMOzvdEIPSOT_RwADOw0hYlzNOPrbjd-_cl5q5cd3074ivYY-WjCzHqN5_clizdkyGExaTVKmdQ0oSF_Ih5QZ3c"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-26T00:00:00+00:00",
+    "to": "2017-07-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 5,
+        "month": 7,
+        "year": 2017
+      }
+    },
+    "string": "Apr 26, 2017 to Jul 5, 2017"
+  },
+  "duration": "14 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.76,
+  "scored_by": 559,
+  "rank": 11659,
+  "popularity": 10753,
+  "members": 3256,
+  "favorites": 8,
+  "synopsis": "The story takes place in the twilight years of the Qin Dynasty, and follows a young man who will dismantle the Qin Dynasty and create the Sword Dynasty.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1806,
+      "type": "anime",
+      "name": "iQIYI",
+      "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1264,
+      "type": "anime",
+      "name": "EMT Squared",
+      "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/89662l.webp",
+  "trailer_url": null,
+  "id": 36996,
+  "slug": "jian-wangchao"
 }

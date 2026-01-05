@@ -1,18 +1,53 @@
 {
-  "id": 33271,
-  "slug": "nanocore-2nd-season",
-  "type": "legendado",
+  "mal_id": 33271,
+  "url": "https://myanimelist.net/anime/33271/Nanocore_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/79961.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/79961t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/79961l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/79961.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/79961t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/79961l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nanocore 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nanocore: Season 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "纳米核心 - 第二季 - 第一集"
+    }
+  ],
   "title": "Nanocore 2nd Season",
   "title_english": "Nanocore 2nd Season",
   "title_japanese": "纳米核心 - 第二季 - 第一集",
-  "image": "https://cdn.myanimelist.net/images/anime/4/79961l.webp",
-  "score": 6.27,
-  "synopsis": "Nanocore is a science fiction Chinese cartoon in 3D. The stage of the story is established on a fictional planet Birthigin. In this young planet, humanity will never stop longing for a bright future despite reason and fear. In revolutions and evolutions, humanity keeps challenging the Creator, and which eventually induces contractions intensified. People choose to wake up and struggle for their own ideals. They end the peace and angers sweep the whole planet, resulting in outbreak of the crisis known as Purple Fog.\n\nIn time of humans facing their odds of survival, the plan N.S.P led by the elite keeps frustrating until NanoCore's involving. It brings the plan his birth. As the existence, that the elite thinks should lead the development of human weapons, however, he breaks shackles of fate, and arrives at a land where faith no longer exists.\n\nHe learns to make choices and grows up with them, and the dim future of Birthigin thus begins to change.\n\n(Source: Nanocore Tumblr)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Nanocore: Season 2"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -54,5 +89,63 @@
       "numero": 10,
       "url": "https://www.blogger.com/video.g?token=AD6v5dx94EsxE7a5mRZ7D9uK4EEFzwj1-PrvH2bp9bhsg0yYJjvJUivSR7f_lTXzdeAsXI0pXQLc15nke7s-T74VEeBlAldnedlK3Quj0UqzmGxUhabtl2oGR9YY3fPY9W5mRaJdpps"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-08T00:00:00+00:00",
+    "to": "2016-10-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 10,
+        "month": 10,
+        "year": 2016
+      }
+    },
+    "string": "Apr 8, 2016 to Oct 10, 2016"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.27,
+  "scored_by": 166,
+  "rank": 8839,
+  "popularity": 15596,
+  "members": 846,
+  "favorites": 1,
+  "synopsis": "Nanocore is a science fiction Chinese cartoon in 3D. The stage of the story is established on a fictional planet Birthigin. In this young planet, humanity will never stop longing for a bright future despite reason and fear. In revolutions and evolutions, humanity keeps challenging the Creator, and which eventually induces contractions intensified. People choose to wake up and struggle for their own ideals. They end the peace and angers sweep the whole planet, resulting in outbreak of the crisis known as Purple Fog.\n\nIn time of humans facing their odds of survival, the plan N.S.P led by the elite keeps frustrating until NanoCore's involving. It brings the plan his birth. As the existence, that the elite thinks should lead the development of human weapons, however, he breaks shackles of fate, and arrives at a land where faith no longer exists.\n\nHe learns to make choices and grows up with them, and the dim future of Birthigin thus begins to change.\n\n(Source: Nanocore Tumblr)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1460,
+      "type": "anime",
+      "name": "Coastline Animation Studio",
+      "url": "https://myanimelist.net/anime/producer/1460/Coastline_Animation_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/79961l.webp",
+  "trailer_url": null,
+  "id": 33271,
+  "slug": "nanocore-2nd-season"
 }

@@ -1,18 +1,63 @@
 {
-  "id": 32828,
-  "slug": "amaama-to-inazuma",
-  "type": "legendado",
+  "mal_id": 32828,
+  "url": "https://myanimelist.net/anime/32828/Amaama_to_Inazuma",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/80546.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/80546t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/80546l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/80546.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/80546t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/80546l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/dyDTqDFprlY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Amaama to Inazuma"
+    },
+    {
+      "type": "Japanese",
+      "title": "甘々と稲妻"
+    },
+    {
+      "type": "English",
+      "title": "Sweetness & Lightning"
+    },
+    {
+      "type": "German",
+      "title": "Sweetness & Lightning"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sweetness & Lightning (Amaama to Inazuma)"
+    },
+    {
+      "type": "French",
+      "title": "Sweetness & Lightning"
+    }
+  ],
   "title": "Amaama to Inazuma",
   "title_english": "Sweetness & Lightning",
   "title_japanese": "甘々と稲妻",
-  "image": "https://cdn.myanimelist.net/images/anime/6/80546l.webp",
-  "score": 7.53,
-  "synopsis": "Since the death of his wife, Kouhei Inuzuka has been caring for his young daughter Tsumugi to the best of his abilities. However, with his lack of culinary knowledge and his busy job as a teacher, he is left relying on ready-made meals from convenience stores to feed the little girl. Frustrated at his own incapability to provide a fresh, nutritious meal for his daughter, Kouhei takes up an offer from his student, Kotori Iida, to come have dinner at her family's restaurant. But on their very first visit, the father and daughter discover that the restaurant is often closed due to Kotori's mother being away for work and that Kotori often eats alone. After much pleading from his pupil, Kouhei decides to continue to go to the restaurant with Tsumugi to cook and share delicious homemade food with Kotori.\n\nAmaama to Inazuma follows the heartwarming story of a caring father trying his hardest to make his adorable little daughter happy, while exploring the meanings and values behind cooking, family, and the warm meals at home that are often taken for granted.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/dyDTqDFprlY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Gourmet",
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +119,132 @@
       "url": "https://lightspeedst.net/s3/mp4/amaama-to-inazuma/sd/12.mp4",
       "nome": "Okonomiyaki Filled With Affection"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-07-05T00:00:00+00:00",
+    "to": "2016-09-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2016
+      },
+      "to": {
+        "day": 20,
+        "month": 9,
+        "year": 2016
+      }
+    },
+    "string": "Jul 5, 2016 to Sep 20, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.53,
+  "scored_by": 146272,
+  "rank": 1914,
+  "popularity": 800,
+  "members": 338767,
+  "favorites": 1287,
+  "synopsis": "Since the death of his wife, Kouhei Inuzuka has been caring for his young daughter Tsumugi to the best of his abilities. However, with his lack of culinary knowledge and his busy job as a teacher, he is left relying on ready-made meals from convenience stores to feed the little girl. Frustrated at his own incapability to provide a fresh, nutritious meal for his daughter, Kouhei takes up an offer from his student, Kotori Iida, to come have dinner at her family's restaurant. But on their very first visit, the father and daughter discover that the restaurant is often closed due to Kotori's mother being away for work and that Kotori often eats alone. After much pleading from his pupil, Kouhei decides to continue to go to the restaurant with Tsumugi to cook and share delicious homemade food with Kotori.\n\nAmaama to Inazuma follows the heartwarming story of a caring father trying his hardest to make his adorable little daughter happy, while exploring the meanings and values behind cooking, family, and the warm meals at home that are often taken for granted.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2016,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 141,
+      "type": "anime",
+      "name": "Toei Video",
+      "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 247,
+      "type": "anime",
+      "name": "Shin-Ei Animation",
+      "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    },
+    {
+      "mal_id": 1507,
+      "type": "anime",
+      "name": "Sumitomo",
+      "url": "https://myanimelist.net/anime/producer/1507/Sumitomo"
+    },
+    {
+      "mal_id": 2174,
+      "type": "anime",
+      "name": "TMS Music",
+      "url": "https://myanimelist.net/anime/producer/2174/TMS_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Gourmet",
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Childcare",
+      "url": "https://myanimelist.net/anime/genre/53/Childcare"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/80546l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/dyDTqDFprlY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32828,
+  "slug": "amaama-to-inazuma"
 }

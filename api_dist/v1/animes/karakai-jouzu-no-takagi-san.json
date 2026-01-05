@@ -1,18 +1,65 @@
 {
-  "id": 35860,
-  "slug": "karakai-jouzu-no-takagi-san",
-  "type": "legendado",
+  "mal_id": 35860,
+  "url": "https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1591/95091.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1591/95091t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1591/95091.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1591/95091t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1591/95091l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/g4VJra3sLMg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Karakai Jouzu no Takagi-san"
+    },
+    {
+      "type": "Synonym",
+      "title": "Skilled Teaser Takagi-san"
+    },
+    {
+      "type": "Japanese",
+      "title": "からかい上手の高木さん"
+    },
+    {
+      "type": "English",
+      "title": "Teasing Master Takagi-san"
+    },
+    {
+      "type": "German",
+      "title": "Karakai Jozu No Takagi-san"
+    },
+    {
+      "type": "Spanish",
+      "title": "Takagi-san: Experta en Bromas pesadas"
+    }
+  ],
   "title": "Karakai Jouzu no Takagi-san",
   "title_english": "Teasing Master Takagi-san",
   "title_japanese": "からかい上手の高木さん",
-  "image": "https://cdn.myanimelist.net/images/anime/1591/95091l.webp",
-  "score": 7.67,
-  "synopsis": "Having a friend that knows you inside out should be a good thing, but in Nishikata's case, the opposite is true.\n\nHis classmate Takagi loves to tease him on a daily basis, and she uses her extensive knowledge of his behavior to predict exactly how he will react to her teasing, making it nearly impossible for Nishikata to ever make a successful comeback. Despite this, Nishikata vows to someday give Takagi a taste of her own medicine by making her blush out of embarrassment from his teasing.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/g4VJra3sLMg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Skilled Teaser Takagi-san"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +121,121 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxoA35eDi_CBKuAXIpzF7B67y8dYdW1cfWFTvPpDkBgSnPUihqlpY3CCNDioekklDF4LwlEnVwnxijePqTkQEE0N8Dzh-5fiEXbgRGC-PG-uMbArBmaFKQvvRdDsYx-MkRTGEnZ",
       "nome": "Letter / First Day of School / Seating Arrangement"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-08T00:00:00+00:00",
+    "to": "2018-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Jan 8, 2018 to Mar 26, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.67,
+  "scored_by": 313607,
+  "rank": 1450,
+  "popularity": 385,
+  "members": 630885,
+  "favorites": 5392,
+  "synopsis": "Having a friend that knows you inside out should be a good thing, but in Nishikata's case, the opposite is true.\n\nHis classmate Takagi loves to tease him on a daily basis, and she uses her extensive knowledge of his behavior to predict exactly how he will react to her teasing, making it nearly impossible for Nishikata to ever make a successful comeback. Despite this, Nishikata vows to someday give Takagi a taste of her own medicine by making her blush out of embarrassment from his teasing.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    },
+    {
+      "mal_id": 142,
+      "type": "anime",
+      "name": "Asatsu DK",
+      "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1501,
+      "type": "anime",
+      "name": "JR East Marketing & Communications",
+      "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing___Communications"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 247,
+      "type": "anime",
+      "name": "Shin-Ei Animation",
+      "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 74,
+      "type": "anime",
+      "name": "Love Status Quo",
+      "url": "https://myanimelist.net/anime/genre/74/Love_Status_Quo"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1591/95091l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/g4VJra3sLMg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 35860,
+  "slug": "karakai-jouzu-no-takagi-san"
 }

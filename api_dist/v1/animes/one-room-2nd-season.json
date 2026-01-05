@@ -1,17 +1,65 @@
 {
-  "id": 36431,
-  "slug": "one-room-2nd-season",
-  "type": "legendado",
+  "mal_id": 36431,
+  "url": "https://myanimelist.net/anime/36431/One_Room__Second_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1098/93257.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/93257t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/93257l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1098/93257.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/93257t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/93257l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/yqmd4CAB3FA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "One Room: Second Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "One Room 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "One Room セカンドシーズン"
+    },
+    {
+      "type": "German",
+      "title": "One Room Zweite Staffel"
+    },
+    {
+      "type": "Spanish",
+      "title": "One Room Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "One Room Saison 2"
+    }
+  ],
   "title": "One Room: Second Season",
   "title_english": "One Room: Second Season",
   "title_japanese": "One Room セカンドシーズン",
-  "image": "https://cdn.myanimelist.net/images/anime/1098/93257l.webp",
-  "score": 6.1,
-  "synopsis": "Second season of One Room.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/yqmd4CAB3FA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "One Room 2nd Season"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +121,62 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwqPPTeCJRzS1QPQGjZaAhLdyOseLiyV73Bs-zlYkxMajS09tVI6OjHfYyQ8IT4RAdBYu79Dxhquo-Xdn7UKnUfu5zGz9vj5K-eypRBpwGvdjbk8mSemyj5aApebXoyoVBaTA",
       "nome": "Amatsuki Mashiro Is Waiting"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-10T00:00:00+00:00",
+    "to": "2018-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2018
+      }
+    },
+    "string": "Jul 10, 2018 to Sep 24, 2018"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.1,
+  "scored_by": 23538,
+  "rank": 9804,
+  "popularity": 3320,
+  "members": 55045,
+  "favorites": 46,
+  "synopsis": "Second season of One Room.",
+  "background": "",
+  "season": "summer",
+  "year": 2018,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1379,
+      "type": "anime",
+      "name": "Zero-G",
+      "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1098/93257l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/yqmd4CAB3FA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36431,
+  "slug": "one-room-2nd-season"
 }

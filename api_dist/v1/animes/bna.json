@@ -1,18 +1,57 @@
 {
-  "id": 40060,
-  "slug": "bna",
-  "type": "legendado",
+  "mal_id": 40060,
+  "url": "https://myanimelist.net/anime/40060/BNA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1139/106986t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1139/106986l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1139/106986.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1139/106986t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1139/106986l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/QY2CbUsOgAM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "BNA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Brand New Animal"
+    },
+    {
+      "type": "Japanese",
+      "title": "BNA ビー・エヌ・エー"
+    },
+    {
+      "type": "English",
+      "title": "BNA: Brand New Animal"
+    }
+  ],
   "title": "BNA",
   "title_english": "BNA: Brand New Animal",
   "title_japanese": "BNA ビー・エヌ・エー",
-  "image": "https://cdn.myanimelist.net/images/anime/1139/106986l.webp",
-  "score": 7.34,
-  "synopsis": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/QY2CbUsOgAM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
+  "title_synonyms": [
+    "Brand New Animal"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,125 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyz5g18TdGZh_ljzliPI3RQz1zqkTttWDuByqUwCT0_FpqeIwlTb-ySix7EJX_iZidn5_b2jZbpEKkCJTTT09eJJtl53nLcx-gXRcSODDK1YvzwYkux3a4d53NB_Ry5T9gS2ng",
       "nome": "Anima-City"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-09T00:00:00+00:00",
+    "to": "2020-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 2020
+      }
+    },
+    "string": "Apr 9, 2020 to Jun 25, 2020"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.34,
+  "scored_by": 218729,
+  "rank": 2755,
+  "popularity": 666,
+  "members": 397885,
+  "favorites": 2828,
+  "synopsis": "Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic \"Beast Factor.\" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1488,
+      "type": "anime",
+      "name": "Hakuhodo DY Media Partners",
+      "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+    },
+    {
+      "mal_id": 1992,
+      "type": "anime",
+      "name": "Bandai Spirits",
+      "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+    },
+    {
+      "mal_id": 2229,
+      "type": "anime",
+      "name": "Toho Music",
+      "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 803,
+      "type": "anime",
+      "name": "Trigger",
+      "url": "https://myanimelist.net/anime/producer/803/Trigger"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1139/106986l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/QY2CbUsOgAM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40060,
+  "slug": "bna"
 }

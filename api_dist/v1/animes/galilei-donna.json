@@ -1,19 +1,57 @@
 {
-  "id": 19367,
-  "slug": "galilei-donna",
-  "type": "legendado",
+  "mal_id": 19367,
+  "url": "https://myanimelist.net/anime/19367/Galilei_Donna",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/53239.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/53239t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/53239l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/53239.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/53239t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/53239l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/A8Hp7zetYsU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Galilei Donna"
+    },
+    {
+      "type": "Synonym",
+      "title": "Galilei Donna: the story of three sisters in the search of a mystery"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガリレイドンナ"
+    },
+    {
+      "type": "English",
+      "title": "Galilei Donna: Storia di tre sorelle a caccia di un mistero"
+    }
+  ],
   "title": "Galilei Donna",
   "title_english": "Galilei Donna: Storia di tre sorelle a caccia di un mistero",
   "title_japanese": "ガリレイドンナ",
-  "image": "https://cdn.myanimelist.net/images/anime/11/53239l.webp",
-  "score": 6.41,
-  "synopsis": "Three sisters, Hozuki, Kazuki, and Hazuki, are descendants of Galileo and have completely different personalities and tastes; they never meet eye-to-eye. One day, the girls are suddenly attacked by a mysterious organization. The organization was after the \"Galileo Tesoro\" which Galileo Galilei was said to have discovered. Still unaware of what was going on, the sisters escape on the airship they built after the sudden attack. But it won't be so easy for these three sisters to help each other out in a pinch when they're constantly at odds with each other. What is the Tesoro, and what is the organization after? And what about the relationship between the sisters? It's a threesome of cute girls, action, and mystery!\n\n(Source: Fuji Creative)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/A8Hp7zetYsU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Galilei Donna: the story of three sisters in the search of a mystery"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -70,5 +108,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxBxzIPzoZEvgClOAnyUyJdmGiEwkzY49flkUvfgMz78jbC7H__vLNxAoMy4tb3JTj5arFi7rqXUIXP0rNxh0EdSlAWsTuvCOdK4OdQTuXYzsekIr8IPff-nDgRfMAN9BCdfgiT",
       "nome": "Galileo Judge"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-10-11T00:00:00+00:00",
+    "to": "2013-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2013
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2013
+      }
+    },
+    "string": "Oct 11, 2013 to Dec 20, 2013"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.41,
+  "scored_by": 24268,
+  "rank": 7964,
+  "popularity": 3328,
+  "members": 54746,
+  "favorites": 47,
+  "synopsis": "Three sisters, Hozuki, Kazuki, and Hazuki, are descendants of Galileo and have completely different personalities and tastes; they never meet eye-to-eye. One day, the girls are suddenly attacked by a mysterious organization. The organization was after the \"Galileo Tesoro\" which Galileo Galilei was said to have discovered. Still unaware of what was going on, the sisters escape on the airship they built after the sudden attack. But it won't be so easy for these three sisters to help each other out in a pinch when they're constantly at odds with each other. What is the Tesoro, and what is the organization after? And what about the relationship between the sisters? It's a threesome of cute girls, action, and mystery!\n\n(Source: Fuji Creative)",
+  "background": "",
+  "season": "fall",
+  "year": 2013,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:50",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:50 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 406,
+      "type": "anime",
+      "name": "Asahi Production",
+      "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+    },
+    {
+      "mal_id": 1411,
+      "type": "anime",
+      "name": "Kyoraku Industrial Holdings",
+      "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/53239l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/A8Hp7zetYsU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 19367,
+  "slug": "galilei-donna"
 }

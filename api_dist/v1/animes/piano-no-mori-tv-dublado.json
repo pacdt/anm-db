@@ -1,17 +1,74 @@
 {
-  "id": 36652,
-  "slug": "piano-no-mori-tv-dublado",
-  "type": "dublado",
+  "mal_id": 36652,
+  "url": "https://myanimelist.net/anime/36652/Piano_no_Mori_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1501/91916.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1501/91916t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1501/91916l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1501/91916.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1501/91916t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1501/91916l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/fRVj2zFlpyM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Piano no Mori (TV)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Piano Forest"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Perfect World of Kai"
+    },
+    {
+      "type": "Japanese",
+      "title": "ピアノの森"
+    },
+    {
+      "type": "English",
+      "title": "Forest of Piano"
+    },
+    {
+      "type": "German",
+      "title": "The Piano Forest"
+    },
+    {
+      "type": "Spanish",
+      "title": "El Bosque del Piano"
+    },
+    {
+      "type": "French",
+      "title": "Piano Forest"
+    }
+  ],
   "title": "Piano no Mori (TV)",
   "title_english": "Forest of Piano",
   "title_japanese": "ピアノの森",
-  "image": "https://cdn.myanimelist.net/images/anime/1501/91916l.webp",
-  "score": 7.32,
-  "synopsis": "A tranquil tale about two boys from very different upbringings. On one hand you have Kai, born as the son of a prostitute, who's been playing the abandoned piano in the forest near his home ever since he was young. And on the other you have Syuhei, practically breast-fed by the piano as the son of a family of prestigious pianists. Yet it is their common bond with the piano that eventually intertwines their paths in life.\n \n(Source: KEFI)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/fRVj2zFlpyM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
+  "title_synonyms": [
+    "Piano Forest",
+    "The Perfect World of Kai"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +130,95 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz9keHhnA_fTdcMHO3E0vSUpwpb08IV8yU4-5vLW1maDRcMgI80lvwYqvRPro_DVTWmHi6oPjjFMZHBM0DgkCiBlEsiUDuFsakmYcfJK5UwQ3RItVjKrug5Om7nArJm-rSGgZ4",
       "nome": "fff"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-09T00:00:00+00:00",
+    "to": "2018-07-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 2,
+        "month": 7,
+        "year": 2018
+      }
+    },
+    "string": "Apr 9, 2018 to Jul 2, 2018"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.32,
+  "scored_by": 58995,
+  "rank": 2875,
+  "popularity": 1870,
+  "members": 137131,
+  "favorites": 486,
+  "synopsis": "A tranquil tale about two boys from very different upbringings. On one hand you have Kai, born as the son of a prostitute, who's been playing the abandoned piano in the forest near his home ever since he was young. And on the other you have Syuhei, practically breast-fed by the piano as the son of a family of prestigious pianists. Yet it is their common bond with the piano that eventually intertwines their paths in life.\n \n(Source: KEFI)",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:10",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:10 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1314,
+      "type": "anime",
+      "name": "Gaina",
+      "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1501/91916l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/fRVj2zFlpyM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36652,
+  "slug": "piano-no-mori-tv-dublado"
 }

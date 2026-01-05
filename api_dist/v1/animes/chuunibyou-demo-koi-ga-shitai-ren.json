@@ -1,18 +1,74 @@
 {
-  "id": 18671,
-  "slug": "chuunibyou-demo-koi-ga-shitai-ren",
-  "type": "legendado",
+  "mal_id": 18671,
+  "url": "https://myanimelist.net/anime/18671/Chuunibyou_demo_Koi_ga_Shitai_Ren",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/56643.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/56643t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/56643l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/56643.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/56643t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/56643l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3ZZgn8xNdJs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chuunibyou demo Koi ga Shitai! Ren"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chuunibyou demo Koi ga Shitai! 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chu-2 Byo demo Koi ga Shitai! Ren"
+    },
+    {
+      "type": "Japanese",
+      "title": "中二病でも恋がしたい！戀"
+    },
+    {
+      "type": "English",
+      "title": "Love, Chunibyo & Other Delusions!: Heart Throb"
+    },
+    {
+      "type": "German",
+      "title": "Love, Chunibyo & Other Delusions! Heart Throb"
+    },
+    {
+      "type": "Spanish",
+      "title": "Love, Chunibyo & Other Delusions!: Heart Throb"
+    },
+    {
+      "type": "French",
+      "title": "Love, Chunibyo & Other Delusions! Heart Throb"
+    }
+  ],
   "title": "Chuunibyou demo Koi ga Shitai! Ren",
   "title_english": "Love, Chunibyo & Other Delusions!: Heart Throb",
   "title_japanese": "中二病でも恋がしたい！戀",
-  "image": "https://cdn.myanimelist.net/images/anime/7/56643l.webp",
-  "score": 7.55,
-  "synopsis": "The awkward lovebirds, Yuuta Togashi and Rikka Takanashi are now living together as they enter a new school year, but their adorable relationship remains stagnant. Yuuta struggles to adapt to having a chuuni girlfriend while the gang—Sanae Dekomori, Shinka Nibutani and Kumin Tsuyuri—are still keeping up with their quirks despite having advanced a grade. Making matters worse, another chuuni girl from Yuuta's middle school, Satone Shichimiya, appears...\n\nWith the various events revolving around Yuuta, will he be able to develop his relationship with Rikka?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3ZZgn8xNdJs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Chuunibyou demo Koi ga Shitai! 2",
+    "Chu-2 Byo demo Koi ga Shitai! Ren"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +130,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwLwO2b68XTdxlCZ9pZFX4rnnWQk_ZjmX6CHbXH7P1mXL5gUEiqe1oZdoKKJBq41FjtoPpS5PHGfawVwXO52Yxzo_sCQZQhuWR1JKzTzGlapSwx0F82iOb-6es6R1umDAfAjv8",
       "nome": "The Superior Contract... of Twilight"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-09T00:00:00+00:00",
+    "to": "2014-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 9, 2014 to Mar 27, 2014"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.55,
+  "scored_by": 471770,
+  "rank": 1849,
+  "popularity": 283,
+  "members": 787770,
+  "favorites": 2674,
+  "synopsis": "The awkward lovebirds, Yuuta Togashi and Rikka Takanashi are now living together as they enter a new school year, but their adorable relationship remains stagnant. Yuuta struggles to adapt to having a chuuni girlfriend while the gang—Sanae Dekomori, Shinka Nibutani and Kumin Tsuyuri—are still keeping up with their quirks despite having advanced a grade. Making matters worse, another chuuni girl from Yuuta's middle school, Satone Shichimiya, appears...\n\nWith the various events revolving around Yuuta, will he be able to develop his relationship with Rikka?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/56643l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3ZZgn8xNdJs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 18671,
+  "slug": "chuunibyou-demo-koi-ga-shitai-ren"
 }

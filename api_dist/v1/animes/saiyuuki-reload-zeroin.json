@@ -1,21 +1,53 @@
 {
-  "id": 45783,
-  "slug": "saiyuuki-reload-zeroin",
-  "type": "legendado",
+  "mal_id": 45783,
+  "url": "https://myanimelist.net/anime/45783/Saiyuuki_Reload__Zeroin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1451/119862.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1451/119862t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1451/119862l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1451/119862.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1451/119862t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1451/119862l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/TJSRCO5Jz5E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saiyuuki Reload: Zeroin"
+    },
+    {
+      "type": "Synonym",
+      "title": "Saiyuuki Reload: Even a Worm Arc"
+    },
+    {
+      "type": "Japanese",
+      "title": "最遊記RELOAD -ZEROIN-"
+    }
+  ],
   "title": "Saiyuuki Reload: Zeroin",
   "title_english": "Saiyuuki Reload: Zeroin",
   "title_japanese": "最遊記RELOAD -ZEROIN-",
-  "image": "https://cdn.myanimelist.net/images/anime/1451/119862l.webp",
-  "score": 6.66,
-  "synopsis": "Getting ambushed by rogue demons on the road is business as usual for the Sanzou party. But when their latest assailants turn out to be humans, the group is left dumbfounded. The mystery only deepens when they encounter a wandering priest, Hazel Grouse, and his imposing bodyguard, Gaty Nene Hawk. The pair hails from the far West, with Hazel using his powers of resurrection to aid grief-stricken villages. While his ability is greatly welcomed by the people, the truth behind it is less miraculous than it seems. Furthermore, the resurrected humans gain golden eyes, a trait they share with the group's recent attackers. It appears that the friendly priest's intentions are not as generous as one might expect—and the Sanzou party is a step away from unraveling them.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/TJSRCO5Jz5E?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Drama",
-    "Supernatural"
+  "title_synonyms": [
+    "Saiyuuki Reload: Even a Worm Arc"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -82,5 +114,94 @@
       "url": "https://lightspeedst.net/s1/mp4_temp/saiyuuki-reload-zeroin/13/720p.mp4",
       "nome": "The Sanzo Party"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-01-06T00:00:00+00:00",
+    "to": "2022-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2022
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2022
+      }
+    },
+    "string": "Jan 6, 2022 to Mar 31, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.66,
+  "scored_by": 3159,
+  "rank": 6427,
+  "popularity": 6054,
+  "members": 14737,
+  "favorites": 75,
+  "synopsis": "Getting ambushed by rogue demons on the road is business as usual for the Sanzou party. But when their latest assailants turn out to be humans, the group is left dumbfounded. The mystery only deepens when they encounter a wandering priest, Hazel Grouse, and his imposing bodyguard, Gaty Nene Hawk. The pair hails from the far West, with Hazel using his powers of resurrection to aid grief-stricken villages. While his ability is greatly welcomed by the people, the truth behind it is less miraculous than it seems. Furthermore, the resurrected humans gain golden eyes, a trait they share with the group's recent attackers. It appears that the friendly priest's intentions are not as generous as one might expect—and the Sanzou party is a step away from unraveling them.\n\n[Written by MAL Rewrite]",
+  "background": "Saiyuuki Reload: Zeroin is a remake of the 2nd half of Saiyuuki Reload Gunlock, and adapts Saiyuuki Reload manga's Even a Worm arc.",
+  "season": "winter",
+  "year": 2022,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1451/119862l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/TJSRCO5Jz5E?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 45783,
+  "slug": "saiyuuki-reload-zeroin"
 }

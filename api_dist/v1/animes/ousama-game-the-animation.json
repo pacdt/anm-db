@@ -1,20 +1,69 @@
 {
-  "id": 36027,
-  "slug": "ousama-game-the-animation",
-  "type": "legendado",
+  "mal_id": 36027,
+  "url": "https://myanimelist.net/anime/36027/Ousama_Game_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/88190.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88190t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88190l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/88190.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/88190t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/88190l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/JgFQC9Avfhk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ousama Game The Animation"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ou-sama Game"
+    },
+    {
+      "type": "Japanese",
+      "title": "王様ゲーム The Animation"
+    },
+    {
+      "type": "English",
+      "title": "King's Game"
+    },
+    {
+      "type": "German",
+      "title": "King's Game The Animation"
+    },
+    {
+      "type": "Spanish",
+      "title": "King's Game The Animation"
+    },
+    {
+      "type": "French",
+      "title": "King's Game"
+    }
+  ],
   "title": "Ousama Game The Animation",
   "title_english": "King's Game",
   "title_japanese": "王様ゲーム The Animation",
-  "image": "https://cdn.myanimelist.net/images/anime/3/88190l.webp",
-  "score": 5.08,
-  "synopsis": "It can be rough transferring to a new school—even more so if you do not want to make any friends, like Nobuaki Kanazawa. But the reason for his antisocial behavior soon becomes clear when his class receives a text from someone called \"The King.\" Included are instructions for the \"King's Game,\" and all class members must participate. Those who refuse to play, quit halfway, or do not follow an order in the allotted time of 24 hours will receive a deadly punishment.\n\nHaving played the game before and watched as those around him died, Nobuaki tries to warn his clueless classmates. Unfortunately, they only believe him after the King's Game claims its first casualties. Stuck in a horrific situation with no chance of escape, Nobuaki has a choice: put his own survival above those around him, or do what he could not before and save his classmates.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/JgFQC9Avfhk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Horror",
-    "Mystery",
-    "Suspense"
+  "title_synonyms": [
+    "Ou-sama Game"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +125,158 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz7Vt1y8oNxqZbCGeZK80L19bPqIqnDVN4IOHqvMorQN1HriTbUqgsOeOhr51a9vYXdHm2Qo_Xp90kRVAYCqjBWzz9HMYjX0B854Mg2btVEUye4gx7CeDjz6h6w56uFeqEkJw",
       "nome": "Demise (End/Grudge)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-10-05T00:00:00+00:00",
+    "to": "2017-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2017
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2017
+      }
+    },
+    "string": "Oct 5, 2017 to Dec 21, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.08,
+  "scored_by": 134530,
+  "rank": 13786,
+  "popularity": 1039,
+  "members": 264495,
+  "favorites": 517,
+  "synopsis": "It can be rough transferring to a new school—even more so if you do not want to make any friends, like Nobuaki Kanazawa. But the reason for his antisocial behavior soon becomes clear when his class receives a text from someone called \"The King.\" Included are instructions for the \"King's Game,\" and all class members must participate. Those who refuse to play, quit halfway, or do not follow an order in the allotted time of 24 hours will receive a deadly punishment.\n\nHaving played the game before and watched as those around him died, Nobuaki tries to warn his clueless classmates. Unfortunately, they only believe him after the King's Game claims its first casualties. Stuck in a horrific situation with no chance of escape, Nobuaki has a choice: put his own survival above those around him, or do what he could not before and save his classmates.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1011,
+      "type": "anime",
+      "name": "Warner Music Japan",
+      "url": "https://myanimelist.net/anime/producer/1011/Warner_Music_Japan"
+    },
+    {
+      "mal_id": 1313,
+      "type": "anime",
+      "name": "Amuse",
+      "url": "https://myanimelist.net/anime/producer/1313/Amuse"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1377,
+      "type": "anime",
+      "name": "Futabasha",
+      "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+    },
+    {
+      "mal_id": 1649,
+      "type": "anime",
+      "name": "Kakao Japan",
+      "url": "https://myanimelist.net/anime/producer/1649/Kakao_Japan"
+    },
+    {
+      "mal_id": 1732,
+      "type": "anime",
+      "name": "Spacey Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1732/Spacey_Music_Entertainment"
+    },
+    {
+      "mal_id": 1733,
+      "type": "anime",
+      "name": "A-Craft",
+      "url": "https://myanimelist.net/anime/producer/1733/A-Craft"
+    },
+    {
+      "mal_id": 1734,
+      "type": "anime",
+      "name": "Tohan Corporation",
+      "url": "https://myanimelist.net/anime/producer/1734/Tohan_Corporation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 541,
+      "type": "anime",
+      "name": "Seven",
+      "url": "https://myanimelist.net/anime/producer/541/Seven"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 59,
+      "type": "anime",
+      "name": "High Stakes Game",
+      "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Survival",
+      "url": "https://myanimelist.net/anime/genre/76/Survival"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/88190l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/JgFQC9Avfhk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36027,
+  "slug": "ousama-game-the-animation"
 }

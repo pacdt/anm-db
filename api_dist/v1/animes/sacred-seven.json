@@ -1,18 +1,57 @@
 {
-  "id": 10156,
-  "slug": "sacred-seven",
-  "type": "legendado",
+  "mal_id": 10156,
+  "url": "https://myanimelist.net/anime/10156/Sacred_Seven",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/30218.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/30218t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/30218l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/30218.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/30218t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/30218l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/uz0m7sPOQ8Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sacred Seven"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sacred 7"
+    },
+    {
+      "type": "Japanese",
+      "title": "セイクリッドセブン"
+    },
+    {
+      "type": "English",
+      "title": "Sacred Seven"
+    }
+  ],
   "title": "Sacred Seven",
   "title_english": "Sacred Seven",
   "title_japanese": "セイクリッドセブン",
-  "image": "https://cdn.myanimelist.net/images/anime/12/30218l.webp",
-  "score": 6.58,
-  "synopsis": "Alma Tandoji lives a lonely life. One day, Ruri Alba, a girl accompanied by her butler and maids, visits him. Knowing the power of Sacred Seven is latent within Alma, she asks him to lend her his powers. However, he refuses and drives her away since he injured many with his unusual strength in the past.\n\nMeanwhile, a fiendish Dark Stone creature suddenly appears in this peaceful town in the Kanto region. Only Alma's power of Sacred Seven can fight against it. But Alma just lets his power run amuck and things begin to get worse. Ruri raised her gemstone in order to release his true abilities, My Soul I give to you.\n\nWith Ruri's wishes engraved in it, will Alma be able to defeat the Dark Stone?",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/uz0m7sPOQ8Y?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Sacred 7"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,90 @@
       "url": "https://lightspeedst.net/s3/mp4/sacred-seven/sd/12.mp4",
       "nome": "Sacred Seven"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-03T00:00:00+00:00",
+    "to": "2011-09-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 16,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Jul 3, 2011 to Sep 16, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.58,
+  "scored_by": 34218,
+  "rank": 6891,
+  "popularity": 2662,
+  "members": 81319,
+  "favorites": 85,
+  "synopsis": "Alma Tandoji lives a lonely life. One day, Ruri Alba, a girl accompanied by her butler and maids, visits him. Knowing the power of Sacred Seven is latent within Alma, she asks him to lend her his powers. However, he refuses and drives her away since he injured many with his unusual strength in the past.\n\nMeanwhile, a fiendish Dark Stone creature suddenly appears in this peaceful town in the Kanto region. Only Alma's power of Sacred Seven can fight against it. But Alma just lets his power run amuck and things begin to get worse. Ruri raised her gemstone in order to release his true abilities, My Soul I give to you.\n\nWith Ruri's wishes engraved in it, will Alma be able to defeat the Dark Stone?",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:28",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 02:28 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 230,
+      "type": "anime",
+      "name": "Bandai",
+      "url": "https://myanimelist.net/anime/producer/230/Bandai"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/30218l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/uz0m7sPOQ8Y?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 10156,
+  "slug": "sacred-seven"
 }

@@ -1,19 +1,61 @@
 {
-  "id": 1676,
-  "slug": "cosmo-warrior-zero",
-  "type": "legendado",
+  "mal_id": 1676,
+  "url": "https://myanimelist.net/anime/1676/Cosmo_Warrior_Zero",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1254/106173.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1254/106173t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1254/106173l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1254/106173.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1254/106173t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1254/106173l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cosmo Warrior Zero"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cosmowarrior Zero"
+    },
+    {
+      "type": "Japanese",
+      "title": "コスモウォーリアー零"
+    },
+    {
+      "type": "German",
+      "title": "Cosmowarrior Zero"
+    },
+    {
+      "type": "French",
+      "title": "La Jeunesse de Albator: Cosmowarrior Zero"
+    }
+  ],
   "title": "Cosmo Warrior Zero",
   "title_english": "Cosmo Warrior Zero",
   "title_japanese": "コスモウォーリアー零",
-  "image": "https://cdn.myanimelist.net/images/anime/1254/106173l.webp",
-  "score": 6.53,
-  "synopsis": "The long war between the planet Earth and the machine men is finally over, resulting in a peace that is more a victory for the machine men than the Earth. Warrius Zero lost his family in the war to the machine men but despite this he is still is a member of the Earth fleet that is now working in concert with the machine men. His ship, made up of both humans and machine men, has been given a near impossible task: capture the space pirate Captain Harlock. While Zero struggles to accomplish this task, evidence begins to surface that the peace between machine men and Earth may not be as it seems...\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Cosmowarrior Zero"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -90,5 +132,97 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyfqbE29ODbk9Xetl2y6MVojaOZ_vh8fR9SQRshdV5IFzH_qDlrL8avIH8ny1BQzEvDBIRy93-AX-AK0d5j6b-EAnvSL87dVNstilNSB94SrGuOZLSUCOHdCRCvkUsdlLPRxbiu",
       "nome": "Hunt for Young Harlock Part 2 - For the Flag of Freedom"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-07-06T00:00:00+00:00",
+    "to": "2001-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2001
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2001
+      }
+    },
+    "string": "Jul 6, 2001 to Sep 28, 2001"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.53,
+  "scored_by": 2429,
+  "rank": 7197,
+  "popularity": 8298,
+  "members": 6802,
+  "favorites": 6,
+  "synopsis": "The long war between the planet Earth and the machine men is finally over, resulting in a peace that is more a victory for the machine men than the Earth. Warrius Zero lost his family in the war to the machine men but despite this he is still is a member of the Earth fleet that is now working in concert with the machine men. His ship, made up of both humans and machine men, has been given a near impossible task: capture the space pirate Captain Harlock. While Zero struggles to accomplish this task, evidence begins to surface that the peace between machine men and Earth may not be as it seems...\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2001,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 136,
+      "type": "anime",
+      "name": "Vega Entertainment",
+      "url": "https://myanimelist.net/anime/producer/136/Vega_Entertainment"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1254/106173l.webp",
+  "trailer_url": null,
+  "id": 1676,
+  "slug": "cosmo-warrior-zero"
 }

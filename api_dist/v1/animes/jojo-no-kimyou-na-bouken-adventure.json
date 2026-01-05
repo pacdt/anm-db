@@ -1,19 +1,57 @@
 {
-  "id": 665,
-  "slug": "jojo-no-kimyou-na-bouken-adventure",
-  "type": "legendado",
+  "mal_id": 665,
+  "url": "https://myanimelist.net/anime/665/JoJo_no_Kimyou_na_Bouken__Adventure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/53147.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/53147t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/53147l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/53147.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/53147t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/53147l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "JoJo no Kimyou na Bouken: Adventure"
+    },
+    {
+      "type": "Synonym",
+      "title": "JoJo's Bizarre Adventure (2000)"
+    },
+    {
+      "type": "Japanese",
+      "title": "ジョジョの奇妙な冒険 ADVENTURE"
+    },
+    {
+      "type": "English",
+      "title": "JoJo's Bizarre Adventure (OVA)"
+    }
+  ],
   "title": "JoJo no Kimyou na Bouken: Adventure",
   "title_english": "JoJo's Bizarre Adventure (OVA)",
   "title_japanese": "ジョジョの奇妙な冒険 ADVENTURE",
-  "image": "https://cdn.myanimelist.net/images/anime/8/53147l.webp",
-  "score": 7.25,
-  "synopsis": "Kujo Jotaro is a normal, popular Japanese high-schooler, until he thinks that he is possessed by a spirit, and locks himself in prison. After seeing his grandfather, Joseph Joestar, and fighting Joseph's friend Muhammad Abdul, Jotaro learns that the \"Spirit\" is actually Star Platinum, his Stand, or fighting energy given a semi-solid form. Later, his mother gains a Stand, and becomes sick. Jotaro learns that it is because the vampire Dio Brando has been revived 100 years after his defeat to Jonathan Joestar, Jotaro's great-great-grandfather. Jotaro decides to join Joseph and Abdul in a trip to Egypt to defeat Dio once and for all.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Drama"
+  "title_synonyms": [
+    "JoJo's Bizarre Adventure (2000)"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +112,97 @@
       "numero": 13,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyhkwrVFamksMhCPxxbMkiopBfnLsd4LldEk2RwEphBVXn9NhSpKuYKTDzDWMxunCnh6NmLK1DLZ4CgNT3a_lBlCUnqyhMVb_6qZDSHRj6f_uo5BaqqzYuJl6cCn2Q4rjZ02J4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-05-25T00:00:00+00:00",
+    "to": "2002-01-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 5,
+        "year": 2000
+      },
+      "to": {
+        "day": 25,
+        "month": 1,
+        "year": 2002
+      }
+    },
+    "string": "May 25, 2000 to Jan 25, 2002"
+  },
+  "duration": "28 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.25,
+  "scored_by": 38845,
+  "rank": 3241,
+  "popularity": 2533,
+  "members": 87916,
+  "favorites": 380,
+  "synopsis": "Kujo Jotaro is a normal, popular Japanese high-schooler, until he thinks that he is possessed by a spirit, and locks himself in prison. After seeing his grandfather, Joseph Joestar, and fighting Joseph's friend Muhammad Abdul, Jotaro learns that the \"Spirit\" is actually Star Platinum, his Stand, or fighting energy given a semi-solid form. Later, his mother gains a Stand, and becomes sick. Jotaro learns that it is because the vampire Dio Brando has been revived 100 years after his defeat to Jonathan Joestar, Jotaro's great-great-grandfather. Jotaro decides to join Joseph and Abdul in a trip to Egypt to defeat Dio once and for all.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1139,
+      "type": "anime",
+      "name": "BEAM Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1139/BEAM_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "APPP",
+      "url": "https://myanimelist.net/anime/producer/77/APPP"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/53147l.webp",
+  "trailer_url": null,
+  "id": 665,
+  "slug": "jojo-no-kimyou-na-bouken-adventure"
 }

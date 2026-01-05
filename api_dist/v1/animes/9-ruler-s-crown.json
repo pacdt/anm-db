@@ -1,18 +1,62 @@
 {
-  "id": 62335,
-  "slug": "9-ruler-s-crown",
-  "type": "legendado",
+  "mal_id": 62335,
+  "url": "https://myanimelist.net/anime/62335/9__Rulers_Crown_-_Branch_X",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1692/151675.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1692/151675t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1692/151675l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1692/151675.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1692/151675t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1692/151675l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "9: Ruler's Crown - Branch X"
+    },
+    {
+      "type": "Synonym",
+      "title": "9: Ruler's Crown Recap"
+    },
+    {
+      "type": "Synonym",
+      "title": "9: Ruler's Crown Episode 8.5"
+    },
+    {
+      "type": "Japanese",
+      "title": "9-nine- Ruler's Crown Branch X"
+    },
+    {
+      "type": "English",
+      "title": "9: Ruler's Crown - Branch X"
+    }
+  ],
   "title": "9: Ruler's Crown - Branch X",
   "title_english": "9: Ruler's Crown - Branch X",
   "title_japanese": "9-nine- Ruler's Crown Branch X",
-  "image": "https://cdn.myanimelist.net/images/anime/1692/151675l.webp",
-  "score": 5.94,
-  "synopsis": "A special program, delivered from Sophitia's perspective, retracing the journey so far—featuring newly recorded music and fresh announcements—crafted to be enjoyed both by first-time viewers and longtime fans alike.\n\n(Source: Official site)",
-  "trailer_url": null,
-  "genres": [
-    "Mystery",
-    "Romance"
+  "title_synonyms": [
+    "9: Ruler's Crown Recap",
+    "9: Ruler's Crown Episode 8.5"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -30,5 +74,82 @@
       "numero": 4,
       "url": "https://lightspeedst.net/s5/mp4_temp/9-ruler-s-crown/4/720p.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-08-23T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 8,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 23, 2025"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.94,
+  "scored_by": 118,
+  "rank": 10683,
+  "popularity": 18614,
+  "members": 457,
+  "favorites": 0,
+  "synopsis": "A special program, delivered from Sophitia's perspective, retracing the journey so far—featuring newly recorded music and fresh announcements—crafted to be enjoyed both by first-time viewers and longtime fans alike.\n\n(Source: Official site)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 753,
+      "type": "anime",
+      "name": "PRA",
+      "url": "https://myanimelist.net/anime/producer/753/PRA"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1692/151675l.webp",
+  "trailer_url": null,
+  "id": 62335,
+  "slug": "9-ruler-s-crown"
 }

@@ -1,21 +1,145 @@
 {
-  "id": 264,
-  "slug": "hajime-no-ippo-champion-road",
-  "type": "legendado",
+  "mal_id": 264,
+  "url": "https://myanimelist.net/anime/264/Hajime_no_Ippo__Champion_Road",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1521/137978.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1521/137978.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hajime no Ippo: Champion Road"
+    },
+    {
+      "type": "Synonym",
+      "title": "The First Step - Champion Road"
+    },
+    {
+      "type": "Japanese",
+      "title": "はじめの一歩 -Champion Road-"
+    },
+    {
+      "type": "English",
+      "title": "Fighting Spirit: Champion Road"
+    }
+  ],
   "title": "Hajime no Ippo: Champion Road",
   "title_english": "Fighting Spirit: Champion Road",
   "title_japanese": "はじめの一歩 -Champion Road-",
-  "image": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
-  "score": 8.25,
-  "synopsis": "The challenger has become the champion as Ippo Makunouchi now wears the featherweight championship belt of Japan. \nSome time has passed since Ippo's victory, and he has found his friends and coach as supportive as ever; his crush, Kumi Mashiba, seems to enjoy spending time with him as well. Things are looking bright for the new champion, but just as he once set his sights on becoming the best, his first challenger poses an intimidating threat. \n\nKazuki Sanada works as a doctor at the same hospital as Kumi and fights strategically. Known for integrating his knowledge of the human body into his fights, Sanada is a fearsome contender—however, more unnerving than his physical ability, he has garnered the support of the nurses. Despite being the champion, Ippo feels the pressure as he must face the daunting challenge, retain his belt, and win over the girl he loves.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Sports"
+  "title_synonyms": [
+    "The First Step - Champion Road"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s3/mp4/hajime-no-ippo-champion-road/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-04-18T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 4,
+        "year": 2003
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 18, 2003"
+  },
+  "duration": "1 hr 31 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.25,
+  "scored_by": 93156,
+  "rank": 359,
+  "popularity": 1692,
+  "members": 154304,
+  "favorites": 276,
+  "synopsis": "The challenger has become the champion as Ippo Makunouchi now wears the featherweight championship belt of Japan. \nSome time has passed since Ippo's victory, and he has found his friends and coach as supportive as ever; his crush, Kumi Mashiba, seems to enjoy spending time with him as well. Things are looking bright for the new champion, but just as he once set his sights on becoming the best, his first challenger poses an intimidating threat. \n\nKazuki Sanada works as a doctor at the same hospital as Kumi and fights strategically. Known for integrating his knowledge of the human body into his fights, Sanada is a fearsome contender—however, more unnerving than his physical ability, he has garnered the support of the nurses. Despite being the champion, Ippo feels the pressure as he must face the daunting challenge, retain his belt, and win over the girl he loves.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+  "trailer_url": null,
+  "id": 264,
+  "slug": "hajime-no-ippo-champion-road"
 }

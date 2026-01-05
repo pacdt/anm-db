@@ -1,18 +1,69 @@
 {
-  "id": 33541,
-  "slug": "bishoujo-yuugi-unit-crane-game-girls-galaxy",
-  "type": "legendado",
+  "mal_id": 33541,
+  "url": "https://myanimelist.net/anime/33541/Bishoujo_Yuugi_Unit_Crane_Game_Girls_Galaxy",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/81924.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/81924t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/81924l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/81924.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/81924t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/81924l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bishoujo Yuugi Unit Crane Game Girls Galaxy"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bishoujo Yuugi Unit Crane Gale: Crane Game Girls 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "美少女遊戯ユニット クレーンゲールギャラクシー"
+    },
+    {
+      "type": "English",
+      "title": "Crane Game Girls Galaxy"
+    },
+    {
+      "type": "German",
+      "title": "Crane Game Girls Galaxy"
+    },
+    {
+      "type": "Spanish",
+      "title": "Carne Game Girls Galaxy"
+    },
+    {
+      "type": "French",
+      "title": "Crane Game Girls Galaxy"
+    }
+  ],
   "title": "Bishoujo Yuugi Unit Crane Game Girls Galaxy",
   "title_english": "Crane Game Girls Galaxy",
   "title_japanese": "美少女遊戯ユニット クレーンゲールギャラクシー",
-  "image": "https://cdn.myanimelist.net/images/anime/3/81924l.webp",
-  "score": 4.73,
-  "synopsis": "After utilizing the power of crane games to protect Earth from certain destruction by asteroids, the Crane Game Girls successfully become the planet's most popular idol group. However, their success is bittersweet when their manager, Saya, disappears on the day of their fateful final mission.\n\nOne day, an Earth Invasion Idol group known as Dark Cherry interrupts a live show and challenges the Crane Game Girls to a battle. To make matters worse, Saya has reappeared as Dark Cherry's manager! As the group prepares to face off against their new foes, they begin to unravel the secrets of Saya's betrayal and the reasons behind the sudden invasion from planet Dark Gorilla.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Bishoujo Yuugi Unit Crane Gale: Crane Game Girls 2"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -34,5 +85,83 @@
       "url": "0",
       "nome": "Master it? The Idol Masters!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-05T00:00:00+00:00",
+    "to": "2016-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 5, 2016 to Dec 21, 2016"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG - Children",
+  "score": 4.73,
+  "scored_by": 1571,
+  "rank": 14177,
+  "popularity": 10283,
+  "members": 3748,
+  "favorites": 1,
+  "synopsis": "After utilizing the power of crane games to protect Earth from certain destruction by asteroids, the Crane Game Girls successfully become the planet's most popular idol group. However, their success is bittersweet when their manager, Saya, disappears on the day of their fateful final mission.\n\nOne day, an Earth Invasion Idol group known as Dark Cherry interrupts a live show and challenges the Crane Game Girls to a battle. To make matters worse, Saya has reappeared as Dark Cherry's manager! As the group prepares to face off against their new foes, they begin to unravel the secrets of Saya's betrayal and the reasons behind the sudden invasion from planet Dark Gorilla.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1557,
+      "type": "anime",
+      "name": "Pony Canyon Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprises"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 833,
+      "type": "anime",
+      "name": "Kyotoma",
+      "url": "https://myanimelist.net/anime/producer/833/Kyotoma"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/81924l.webp",
+  "trailer_url": null,
+  "id": 33541,
+  "slug": "bishoujo-yuugi-unit-crane-game-girls-galaxy"
 }

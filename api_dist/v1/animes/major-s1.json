@@ -1,17 +1,47 @@
 {
-  "id": 627,
-  "slug": "major-s1",
-  "type": "legendado",
+  "mal_id": 627,
+  "url": "https://myanimelist.net/anime/627/Major_S1",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/73973.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/73973t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/73973l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/73973.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/73973t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/73973l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Major S1"
+    },
+    {
+      "type": "Japanese",
+      "title": "メジャー （第1シリーズ）"
+    }
+  ],
   "title": "Major S1",
   "title_english": "Major S1",
   "title_japanese": "メジャー （第1シリーズ）",
-  "image": "https://cdn.myanimelist.net/images/anime/13/73973l.webp",
-  "score": 8.2,
-  "synopsis": "Gorou Honda, a little boy obsessed with baseball, has always admired his father, Shigeharu. Wishing to follow in his father's footsteps, Gorou dreams of becoming a professional baseball player. In turn, his son's starry-eyed admiration encourages Shigeharu to keep persevering, despite his late wife's death and his unsatisfying position on the second-string team Blue Ocean.\n\nUnfortunately, an elbow injury forces Shigeharu off the team, and he falls into despair. However, after an offhand joke from his childhood friend, Shigeharu reevaluates his choices and decides to keep playing, leaving behind his prime position as pitcher and taking up the bat. Now motivated more than ever, Gorou works hard to carve his way in the Japanese Little League.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +173,95 @@
       "url": "https://lightspeedst.net/s3/mp4/major-s1/sd/26.mp4",
       "nome": "I Won`t Say Goodbye"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-11-13T00:00:00+00:00",
+    "to": "2005-05-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 11,
+        "year": 2004
+      },
+      "to": {
+        "day": 21,
+        "month": 5,
+        "year": 2005
+      }
+    },
+    "string": "Nov 13, 2004 to May 21, 2005"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.2,
+  "scored_by": 53748,
+  "rank": 417,
+  "popularity": 2222,
+  "members": 107166,
+  "favorites": 1436,
+  "synopsis": "Gorou Honda, a little boy obsessed with baseball, has always admired his father, Shigeharu. Wishing to follow in his father's footsteps, Gorou dreams of becoming a professional baseball player. In turn, his son's starry-eyed admiration encourages Shigeharu to keep persevering, despite his late wife's death and his unsatisfying position on the second-string team Blue Ocean.\n\nUnfortunately, an elbow injury forces Shigeharu off the team, and he falls into despair. However, after an offhand joke from his childhood friend, Shigeharu reevaluates his choices and decides to keep playing, leaving behind his prime position as pitcher and taking up the bat. Now motivated more than ever, Gorou works hard to carve his way in the Japanese Little League.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    },
+    {
+      "mal_id": 3087,
+      "type": "anime",
+      "name": "Shogakukan Productions",
+      "url": "https://myanimelist.net/anime/producer/3087/Shogakukan_Productions"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 101,
+      "type": "anime",
+      "name": "Studio Hibari",
+      "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/13/73973l.webp",
+  "trailer_url": null,
+  "id": 627,
+  "slug": "major-s1"
 }

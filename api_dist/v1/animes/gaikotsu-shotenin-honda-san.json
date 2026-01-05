@@ -1,17 +1,63 @@
 {
-  "id": 36317,
-  "slug": "gaikotsu-shotenin-honda-san",
-  "type": "legendado",
+  "mal_id": 36317,
+  "url": "https://myanimelist.net/anime/36317/Gaikotsu_Shotenin_Honda-san",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1555/93865.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1555/93865t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1555/93865l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1555/93865.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1555/93865t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1555/93865l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/MLSGck3SKv8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガイコツ書店員本田さん"
+    },
+    {
+      "type": "English",
+      "title": "Skull-face Bookseller Honda-san"
+    },
+    {
+      "type": "German",
+      "title": "Skull-face Bookseller Honda-san"
+    },
+    {
+      "type": "Spanish",
+      "title": "Skull-face Bookseller Honda-san"
+    },
+    {
+      "type": "French",
+      "title": "Skull-face Bookseller Honda-san"
+    }
+  ],
   "title": "Gaikotsu Shotenin Honda-san",
   "title_english": "Skull-face Bookseller Honda-san",
   "title_japanese": "ガイコツ書店員本田さん",
-  "image": "https://cdn.myanimelist.net/images/anime/1555/93865l.webp",
-  "score": 7.28,
-  "synopsis": "Honda is a skeleton, but more importantly, they are a bookseller. And they will tell you from firsthand experience that the job of a bookstore employee is more challenging than it may seem to the average customer.\n\nAlongside their equally eccentric coworkers, Honda constantly deals with the stressful requirements of the bookselling industry. From the drama of receiving new titles without their bonus material to the struggle of providing quality service to customers who speak a different language, the work of a skeleton bookseller never ends.\n\nNevertheless, despite the hardships they face, Honda thoroughly enjoys their job and strives to bring the best book selections and service to their customers.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/MLSGck3SKv8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +119,131 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyBhqA9wpJ7oyhaJdnaNPXs3pXOUTIcielHWw7qX8W0RThVYroc88F-LdkActwwEaVCIZ9LvuiHZet-2U31EF8z4v0wLKQTgHI6QqnTRv0GGCVpYXsZj7V6C_m7evAbBM13qF1v",
       "nome": "Merry Christmas, Mr. Bookstore / It's Time to Close"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-08T00:00:00+00:00",
+    "to": "2018-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 8, 2018 to Dec 24, 2018"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.28,
+  "scored_by": 52105,
+  "rank": 3057,
+  "popularity": 1991,
+  "members": 126081,
+  "favorites": 418,
+  "synopsis": "Honda is a skeleton, but more importantly, they are a bookseller. And they will tell you from firsthand experience that the job of a bookstore employee is more challenging than it may seem to the average customer.\n\nAlongside their equally eccentric coworkers, Honda constantly deals with the stressful requirements of the bookselling industry. From the drama of receiving new titles without their bonus material to the struggle of providing quality service to customers who speak a different language, the work of a skeleton bookseller never ends.\n\nNevertheless, despite the hardships they face, Honda thoroughly enjoys their job and strives to bring the best book selections and service to their customers.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 354,
+      "type": "anime",
+      "name": "Encourage Films",
+      "url": "https://myanimelist.net/anime/producer/354/Encourage_Films"
+    },
+    {
+      "mal_id": 1631,
+      "type": "anime",
+      "name": "Radio Osaka",
+      "url": "https://myanimelist.net/anime/producer/1631/Radio_Osaka"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1786,
+      "type": "anime",
+      "name": "Muse Communication",
+      "url": "https://myanimelist.net/anime/producer/1786/Muse_Communication"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 276,
+      "type": "anime",
+      "name": "DLE",
+      "url": "https://myanimelist.net/anime/producer/276/DLE"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1555/93865l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/MLSGck3SKv8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36317,
+  "slug": "gaikotsu-shotenin-honda-san"
 }

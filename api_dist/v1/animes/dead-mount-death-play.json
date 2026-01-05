@@ -1,18 +1,51 @@
 {
-  "id": 53613,
-  "slug": "dead-mount-death-play",
-  "type": "legendado",
+  "mal_id": 53613,
+  "url": "https://myanimelist.net/anime/53613/Dead_Mount_Death_Play",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1930/133758.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/133758t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/133758l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1930/133758.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1930/133758t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1930/133758l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/IOkS_GU9BNc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dead Mount Death Play"
+    },
+    {
+      "type": "Japanese",
+      "title": "デッドマウント・デスプレイ"
+    },
+    {
+      "type": "English",
+      "title": "Dead Mount Death Play"
+    }
+  ],
   "title": "Dead Mount Death Play",
   "title_english": "Dead Mount Death Play",
   "title_japanese": "デッドマウント・デスプレイ",
-  "image": "https://cdn.myanimelist.net/images/anime/1930/133758l.webp",
-  "score": 7.26,
-  "synopsis": "A powerful necromancer known as the Corpse God dies during a legendary battle, only to be reborn as Polka Shinoyama, a young boy in modern-day Tokyo. In the process of trying to adapt to his new physical body, he gets targeted by various groups that deal with the supernatural. Among them is Misaki Sakimiya, a high school girl who can see spirits and is out for his blood from the very moment they meet.\n\nAttempting to make sense of this situation where unknown parties want him dead, Polka eventually meets Takumi Kuruya, a contractor skilled in surveillance and hacking, and Lisa Kuraki, a crime boss operating out of Shinjuku. Alongside these—and other unexpected—allies, Polka braves danger to reveal the truth of his reincarnation and the fate awaiting the world he now lives in.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/IOkS_GU9BNc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,132 @@
       "url": "https://lightspeedst.net/s6/mp4/dead-mount-death-play/hd/12.mp4",
       "nome": "The Sacred Place"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-04-11T00:00:00+00:00",
+    "to": "2023-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2023
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2023
+      }
+    },
+    "string": "Apr 11, 2023 to Jun 27, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.26,
+  "scored_by": 120844,
+  "rank": 3154,
+  "popularity": 979,
+  "members": 279136,
+  "favorites": 1274,
+  "synopsis": "A powerful necromancer known as the Corpse God dies during a legendary battle, only to be reborn as Polka Shinoyama, a young boy in modern-day Tokyo. In the process of trying to adapt to his new physical body, he gets targeted by various groups that deal with the supernatural. Among them is Misaki Sakimiya, a high school girl who can see spirits and is out for his blood from the very moment they meet.\n\nAttempting to make sense of this situation where unknown parties want him dead, Polka eventually meets Takumi Kuruya, a contractor skilled in surveillance and hacking, and Lisa Kuraki, a crime boss operating out of Shinjuku. Alongside these—and other unexpected—allies, Polka braves danger to reveal the truth of his reincarnation and the fate awaiting the world he now lives in.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2023,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 1289,
+      "type": "anime",
+      "name": "F.M.F",
+      "url": "https://myanimelist.net/anime/producer/1289/FMF"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 2670,
+      "type": "anime",
+      "name": "Geek Pictures",
+      "url": "https://myanimelist.net/anime/producer/2670/Geek_Pictures"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1857,
+      "type": "anime",
+      "name": "Geek Toys",
+      "url": "https://myanimelist.net/anime/producer/1857/Geek_Toys"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1930/133758l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/IOkS_GU9BNc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 53613,
+  "slug": "dead-mount-death-play"
 }

@@ -1,17 +1,65 @@
 {
-  "id": 31904,
-  "slug": "big-order-tv",
-  "type": "legendado",
+  "mal_id": 31904,
+  "url": "https://myanimelist.net/anime/31904/Big_Order_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/79757.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/79757t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/79757l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/79757.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/79757t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/79757l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DpGlepcMre0/?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Big Order (TV)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Big Order"
+    },
+    {
+      "type": "Japanese",
+      "title": "ビッグオーダー"
+    },
+    {
+      "type": "German",
+      "title": "Big Order"
+    },
+    {
+      "type": "Spanish",
+      "title": "Big Order"
+    },
+    {
+      "type": "French",
+      "title": "Big Order"
+    }
+  ],
   "title": "Big Order (TV)",
   "title_english": "Big Order (TV)",
   "title_japanese": "ビッグオーダー",
-  "image": "https://cdn.myanimelist.net/images/anime/11/79757l.webp",
-  "score": 5.35,
-  "synopsis": "Ten years ago, a fairy by the name of Daisy appeared and asked the child Eiji Hoshimiya what his one and only wish was. Although his wish remains a mystery, the consequences were catastrophic. In an event called the \"Great Destruction,\" the world started to fall apart as everything collapsed and countless people died.\n\nNow, Eiji is a high school student whose only concern is his sick sister. He does not remember what he wished for; all that he remembers is that his wish caused the Great Destruction. In the years since that event, thousands of other people have also received abilities to make their heart's desire come true. These people called \"Orders\" are believed to be evil and are hated by the general public. However, some of these Orders are after Eiji's life in vengeance for those that he killed. Will Eiji be able to survive the numerous assassination attempts? And the biggest mystery of all: what did he wish for, and what were his intentions in wishing for something that caused so much desolation?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DpGlepcMre0/?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "Big Order"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +111,114 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyAp1LSoNsxxcn_5_N_KFkGXuAHLM31ws3w3OdBkEN5vbqpXze-ba6gus-UbVTKnGuIcA1wF_Ntd6DPsBRU4cndT47-WUSyHsigCAotEYZlpgtZwQkC9KujWxaV6TvzX_SABzFk",
       "nome": "Order! Fight and Believe in Yourself! Big Distortion"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-16T00:00:00+00:00",
+    "to": "2016-06-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 18,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 16, 2016 to Jun 18, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.35,
+  "scored_by": 113507,
+  "rank": 13208,
+  "popularity": 1133,
+  "members": 243623,
+  "favorites": 264,
+  "synopsis": "Ten years ago, a fairy by the name of Daisy appeared and asked the child Eiji Hoshimiya what his one and only wish was. Although his wish remains a mystery, the consequences were catastrophic. In an event called the \"Great Destruction,\" the world started to fall apart as everything collapsed and countless people died.\n\nNow, Eiji is a high school student whose only concern is his sick sister. He does not remember what he wished for; all that he remembers is that his wish caused the Great Destruction. In the years since that event, thousands of other people have also received abilities to make their heart's desire come true. These people called \"Orders\" are believed to be evil and are hated by the general public. However, some of these Orders are after Eiji's life in vengeance for those that he killed. Will Eiji be able to survive the numerous assassination attempts? And the biggest mystery of all: what did he wish for, and what were his intentions in wishing for something that caused so much desolation?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 163,
+      "type": "anime",
+      "name": "asread.",
+      "url": "https://myanimelist.net/anime/producer/163/asread"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/79757l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DpGlepcMre0/?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31904,
+  "slug": "big-order-tv"
 }

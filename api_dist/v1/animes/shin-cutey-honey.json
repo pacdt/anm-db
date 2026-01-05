@@ -1,20 +1,72 @@
 {
-  "id": 2497,
-  "slug": "shin-cutey-honey",
-  "type": "legendado",
+  "mal_id": 2497,
+  "url": "https://myanimelist.net/anime/2497/Shin_Cutie_Honey",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1133/94174.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/94174t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/94174l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1133/94174.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1133/94174t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1133/94174l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shin Cutie Honey"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shin Cutey Honey"
+    },
+    {
+      "type": "Synonym",
+      "title": "New Cutey Honey"
+    },
+    {
+      "type": "Synonym",
+      "title": "New Cutey Honey Dark Group"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shin Cutey Honey Yami no Gundan-Hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "新・キューティーハニー"
+    },
+    {
+      "type": "English",
+      "title": "New Cutey Honey"
+    }
+  ],
   "title": "Shin Cutie Honey",
   "title_english": "New Cutey Honey",
   "title_japanese": "新・キューティーハニー",
-  "image": "https://cdn.myanimelist.net/images/anime/1133/94174l.webp",
-  "score": 6.64,
-  "synopsis": "Cosplay City is in danger when the evil Dolmeck shows up. Commanding his army of monsters, he plans on destroying everything. Only one person can stop this: Cutey Honey. After she is released from her dormancy, Honey Kisaragi becomes the multi-transformational android Cutey Honey. However, the least is expected when Honey is faced with an old enemy from the past: Panther Zora. \n\n(Source: AniDB)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Sci-Fi",
-    "Ecchi"
+  "title_synonyms": [
+    "Shin Cutey Honey",
+    "New Cutey Honey",
+    "New Cutey Honey Dark Group",
+    "Shin Cutey Honey Yami no Gundan-Hen"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -48,5 +100,91 @@
       "numero": 8,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyqnepSs-s_d-SqSnx3aRrcMJ-ji_lQJjQlxRYnrctgHtLZANzQAUDawfZ7DYp8L9WuApvGO-P7zWyhZb_CYXFpIFazLIzfJ219W1bPaf6udJKLTm2CKf6UqQ8tD2g64bbgCcL2"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1994-04-21T00:00:00+00:00",
+    "to": "1995-11-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 4,
+        "year": 1994
+      },
+      "to": {
+        "day": 21,
+        "month": 11,
+        "year": 1995
+      }
+    },
+    "string": "Apr 21, 1994 to Nov 21, 1995"
+  },
+  "duration": "26 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.64,
+  "scored_by": 4224,
+  "rank": 6532,
+  "popularity": 6449,
+  "members": 12632,
+  "favorites": 45,
+  "synopsis": "Cosplay City is in danger when the evil Dolmeck shows up. Commanding his army of monsters, he plans on destroying everything. Only one person can stop this: Cutey Honey. After she is released from her dormancy, Honey Kisaragi becomes the multi-transformational android Cutey Honey. However, the least is expected when Honey is faced with an old enemy from the past: Panther Zora. \n\n(Source: AniDB)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 141,
+      "type": "anime",
+      "name": "Toei Video",
+      "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+    },
+    {
+      "mal_id": 921,
+      "type": "anime",
+      "name": "Dynamic Planning",
+      "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1133/94174l.webp",
+  "trailer_url": null,
+  "id": 2497,
+  "slug": "shin-cutey-honey"
 }

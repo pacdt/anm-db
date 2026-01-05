@@ -1,19 +1,67 @@
 {
-  "id": 9065,
-  "slug": "hakuouki-hekketsuroku",
-  "type": "legendado",
+  "mal_id": 9065,
+  "url": "https://myanimelist.net/anime/9065/Hakuouki__Hekketsuroku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/71797.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/71797t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/71797l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/71797.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/71797t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/71797l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/T9Ar9XL1Fq8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hakuouki: Hekketsuroku"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hakuouki 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hakuoki 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hakuouki: Hekketsu-roku - Shinsengumi Kitan"
+    },
+    {
+      "type": "Japanese",
+      "title": "薄桜鬼 碧血録"
+    },
+    {
+      "type": "English",
+      "title": "Hakuoki: Demon of the Fleeting Blossom - Record of the Jade Blood"
+    }
+  ],
   "title": "Hakuouki: Hekketsuroku",
   "title_english": "Hakuoki: Demon of the Fleeting Blossom - Record of the Jade Blood",
   "title_japanese": "薄桜鬼 碧血録",
-  "image": "https://cdn.myanimelist.net/images/anime/12/71797l.webp",
-  "score": 7.55,
-  "synopsis": "After the conclusion of Hakuouki, Chizuru Yukimura and the Shinsengumi are forced to flee Kyoto and set sail for Edo. In their commander Isami Kondou's absence, vice-commander Toshizou Hijikata steps in as acting commander. However, Hijikata is not only struggling with the extra leadership duties—which worries everyone around him—but also a newfound uncontrollable bloodlust. To make matters worse, the urge does not affect him alone, and it is even beginning to drive some of his subordinates mad.\n\nFinally, Kondou returns with orders from the emperor to defend the castle, and a new name for their squad: the Kouyou Chinbutai. But in war, the balance of power can shift suddenly and allegiances can waver. In Hakuouki Hekketsuroku, Chizuru follows the Shinsengumi into the heart of war and continues the search for her missing father, all while the bond between her and Hijikata grows ever stronger.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/T9Ar9XL1Fq8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Supernatural"
+  "title_synonyms": [
+    "Hakuouki 2",
+    "Hakuoki 2",
+    "Hakuouki: Hekketsu-roku - Shinsengumi Kitan"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +113,91 @@
       "url": "https://lightspeedst.net/s3/mp4/hakuouki-hekketsuroku/sd/10.mp4",
       "nome": "The Pale, Dreamlike Sakura"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-10-04T00:00:00+00:00",
+    "to": "2010-12-06T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2010
+      },
+      "to": {
+        "day": 6,
+        "month": 12,
+        "year": 2010
+      }
+    },
+    "string": "Oct 4, 2010 to Dec 6, 2010"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.55,
+  "scored_by": 41840,
+  "rank": 1857,
+  "popularity": 2508,
+  "members": 89620,
+  "favorites": 479,
+  "synopsis": "After the conclusion of Hakuouki, Chizuru Yukimura and the Shinsengumi are forced to flee Kyoto and set sail for Edo. In their commander Isami Kondou's absence, vice-commander Toshizou Hijikata steps in as acting commander. However, Hijikata is not only struggling with the extra leadership duties—which worries everyone around him—but also a newfound uncontrollable bloodlust. To make matters worse, the urge does not affect him alone, and it is even beginning to drive some of his subordinates mad.\n\nFinally, Kondou returns with orders from the emperor to defend the castle, and a new name for their squad: the Kouyou Chinbutai. But in war, the balance of power can shift suddenly and allegiances can waver. In Hakuouki Hekketsuroku, Chizuru follows the Shinsengumi into the heart of war and continues the search for her missing father, all while the bond between her and Hijikata grows ever stronger.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2010,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Mondays at Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/71797l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/T9Ar9XL1Fq8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 9065,
+  "slug": "hakuouki-hekketsuroku"
 }

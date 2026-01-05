@@ -1,19 +1,67 @@
 {
-  "id": 37510,
-  "slug": "mob-psycho-100-ii",
-  "type": "legendado",
+  "mal_id": 37510,
+  "url": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1918/96303.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1918/96303.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Pr43Sayk37s?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mob Psycho 100 II"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mob Psycho 100 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mob Psycho Hyaku"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mob Psycho One Hundred"
+    },
+    {
+      "type": "Japanese",
+      "title": "モブサイコ100 II"
+    },
+    {
+      "type": "English",
+      "title": "Mob Psycho 100 II"
+    }
+  ],
   "title": "Mob Psycho 100 II",
   "title_english": "Mob Psycho 100 II",
   "title_japanese": "モブサイコ100 II",
-  "image": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
-  "score": 8.78,
-  "synopsis": "Shigeo \"Mob\" Kageyama is now maturing and understanding his role as a supernatural psychic that has the power to drastically affect the livelihood of others. He and his mentor Reigen Arataka continue to deal with supernatural requests from clients, whether it be exorcizing evil spirits or tackling urban legends that haunt the citizens.\n\nWhile the workflow remains the same, Mob isn't just blindly following Reigen around anymore. With all his experiences as a ridiculously strong psychic, Mob's supernatural adventures now have more weight to them. Things take on a serious and darker tone as the dangers Mob and Reigen face are much more tangible and unsettling than ever before.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Pr43Sayk37s?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Supernatural"
+  "title_synonyms": [
+    "Mob Psycho 100 2nd Season",
+    "Mob Psycho Hyaku",
+    "Mob Psycho One Hundred"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +128,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzX2Q_45qH79JHoWvOOa9EYH36P4Dy0gqNLNzeKOsOhelwrnGtG8fKHLQ_Zr0LbeBwCLvyBPGdj_dU1RB9DPgshByQc_zK2hUyKNdWS_x8Ht1FlgOmqWhSDiHaxRl9c5v-bRpEK",
       "nome": "Boss Fight ~The Final Light~"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-07T00:00:00+00:00",
+    "to": "2019-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      }
+    },
+    "string": "Jan 7, 2019 to Apr 1, 2019"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.78,
+  "scored_by": 1067459,
+  "rank": 41,
+  "popularity": 72,
+  "members": 1691576,
+  "favorites": 33650,
+  "synopsis": "Shigeo \"Mob\" Kageyama is now maturing and understanding his role as a supernatural psychic that has the power to drastically affect the livelihood of others. He and his mentor Reigen Arataka continue to deal with supernatural requests from clients, whether it be exorcizing evil spirits or tackling urban legends that haunt the citizens.\n\nWhile the workflow remains the same, Mob isn't just blindly following Reigen around anymore. With all his experiences as a ridiculously strong psychic, Mob's supernatural adventures now have more weight to them. Things take on a serious and darker tone as the dangers Mob and Reigen face are much more tangible and unsettling than ever before.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Pr43Sayk37s?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37510,
+  "slug": "mob-psycho-100-ii"
 }

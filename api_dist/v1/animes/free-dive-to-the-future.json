@@ -1,17 +1,53 @@
 {
-  "id": 36704,
-  "slug": "free-dive-to-the-future",
-  "type": "legendado",
+  "mal_id": 36704,
+  "url": "https://myanimelist.net/anime/36704/Free_Dive_to_the_Future",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1243/95025.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1243/95025t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1243/95025l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1243/95025.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1243/95025t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1243/95025l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/fCXaIXrIHWU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Free! Dive to the Future"
+    },
+    {
+      "type": "Synonym",
+      "title": "Free! 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "Free!-Dive to the Future-"
+    }
+  ],
   "title": "Free! Dive to the Future",
   "title_english": "Free! Dive to the Future",
   "title_japanese": "Free!-Dive to the Future-",
-  "image": "https://cdn.myanimelist.net/images/anime/1243/95025l.webp",
-  "score": 7.6,
-  "synopsis": "With the seniors having graduated from high school, the determined swimmers eagerly take on their futures with a dream to fulfill. \n\nNow attending Hidaka University in Tokyo, Haruka Nanase unexpectedly runs into Shiina Asahi, an old teammate and friend from his middle school days. Consequently, the troubling memories regarding his middle school swim team resurface, as it was a time when Haruka's views on swimming became negative and led him to quit the team. Haruka later reconnects with his other middle school classmates; all except for Ikuya Kirishima, who still resents Haruka for quitting the team, resulting in its disbandment. Aware of the issues between them, Haruka resolves to improve his friendship with Ikuya. However, he quickly realizes that making amends with an old friend isn't his only obstacle. \n\nFacing the reality and challenges of encountering higher calibre swimmers, Haruka must work hard to establish himself if he dreams of competing on an international level.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/fCXaIXrIHWU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports"
+  "title_synonyms": [
+    "Free! 3rd Season"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +109,107 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzdXFN7p1fDkEnuluF0KD9Lz3KnTzGUdGeoYnoCi0YtNU8WJUR_sI2yTb0RVvx9mEm5jY1WUUVHLRFBMMaDume-dRzooISpGc8_5oRq8ohTCbkGSl8We57um0OoOd4jkI_qLT0",
       "nome": "Dive to the Future!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-12T00:00:00+00:00",
+    "to": "2018-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2018
+      }
+    },
+    "string": "Jul 12, 2018 to Sep 27, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.6,
+  "scored_by": 87946,
+  "rank": 1673,
+  "popularity": 1410,
+  "members": 192375,
+  "favorites": 609,
+  "synopsis": "With the seniors having graduated from high school, the determined swimmers eagerly take on their futures with a dream to fulfill. \n\nNow attending Hidaka University in Tokyo, Haruka Nanase unexpectedly runs into Shiina Asahi, an old teammate and friend from his middle school days. Consequently, the troubling memories regarding his middle school swim team resurface, as it was a time when Haruka's views on swimming became negative and led him to quit the team. Haruka later reconnects with his other middle school classmates; all except for Ikuya Kirishima, who still resents Haruka for quitting the team, resulting in its disbandment. Aware of the issues between them, Haruka resolves to improve his friendship with Ikuya. However, he quickly realizes that making amends with an old friend isn't his only obstacle. \n\nFacing the reality and challenges of encountering higher calibre swimmers, Haruka must work hard to establish himself if he dreams of competing on an international level.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2018,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    },
+    {
+      "mal_id": 2147,
+      "type": "anime",
+      "name": "Heart Company",
+      "url": "https://myanimelist.net/anime/producer/2147/Heart_Company"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    },
+    {
+      "mal_id": 929,
+      "type": "anime",
+      "name": "Animation Do",
+      "url": "https://myanimelist.net/anime/producer/929/Animation_Do"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1243/95025l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/fCXaIXrIHWU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36704,
+  "slug": "free-dive-to-the-future"
 }

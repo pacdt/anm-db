@@ -1,24 +1,155 @@
 {
-  "id": 15117,
-  "slug": "kami-nomi-zo-shiru-sekai-tenri-hen",
-  "type": "legendado",
+  "mal_id": 15117,
+  "url": "https://myanimelist.net/anime/15117/Kami_nomi_zo_Shiru_Sekai__Tenri-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/43359.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/43359t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/43359l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/43359.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/43359t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/43359l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kami nomi zo Shiru Sekai: Tenri-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaminomi: Tenri-hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "神のみぞ知るセカイ 天理篇"
+    },
+    {
+      "type": "English",
+      "title": "The World God Only Knows: Tenri Arc"
+    }
+  ],
   "title": "Kami nomi zo Shiru Sekai: Tenri-hen",
   "title_english": "The World God Only Knows: Tenri Arc",
   "title_japanese": "神のみぞ知るセカイ 天理篇",
-  "image": "https://cdn.myanimelist.net/images/anime/11/43359l.webp",
-  "score": 7.66,
-  "synopsis": "It is summer break and Keima intends to spend all his time on video games. An old acquaintance, the timid girl Tenri, comes back into the neighborhood—and apparently has a lost soul inside her. It is up to Keima and Elysia to unravel the secrets of her heart.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Kaminomi: Tenri-hen"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s3/mp4/kami-nomi-zo-shiru-sekai-tenri-hen/sd/1.mp4",
       "nome": "The Reunion"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-18T00:00:00+00:00",
+    "to": "2012-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Oct 18, 2012 to Dec 18, 2012"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.66,
+  "scored_by": 84426,
+  "rank": 1461,
+  "popularity": 1804,
+  "members": 142867,
+  "favorites": 107,
+  "synopsis": "It is summer break and Keima intends to spend all his time on video games. An old acquaintance, the timid girl Tenri, comes back into the neighborhood—and apparently has a lost soul inside her. It is up to Keima and Elysia to unravel the secrets of her heart.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Geneon Universal Entertainment",
+      "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Manglobe",
+      "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/43359l.webp",
+  "trailer_url": null,
+  "id": 15117,
+  "slug": "kami-nomi-zo-shiru-sekai-tenri-hen"
 }

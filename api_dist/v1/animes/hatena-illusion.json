@@ -1,19 +1,51 @@
 {
-  "id": 35252,
-  "slug": "hatena-illusion",
-  "type": "legendado",
+  "mal_id": 35252,
+  "url": "https://myanimelist.net/anime/35252/Hatena☆Illusion",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1299/106117.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/106117t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/106117l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1299/106117.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/106117t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/106117l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/MDyi_KbcPYs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hatena☆Illusion"
+    },
+    {
+      "type": "Japanese",
+      "title": "はてな☆イリュージョン"
+    },
+    {
+      "type": "English",
+      "title": "Hatena Illusion"
+    }
+  ],
   "title": "Hatena☆Illusion",
   "title_english": "Hatena Illusion",
   "title_japanese": "はてな☆イリュージョン",
-  "image": "https://cdn.myanimelist.net/images/anime/1299/106117l.webp",
-  "score": 5.43,
-  "synopsis": "Years ago, many magical \"Artifacts\" were stolen and scattered throughout the world. They fell into the hands of people who were not supposed to know of their existence, causing misfortune to those who abused their power. The Hoshisato family of magicians has special access to the Artifacts, and they take it upon themselves to return them to their rightful place.\n\nDespite her inexperience, Kana \"Hatena\" Hoshisato wishes to aid her parents Mamoru and Maeve in their quest, doing her best to improve. Meanwhile, her childhood friend Makoto Shiranui has come to their mansion to study magic under her father's tutelage as part of a promise they made years ago. Hatena is excited to see her friend again, only to be utterly disappointed when the person she thought to be a girl all these years turns out to be a boy, leading to a bitter reunion.\n\nBefore long, Makoto comes to know of the Artifacts and the true identities of the magicians he admires. Unfazed, he continues to strive to fulfill his promises and stay true to why he learns magic—to ease the sadness of people around him and, most importantly, to become a person worthy of being Hatena's partner.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/MDyi_KbcPYs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +107,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx6WoHfCfX5wEEYwpdT-3fQ21loe5GI2mHvtFvacZ1YZ1eVyLqeuxNPI-v-uH9Gnhbo8IsK5YAT2I1L7cmexTfmYN5Pwp6dv0vwZDj45_9gFBkLKsysW5vT7WRbCxJXEzTi0b__",
       "nome": "Episode 12"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-09T00:00:00+00:00",
+    "to": "2020-06-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 4,
+        "month": 6,
+        "year": 2020
+      }
+    },
+    "string": "Jan 9, 2020 to Jun 4, 2020"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.43,
+  "scored_by": 17087,
+  "rank": 12951,
+  "popularity": 3594,
+  "members": 47965,
+  "favorites": 33,
+  "synopsis": "Years ago, many magical \"Artifacts\" were stolen and scattered throughout the world. They fell into the hands of people who were not supposed to know of their existence, causing misfortune to those who abused their power. The Hoshisato family of magicians has special access to the Artifacts, and they take it upon themselves to return them to their rightful place.\n\nDespite her inexperience, Kana \"Hatena\" Hoshisato wishes to aid her parents Mamoru and Maeve in their quest, doing her best to improve. Meanwhile, her childhood friend Makoto Shiranui has come to their mansion to study magic under her father's tutelage as part of a promise they made years ago. Hatena is excited to see her friend again, only to be utterly disappointed when the person she thought to be a girl all these years turns out to be a boy, leading to a bitter reunion.\n\nBefore long, Makoto comes to know of the Artifacts and the true identities of the magicians he admires. Unfazed, he continues to strive to fulfill his promises and stay true to why he learns magic—to ease the sadness of people around him and, most importantly, to become a person worthy of being Hatena's partner.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1407,
+      "type": "anime",
+      "name": "Children's Playground Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1407/Childrens_Playground_Entertainment"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1299/106117l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/MDyi_KbcPYs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 35252,
+  "slug": "hatena-illusion"
 }

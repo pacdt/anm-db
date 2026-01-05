@@ -1,20 +1,62 @@
 {
-  "id": 38491,
-  "slug": "xing-chen-bian",
-  "type": "legendado",
+  "mal_id": 38491,
+  "url": "https://myanimelist.net/anime/38491/Xingchen_Bian",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1006/153770.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1006/153770t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1006/153770l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1006/153770.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1006/153770t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1006/153770l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/iyPp1xO7wK8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Xingchen Bian"
+    },
+    {
+      "type": "Synonym",
+      "title": "Xing Chen Bian"
+    },
+    {
+      "type": "Synonym",
+      "title": "Legend of Immortals"
+    },
+    {
+      "type": "Japanese",
+      "title": "星辰变"
+    },
+    {
+      "type": "English",
+      "title": "Stellar Transformation"
+    }
+  ],
   "title": "Xingchen Bian",
   "title_english": "Stellar Transformation",
   "title_japanese": "星辰变",
-  "image": "https://cdn.myanimelist.net/images/anime/1006/153770l.webp",
-  "score": 7.51,
-  "synopsis": "Having problems with his meridians and thus rendered incapable of practicing the internal arts, Qin Yu lives in seclusion with Grandfather Lian. To cheer up a depressed Qin Yu, Lian gifts him a peculiar bird, which the former names Xiao Hei.\n\nWanting to be recognized by his father, Qin Yu embarks on the path of cultivation. With Zhao Yunxing's rigorous training method, he strives to overcome his physiological hindrance and become an expert in the external arts. While resting from one such training session, Qin Yu discovers a red crystal that, to his surprise, fuses with his body. Unbeknownst to him, this subtle transformation gives Qin Yu astounding abilities that will aid him as he sets out, with Xiao Hei in tow, to prove that he is worthy of his father's acknowledgement.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/iyPp1xO7wK8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Xing Chen Bian",
+    "Legend of Immortals"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -56,5 +98,97 @@
       "numero": 10,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwPwdD9RxqxzgzSkvktdtNUhrk33TXgbuz23nxG3BGEXWHJEnfcc8nklKvnJof8yfaMa7qcg9smutawjSn8yh4IdlRcZivHMjp4baNQqMLBGfIq5yfCjBYqR82sLr-Xaz130yci"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-05T00:00:00+00:00",
+    "to": "2018-12-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 14,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 5, 2018 to Dec 14, 2018"
+  },
+  "duration": "26 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.51,
+  "scored_by": 3837,
+  "rank": 2029,
+  "popularity": 7226,
+  "members": 9638,
+  "favorites": 71,
+  "synopsis": "Having problems with his meridians and thus rendered incapable of practicing the internal arts, Qin Yu lives in seclusion with Grandfather Lian. To cheer up a depressed Qin Yu, Lian gifts him a peculiar bird, which the former names Xiao Hei.\n\nWanting to be recognized by his father, Qin Yu embarks on the path of cultivation. With Zhao Yunxing's rigorous training method, he strives to overcome his physiological hindrance and become an expert in the external arts. While resting from one such training session, Qin Yu discovers a red crystal that, to his surprise, fuses with his body. Unbeknownst to him, this subtle transformation gives Qin Yu astounding abilities that will aid him as he sets out, with Xiao Hei in tow, to prove that he is worthy of his father's acknowledgement.\n\n[Written by MAL Rewrite]",
+  "background": "Xingchen Bian is based on a Chinese serial web novel of the same name written by I Eat Tomatoes (我吃西红柿).",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1667,
+      "type": "anime",
+      "name": "Foch Film",
+      "url": "https://myanimelist.net/anime/producer/1667/Foch_Film"
+    },
+    {
+      "mal_id": 2638,
+      "type": "anime",
+      "name": "Yien Animation Studio",
+      "url": "https://myanimelist.net/anime/producer/2638/Yien_Animation_Studio"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1006/153770l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/iyPp1xO7wK8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38491,
+  "slug": "xing-chen-bian"
 }

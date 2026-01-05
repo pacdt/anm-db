@@ -1,19 +1,53 @@
 {
-  "id": 1538,
-  "slug": "pumpkin-scissors",
-  "type": "legendado",
+  "mal_id": 1538,
+  "url": "https://myanimelist.net/anime/1538/Pumpkin_Scissors",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/75181.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75181t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75181l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/75181.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75181t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75181l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/AE83hgV3ZSQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pumpkin Scissors"
+    },
+    {
+      "type": "Synonym",
+      "title": "PumpSci"
+    },
+    {
+      "type": "Japanese",
+      "title": "パンプキン・シザーズ"
+    }
+  ],
   "title": "Pumpkin Scissors",
   "title_english": "Pumpkin Scissors",
   "title_japanese": "パンプキン・シザーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/8/75181l.webp",
-  "score": 7.14,
-  "synopsis": "Three years ago, the long war between the Royal Empire and the Republic of Frost came to an end. With both nations a long way from recovery, a passionate young woman named Alice L. Malvin leads the Pumpkin Scissors, a unit of the imperial army specializing in war relief.\n\nDuring a mission to assist a village occupied by renegade soldiers, Alice meets Randal Oland, a scarred former soldier with a sordid past and kind heart. Encouraged by the efforts of the Pumpkin Scissors, he joins the team on their mission. During the assault, however, Randal enters a trance-like state prompted by a mysterious blue lantern. As a result, he acquires monstrous strength and decimates the enemy forces.\n\nDespite having witnessed Randal's disturbing transformation, Alice invites him to join her squandrant, confident that his gentle nature will prevail and make him a perfect fit for the Pumpkin Scissors.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/AE83hgV3ZSQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Drama"
+  "title_synonyms": [
+    "PumpSci"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +169,110 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyvnpzhCejVP-o7ALNjVLsOZGB-rU0z_GB77sSNiyiFwvrY8JLnjT86SK7ZvYADLcz1stvpZFFr4XlEDAkuGCwTOIYVvC-KpyVvW4QoZ5lvzp0uaD7FozSwslSj0sOcaGXZN0U",
       "nome": "The Military, the Commoners and the Nobility"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-10-03T00:00:00+00:00",
+    "to": "2007-03-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2006
+      },
+      "to": {
+        "day": 18,
+        "month": 3,
+        "year": 2007
+      }
+    },
+    "string": "Oct 3, 2006 to Mar 18, 2007"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.14,
+  "scored_by": 18279,
+  "rank": 3865,
+  "popularity": 3655,
+  "members": 46528,
+  "favorites": 144,
+  "synopsis": "Three years ago, the long war between the Royal Empire and the Republic of Frost came to an end. With both nations a long way from recovery, a passionate young woman named Alice L. Malvin leads the Pumpkin Scissors, a unit of the imperial army specializing in war relief.\n\nDuring a mission to assist a village occupied by renegade soldiers, Alice meets Randal Oland, a scarred former soldier with a sordid past and kind heart. Encouraged by the efforts of the Pumpkin Scissors, he joins the team on their mission. During the assault, however, Randal enters a trance-like state prompted by a mysterious blue lantern. As a result, he acquires monstrous strength and decimates the enemy forces.\n\nDespite having witnessed Randal's disturbing transformation, Alice invites him to join her squandrant, confident that his gentle nature will prevail and make him a perfect fit for the Pumpkin Scissors.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "GDH",
+      "url": "https://myanimelist.net/anime/producer/42/GDH"
+    },
+    {
+      "mal_id": 1597,
+      "type": "anime",
+      "name": "Sotsu Music Publishing",
+      "url": "https://myanimelist.net/anime/producer/1597/Sotsu_Music_Publishing"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/75181l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/AE83hgV3ZSQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1538,
+  "slug": "pumpkin-scissors"
 }

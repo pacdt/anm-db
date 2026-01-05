@@ -1,19 +1,51 @@
 {
-  "id": 37555,
-  "slug": "hangyakusei-million-arthur",
-  "type": "legendado",
+  "mal_id": 37555,
+  "url": "https://myanimelist.net/anime/37555/Hangyakusei_Million_Arthur",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1679/96158.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1679/96158t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1679/96158l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1679/96158.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1679/96158t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1679/96158l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/NiJieCHJUBY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hangyakusei Million Arthur"
+    },
+    {
+      "type": "Japanese",
+      "title": "叛逆性ミリオンアーサー"
+    },
+    {
+      "type": "English",
+      "title": "Operation Han-Gyaku-Sei Million Arthur"
+    }
+  ],
   "title": "Hangyakusei Million Arthur",
   "title_english": "Operation Han-Gyaku-Sei Million Arthur",
   "title_japanese": "叛逆性ミリオンアーサー",
-  "image": "https://cdn.myanimelist.net/images/anime/1679/96158l.webp",
-  "score": 6.01,
-  "synopsis": "Tales of old speak of the legends of Excalibur, a sacred sword. The sword is wielded by those who are worthy of its power, bestowing them extraordinary strength and granting them the title of Arthur. However, a divine miracle results in the creation of multiple Excaliburs, thus distorting the fabric of time.\n\nAiming to revert time to its original course, a group of six Arthurs composed of Danchou, Renkin, Kakka, Yamaneko, Tekken, and Rurou are sent back in time when the abnormal Excaliburs were spawned. They are assigned with one sole task: to destroy the Excaliburs of the past—all of which total up to one million.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/NiJieCHJUBY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +97,119 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy6WDqczHEhVv4V_GyrD0TOCShu9hk1D-DLGpYh1SPU6W39Tx-ZmEt6AEyyUqbbMxVIWtdyeyXXieccdBkV-wyO2LlIRuK86hR3aYENOKE-P5z2mjL1aKyxAjtHi1f6lCd8Ow",
       "nome": "Despair for the Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-25T00:00:00+00:00",
+    "to": "2018-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 25, 2018 to Dec 27, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.01,
+  "scored_by": 8627,
+  "rank": 10353,
+  "popularity": 3717,
+  "members": 45193,
+  "favorites": 58,
+  "synopsis": "Tales of old speak of the legends of Excalibur, a sacred sword. The sword is wielded by those who are worthy of its power, bestowing them extraordinary strength and granting them the title of Arthur. However, a divine miracle results in the creation of multiple Excaliburs, thus distorting the fabric of time.\n\nAiming to revert time to its original course, a group of six Arthurs composed of Danchou, Renkin, Kakka, Yamaneko, Tekken, and Rurou are sent back in time when the abnormal Excaliburs were spawned. They are assigned with one sole task: to destroy the Excaliburs of the past—all of which total up to one million.\n\n[Written by MAL Rewrite]",
+  "background": "Hangyakusei Million Arthur depicts a lighter comedic story than the original game it is based on. The Million Arthur smartphone franchise accumulated over 40 million game downloads since release, and has received several spin-off series.",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1358,
+      "type": "anime",
+      "name": "Fields",
+      "url": "https://myanimelist.net/anime/producer/1358/Fields"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    },
+    {
+      "mal_id": 1933,
+      "type": "anime",
+      "name": "Happinet",
+      "url": "https://myanimelist.net/anime/producer/1933/Happinet"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1679/96158l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/NiJieCHJUBY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37555,
+  "slug": "hangyakusei-million-arthur"
 }

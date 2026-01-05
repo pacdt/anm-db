@@ -1,19 +1,51 @@
 {
-  "id": 9314,
-  "slug": "fractale",
-  "type": "legendado",
+  "mal_id": 9314,
+  "url": "https://myanimelist.net/anime/9314/Fractale",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/28197.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/28197t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28197l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/28197.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/28197t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28197l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xKaRusrl-XU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fractale"
+    },
+    {
+      "type": "Japanese",
+      "title": "フラクタル"
+    },
+    {
+      "type": "English",
+      "title": "Fractale"
+    }
+  ],
   "title": "Fractale",
   "title_english": "Fractale",
   "title_japanese": "フラクタル",
-  "image": "https://cdn.myanimelist.net/images/anime/2/28197l.webp",
-  "score": 6.91,
-  "synopsis": "The world has been at peace since the establishment of the Fractale system. Sustained by the Fractale terminals implanted in their bodies, people live in isolation, free to focus on their own interests. Clain Necran spends his days collecting technological relics from the time before the Fractale's introduction. The only company he keeps is his parents' Doppels, or advanced holographic clones.\n\nClain soon meets Phryne—the first human girl he has ever met—and he instantly finds her fascinating. However, Phryne is being pursued by the anti-Fractale group known as The Lost Millenium, and she leaves a strange artifact in Clain's care before disappearing. Deciding that he needs to rescue Phryne and return her belongings, Clain sets out to find her. His journey takes him deep into the heart of the Fractale system, where learning the truth behind it poses more danger to him than he could possibly imagine.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xKaRusrl-XU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -70,5 +102,96 @@
       "url": "https://lightspeedst.net/s3/mp4/fractale/sd/11.mp4",
       "nome": "Paradise"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-01-14T00:00:00+00:00",
+    "to": "2011-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 1,
+        "year": 2011
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2011
+      }
+    },
+    "string": "Jan 14, 2011 to Apr 1, 2011"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.91,
+  "scored_by": 36230,
+  "rank": 5001,
+  "popularity": 2551,
+  "members": 86809,
+  "favorites": 206,
+  "synopsis": "The world has been at peace since the establishment of the Fractale system. Sustained by the Fractale terminals implanted in their bodies, people live in isolation, free to focus on their own interests. Clain Necran spends his days collecting technological relics from the time before the Fractale's introduction. The only company he keeps is his parents' Doppels, or advanced holographic clones.\n\nClain soon meets Phryne—the first human girl he has ever met—and he instantly finds her fascinating. However, Phryne is being pursued by the anti-Fractale group known as The Lost Millenium, and she leaves a strange artifact in Clain's care before disappearing. Deciding that he needs to rescue Phryne and return her belongings, Clain sets out to find her. His journey takes him deep into the heart of the Fractale system, where learning the truth behind it poses more danger to him than he could possibly imagine.\n\n[Written by MAL Rewrite]",
+  "background": "Fractale aired on Fuji TV's noitaminA block. The series was released on Blu-ray and DVD in Japan in four volumes from April 22, 2011, to July 22, 2011; and in North America by Funimation Entertainment on July 17, 2012.",
+  "season": "winter",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/2/28197l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xKaRusrl-XU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 9314,
+  "slug": "fractale"
 }

@@ -1,17 +1,70 @@
 {
-  "id": 36515,
-  "slug": "dies-irae-to-the-ring-reincarnation",
-  "type": "legendado",
+  "mal_id": 36515,
+  "url": "https://myanimelist.net/anime/36515/Dies_Irae__To_the_Ring_Reincarnation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1244/93395.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1244/93395t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1244/93395l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1244/93395.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1244/93395t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1244/93395l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZhgD9vh7vc8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dies Irae: To the Ring Reincarnation"
+    },
+    {
+      "type": "Synonym",
+      "title": "Day of Wrath"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dies Irae ONA"
+    },
+    {
+      "type": "Japanese",
+      "title": "Dies irae: To the ring reincarnation"
+    },
+    {
+      "type": "German",
+      "title": "Dies Irae ONA"
+    },
+    {
+      "type": "Spanish",
+      "title": "Dies Irae ONA"
+    },
+    {
+      "type": "French",
+      "title": "Dies Irae ONA"
+    }
+  ],
   "title": "Dies Irae: To the Ring Reincarnation",
   "title_english": "Dies Irae: To the Ring Reincarnation",
   "title_japanese": "Dies irae: To the ring reincarnation",
-  "image": "https://cdn.myanimelist.net/images/anime/1244/93395l.webp",
-  "score": 5.98,
-  "synopsis": "Episodes 12–17 of Dies Irae released exclusively on the web.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ZhgD9vh7vc8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "Day of Wrath",
+    "Dies Irae ONA"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -43,5 +96,113 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwuMnzoVhVpfw2JAqJ60pv58-aIvDF5O8-Ii6z8R90jQRxH0c-ZvkfXOJs8fAjUPu-56q1UAA_wdFcs7YcbmyXk5uyaSnS-btI0eD5Snw6R5JZ-QeCgvhf9v_9FYuWQSNNQ57ix",
       "nome": "To the New World"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 1, 2018"
+  },
+  "duration": "28 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.98,
+  "scored_by": 8770,
+  "rank": 10496,
+  "popularity": 4904,
+  "members": 25200,
+  "favorites": 38,
+  "synopsis": "Episodes 12–17 of Dies Irae released exclusively on the web.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 1671,
+      "type": "anime",
+      "name": "DMM pictures",
+      "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+    },
+    {
+      "mal_id": 1743,
+      "type": "anime",
+      "name": "Greenwood",
+      "url": "https://myanimelist.net/anime/producer/1743/Greenwood"
+    },
+    {
+      "mal_id": 1744,
+      "type": "anime",
+      "name": "My Theater D.D.",
+      "url": "https://myanimelist.net/anime/producer/1744/My_Theater_DD"
+    },
+    {
+      "mal_id": 1745,
+      "type": "anime",
+      "name": "Brave Hearts",
+      "url": "https://myanimelist.net/anime/producer/1745/Brave_Hearts"
+    },
+    {
+      "mal_id": 1784,
+      "type": "anime",
+      "name": "Crunchyroll SC Anime Fund",
+      "url": "https://myanimelist.net/anime/producer/1784/Crunchyroll_SC_Anime_Fund"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 179,
+      "type": "anime",
+      "name": "A.C.G.T.",
+      "url": "https://myanimelist.net/anime/producer/179/ACGT"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1244/93395l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ZhgD9vh7vc8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36515,
+  "slug": "dies-irae-to-the-ring-reincarnation"
 }

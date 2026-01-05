@@ -1,19 +1,62 @@
 {
-  "id": 5081,
-  "slug": "bakemonogatari",
-  "type": "legendado",
+  "mal_id": 5081,
+  "url": "https://myanimelist.net/anime/5081/Bakemonogatari",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75274t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75274l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/75274.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75274t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75274l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/PugZi9QKL64?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bakemonogatari"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ghostory"
+    },
+    {
+      "type": "Synonym",
+      "title": "Monstory"
+    },
+    {
+      "type": "Japanese",
+      "title": "化物語"
+    },
+    {
+      "type": "English",
+      "title": "Bakemonogatari"
+    }
+  ],
   "title": "Bakemonogatari",
   "title_english": "Bakemonogatari",
   "title_japanese": "化物語",
-  "image": "https://cdn.myanimelist.net/images/anime/11/75274l.webp",
-  "score": 8.32,
-  "synopsis": "Koyomi Araragi, a third-year high school student, manages to survive a vampire attack with the help of Meme Oshino, a strange man residing in an abandoned building. Though being saved from vampirism and now a human again, several side effects such as superhuman healing abilities and enhanced vision still remain. Regardless, Araragi tries to live the life of a normal student, with the help of his friend and the class president, Tsubasa Hanekawa.\n\nWhen fellow classmate Hitagi Senjougahara falls down the stairs and is caught by Araragi, the boy realizes that the girl is unnaturally weightless. Despite Senjougahara's protests, Araragi insists he help her, deciding to enlist the aid of Oshino, the very man who had once helped him with his own predicament.\n\nThrough several tales involving demons and gods, Bakemonogatari follows Araragi as he attempts to help those who suffer from supernatural maladies.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/PugZi9QKL64?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Ghostory",
+    "Monstory"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -90,5 +133,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwZ8nkL7EhJ_tcoTFqRful5WVO9ne8GjoSApLVdbNVa5LWilHYkckiP2nKAFhJBWzRMxtAiLU9AGrPSmlzXSUIEb1mwi1Zk7DhuwAlqB6rt4pMkcssnuZ_JTRrc63PHyPzxiuuF",
       "nome": "Tsubasa Cat, Part Five"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-07-03T00:00:00+00:00",
+    "to": "2010-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2009
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 2010
+      }
+    },
+    "string": "Jul 3, 2009 to Jun 25, 2010"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.32,
+  "scored_by": 764422,
+  "rank": 279,
+  "popularity": 97,
+  "members": 1474123,
+  "favorites": 50877,
+  "synopsis": "Koyomi Araragi, a third-year high school student, manages to survive a vampire attack with the help of Meme Oshino, a strange man residing in an abandoned building. Though being saved from vampirism and now a human again, several side effects such as superhuman healing abilities and enhanced vision still remain. Regardless, Araragi tries to live the life of a normal student, with the help of his friend and the class president, Tsubasa Hanekawa.\n\nWhen fellow classmate Hitagi Senjougahara falls down the stairs and is caught by Araragi, the boy realizes that the girl is unnaturally weightless. Despite Senjougahara's protests, Araragi insists he help her, deciding to enlist the aid of Oshino, the very man who had once helped him with his own predicament.\n\nThrough several tales involving demons and gods, Bakemonogatari follows Araragi as he attempts to help those who suffer from supernatural maladies.\n\n[Written by MAL Rewrite]",
+  "background": "Bakemonogatari adapts the first two volumes of NisiOisiN's Monogatari Series: First Season.",
+  "season": "summer",
+  "year": 2009,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/75274l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/PugZi9QKL64?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 5081,
+  "slug": "bakemonogatari"
 }

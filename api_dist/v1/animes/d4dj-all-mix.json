@@ -1,15 +1,47 @@
 {
-  "id": 51586,
-  "slug": "d4dj-all-mix",
-  "type": "legendado",
+  "mal_id": 51586,
+  "url": "https://myanimelist.net/anime/51586/D4DJ_All_Mix",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1995/129754.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/129754t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/129754l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1995/129754.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/129754t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/129754l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HnJPycsxy1M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "D4DJ All Mix"
+    },
+    {
+      "type": "Japanese",
+      "title": "D4DJ All Mix"
+    }
+  ],
   "title": "D4DJ All Mix",
   "title_english": "D4DJ All Mix",
   "title_japanese": "D4DJ All Mix",
-  "image": "https://cdn.myanimelist.net/images/anime/1995/129754l.webp",
-  "score": 7.36,
-  "synopsis": "Arisugawa Academy's DJ unit Lyrical Lily is known for bringing smiles to people's faces through music. Thanks to their efforts, the local city hall requests them to perform monthly for a year as part of Operation Beckoning Cat, the town revitalization project.\n\nUnfortunately, given the long and demanding event, Lyrical Lily wonders if they can successfully meet the expectations placed on them. To better their chances, they decide to invite the DJ units that supported them during their first performance: Happy Around, Photo Maiden, Peaky P-key, Rondo, and Merm4id. Intrigued by the opportune event, the other units gladly accept Lyrical Lily's request.\n\nHowever, the project is extremely demanding. To attract visitors and new residents to the town, the energetic girls of the participating DJ units must give their best to create a memorable experience for their audiences.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/HnJPycsxy1M?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
@@ -66,5 +98,128 @@
       "numero": 12,
       "url": "https://lightspeedst.net/s5/mp4_temp/d4dj-all-mix/12/720p.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-13T00:00:00+00:00",
+    "to": "2023-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Jan 13, 2023 to Mar 31, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.36,
+  "scored_by": 6307,
+  "rank": 2669,
+  "popularity": 5804,
+  "members": 16482,
+  "favorites": 137,
+  "synopsis": "Arisugawa Academy's DJ unit Lyrical Lily is known for bringing smiles to people's faces through music. Thanks to their efforts, the local city hall requests them to perform monthly for a year as part of Operation Beckoning Cat, the town revitalization project.\n\nUnfortunately, given the long and demanding event, Lyrical Lily wonders if they can successfully meet the expectations placed on them. To better their chances, they decide to invite the DJ units that supported them during their first performance: Happy Around, Photo Maiden, Peaky P-key, Rondo, and Merm4id. Intrigued by the opportune event, the other units gladly accept Lyrical Lily's request.\n\nHowever, the project is extremely demanding. To attract visitors and new residents to the town, the energetic girls of the participating DJ units must give their best to create a memorable experience for their audiences.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1634,
+      "type": "anime",
+      "name": "Bushiroad Music",
+      "url": "https://myanimelist.net/anime/producer/1634/Bushiroad_Music"
+    },
+    {
+      "mal_id": 1658,
+      "type": "anime",
+      "name": "Donuts",
+      "url": "https://myanimelist.net/anime/producer/1658/Donuts"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 2228,
+      "type": "anime",
+      "name": "Bushiroad Move",
+      "url": "https://myanimelist.net/anime/producer/2228/Bushiroad_Move"
+    },
+    {
+      "mal_id": 2533,
+      "type": "anime",
+      "name": "Bushiroad Creative",
+      "url": "https://myanimelist.net/anime/producer/2533/Bushiroad_Creative"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 537,
+      "type": "anime",
+      "name": "SANZIGEN",
+      "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1995/129754l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/HnJPycsxy1M?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51586,
+  "slug": "d4dj-all-mix"
 }

@@ -1,20 +1,70 @@
 {
-  "id": 36927,
-  "slug": "pokemon-movie-21-minna-no-monogatari",
-  "type": "legendado",
+  "mal_id": 36927,
+  "url": "https://myanimelist.net/anime/36927/Pokemon_Movie_21__Minna_no_Monogatari",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1580/90795.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/90795t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/90795l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1580/90795.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1580/90795t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1580/90795l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qUteG3Ja-To?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pokemon Movie 21: Minna no Monogatari"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gekijouban Pocket Monster: Minna no Monogatari"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pokémon the Movie: Everyone's Story"
+    },
+    {
+      "type": "Japanese",
+      "title": "劇場版ポケットモンスター みんなの物語"
+    },
+    {
+      "type": "English",
+      "title": "Pokémon the Movie: The Power of Us"
+    },
+    {
+      "type": "Spanish",
+      "title": "Pokémon Película 21: El Poder de Todos"
+    },
+    {
+      "type": "French",
+      "title": "Pokémon Film 21: Le pouvoir est en nous"
+    }
+  ],
   "title": "Pokemon Movie 21: Minna no Monogatari",
   "title_english": "Pokémon the Movie: The Power of Us",
   "title_japanese": "劇場版ポケットモンスター みんなの物語",
-  "image": "https://cdn.myanimelist.net/images/anime/1580/90795l.webp",
-  "score": 7.2,
-  "synopsis": "As Satoshi continues his journey to become a Pokémon Master, he travels to Fura City to attend the annual Wind Festival. Pumped up, Satoshi and Pikachu are determined to win the festival's Get Race. Meanwhile, Kagachi, a show-off and a habitual liar, joins the competition at the request of his niece Lily. Having almost no knowledge about Pokémon, he manages to strike a deal with a socially awkward scientist named Torito in exchange for help with his upcoming speech. Following Kagachi's victory, Satoshi meets Risa, an ex-regional track and field champion looking to catch a Pokémon. However, during Torito's speech, Team Rocket strikes and manages to steal a capsule from his lab.\n\nTragedy strikes one after another as the Wind Festival's Sacred Flame disappears! As they set off on a journey to find the culprit, Satoshi and the group meet many people on the way—including Zeraora, the Thunderclap Pokémon who was believed to be dead...\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/qUteG3Ja-To?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Gekijouban Pocket Monster: Minna no Monogatari",
+    "Pokémon the Movie: Everyone's Story"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -28,5 +78,98 @@
       "numero": 3,
       "url": "https://www.blogger.com/video.g?token=AD6v5dw8sKnozUuEQH3G5KJk4qavri68irXBLo_BH51cZpHyNaNxbflPFgjJcJC2mI0a3fVS8BqvL94zDx9BidgBJKUbd4z9L0TRTYiiqfqXH-TESs0atP7z5MK8Z90gIDDbUwrxPQUR"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-13T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 13, 2018"
+  },
+  "duration": "1 hr 37 min",
+  "rating": "PG - Children",
+  "score": 7.2,
+  "scored_by": 24293,
+  "rank": 3525,
+  "popularity": 3793,
+  "members": 43661,
+  "favorites": 46,
+  "synopsis": "As Satoshi continues his journey to become a Pokémon Master, he travels to Fura City to attend the annual Wind Festival. Pumped up, Satoshi and Pikachu are determined to win the festival's Get Race. Meanwhile, Kagachi, a show-off and a habitual liar, joins the competition at the request of his niece Lily. Having almost no knowledge about Pokémon, he manages to strike a deal with a socially awkward scientist named Torito in exchange for help with his upcoming speech. Following Kagachi's victory, Satoshi meets Risa, an ex-regional track and field champion looking to catch a Pokémon. However, during Torito's speech, Team Rocket strikes and manages to steal a capsule from his lab.\n\nTragedy strikes one after another as the Wind Festival's Sacred Flame disappears! As they set off on a journey to find the culprit, Satoshi and the group meet many people on the way—including Zeraora, the Thunderclap Pokémon who was believed to be dead...\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 499,
+      "type": "anime",
+      "name": "The Pokemon Company International",
+      "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    },
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1580/90795l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/qUteG3Ja-To?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36927,
+  "slug": "pokemon-movie-21-minna-no-monogatari"
 }

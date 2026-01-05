@@ -1,19 +1,53 @@
 {
-  "id": 6980,
-  "slug": "kaidan-restaurant",
-  "type": "legendado",
+  "mal_id": 6980,
+  "url": "https://myanimelist.net/anime/6980/Kaidan_Restaurant",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/17905.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/17905t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/17905l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/17905.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/17905t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/17905l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaidan Restaurant"
+    },
+    {
+      "type": "Synonym",
+      "title": "Thriller Restaurant"
+    },
+    {
+      "type": "Japanese",
+      "title": "怪談レストラン"
+    }
+  ],
   "title": "Kaidan Restaurant",
   "title_english": "Kaidan Restaurant",
   "title_japanese": "怪談レストラン",
-  "image": "https://cdn.myanimelist.net/images/anime/11/17905l.webp",
-  "score": 7.24,
-  "synopsis": "TV Asahi announced a new kids anime \"Kaidan Restaurant (Thriller Restaurant)\" based on a picture book. Each episode will consist of three stories or \"dishes\": the appetizer, the main dish, and dessert. The first two \"dishes\" will deal with an ordinary sixth-grade schoolgirl named Ako Ozara and the bizarre occurrences that befall her classmates. The third \"dish\" will be a standalone short ghost story told by Ako and her friends.",
-  "trailer_url": null,
-  "genres": [
-    "Horror",
-    "Mystery",
-    "Supernatural"
+  "title_synonyms": [
+    "Thriller Restaurant"
   ],
+  "type": "legendado",
+  "source": "Picture book",
   "episodes": [
     {
       "numero": 1,
@@ -130,5 +164,78 @@
       "url": "https://lightspeedst.net/s3/mp4/kaidan-restaurant/sd/23.mp4",
       "nome": "Thriller Restaurant's First Guest"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-13T00:00:00+00:00",
+    "to": "2010-06-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 8,
+        "month": 6,
+        "year": 2010
+      }
+    },
+    "string": "Oct 13, 2009 to Jun 8, 2010"
+  },
+  "duration": "19 min per ep",
+  "rating": "PG - Children",
+  "score": 7.24,
+  "scored_by": 5692,
+  "rank": 3266,
+  "popularity": 5620,
+  "members": 17972,
+  "favorites": 50,
+  "synopsis": "TV Asahi announced a new kids anime \"Kaidan Restaurant (Thriller Restaurant)\" based on a picture book. Each episode will consist of three stories or \"dishes\": the appetizer, the main dish, and dessert. The first two \"dishes\" will deal with an ordinary sixth-grade schoolgirl named Ako Ozara and the bizarre occurrences that befall her classmates. The third \"dish\" will be a standalone short ghost story told by Ako and her friends.",
+  "background": "In 2010 a film based on Kaidan Restaurant was directed by Ochiai Masayuki. The film is a mix of live-action and animation.",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 19:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/17905l.webp",
+  "trailer_url": null,
+  "id": 6980,
+  "slug": "kaidan-restaurant"
 }

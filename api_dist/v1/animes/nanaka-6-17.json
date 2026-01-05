@@ -1,19 +1,53 @@
 {
-  "id": 776,
-  "slug": "nanaka-6-17",
-  "type": "legendado",
+  "mal_id": 776,
+  "url": "https://myanimelist.net/anime/776/Nanaka_6_17",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/46927.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/46927t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/46927l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/46927.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/46927t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/46927l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nanaka 6/17"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nanaka Juu-nanabun no Roku"
+    },
+    {
+      "type": "Japanese",
+      "title": "ななか６／１７"
+    }
+  ],
   "title": "Nanaka 6/17",
   "title_english": "Nanaka 6/17",
   "title_japanese": "ななか６／１７",
-  "image": "https://cdn.myanimelist.net/images/anime/7/46927l.webp",
-  "score": 6.55,
-  "synopsis": "Seventeen-year-old Nanaka Kirisato is a high school student serious about her studies and goals in life. She frequently criticizes her best friend, Nenji Nagihara, for being a childish delinquent who spends his time fighting other boys. Then one day, after a heated argument with Nenji, she falls off a flight of stairs and suffers a brain injury, resulting in her mind reverting to that of a six-year-old. With this in mind, Nanaka's father and Nenji must keep her injury a secret as she struggles to live a normal life and grow up all over again. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Nanaka Juu-nanabun no Roku"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +109,85 @@
       "url": "https://lightspeedst.net/s3/mp4/nanaka-6-17/sd/12.mp4",
       "nome": "Nanaka Kirisato, 17 Years Old"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-01-09T00:00:00+00:00",
+    "to": "2003-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2003
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2003
+      }
+    },
+    "string": "Jan 9, 2003 to Mar 27, 2003"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.55,
+  "scored_by": 4285,
+  "rank": 7060,
+  "popularity": 6924,
+  "members": 10639,
+  "favorites": 15,
+  "synopsis": "Seventeen-year-old Nanaka Kirisato is a high school student serious about her studies and goals in life. She frequently criticizes her best friend, Nenji Nagihara, for being a childish delinquent who spends his time fighting other boys. Then one day, after a heated argument with Nenji, she falls off a flight of stairs and suffers a brain injury, resulting in her mind reverting to that of a six-year-old. With this in mind, Nanaka's father and Nenji must keep her injury a secret as she struggles to live a normal life and grow up all over again. \n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2003,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "02:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 02:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/46927l.webp",
+  "trailer_url": null,
+  "id": 776,
+  "slug": "nanaka-6-17"
 }

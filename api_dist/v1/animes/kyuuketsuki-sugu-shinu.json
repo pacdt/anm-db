@@ -1,18 +1,57 @@
 {
-  "id": 41833,
-  "slug": "kyuuketsuki-sugu-shinu",
-  "type": "legendado",
+  "mal_id": 41833,
+  "url": "https://myanimelist.net/anime/41833/Kyuuketsuki_Sugu_Shinu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1892/117151.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1892/117151t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1892/117151l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1892/117151.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1892/117151t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1892/117151l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xHv-cDWkDRE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kyuuketsuki Sugu Shinu"
+    },
+    {
+      "type": "Synonym",
+      "title": "KyuuShi"
+    },
+    {
+      "type": "Japanese",
+      "title": "吸血鬼すぐ死ぬ"
+    },
+    {
+      "type": "English",
+      "title": "The Vampire Dies in No Time"
+    }
+  ],
   "title": "Kyuuketsuki Sugu Shinu",
   "title_english": "The Vampire Dies in No Time",
   "title_japanese": "吸血鬼すぐ死ぬ",
-  "image": "https://cdn.myanimelist.net/images/anime/1892/117151l.webp",
-  "score": 7.27,
-  "synopsis": "Vampires are known to have many weaknesses that balance out their incredible power, but the vampire lord Draluc happens to be weak to pretty much anything.\n\nThe vampire hunter Ronald receives a job to infiltrate the castle of the so-called \"Invincible Progenitor\" and rescue a woman's son from the monster within. But upon arriving, he is dumbfounded to discover that the vampire quickly turns to ash by something as trivial as a clap of his hands! Moreover, the child he was sent to save had merely wandered in to play the vampire lord's video games while he slept!\n\nIn a disastrous turn of events, Draluc's castle is destroyed, and the fragile vampire decides to move in with the hunter who has only just defeated him. Ronald, Draluc, and the vampire's pet armadillo John form quite the eccentric team as they are forced to work together while fending off Ronald's violent editor, the lesser vampires plaguing the city, and even their fellow vampire hunters.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xHv-cDWkDRE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "KyuuShi"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,151 @@
       "url": "https://lightspeedst.net/s1/mp4/kyuuketsuki-sugu-shinu/hd/12.mp4",
       "nome": "Silver Rise Blind Your Eyes / Dress Up for You / Five Dumb Matches"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-04T00:00:00+00:00",
+    "to": "2021-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2021
+      }
+    },
+    "string": "Oct 4, 2021 to Dec 20, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.27,
+  "scored_by": 36830,
+  "rank": 3091,
+  "popularity": 2334,
+  "members": 100749,
+  "favorites": 638,
+  "synopsis": "Vampires are known to have many weaknesses that balance out their incredible power, but the vampire lord Draluc happens to be weak to pretty much anything.\n\nThe vampire hunter Ronald receives a job to infiltrate the castle of the so-called \"Invincible Progenitor\" and rescue a woman's son from the monster within. But upon arriving, he is dumbfounded to discover that the vampire quickly turns to ash by something as trivial as a clap of his hands! Moreover, the child he was sent to save had merely wandered in to play the vampire lord's video games while he slept!\n\nIn a disastrous turn of events, Draluc's castle is destroyed, and the fragile vampire decides to move in with the hunter who has only just defeated him. Ronald, Draluc, and the vampire's pet armadillo John form quite the eccentric team as they are forced to work together while fending off Ronald's violent editor, the lesser vampires plaguing the city, and even their fellow vampire hunters.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1892/117151l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xHv-cDWkDRE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41833,
+  "slug": "kyuuketsuki-sugu-shinu"
 }

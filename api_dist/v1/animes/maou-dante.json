@@ -1,19 +1,61 @@
 {
-  "id": 1628,
-  "slug": "maou-dante",
-  "type": "legendado",
+  "mal_id": 1628,
+  "url": "https://myanimelist.net/anime/1628/Maou_Dante",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/84849.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/84849t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/84849l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/84849.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/84849t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/84849l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Maou Dante"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dante the Satan"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔王ダンテ"
+    },
+    {
+      "type": "English",
+      "title": "Demon Lord Dante"
+    },
+    {
+      "type": "Spanish",
+      "title": "Demon Lord Dante"
+    }
+  ],
   "title": "Maou Dante",
   "title_english": "Demon Lord Dante",
   "title_japanese": "魔王ダンテ",
-  "image": "https://cdn.myanimelist.net/images/anime/5/84849l.webp",
-  "score": 5.95,
-  "synopsis": "While sleeping one night, Ryo Utsugi had a nightmare of monsters attacking him. One day he learns a mysterious power to let him hear voices and have visions of girls getting killed, but one night he hears the same voice.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Horror",
-    "Supernatural"
+  "title_synonyms": [
+    "Dante the Satan"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +122,104 @@
       "url": "https://lightspeedst.net/s3/mp4/maou-dante/sd/13.mp4",
       "nome": "Ultimate War"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-08-31T00:00:00+00:00",
+    "to": "2002-11-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 8,
+        "year": 2002
+      },
+      "to": {
+        "day": 23,
+        "month": 11,
+        "year": 2002
+      }
+    },
+    "string": "Aug 31, 2002 to Nov 23, 2002"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.95,
+  "scored_by": 4362,
+  "rank": 10635,
+  "popularity": 6507,
+  "members": 12360,
+  "favorites": 12,
+  "synopsis": "While sleeping one night, Ryo Utsugi had a nightmare of monsters attacking him. One day he learns a mysterious power to let him hear voices and have visions of girls getting killed, but one night he hears the same voice.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2002,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 921,
+      "type": "anime",
+      "name": "Dynamic Planning",
+      "url": "https://myanimelist.net/anime/producer/921/Dynamic_Planning"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 207,
+      "type": "anime",
+      "name": "Magic Bus",
+      "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/5/84849l.webp",
+  "trailer_url": null,
+  "id": 1628,
+  "slug": "maou-dante"
 }

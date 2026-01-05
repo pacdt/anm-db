@@ -1,18 +1,57 @@
 {
-  "id": 54726,
-  "slug": "tsuma-shougakusei-ni-naru",
-  "type": "legendado",
+  "mal_id": 54726,
+  "url": "https://myanimelist.net/anime/54726/Tsuma_Shougakusei_ni_Naru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1752/145548.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1752/145548t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1752/145548l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1752/145548.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1752/145548t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1752/145548l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kIudl9WJAiU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tsuma, Shougakusei ni Naru."
+    },
+    {
+      "type": "Synonym",
+      "title": "If My Wife Becomes an Elementary School Student."
+    },
+    {
+      "type": "Japanese",
+      "title": "妻、小学生になる。"
+    },
+    {
+      "type": "English",
+      "title": "TsumaSho"
+    }
+  ],
   "title": "Tsuma, Shougakusei ni Naru.",
   "title_english": "TsumaSho",
   "title_japanese": "妻、小学生になる。",
-  "image": "https://cdn.myanimelist.net/images/anime/1752/145548l.webp",
-  "score": 7.53,
-  "synopsis": "The moments Keisuke Niijima shared with his wife, Takae, were the happiest in his life. After their first meeting as coworkers, the bond between them gradually became stronger. They eventually married and were blessed with a daughter named Mai soon after. However, following Takae's death, time seems to have stopped for Keisuke, resulting in his inability to build a proper relationship with his daughter.\n\nTen years later, the gloomy Niijima household is bound for change when a little girl knocks at the door—claiming to be Takae's reincarnation. After confirming her identity, Keisuke's world brightens once more as he revels at the thought of making new memories with his beloved family. Unfortunately, this fortuitous miracle comes with its obvious drawbacks, and one mistake will spell more tragic consequences for Keisuke and everyone else involved.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kIudl9WJAiU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "If My Wife Becomes an Elementary School Student."
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,120 @@
       "url": "https://lightspeedst.net/s7/mp4_temp/tsuma-shougakusei-ni-naru/12/720p.mp4",
       "nome": "One Moment"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-10-06T00:00:00+00:00",
+    "to": "2024-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2024
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2024
+      }
+    },
+    "string": "Oct 6, 2024 to Dec 22, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.53,
+  "scored_by": 23417,
+  "rank": 1960,
+  "popularity": 3006,
+  "members": 66014,
+  "favorites": 214,
+  "synopsis": "The moments Keisuke Niijima shared with his wife, Takae, were the happiest in his life. After their first meeting as coworkers, the bond between them gradually became stronger. They eventually married and were blessed with a daughter named Mai soon after. However, following Takae's death, time seems to have stopped for Keisuke, resulting in his inability to build a proper relationship with his daughter.\n\nTen years later, the gloomy Niijima household is bound for change when a little girl knocks at the door—claiming to be Takae's reincarnation. After confirming her identity, Keisuke's world brightens once more as he revels at the thought of making new memories with his beloved family. Unfortunately, this fortuitous miracle comes with its obvious drawbacks, and one mistake will spell more tragic consequences for Keisuke and everyone else involved.\n\n[Written by MAL Rewrite]",
+  "background": "Tsuma, Shougakusei ni Naru. was released on Blu-ray in six volumes from January 29, 2025, to June 25, 2025. Episode 2 received an advance release on U-NEXT and Anime Hodai on October 6, 2024. Each subsequent episode was streamed 7 days in advance of the TV broadcast on U-NEXT and Anime Hodai.",
+  "season": "fall",
+  "year": 2024,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 797,
+      "type": "anime",
+      "name": "Houbunsha",
+      "url": "https://myanimelist.net/anime/producer/797/Houbunsha"
+    },
+    {
+      "mal_id": 1283,
+      "type": "anime",
+      "name": "TC Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1283/TC_Entertainment"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1998,
+      "type": "anime",
+      "name": "Studio Signpost",
+      "url": "https://myanimelist.net/anime/producer/1998/Studio_Signpost"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1752/145548l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kIudl9WJAiU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54726,
+  "slug": "tsuma-shougakusei-ni-naru"
 }

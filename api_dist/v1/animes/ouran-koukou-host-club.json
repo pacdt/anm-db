@@ -1,18 +1,80 @@
 {
-  "id": 853,
-  "slug": "ouran-koukou-host-club",
-  "type": "legendado",
+  "mal_id": 853,
+  "url": "https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/71992.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/71992t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/71992l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/71992.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/71992t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/71992l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/NcC5VCE2Its?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ouran Koukou Host Club"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ohran Koko Host Club"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ouran Koukou Hosutobu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ouran Koukou Host Bu"
+    },
+    {
+      "type": "Synonym",
+      "title": "OHSHC"
+    },
+    {
+      "type": "Japanese",
+      "title": "桜蘭高校ホスト部"
+    },
+    {
+      "type": "English",
+      "title": "Ouran High School Host Club"
+    },
+    {
+      "type": "German",
+      "title": "Ouran High School Host Club"
+    },
+    {
+      "type": "French",
+      "title": "Le Lycée de la Seduction Host Club Ouran High School"
+    }
+  ],
   "title": "Ouran Koukou Host Club",
   "title_english": "Ouran High School Host Club",
   "title_japanese": "桜蘭高校ホスト部",
-  "image": "https://cdn.myanimelist.net/images/anime/2/71992l.webp",
-  "score": 8.16,
-  "synopsis": "Haruhi Fujioka is a studious girl who has recently enrolled at the prestigious Ouran Academy. One day, while looking for a quiet and peaceful place to study, she stumbles across a seemingly unused music room. Upon entering, Haruhi is welcomed by the members of the well-known Host Club: a club in which attractive boys amuse girls from across the entire school. However, when Tamaki Suou—the founder and president of the club—startles the bright scholarship student, she accidentally breaks an expensive vase.\n\nWith repayment looking difficult for Haruhi, the Host Club members come up with the perfect solution to the girl's problem: work for the club and ultimately become a Host herself! Mistaken for a boy by her peers, Haruhi has to entertain various female students while coping with her fellow Hosts' extravagant personalities.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/NcC5VCE2Its?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Ohran Koko Host Club",
+    "Ouran Koukou Hosutobu",
+    "Ouran Koukou Host Bu",
+    "OHSHC"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +206,121 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyCZ8MzWI1Wi5dWDMMyLOOtNNeVZgHuyElodY3LHEvXSeLjbWsn8k93-xFQfvVaiDbAiuGNCak-vIG0tJeb7WA_qW3rFUgooLrwosIRNulTx1_Md8EF-YkD3H9yMcJ1aBcrJE8",
       "nome": "This is Our Ouran Fair!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-04-05T00:00:00+00:00",
+    "to": "2006-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2006
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2006
+      }
+    },
+    "string": "Apr 5, 2006 to Sep 27, 2006"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.16,
+  "scored_by": 720064,
+  "rank": 478,
+  "popularity": 135,
+  "members": 1211812,
+  "favorites": 36621,
+  "synopsis": "Haruhi Fujioka is a studious girl who has recently enrolled at the prestigious Ouran Academy. One day, while looking for a quiet and peaceful place to study, she stumbles across a seemingly unused music room. Upon entering, Haruhi is welcomed by the members of the well-known Host Club: a club in which attractive boys amuse girls from across the entire school. However, when Tamaki Suou—the founder and president of the club—startles the bright scholarship student, she accidentally breaks an expensive vase.\n\nWith repayment looking difficult for Haruhi, the Host Club members come up with the perfect solution to the girl's problem: work for the club and ultimately become a Host herself! Mistaken for a boy by her peers, Haruhi has to entertain various female students while coping with her fellow Hosts' extravagant personalities.\n\n[Written by MAL Rewrite]",
+  "background": "In addition to this anime and the source manga, Ouran Koukou Host Club also received a visual novel adaptation for PlayStation 2 in 2007 and Nintendo DS in 2009. Furthermore, it spawned a live-action TV series and film that were released in Japan in 2011 and 2012, respectively.",
+  "season": "spring",
+  "year": 2006,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:50",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:50 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 148,
+      "type": "anime",
+      "name": "Hakusensha",
+      "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 3024,
+      "type": "anime",
+      "name": "Fonishia",
+      "url": "https://myanimelist.net/anime/producer/3024/Fonishia"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 81,
+      "type": "anime",
+      "name": "Crossdressing",
+      "url": "https://myanimelist.net/anime/genre/81/Crossdressing"
+    },
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/2/71992l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/NcC5VCE2Its?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 853,
+  "slug": "ouran-koukou-host-club"
 }

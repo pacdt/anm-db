@@ -1,19 +1,51 @@
 {
-  "id": 1818,
-  "slug": "claymore-dublado",
-  "type": "dublado",
+  "mal_id": 1818,
+  "url": "https://myanimelist.net/anime/1818/Claymore",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/21834t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/21834l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/21834.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/21834t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/21834l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/c5DDD0ofspk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Claymore"
+    },
+    {
+      "type": "Japanese",
+      "title": "クレイモア"
+    },
+    {
+      "type": "English",
+      "title": "Claymore"
+    }
+  ],
   "title": "Claymore",
   "title_english": "Claymore",
   "title_japanese": "クレイモア",
-  "image": "https://cdn.myanimelist.net/images/anime/3/21834l.webp",
-  "score": 7.73,
-  "synopsis": "When a shapeshifting demon with a thirst for human flesh, known as \"youma,\" arrives in Raki's village, a lone woman with silver eyes walks into town with only a sword upon her back. She is a \"Claymore,\" a being manufactured as half-human and half-youma, for the express purpose of exterminating these monsters. After Raki's family is killed, the Claymore saves his life, but he is subsequently banished from his home. With nowhere else to go, Raki finds the Claymore, known as Clare, and decides to follow her on her journeys.\n\nAs the pair travel from town to town, defeating youma along the way, more about Clare's organization and her fellow warriors comes to light. With every town cleansed and every demon destroyed, they come closer to the youma on which Clare has sought vengeance ever since she chose to become a Claymore.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/c5DDD0ofspk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +112,116 @@
       "url": "https://lightspeedst.net/s2/mp4/claymore-dublado/sd/13.mp4",
       "nome": "The Endless Gravestones (Part 2)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-04T00:00:00+00:00",
+    "to": "2007-09-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 26,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 4, 2007 to Sep 26, 2007"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.73,
+  "scored_by": 342820,
+  "rank": 1274,
+  "popularity": 321,
+  "members": 714906,
+  "favorites": 8873,
+  "synopsis": "When a shapeshifting demon with a thirst for human flesh, known as \"youma,\" arrives in Raki's village, a lone woman with silver eyes walks into town with only a sword upon her back. She is a \"Claymore,\" a being manufactured as half-human and half-youma, for the express purpose of exterminating these monsters. After Raki's family is killed, the Claymore saves his life, but he is subsequently banished from his home. With nowhere else to go, Raki finds the Claymore, known as Clare, and decides to follow her on her journeys.\n\nAs the pair travel from town to town, defeating youma along the way, more about Clare's organization and her fellow warriors comes to light. With every town cleansed and every demon destroyed, they come closer to the youma on which Clare has sought vengeance ever since she chose to become a Claymore.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:26",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:26 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "Avex Entertainment",
+      "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1791,
+      "type": "anime",
+      "name": "D.N. Dream Partners",
+      "url": "https://myanimelist.net/anime/producer/1791/DN_Dream_Partners"
+    },
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/21834l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/c5DDD0ofspk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1818,
+  "slug": "claymore-dublado"
 }

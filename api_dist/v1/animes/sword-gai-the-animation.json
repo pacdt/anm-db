@@ -1,18 +1,47 @@
 {
-  "id": 27783,
-  "slug": "sword-gai-the-animation",
-  "type": "legendado",
+  "mal_id": 27783,
+  "url": "https://myanimelist.net/anime/27783/Sword_Gai_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/89759.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/89759t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/89759l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/89759.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/89759t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/89759l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/c-WIe-0MQkM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sword Gai The Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "ソードガイ The Animation"
+    }
+  ],
   "title": "Sword Gai The Animation",
   "title_english": "Sword Gai The Animation",
   "title_japanese": "ソードガイ The Animation",
-  "image": "https://cdn.myanimelist.net/images/anime/7/89759l.webp",
-  "score": 5.74,
-  "synopsis": "When the gods would not answer in humanity's desperate hour of need, it turned to a demon instead. The supposed savior came wielding the sword Zsoltgewinn, but its uncontrollable lust for blood led it to kill those who summoned it too. Although the sword was sealed away long ago, it has been uncovered by the Shoshidai, an organization that collects such cursed artifacts. However, Zsoltgewinn proves to be too strong to be tamed by humans when its corruptive power influences the administrator, Takuma Miura, to flee with it in his grasp.\n \nAt the same time, Gai Ogata's family is torn apart due to the possession of another demonic sword, Shiryu, leading his father to be murdered and his mother to hang herself shortly after giving birth to him. Abandoned in the forest clutching the blade, he is discovered by the blacksmith Amon. Unnaturally transfixed by the sword, Gai works tirelessly for years to hone his smithing skills. However, when an accident costs him his arm, he gains a new one—in the form of a reforged Shiryu.\n \nNow having a cursed sword for an arm, Gai must learn to control its violent urges. All the while, Zsoltgewinn continues its rampage, leaving a path of blood in its wake.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/c-WIe-0MQkM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -62,5 +91,83 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyectWot7JgLiQTNQnSpfof3OArp40DkNVZsgEAnBMtv0bZUPvCEoZKFUob4OY1fwwjFERuLNWIuqq6_bC49rqcwj7KLjB2eITQLu2HxabgIRiwMWY0MErL7P0uVCna6Y0srpEa"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-03-23T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 3,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 23, 2018"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.74,
+  "scored_by": 34712,
+  "rank": 11743,
+  "popularity": 2746,
+  "members": 77399,
+  "favorites": 55,
+  "synopsis": "When the gods would not answer in humanity's desperate hour of need, it turned to a demon instead. The supposed savior came wielding the sword Zsoltgewinn, but its uncontrollable lust for blood led it to kill those who summoned it too. Although the sword was sealed away long ago, it has been uncovered by the Shoshidai, an organization that collects such cursed artifacts. However, Zsoltgewinn proves to be too strong to be tamed by humans when its corruptive power influences the administrator, Takuma Miura, to flee with it in his grasp.\n \nAt the same time, Gai Ogata's family is torn apart due to the possession of another demonic sword, Shiryu, leading his father to be murdered and his mother to hang herself shortly after giving birth to him. Abandoned in the forest clutching the blade, he is discovered by the blacksmith Amon. Unnaturally transfixed by the sword, Gai works tirelessly for years to hone his smithing skills. However, when an accident costs him his arm, he gains a new one—in the form of a reforged Shiryu.\n \nNow having a cursed sword for an arm, Gai must learn to control its violent urges. All the while, Zsoltgewinn continues its rampage, leaving a path of blood in its wake.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 276,
+      "type": "anime",
+      "name": "DLE",
+      "url": "https://myanimelist.net/anime/producer/276/DLE"
+    },
+    {
+      "mal_id": 563,
+      "type": "anime",
+      "name": "LandQ studios",
+      "url": "https://myanimelist.net/anime/producer/563/LandQ_studios"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/89759l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/c-WIe-0MQkM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 27783,
+  "slug": "sword-gai-the-animation"
 }

@@ -1,19 +1,47 @@
 {
-  "id": 204,
-  "slug": "yumeria",
-  "type": "legendado",
+  "mal_id": 204,
+  "url": "https://myanimelist.net/anime/204/Yumeria",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1135/128536.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1135/128536t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/128536l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1135/128536.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1135/128536t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/128536l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yumeria"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゆめりあ"
+    }
+  ],
   "title": "Yumeria",
   "title_english": "Yumeria",
   "title_japanese": "ゆめりあ",
-  "image": "https://cdn.myanimelist.net/images/anime/1135/128536l.webp",
-  "score": 6.05,
-  "synopsis": "On his 16th birthday, Tomokazu Mikuri had a realistic dream where he sees a girl battling a giant floating monstrosity. When he wakes up, he is surprised that the girl is actually sleeping next to him... Whenever he sleeps from now on, he ends up back at the dream world, and more and more people that he knows keep showing up there too. He finds out from a mysterious masked woman in the dream world named Silk that they are fighting against one named Faydoom, and he is the one who provides the powers to those girls so that they can fight these monsters. And so it goes...\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +103,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxunk1jQTu6gt8HeyKPtPozl667ekv9EzhikvTUlXs2asxKdumnwkMNecN3NfO4xGv2HuFBYQw7wV1FEuyqmnXmLaZSJI6qQJ7ylT29VUl6jNT4zbwkTe9vRaEpa5JMzhJ9ylRK",
       "nome": "Tomokazu, 100 Points"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-01-09T00:00:00+00:00",
+    "to": "2004-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2004
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2004
+      }
+    },
+    "string": "Jan 9, 2004 to Mar 26, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.05,
+  "scored_by": 13338,
+  "rank": 10105,
+  "popularity": 4569,
+  "members": 29790,
+  "favorites": 34,
+  "synopsis": "On his 16th birthday, Tomokazu Mikuri had a realistic dream where he sees a girl battling a giant floating monstrosity. When he wakes up, he is surprised that the girl is actually sleeping next to him... Whenever he sleeps from now on, he ends up back at the dream world, and more and more people that he knows keep showing up there too. He finds out from a mysterious masked woman in the dream world named Silk that they are fighting against one named Faydoom, and he is the one who provides the powers to those girls so that they can fight these monsters. And so it goes...\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2004,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1135/128536l.webp",
+  "trailer_url": null,
+  "id": 204,
+  "slug": "yumeria"
 }

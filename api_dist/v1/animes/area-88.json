@@ -1,20 +1,53 @@
 {
-  "id": 1488,
-  "slug": "area-88",
-  "type": "legendado",
+  "mal_id": 1488,
+  "url": "https://myanimelist.net/anime/1488/Area_88",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/2856.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/2856t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/2856l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/2856.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/2856t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/2856l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zgEPsQvnmOs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Area 88"
+    },
+    {
+      "type": "Synonym",
+      "title": "Area 88 OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "エリア88"
+    }
+  ],
   "title": "Area 88",
   "title_english": "Area 88",
   "title_japanese": "エリア88",
-  "image": "https://cdn.myanimelist.net/images/anime/11/2856l.webp",
-  "score": 7.48,
-  "synopsis": "After being tricked into signing a document by someone he considered a friend, Shin Kazama is forced to become a fighter pilot in the foreign legion of mercenaries, who are fighting in a civil war for the nation of Aslan. Hellbent on earning enough money to break his contract and return to Japan, Shin has managed to become one of the most lethal pilots at the base known as Area 88. But having spent so much time in a place where one's life is always in jeopardy, will Shin remain the same man if and when he can return to the civilian world?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/zgEPsQvnmOs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Area 88 OVA"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +98,98 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzfaNgg_lTnOSqE6OfCXgwH2vWIs8Sgryhb7Jyw-0MDZd-1yvUEIW9WIb-Xtz2dNQDGgv2ft60RTKSJHyGEL8lB64MnLkNaF1NTT-uAifBwUR8_5nET5EB0bDWBYtwopNn-Ut-p"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1985-02-05T00:00:00+00:00",
+    "to": "1986-06-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 2,
+        "year": 1985
+      },
+      "to": {
+        "day": 15,
+        "month": 6,
+        "year": 1986
+      }
+    },
+    "string": "Feb 5, 1985 to Jun 15, 1986"
+  },
+  "duration": "1 hr 5 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.48,
+  "scored_by": 7671,
+  "rank": 2138,
+  "popularity": 5268,
+  "members": 21291,
+  "favorites": 246,
+  "synopsis": "After being tricked into signing a document by someone he considered a friend, Shin Kazama is forced to become a fighter pilot in the foreign legion of mercenaries, who are fighting in a civil war for the nation of Aslan. Hellbent on earning enough money to break his contract and return to Japan, Shin has managed to become one of the most lethal pilots at the base known as Area 88. But having spent so much time in a place where one's life is always in jeopardy, will Shin remain the same man if and when he can return to the civilian world?\n\n[Written by MAL Rewrite]",
+  "background": "Area 88 was published by Central Park Media as three VHS tapes and laserdiscs in 1992. In 2000, the first two episodes were released on DVD. In 2006, ADV Films acquired the license and released a DVD version of the OVA edited into two long episodes. Discotek Media published a remaster of Area 88 on DVD on October 30, 2018.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 284,
+      "type": "anime",
+      "name": "Central Park Media",
+      "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/2856l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/zgEPsQvnmOs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1488,
+  "slug": "area-88"
 }

@@ -1,17 +1,53 @@
 {
-  "id": 9893,
-  "slug": "suite-precure",
-  "type": "legendado",
+  "mal_id": 9893,
+  "url": "https://myanimelist.net/anime/9893/Suite_Precure♪",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/32129.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/32129t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/32129l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/32129.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/32129t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/32129l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Suite Precure♪"
+    },
+    {
+      "type": "Synonym",
+      "title": "Suite Pretty Cure♪"
+    },
+    {
+      "type": "Japanese",
+      "title": "スイート プリキュア♪"
+    }
+  ],
   "title": "Suite Precure♪",
   "title_english": "Suite Precure♪",
   "title_japanese": "スイート プリキュア♪",
-  "image": "https://cdn.myanimelist.net/images/anime/3/32129l.webp",
-  "score": 7.29,
-  "synopsis": "Major Land is a colorful world of music where instruments and notes come to life. During an annual concert event, Hummy, the cat songstress of Major Land, prepares to sing the \"Melody of Happiness,\" capable of spreading happiness to worlds beyond. However, Mephisto, the king of Minor Land, interrupts the event and rewrites the score into the \"Melody of Sorrow\"—a dissonant composition that would instead cause despair when performed. In order to prevent this from happening, Hummy is tasked with finding the Precure, renowned warriors with an unmatched passion for music, and recreating the Melody of Happiness.\n\nHummy arrives in Kanon Town, home of musically-inclined athlete Hibiki Houjou and studious baker Kanade Minamino. Engaging only in endless bickers, Hibiki and Kanade were formerly best friends and have since fallen out of touch. Their activities are stopped short by an unwelcome guest—the songstress of Minor Land, Siren. \n\nWhen Siren turns an important record into a gigantic monster, the girls' hearts resonate with the desire to protect what they hold dear and the two transform into the Suite Precure! As legendary warriors, Hibiki and Kanade will have to put their personal squabbles aside if they wish to protect the happiness of the world.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "Suite Pretty Cure♪"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -253,5 +289,69 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwgTKptnBff-CJN0AXXwTqLlIelwmMcGfPNnNQYl0CSloAEIITqvKUPZuHkm4vPF5a6rsl_Uoea-cijwBrdNd7pVoTXmH5E7CEPM16W3mJhV8-8Rg0Zupu8TNaRyLuqD80pwwLk",
       "nome": "LaLaLa~♪ Let The World Echo The Melody of Happiness Nya!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-02-06T00:00:00+00:00",
+    "to": "2012-01-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 2,
+        "year": 2011
+      },
+      "to": {
+        "day": 29,
+        "month": 1,
+        "year": 2012
+      }
+    },
+    "string": "Feb 6, 2011 to Jan 29, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.29,
+  "scored_by": 7250,
+  "rank": 3019,
+  "popularity": 5569,
+  "members": 18400,
+  "favorites": 134,
+  "synopsis": "Major Land is a colorful world of music where instruments and notes come to life. During an annual concert event, Hummy, the cat songstress of Major Land, prepares to sing the \"Melody of Happiness,\" capable of spreading happiness to worlds beyond. However, Mephisto, the king of Minor Land, interrupts the event and rewrites the score into the \"Melody of Sorrow\"—a dissonant composition that would instead cause despair when performed. In order to prevent this from happening, Hummy is tasked with finding the Precure, renowned warriors with an unmatched passion for music, and recreating the Melody of Happiness.\n\nHummy arrives in Kanon Town, home of musically-inclined athlete Hibiki Houjou and studious baker Kanade Minamino. Engaging only in endless bickers, Hibiki and Kanade were formerly best friends and have since fallen out of touch. Their activities are stopped short by an unwelcome guest—the songstress of Minor Land, Siren. \n\nWhen Siren turns an important record into a gigantic monster, the girls' hearts resonate with the desire to protect what they hold dear and the two transform into the Suite Precure! As legendary warriors, Hibiki and Kanade will have to put their personal squabbles aside if they wish to protect the happiness of the world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/32129l.webp",
+  "trailer_url": null,
+  "id": 9893,
+  "slug": "suite-precure"
 }

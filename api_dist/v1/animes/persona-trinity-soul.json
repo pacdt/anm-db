@@ -1,20 +1,51 @@
 {
-  "id": 3366,
-  "slug": "persona-trinity-soul",
-  "type": "legendado",
+  "mal_id": 3366,
+  "url": "https://myanimelist.net/anime/3366/Persona__Trinity_Soul",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1231/97049.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1231/97049t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1231/97049l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1231/97049.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1231/97049t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1231/97049l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qGD3Wlb47Xg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Persona: Trinity Soul"
+    },
+    {
+      "type": "Japanese",
+      "title": "ペルソナ 〜トリニティ・ソウル〜"
+    },
+    {
+      "type": "English",
+      "title": "Persona: Trinity Soul"
+    }
+  ],
   "title": "Persona: Trinity Soul",
   "title_english": "Persona: Trinity Soul",
   "title_japanese": "ペルソナ 〜トリニティ・ソウル〜",
-  "image": "https://cdn.myanimelist.net/images/anime/1231/97049l.webp",
-  "score": 6.48,
-  "synopsis": "The stage is Ayanagi City, a city near the Japan Sea. It is a futuristic city that was built to carry out the recovery from the calamity caused by the \"Apathy Syndrome\" ten years previous. High school student Shin Kanzato with his little brother Jun, meet with their elder brother Ryou, who is the chief of the Ayanagi City Police, again after ten years. At that time, a series of strange incidents happen in Ayanagi City such as the crew of a submarine that suddenly disappears while in their submarine, or a spiritless symptom which disturbs the world after ten years, or the case of the inside out corpse where a student took on a cruel appearance. Ryou tracks down the organization behind the string of incidents, and having become involved in the incidents, Shin awakens the \"Persona.\"\n\n(Source: Wikipedia)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/qGD3Wlb47Xg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Mystery",
-    "Sci-Fi",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -146,5 +177,86 @@
       "url": "https://lightspeedst.net/s3/mp4/persona-trinity-soul/sd/26.mp4",
       "nome": "Surfaced Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-01-05T00:00:00+00:00",
+    "to": "2008-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2008
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2008
+      }
+    },
+    "string": "Jan 5, 2008 to Jun 28, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.48,
+  "scored_by": 27027,
+  "rank": 7535,
+  "popularity": 2547,
+  "members": 86952,
+  "favorites": 169,
+  "synopsis": "The stage is Ayanagi City, a city near the Japan Sea. It is a futuristic city that was built to carry out the recovery from the calamity caused by the \"Apathy Syndrome\" ten years previous. High school student Shin Kanzato with his little brother Jun, meet with their elder brother Ryou, who is the chief of the Ayanagi City Police, again after ten years. At that time, a series of strange incidents happen in Ayanagi City such as the crew of a submarine that suddenly disappears while in their submarine, or a spiritless symptom which disturbs the world after ten years, or the case of the inside out corpse where a student took on a cruel appearance. Ryou tracks down the organization behind the string of incidents, and having become involved in the incidents, Shin awakens the \"Persona.\"\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "winter",
+  "year": 2008,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1231/97049l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/qGD3Wlb47Xg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 3366,
+  "slug": "persona-trinity-soul"
 }

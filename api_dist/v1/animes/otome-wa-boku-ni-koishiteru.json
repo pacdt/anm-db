@@ -1,19 +1,67 @@
 {
-  "id": 1569,
-  "slug": "otome-wa-boku-ni-koishiteru",
-  "type": "legendado",
+  "mal_id": 1569,
+  "url": "https://myanimelist.net/anime/1569/Otome_wa_Boku_ni_Koishiteru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75483.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75483t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75483l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75483.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75483t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75483l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Otome wa Boku ni Koishiteru"
+    },
+    {
+      "type": "Synonym",
+      "title": "Otome wa Onee-sama ni Koi Shiteru"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Maiden is Falling in Love With the Elder Sister"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Maiden is Falling in Love With Me"
+    },
+    {
+      "type": "Japanese",
+      "title": "乙女は僕に恋してる"
+    },
+    {
+      "type": "English",
+      "title": "Otoboku: Maidens are Falling for Me!"
+    }
+  ],
   "title": "Otome wa Boku ni Koishiteru",
   "title_english": "Otoboku: Maidens are Falling for Me!",
   "title_japanese": "乙女は僕に恋してる",
-  "image": "https://cdn.myanimelist.net/images/anime/7/75483l.webp",
-  "score": 7.02,
-  "synopsis": "Mizuho can't believe his ears when Grandpa's will is read out. Grandpa's final wish is for Mizuho to attend the same academy as Mizuho's mother. The catch is it's an all-girls school. With the help of friend Mariya however, he gets a makeover good enough to fool everyone at the academy. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Otome wa Onee-sama ni Koi Shiteru",
+    "The Maiden is Falling in Love With the Elder Sister",
+    "The Maiden is Falling in Love With Me"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +123,103 @@
       "url": "https://lightspeedst.net/s3/mp4/otome-wa-boku-ni-koishiteru/sd/12.mp4",
       "nome": "The Last Dance Forever"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-10-08T00:00:00+00:00",
+    "to": "2006-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2006
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2006
+      }
+    },
+    "string": "Oct 8, 2006 to Dec 24, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.02,
+  "scored_by": 27131,
+  "rank": 4493,
+  "popularity": 3003,
+  "members": 66185,
+  "favorites": 180,
+  "synopsis": "Mizuho can't believe his ears when Grandpa's will is read out. Grandpa's final wish is for Mizuho to attend the same academy as Mizuho's mother. The catch is it's an all-girls school. With the help of friend Mariya however, he gets a makeover good enough to fool everyone at the academy. \n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 399,
+      "type": "anime",
+      "name": "Dream Force",
+      "url": "https://myanimelist.net/anime/producer/399/Dream_Force"
+    },
+    {
+      "mal_id": 721,
+      "type": "anime",
+      "name": "GANSIS",
+      "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 91,
+      "type": "anime",
+      "name": "feel.",
+      "url": "https://myanimelist.net/anime/producer/91/feel"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 81,
+      "type": "anime",
+      "name": "Crossdressing",
+      "url": "https://myanimelist.net/anime/genre/81/Crossdressing"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/75483l.webp",
+  "trailer_url": null,
+  "id": 1569,
+  "slug": "otome-wa-boku-ni-koishiteru"
 }

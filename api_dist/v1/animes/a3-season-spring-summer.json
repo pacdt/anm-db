@@ -1,17 +1,57 @@
 {
-  "id": 39184,
-  "slug": "a3-season-spring-summer",
-  "type": "legendado",
+  "mal_id": 39184,
+  "url": "https://myanimelist.net/anime/39184/A3_Season_Spring___Summer",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1421/105605.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1421/105605t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1421/105605l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1421/105605.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1421/105605t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1421/105605l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7Rjk3Q3-mZ4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "A3! Season Spring & Summer"
+    },
+    {
+      "type": "Synonym",
+      "title": "Act! Addict! Actors! Season Spring & Summer"
+    },
+    {
+      "type": "Japanese",
+      "title": "A3! SEASON SPRING & SUMMER"
+    },
+    {
+      "type": "English",
+      "title": "A3! Season Spring & Summer"
+    }
+  ],
   "title": "A3! Season Spring & Summer",
   "title_english": "A3! Season Spring & Summer",
   "title_japanese": "A3! SEASON SPRING & SUMMER",
-  "image": "https://cdn.myanimelist.net/images/anime/1421/105605l.webp",
-  "score": 7.08,
-  "synopsis": "Home to countless street acts and performances, Veludo Way attracts those interested in watching professional actors. After receiving a mysterious letter, Izumi Tachibana arrives at the venue where her father directed a once-popular theater group, Mankai Company, but learns that the building is about to be repurposed due to excessive debt. At the last minute, she convinces the debt collector to give the ensemble one more chance. He is willing to accept but on three conditions: their debut show must be successfully produced by the following month, the four all-male sub-troupes must be reinstated, and the debt must be paid off within a year. To top it off, Izumi herself must become the director.\n\nWith no time to lose, Izumi quickly gathers five people for the Spring Troupe: Sakuya Sakuma, an enthusiastic high school student; Masumi Usui, a boy infatuated with Izumi; Tsuzuru Minagi, an aspiring playwright; Itaru Chigasaki, a mature office worker; and Citron, a friendly foreigner. Though they have little or no experience in acting, it's up to Izumi to train and prepare them for a performance that will restore Mankai Company to its former glory.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/7Rjk3Q3-mZ4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
+  "title_synonyms": [
+    "Act! Addict! Actors! Season Spring & Summer"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +113,95 @@
       "url": "https://lightspeedst.net/s3/mp4/a3-season-spring-summer/fhd/12.mp4",
       "nome": "Summertime Survival!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-14T00:00:00+00:00",
+    "to": "2020-06-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 23,
+        "month": 6,
+        "year": 2020
+      }
+    },
+    "string": "Jan 14, 2020 to Jun 23, 2020"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.08,
+  "scored_by": 12529,
+  "rank": 4179,
+  "popularity": 4045,
+  "members": 38546,
+  "favorites": 287,
+  "synopsis": "Home to countless street acts and performances, Veludo Way attracts those interested in watching professional actors. After receiving a mysterious letter, Izumi Tachibana arrives at the venue where her father directed a once-popular theater group, Mankai Company, but learns that the building is about to be repurposed due to excessive debt. At the last minute, she convinces the debt collector to give the ensemble one more chance. He is willing to accept but on three conditions: their debut show must be successfully produced by the following month, the four all-male sub-troupes must be reinstated, and the debt must be paid off within a year. To top it off, Izumi herself must become the director.\n\nWith no time to lose, Izumi quickly gathers five people for the Spring Troupe: Sakuya Sakuma, an enthusiastic high school student; Masumi Usui, a boy infatuated with Izumi; Tsuzuru Minagi, an aspiring playwright; Itaru Chigasaki, a mature office worker; and Citron, a friendly foreigner. Though they have little or no experience in acting, it's up to Izumi to train and prepare them for a performance that will restore Mankai Company to its former glory.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 2113,
+      "type": "anime",
+      "name": "Liber Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2113/Liber_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 132,
+      "type": "anime",
+      "name": "P.A. Works",
+      "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+    },
+    {
+      "mal_id": 1127,
+      "type": "anime",
+      "name": "Studio 3Hz",
+      "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1421/105605l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/7Rjk3Q3-mZ4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39184,
+  "slug": "a3-season-spring-summer"
 }

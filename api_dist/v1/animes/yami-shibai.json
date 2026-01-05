@@ -1,19 +1,69 @@
 {
-  "id": 19383,
-  "slug": "yami-shibai",
-  "type": "legendado",
+  "mal_id": 19383,
+  "url": "https://myanimelist.net/anime/19383/Yami_Shibai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/51995.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/51995t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/51995l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/51995.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/51995t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/51995l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai"
+    },
+    {
+      "type": "German",
+      "title": "Theatre of Darkness: Yamishibai"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yamishibai: Historias japonesas de Fantasmas"
+    },
+    {
+      "type": "French",
+      "title": "Theatre of Darkness: Yamishibai"
+    }
+  ],
   "title": "Yami Shibai",
   "title_english": "Theatre of Darkness: Yamishibai",
   "title_japanese": "闇芝居",
-  "image": "https://cdn.myanimelist.net/images/anime/11/51995l.webp",
-  "score": 6.99,
-  "synopsis": "The mysterious, yellow-masked Storyteller is a man whose true name and origin are both unknown. He appears at dusk where children gather and recites sinister tales based on Japanese urban legends, to which his young audience eerily intakes. However, the Storyteller is no ordinary teller of tales. He incorporates a kamishibai, a traditional paper-scrolling device, to add visuals to his already demented narration.\n\nA series of short horror stories, Yami Shibai begins with a bachelor who, after moving into a new apartment, immediately starts sensing a malevolent glare being pressed into him. A single talisman rests on his ceiling, but he has no way of knowing it is one of the few safeguards that separate him from a bottomless pit of suffering. Each story is more terrifying, more appalling, and more sickening than the last as the Storyteller's audience find themselves being sucked into the vicious world of his words.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Avant Garde",
-    "Horror",
-    "Supernatural"
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +130,78 @@
       "url": "https://lightspeedst.net/s2/mp4/yami-shibai/sd/13.mp4",
       "nome": "Tormentor"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-15T00:00:00+00:00",
+    "to": "2013-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 15, 2013 to Sep 30, 2013"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.99,
+  "scored_by": 50583,
+  "rank": 4633,
+  "popularity": 2121,
+  "members": 116279,
+  "favorites": 356,
+  "synopsis": "The mysterious, yellow-masked Storyteller is a man whose true name and origin are both unknown. He appears at dusk where children gather and recites sinister tales based on Japanese urban legends, to which his young audience eerily intakes. However, the Storyteller is no ordinary teller of tales. He incorporates a kamishibai, a traditional paper-scrolling device, to add visuals to his already demented narration.\n\nA series of short horror stories, Yami Shibai begins with a bachelor who, after moving into a new apartment, immediately starts sensing a malevolent glare being pressed into him. A single talisman rests on his ceiling, but he has no way of knowing it is one of the few safeguards that separate him from a bottomless pit of suffering. Each story is more terrifying, more appalling, and more sickening than the last as the Storyteller's audience find themselves being sucked into the vicious world of his words.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    "Avant Garde",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/51995l.webp",
+  "trailer_url": null,
+  "id": 19383,
+  "slug": "yami-shibai"
 }

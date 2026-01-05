@@ -1,17 +1,47 @@
 {
-  "id": 38009,
-  "slug": "re-stage-dream-days",
-  "type": "legendado",
+  "mal_id": 38009,
+  "url": "https://myanimelist.net/anime/38009/Re_Stage_Dream_Days♪",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1002/111617.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1002/111617t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1002/111617l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1002/111617.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1002/111617t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1002/111617l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Qp-6akSlDAA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Re:Stage! Dream Days♪"
+    },
+    {
+      "type": "Japanese",
+      "title": "Re:ステージ! ドリームデイズ♪"
+    }
+  ],
   "title": "Re:Stage! Dream Days♪",
   "title_english": "Re:Stage! Dream Days♪",
   "title_japanese": "Re:ステージ! ドリームデイズ♪",
-  "image": "https://cdn.myanimelist.net/images/anime/1002/111617l.webp",
-  "score": 6.7,
-  "synopsis": "Mana Shikimiya has just transferred into Marehoshi Academy, a school which requires each of its students to join one of the many sports or cultural clubs. After a quick tour of most of the clubs by the Student Council Vice President Minori Hasegawa, Mana stumbles upon the Lyrical Tradition Dance Club. There she meets its sole members: Mizuha Ichikishima and Sayu Tsukisaka. Drawn to their singing and dancing, Mana joins the club and together they work towards their dream of winning the Prism Stage—a national competition to determine the top idols of the country.\n\nHowever, before Mana and her new friends can worry about the Prism Stage, there is a more immediate problem at hand: the club is about to be disbanded by the student council! Without enough members or any notable achievements, the club will be shut down and the members' dreams will be over before they've begun to pursue them. It's up to the three of them to find the additional club members they need and become an idol group strong enough to qualify for the Prism Stage and to win it as well.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Qp-6akSlDAA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +103,113 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyHdCQ-_0JBED4mSj-Uz5Q_8E5DCHU7R7pCayBkoh5R-mzC2-h_wAHzLeQgijZ_InvHdJsH0wb7mss5sXi6Xp2P9VfOXcMy7ncwOoC0zX9ty284I7N6MvhqRSB9ODWPQ9i1KQ",
       "nome": "This is Our..."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-07T00:00:00+00:00",
+    "to": "2019-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Jul 7, 2019 to Sep 29, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.7,
+  "scored_by": 4624,
+  "rank": 6149,
+  "popularity": 6506,
+  "members": 12369,
+  "favorites": 41,
+  "synopsis": "Mana Shikimiya has just transferred into Marehoshi Academy, a school which requires each of its students to join one of the many sports or cultural clubs. After a quick tour of most of the clubs by the Student Council Vice President Minori Hasegawa, Mana stumbles upon the Lyrical Tradition Dance Club. There she meets its sole members: Mizuha Ichikishima and Sayu Tsukisaka. Drawn to their singing and dancing, Mana joins the club and together they work towards their dream of winning the Prism Stage—a national competition to determine the top idols of the country.\n\nHowever, before Mana and her new friends can worry about the Prism Stage, there is a more immediate problem at hand: the club is about to be disbanded by the student council! Without enough members or any notable achievements, the club will be shut down and the members' dreams will be over before they've begun to pursue them. It's up to the three of them to find the additional club members they need and become an idol group strong enough to qualify for the Prism Stage and to win it as well.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    },
+    {
+      "mal_id": 1869,
+      "type": "anime",
+      "name": "Bit Promotion",
+      "url": "https://myanimelist.net/anime/producer/1869/Bit_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 96,
+      "type": "anime",
+      "name": "Yumeta Company",
+      "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+    },
+    {
+      "mal_id": 894,
+      "type": "anime",
+      "name": "Graphinica",
+      "url": "https://myanimelist.net/anime/producer/894/Graphinica"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1002/111617l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Qp-6akSlDAA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38009,
+  "slug": "re-stage-dream-days"
 }

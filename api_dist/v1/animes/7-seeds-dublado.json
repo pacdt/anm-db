@@ -1,21 +1,57 @@
 {
-  "id": 38735,
-  "slug": "7-seeds-dublado",
-  "type": "dublado",
+  "mal_id": 38735,
+  "url": "https://myanimelist.net/anime/38735/7_Seeds",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1219/116954.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1219/116954t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1219/116954l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1219/116954.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1219/116954t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1219/116954l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/XRZvxqPO9sE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "7 Seeds"
+    },
+    {
+      "type": "Synonym",
+      "title": "Seven Seeds"
+    },
+    {
+      "type": "Japanese",
+      "title": "7SEEDS"
+    },
+    {
+      "type": "English",
+      "title": "7 Seeds"
+    }
+  ],
   "title": "7 Seeds",
   "title_english": "7 Seeds",
   "title_japanese": "7SEEDS",
-  "image": "https://cdn.myanimelist.net/images/anime/1219/116954l.webp",
-  "score": 6.56,
-  "synopsis": "Imagine this: you are living a normal day in your life. Maybe you are out with friends, eating your family's home-cooked meal or spending time with your girlfriend. When you next wake up, you are suddenly thrust into a strange, new world, surrounded by five strangers on a rapidly sinking boat in the middle of a storm.\n\nFor Natsu Iwashimizu, this is her new reality. Humanity has perished, and all that remains of the Japanese population are five groups of men and women who were chosen to be sent to the future in hopes of continuing mankind's existence. While every other person chosen has a useful talent such as martial arts, knowledge, or architecture, Natsu is a shy high school girl who cannot even raise her voice to shout. The new world is dangerous beyond imagination, and although Natsu seems to lack helpful skills, she must go with the others making their way to the \"Seven Fuji\" in order to survive.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/XRZvxqPO9sE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Drama",
-    "Mystery",
-    "Sci-Fi",
-    "Suspense"
+  "title_synonyms": [
+    "Seven Seeds"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -66,5 +102,99 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dz0Ok-sEV6GQJO2MAkTUaFF8U-lf2ACYeE3P2sq5EdzjH_v5dOJKnp4gcOUQFnO1d03JAZPjk8ky3dUVAxtU4SifbcxlvQq7hBoVG3GgGSiUkcYrqR8LAsBR7bICxKA_dtV-W2b"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-06-28T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 6,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 28, 2019"
+  },
+  "duration": "25 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.56,
+  "scored_by": 71541,
+  "rank": 6994,
+  "popularity": 1767,
+  "members": 146361,
+  "favorites": 420,
+  "synopsis": "Imagine this: you are living a normal day in your life. Maybe you are out with friends, eating your family's home-cooked meal or spending time with your girlfriend. When you next wake up, you are suddenly thrust into a strange, new world, surrounded by five strangers on a rapidly sinking boat in the middle of a storm.\n\nFor Natsu Iwashimizu, this is her new reality. Humanity has perished, and all that remains of the Japanese population are five groups of men and women who were chosen to be sent to the future in hopes of continuing mankind's existence. While every other person chosen has a useful talent such as martial arts, knowledge, or architecture, Natsu is a shy high school girl who cannot even raise her voice to shout. The new world is dangerous beyond imagination, and although Natsu seems to lack helpful skills, she must go with the others making their way to the \"Seven Fuji\" in order to survive.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Survival",
+      "url": "https://myanimelist.net/anime/genre/76/Survival"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1219/116954l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/XRZvxqPO9sE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38735,
+  "slug": "7-seeds-dublado"
 }

@@ -1,18 +1,58 @@
 {
-  "id": 38251,
-  "slug": "sono-toki-kanojo-wa",
-  "type": "legendado",
+  "mal_id": 38251,
+  "url": "https://myanimelist.net/anime/38251/Sono_Toki_Kanojo_wa",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1908/93910.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/93910t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/93910l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1908/93910.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/93910t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/93910l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_dfRt2uVn6s?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sono Toki, Kanojo wa."
+    },
+    {
+      "type": "Synonym",
+      "title": "At That Time"
+    },
+    {
+      "type": "Synonym",
+      "title": "She."
+    },
+    {
+      "type": "Japanese",
+      "title": "その時、カノジョは。"
+    }
+  ],
   "title": "Sono Toki, Kanojo wa.",
   "title_english": "Sono Toki, Kanojo wa.",
   "title_japanese": "その時、カノジョは。",
-  "image": "https://cdn.myanimelist.net/images/anime/1908/93910l.webp",
-  "score": 5.66,
-  "synopsis": "The anime takes place in Fukuoka and follows the love lives of four female protagonists as high school students, college students, and as working adults. \n\n(Source: ANN, edited)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_dfRt2uVn6s?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "At That Time",
+    "She."
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +114,63 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwJfmj9NqVuTilqPXDbr3PpJuiInRP0dwgvkhgtMv0MsaXNhKY9zMmxzK86al0mRehHRwtds8GyfOAm4zzCialBKroLyxCR4UEfWbJVMCy1vT_je92JRHbNnwxEAKBGNiyCxeCw",
       "nome": "Sono Toki, Kanojo wa."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-07T00:00:00+00:00",
+    "to": "2018-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 7, 2018 to Dec 23, 2018"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.66,
+  "scored_by": 4062,
+  "rank": 12110,
+  "popularity": 5867,
+  "members": 16005,
+  "favorites": 10,
+  "synopsis": "The anime takes place in Fukuoka and follows the love lives of four female protagonists as high school students, college students, and as working adults. \n\n(Source: ANN, edited)",
+  "background": "",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:35 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1849,
+      "type": "anime",
+      "name": "MASTER LIGHTS",
+      "url": "https://myanimelist.net/anime/producer/1849/MASTER_LIGHTS"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1908/93910l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_dfRt2uVn6s?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38251,
+  "slug": "sono-toki-kanojo-wa"
 }

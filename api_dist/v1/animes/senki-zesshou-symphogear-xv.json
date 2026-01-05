@@ -1,18 +1,63 @@
 {
-  "id": 32843,
-  "slug": "senki-zesshou-symphogear-xv",
-  "type": "legendado",
+  "mal_id": 32843,
+  "url": "https://myanimelist.net/anime/32843/Senki_Zesshou_Symphogear_XV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1899/101966.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1899/101966t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1899/101966l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1899/101966.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1899/101966t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1899/101966l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Gl3vAScd2sk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Senki Zesshou Symphogear XV"
+    },
+    {
+      "type": "Japanese",
+      "title": "戦姫絶唱シンフォギアXV"
+    },
+    {
+      "type": "English",
+      "title": "Symphogear XV"
+    },
+    {
+      "type": "German",
+      "title": "Symphogear XV"
+    },
+    {
+      "type": "Spanish",
+      "title": "Symphogear XV"
+    },
+    {
+      "type": "French",
+      "title": "Symphogear XV"
+    }
+  ],
   "title": "Senki Zesshou Symphogear XV",
   "title_english": "Symphogear XV",
   "title_japanese": "戦姫絶唱シンフォギアXV",
-  "image": "https://cdn.myanimelist.net/images/anime/1899/101966l.webp",
-  "score": 8.19,
-  "synopsis": "Humanity is finally confronted with the threat of the Custodians—the ancient, sentient species held responsible for cursing humanity to speak different languages thousands of years ago. The Symphogear wielders—Hibiki Tachibana, Tsubasa Kazanari, Chris Yukine, Maria Cadenzavna Eve, Kirika Akatsuki, and Shirabe Tsukuyomi—are sent to the Antarctic in order to retrieve an ancient relic. After securing it and rescuing the scientific staff present there from a Coffin, the automated defense mechanism protecting it, the relic is given to American researchers due to international agreements.\n\nThe criminal organization Noble Red, a remnant of the previously fought Bavarian Illuminati, starts targeting the relic. Will the Symphogear wielders and their supporting organization S.O.N.G. be able to foil the plans of the organizations conspiring against them?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Gl3vAScd2sk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +124,114 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy3L94FaiYzZ1--4i_KgozHi2A7_dj7DOMEYLJHR_7b_BQ2vjMpOyjI6EzMYMachUHHHNJENIW0RQv68Mm-08rcT3H8gB7ywEdwZ548kXschF7PqHKDDrVwJQcyF2C3z2o92yQ",
       "nome": "Let's Make History With A Light That Even the Gods Don't Know"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-07T00:00:00+00:00",
+    "to": "2019-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Jul 7, 2019 to Sep 29, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.19,
+  "scored_by": 15652,
+  "rank": 430,
+  "popularity": 3796,
+  "members": 43617,
+  "favorites": 912,
+  "synopsis": "Humanity is finally confronted with the threat of the Custodians—the ancient, sentient species held responsible for cursing humanity to speak different languages thousands of years ago. The Symphogear wielders—Hibiki Tachibana, Tsubasa Kazanari, Chris Yukine, Maria Cadenzavna Eve, Kirika Akatsuki, and Shirabe Tsukuyomi—are sent to the Antarctic in order to retrieve an ancient relic. After securing it and rescuing the scientific staff present there from a Coffin, the automated defense mechanism protecting it, the relic is given to American researchers due to international agreements.\n\nThe criminal organization Noble Red, a remnant of the previously fought Bavarian Illuminati, starts targeting the relic. Will the Symphogear wielders and their supporting organization S.O.N.G. be able to foil the plans of the organizations conspiring against them?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 647,
+      "type": "anime",
+      "name": "Memory-Tech",
+      "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 963,
+      "type": "anime",
+      "name": "MAGES.",
+      "url": "https://myanimelist.net/anime/producer/963/MAGES"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 1679,
+      "type": "anime",
+      "name": "Kinyosha",
+      "url": "https://myanimelist.net/anime/producer/1679/Kinyosha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1899/101966l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Gl3vAScd2sk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32843,
+  "slug": "senki-zesshou-symphogear-xv"
 }

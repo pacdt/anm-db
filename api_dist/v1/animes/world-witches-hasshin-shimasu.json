@@ -1,17 +1,55 @@
 {
-  "id": 42506,
-  "slug": "world-witches-hasshin-shimasu",
-  "type": "legendado",
+  "mal_id": 42506,
+  "url": "https://myanimelist.net/anime/42506/World_Witches_Hasshin_Shimasu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1132/110412t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1132/110412l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1132/110412.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1132/110412t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1132/110412l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/gezvo2u8-Gg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "World Witches Hasshin Shimasu!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワールドウィッチーズ発進しますっ！"
+    },
+    {
+      "type": "English",
+      "title": "World Witches Take Off!"
+    },
+    {
+      "type": "German",
+      "title": "World Witches: Take Off!"
+    }
+  ],
   "title": "World Witches Hasshin Shimasu!",
   "title_english": "World Witches Take Off!",
   "title_japanese": "ワールドウィッチーズ発進しますっ！",
-  "image": "https://cdn.myanimelist.net/images/anime/1132/110412l.webp",
-  "score": 6.49,
-  "synopsis": "Countries all over the world formed an alliance to counter the emerging enemy of mankind \"Neuroi,\" whom only girls with special powers could counter. However, the Neuroi never appeared. Instead of fighting, the witches spend their days idly. This time following not only unit 501, but also unit 502 known as \"Brave Witches!\" The 2nd volume of the comical daily drama of the witches who do not fight Neuroi begins!\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/gezvo2u8-Gg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +111,94 @@
       "url": "https://lightspeedst.net/s2/mp4_temp/world-witches-hasshin-shimasu/12/720p.mp4",
       "nome": "502nd, Sister Aces are Taking Off?"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-13T00:00:00+00:00",
+    "to": "2021-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2021
+      }
+    },
+    "string": "Jan 13, 2021 to Mar 31, 2021"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.49,
+  "scored_by": 3552,
+  "rank": 7467,
+  "popularity": 6284,
+  "members": 13413,
+  "favorites": 19,
+  "synopsis": "Countries all over the world formed an alliance to counter the emerging enemy of mankind \"Neuroi,\" whom only girls with special powers could counter. However, the Neuroi never appeared. Instead of fighting, the witches spend their days idly. This time following not only unit 501, but also unit 502 known as \"Brave Witches!\" The 2nd volume of the comical daily drama of the witches who do not fight Neuroi begins!\n\n(Source: MAL News)",
+  "background": "",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 1255,
+      "type": "anime",
+      "name": "Glovision",
+      "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2085,
+      "type": "anime",
+      "name": "Acca effe",
+      "url": "https://myanimelist.net/anime/producer/2085/Acca_effe"
+    },
+    {
+      "mal_id": 2086,
+      "type": "anime",
+      "name": "Giga Production",
+      "url": "https://myanimelist.net/anime/producer/2086/Giga_Production"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1132/110412l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/gezvo2u8-Gg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 42506,
+  "slug": "world-witches-hasshin-shimasu"
 }

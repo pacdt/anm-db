@@ -1,20 +1,62 @@
 {
-  "id": 223,
-  "slug": "dragon-ball-dublado",
-  "type": "dublado",
+  "mal_id": 223,
+  "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/92364t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/92364l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/92364t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/92364l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/fg_fP7cRJXg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragon Ball"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dragonball"
+    },
+    {
+      "type": "Synonym",
+      "title": "DB"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴンボール"
+    },
+    {
+      "type": "English",
+      "title": "Dragon Ball"
+    }
+  ],
   "title": "Dragon Ball",
   "title_english": "Dragon Ball",
   "title_japanese": "ドラゴンボール",
-  "image": "https://cdn.myanimelist.net/images/anime/1887/92364l.webp",
-  "score": 7.98,
-  "synopsis": "Gokuu Son is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Gokuu happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.\n\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Gokuu trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/fg_fP7cRJXg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Dragonball",
+    "DB"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -781,5 +823,93 @@
       "url": "https://lightspeedst.net/s2/mp4/dragon-ball-dublado/sd/153.mp4",
       "nome": "The End, the Beginning"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1986-02-26T00:00:00+00:00",
+    "to": "1989-04-12T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 2,
+        "year": 1986
+      },
+      "to": {
+        "day": 12,
+        "month": 4,
+        "year": 1989
+      }
+    },
+    "string": "Feb 26, 1986 to Apr 12, 1989"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.98,
+  "scored_by": 715592,
+  "rank": 728,
+  "popularity": 151,
+  "members": 1121951,
+  "favorites": 17654,
+  "synopsis": "Gokuu Son is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Gokuu happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.\n\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Gokuu trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.\n\n[Written by MAL Rewrite]",
+  "background": "Adapts the first 194 chapters of Akira Toriyama’s Dragon Ball manga.",
+  "season": "winter",
+  "year": 1986,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1887/92364l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/fg_fP7cRJXg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 223,
+  "slug": "dragon-ball-dublado"
 }

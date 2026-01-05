@@ -1,21 +1,143 @@
 {
-  "id": 35285,
-  "slug": "a-channel-nabe-wo-tabeyou",
-  "type": "legendado",
+  "mal_id": 35285,
+  "url": "https://myanimelist.net/anime/35285/A-Channel__Nabe_wo_Tabeyou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/84989.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/84989t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/84989l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/84989.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/84989t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/84989l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "A-Channel: Nabe wo Tabeyou"
+    },
+    {
+      "type": "Synonym",
+      "title": "A Channel +Smile Extra OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Alexandrite In The Pot"
+    },
+    {
+      "type": "Japanese",
+      "title": "Aチャンネル 鍋を食べよう"
+    },
+    {
+      "type": "English",
+      "title": "A-Channel: Let's Eat Hot Pot"
+    }
+  ],
   "title": "A-Channel: Nabe wo Tabeyou",
   "title_english": "A-Channel: Let's Eat Hot Pot",
   "title_japanese": "Aチャンネル 鍋を食べよう",
-  "image": "https://cdn.myanimelist.net/images/anime/9/84989l.webp",
-  "score": 6.87,
-  "synopsis": "A new episode included with the complete Blu-ray box collection of A-Channel.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "A Channel +Smile Extra OVA",
+    "Alexandrite In The Pot"
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxvkuw7Pmdy4Kaf0DddVCXgdSwfFXLNbQQ9EULghxxd-a0l_SyyJqCnnFtPuK63BFSPjDpgXuIC2Xkk7mQwOrXJlnBaISd1o7S2EcpyW8712aKPqzHG_aJIl79qUMTecAksuu8"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-09-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 9,
+        "year": 2017
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 27, 2017"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.87,
+  "scored_by": 3453,
+  "rank": 5166,
+  "popularity": 7227,
+  "members": 9639,
+  "favorites": 2,
+  "synopsis": "A new episode included with the complete Blu-ray box collection of A-Channel.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 418,
+      "type": "anime",
+      "name": "Studio Gokumi",
+      "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/84989l.webp",
+  "trailer_url": null,
+  "id": 35285,
+  "slug": "a-channel-nabe-wo-tabeyou"
 }

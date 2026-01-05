@@ -1,19 +1,63 @@
 {
-  "id": 32682,
-  "slug": "kagewani-shou",
-  "type": "legendado",
+  "mal_id": 32682,
+  "url": "https://myanimelist.net/anime/32682/Kagewani__Shou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/78601.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/78601t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/78601l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/78601.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/78601t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/78601l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kagewani: Shou"
+    },
+    {
+      "type": "Japanese",
+      "title": "影鰐-KAGEWANI-承"
+    },
+    {
+      "type": "English",
+      "title": "Kagewani -II-"
+    },
+    {
+      "type": "German",
+      "title": "Kagewani -Ⅱ-"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kagewani -Ⅱ-"
+    },
+    {
+      "type": "French",
+      "title": "Kagewani -Ⅱ-"
+    }
+  ],
   "title": "Kagewani: Shou",
   "title_english": "Kagewani -II-",
   "title_japanese": "影鰐-KAGEWANI-承",
-  "image": "https://cdn.myanimelist.net/images/anime/3/78601l.webp",
-  "score": 6.41,
-  "synopsis": "After surviving the onslaught at Sarugaku headquarters, Sousuke Banba resumes his investigation of the Kagewani monster hybrids. Armed with the ability to harness the Kagewani's power, the researcher now has a means to eliminate the creatures. But despite the benefits of this skill, it has one major drawback: Sousuke now struggles to maintain his sanity, with the power threatening to consume his body.\n\nSoon, threats old and new begin to rear their heads, as the upper echelons of Sarugaku become active once again and an assassin with a personal vendetta sets her sights on Sousuke. Nevertheless, he resolutely forges ahead on his mission, determined to track down the origins of the Kagewani and eliminate their threat once and for all.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Horror",
-    "Mystery",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +124,71 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxubv2_9XqT7Ryr7cPvqsCWc-0VW6KgQ6SGOfMtr4BFxXrHsuLb93HAMHiizUhyKZMQVOllPXBIcLxAXmcOfNgeLFykxcqGsPGcqejdIs4HKUw_Xu4RDm1WmpKbFRxmQ7F80ZwW",
       "nome": "The Final Battle"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-01T00:00:00+00:00",
+    "to": "2016-06-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 24,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 1, 2016 to Jun 24, 2016"
+  },
+  "duration": "7 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.41,
+  "scored_by": 8408,
+  "rank": 7975,
+  "popularity": 5413,
+  "members": 19905,
+  "favorites": 20,
+  "synopsis": "After surviving the onslaught at Sarugaku headquarters, Sousuke Banba resumes his investigation of the Kagewani monster hybrids. Armed with the ability to harness the Kagewani's power, the researcher now has a means to eliminate the creatures. But despite the benefits of this skill, it has one major drawback: Sousuke now struggles to maintain his sanity, with the power threatening to consume his body.\n\nSoon, threats old and new begin to rear their heads, as the upper echelons of Sarugaku become active once again and an assassin with a personal vendetta sets her sights on Sousuke. Nevertheless, he resolutely forges ahead on his mission, determined to track down the origins of the Kagewani and eliminate their threat once and for all.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 324,
+      "type": "anime",
+      "name": "Directions",
+      "url": "https://myanimelist.net/anime/producer/324/Directions"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1265,
+      "type": "anime",
+      "name": "Tomovies",
+      "url": "https://myanimelist.net/anime/producer/1265/Tomovies"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/78601l.webp",
+  "trailer_url": null,
+  "id": 32682,
+  "slug": "kagewani-shou"
 }

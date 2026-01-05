@@ -1,17 +1,51 @@
 {
-  "id": 38254,
-  "slug": "hashiri-tsuzukete-yokattatte",
-  "type": "legendado",
+  "mal_id": 38254,
+  "url": "https://myanimelist.net/anime/38254/Hashiri_Tsuzukete_Yokatta_tte",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1533/94555.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1533/94555t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1533/94555l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1533/94555.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1533/94555t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1533/94555l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DqrfZtTakv8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hashiri Tsuzukete Yokatta tte."
+    },
+    {
+      "type": "Japanese",
+      "title": "走り続けてよかったって。"
+    },
+    {
+      "type": "English",
+      "title": "I'm glad I could keep running."
+    }
+  ],
   "title": "Hashiri Tsuzukete Yokatta tte.",
   "title_english": "I'm glad I could keep running.",
   "title_japanese": "走り続けてよかったって。",
-  "image": "https://cdn.myanimelist.net/images/anime/1533/94555l.webp",
-  "score": 6.38,
-  "synopsis": "Minato visits a recitation at an anime event with his friend. He is captivated by the voice actors' performances and decides to enroll in Suidoubashi Animation Academy. There, he meets Chikako, who used to live in the room he is moving into and who left a message in a USB drive. Minato, who aims to be a voice actor but is unable to put himself into the role, and Chikako, who lives with a past trauma, encourage one another and try to improve themselves. With the help of seniors such as Ryouta and Kei watching over them, they try to mature. As they stumble and worry, what lies ahead for them both?\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DqrfZtTakv8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -33,5 +67,75 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz9ZSQjveKwDCcEmiY903HH9aiUTGlhkRaERr9VkDoNMJtHA-_aEHMZuerq_Bo04etSQTleYVBDpzEy64vciDmSCeBYHFzeAZLKfa9NDNjRpFEA53Xq7JGOsuyWeICJMXW2SSDz",
       "nome": "Episode 4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-09T00:00:00+00:00",
+    "to": "2018-10-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 30,
+        "month": 10,
+        "year": 2018
+      }
+    },
+    "string": "Oct 9, 2018 to Oct 30, 2018"
+  },
+  "duration": "15 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.38,
+  "scored_by": 4694,
+  "rank": 8154,
+  "popularity": 6353,
+  "members": 13109,
+  "favorites": 12,
+  "synopsis": "Minato visits a recitation at an anime event with his friend. He is captivated by the voice actors' performances and decides to enroll in Suidoubashi Animation Academy. There, he meets Chikako, who used to live in the room he is moving into and who left a message in a USB drive. Minato, who aims to be a voice actor but is unable to put himself into the role, and Chikako, who lives with a past trauma, encourage one another and try to improve themselves. With the help of seniors such as Ryouta and Kei watching over them, they try to mature. As they stumble and worry, what lies ahead for them both?\n\n(Source: MAL News)",
+  "background": "",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1868,
+      "type": "anime",
+      "name": "Twin Planet",
+      "url": "https://myanimelist.net/anime/producer/1868/Twin_Planet"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1278,
+      "type": "anime",
+      "name": "Signal.MD",
+      "url": "https://myanimelist.net/anime/producer/1278/SignalMD"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1533/94555l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DqrfZtTakv8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38254,
+  "slug": "hashiri-tsuzukete-yokattatte"
 }

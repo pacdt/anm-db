@@ -1,19 +1,51 @@
 {
-  "id": 3667,
-  "slug": "strike-witches",
-  "type": "legendado",
+  "mal_id": 3667,
+  "url": "https://myanimelist.net/anime/3667/Strike_Witches",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/75524.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/75524t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/75524l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/75524.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/75524t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/75524l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Strike Witches"
+    },
+    {
+      "type": "Japanese",
+      "title": "ストライクウィッチーズ"
+    },
+    {
+      "type": "English",
+      "title": "Strike Witches"
+    }
+  ],
   "title": "Strike Witches",
   "title_english": "Strike Witches",
   "title_japanese": "ストライクウィッチーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/13/75524l.webp",
-  "score": 6.93,
-  "synopsis": "In the year 1939, humanity was on the verge of destruction. Equipped with weapons of devastating power, a mysterious alien race, known as the Neuroi, began an invasion of the Earth, ravaging the planet, obliterating countries, and vanquishing human armies. To counter this seemingly unstoppable force, the world's powers united. A new device was produced, called the Striker Unit, capable of facing Neuroi technology. Girls equipped with the Striker Unit became known as the Witches, forming humanity's last line of defense. They began their fight against the Neuroi, utilizing their now-enhanced magical abilities, flaunting destructive weapons no human could manage.\n\nFast forward to 1944—Yoshika Miyafuji is a young teenage girl who eventually decides to join the 501st Joint Fighter Wing, known as the \"Strike Witches.\" With no formal training however, can Miyafuji learn to cooperate with her fellow Strike Witches? And if so, can she save humanity from the Neuroi onslaught?\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +107,103 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz1ncGNfILx8F0VBUIbDH_Uoqks3GOemowuANoEv3Y2yswzoPfXuDWWJ0jx9d0-lsy4hLwRB5RO54UHZBQ2VVSs8b4RGSIJKbLfsaOBpI5CMEC1zyLgnegArIh1QCGYMiUcMOBK",
       "nome": "Strike Witches"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-07-04T00:00:00+00:00",
+    "to": "2008-09-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2008
+      },
+      "to": {
+        "day": 19,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Jul 4, 2008 to Sep 19, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.93,
+  "scored_by": 71469,
+  "rank": 4895,
+  "popularity": 1493,
+  "members": 180662,
+  "favorites": 1099,
+  "synopsis": "In the year 1939, humanity was on the verge of destruction. Equipped with weapons of devastating power, a mysterious alien race, known as the Neuroi, began an invasion of the Earth, ravaging the planet, obliterating countries, and vanquishing human armies. To counter this seemingly unstoppable force, the world's powers united. A new device was produced, called the Striker Unit, capable of facing Neuroi technology. Girls equipped with the Striker Unit became known as the Witches, forming humanity's last line of defense. They began their fight against the Neuroi, utilizing their now-enhanced magical abilities, flaunting destructive weapons no human could manage.\n\nFast forward to 1944—Yoshika Miyafuji is a young teenage girl who eventually decides to join the 501st Joint Fighter Wing, known as the \"Strike Witches.\" With no formal training however, can Miyafuji learn to cooperate with her fellow Strike Witches? And if so, can she save humanity from the Neuroi onslaught?\n\n[Written by MAL Rewrite]",
+  "background": "Strike Witches was named a Jury Selection work in the Animation Division of the 12th Japan Media Arts Festival.",
+  "season": "summer",
+  "year": 2008,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "GDH",
+      "url": "https://myanimelist.net/anime/producer/42/GDH"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 689,
+      "type": "anime",
+      "name": "NTT Docomo",
+      "url": "https://myanimelist.net/anime/producer/689/NTT_Docomo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/75524l.webp",
+  "trailer_url": null,
+  "id": 3667,
+  "slug": "strike-witches"
 }

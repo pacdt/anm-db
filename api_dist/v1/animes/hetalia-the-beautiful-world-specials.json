@@ -1,17 +1,47 @@
 {
-  "id": 17273,
-  "slug": "hetalia-the-beautiful-world-specials",
-  "type": "legendado",
+  "mal_id": 17273,
+  "url": "https://myanimelist.net/anime/17273/Hetalia__The_Beautiful_World_Specials",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1280/97332.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1280/97332t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1280/97332l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1280/97332.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1280/97332t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1280/97332l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hetalia: The Beautiful World Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヘタリア The Beautiful World"
+    }
+  ],
   "title": "Hetalia: The Beautiful World Specials",
   "title_english": "Hetalia: The Beautiful World Specials",
   "title_japanese": "ヘタリア The Beautiful World",
-  "image": "https://cdn.myanimelist.net/images/anime/1280/97332l.webp",
-  "score": 7.43,
-  "synopsis": "Special episodes released with the Hetalia: The Beautiful World BD/DVDs.\n\nInclude 4 episodes:\n\nExtra 1: Buon San Valentino - First Part\nExtra 2: Buon San Valentino - Last Part\nExtra 3: The Centennial Gift\nExtra 4: Liechtenstein and the Hedgehog Country",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -29,5 +59,95 @@
       "numero": 4,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzA-G1rDRzQPpaqYgrncnG31U2OadnJPJGuE09K_7TFK_mNJ1Bxag0r1XGlhLe47kEVJ3G66ZTLg7CyPIOgGPLmwkSX6RONCtkYdWrV_kQPI_PvxeNK6i1nvNvClpecXu5yPf8"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-04-24T00:00:00+00:00",
+    "to": "2013-10-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 4,
+        "year": 2013
+      },
+      "to": {
+        "day": 30,
+        "month": 10,
+        "year": 2013
+      }
+    },
+    "string": "Apr 24, 2013 to Oct 30, 2013"
+  },
+  "duration": "5 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.43,
+  "scored_by": 7927,
+  "rank": 2337,
+  "popularity": 5508,
+  "members": 19007,
+  "favorites": 20,
+  "synopsis": "Special episodes released with the Hetalia: The Beautiful World BD/DVDs.\n\nInclude 4 episodes:\n\nExtra 1: Buon San Valentino - First Part\nExtra 2: Buon San Valentino - Last Part\nExtra 3: The Centennial Gift\nExtra 4: Liechtenstein and the Hedgehog Country",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1280/97332l.webp",
+  "trailer_url": null,
+  "id": 17273,
+  "slug": "hetalia-the-beautiful-world-specials"
 }

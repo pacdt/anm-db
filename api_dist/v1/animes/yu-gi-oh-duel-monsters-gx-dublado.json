@@ -1,19 +1,105 @@
 {
-  "id": 482,
-  "slug": "yu-gi-oh-duel-monsters-gx-dublado",
-  "type": "dublado",
+  "mal_id": 482,
+  "url": "https://myanimelist.net/anime/482/Yu☆Gi☆Oh_Duel_Monsters_GX",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/20873.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/20873t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/20873l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/20873.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/20873t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/20873l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yu☆Gi☆Oh! Duel Monsters GX"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yu-Gi-Oh! GX"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yugioh GX"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yu-Gi-Oh! Genex"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yugioh Genex"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yu-Gi-Oh!: Duel Monsters GX"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yugioh: Duel Monsters GX"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yu-Gi-Oh!: Duel Monsters Genex"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yugioh: Duel Monsters Genex"
+    },
+    {
+      "type": "Synonym",
+      "title": "Game King of Duel Monsters GX"
+    },
+    {
+      "type": "Japanese",
+      "title": "遊☆戯☆王　デュエルモンスターズ GX"
+    },
+    {
+      "type": "English",
+      "title": "Yu-Gi-Oh! GX"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yu-Gi-Oh! GX"
+    },
+    {
+      "type": "French",
+      "title": "Yu-Gi-Oh! GX"
+    }
+  ],
   "title": "Yu☆Gi☆Oh! Duel Monsters GX",
   "title_english": "Yu-Gi-Oh! GX",
   "title_japanese": "遊☆戯☆王　デュエルモンスターズ GX",
-  "image": "https://cdn.myanimelist.net/images/anime/6/20873l.webp",
-  "score": 7.22,
-  "synopsis": "In the world of Duel Monsters, a new generation of duelists await their turn to bid for the highest title: The King of Games. As an aspiring duelist, the happy-go-lucky Juudai Yuuki enrolls at the Duel Academy, a reputable institution tasked with nurturing these potential challengers. \n\nOn his first day, however, Juudai's laid back and careless attitude causes him to arrive late to his entrance exam. There, he stumbles upon a familiar figure who entrusts him the \"Winged Kuriboh,\" a card which becomes Judai's new partner. Soon, he begins living as a duelist—but will destiny and darkness bend his reality into something beyond his imagination?\n\nYu☆Gi☆Oh!: Duel Monsters GX follows the story of Juudai as he strives to fulfill his goal of becoming the next King of Games. As they are thrust into countless unprecedented circumstances, one thing is for sure for Juudai and his friends—there will never be a dull moment at the Duel Academy! \n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Yu-Gi-Oh! GX",
+    "Yugioh GX",
+    "Yu-Gi-Oh! Genex",
+    "Yugioh Genex",
+    "Yu-Gi-Oh!: Duel Monsters GX",
+    "Yugioh: Duel Monsters GX",
+    "Yu-Gi-Oh!: Duel Monsters Genex",
+    "Yugioh: Duel Monsters Genex",
+    "Game King of Duel Monsters GX"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -790,5 +876,116 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyBhMlS4D1yS6xzDDU76OltgDiPl-7lLtM-ngj7w4C_iyxFgYDmXQUA5aSocL1MIBMsM5DgDj8JLLFc__rT0gHzvC46_JBRzgUawArDukpwU5GRB9yrFG_G0aNFh1o7_bnxmw",
       "nome": "Return of the Supreme King (Part 3)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-06T00:00:00+00:00",
+    "to": "2008-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Oct 6, 2004 to Mar 26, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.22,
+  "scored_by": 143826,
+  "rank": 3407,
+  "popularity": 1194,
+  "members": 231682,
+  "favorites": 1777,
+  "synopsis": "In the world of Duel Monsters, a new generation of duelists await their turn to bid for the highest title: The King of Games. As an aspiring duelist, the happy-go-lucky Juudai Yuuki enrolls at the Duel Academy, a reputable institution tasked with nurturing these potential challengers. \n\nOn his first day, however, Juudai's laid back and careless attitude causes him to arrive late to his entrance exam. There, he stumbles upon a familiar figure who entrusts him the \"Winged Kuriboh,\" a card which becomes Judai's new partner. Soon, he begins living as a duelist—but will destiny and darkness bend his reality into something beyond his imagination?\n\nYu☆Gi☆Oh!: Duel Monsters GX follows the story of Juudai as he strives to fulfill his goal of becoming the next King of Games. As they are thrust into countless unprecedented circumstances, one thing is for sure for Juudai and his friends—there will never be a dull moment at the Duel Academy! \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 85,
+      "type": "anime",
+      "name": "Konami",
+      "url": "https://myanimelist.net/anime/producer/85/Konami"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 252,
+      "type": "anime",
+      "name": "4Kids Entertainment",
+      "url": "https://myanimelist.net/anime/producer/252/4Kids_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Gallop",
+      "url": "https://myanimelist.net/anime/producer/36/Gallop"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/20873l.webp",
+  "trailer_url": null,
+  "id": 482,
+  "slug": "yu-gi-oh-duel-monsters-gx-dublado"
 }

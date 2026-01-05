@@ -1,20 +1,61 @@
 {
-  "id": 635,
-  "slug": "juubee-chan-lovely-gantai-no-himitsu",
-  "type": "legendado",
+  "mal_id": 635,
+  "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/60987.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/60987t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/60987l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/60987.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/60987t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/60987l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Juubee-chan: Lovely Gantai no Himitsu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Jubei-chan - Secret of the Lovely Eyepatch"
+    },
+    {
+      "type": "Japanese",
+      "title": "十兵衛ちゃん ーラブリー眼帯の秘密"
+    },
+    {
+      "type": "English",
+      "title": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch"
+    },
+    {
+      "type": "Spanish",
+      "title": "Jubei-chan: The Ninja Girl"
+    }
+  ],
   "title": "Juubee-chan: Lovely Gantai no Himitsu",
   "title_english": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch",
   "title_japanese": "十兵衛ちゃん ーラブリー眼帯の秘密",
-  "image": "https://cdn.myanimelist.net/images/anime/13/60987l.webp",
-  "score": 6.67,
-  "synopsis": "Jiyu Nanohana is an ordinary schoolgirl until she runs across a scatterbrained 300 year old samurai who tells her that she is the reincarnation of Yagyu Jubei. With the help of the \"Lovely Eyepatch\" she transforms into the legendary swordsman whenever she needs to use his awesome fighting ability, which she needs to do quite often as a rival clan is dead set on conquering Yagyu to satisfy an old family grudge.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Drama"
+  "title_synonyms": [
+    "Jubei-chan - Secret of the Lovely Eyepatch"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -81,5 +122,85 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyun43enQVgwOXKPImxeNK2ZP-r0R2ew3YlidFEdAop5eV0Wb5q6jKdVY7frSJfgKmnbhB0YlXFAcvVjEfiwlr061izwPi6t_wfsLLoNzk1u4WJWs6KkS7vvFxlv1wQcy4mWZLr",
       "nome": "Night Gave Way to a Brand New Day"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-04-06T00:00:00+00:00",
+    "to": "1999-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 1999
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 1999
+      }
+    },
+    "string": "Apr 6, 1999 to Jun 29, 1999"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.67,
+  "scored_by": 8390,
+  "rank": 6325,
+  "popularity": 5305,
+  "members": 20971,
+  "favorites": 40,
+  "synopsis": "Jiyu Nanohana is an ordinary schoolgirl until she runs across a scatterbrained 300 year old samurai who tells her that she is the reincarnation of Yagyu Jubei. With the help of the \"Lovely Eyepatch\" she transforms into the legendary swordsman whenever she needs to use his awesome fighting ability, which she needs to do quite often as a rival clan is dead set on conquering Yagyu to satisfy an old family grudge.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 1999,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    },
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/60987l.webp",
+  "trailer_url": null,
+  "id": 635,
+  "slug": "juubee-chan-lovely-gantai-no-himitsu"
 }

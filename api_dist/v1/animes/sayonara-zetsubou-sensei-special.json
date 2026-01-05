@@ -1,22 +1,145 @@
 {
-  "id": 10469,
-  "slug": "sayonara-zetsubou-sensei-special",
-  "type": "legendado",
+  "mal_id": 10469,
+  "url": "https://myanimelist.net/anime/10469/Sayonara_Zetsubou_Sensei_Special",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/75518.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/75518t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/75518l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/75518.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/75518t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/75518l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sayonara Zetsubou Sensei Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sayonara Zetsubou Sensei BD Box OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "SZS Blu-ray Box Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sayonara Zetsubou Sensei: Nyankin no Kirisuto"
+    },
+    {
+      "type": "Japanese",
+      "title": "さよなら絶望先生"
+    }
+  ],
   "title": "Sayonara Zetsubou Sensei Special",
   "title_english": "Sayonara Zetsubou Sensei Special",
   "title_japanese": "さよなら絶望先生",
-  "image": "https://cdn.myanimelist.net/images/anime/12/75518l.webp",
-  "score": 7.46,
-  "synopsis": "A new special episode that was distributed to those who purchase all three Blu-ray box sets of Sayonara Zetsubou Sensei series on January 31, 2012.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Mystery"
+  "title_synonyms": [
+    "Sayonara Zetsubou Sensei BD Box OVA",
+    "SZS Blu-ray Box Special",
+    "Sayonara Zetsubou Sensei: Nyankin no Kirisuto"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dx2oOKOWFfmUPkVeocwPYJujvKLxQUGVZRWk6TbhYuXwRqwJpzINoutK4_XnfOSgh45Gb_ow9Uv6GXUAhmdnFuds_e7EUrAijmy2fFyvG8yCXOngYpiE7AI8JLVe4BCK69ozOc"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-31T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 31,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 31, 2012"
+  },
+  "duration": "24 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.46,
+  "scored_by": 8305,
+  "rank": 2198,
+  "popularity": 5424,
+  "members": 19813,
+  "favorites": 8,
+  "synopsis": "A new special episode that was distributed to those who purchase all three Blu-ray box sets of Sayonara Zetsubou Sensei series on January 31, 2012.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/75518l.webp",
+  "trailer_url": null,
+  "id": 10469,
+  "slug": "sayonara-zetsubou-sensei-special"
 }

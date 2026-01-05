@@ -1,21 +1,69 @@
 {
-  "id": 9750,
-  "slug": "itsuka-tenma-no-kuro-usagi",
-  "type": "legendado",
+  "mal_id": 9750,
+  "url": "https://myanimelist.net/anime/9750/Itsuka_Tenma_no_Kuro_Usagi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75197.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75197t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75197l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75197.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75197t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75197l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/XhSkIHFmxF8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Itsuka Tenma no Kuro Usagi"
+    },
+    {
+      "type": "Synonym",
+      "title": "ItsuTen"
+    },
+    {
+      "type": "Japanese",
+      "title": "いつか天魔の黒ウサギ"
+    },
+    {
+      "type": "English",
+      "title": "A Dark Rabbit has Seven Lives"
+    },
+    {
+      "type": "German",
+      "title": "A Dark Rabbit has Seven Lives"
+    },
+    {
+      "type": "Spanish",
+      "title": "A Dark Rabbit has Seven Lives"
+    },
+    {
+      "type": "French",
+      "title": "A Dark Rabbit has Seven Lives"
+    }
+  ],
   "title": "Itsuka Tenma no Kuro Usagi",
   "title_english": "A Dark Rabbit has Seven Lives",
   "title_japanese": "いつか天魔の黒ウサギ",
-  "image": "https://cdn.myanimelist.net/images/anime/5/75197l.webp",
-  "score": 6.49,
-  "synopsis": "Taito has been really sleepy lately, and keeps dreaming of a female vampire who says she has given him her \"poison.\" Sometimes he even thinks he hears her voice when he's awake. But after surviving an accident that should have killed him, Taito's world changes drastically and he realizes that his dreams are more real than he thought.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/XhSkIHFmxF8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Romance",
-    "Supernatural",
-    "Ecchi"
+  "title_synonyms": [
+    "ItsuTen"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -77,5 +125,116 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzWPTPfvd1vUF-q76JfCbcLGF9h60wOn-Uanr5d9QcxYQH13WLuelFI35VDuTim_al-HNyhvvT6pwUXmABY2F-p1iM3d1UTStD0tAnDOzQj4Tx7xhpxASCwP-IC-tDY9z7cP8A",
       "nome": "Pale White Graduation"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-09T00:00:00+00:00",
+    "to": "2011-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Jul 9, 2011 to Sep 24, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.49,
+  "scored_by": 60213,
+  "rank": 7422,
+  "popularity": 1868,
+  "members": 137170,
+  "favorites": 216,
+  "synopsis": "Taito has been really sleepy lately, and keeps dreaming of a female vampire who says she has given him her \"poison.\" Sometimes he even thinks he hears her voice when he's awake. But after surviving an accident that should have killed him, Taito's world changes drastically and he realizes that his dreams are more real than he thought.",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 352,
+      "type": "anime",
+      "name": "Kadokawa Pictures Japan",
+      "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Romance",
+    "Supernatural",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/75197l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/XhSkIHFmxF8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 9750,
+  "slug": "itsuka-tenma-no-kuro-usagi"
 }

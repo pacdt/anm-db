@@ -1,17 +1,63 @@
 {
-  "id": 32607,
-  "slug": "gi-a-rlish-number",
-  "type": "legendado",
+  "mal_id": 32607,
+  "url": "https://myanimelist.net/anime/32607/Giarlish_Number",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/82291.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/82291t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/82291l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/82291.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/82291t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/82291l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pRP9KTMQe1g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gi(a)rlish Number"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガーリッシュ ナンバー"
+    },
+    {
+      "type": "English",
+      "title": "Girlish Number"
+    },
+    {
+      "type": "German",
+      "title": "Girlish Number"
+    },
+    {
+      "type": "Spanish",
+      "title": "Girlish Number"
+    },
+    {
+      "type": "French",
+      "title": "Girlish Number"
+    }
+  ],
   "title": "Gi(a)rlish Number",
   "title_english": "Girlish Number",
   "title_japanese": "ガーリッシュ ナンバー",
-  "image": "https://cdn.myanimelist.net/images/anime/3/82291l.webp",
-  "score": 6.8,
-  "synopsis": "College student Chitose Karasuma is determined not to do boring things as she enters the adult world. To this end, this bad-mannered beauty barges into a facility that trains would-be voice actors and actresses, somehow landing a job at \"Number One Produce,\" a seiyuu agency managed by her older brother, Gojou. In Chitose's mind, she's poised for greatness, but finds herself at a loss when she continues to only get minor roles. As she clashes with other girls in the agency, including a cunning airhead and a girl with a Kansai accent, Chitose is about to learn that there's more to succeeding in this competitive industry than she imagined.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/pRP9KTMQe1g?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +119,131 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyrNc-A3nuLmUXS-QWzvL4EOHTz9nJFVCiJRP0a9u8CKF0VuSg1Ty5LXrGEGDq-S5iaHVkFm9T_3RaHUYbx7n2RICqiPHz2-Px94q_fEZ3pCHE4nIl7RYQZi2qhSsvziTwUBXs",
       "nome": "Chitose Karasuma and......"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-07T00:00:00+00:00",
+    "to": "2016-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 7, 2016 to Dec 23, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.8,
+  "scored_by": 37195,
+  "rank": 5563,
+  "popularity": 2266,
+  "members": 104788,
+  "favorites": 157,
+  "synopsis": "College student Chitose Karasuma is determined not to do boring things as she enters the adult world. To this end, this bad-mannered beauty barges into a facility that trains would-be voice actors and actresses, somehow landing a job at \"Number One Produce,\" a seiyuu agency managed by her older brother, Gojou. In Chitose's mind, she's poised for greatness, but finds herself at a loss when she continues to only get minor roles. As she clashes with other girls in the agency, including a cunning airhead and a girl with a Kansai accent, Chitose is about to learn that there's more to succeeding in this competitive industry than she imagined.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "02:28",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 02:28 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1331,
+      "type": "anime",
+      "name": "i0+",
+      "url": "https://myanimelist.net/anime/producer/1331/i0_"
+    },
+    {
+      "mal_id": 1337,
+      "type": "anime",
+      "name": "Medicos Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+    },
+    {
+      "mal_id": 1589,
+      "type": "anime",
+      "name": "NichiNare",
+      "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Showbiz",
+      "url": "https://myanimelist.net/anime/genre/75/Showbiz"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/82291l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/pRP9KTMQe1g?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32607,
+  "slug": "gi-a-rlish-number"
 }

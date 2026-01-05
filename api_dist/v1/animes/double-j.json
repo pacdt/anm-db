@@ -1,17 +1,58 @@
 {
-  "id": 10838,
-  "slug": "double-j",
-  "type": "legendado",
+  "mal_id": 10838,
+  "url": "https://myanimelist.net/anime/10838/Double-J",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/31695.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/31695t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/31695l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/31695.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/31695t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/31695l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Double-J"
+    },
+    {
+      "type": "Synonym",
+      "title": "Daburu Jei"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yuruani"
+    },
+    {
+      "type": "Japanese",
+      "title": "だぶるじぇい"
+    }
+  ],
   "title": "Double-J",
   "title_english": "Double-J",
   "title_japanese": "だぶるじぇい",
-  "image": "https://cdn.myanimelist.net/images/anime/11/31695l.webp",
-  "score": 5.46,
-  "synopsis": "In a school where after school activities are mandatory among all students, Hajime and her friend Sayo come across a new club that they have never seen before. The club is called \"The Cultural Activity Preservation Club.\" The two enter the room to find all kinds of analog jobs and activities, such as handcrafting mats and toothpicks. This is a unique cultural anime mixed with comedy so as not to bore you, this is Double J!\n\n(Source: Mangahelpers, edited)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Daburu Jei",
+    "Yuruani"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -68,5 +109,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxpFI-7bW1R1fCGszyvkzkGCKiZjgrBuA6c6ut25mpVmB5Khq0ywDd8XNrfN3SSaCIfgMDliYjXRijcE1NSdcdT73mU5d739c7wNgJKvMtkAUKdEd-Rr_ZGskHJsy-FciRMVA",
       "nome": "The Prime Minister Traditional Impression"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-06-29T00:00:00+00:00",
+    "to": "2011-09-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 6,
+        "year": 2011
+      },
+      "to": {
+        "day": 14,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Jun 29, 2011 to Sep 14, 2011"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.46,
+  "scored_by": 5572,
+  "rank": 12847,
+  "popularity": 6418,
+  "members": 12793,
+  "favorites": 7,
+  "synopsis": "In a school where after school activities are mandatory among all students, Hajime and her friend Sayo come across a new club that they have never seen before. The club is called \"The Cultural Activity Preservation Club.\" The two enter the room to find all kinds of analog jobs and activities, such as handcrafting mats and toothpicks. This is a unique cultural anime mixed with comedy so as not to bore you, this is Double J!\n\n(Source: Mangahelpers, edited)",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:29",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:29 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 276,
+      "type": "anime",
+      "name": "DLE",
+      "url": "https://myanimelist.net/anime/producer/276/DLE"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/31695l.webp",
+  "trailer_url": null,
+  "id": 10838,
+  "slug": "double-j"
 }

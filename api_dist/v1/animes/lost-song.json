@@ -1,18 +1,55 @@
 {
-  "id": 34338,
-  "slug": "lost-song",
-  "type": "legendado",
+  "mal_id": 34338,
+  "url": "https://myanimelist.net/anime/34338/Lost_Song",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1494/91963.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/91963t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/91963l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1494/91963.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/91963t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/91963l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/vQuNJ06_1GI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lost Song"
+    },
+    {
+      "type": "Japanese",
+      "title": "LOST SONG"
+    },
+    {
+      "type": "German",
+      "title": "Lost Song: Das Lied der Wunder"
+    },
+    {
+      "type": "Spanish",
+      "title": "La Canción Perdida"
+    }
+  ],
   "title": "Lost Song",
   "title_english": "Lost Song",
   "title_japanese": "LOST SONG",
-  "image": "https://cdn.myanimelist.net/images/anime/1494/91963l.webp",
-  "score": 6.91,
-  "synopsis": "Lost Song tells the stories of the cheerful Rin and the reserved Finis, two songstresses who are capable of performing magical songs. Rin grew up in a remote village with her family and was taught to keep her power secret, while Finis lives and performs in the royal palace.\n\nRin's happy and peaceful life is shattered after she saves an injured knight named Henry Leobort with her song of healing. She was seen by soldiers who proceeded to attack her village in hopes of capturing her. With nowhere else to go, she and her inventor brother Al begin a journey to the capital.\n\nFinis finds herself falling in love with Henry and, knowing that the greedy and spiteful Prince Lood Bernstein IV desires her, must hide their relationship. She wants to help people with her songs, but with war on the horizon, she worries that Lood will order her to cast her magic in the battlefield. Only time will tell how her destiny and Rin's will intersect, as the two of them struggle to find their paths.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/vQuNJ06_1GI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +111,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxI5pmqI_Fnkgq9ddpfLtsNXrbHYmq14GJ6Wa9ookiEEBYnr8ke2i2O2ImILO6O2BjrXYqzRtSj-lASyb7ePVtGxgT3xtG3jaWSYUcYqlkatNeh0mzW45mTSI8tbiIfJLgZ-88",
       "nome": "The Song of Beginning"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-08T00:00:00+00:00",
+    "to": "2018-06-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 16,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Apr 8, 2018 to Jun 16, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.91,
+  "scored_by": 24533,
+  "rank": 4966,
+  "popularity": 3398,
+  "members": 53009,
+  "favorites": 203,
+  "synopsis": "Lost Song tells the stories of the cheerful Rin and the reserved Finis, two songstresses who are capable of performing magical songs. Rin grew up in a remote village with her family and was taught to keep her power secret, while Finis lives and performs in the royal palace.\n\nRin's happy and peaceful life is shattered after she saves an injured knight named Henry Leobort with her song of healing. She was seen by soldiers who proceeded to attack her village in hopes of capturing her. With nowhere else to go, she and her inventor brother Al begin a journey to the capital.\n\nFinis finds herself falling in love with Henry and, knowing that the greedy and spiteful Prince Lood Bernstein IV desires her, must hide their relationship. She wants to help people with her songs, but with war on the horizon, she worries that Lood will order her to cast her magic in the battlefield. Only time will tell how her destiny and Rin's will intersect, as the two of them struggle to find their paths.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 963,
+      "type": "anime",
+      "name": "MAGES.",
+      "url": "https://myanimelist.net/anime/producer/963/MAGES"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1494/91963l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/vQuNJ06_1GI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34338,
+  "slug": "lost-song"
 }

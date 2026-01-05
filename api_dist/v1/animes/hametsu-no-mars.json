@@ -1,23 +1,146 @@
 {
-  "id": 413,
-  "slug": "hametsu-no-mars",
-  "type": "legendado",
+  "mal_id": 413,
+  "url": "https://myanimelist.net/anime/413/Hametsu_no_Mars",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1651/148871.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/148871t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/148871l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1651/148871.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1651/148871t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1651/148871l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hametsu no Mars"
+    },
+    {
+      "type": "Japanese",
+      "title": "破滅のマルス"
+    },
+    {
+      "type": "English",
+      "title": "Mars of Destruction"
+    }
+  ],
   "title": "Hametsu no Mars",
   "title_english": "Mars of Destruction",
   "title_japanese": "破滅のマルス",
-  "image": "https://cdn.myanimelist.net/images/anime/1651/148871l.webp",
-  "score": 2.24,
-  "synopsis": "Several months after a probe returning from Mars burns up during reentry, strange creatures dubbed \"Ancients\" begin to appear throughout Tokyo. Aggressive and dangerous, they cannot be killed with ordinary weapons. As scientists struggle to find the cause of their sudden appearance, the monsters wreak havoc across the world.\n\nHumanity finds hope in the form of the MARS suit—a new weapon developed to take down these enemies. The suit, however, can only be worn by those with specific DNA. Enter Takeru Hinata, an ordinary teen with a troubled past and one of the few capable of piloting the only weapon against the Ancients. With the help of the AAST, a special police force established to defeat the dangerous creatures, the young man battles against demons both personal and global whilst trying to discover the true nature of Earth's new aggressors.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Horror",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxCjdVUEFuSxXftYGJ90a6JDdB9RBjoSQgnOVzmYMBUV_quFo6T6gZtyXYp3GEVDDrPa13Dw4r2_cas8bwlc3cNhA0IBSG9A8Amnk7Z3Y023i2jwmzIATL585lACdKl62PxsVc"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-07-06T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2005
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 6, 2005"
+  },
+  "duration": "19 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 2.24,
+  "scored_by": 50465,
+  "rank": 14559,
+  "popularity": 2907,
+  "members": 70095,
+  "favorites": 298,
+  "synopsis": "Several months after a probe returning from Mars burns up during reentry, strange creatures dubbed \"Ancients\" begin to appear throughout Tokyo. Aggressive and dangerous, they cannot be killed with ordinary weapons. As scientists struggle to find the cause of their sudden appearance, the monsters wreak havoc across the world.\n\nHumanity finds hope in the form of the MARS suit—a new weapon developed to take down these enemies. The suit, however, can only be worn by those with specific DNA. Enter Takeru Hinata, an ordinary teen with a troubled past and one of the few capable of piloting the only weapon against the Ancients. With the help of the AAST, a special police force established to defeat the dangerous creatures, the young man battles against demons both personal and global whilst trying to discover the true nature of Earth's new aggressors.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 193,
+      "type": "anime",
+      "name": "Idea Factory",
+      "url": "https://myanimelist.net/anime/producer/193/Idea_Factory"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 1570,
+      "type": "anime",
+      "name": "Design Factory",
+      "url": "https://myanimelist.net/anime/producer/1570/Design_Factory"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 318,
+      "type": "anime",
+      "name": "WAO World",
+      "url": "https://myanimelist.net/anime/producer/318/WAO_World"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1651/148871l.webp",
+  "trailer_url": null,
+  "id": 413,
+  "slug": "hametsu-no-mars"
 }

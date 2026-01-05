@@ -1,19 +1,63 @@
 {
-  "id": 7817,
-  "slug": "b-gata-h-kei",
-  "type": "legendado",
+  "mal_id": 7817,
+  "url": "https://myanimelist.net/anime/7817/B-gata_H-kei",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1687/123304.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1687/123304t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1687/123304l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1687/123304.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1687/123304t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1687/123304l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "B-gata H-kei"
+    },
+    {
+      "type": "Japanese",
+      "title": "B型H系"
+    },
+    {
+      "type": "English",
+      "title": "Yamada's First Time: B Gata H Kei"
+    },
+    {
+      "type": "German",
+      "title": "B Gata H Kei"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yamada's First Time: B Gata H Kei"
+    },
+    {
+      "type": "French",
+      "title": "Yamada's First Time: B Gata H Kei"
+    }
+  ],
   "title": "B-gata H-kei",
   "title_english": "Yamada's First Time: B Gata H Kei",
   "title_japanese": "B型H系",
-  "image": "https://cdn.myanimelist.net/images/anime/1687/123304l.webp",
-  "score": 6.83,
-  "synopsis": "Most people, including the girl herself, would say that first year high school student Yamada is beautiful and perfect. Despite this, she is working towards a peculiar goal: to have sex with one hundred men by the end of high school.\n\nTrying to put some sense into her head, Yamada's best friend, Miharu Takeshita, points out a major flaw in that plan—she is completely inexperienced with men. However, the reason behind this is that Yamada thinks her lady parts look strange and believes others will judge her for it. As a result, Yamada decides that her first time must be with a fellow virgin, since they will not hurt or scare her. After a fateful encounter, she sets her sights on the shy and average Takashi Kosuda, an aspiring photographer with a heart of gold. \n\nWith contending rivals for his affection and her own raging hormones, Yamada must find ways to seduce Kosuda and take his cherry. However, as she gets closer to Kosuda, she finds herself increasingly enjoying their time spent together.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,140 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzcjhVcJ8ZOG_-kHljLsnkGvg4PQzEUaZv2b7CXh4DOiImbD6mB2uqoxAaem2RcEzZwiZj4QfY9yf5FNtxJIe03ImWExt-1LrxdgG8erXvj1YegYskTSFS3bw5Rjmo2nvmgyufL",
       "nome": "The World Revolves for Us! Goodbye... B Gata H Kei! / Yamada Turns Into an Angel! Farewell! B Gata H Kei!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-04-02T00:00:00+00:00",
+    "to": "2010-06-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2010
+      },
+      "to": {
+        "day": 18,
+        "month": 6,
+        "year": 2010
+      }
+    },
+    "string": "Apr 2, 2010 to Jun 18, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.83,
+  "scored_by": 226386,
+  "rank": 5404,
+  "popularity": 648,
+  "members": 406858,
+  "favorites": 1609,
+  "synopsis": "Most people, including the girl herself, would say that first year high school student Yamada is beautiful and perfect. Despite this, she is working towards a peculiar goal: to have sex with one hundred men by the end of high school.\n\nTrying to put some sense into her head, Yamada's best friend, Miharu Takeshita, points out a major flaw in that plan—she is completely inexperienced with men. However, the reason behind this is that Yamada thinks her lady parts look strange and believes others will judge her for it. As a result, Yamada decides that her first time must be with a fellow virgin, since they will not hurt or scare her. After a fateful encounter, she sets her sights on the shy and average Takashi Kosuda, an aspiring photographer with a heart of gold. \n\nWith contending rivals for his affection and her own raging hormones, Yamada must find ways to seduce Kosuda and take his cherry. However, as she gets closer to Kosuda, she finds herself increasingly enjoying their time spent together.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2010,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 333,
+      "type": "anime",
+      "name": "TYO Animations",
+      "url": "https://myanimelist.net/anime/producer/333/TYO_Animations"
+    },
+    {
+      "mal_id": 787,
+      "type": "anime",
+      "name": "Happinet Pictures",
+      "url": "https://myanimelist.net/anime/producer/787/Happinet_Pictures"
+    },
+    {
+      "mal_id": 789,
+      "type": "anime",
+      "name": "BIGLOBE",
+      "url": "https://myanimelist.net/anime/producer/789/BIGLOBE"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1580,
+      "type": "anime",
+      "name": "AG-ONE",
+      "url": "https://myanimelist.net/anime/producer/1580/AG-ONE"
+    },
+    {
+      "mal_id": 1581,
+      "type": "anime",
+      "name": "RAY",
+      "url": "https://myanimelist.net/anime/producer/1581/RAY"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 34,
+      "type": "anime",
+      "name": "HAL Film Maker",
+      "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1687/123304l.webp",
+  "trailer_url": null,
+  "id": 7817,
+  "slug": "b-gata-h-kei"
 }

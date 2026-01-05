@@ -1,19 +1,62 @@
 {
-  "id": 55129,
-  "slug": "oroka-na-tenshi-wa-akuma-to-odoru",
-  "type": "legendado",
+  "mal_id": 55129,
+  "url": "https://myanimelist.net/anime/55129/Oroka_na_Tenshi_wa_Akuma_to_Odoru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1902/139271.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/139271t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/139271l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1902/139271.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/139271t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/139271l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3fBQ9LS1hQY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Oroka na Tenshi wa Akuma to Odoru"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Foolish Angel Dances with Demons"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kanaten"
+    },
+    {
+      "type": "Japanese",
+      "title": "愚かな天使は悪魔と踊る"
+    },
+    {
+      "type": "English",
+      "title": "The Foolish Angel Dances with the Devil"
+    }
+  ],
   "title": "Oroka na Tenshi wa Akuma to Odoru",
   "title_english": "The Foolish Angel Dances with the Devil",
   "title_japanese": "愚かな天使は悪魔と踊る",
-  "image": "https://cdn.myanimelist.net/images/anime/1902/139271l.webp",
-  "score": 6.91,
-  "synopsis": "Losing their war against Heaven's angel army, the demons of Hell are on the cusp of collapse. As a last ditch attempt to turn the tides of the war, the demons send Akutsu Masatora to the mortal plane on Earth to save their homeland from the angels. Disguising himself as a high school student, Akutsu seeks to recruit someone with the capability to lead the demons to victory.\n\nAkutsu does not have to look far: among his classmates is the magnificent Lily Amane, a transfer student who seems like the perfect candidate for Akutsu's plans. But as luck would have it, Lily is one of the very angels that Akutsu is meant to be fighting against, and his attempt to recruit her might end up being the biggest blunder in the failing war. Worse yet, Akutsu may fall in love with his own worst enemy.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3fBQ9LS1hQY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "The Foolish Angel Dances with Demons",
+    "Kanaten"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +118,151 @@
       "url": "https://lightspeedst.net/s7/mp4/oroka-na-tenshi-wa-akuma-to-odoru/hd/12.mp4",
       "nome": "The Foolish Angel and Demon to the End"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-01-09T00:00:00+00:00",
+    "to": "2024-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2024
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2024
+      }
+    },
+    "string": "Jan 9, 2024 to Mar 26, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.91,
+  "scored_by": 54055,
+  "rank": 4974,
+  "popularity": 1807,
+  "members": 142374,
+  "favorites": 440,
+  "synopsis": "Losing their war against Heaven's angel army, the demons of Hell are on the cusp of collapse. As a last ditch attempt to turn the tides of the war, the demons send Akutsu Masatora to the mortal plane on Earth to save their homeland from the angels. Disguising himself as a high school student, Akutsu seeks to recruit someone with the capability to lead the demons to victory.\n\nAkutsu does not have to look far: among his classmates is the magnificent Lily Amane, a transfer student who seems like the perfect candidate for Akutsu's plans. But as luck would have it, Lily is one of the very angels that Akutsu is meant to be fighting against, and his attempt to recruit her might end up being the biggest blunder in the failing war. Worse yet, Akutsu may fall in love with his own worst enemy.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1314,
+      "type": "anime",
+      "name": "Gaina",
+      "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1720,
+      "type": "anime",
+      "name": "Aoni Production",
+      "url": "https://myanimelist.net/anime/producer/1720/Aoni_Production"
+    },
+    {
+      "mal_id": 2219,
+      "type": "anime",
+      "name": "Nihon Keizai Koukokusha",
+      "url": "https://myanimelist.net/anime/producer/2219/Nihon_Keizai_Koukokusha"
+    },
+    {
+      "mal_id": 2800,
+      "type": "anime",
+      "name": "ANLA",
+      "url": "https://myanimelist.net/anime/producer/2800/ANLA"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1407,
+      "type": "anime",
+      "name": "Children's Playground Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1407/Childrens_Playground_Entertainment"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1902/139271l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3fBQ9LS1hQY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 55129,
+  "slug": "oroka-na-tenshi-wa-akuma-to-odoru"
 }

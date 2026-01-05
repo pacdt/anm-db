@@ -1,17 +1,51 @@
 {
-  "id": 57390,
-  "slug": "wonderful-precure",
-  "type": "legendado",
+  "mal_id": 57390,
+  "url": "https://myanimelist.net/anime/57390/Wonderful_Precure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1852/140786.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1852/140786t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1852/140786l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1852/140786.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1852/140786t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1852/140786l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/BPRbvtFnkYs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wonderful Precure!"
+    },
+    {
+      "type": "Japanese",
+      "title": "わんだふるぷりきゅあ!"
+    },
+    {
+      "type": "English",
+      "title": "Wonderful Precure!"
+    }
+  ],
   "title": "Wonderful Precure!",
   "title_english": "Wonderful Precure!",
   "title_japanese": "わんだふるぷりきゅあ!",
-  "image": "https://cdn.myanimelist.net/images/anime/1852/140786l.webp",
-  "score": 7.57,
-  "synopsis": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Garugaru, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/BPRbvtFnkYs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -263,5 +297,76 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/wonderful-precure/50/720p.mp4",
       "nome": "Wonderful Forever!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-02-04T00:00:00+00:00",
+    "to": "2025-01-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 2,
+        "year": 2024
+      },
+      "to": {
+        "day": 26,
+        "month": 1,
+        "year": 2025
+      }
+    },
+    "string": "Feb 4, 2024 to Jan 26, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.57,
+  "scored_by": 2670,
+  "rank": 1773,
+  "popularity": 7414,
+  "members": 9038,
+  "favorites": 121,
+  "synopsis": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Garugaru, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1852/140786l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/BPRbvtFnkYs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 57390,
+  "slug": "wonderful-precure"
 }

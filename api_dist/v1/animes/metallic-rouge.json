@@ -1,18 +1,51 @@
 {
-  "id": 54794,
-  "slug": "metallic-rouge",
-  "type": "legendado",
+  "mal_id": 54794,
+  "url": "https://myanimelist.net/anime/54794/Metallic_Rouge",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1859/140210.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1859/140210t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1859/140210l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1859/140210.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1859/140210t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1859/140210l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2P5YYkvoUGk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Metallic Rouge"
+    },
+    {
+      "type": "Japanese",
+      "title": "メタリックルージュ"
+    },
+    {
+      "type": "English",
+      "title": "Metallic Rouge"
+    }
+  ],
   "title": "Metallic Rouge",
   "title_english": "Metallic Rouge",
   "title_japanese": "メタリックルージュ",
-  "image": "https://cdn.myanimelist.net/images/anime/1859/140210l.webp",
-  "score": 6.2,
-  "synopsis": "After emerging victorious against an alien species known as Usurpers using combat androids called Neans, mankind colonized Mars and enjoyed post-war peace. Having fulfilled their purpose as soldiers, Neans became subservient workers and second-class citizens to humans. Requiring a daily dose of Nectar to sustain themselves, the androids depend on their masters for its supply of the drug.\n\nHowever, among this societal hierarchy lie Proto-Neans, independent specialized androids that can summon metallic exoskeletons with superhuman capabilities. Rouge Redstar is one such Proto-Nean working undercover for Aletheia, the government organization overseeing the regulation of Neans, alongside her human partner, Naomi Orthmann.\n\nRouge and Naomi's mission is to eliminate the Immortal Nine—Proto-Neans who threaten humanity for cryptic reasons. At the same time, an investigator is making his way to Mars to follow a series of murders where Rouge is considered the prime suspect. As the pair delve deeper into their search for the Immortal Nine, they uncover groundbreaking information about the rogue androids and the organization they work for.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/2P5YYkvoUGk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +112,112 @@
       "url": "https://lightspeedst.net/s7/mp4/metallic-rouge/hd/13.mp4",
       "nome": "Code Eve"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-01-11T00:00:00+00:00",
+    "to": "2024-04-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2024
+      },
+      "to": {
+        "day": 4,
+        "month": 4,
+        "year": 2024
+      }
+    },
+    "string": "Jan 11, 2024 to Apr 4, 2024"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.2,
+  "scored_by": 34090,
+  "rank": 9249,
+  "popularity": 2144,
+  "members": 114158,
+  "favorites": 400,
+  "synopsis": "After emerging victorious against an alien species known as Usurpers using combat androids called Neans, mankind colonized Mars and enjoyed post-war peace. Having fulfilled their purpose as soldiers, Neans became subservient workers and second-class citizens to humans. Requiring a daily dose of Nectar to sustain themselves, the androids depend on their masters for its supply of the drug.\n\nHowever, among this societal hierarchy lie Proto-Neans, independent specialized androids that can summon metallic exoskeletons with superhuman capabilities. Rouge Redstar is one such Proto-Nean working undercover for Aletheia, the government organization overseeing the regulation of Neans, alongside her human partner, Naomi Orthmann.\n\nRouge and Naomi's mission is to eliminate the Immortal Nine—Proto-Neans who threaten humanity for cryptic reasons. At the same time, an investigator is making his way to Mars to follow a series of murders where Rouge is considered the prime suspect. As the pair delve deeper into their search for the Immortal Nine, they uncover groundbreaking information about the rogue androids and the organization they work for.\n\n[Written by MAL Rewrite]",
+  "background": "Metallic Rouge was produced to celebrate Bones' 25th anniversary. The series was released on Blu-ray on August 2, 2024.",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 470,
+      "type": "anime",
+      "name": "GAGA",
+      "url": "https://myanimelist.net/anime/producer/470/GAGA"
+    },
+    {
+      "mal_id": 769,
+      "type": "anime",
+      "name": "Fujipacific Music",
+      "url": "https://myanimelist.net/anime/producer/769/Fujipacific_Music"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 2876,
+      "type": "anime",
+      "name": "Line Digital Frontier",
+      "url": "https://myanimelist.net/anime/producer/2876/Line_Digital_Frontier"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1859/140210l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/2P5YYkvoUGk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54794,
+  "slug": "metallic-rouge"
 }

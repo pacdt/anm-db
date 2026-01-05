@@ -1,19 +1,69 @@
 {
-  "id": 38544,
-  "slug": "egao-no-daika",
-  "type": "legendado",
+  "mal_id": 38544,
+  "url": "https://myanimelist.net/anime/38544/Egao_no_Daika",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1640/100466.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1640/100466t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1640/100466l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1640/100466.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1640/100466t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1640/100466l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/8eoOYHYpJNA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Egao no Daika"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Cost of Smiles"
+    },
+    {
+      "type": "Japanese",
+      "title": "エガオノダイカ"
+    },
+    {
+      "type": "English",
+      "title": "The Price of Smiles"
+    },
+    {
+      "type": "German",
+      "title": "The Price of Smiles"
+    },
+    {
+      "type": "Spanish",
+      "title": "The Price of Smiles (Egao no Daika)"
+    },
+    {
+      "type": "French",
+      "title": "The Price of Smiles"
+    }
+  ],
   "title": "Egao no Daika",
   "title_english": "The Price of Smiles",
   "title_japanese": "エガオノダイカ",
-  "image": "https://cdn.myanimelist.net/images/anime/1640/100466l.webp",
-  "score": 6.03,
-  "synopsis": "On a world far removed from the Earth, there is a certain kingdom that's brimming with smiles. Fate thrusts young Princess Yuki, filled with idealism, joy, and innocence, into a station in life for which her most endearing qualities are ill-matched. Her kingdom faces grave danger as the Empire threatens the realm's security. Meanwhile, on the opposite side of the conflict, an imperial soldier known as Stella Shining hides behind a facade. However, a time may come where her mask cracks, potentially costing her everything. Princess Yuki and Stella's paths will cross, and the fate of nations will follow.\n\n(Source: Sentai Filmworks)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/8eoOYHYpJNA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "The Cost of Smiles"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +125,145 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzZ7fN5HZl35-_nGTlUboxULRhhio3_odeTCDpVeE5739c4FUW8alP_dzI20Z-8xyFxT54NCgFKYT9fjYHJW6Ia2UgukowQDGxUlijYLZHtEXCx8owqLdorMHSWtDF2d9ZTZt4",
       "nome": "The Price of Smiles"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-04T00:00:00+00:00",
+    "to": "2019-03-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 22,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Jan 4, 2019 to Mar 22, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.03,
+  "scored_by": 14201,
+  "rank": 10215,
+  "popularity": 3959,
+  "members": 40266,
+  "favorites": 45,
+  "synopsis": "On a world far removed from the Earth, there is a certain kingdom that's brimming with smiles. Fate thrusts young Princess Yuki, filled with idealism, joy, and innocence, into a station in life for which her most endearing qualities are ill-matched. Her kingdom faces grave danger as the Empire threatens the realm's security. Meanwhile, on the opposite side of the conflict, an imperial soldier known as Stella Shining hides behind a facade. However, a time may come where her mask cracks, potentially costing her everything. Princess Yuki and Stella's paths will cross, and the fate of nations will follow.\n\n(Source: Sentai Filmworks)",
+  "background": "Egao no Daika (The Price of Smiles) was created to commemorate Tatsunoko Production's 55th anniversary.",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1263,
+      "type": "anime",
+      "name": "Dynamo Pictures",
+      "url": "https://myanimelist.net/anime/producer/1263/Dynamo_Pictures"
+    },
+    {
+      "mal_id": 1817,
+      "type": "anime",
+      "name": "Rakuten",
+      "url": "https://myanimelist.net/anime/producer/1817/Rakuten"
+    },
+    {
+      "mal_id": 1933,
+      "type": "anime",
+      "name": "Happinet",
+      "url": "https://myanimelist.net/anime/producer/1933/Happinet"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1640/100466l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/8eoOYHYpJNA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38544,
+  "slug": "egao-no-daika"
 }

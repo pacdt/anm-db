@@ -1,17 +1,53 @@
 {
-  "id": 42516,
-  "slug": "cardfight-vanguard-overdress",
-  "type": "legendado",
+  "mal_id": 42516,
+  "url": "https://myanimelist.net/anime/42516/Cardfight_Vanguard__overDress",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1520/113748.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1520/113748t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1520/113748l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1520/113748.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1520/113748t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1520/113748l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/O0MEPPLTtd0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cardfight!! Vanguard: overDress"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cardfight!! Vanguard: Over Dress"
+    },
+    {
+      "type": "Japanese",
+      "title": "カードファイト!! ヴァンガード overDress"
+    }
+  ],
   "title": "Cardfight!! Vanguard: overDress",
   "title_english": "Cardfight!! Vanguard: overDress",
   "title_japanese": "カードファイト!! ヴァンガード overDress",
-  "image": "https://cdn.myanimelist.net/images/anime/1520/113748l.webp",
-  "score": 5.97,
-  "synopsis": "Shy and timid in nature, 15-year-old Yu-yu Kondou is constantly pressured by his wacky sisters to fulfill their unreasonable requests. One day, they force their brother to crossdress for the sake of their own entertainment, prompting him to run away from home. Following a series of unexpected events, Yu-yu encounters Megumi Ookura, a friendly girl who introduces him to Team Blackout—a group of individuals deeply involved in a card game called Cardfight Vanguard.\n\nAs he increasingly connects with the members of Team Blackout—Danji Momoyama, Zakusa Ishigame, Tomari Seto, and Megumi herself—Yu-yu discovers a whole new and exciting world, one he could have never imagined without the help of his newfound friends.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/O0MEPPLTtd0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Cardfight!! Vanguard: Over Dress"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +109,95 @@
       "url": "https://lightspeedst.net/s2/mp4/cardfight-vanguard-overdress/fhd/12.mp4",
       "nome": "Night Attack on the Heavens"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-03T00:00:00+00:00",
+    "to": "2021-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 3, 2021 to Jun 26, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.97,
+  "scored_by": 5842,
+  "rank": 10516,
+  "popularity": 5644,
+  "members": 17754,
+  "favorites": 68,
+  "synopsis": "Shy and timid in nature, 15-year-old Yu-yu Kondou is constantly pressured by his wacky sisters to fulfill their unreasonable requests. One day, they force their brother to crossdress for the sake of their own entertainment, prompting him to run away from home. Following a series of unexpected events, Yu-yu encounters Megumi Ookura, a friendly girl who introduces him to Team Blackout—a group of individuals deeply involved in a card game called Cardfight Vanguard.\n\nAs he increasingly connects with the members of Team Blackout—Danji Momoyama, Zakusa Ishigame, Tomari Seto, and Megumi herself—Yu-yu discovers a whole new and exciting world, one he could have never imagined without the help of his newfound friends.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 08:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 290,
+      "type": "anime",
+      "name": "Kinema Citrus",
+      "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+    },
+    {
+      "mal_id": 2299,
+      "type": "anime",
+      "name": "Gift-o’-Animation",
+      "url": "https://myanimelist.net/anime/producer/2299/Gift-o%E2%80%99-Animation"
+    },
+    {
+      "mal_id": 2300,
+      "type": "anime",
+      "name": "Studio Jemi",
+      "url": "https://myanimelist.net/anime/producer/2300/Studio_Jemi"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1520/113748l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/O0MEPPLTtd0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 42516,
+  "slug": "cardfight-vanguard-overdress"
 }

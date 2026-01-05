@@ -1,19 +1,62 @@
 {
-  "id": 49612,
-  "slug": "ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu",
-  "type": "legendado",
+  "mal_id": 49612,
+  "url": "https://myanimelist.net/anime/49612/Ningen_Fushin_no_Boukensha-tachi_ga_Sekai_wo_Sukuu_you_desu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1446/131578.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1446/131578t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1446/131578l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1446/131578.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1446/131578t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1446/131578l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/vH32l69yp80?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Apparently"
+    },
+    {
+      "type": "Synonym",
+      "title": "Disillusioned Adventurers Will Save the World"
+    },
+    {
+      "type": "Japanese",
+      "title": "人間不信の冒険者たちが世界を救うようです"
+    },
+    {
+      "type": "English",
+      "title": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
+    }
+  ],
   "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
   "title_english": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
   "title_japanese": "人間不信の冒険者たちが世界を救うようです",
-  "image": "https://cdn.myanimelist.net/images/anime/1446/131578l.webp",
-  "score": 6.33,
-  "synopsis": "Veteran adventurer Nick, mage Tiana, cleric Zem, and half-dragon Curran each show up alone at a tavern, only to find themselves seated at the same table. As the night goes on, they take turns divulging their grievances and the hobbies they have taken up as a means of coping. While their stories are utterly different, there is one common thread: betrayal. Each of the four, having been bitterly betrayed by someone they treasured, has developed a deep-seated distrust of humanity.\n\nBut in addition to their similar worldviews, the four have one more commonality: a critical lack of funds. Realizing that things cannot continue as they are, they decide to form a party, rank up, and make as much money as possible to spend on their respective hobbies. What these disillusioned adventurers do not know, however, is that they will one day save the world from unfathomable peril.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/vH32l69yp80?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Apparently",
+    "Disillusioned Adventurers Will Save the World"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +118,114 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu/12/720p.mp4",
       "nome": "Adventurers Can't Save the World Yet"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-10T00:00:00+00:00",
+    "to": "2023-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Jan 10, 2023 to Mar 28, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.33,
+  "scored_by": 84262,
+  "rank": 8453,
+  "popularity": 1344,
+  "members": 202102,
+  "favorites": 717,
+  "synopsis": "Veteran adventurer Nick, mage Tiana, cleric Zem, and half-dragon Curran each show up alone at a tavern, only to find themselves seated at the same table. As the night goes on, they take turns divulging their grievances and the hobbies they have taken up as a means of coping. While their stories are utterly different, there is one common thread: betrayal. Each of the four, having been bitterly betrayed by someone they treasured, has developed a deep-seated distrust of humanity.\n\nBut in addition to their similar worldviews, the four have one more commonality: a critical lack of funds. Realizing that things cannot continue as they are, they decide to form a party, rank up, and make as much money as possible to spend on their respective hobbies. What these disillusioned adventurers do not know, however, is that they will one day save the world from unfathomable peril.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2670,
+      "type": "anime",
+      "name": "Geek Pictures",
+      "url": "https://myanimelist.net/anime/producer/2670/Geek_Pictures"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1857,
+      "type": "anime",
+      "name": "Geek Toys",
+      "url": "https://myanimelist.net/anime/producer/1857/Geek_Toys"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1446/131578l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/vH32l69yp80?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49612,
+  "slug": "ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu"
 }

@@ -1,19 +1,62 @@
 {
-  "id": 2030,
-  "slug": "el-cazador-de-la-bruja",
-  "type": "legendado",
+  "mal_id": 2030,
+  "url": "https://myanimelist.net/anime/2030/El_Cazador_de_la_Bruja",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1446/98891.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1446/98891t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1446/98891l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1446/98891.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1446/98891t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1446/98891l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/SgzwHJEffIU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "El Cazador de la Bruja"
+    },
+    {
+      "type": "Synonym",
+      "title": "El Cazador"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Witch Hunter"
+    },
+    {
+      "type": "Japanese",
+      "title": "エル・カザド"
+    },
+    {
+      "type": "English",
+      "title": "El Cazador de la Bruja"
+    }
+  ],
   "title": "El Cazador de la Bruja",
   "title_english": "El Cazador de la Bruja",
   "title_japanese": "エル・カザド",
-  "image": "https://cdn.myanimelist.net/images/anime/1446/98891l.webp",
-  "score": 7.2,
-  "synopsis": "Nadie is a bounty hunter with an attitude, and she's got a lock on her next target: Ellis, a young amnesiac girl who is a suspect in the murder of a famous scientist. Nadie manages to apprehend Ellis, but on a whim, decides to accompany her to Wiñay Marka, a place which supposedly holds the key to unlocking Ellis's memories and her mysterious past. However, Nadie cautions Ellis that this does not mean she will go free—once Ellis has found what she is looking for, Nadie will turn her over to the authorities. With Ellis's connection to a gemstone called the Inca Rose as their only guide, the two set off on their journey south through Mexico to search for the mysterious \"Eternal City\" of Wiñay Marka.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/SgzwHJEffIU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Drama",
-    "Mystery"
+  "title_synonyms": [
+    "El Cazador",
+    "The Witch Hunter"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +188,84 @@
       "url": "https://lightspeedst.net/s3/mp4/el-cazador-de-la-bruja/sd/26.mp4",
       "nome": "A Woman Sparkling"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-03T00:00:00+00:00",
+    "to": "2007-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 3, 2007 to Sep 25, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.2,
+  "scored_by": 19379,
+  "rank": 3496,
+  "popularity": 3188,
+  "members": 58939,
+  "favorites": 273,
+  "synopsis": "Nadie is a bounty hunter with an attitude, and she's got a lock on her next target: Ellis, a young amnesiac girl who is a suspect in the murder of a famous scientist. Nadie manages to apprehend Ellis, but on a whim, decides to accompany her to Wiñay Marka, a place which supposedly holds the key to unlocking Ellis's memories and her mysterious past. However, Nadie cautions Ellis that this does not mean she will go free—once Ellis has found what she is looking for, Nadie will turn her over to the authorities. With Ellis's connection to a gemstone called the Inca Rose as their only guide, the two set off on their journey south through Mexico to search for the mysterious \"Eternal City\" of Wiñay Marka.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 5,
+      "type": "anime",
+      "name": "Bee Train",
+      "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1446/98891l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/SgzwHJEffIU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 2030,
+  "slug": "el-cazador-de-la-bruja"
 }

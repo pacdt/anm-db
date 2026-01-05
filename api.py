@@ -53,7 +53,6 @@ def save_json(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def extrair_slug(url_anime):
-    # Utilitário caso precise recalcular slug, mas geralmente pegamos do JSON
     if '/animes/' in url_anime:
         slug = url_anime.split('/animes/')[-1]
     else:
@@ -95,7 +94,6 @@ def get_jikan_data_cached(mal_id, title):
             elif response.status_code == 429:
                 print(f" [Rate Limit] Jikan pausando 5s para: {title}")
                 time.sleep(5)
-                # Opcional: tentar recursivamente uma vez, ou retornar None
         except Exception as e:
             print(f" [Erro Jikan] {title}: {e}")
     return None
@@ -121,35 +119,55 @@ def process_api_item(args):
     mal_id = local.get('metadata_completo', {}).get('id_mal')
     jikan = get_jikan_data_cached(mal_id, local['nome'])
 
-    # Montagem do Objeto API
-    # Define os títulos e outros campos com fallbacks
-    if jikan:
-        title = jikan.get('title')
-        title_english = jikan.get('title_english') or title
-        title_japanese = jikan.get('title_japanese')
-        # Prioriza 'url', mas usa 'embed_url' se o primeiro for nulo
-        trailer_data = jikan.get('trailer', {})
-        trailer_url = trailer_data.get('url') or trailer_data.get('embed_url')
-    else:
-        title = local.get('nome')
-        title_english = local.get('nome')
-        title_japanese = None
-        trailer_url = None
+    # Montagem do Objeto API (Mesclagem Completa)
+    
+    api_obj = {}
 
-    api_obj = {
-        "id": jikan.get('mal_id') if jikan else mal_id,
-        "slug": local['slug'],
-        "type": tipo,
-        "title": title,
-        "title_english": title_english,
-        "title_japanese": title_japanese,
-        "image": jikan.get('images', {}).get('webp', {}).get('large_image_url') if jikan else local.get('imagem'),
-        "score": jikan.get('score') if jikan else None,
-        "synopsis": jikan.get('synopsis') if jikan else None,
-        "trailer_url": trailer_url,
-        "genres": [g['name'] for g in jikan.get('genres', [])] if jikan else [],
-        "episodes": lista_episodios
-    }
+    if jikan:
+        # 1. Copia TUDO que veio do Jikan (status, aired, producers, studios, background, etc.)
+        api_obj = jikan.copy()
+        
+        # 2. Normaliza campos para compatibilidade com Frontend antigo/simples
+        
+        # Flatten Image (URL direta na raiz)
+        api_obj['image'] = jikan.get('images', {}).get('webp', {}).get('large_image_url')
+        
+        # Flatten Trailer (URL direta na raiz)
+        trailer_data = jikan.get('trailer', {})
+        api_obj['trailer_url'] = trailer_data.get('url') or trailer_data.get('embed_url')
+        
+        # Titles
+        api_obj['title'] = jikan.get('title')
+        api_obj['title_english'] = jikan.get('title_english') or api_obj['title']
+        api_obj['title_japanese'] = jikan.get('title_japanese')
+        
+        # Genres (Lista simples de strings, além da lista de objetos que já vem no copy)
+        api_obj['genres'] = [g['name'] for g in jikan.get('genres', [])]
+
+    else:
+        # Fallback se não achou no Jikan
+        api_obj['title'] = local.get('nome')
+        api_obj['title_english'] = local.get('nome')
+        api_obj['title_japanese'] = None
+        api_obj['image'] = local.get('imagem')
+        api_obj['score'] = None
+        api_obj['synopsis'] = None
+        api_obj['trailer_url'] = None
+        api_obj['genres'] = []
+
+    # 3. IMPÕE DADOS DO SISTEMA LOCAL (Prioridade Máxima)
+    # Estes dados sobrescrevem qualquer coisa do Jikan se houver conflito
+    
+    # O ID deve ser preferencialmente o do Jikan, mas garantimos que o campo 'id' exista na raiz
+    api_obj['id'] = jikan.get('mal_id') if jikan else mal_id
+    
+    # Dados locais essenciais
+    api_obj['slug'] = local['slug']
+    api_obj['type'] = tipo
+    
+    # IMPORTANTE: A lista de episódios do Jikan é apenas um número (count).
+    # Nós sobrescrevemos com a nossa lista de objetos contendo os LINKS.
+    api_obj['episodes'] = lista_episodios
 
     # Salvar arquivo individual do anime
     destino = os.path.join(API_ANIMES_DIR, f"{local['slug']}.json")
@@ -158,8 +176,9 @@ def process_api_item(args):
     # Retornar metadados para construção dos índices
     return {
         "summary": api_obj,
-        "genres": jikan.get('genres', []) if jikan else [],
-        "last_updated": os.path.getmtime(path), # Data de modificação do arquivo local
+        # Mantemos a referência aos gêneros originais (dicts) para a lógica do main
+        "genres": jikan.get('genres', []) if jikan else [], 
+        "last_updated": os.path.getmtime(path), 
         "latest_episode": lista_episodios[-1] if lista_episodios else None
     }
 
@@ -206,7 +225,7 @@ def main():
     for data in results:
         item = data['summary']
         
-        # Resumo para listas
+        # Resumo para listas (Leve)
         summary = {
             "title": item['title_english'] or item['title'],
             "slug": item['slug'],

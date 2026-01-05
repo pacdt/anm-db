@@ -1,19 +1,51 @@
 {
-  "id": 33743,
-  "slug": "fuuka",
-  "type": "legendado",
+  "mal_id": 33743,
+  "url": "https://myanimelist.net/anime/33743/Fuuka",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/83735.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/83735t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/83735l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/83735.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/83735t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/83735l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Ar-6TjHRfB4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fuuka"
+    },
+    {
+      "type": "Japanese",
+      "title": "風夏"
+    },
+    {
+      "type": "English",
+      "title": "Fuuka"
+    }
+  ],
   "title": "Fuuka",
   "title_english": "Fuuka",
   "title_japanese": "風夏",
-  "image": "https://cdn.myanimelist.net/images/anime/8/83735l.webp",
-  "score": 6.51,
-  "synopsis": "The story follows the life of Yuu Haruna, who recently moved into Tokyo with his sisters after their father is forced to transfer overseas on work.\n\nOn his way to buy dinner while looking at his Twitter account, a high school girl suddenly crashes into him. Thinking he was taking upskirt pictures of her, the girl takes Yuu's phone, breaks it, and slaps him before leaving Yuu lying on the ground. As it turns out, this girl—Fuuka Akitsuki—also goes to the school Yuu is transferring to.\n\nUnlike most people, Fuuka doesn't own a cellphone; she even listens to music using a CD player. Eventually these two become closer, and decide to form a band with their friends and enter the professional world of music. With Fuuka around, what will now become of Yuu's new life in Tokyo?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Ar-6TjHRfB4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +107,128 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzpD_uHPtYA6nHTB1ICfATTukjljsPls1YllfvXYco4O-6BJoE8vSRgX5RBGP890rkYJasxPch0YjQCVEOFbU5OAzpvqDd9MVwYrrsRcVw3vbGM_RoLKwT5TqjVC_Chp5ztuW4",
       "nome": "Fair Wind"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-06T00:00:00+00:00",
+    "to": "2017-03-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 24,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 6, 2017 to Mar 24, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.51,
+  "scored_by": 154797,
+  "rank": 7307,
+  "popularity": 877,
+  "members": 314687,
+  "favorites": 924,
+  "synopsis": "The story follows the life of Yuu Haruna, who recently moved into Tokyo with his sisters after their father is forced to transfer overseas on work.\n\nOn his way to buy dinner while looking at his Twitter account, a high school girl suddenly crashes into him. Thinking he was taking upskirt pictures of her, the girl takes Yuu's phone, breaks it, and slaps him before leaving Yuu lying on the ground. As it turns out, this girl—Fuuka Akitsuki—also goes to the school Yuu is transferring to.\n\nUnlike most people, Fuuka doesn't own a cellphone; she even listens to music using a CD player. Eventually these two become closer, and decide to form a band with their friends and enter the professional world of music. With Fuuka around, what will now become of Yuu's new life in Tokyo?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 210,
+      "type": "anime",
+      "name": "Studio Tulip",
+      "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/83735l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Ar-6TjHRfB4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33743,
+  "slug": "fuuka"
 }

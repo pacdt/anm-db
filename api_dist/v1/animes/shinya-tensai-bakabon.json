@@ -1,17 +1,57 @@
 {
-  "id": 37662,
-  "slug": "shinya-tensai-bakabon",
-  "type": "legendado",
+  "mal_id": 37662,
+  "url": "https://myanimelist.net/anime/37662/Shinya_Tensai_Bakabon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1031/92911.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1031/92911t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/92911l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1031/92911.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1031/92911t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/92911l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/00uNLoWoz1A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shinya! Tensai Bakabon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Late Night! Genius Bakabon"
+    },
+    {
+      "type": "Japanese",
+      "title": "深夜！天才バカボン"
+    },
+    {
+      "type": "English",
+      "title": "Late night! The Genius Bakabon"
+    }
+  ],
   "title": "Shinya! Tensai Bakabon",
   "title_english": "Late night! The Genius Bakabon",
   "title_japanese": "深夜！天才バカボン",
-  "image": "https://cdn.myanimelist.net/images/anime/1031/92911l.webp",
-  "score": 5.99,
-  "synopsis": "The pinnacle of gag manga as well as one of Akatsuka Fujio's most renowned works, \"Tensai Bakabon\" returns after 18 years since its last anime with Director Hosokawa Toru's new original story!\n\nBakabon and his family, who made the phrase \"This is how it should be\" famous, are back along with the eccentric cast of Mr. Policeman, Rerere no Ojisan and Eel-Dog letting loose in a much more modern setting!\n\nThe new frontier of \"Bakabon\" that'll take place in a late-night slot is about to begin, 10 years after Akatsuka Fujio's death.\n\n(Source: Crunchyroll)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/00uNLoWoz1A?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Late Night! Genius Bakabon"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +113,113 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx-ySID0GsBDMB_h6CEr-yidaBU6ca504yfFBkSFWyB18nnjLSPIB8TC9ZR39bRiJNtuCylDnHtH3HwUqLwOAyGklT-QmePF2Clu2NAhzdDMQc-WLlHoQSEoeA6qQNw-1u6Iveh",
       "nome": "This is the Actual Final Episode"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-11T00:00:00+00:00",
+    "to": "2018-09-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": 26,
+        "month": 9,
+        "year": 2018
+      }
+    },
+    "string": "Jul 11, 2018 to Sep 26, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 5.99,
+  "scored_by": 1235,
+  "rank": 10398,
+  "popularity": 10326,
+  "members": 3696,
+  "favorites": 3,
+  "synopsis": "The pinnacle of gag manga as well as one of Akatsuka Fujio's most renowned works, \"Tensai Bakabon\" returns after 18 years since its last anime with Director Hosokawa Toru's new original story!\n\nBakabon and his family, who made the phrase \"This is how it should be\" famous, are back along with the eccentric cast of Mr. Policeman, Rerere no Ojisan and Eel-Dog letting loose in a much more modern setting!\n\nThe new frontier of \"Bakabon\" that'll take place in a late-night slot is about to begin, 10 years after Akatsuka Fujio's death.\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "summer",
+  "year": 2018,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1632,
+      "type": "anime",
+      "name": "Daiichi Shokai",
+      "url": "https://myanimelist.net/anime/producer/1632/Daiichi_Shokai"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1129,
+      "type": "anime",
+      "name": "Pierrot Plus",
+      "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1031/92911l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/00uNLoWoz1A?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37662,
+  "slug": "shinya-tensai-bakabon"
 }

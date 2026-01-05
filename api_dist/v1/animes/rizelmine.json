@@ -1,20 +1,47 @@
 {
-  "id": 197,
-  "slug": "rizelmine",
-  "type": "legendado",
+  "mal_id": 197,
+  "url": "https://myanimelist.net/anime/197/Rizelmine",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1575/153253.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1575/153253t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1575/153253l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1575/153253.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1575/153253t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1575/153253l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Rizelmine"
+    },
+    {
+      "type": "Japanese",
+      "title": "りぜるまいん"
+    }
+  ],
   "title": "Rizelmine",
   "title_english": "Rizelmine",
   "title_japanese": "りぜるまいん",
-  "image": "https://cdn.myanimelist.net/images/anime/1575/153253l.webp",
-  "score": 6.49,
-  "synopsis": "Iwaki Tomonori is an average 15-year-old boy who likes older women. He happens to have a crush on his teacher, but soon thereafter, learns she has become engaged. He heads home brokenhearted, only to find a 12-year-old girl named Rizel at his home, who he learns the Japanese government has married him to against his will. Furthermore, he learns Rizel is no ordinary girl; she is a biochemically engineered human, and her creators (her \"papa\"s, as they are often referred to) promise to waive multiple bills of Iwaki's parents in exchange to be allowed to stay at their house, and thus Iwaki's life with Rizel begins.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -136,5 +163,85 @@
       "url": "https://lightspeedst.net/s3/mp4/rizelmine/sd/24.mp4",
       "nome": "Do It For The First Time Let's Start!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-04-03T00:00:00+00:00",
+    "to": "2002-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2002
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2002
+      }
+    },
+    "string": "Apr 3, 2002 to Dec 22, 2002"
+  },
+  "duration": "15 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.49,
+  "scored_by": 11213,
+  "rank": 7452,
+  "popularity": 4762,
+  "members": 27059,
+  "favorites": 54,
+  "synopsis": "Iwaki Tomonori is an average 15-year-old boy who likes older women. He happens to have a crush on his teacher, but soon thereafter, learns she has become engaged. He heads home brokenhearted, only to find a 12-year-old girl named Rizel at his home, who he learns the Japanese government has married him to against his will. Furthermore, he learns Rizel is no ordinary girl; she is a biochemically engineered human, and her creators (her \"papa\"s, as they are often referred to) promise to waive multiple bills of Iwaki's parents in exchange to be allowed to stay at their house, and thus Iwaki's life with Rizel begins.",
+  "background": "",
+  "season": "spring",
+  "year": 2002,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "m.o.e.",
+      "url": "https://myanimelist.net/anime/producer/40/moe"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    },
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Imagin",
+      "url": "https://myanimelist.net/anime/producer/75/Imagin"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1575/153253l.webp",
+  "trailer_url": null,
+  "id": 197,
+  "slug": "rizelmine"
 }

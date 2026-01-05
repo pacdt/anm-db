@@ -1,19 +1,51 @@
 {
-  "id": 32827,
-  "slug": "b-the-beginning-dublado",
-  "type": "dublado",
+  "mal_id": 32827,
+  "url": "https://myanimelist.net/anime/32827/B__The_Beginning",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1564/90469.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1564/90469t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1564/90469l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1564/90469.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1564/90469t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1564/90469l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WUKrj0lPIrk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "B: The Beginning"
+    },
+    {
+      "type": "Japanese",
+      "title": "B: The Beginning"
+    },
+    {
+      "type": "English",
+      "title": "B: The Beginning"
+    }
+  ],
   "title": "B: The Beginning",
   "title_english": "B: The Beginning",
   "title_japanese": "B: The Beginning",
-  "image": "https://cdn.myanimelist.net/images/anime/1564/90469l.webp",
-  "score": 7.14,
-  "synopsis": "On the islands of Cremona, a vigilante runs amok. Celebrated by some and hunted by others, the notorious \"Killer B\" takes justice into his own hands, armed with a sharp blade and superhuman abilities. Unable to apprehend this renegade, the Royal Investigation Service (RIS) calls upon the expertise of Keith Flick, a seasoned, yet eccentric detective who was relegated to the Archives Department following a personal loss. As crimes in Cremona begin to escalate, from stealthy executions of wrongdoers to sophisticated strikes on public figures, it soon becomes clear that there is more than one person responsible.\n\nWith the help of his impulsive sidekick Lily Hoshina, and unexpected aid from the elusive Killer B himself, Keith begins to unravel plots involving secret organizations, domestic terrorism, and human experiments. When the involvement of the RIS extends beyond the scope of justice, the extent of the government's corruption—as well as the trustworthiness of close allies—are thrown into question. \n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/WUKrj0lPIrk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Mystery",
-    "Suspense"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +107,97 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxbsHWQKYIlbMeH8wPhx6OIRJBf7Q3CldESZS6h9uYj5_FT8lidNwnZ9rQcoTjWKUn-8Maqldg1DqkmvUX1dFxkI3EiNoaA749tyPfRME3leSJOJmcbEOV126f9chTUyZxo7Q",
       "nome": "Episode 12"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-03-02T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 3,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 2, 2018"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.14,
+  "scored_by": 184348,
+  "rank": 3833,
+  "popularity": 732,
+  "members": 367051,
+  "favorites": 1427,
+  "synopsis": "On the islands of Cremona, a vigilante runs amok. Celebrated by some and hunted by others, the notorious \"Killer B\" takes justice into his own hands, armed with a sharp blade and superhuman abilities. Unable to apprehend this renegade, the Royal Investigation Service (RIS) calls upon the expertise of Keith Flick, a seasoned, yet eccentric detective who was relegated to the Archives Department following a personal loss. As crimes in Cremona begin to escalate, from stealthy executions of wrongdoers to sophisticated strikes on public figures, it soon becomes clear that there is more than one person responsible.\n\nWith the help of his impulsive sidekick Lily Hoshina, and unexpected aid from the elusive Killer B himself, Keith begins to unravel plots involving secret organizations, domestic terrorism, and human experiments. When the involvement of the RIS extends beyond the scope of justice, the extent of the government's corruption—as well as the trustworthiness of close allies—are thrown into question. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 3051,
+      "type": "anime",
+      "name": "Anime Limited",
+      "url": "https://myanimelist.net/anime/producer/3051/Anime_Limited"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1564/90469l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/WUKrj0lPIrk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32827,
+  "slug": "b-the-beginning-dublado"
 }

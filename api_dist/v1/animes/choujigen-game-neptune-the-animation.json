@@ -1,20 +1,62 @@
 {
-  "id": 16157,
-  "slug": "choujigen-game-neptune-the-animation",
-  "type": "legendado",
+  "mal_id": 16157,
+  "url": "https://myanimelist.net/anime/16157/Choujigen_Game_Neptune_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/52141.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/52141t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/52141l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/52141.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/52141t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/52141l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/QUBDyCqOFso?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Choujigen Game Neptune The Animation"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kami Jigen Game Neptune V"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hyperdimension Neptunia Victory"
+    },
+    {
+      "type": "Japanese",
+      "title": "超次元ゲイム ネプテューヌ THE ANIMATION"
+    },
+    {
+      "type": "English",
+      "title": "Hyperdimension Neptunia"
+    }
+  ],
   "title": "Choujigen Game Neptune The Animation",
   "title_english": "Hyperdimension Neptunia",
   "title_japanese": "超次元ゲイム ネプテューヌ THE ANIMATION",
-  "image": "https://cdn.myanimelist.net/images/anime/6/52141l.webp",
-  "score": 6.89,
-  "synopsis": "After years of fruitless war between the four realms of Gamindustri (Planeptune, Lastation, Lowee and Leanbox) over Share energy, the source of their strength based on how much their people have faith in their goddesses, the four CPUs that rule over them have finally signed a friendship treaty. The treaty bans any attempt at claiming Share energy through military force, in hopes of bringing peace and prosperity to their worlds. Yet, a month after the treaty, Neptune, the CPU Goddess of Planeptune, spends her time goofing off and playing games rather than doing her job, leaving her land's Shares plummeting.\n\nChoujigen Game Neptune The Animation follows Neptune and her friends' attempts at raising Shares, while dealing with an external threat that could spell the end of both the Goddesses and Gamindustri itself...",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/QUBDyCqOFso?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Kami Jigen Game Neptune V",
+    "Hyperdimension Neptunia Victory"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +118,110 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwDwYDvuzMOKFvVNq_NfVuO-4yifFc7eAETynZreQU4yBs76nAf1bsrJbgpBCIGEyiAArw_Xmrf7rRXhE_RLbpOyFHfflgSIGafu05Ec0V8yK_9gsINGIekg-xRf1sD7WXtzTg3",
       "nome": "The Ties (Bitfrosts) to Tomorrow"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-12T00:00:00+00:00",
+    "to": "2013-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 12, 2013 to Sep 27, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.89,
+  "scored_by": 63546,
+  "rank": 5074,
+  "popularity": 1662,
+  "members": 158048,
+  "favorites": 1203,
+  "synopsis": "After years of fruitless war between the four realms of Gamindustri (Planeptune, Lastation, Lowee and Leanbox) over Share energy, the source of their strength based on how much their people have faith in their goddesses, the four CPUs that rule over them have finally signed a friendship treaty. The treaty bans any attempt at claiming Share energy through military force, in hopes of bringing peace and prosperity to their worlds. Yet, a month after the treaty, Neptune, the CPU Goddess of Planeptune, spends her time goofing off and playing games rather than doing her job, leaving her land's Shares plummeting.\n\nChoujigen Game Neptune The Animation follows Neptune and her friends' attempts at raising Shares, while dealing with an external threat that could spell the end of both the Goddesses and Gamindustri itself...",
+  "background": "Choujigen Game Neptune The Animation heavily alters and compresses the events of the video games that serve as the basis of the franchise to create an original story.",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 193,
+      "type": "anime",
+      "name": "Idea Factory",
+      "url": "https://myanimelist.net/anime/producer/193/Idea_Factory"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 2896,
+      "type": "anime",
+      "name": "Cinema Sunshine",
+      "url": "https://myanimelist.net/anime/producer/2896/Cinema_Sunshine"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/52141l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/QUBDyCqOFso?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 16157,
+  "slug": "choujigen-game-neptune-the-animation"
 }

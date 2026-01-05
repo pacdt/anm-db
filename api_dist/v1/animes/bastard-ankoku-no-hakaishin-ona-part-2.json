@@ -1,20 +1,51 @@
 {
-  "id": 51366,
-  "slug": "bastard-ankoku-no-hakaishin-ona-part-2",
-  "type": "legendado",
+  "mal_id": 51366,
+  "url": "https://myanimelist.net/anime/51366/Bastard_Ankoku_no_Hakaishin_Part_2_ONA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1661/121731.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1661/121731t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1661/121731l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1661/121731.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1661/121731t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1661/121731l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Xy8HtIueLss?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bastard!! Ankoku no Hakaishin Part 2 (ONA)"
+    },
+    {
+      "type": "Japanese",
+      "title": "BASTARD!! -暗黒の破壊神-"
+    },
+    {
+      "type": "English",
+      "title": "Bastard‼ Heavy Metal, Dark Fantasy Part 2"
+    }
+  ],
   "title": "Bastard!! Ankoku no Hakaishin Part 2 (ONA)",
   "title_english": "Bastard‼ Heavy Metal, Dark Fantasy Part 2",
   "title_japanese": "BASTARD!! -暗黒の破壊神-",
-  "image": "https://cdn.myanimelist.net/images/anime/1661/121731l.webp",
-  "score": 6.75,
-  "synopsis": "Despite being betrayed by two members of the Four Divine Kings, the army of Kall-Su and Abigail continues its advance against the Metallicana Kingdom with the intent to unleash the god of destruction, Anthrasax. As Gara and Nei Arshes lead a brave counter-offensive against Abigail's innumerable army of undead soldiers, they appear powerless against army commander Lynch, who wields one of the Three Demonic Treasures, Demon-Mail. Meanwhile, Yoko Tia Noto tries to revive the savior of Metallicana, Dark Schneider, in hopes that he will be able to thwart Kall-Su and Abigail's grim plans.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Xy8HtIueLss?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -60,5 +91,99 @@
       "numero": 11,
       "url": "https://lightspeedst.net/s4/mp4/bastard-ankoku-no-hakaishin-ona-part-2/fhd/11.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-09-15T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 9,
+        "year": 2022
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 15, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.75,
+  "scored_by": 16473,
+  "rank": 5818,
+  "popularity": 4110,
+  "members": 37130,
+  "favorites": 71,
+  "synopsis": "Despite being betrayed by two members of the Four Divine Kings, the army of Kall-Su and Abigail continues its advance against the Metallicana Kingdom with the intent to unleash the god of destruction, Anthrasax. As Gara and Nei Arshes lead a brave counter-offensive against Abigail's innumerable army of undead soldiers, they appear powerless against army commander Lynch, who wields one of the Three Demonic Treasures, Demon-Mail. Meanwhile, Yoko Tia Noto tries to revive the savior of Metallicana, Dark Schneider, in hopes that he will be able to thwart Kall-Su and Abigail's grim plans.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1661/121731l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Xy8HtIueLss?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51366,
+  "slug": "bastard-ankoku-no-hakaishin-ona-part-2"
 }

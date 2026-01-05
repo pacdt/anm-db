@@ -1,17 +1,55 @@
 {
-  "id": 36934,
-  "slug": "captain-tsubasa-2018",
-  "type": "legendado",
+  "mal_id": 36934,
+  "url": "https://myanimelist.net/anime/36934/Captain_Tsubasa_2018",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1866/91270.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1866/91270t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1866/91270l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1866/91270.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1866/91270t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1866/91270l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/K6zQ1qs2hLY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Captain Tsubasa (2018)"
+    },
+    {
+      "type": "Japanese",
+      "title": "キャプテン翼"
+    },
+    {
+      "type": "German",
+      "title": "Captain Tsubasa"
+    },
+    {
+      "type": "French",
+      "title": "Captain Tsubasa"
+    }
+  ],
   "title": "Captain Tsubasa (2018)",
   "title_english": "Captain Tsubasa (2018)",
   "title_japanese": "キャプテン翼",
-  "image": "https://cdn.myanimelist.net/images/anime/1866/91270l.webp",
-  "score": 7.42,
-  "synopsis": "Captain Tsubasa is the passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing football at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession. \n\nIn order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.\n\nHe encounters not only rivals, but also new friends like the pretty girl Sanae Nakazawa and the talented goalkeeper, Genzo Wakabayashi, who shares the same passion as Tsubasa, and will prove to be a treasured friend in helping him push towards his dreams. Representing Japan in the FIFA World Cup is Tsubasa’s ultimate dream, but it will take a lot more than talent to reach it.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/K6zQ1qs2hLY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -273,5 +311,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw68hbibSmKsr0Ue4TV942Qu3mcmTs2_y3RmALwI8BafifHPGhq8djG1IN32rEiQJlYGtLpChh6ZELDOE4Gprl7MRnvx2JCNb8fk4AnYNpp4UVvsr6_j23EBqr4xQmIr-qGQA",
       "nome": "Endless Dream"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-03T00:00:00+00:00",
+    "to": "2019-04-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 2,
+        "month": 4,
+        "year": 2019
+      }
+    },
+    "string": "Apr 3, 2018 to Apr 2, 2019"
+  },
+  "duration": "22 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.42,
+  "scored_by": 37259,
+  "rank": 2391,
+  "popularity": 2639,
+  "members": 82568,
+  "favorites": 408,
+  "synopsis": "Captain Tsubasa is the passionate story of an elementary school student whose thoughts and dreams revolve almost entirely around the love of soccer. 11-year-old Tsubasa Oozora started playing football at a very young age, and while it was mostly just a recreational sport for his friends, for him, it developed into something of an obsession. \n\nIn order to pursue his dream to the best of his elementary school abilities, Tsubasa moves with his mother to Nankatsu city, which is well-known for its excellent elementary school soccer teams. But although he was easily the best in his old town, Nankatsu has a lot more competition, and he will need all of his skill and talent in order to stand out from this new crowd.\n\nHe encounters not only rivals, but also new friends like the pretty girl Sanae Nakazawa and the talented goalkeeper, Genzo Wakabayashi, who shares the same passion as Tsubasa, and will prove to be a treasured friend in helping him push towards his dreams. Representing Japan in the FIFA World Cup is Tsubasa’s ultimate dream, but it will take a lot more than talent to reach it.",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1866/91270l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/K6zQ1qs2hLY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36934,
+  "slug": "captain-tsubasa-2018"
 }

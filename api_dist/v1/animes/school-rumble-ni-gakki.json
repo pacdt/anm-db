@@ -1,18 +1,55 @@
 {
-  "id": 846,
-  "slug": "school-rumble-ni-gakki",
-  "type": "legendado",
+  "mal_id": 846,
+  "url": "https://myanimelist.net/anime/846/School_Rumble_Ni_Gakki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75490.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75490t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75490l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75490.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75490t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75490l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "School Rumble Ni Gakki"
+    },
+    {
+      "type": "Japanese",
+      "title": "スクールランブル 二学期"
+    },
+    {
+      "type": "English",
+      "title": "School Rumble: 2nd Semester"
+    },
+    {
+      "type": "French",
+      "title": "School Rumble Saison 2"
+    }
+  ],
   "title": "School Rumble Ni Gakki",
   "title_english": "School Rumble: 2nd Semester",
   "title_japanese": "スクールランブル 二学期",
-  "image": "https://cdn.myanimelist.net/images/anime/5/75490l.webp",
-  "score": 7.97,
-  "synopsis": "We still have no idea what's really going on with this show, beyond the fact that the weirdness is piling up!\n\nCurry-fiend Karasama remains oblivious to Tenma's crush, and Harima still hasn't confessed his true feelings to Tenma. But hey, the thug's got an excuse since he's caught up with his comic career and knee-deep in a blizzard of deadlines! Meanwhile, the love triangles are ever-shifting thanks to wannabe cupids and runaway brides.\n\nEven when you throw in a bit of cyborg love, a shipwreck, and a fugitive red panda–seriously, that ain't even scratching the surface. You are encouraged to scratch the pig, though. He likes it! And something rumbles in the next to last episode, no matter what I say next.\n\nSchool Rumble–The absolutely funniest show you’ll ever see that's not about anything that rumbles... Ever!\n\n(Source: Funimation)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +181,109 @@
       "url": "https://lightspeedst.net/s3/mp4/school-rumble-ni-gakki/sd/26.mp4",
       "nome": "."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-04-03T00:00:00+00:00",
+    "to": "2006-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2006
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2006
+      }
+    },
+    "string": "Apr 3, 2006 to Sep 25, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.97,
+  "scored_by": 95227,
+  "rank": 737,
+  "popularity": 1574,
+  "members": 170662,
+  "favorites": 827,
+  "synopsis": "We still have no idea what's really going on with this show, beyond the fact that the weirdness is piling up!\n\nCurry-fiend Karasama remains oblivious to Tenma's crush, and Harima still hasn't confessed his true feelings to Tenma. But hey, the thug's got an excuse since he's caught up with his comic career and knee-deep in a blizzard of deadlines! Meanwhile, the love triangles are ever-shifting thanks to wannabe cupids and runaway brides.\n\nEven when you throw in a bit of cyborg love, a shipwreck, and a fugitive red panda–seriously, that ain't even scratching the surface. You are encouraged to scratch the pig, though. He likes it! And something rumbles in the next to last episode, no matter what I say next.\n\nSchool Rumble–The absolutely funniest show you’ll ever see that's not about anything that rumbles... Ever!\n\n(Source: Funimation)",
+  "background": "",
+  "season": "spring",
+  "year": 2006,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Marvelous Entertainment",
+      "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 126,
+      "type": "anime",
+      "name": "Studio Comet",
+      "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/5/75490l.webp",
+  "trailer_url": null,
+  "id": 846,
+  "slug": "school-rumble-ni-gakki"
 }

@@ -1,18 +1,77 @@
 {
-  "id": 36318,
-  "slug": "quanzhi-fashi-2nd-season",
-  "type": "legendado",
+  "mal_id": 36318,
+  "url": "https://myanimelist.net/anime/36318/Quanzhi_Fashi_II",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/87726.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/87726t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/87726l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/87726.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/87726t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/87726l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qsUppw24gq4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Quanzhi Fashi II"
+    },
+    {
+      "type": "Synonym",
+      "title": "Quanzhi Fashi 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Quan Zhi Fa Shi 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Full-Time Magister 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Versatile Mage"
+    },
+    {
+      "type": "Synonym",
+      "title": "Almighty Mage"
+    },
+    {
+      "type": "Japanese",
+      "title": "全职法师Ⅱ"
+    },
+    {
+      "type": "English",
+      "title": "Full-Time Magister 2nd Season"
+    }
+  ],
   "title": "Quanzhi Fashi II",
   "title_english": "Full-Time Magister 2nd Season",
   "title_japanese": "全职法师Ⅱ",
-  "image": "https://cdn.myanimelist.net/images/anime/4/87726l.webp",
-  "score": 6.76,
-  "synopsis": "After defeating Yu Ang at the cost of revealing his lightning element, Mo Fan has been granted seven days to train in the Underground Holy Spring, where it is said that one can greatly increase their power level.\n\nHowever, Mo Fan's training is abruptly cut short when fierce monsters mysteriously appear all around Bo City, something which should be impossible given the city's border defenses. An emergency is declared, and Mo Fan is tasked with delivering the Underground Holy Spring—now condensed into a small bottle—to a special refuge zone that is protected from the havoc in the city. \n\nThe path there is long, dangerous, and riddled with bloodthirsty beasts. To worsen matters, the malicious Black Order threatens to halt his advance. How will Mo Fan stop the sacred spring from falling into the wrong hands?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/qsUppw24gq4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
+  "title_synonyms": [
+    "Quanzhi Fashi 2nd Season",
+    "Quan Zhi Fa Shi 2",
+    "Full-Time Magister 2",
+    "Versatile Mage",
+    "Almighty Mage"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +133,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwWhZRcWM6Nm8laSE3-gqt7eipyoGxO1OdkAL2C2cDfGL4I0PqY_462s6Ncc_pZG6V0f8FdoyQEI8yOySmayjjIrKHnuYdcGYAvIkjvAYqc9CpaJITMrr1LnUGcUsgKS2QigYc",
       "nome": "Fire Magic of Spiritual Species"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-09-15T00:00:00+00:00",
+    "to": "2017-12-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 9,
+        "year": 2017
+      },
+      "to": {
+        "day": 1,
+        "month": 12,
+        "year": 2017
+      }
+    },
+    "string": "Sep 15, 2017 to Dec 1, 2017"
+  },
+  "duration": "18 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.76,
+  "scored_by": 39959,
+  "rank": 5779,
+  "popularity": 2663,
+  "members": 81286,
+  "favorites": 95,
+  "synopsis": "After defeating Yu Ang at the cost of revealing his lightning element, Mo Fan has been granted seven days to train in the Underground Holy Spring, where it is said that one can greatly increase their power level.\n\nHowever, Mo Fan's training is abruptly cut short when fierce monsters mysteriously appear all around Bo City, something which should be impossible given the city's border defenses. An emergency is declared, and Mo Fan is tasked with delivering the Underground Holy Spring—now condensed into a small bottle—to a special refuge zone that is protected from the havoc in the city. \n\nThe path there is long, dangerous, and riddled with bloodthirsty beasts. To worsen matters, the malicious Black Order threatens to halt his advance. How will Mo Fan stop the sacred spring from falling into the wrong hands?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1667,
+      "type": "anime",
+      "name": "Foch Film",
+      "url": "https://myanimelist.net/anime/producer/1667/Foch_Film"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/87726l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/qsUppw24gq4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36318,
+  "slug": "quanzhi-fashi-2nd-season"
 }

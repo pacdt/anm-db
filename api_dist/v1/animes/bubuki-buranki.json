@@ -1,18 +1,63 @@
 {
-  "id": 32023,
-  "slug": "bubuki-buranki",
-  "type": "legendado",
+  "mal_id": 32023,
+  "url": "https://myanimelist.net/anime/32023/Bubuki_Buranki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/79758.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/79758t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/79758l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/79758.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/79758t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/79758l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zIS05b8rArU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bubuki Buranki"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブブキ・ブランキ"
+    },
+    {
+      "type": "English",
+      "title": "BBK/BRNK"
+    },
+    {
+      "type": "German",
+      "title": "BBK/BRNK"
+    },
+    {
+      "type": "Spanish",
+      "title": "BBK/BRNK"
+    },
+    {
+      "type": "French",
+      "title": "BBK/BRNK"
+    }
+  ],
   "title": "Bubuki Buranki",
   "title_english": "BBK/BRNK",
   "title_japanese": "ブブキ・ブランキ",
-  "image": "https://cdn.myanimelist.net/images/anime/7/79758l.webp",
-  "score": 6.24,
-  "synopsis": "Away from home for 10 years, Azuma Kazuki had no idea what was awaiting him upon his return. He certainly did not expect to be attacked by dozens of heavily armed people and taken as their prisoner. Fortunately, Azuma's stay in captivity is short. Wielding a strange sentient weapon—known as \"Bubuki\"—upon her right arm, his childhood friend, Kogane Asabuki, rescues him.\n\nAfter escaping, Azuma learns that he too has the power to control Bubuki. Together with his new companions, he must revive the Buranki titan named Oubu, that sleeps somewhere deep underground. With this knowledge and purpose, a new path to unearth the truths behind the Buranki opens before Azuma.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/zIS05b8rArU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +119,125 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzJtz_s4fBTCpv8oJ98tpVKyYE6bBuu079UyuBIMzIw0SZiYFOA-iQzUpZcnmzvSd1OCh1Eo-MKTtSqtU4oHms1k9FzVb502tPPm4HYGZ5QPE_9smJ4Ztp1fgTfWRHQK9_kRSQB",
       "nome": "The Boy from Treasure Island"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-01-09T00:00:00+00:00",
+    "to": "2016-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2016
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2016
+      }
+    },
+    "string": "Jan 9, 2016 to Mar 26, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.24,
+  "scored_by": 28917,
+  "rank": 8971,
+  "popularity": 2812,
+  "members": 74397,
+  "favorites": 92,
+  "synopsis": "Away from home for 10 years, Azuma Kazuki had no idea what was awaiting him upon his return. He certainly did not expect to be attacked by dozens of heavily armed people and taken as their prisoner. Fortunately, Azuma's stay in captivity is short. Wielding a strange sentient weapon—known as \"Bubuki\"—upon her right arm, his childhood friend, Kogane Asabuki, rescues him.\n\nAfter escaping, Azuma learns that he too has the power to control Bubuki. Together with his new companions, he must revive the Buranki titan named Oubu, that sleeps somewhere deep underground. With this knowledge and purpose, a new path to unearth the truths behind the Buranki opens before Azuma.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1540,
+      "type": "anime",
+      "name": "Kadokawa Media (Taiwan)",
+      "url": "https://myanimelist.net/anime/producer/1540/Kadokawa_Media_Taiwan"
+    },
+    {
+      "mal_id": 1541,
+      "type": "anime",
+      "name": "Tose",
+      "url": "https://myanimelist.net/anime/producer/1541/Tose"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 537,
+      "type": "anime",
+      "name": "SANZIGEN",
+      "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/79758l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/zIS05b8rArU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32023,
+  "slug": "bubuki-buranki"
 }

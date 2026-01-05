@@ -1,20 +1,51 @@
 {
-  "id": 2795,
-  "slug": "dragonaut-the-resonance",
-  "type": "legendado",
+  "mal_id": 2795,
+  "url": "https://myanimelist.net/anime/2795/Dragonaut__The_Resonance",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1523/134026.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/134026t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/134026l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1523/134026.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1523/134026t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1523/134026l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/VxaPLXc8khs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragonaut: The Resonance"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴノーツ-ザ・レソナンス-"
+    },
+    {
+      "type": "English",
+      "title": "Dragonaut - The Resonance"
+    }
+  ],
   "title": "Dragonaut: The Resonance",
   "title_english": "Dragonaut - The Resonance",
   "title_japanese": "ドラゴノーツ-ザ・レソナンス-",
-  "image": "https://cdn.myanimelist.net/images/anime/1523/134026l.webp",
-  "score": 6.56,
-  "synopsis": "Twenty years prior to the story's beginning, an asteroid headed for Earth destroys Pluto. Due to Pluto's destruction, the asteroid, which is dubbed Thanatos, becomes temporarily stagnant. Now, in order to avoid Earth's impending destruction, the International Solarsystem Development Agency (ISDA) works on the \"D-Project\", and creates the \"Dragonaut\" after finding a dragon egg under the ocean. This weapon's primary purpose is to destroy the asteroid when the time comes. However, they soon find out that the asteroid is not their only threat, as powerful dragon-like creatures, which are bent on destruction, appear on Earth.\n\nAfter witnessing a murder by one of the creatures, Jin Kamishina, a lonely 18-year-old boy who lost his family in a shuttle accident two years ago, gets involved in the mysteries of the dragons and becomes the chosen pilot of the Dragonaut. Helping him on his journey is Toa, a mysterious girl who saves him from falling to his death after the creature attacks him. As they get deeper into the mysteries of the dragons, they encounter new friends and enemies, and also begin to develop a closer relationship. \n\n(Source: Wikipedia)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/VxaPLXc8khs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Fantasy",
-    "Romance",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -141,5 +172,92 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwvwe3qxQfu845y00lUub-aOYB_3u8tWlw7mFEMY-MfUHI48LUgFzF7O6ITloFHOgW6BSILlCgb0u0-SsGeyTrNSHj6jcISOmsSizBIkRSohXiuCAyDb-6B7eIiSiZ6XzEQyhmD",
       "nome": "Resonance: May it Reverberate Forever"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-10-04T00:00:00+00:00",
+    "to": "2008-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2007
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Oct 4, 2007 to Mar 27, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.56,
+  "scored_by": 34509,
+  "rank": 7009,
+  "popularity": 2682,
+  "members": 80493,
+  "favorites": 118,
+  "synopsis": "Twenty years prior to the story's beginning, an asteroid headed for Earth destroys Pluto. Due to Pluto's destruction, the asteroid, which is dubbed Thanatos, becomes temporarily stagnant. Now, in order to avoid Earth's impending destruction, the International Solarsystem Development Agency (ISDA) works on the \"D-Project\", and creates the \"Dragonaut\" after finding a dragon egg under the ocean. This weapon's primary purpose is to destroy the asteroid when the time comes. However, they soon find out that the asteroid is not their only threat, as powerful dragon-like creatures, which are bent on destruction, appear on Earth.\n\nAfter witnessing a murder by one of the creatures, Jin Kamishina, a lonely 18-year-old boy who lost his family in a shuttle accident two years ago, gets involved in the mysteries of the dragons and becomes the chosen pilot of the Dragonaut. Helping him on his journey is Toa, a mysterious girl who saves him from falling to his death after the creature attacks him. As they get deeper into the mysteries of the dragons, they encounter new friends and enemies, and also begin to develop a closer relationship. \n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "fall",
+  "year": 2007,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 1597,
+      "type": "anime",
+      "name": "Sotsu Music Publishing",
+      "url": "https://myanimelist.net/anime/producer/1597/Sotsu_Music_Publishing"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1523/134026l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/VxaPLXc8khs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 2795,
+  "slug": "dragonaut-the-resonance"
 }

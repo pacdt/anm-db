@@ -1,23 +1,132 @@
 {
-  "id": 38198,
-  "slug": "nanatsu-no-taizai-eiyuu-tachi-wa-hashagu",
-  "type": "legendado",
+  "mal_id": 38198,
+  "url": "https://myanimelist.net/anime/38198/Nanatsu_no_Taizai__Eiyuu-tachi_wa_Hashagu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1369/96304.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1369/96304t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1369/96304l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1369/96304.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1369/96304t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1369/96304l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nanatsu no Taizai: Imashime no Fukkatsu OVA 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Seven Deadly Sins: Heroes Fun Time -Extra Stories Compilation OVA 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "七つの大罪 英雄たちは燥(はしゃ)ぐ"
+    },
+    {
+      "type": "English",
+      "title": "The Seven Deadly Sins: Heroes' Frolic"
+    }
+  ],
   "title": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
   "title_english": "The Seven Deadly Sins: Heroes' Frolic",
   "title_japanese": "七つの大罪 英雄たちは燥(はしゃ)ぐ",
-  "image": "https://cdn.myanimelist.net/images/anime/1369/96304l.webp",
-  "score": 7.06,
-  "synopsis": "OVA bundled with the 34th volume of the manga.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Nanatsu no Taizai: Imashime no Fukkatsu OVA 2",
+    "The Seven Deadly Sins: Heroes Fun Time -Extra Stories Compilation OVA 2"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyTD7_gnSyFnX26HrZ5hCQuMlEOlfms4_BW_h9zZLgrKgdJC6ucmbfOVmuqdVYvG0rNBJY34qB6Xng0htsw-lKfPUVtyiZVbcHw6Z9tYX8K5ruwgEGDc76Hy2k8ytfsKCbmyQ"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-11-16T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 11,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 16, 2018"
+  },
+  "duration": "24 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.06,
+  "scored_by": 33730,
+  "rank": 4263,
+  "popularity": 2620,
+  "members": 83321,
+  "favorites": 72,
+  "synopsis": "OVA bundled with the 34th volume of the manga.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1369/96304l.webp",
+  "trailer_url": null,
+  "id": 38198,
+  "slug": "nanatsu-no-taizai-eiyuu-tachi-wa-hashagu"
 }

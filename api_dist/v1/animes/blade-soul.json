@@ -1,19 +1,57 @@
 {
-  "id": 22547,
-  "slug": "blade-soul",
-  "type": "legendado",
+  "mal_id": 22547,
+  "url": "https://myanimelist.net/anime/22547/Blade___Soul",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/61885.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/61885t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/61885l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/61885.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/61885t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/61885l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1mC8JvJluQg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Blade & Soul"
+    },
+    {
+      "type": "Synonym",
+      "title": "Blade and Soul"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブレイドアンドソウル"
+    },
+    {
+      "type": "English",
+      "title": "Blade & Soul"
+    }
+  ],
   "title": "Blade & Soul",
   "title_english": "Blade & Soul",
   "title_japanese": "ブレイドアンドソウル",
-  "image": "https://cdn.myanimelist.net/images/anime/11/61885l.webp",
-  "score": 6.03,
-  "synopsis": "Alka is an assassin for the Clan of the Sword. She's on a journey to find the woman Jin Valel, who killed her master Hon without feeling—not unlike how Alka has learned to kill in her work as an assassin. On her journey, Alka encounters three strange women, each a great warrior in her own right and grapples with her slain master's wish that she leaves the life of an assassin behind.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1mC8JvJluQg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Blade and Soul"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +118,85 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxv7PJOSSE1yQYbJBujEwRE2WmDQ7X75PR4EGgMOVTFq8KYGQBYJFpvLCP7F5suf68hYegUICfTY81O2uig2-7AWvlfejiEsbSz1Jv8yR9P0EP4mqDKCkG7oyu6i0AjACY1JPw",
       "nome": "God"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-04-04T00:00:00+00:00",
+    "to": "2014-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2014
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2014
+      }
+    },
+    "string": "Apr 4, 2014 to Jun 27, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.03,
+  "scored_by": 55899,
+  "rank": 10207,
+  "popularity": 1993,
+  "members": 125825,
+  "favorites": 139,
+  "synopsis": "Alka is an assassin for the Clan of the Sword. She's on a journey to find the woman Jin Valel, who killed her master Hon without feeling—not unlike how Alka has learned to kill in her work as an assassin. On her journey, Alka encounters three strange women, each a great warrior in her own right and grapples with her slain master's wish that she leaves the life of an assassin behind.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2014,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:46",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:46 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/61885l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1mC8JvJluQg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 22547,
+  "slug": "blade-soul"
 }

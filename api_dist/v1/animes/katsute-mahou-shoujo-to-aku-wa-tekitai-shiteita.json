@@ -1,18 +1,72 @@
 {
-  "id": 57217,
-  "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
-  "type": "legendado",
+  "mal_id": 57217,
+  "url": "https://myanimelist.net/anime/57217/Katsute_Mahou_Shoujo_to_Aku_wa_Tekitai_shiteita",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1653/143959.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1653/143959t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1653/143959l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1653/143959.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1653/143959t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1653/143959l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/39_TsQt-_9Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita."
+    },
+    {
+      "type": "Synonym",
+      "title": "Mahoaku"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Former Magical Girl & Evil Enemy"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Magical Girl and Evil Officer"
+    },
+    {
+      "type": "Synonym",
+      "title": "Beauty and the Beast"
+    },
+    {
+      "type": "Japanese",
+      "title": "かつて魔法少女と悪は敵対していた。"
+    },
+    {
+      "type": "English",
+      "title": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies"
+    }
+  ],
   "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
   "title_english": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
   "title_japanese": "かつて魔法少女と悪は敵対していた。",
-  "image": "https://cdn.myanimelist.net/images/anime/1653/143959l.webp",
-  "score": 7.55,
-  "synopsis": "An evil army is leading a ground invasion against Earth, and their Lieutenant Shun Miller is determined to wreak havoc upon the populace. Miller's ruthless reputation strikes fear even into the hearts of his own subordinates, making him the perfect leader of a charge against a city protected by a powerful magical girl, Byakuya Mimori. However, his attack comes to a halt on the day of their first encounter—because he unexpectedly falls in love with Byakuya at first sight!\n\nOvercome by Byakuya's adorably delicate innocence, Miller begins to shower her with gifts and kindness. But Miller soon learns that Byakuya's Angel—the cat-like familiar who turned her into a magical girl—has been exploiting and manipulating her all along. This discovery solidifies Miller's resolve to ensure Byakuya goes on to lead a happier life, but as the war continues, they wonder if their blossoming affection can overcome the reality of their differences.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/39_TsQt-_9Q?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Mahoaku",
+    "The Former Magical Girl & Evil Enemy",
+    "The Magical Girl and Evil Officer",
+    "Beauty and the Beast"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +128,114 @@
       "url": "https://lightspeedst.net/s7/mp4/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita/hd/12.mp4",
       "nome": "Side B / Side M"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-07-09T00:00:00+00:00",
+    "to": "2024-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2024
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2024
+      }
+    },
+    "string": "Jul 9, 2024 to Sep 24, 2024"
+  },
+  "duration": "12 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.55,
+  "scored_by": 36948,
+  "rank": 1867,
+  "popularity": 2320,
+  "members": 101067,
+  "favorites": 469,
+  "synopsis": "An evil army is leading a ground invasion against Earth, and their Lieutenant Shun Miller is determined to wreak havoc upon the populace. Miller's ruthless reputation strikes fear even into the hearts of his own subordinates, making him the perfect leader of a charge against a city protected by a powerful magical girl, Byakuya Mimori. However, his attack comes to a halt on the day of their first encounter—because he unexpectedly falls in love with Byakuya at first sight!\n\nOvercome by Byakuya's adorably delicate innocence, Miller begins to shower her with gifts and kindness. But Miller soon learns that Byakuya's Angel—the cat-like familiar who turned her into a magical girl—has been exploiting and manipulating her all along. This discovery solidifies Miller's resolve to ensure Byakuya goes on to lead a happier life, but as the war continues, they wonder if their blossoming affection can overcome the reality of their differences.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2024,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "22:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 22:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1800,
+      "type": "anime",
+      "name": "Marui Group",
+      "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1653/143959l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/39_TsQt-_9Q?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 57217,
+  "slug": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita"
 }

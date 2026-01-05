@@ -1,18 +1,57 @@
 {
-  "id": 22955,
-  "slug": "francesca",
-  "type": "legendado",
+  "mal_id": 22955,
+  "url": "https://myanimelist.net/anime/22955/Francesca",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/63633.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/63633t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/63633l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/63633.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/63633t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/63633l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/cXqVEZL6m8Q?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Francesca"
+    },
+    {
+      "type": "Synonym",
+      "title": "Francesca: Girls Be Ambitious"
+    },
+    {
+      "type": "Japanese",
+      "title": "フランチェスカ"
+    },
+    {
+      "type": "English",
+      "title": "Hungry Zombie Francesca"
+    }
+  ],
   "title": "Francesca",
   "title_english": "Hungry Zombie Francesca",
   "title_japanese": "フランチェスカ",
-  "image": "https://cdn.myanimelist.net/images/anime/12/63633l.webp",
-  "score": 5.46,
-  "synopsis": "TV anime adaptation based on the undead idol character Francesca to promote Hokkaido, Japan.\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/cXqVEZL6m8Q?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Francesca: Girls Be Ambitious"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -39,5 +78,112 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxNorTJ5SYToeBi0fbukwnjXeZmq-M_Dn8IXPEU3Zoevvap5QX11YBNifA9uVLamBYjhqFMRHu54mLXnmdtykZHMOGQ_zfLELqkTHu4itBcyTfeSFgBO3dLHDsksEk-22HI6aM",
       "nome": "Is the Ghost Train Reserved?"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-07-07T00:00:00+00:00",
+    "to": "2014-12-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2014
+      },
+      "to": {
+        "day": 15,
+        "month": 12,
+        "year": 2014
+      }
+    },
+    "string": "Jul 7, 2014 to Dec 15, 2014"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.46,
+  "scored_by": 2245,
+  "rank": 12846,
+  "popularity": 6965,
+  "members": 10510,
+  "favorites": 5,
+  "synopsis": "TV anime adaptation based on the undead idol character Francesca to promote Hokkaido, Japan.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1097,
+      "type": "anime",
+      "name": "Bandai Namco Games",
+      "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+    },
+    {
+      "mal_id": 1215,
+      "type": "anime",
+      "name": "Daiichikosho",
+      "url": "https://myanimelist.net/anime/producer/1215/Daiichikosho"
+    },
+    {
+      "mal_id": 1217,
+      "type": "anime",
+      "name": "HeART-BIT",
+      "url": "https://myanimelist.net/anime/producer/1217/HeART-BIT"
+    },
+    {
+      "mal_id": 1219,
+      "type": "anime",
+      "name": "Hokkaido Azmacy",
+      "url": "https://myanimelist.net/anime/producer/1219/Hokkaido_Azmacy"
+    },
+    {
+      "mal_id": 1221,
+      "type": "anime",
+      "name": "Hokkaido Cultural Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/1221/Hokkaido_Cultural_Broadcasting"
+    },
+    {
+      "mal_id": 1223,
+      "type": "anime",
+      "name": "Teichiku Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1223/Teichiku_Entertainment"
+    },
+    {
+      "mal_id": 1313,
+      "type": "anime",
+      "name": "Amuse",
+      "url": "https://myanimelist.net/anime/producer/1313/Amuse"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 94,
+      "type": "anime",
+      "name": "Telecom Animation Film",
+      "url": "https://myanimelist.net/anime/producer/94/Telecom_Animation_Film"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/63633l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/cXqVEZL6m8Q?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 22955,
+  "slug": "francesca"
 }

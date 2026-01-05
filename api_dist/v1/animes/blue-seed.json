@@ -1,23 +1,51 @@
 {
-  "id": 998,
-  "slug": "blue-seed",
-  "type": "legendado",
+  "mal_id": 998,
+  "url": "https://myanimelist.net/anime/998/Blue_Seed",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1151/117019.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1151/117019t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1151/117019l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1151/117019.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1151/117019t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1151/117019l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Blue Seed"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブルーシード"
+    },
+    {
+      "type": "English",
+      "title": "Blue Seed"
+    }
+  ],
   "title": "Blue Seed",
   "title_english": "Blue Seed",
   "title_japanese": "ブルーシード",
-  "image": "https://cdn.myanimelist.net/images/anime/1151/117019l.webp",
-  "score": 6.98,
-  "synopsis": "Momiji is an average girl until the day she finds she is the descendant of the great Kushinada family. Only she, with her Kushinada blood, can stop the Aragami, demonic plant-like monsters threatening to destroy Japan. Along to help her is the TAC, and a possible love interest in a young man named Kusanagi.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "Horror",
-    "Mystery",
-    "Romance",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -149,5 +177,138 @@
       "url": "https://lightspeedst.net/s3/mp4/blue-seed/sd/26.mp4",
       "nome": "New Soul"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1994-10-05T00:00:00+00:00",
+    "to": "1995-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 1994
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 1995
+      }
+    },
+    "string": "Oct 5, 1994 to Mar 29, 1995"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.98,
+  "scored_by": 11406,
+  "rank": 4651,
+  "popularity": 4363,
+  "members": 32888,
+  "favorites": 137,
+  "synopsis": "Momiji is an average girl until the day she finds she is the descendant of the great Kushinada family. Only she, with her Kushinada blood, can stop the Aragami, demonic plant-like monsters threatening to destroy Japan. Along to help her is the TAC, and a possible love interest in a young man named Kusanagi.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 1994,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 469,
+      "type": "anime",
+      "name": "ING",
+      "url": "https://myanimelist.net/anime/producer/469/ING"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 242,
+      "type": "anime",
+      "name": "Ashi Productions",
+      "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1151/117019l.webp",
+  "trailer_url": null,
+  "id": 998,
+  "slug": "blue-seed"
 }

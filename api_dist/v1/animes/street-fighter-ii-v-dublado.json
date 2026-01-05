@@ -1,20 +1,57 @@
 {
-  "id": 876,
-  "slug": "street-fighter-ii-v-dublado",
-  "type": "dublado",
+  "mal_id": 876,
+  "url": "https://myanimelist.net/anime/876/Street_Fighter_II_V",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/29992.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/29992t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/29992l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/29992.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/29992t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/29992l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Street Fighter II V"
+    },
+    {
+      "type": "Synonym",
+      "title": "Street Fighter 2 V"
+    },
+    {
+      "type": "Japanese",
+      "title": "ストリートファイターII V"
+    },
+    {
+      "type": "English",
+      "title": "Street Fighter II: The Animated Series"
+    }
+  ],
   "title": "Street Fighter II V",
   "title_english": "Street Fighter II: The Animated Series",
   "title_japanese": "ストリートファイターII V",
-  "image": "https://cdn.myanimelist.net/images/anime/6/29992l.webp",
-  "score": 7.05,
-  "synopsis": "Ryu and Ken Masters are close friends and both are martial artists. In order to become better fighters and learn new techniques, they travel the world and are exposed to many different fighting styles, as well as meeting new people. During their journey, they find themselves caught up in a conspiracy perpetrated by a mysterious organisation called Shadowlaw, both now face their ultimate challenge and must fight for their lives as they combat the evil M. Bison. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "Mystery"
+  "title_synonyms": [
+    "Street Fighter 2 V"
   ],
+  "type": "dublado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -161,5 +198,91 @@
       "url": "https://lightspeedst.net/s3/mp4/street-fighter-ii-v-dublado/sd/29.mp4",
       "nome": "Fight to the Finish (Final Round) – The Final Battle, Risking All of Body and Soul"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1995-04-10T00:00:00+00:00",
+    "to": "1995-11-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 4,
+        "year": 1995
+      },
+      "to": {
+        "day": 27,
+        "month": 11,
+        "year": 1995
+      }
+    },
+    "string": "Apr 10, 1995 to Nov 27, 1995"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.05,
+  "scored_by": 16107,
+  "rank": 4351,
+  "popularity": 4556,
+  "members": 29915,
+  "favorites": 127,
+  "synopsis": "Ryu and Ken Masters are close friends and both are martial artists. In order to become better fighters and learn new techniques, they travel the world and are exposed to many different fighting styles, as well as meeting new people. During their journey, they find themselves caught up in a conspiracy perpetrated by a mysterious organisation called Shadowlaw, both now face their ultimate challenge and must fight for their lives as they combat the evil M. Bison. \n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 1995,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 494,
+      "type": "anime",
+      "name": "Studio Take Off",
+      "url": "https://myanimelist.net/anime/producer/494/Studio_Take_Off"
+    },
+    {
+      "mal_id": 2981,
+      "type": "anime",
+      "name": "Omnibus Promotion",
+      "url": "https://myanimelist.net/anime/producer/2981/Omnibus_Promotion"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 947,
+      "type": "anime",
+      "name": "Manga Entertainment",
+      "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/29992l.webp",
+  "trailer_url": null,
+  "id": 876,
+  "slug": "street-fighter-ii-v-dublado"
 }

@@ -1,19 +1,69 @@
 {
-  "id": 33354,
-  "slug": "cardcaptor-sakura-clear-card-hen",
-  "type": "legendado",
+  "mal_id": 33354,
+  "url": "https://myanimelist.net/anime/33354/Cardcaptor_Sakura__Clear_Card-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1467/90338.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1467/90338t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1467/90338l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1467/90338.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1467/90338t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1467/90338l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HjdLsqei_aE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cardcaptor Sakura: Clear Card-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cardcaptor Sakura: Clear Card-hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "カードキャプターさくら クリアカード編"
+    },
+    {
+      "type": "English",
+      "title": "Cardcaptor Sakura: Clear Card"
+    },
+    {
+      "type": "German",
+      "title": "Cardcaptor Sakura Clear Card"
+    },
+    {
+      "type": "Spanish",
+      "title": "Cardcaptor Sakura Clear Card"
+    },
+    {
+      "type": "French",
+      "title": "Cardcaptor Sakura: Clear Card"
+    }
+  ],
   "title": "Cardcaptor Sakura: Clear Card-hen",
   "title_english": "Cardcaptor Sakura: Clear Card",
   "title_japanese": "カードキャプターさくら クリアカード編",
-  "image": "https://cdn.myanimelist.net/images/anime/1467/90338l.webp",
-  "score": 7.66,
-  "synopsis": "With all of the Clow Cards recaptured and changed into her own Sakura Cards, Sakura Kinomoto now enters her first year at Tomoeda Middle School. After her initial day of classes, Sakura reunites with her love Shaoran Li, who informs her that he is permanently moving back to Tomoeda. Much to her surprise, it even turns out that Shaoran will attend the same school and it seems as if Sakura's life is heading in all the right directions.\n\nHowever, when Sakura goes to sleep, she encounters in her dream a mysterious cloaked figure and finds herself surrounded by transparent cards. Waking up in fear, Sakura is shocked to see her dream has come true, with the Sakura Cards having turned clear. Continued dreamlike encounters with the unknown enemy and her gaining a new magical key sets the stage for Cardcaptor Sakura's latest adventure!\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/HjdLsqei_aE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Cardcaptor Sakura: Clear Card-hen"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -125,5 +175,104 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwNkecS3muFpr8pxbFK-5s5nCSip_B82rm2Uz6qukLfjdegwsdf94sGsdy8IF6BiQ2IWH17InIKavaM6PukdoaZbaHvA3bJWdBE4KPZQz9fYG6swY7f24cz0b0siJFpYiUSmDTU",
       "nome": "Sakura's Clear Cards"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-07T00:00:00+00:00",
+    "to": "2018-06-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 10,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Jan 7, 2018 to Jun 10, 2018"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG - Children",
+  "score": 7.66,
+  "scored_by": 49874,
+  "rank": 1483,
+  "popularity": 1922,
+  "members": 132517,
+  "favorites": 715,
+  "synopsis": "With all of the Clow Cards recaptured and changed into her own Sakura Cards, Sakura Kinomoto now enters her first year at Tomoeda Middle School. After her initial day of classes, Sakura reunites with her love Shaoran Li, who informs her that he is permanently moving back to Tomoeda. Much to her surprise, it even turns out that Shaoran will attend the same school and it seems as if Sakura's life is heading in all the right directions.\n\nHowever, when Sakura goes to sleep, she encounters in her dream a mysterious cloaked figure and finds herself surrounded by transparent cards. Waking up in fear, Sakura is shocked to see her dream has come true, with the Sakura Cards having turned clear. Continued dreamlike encounters with the unknown enemy and her gaining a new magical key sets the stage for Cardcaptor Sakura's latest adventure!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "07:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 07:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1467/90338l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/HjdLsqei_aE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33354,
+  "slug": "cardcaptor-sakura-clear-card-hen"
 }

@@ -1,18 +1,57 @@
 {
-  "id": 55690,
-  "slug": "boku-no-kokoro-no-yabai-yatsu-season-2",
-  "type": "legendado",
+  "mal_id": 55690,
+  "url": "https://myanimelist.net/anime/55690/Boku_no_Kokoro_no_Yabai_Yatsu_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1643/138581.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1643/138581t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1643/138581l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1643/138581.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1643/138581t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1643/138581l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DAbLNzr4cC8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Boku no Kokoro no Yabai Yatsu 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bokuyaba"
+    },
+    {
+      "type": "Japanese",
+      "title": "僕の心のヤバイやつ 第2期"
+    },
+    {
+      "type": "English",
+      "title": "The Dangers in My Heart Season 2"
+    }
+  ],
   "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
   "title_english": "The Dangers in My Heart Season 2",
   "title_japanese": "僕の心のヤバイやつ 第2期",
-  "image": "https://cdn.myanimelist.net/images/anime/1643/138581l.webp",
-  "score": 8.71,
-  "synopsis": "After an eventful winter break, Kyoutarou Ichikawa and Anna Yamada reunite with a stronger bond. They continue to grow in their own ways, with Yamada taking on more challenging photoshoots and Ichikawa maturing both physically and emotionally as he tackles his affections for Yamada. However, spending time together outside of school allows for their relationship to deepen, and it becomes increasingly difficult to deny their budding romantic feelings.\n\nGrappling with these unexpected and new emotions, Ichikawa and Yamada realize that, with the passage of time, their relationship is bound to change—and they must ultimately decide whether they wish to remain close friends or finally become a couple.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DAbLNzr4cC8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Bokuyaba"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +118,133 @@
       "url": "https://lightspeedst.net/s7/mp4_temp/boku-no-kokoro-no-yabai-yatsu-season-2/13/720p.mp4",
       "nome": "I, We, Fell in Love"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-01-07T00:00:00+00:00",
+    "to": "2024-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2024
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2024
+      }
+    },
+    "string": "Jan 7, 2024 to Mar 31, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.71,
+  "scored_by": 165005,
+  "rank": 59,
+  "popularity": 932,
+  "members": 291044,
+  "favorites": 5973,
+  "synopsis": "After an eventful winter break, Kyoutarou Ichikawa and Anna Yamada reunite with a stronger bond. They continue to grow in their own ways, with Yamada taking on more challenging photoshoots and Ichikawa maturing both physically and emotionally as he tackles his affections for Yamada. However, spending time together outside of school allows for their relationship to deepen, and it becomes increasingly difficult to deny their budding romantic feelings.\n\nGrappling with these unexpected and new emotions, Ichikawa and Yamada realize that, with the passage of time, their relationship is bound to change—and they must ultimately decide whether they wish to remain close friends or finally become a couple.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    },
+    {
+      "mal_id": 2234,
+      "type": "anime",
+      "name": "TV Asahi Music",
+      "url": "https://myanimelist.net/anime/producer/2234/TV_Asahi_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 247,
+      "type": "anime",
+      "name": "Shin-Ei Animation",
+      "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1643/138581l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DAbLNzr4cC8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 55690,
+  "slug": "boku-no-kokoro-no-yabai-yatsu-season-2"
 }

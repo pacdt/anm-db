@@ -1,19 +1,62 @@
 {
-  "id": 1691,
-  "slug": "kaze-no-stigma",
-  "type": "legendado",
+  "mal_id": 1691,
+  "url": "https://myanimelist.net/anime/1691/Kaze_no_Stigma",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1558/100478.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1558/100478t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1558/100478l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1558/100478.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1558/100478t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1558/100478l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/GuV7NbcoNy4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaze no Stigma"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kaze no Seikon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Stigma of the Wind"
+    },
+    {
+      "type": "Japanese",
+      "title": "風のスティグマ"
+    },
+    {
+      "type": "English",
+      "title": "Kaze no Stigma"
+    }
+  ],
   "title": "Kaze no Stigma",
   "title_english": "Kaze no Stigma",
   "title_japanese": "風のスティグマ",
-  "image": "https://cdn.myanimelist.net/images/anime/1558/100478l.webp",
-  "score": 7.15,
-  "synopsis": "Kazuma Yagami is a user of \"Fuujutsu,\" the ability to control the wind. He returns to his old home, the noble Kannagi household, after being banished four years ago for his inability to control fire and his subsequent defeat in a duel at the hands of his younger cousin, Ayano Kannagi.\n\nReturning after such a brutal exile already gives rise to many conflicts, but to make matters worse, several Kannagi family members have recently been murdered with Fuujutsu. This leads the Kannagi family, including the hot-headed Ayano, to suspect Kazuma as the culprit. Now, Kazuma must not only clear his name, but also aid the family he shares a mutual hatred with, in order to discover the true identity of the killer.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/GuV7NbcoNy4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Kaze no Seikon",
+    "Stigma of the Wind"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +178,71 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzg6K_fLSoYhzelmUnVZ2c_8JChVE-65Gf0X0iysEsDLg_P6i7BbVMKTQAKYaNkirXlTpWyftOvTUC4FTQRuOjm6aWW5s4acm5yY7bHK7qfhCe1PkHAwu86xX96_oQm6k4EuCQ",
       "nome": "Protectors of the Wind"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-13T00:00:00+00:00",
+    "to": "2007-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 13, 2007 to Sep 21, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.15,
+  "scored_by": 243878,
+  "rank": 3776,
+  "popularity": 536,
+  "members": 471195,
+  "favorites": 1975,
+  "synopsis": "Kazuma Yagami is a user of \"Fuujutsu,\" the ability to control the wind. He returns to his old home, the noble Kannagi household, after being banished four years ago for his inability to control fire and his subsequent defeat in a duel at the hands of his younger cousin, Ayano Kannagi.\n\nReturning after such a brutal exile already gives rise to many conflicts, but to make matters worse, several Kannagi family members have recently been murdered with Fuujutsu. This leads the Kannagi family, including the hot-headed Ayano, to suspect Kazuma as the culprit. Now, Kazuma must not only clear his name, but also aid the family he shares a mutual hatred with, in order to discover the true identity of the killer.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1558/100478l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/GuV7NbcoNy4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1691,
+  "slug": "kaze-no-stigma"
 }

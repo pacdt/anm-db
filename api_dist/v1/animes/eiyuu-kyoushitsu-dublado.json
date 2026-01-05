@@ -1,19 +1,62 @@
 {
-  "id": 49894,
-  "slug": "eiyuu-kyoushitsu-dublado",
-  "type": "dublado",
+  "mal_id": 49894,
+  "url": "https://myanimelist.net/anime/49894/Eiyuu_Kyoushitsu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1179/136000.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1179/136000t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1179/136000l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1179/136000.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1179/136000t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1179/136000l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/0Midb-96D10?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Eiyuu Kyoushitsu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Class Room✿For Heroes"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hero Classroom"
+    },
+    {
+      "type": "Japanese",
+      "title": "英雄教室"
+    },
+    {
+      "type": "English",
+      "title": "Classroom for Heroes"
+    }
+  ],
   "title": "Eiyuu Kyoushitsu",
   "title_english": "Classroom for Heroes",
   "title_japanese": "英雄教室",
-  "image": "https://cdn.myanimelist.net/images/anime/1179/136000l.webp",
-  "score": 6.04,
-  "synopsis": "After defeating the Demon Lord, the great hero Blade finds himself on the brink of death. Though he miraculously survives, he loses a significant portion of his strength. Being stripped of his immense power frees Blade from the obligation of being humanity's savior. He chooses to spend his newfound freetime embarking on a new quest, making friends.\n\nBlade enrolls at Rosewood Academy, an institution that trains prospective heroes to become bonafide champions of justice. He quickly fits in, befriending his fellow classmates and helping them through the trials and tribulations on the path toward becoming a hero. \n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/0Midb-96D10?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Ecchi"
+  "title_synonyms": [
+    "Class Room✿For Heroes",
+    "Hero Classroom"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -67,5 +110,133 @@
       "numero": 12,
       "url": "https://lightspeedst.net/s6/mp4/eiyuu-kyoushitsu-dublado/fhd/12.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-07-09T00:00:00+00:00",
+    "to": "2023-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2023
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2023
+      }
+    },
+    "string": "Jul 9, 2023 to Sep 24, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.04,
+  "scored_by": 53771,
+  "rank": 10155,
+  "popularity": 1799,
+  "members": 143403,
+  "favorites": 493,
+  "synopsis": "After defeating the Demon Lord, the great hero Blade finds himself on the brink of death. Though he miraculously survives, he loses a significant portion of his strength. Being stripped of his immense power frees Blade from the obligation of being humanity's savior. He chooses to spend his newfound freetime embarking on a new quest, making friends.\n\nBlade enrolls at Rosewood Academy, an institution that trains prospective heroes to become bonafide champions of justice. He quickly fits in, befriending his fellow classmates and helping them through the trials and tribulations on the path toward becoming a hero. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2023,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1517,
+      "type": "anime",
+      "name": "Jinnan Studio",
+      "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+    },
+    {
+      "mal_id": 1617,
+      "type": "anime",
+      "name": "Tencent Japan",
+      "url": "https://myanimelist.net/anime/producer/1617/Tencent_Japan"
+    },
+    {
+      "mal_id": 2424,
+      "type": "anime",
+      "name": "Bandai Namco Filmworks",
+      "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Actas",
+      "url": "https://myanimelist.net/anime/producer/60/Actas"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1179/136000l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/0Midb-96D10?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49894,
+  "slug": "eiyuu-kyoushitsu-dublado"
 }

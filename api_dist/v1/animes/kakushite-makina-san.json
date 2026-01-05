@@ -1,20 +1,51 @@
 {
-  "id": 58833,
-  "slug": "kakushite-makina-san",
-  "type": "legendado",
+  "mal_id": 58833,
+  "url": "https://myanimelist.net/anime/58833/Kakushite_Makina-san",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1843/146935.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1843/146935t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1843/146935l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1843/146935.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1843/146935t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1843/146935l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Fwjexo4eJ70?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kakushite! Makina-san!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "かくして！マキナさん!!"
+    },
+    {
+      "type": "English",
+      "title": "Makina-san's a Love Bot?!"
+    }
+  ],
   "title": "Kakushite! Makina-san!!",
   "title_english": "Makina-san's a Love Bot?!",
   "title_japanese": "かくして！マキナさん!!",
-  "image": "https://cdn.myanimelist.net/images/anime/1843/146935l.webp",
-  "score": 5.51,
-  "synopsis": "Eita Akutsu admires the popular Makina Agatsuma from afar, as he is too introverted to speak to her in public. Instead, he hones his skills in robotics, hoping to create a robot to earn him a coveted position as a lab assistant.\n\nAfter returning home from school, Eita finds an injured Makina waiting outside his apartment, revealing her true nature as an android. He repairs her, only to discover that she is specifically made to entice and manipulate men for information. However, a malfunction in her programming prohibits her from properly carrying out this task.\n\nGrateful for Eita's help, Makina declares him her new owner and decides to move in with him. Despite Eita's refusals, she keeps attempting to seduce him, even though he only wishes to study her intricate design and functions. But Makina's whims cannot go ignored for long—not when her tactics grow bolder by the day.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Fwjexo4eJ70?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -41,5 +72,97 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz0C2PXis1jbqetCk84RUjEwrhjHQop31-w2hZUc9nd3jlKsJJkuzDDLgvx3B61sKCz95LCXjJETQlZn-yM8FH1p6jMpRO8JtoZKNJWgouTYD-QP4l5DemtfIwfZ_U5tPEiSmo",
       "nome": "Thus, Makina Can No Longer Hide"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-07T00:00:00+00:00",
+    "to": "2025-06-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 23,
+        "month": 6,
+        "year": 2025
+      }
+    },
+    "string": "Apr 7, 2025 to Jun 23, 2025"
+  },
+  "duration": "12 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.51,
+  "scored_by": 14130,
+  "rank": 12705,
+  "popularity": 3471,
+  "members": 51015,
+  "favorites": 259,
+  "synopsis": "Eita Akutsu admires the popular Makina Agatsuma from afar, as he is too introverted to speak to her in public. Instead, he hones his skills in robotics, hoping to create a robot to earn him a coveted position as a lab assistant.\n\nAfter returning home from school, Eita finds an injured Makina waiting outside his apartment, revealing her true nature as an android. He repairs her, only to discover that she is specifically made to entice and manipulate men for information. However, a malfunction in her programming prohibits her from properly carrying out this task.\n\nGrateful for Eita's help, Makina declares him her new owner and decides to move in with him. Despite Eita's refusals, she keeps attempting to seduce him, even though he only wishes to study her intricate design and functions. But Makina's whims cannot go ignored for long—not when her tactics grow bolder by the day.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1377,
+      "type": "anime",
+      "name": "Futabasha",
+      "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+    },
+    {
+      "mal_id": 2052,
+      "type": "anime",
+      "name": "Wolfsbane",
+      "url": "https://myanimelist.net/anime/producer/2052/Wolfsbane"
+    },
+    {
+      "mal_id": 2554,
+      "type": "anime",
+      "name": "Gekkou",
+      "url": "https://myanimelist.net/anime/producer/2554/Gekkou"
+    },
+    {
+      "mal_id": 2892,
+      "type": "anime",
+      "name": "WWWave",
+      "url": "https://myanimelist.net/anime/producer/2892/WWWave"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2144,
+      "type": "anime",
+      "name": "BloomZ",
+      "url": "https://myanimelist.net/anime/producer/2144/BloomZ"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1843/146935l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Fwjexo4eJ70?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 58833,
+  "slug": "kakushite-makina-san"
 }

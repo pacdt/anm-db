@@ -1,18 +1,69 @@
 {
-  "id": 16982,
-  "slug": "hayate-no-gotoku-cuties",
-  "type": "legendado",
+  "mal_id": 16982,
+  "url": "https://myanimelist.net/anime/16982/Hayate_no_Gotoku_Cuties",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/48953.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/48953t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/48953l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/48953.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/48953t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/48953l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wUTjwbQw-SY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hayate no Gotoku! (2013)"
+    },
+    {
+      "type": "Japanese",
+      "title": "ハヤテのごとく！ Cuties"
+    },
+    {
+      "type": "English",
+      "title": "Hayate the Combat Butler! Cuties"
+    },
+    {
+      "type": "German",
+      "title": "Hayate the Combat Butler! Cuties"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hayate no Gotoku!: Cuties"
+    },
+    {
+      "type": "French",
+      "title": "Hayate the Combat Butler! Cuties"
+    }
+  ],
   "title": "Hayate no Gotoku! Cuties",
   "title_english": "Hayate the Combat Butler! Cuties",
   "title_japanese": "ハヤテのごとく！ Cuties",
-  "image": "https://cdn.myanimelist.net/images/anime/10/48953l.webp",
-  "score": 7.02,
-  "synopsis": "Taking place after the events that occurred in Hayate no Gotoku! Can't Take My Eyes off You. Hayate, Nagi and Maria return to their daily lives at the Sanzenin Mansion and the Violet Mansion.\n\n(Source: Hayate no Gotoku! Wikia)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/wUTjwbQw-SY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Hayate no Gotoku! (2013)"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +125,97 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwj5r0ogpidLTzdxGGE_-qN2R-zhIgr5t2ts8axEOluJ1TNrJN9G0e6nCmLQK8RBXoUXe10k77pMvDvIBqlYFqWUmMXrZD7BXbI2-C8ho-hMnsgR6_CLSMgt1U2w5g9m_Gl7Ouv",
       "nome": "I Will Love and Be Loved in My Life"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-04-09T00:00:00+00:00",
+    "to": "2013-07-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2013
+      },
+      "to": {
+        "day": 2,
+        "month": 7,
+        "year": 2013
+      }
+    },
+    "string": "Apr 9, 2013 to Jul 2, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.02,
+  "scored_by": 20860,
+  "rank": 4476,
+  "popularity": 3604,
+  "members": 47660,
+  "favorites": 55,
+  "synopsis": "Taking place after the events that occurred in Hayate no Gotoku! Can't Take My Eyes off You. Hayate, Nagi and Maria return to their daily lives at the Sanzenin Mansion and the Violet Mansion.\n\n(Source: Hayate no Gotoku! Wikia)",
+  "background": "",
+  "season": "spring",
+  "year": 2013,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Manglobe",
+      "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/10/48953l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/wUTjwbQw-SY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 16982,
+  "slug": "hayate-no-gotoku-cuties"
 }

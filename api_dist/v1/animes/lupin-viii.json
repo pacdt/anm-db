@@ -1,22 +1,116 @@
 {
-  "id": 13249,
-  "slug": "lupin-viii",
-  "type": "legendado",
+  "mal_id": 13249,
+  "url": "https://myanimelist.net/anime/13249/Lupin_VIII",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/89537.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89537t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89537l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/89537.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/89537t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/89537l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lupin VIII"
+    },
+    {
+      "type": "Japanese",
+      "title": "ルパン8世"
+    }
+  ],
   "title": "Lupin VIII",
   "title_english": "Lupin VIII",
   "title_japanese": "ルパン8世",
-  "image": "https://cdn.myanimelist.net/images/anime/4/89537l.webp",
-  "score": 5.6,
-  "synopsis": "Pilot of Lupin sequel included with the Lupin 40th anniversary Bluray set.\n\nFive generations after Lupin the 3rd, Lupin the 8th plies his trade in an airship that flies above a futuristic Paris.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwFqvoXoUeoA0pSVumD2tr1yLOJcwNkz6FXMF-8nzeTGCwQJc7MQ9zfi7cc_y7KVGyGDTVPQhypVN8S97I7t6Q0vhFZ14RQe5qxazxFniuoFdWshm0pBtd_0G-3X8quBSF2ztiM"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-03-28T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 3,
+        "year": 2012
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 28, 2012"
+  },
+  "duration": "22 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.6,
+  "scored_by": 1597,
+  "rank": 12388,
+  "popularity": 9649,
+  "members": 4563,
+  "favorites": 1,
+  "synopsis": "Pilot of Lupin sequel included with the Lupin 40th anniversary Bluray set.\n\nFive generations after Lupin the 3rd, Lupin the 8th plies his trade in an airship that flies above a futuristic Paris.\n\n(Source: ANN)",
+  "background": "DiC decided to do a co-production with TMS and bring the Lupin the 3rd series to a Western audience. Some changes were made such as Lupin was no longer a thief but a detective, Jigen was no longer a smoker and it was set in the future. It was decided that the series was going to be called Arsène et Cie in France while it was called Lupin VIII internationally. Rintaro (Shigeyuki Hayashi) who worked on Captain Harlock and Galaxy Express 999 was the director and Shingo Araki was brought in as a character designer along with Michi Himeno. Monkey Punch had originally came up with character designs of the cast however the character designs had changed from his early designs. There was a problem during production and that was with the Maurice Leblanc estate. While the Lupin name was used in Japan and Italy at this point without issues, the Maurice Leblanc estate demanded money for the use of the Lupin name while TMS and DiC refused to pay what they were asking. This was also the same issue that had problems releasing the series outside of Japan with France adopting the Edgar de la Cambriole name, Lupin was renamed to Wolf or Cliff in the US while Spain and Italy that kept the Lupin name had to distance from Arsène Lupin affecting later dubbed episodes of Lupin the 3rd Part 2. (Source: Wikipedia, Lupin III Wiki)",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/89537l.webp",
+  "trailer_url": null,
+  "id": 13249,
+  "slug": "lupin-viii"
 }

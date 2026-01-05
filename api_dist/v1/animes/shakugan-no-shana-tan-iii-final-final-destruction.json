@@ -1,17 +1,53 @@
 {
-  "id": 12823,
-  "slug": "shakugan-no-shana-tan-iii-final-final-destruction",
-  "type": "legendado",
+  "mal_id": 12823,
+  "url": "https://myanimelist.net/anime/12823/Shakugan_no_Shana-tan_III_Final__Final_Destruction",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/36063.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/36063t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/36063l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/36063.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/36063t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/36063l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shakugan no Shana-tan III (Final): Final Destruction"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shakugan no Shana-tan: Final Destruction"
+    },
+    {
+      "type": "Japanese",
+      "title": "灼眼のシャナたん　ふぁいなるですとらくしょん"
+    }
+  ],
   "title": "Shakugan no Shana-tan III (Final): Final Destruction",
   "title_english": "Shakugan no Shana-tan III (Final): Final Destruction",
   "title_japanese": "灼眼のシャナたん　ふぁいなるですとらくしょん",
-  "image": "https://cdn.myanimelist.net/images/anime/11/36063l.webp",
-  "score": 6.99,
-  "synopsis": "Shakugan no Shana-tan: Final Destruction specials bundled with the limited edition second and sixth volumes of the Shakugan no Shana III (Final) Blu-ray and DVD.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Shakugan no Shana-tan: Final Destruction"
   ],
+  "type": "legendado",
+  "source": "Unknown",
   "episodes": [
     {
       "numero": 1,
@@ -23,5 +59,76 @@
       "url": "https://lightspeedst.net/s3/mp4/shakugan-no-shana-tan-iii-final-final-destruction/sd/2.mp4",
       "nome": "Shakugan No Shana-tan Final Destruction 2"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-27T00:00:00+00:00",
+    "to": "2012-05-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 30,
+        "month": 5,
+        "year": 2012
+      }
+    },
+    "string": "Jan 27, 2012 to May 30, 2012"
+  },
+  "duration": "9 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.99,
+  "scored_by": 7293,
+  "rank": 4597,
+  "popularity": 5373,
+  "members": 20219,
+  "favorites": 12,
+  "synopsis": "Shakugan no Shana-tan: Final Destruction specials bundled with the limited edition second and sixth volumes of the Shakugan no Shana III (Final) Blu-ray and DVD.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/36063l.webp",
+  "trailer_url": null,
+  "id": 12823,
+  "slug": "shakugan-no-shana-tan-iii-final-final-destruction"
 }

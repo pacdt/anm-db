@@ -1,19 +1,67 @@
 {
-  "id": 2330,
-  "slug": "jibaku-kun",
-  "type": "legendado",
+  "mal_id": 2330,
+  "url": "https://myanimelist.net/anime/2330/Jibaku-kun",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1630/143498.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/143498t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/143498l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1630/143498.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1630/143498t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1630/143498l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jibaku-kun"
+    },
+    {
+      "type": "Synonym",
+      "title": "Jibaku-kun: Twelve World Story"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bucky: Searching for world 0"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bucky"
+    },
+    {
+      "type": "Japanese",
+      "title": "ジバクくん"
+    },
+    {
+      "type": "English",
+      "title": "Bucky: The Incredible Kid"
+    }
+  ],
   "title": "Jibaku-kun",
   "title_english": "Bucky: The Incredible Kid",
   "title_japanese": "ジバクくん",
-  "image": "https://cdn.myanimelist.net/images/anime/1630/143498l.webp",
-  "score": 7.34,
-  "synopsis": "Bucky, the protagonist of the history, is a normal boy that lives in the first world. He lives with a single and humble ambition: to dominate the world (in the sense of the whole planet). He is very certain and he would certainly die to reach his dream. \n\nOne day he meets with Spark, the Great Child of Primas (World One). Spark is known as the strongest Great Child of all of the worlds, and he is a successor's search. After finding Bucky and talk a little with him, Spark without apparent reason choose Bucky his successor. Bucky has just become a Great Child and to win the company of Jibaki, the spirit of the first world.\n\n(Source: Wikipedia)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Jibaku-kun: Twelve World Story",
+    "Bucky: Searching for world 0",
+    "Bucky"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +193,78 @@
       "url": "https://lightspeedst.net/s3/mp4/jibaku-kun/sd/26.mp4",
       "nome": "A Dream is Only the Beginning!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-10-05T00:00:00+00:00",
+    "to": "2000-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 1999
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2000
+      }
+    },
+    "string": "Oct 5, 1999 to Mar 28, 2000"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.34,
+  "scored_by": 6892,
+  "rank": 2761,
+  "popularity": 6058,
+  "members": 14714,
+  "favorites": 73,
+  "synopsis": "Bucky, the protagonist of the history, is a normal boy that lives in the first world. He lives with a single and humble ambition: to dominate the world (in the sense of the whole planet). He is very certain and he would certainly die to reach his dream. \n\nOne day he meets with Spark, the Great Child of Primas (World One). Spark is known as the strongest Great Child of all of the worlds, and he is a successor's search. After finding Bucky and talk a little with him, Spark without apparent reason choose Bucky his successor. Bucky has just become a Great Child and to win the company of Jibaki, the spirit of the first world.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "fall",
+  "year": 1999,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 311,
+      "type": "anime",
+      "name": "Enoki Films",
+      "url": "https://myanimelist.net/anime/producer/311/Enoki_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Trans Arts",
+      "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1630/143498l.webp",
+  "trailer_url": null,
+  "id": 2330,
+  "slug": "jibaku-kun"
 }
