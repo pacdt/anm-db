@@ -1,8 +1,22 @@
 {
   "name": "Drama",
   "slug": "drama",
-  "count": 972,
+  "count": 974,
   "animes": [
+    {
+      "title": "Hana-Kimi",
+      "slug": "hanazakari-no-kimitachi-e",
+      "image": "https://cdn.myanimelist.net/images/anime/1490/152041l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Journal with Witch",
+      "slug": "ikoku-nikki",
+      "image": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "score": null,
+      "type": "legendado"
+    },
     {
       "title": "Attack on Titan: Final Season - The Final Chapters",
       "slug": "shingeki-no-kyojin-the-final-season-kanketsu-hen",
