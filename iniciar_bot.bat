@@ -10,8 +10,8 @@ timeout /t 10 /nobreak >nul
 
 :: --- INSTALACAO ---
 echo Verificando dependencias...
-pip install requests beautifulsoup4
-
+pip install aiohttp aiofiles tqdm beautifulsoup4
+cls
 :: --- EXECUÇÃO ---
 echo Iniciando o Bot de Animes...
 :: Substitua pelo nome exato do seu arquivo python se for diferente

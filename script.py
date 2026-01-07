@@ -1,201 +1,139 @@
+import asyncio
+import aiohttp
+import aiofiles
 import json
 import os
-import requests
-import time
-import re
 import random
-import subprocess
 from datetime import datetime
 from bs4 import BeautifulSoup
-from difflib import SequenceMatcher
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from threading import Lock
+from tqdm.asyncio import tqdm
 
-# --- CONFIGURAÇÕES GERAIS ---
+# --- CONFIGURAÇÕES ---
 BASE_URL_SITE = "https://animefire.plus"
 BASE_URL_VIDEO = "https://animefire.plus/video"
 
-# Endpoints da API Jikan
-BASE_API_JIKAN_ANIME = "https://api.jikan.moe/v4/anime"
-BASE_API_JIKAN_EPISODIOS = "https://api.jikan.moe/v4/anime/{id}/episodes"
-
-USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36",
-    "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-    "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1"
-]
-
-def get_random_header():
-    return {"User-Agent": random.choice(USER_AGENTS)}
-
-# Estrutura de Pastas e Arquivos
-ARQUIVO_LISTA_DUBLADOS = 'animes_dublados.json'
-ARQUIVO_LISTA_LEGENDADOS = 'animes_legendados.json'
-FOLDER_LOGS = 'logs_atualizacoes'
+# Pastas de Origem (Sincronizado com api.py)
 FOLDER_DUBLADOS = os.path.join('Episodios', 'Dublados')
 FOLDER_LEGENDADOS = os.path.join('Episodios', 'Legendados')
 
-# Configurações de Execução
-PAGINAS_DUBLADOS = 30
-PAGINAS_LEGENDADOS = 190
-MAX_WORKERS_SCRAPER = 50 
-INTERVALO_HORAS = 24
+# Performance e Segurança
+MAX_CONCURRENT_REQUESTS = 20  # Total de workers simultâneos
+MAX_RETRIES_404 = 5           # Episódios vazios antes de pular o anime
+TIMEOUT_SECONDS = 15
 
-# Controles de Erro e Delay
-MAX_RETRIES = 5
-MAX_ERROS_SEQUENCIAIS = 10 
-TIMEOUT_REQUEST = 5
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1"
+]
 
-# Bloqueios (Locks) para Threading
-log_lock = Lock()
-animes_atualizados_ciclo = []
+def get_headers():
+    return {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Referer": BASE_URL_SITE,
+        "X-Requested-With": "XMLHttpRequest"
+    }
 
-# --- UTILITÁRIOS ---
+# --- AUXILIARES ---
 
-def criar_pastas_necessarias():
-    dirs = [
-        FOLDER_DUBLADOS, FOLDER_LEGENDADOS, FOLDER_LOGS
-    ]
-    for p in dirs:
-        if not os.path.exists(p): os.makedirs(p)
+async def save_json(path, data):
+    async with aiofiles.open(path, 'w', encoding='utf-8') as f:
+        await f.write(json.dumps(data, ensure_ascii=False, indent=2))
 
-def sanitize_filename(filename):
-    return re.sub(r'[\\/*?:"<>|]', "", str(filename)).strip()
-
-def save_json(path, data):
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-def extrair_slug(url_anime):
-    if '/animes/' in url_anime:
-        slug = url_anime.split('/animes/')[-1]
-    else:
-        slug = url_anime.rstrip('/').split('/')[-1]
-    return slug.replace('-todos-os-episodios', '')
-
-
-
-# --- SCRAPER ---
-
-def extrair_animes_da_pagina(url):
-    animes = []
+async def load_json(path):
+    if not os.path.exists(path): return None
     try:
-        response = requests.get(url, headers=get_random_header(), timeout=TIMEOUT_REQUEST)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.content, 'html.parser')
+        async with aiofiles.open(path, 'r', encoding='utf-8') as f:
+            return json.loads(await f.read())
+    except: return None
+
+def extrair_slug(url):
+    return url.rstrip('/').split('/')[-1].replace('-todos-os-episodios', '')
+
+# --- CORE ---
+
+async def fetch(session, url):
+    try:
+        async with session.get(url, headers=get_headers(), timeout=TIMEOUT_SECONDS) as response:
+            if response.status == 200:
+                if "application/json" in response.headers.get('Content-Type', ''):
+                    return await response.json(), 200
+                return await response.text(), 200
+            if response.status == 429:
+                await asyncio.sleep(20) # Pausa por excesso de requisições
+            return None, response.status
+    except:
+        return None, 0
+
+async def mapear_catalogo(session, tipo, paginas):
+    animes = {}
+    base = f"{BASE_URL_SITE}/lista-de-animes-{tipo}s"
+    
+    tasks = [fetch(session, base if p == 1 else f"{base}/{p}") for p in range(1, paginas + 1)]
+    
+    for html, status in await tqdm.gather(*tasks, desc=f"Lendo lista {tipo}", unit="pg"):
+        if status == 200 and html:
+            soup = BeautifulSoup(html, 'html.parser')
             for link in soup.find_all('a', href=True):
                 h3 = link.find('h3', class_='animeTitle')
                 if h3 and '/animes/' in link['href']:
-                    img = link.find('img')
-                    src = img.get('data-src') or img.get('src') if img else None
-                    animes.append({'nome': h3.get_text(strip=True), 'link': link['href'], 'imagem': src})
-    except: pass
-    return animes
+                    slug = extrair_slug(link['href'])
+                    animes[slug] = {'nome': h3.get_text(strip=True), 'slug': slug, 'link': link['href']}
+    return list(animes.values())
 
-def buscar_lista_animes(tipo, paginas, arquivo_saida):
-    animes_unicos = {}
-    base = f"{BASE_URL_SITE}/lista-de-animes-{tipo}s"
-    print(f"\n>>> Mapeando lista: {tipo.upper()}...")
-    
-    for p in range(1, paginas + 1):
-        url = base if p == 1 else f"{base}/{p}"
-        if p % 5 == 0: print(f"Lendo pg {p}/{paginas}")
-        for anime in extrair_animes_da_pagina(url):
-            slug = extrair_slug(anime['link'])
-            if slug not in animes_unicos: animes_unicos[slug] = anime
-        time.sleep(0.2)
+async def processar_anime(session, sem, anime, pasta):
+    async with sem:
+        path = os.path.join(pasta, f"{anime['slug']}.json")
+        dados = await load_json(path) or {"nome": anime['nome'], "slug": anime['slug'], "episodios": []}
         
-    lista = list(animes_unicos.values())
-    save_json(arquivo_saida, lista)
-    return lista
-
-def buscar_link_video(url_api):
-    for _ in range(2):
-        try:
-            r = requests.get(url_api, headers=get_random_header(), timeout=TIMEOUT_REQUEST)
-            if r.status_code == 200:
-                d = r.json()
-                link = d.get('token') or (d['data'][-1]['src'] if d.get('data') else None)
-                return link, True
-            if r.status_code == 404: return None, False
-        except: time.sleep(1)
-    return None, True
-
-def processar_anime(anime, pasta, indice, total):
-    nome, slug = anime['nome'], extrair_slug(anime['link'])
-    path = os.path.join(pasta, f"{slug}.json")
-    
-    if indice % 20 == 0: print(f"[{indice}/{total}] Processando: {nome}")
-    
-    dados = {"nome": nome, "slug": slug, "imagem": anime.get('imagem'), "episodios": []}
-    if os.path.exists(path):
-        try:
-            with open(path, 'r', encoding='utf-8') as f:
-                dados.update(json.load(f))
-        except json.JSONDecodeError:
-            print(f"  [AVISO] Arquivo JSON corrompido para {nome}, recriando do zero.")
-            # Se o JSON estiver corrompido, `dados` já está resetado para o padrão
-            pass
+        ultimo = dados['episodios'][-1]['numero'] if dados['episodios'] else 0
+        prox, erros, novos = ultimo + 1, 0, False
+        
+        while erros < MAX_RETRIES_404:
+            await asyncio.sleep(random.uniform(0.1, 0.4)) # Delay humano
+            resp, status = await fetch(session, f"{BASE_URL_VIDEO}/{anime['slug']}/{prox}")
             
-    # Lógica de scraping de episódios
-    ultimo = dados['episodios'][-1]['numero'] if dados.get('episodios') else 0
-    prox = ultimo + 1
-    novos = []
-    
-    erros = 0
-    while erros < MAX_ERROS_SEQUENCIAIS:
-        link, continuar = buscar_link_video(f"{BASE_URL_VIDEO}/{slug}/{prox}")
-        if not continuar: break
-        if link:
-            obj = {"numero": prox, "url": link}
-            dados['episodios'].append(obj)
-            novos.append(obj)
-            erros = 0
-        else:
+            if status == 200 and resp:
+                link = resp.get('token') or (resp['data'][-1]['src'] if resp.get('data') else None)
+                if link:
+                    dados['episodios'].append({"numero": prox, "url": link})
+                    novos, erros = True, 0
+                    prox += 1
+                    continue
+            
             erros += 1
-        prox += 1
+            prox += 1
+            
+        if novos:
+            dados['episodios'].sort(key=lambda x: x['numero'])
+            await save_json(path, dados)
+            return True
+    return False
+
+async def main():
+    print(f"=== INICIANDO ATUALIZAÇÃO: {datetime.now().strftime('%H:%M:%S')} ===")
+    os.makedirs(FOLDER_DUBLADOS, exist_ok=True)
+    os.makedirs(FOLDER_LEGENDADOS, exist_ok=True)
+
+    async with aiohttp.ClientSession() as session:
+        # 1. Mapeia o que existe no site
+        animes_dub = await mapear_catalogo(session, 'dublado', 30)
+        animes_leg = await mapear_catalogo(session, 'legendado', 190)
         
-    if novos:
-        dados['episodios'].sort(key=lambda x: x['numero'])
-        save_json(path, dados)
-        with log_lock:
-            animes_atualizados_ciclo.append(nome)
-
-def rodar_scraper(lista, pasta):
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS_SCRAPER) as exe:
-        futures = {exe.submit(processar_anime, a, pasta, i, len(lista)): a for i, a in enumerate(lista, 1)}
-        for f in as_completed(futures): f.result()
-
-
-
-# --- MAIN LOOP ---
-
-def main():
-    print("=== SERVER STARTED ===")
-    while True:
-        try:
-            print(f"\n--- INÍCIO CICLO: {datetime.now()} ---")
-            global animes_atualizados_ciclo
-            animes_atualizados_ciclo = []
-            
-            criar_pastas_necessarias()
-            
-            # 1. Scrapers
-            l_dub = buscar_lista_animes('dublado', PAGINAS_DUBLADOS, ARQUIVO_LISTA_DUBLADOS)
-            rodar_scraper(l_dub, FOLDER_DUBLADOS)
-            
-            l_leg = buscar_lista_animes('legendado', PAGINAS_LEGENDADOS, ARQUIVO_LISTA_LEGENDADOS)
-            rodar_scraper(l_leg, FOLDER_LEGENDADOS)
-            
-            print(f"--- FIM CICLO. ---")
-            break
-            
-        except Exception as e:
-            print(f"ERRO CRÍTICO NO MAIN: {e}")
-            time.sleep(600)
+        all_tasks = []
+        sem = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+        
+        # 2. Prepara verificação de episódios
+        for a in animes_dub: all_tasks.append(processar_anime(session, sem, a, FOLDER_DUBLADOS))
+        for a in animes_leg: all_tasks.append(processar_anime(session, sem, a, FOLDER_LEGENDADOS))
+        
+        # 3. Executa com progresso
+        results = [await f for f in tqdm(asyncio.as_completed(all_tasks), total=len(all_tasks), desc="Verificando episódios", unit="anime")]
+        
+    print(f"=== CICLO CONCLUÍDO: {sum(1 for r in results if r)} animes com novos episódios. ===")
 
 if __name__ == "__main__":
-    main()
+    if os.name == 'nt': asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    asyncio.run(main())
