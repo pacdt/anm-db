@@ -4,9 +4,9 @@
 :: Muda o diretório de execução para a pasta onde este arquivo está salvo
 cd /d "%~dp0"
 
-:: Aguarda 10 segundos para garantir que a internet conectou após o boot
+:: Aguarda 05 segundos para garantir que a internet conectou após o boot
 echo Aguardando conexao de rede...
-timeout /t 10 /nobreak >nul
+timeout /t 05 /nobreak >nul
 
 :: --- INSTALACAO ---
 echo Verificando dependencias...

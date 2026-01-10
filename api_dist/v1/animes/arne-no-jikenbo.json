@@ -1,0 +1,127 @@
+{
+  "mal_id": 60255,
+  "url": "https://myanimelist.net/anime/60255/Arne_no_Jikenbo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1112/152731.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1112/152731t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1112/152731l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1112/152731.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1112/152731t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1112/152731l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/6zVNs7xRtg4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Arne no Jikenbo"
+    },
+    {
+      "type": "Japanese",
+      "title": "アルネの事件簿"
+    },
+    {
+      "type": "English",
+      "title": "The Case Book of Arne"
+    }
+  ],
+  "title": "Arne no Jikenbo",
+  "title_english": "The Case Book of Arne",
+  "title_japanese": "アルネの事件簿",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4_temp/arne-no-jikenbo/1/720p.mp4"
+    }
+  ],
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-07T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 7, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 8004,
+  "members": 7456,
+  "favorites": 9,
+  "synopsis": "Arne Neuntöte is a vampire detective who manipulates supernatural powers. Lynn Reinweiß is a nobleman's daughter who loves vampires. Their worlds should never have crossed, but they join hands to solve a bloody mystery. In the darkest of nights, Lynn finds herself in desperate need of help. Then she wanders into the mysterious city of \"Lügenberg,\" where non-humans live.\n\nLynn's world changes drastically when she encounters \"Arne,\" a vampire who is called \"the worst\" in the city. And tonight, a new \"murder case\" has occurred. What is the truth behind the bizarre incidents that take place in a world where humanity and the bizarre intersect?\n\n\"Come on, human. You may dance merrily under the crimson moon.\" \n\n(Source: Steam, edited)",
+  "background": "Arne no Jikenbo is based off the RPG Maker game of the same name.",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:29",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:29 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    "Fantasy",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1112/152731l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/6zVNs7xRtg4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60255,
+  "slug": "arne-no-jikenbo"
+}
