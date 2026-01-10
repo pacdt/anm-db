@@ -1,14 +1,126 @@
 {
-  "id": 767,
-  "slug": "burn-up",
-  "type": "legendado",
+  "mal_id": 767,
+  "url": "https://myanimelist.net/anime/767/Burn_Up",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/2888.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/2888t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/2888l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/2888.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/2888t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/2888l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Burn Up!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Burn Up"
+    },
+    {
+      "type": "Japanese",
+      "title": "バーンナップ"
+    }
+  ],
   "title": "Burn Up!",
   "title_english": "Burn Up!",
   "title_japanese": "バーンナップ",
-  "image": "https://cdn.myanimelist.net/images/anime/4/2888l.webp",
+  "title_synonyms": [
+    "Burn Up"
+  ],
+  "type": "legendado",
+  "source": "Original",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s4/mp4/burn-up/sd/1.mp4"
+    }
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1991-03-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 3,
+        "year": 1991
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 21, 1991"
+  },
+  "duration": "45 min",
+  "rating": "R+ - Mild Nudity",
   "score": 6.03,
+  "scored_by": 4588,
+  "rank": 10209,
+  "popularity": 6655,
+  "members": 11737,
+  "favorites": 5,
   "synopsis": "To the unsuspecting eye Maki, Reimi and Yuka may not look like ace crime fighters, which might explain why they're stuck on traffic patrol instead of more \"exciting\" police duties.\n\nAll that changes when Yuka gets herself kidnapped by a white slave organization run by a politically connected businessman who's got the rest of the police cowed.\n\nNow it's up to Maki and Reimi to don skin-tight battle armor, liberate a tank, and make sure that a certain slaver learns that when you play with fire, you're going to get your ass burned!\n\n(Source: DVD Back Cover)",
-  "trailer_url": null,
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1378,
+      "type": "anime",
+      "name": "Media Rings",
+      "url": "https://myanimelist.net/anime/producer/1378/Media_Rings"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
   "genres": [
     "Action",
     "Comedy",
@@ -16,10 +128,18 @@
     "Sci-Fi",
     "Ecchi"
   ],
-  "episodes": [
+  "explicit_genres": [],
+  "themes": [
     {
-      "numero": 1,
-      "url": "https://lightspeedst.net/s4/mp4/burn-up/sd/1.mp4"
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
     }
-  ]
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/2888l.webp",
+  "trailer_url": null,
+  "id": 767,
+  "slug": "burn-up"
 }

@@ -1,15 +1,58 @@
 {
-  "id": 14989,
-  "slug": "chousoku-henkei-gyrozetter",
-  "type": "legendado",
+  "mal_id": 14989,
+  "url": "https://myanimelist.net/anime/14989/Chousoku_Henkei_Gyrozetter",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/41937.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/41937t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/41937l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/41937.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/41937t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/41937l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1nZpNfYmNEI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chousoku Henkei Gyrozetter"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chou Soku Henkei Gyrozetter"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hyper Speed Transforming Gyrozetter"
+    },
+    {
+      "type": "Japanese",
+      "title": "超速変形ジャイロゼッター"
+    }
+  ],
   "title": "Chousoku Henkei Gyrozetter",
   "title_english": "Chousoku Henkei Gyrozetter",
   "title_japanese": "超速変形ジャイロゼッター",
-  "image": "https://cdn.myanimelist.net/images/anime/9/41937l.webp",
-  "score": 6.42,
-  "synopsis": "In 21st century Japan, cars with artificial intelligence for increased safety, known as \"A.I. cars,\" have revolutionized the car industry. Special schools teaching children driving A.I. cars have been established. One day, Kakeru Todoroki, a fifth grader of Arcadia Academy, was summoned by the school principal and given an A.I. car \"to save the humanity by chosen drivers like you.\" The car, however, is not just a car but also a transforming robot known as \"Gyrozetter.\" \n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1nZpNfYmNEI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [],
+  "title_synonyms": [
+    "Chou Soku Henkei Gyrozetter",
+    "Hyper Speed Transforming Gyrozetter"
+  ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -103,5 +146,86 @@
       "numero": 23,
       "url": "https://www.blogger.com/video.g?token=AD6v5dx0nH5ArgOJkOanMYg2IhTNro1mHs_4Iay2TsAx1XbMSGcNfQG8HU4d97tKCllx2KTfXvyYH8EqyTrDrUeMVE5l0xdzvlq7sMltqb9oAFVpHRADm9uZN7HYBj-Jc6WVp4Sn9l06"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-02T00:00:00+00:00",
+    "to": "2013-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Oct 2, 2012 to Sep 24, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.42,
+  "scored_by": 2052,
+  "rank": 7878,
+  "popularity": 8461,
+  "members": 6498,
+  "favorites": 16,
+  "synopsis": "In 21st century Japan, cars with artificial intelligence for increased safety, known as \"A.I. cars,\" have revolutionized the car industry. Special schools teaching children driving A.I. cars have been established. One day, Kakeru Todoroki, a fifth grader of Arcadia Academy, was summoned by the school principal and given an A.I. car \"to save the humanity by chosen drivers like you.\" The car, however, is not just a car but also a transforming robot known as \"Gyrozetter.\" \n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/41937l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1nZpNfYmNEI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 14989,
+  "slug": "chousoku-henkei-gyrozetter"
 }

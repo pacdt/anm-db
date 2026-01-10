@@ -1,18 +1,58 @@
 {
-  "id": 37023,
-  "slug": "layton-mystery-tanteisha-katri-no-nazotoki-file",
-  "type": "legendado",
+  "mal_id": 37023,
+  "url": "https://myanimelist.net/anime/37023/Layton_Mystery_Tanteisha__Katri_no_Nazotoki_File",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1115/90222.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1115/90222t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1115/90222l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1115/90222.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1115/90222t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1115/90222l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/NE_DzSPNUP4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Layton Mystery Tanteisha: Katri no Nazotoki File"
+    },
+    {
+      "type": "Synonym",
+      "title": "LMDA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Layton Mystery Detective Agency: Kat's Mystery-Solving Files"
+    },
+    {
+      "type": "Japanese",
+      "title": "レイトン ミステリー探偵社~カトリーのナゾトキファイル~"
+    }
+  ],
   "title": "Layton Mystery Tanteisha: Katri no Nazotoki File",
   "title_english": "Layton Mystery Tanteisha: Katri no Nazotoki File",
   "title_japanese": "レイトン ミステリー探偵社~カトリーのナゾトキファイル~",
-  "image": "https://cdn.myanimelist.net/images/anime/1115/90222l.webp",
-  "score": 7.23,
-  "synopsis": "The Layton Detective Agency, a business that helps its clients solve unusual mysteries, is run by Katrielle Layton—daughter of the world-renowned archaeology professor Hershel Layton. Together with her assistant Noah Montoir and talking dog Sherl, Katrielle finds herself unraveling cases involving a newly purchased cursed house, a dress imbued with a \"demon's curse,\" and the zombie of a client's deceased spouse, just to name a few. \n\nAside from her more quirky cases, Katrielle has been working on another unsolved problem: the disappearance of her father. Founding the agency was only the first step in her attempt to uncover the truth behind his vanishing. As she continues to take on client after client, each with wackier and stranger issues to tackle, Katrielle steadily closes in on the answer to the biggest mystery of her life.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/NE_DzSPNUP4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Mystery"
+  "title_synonyms": [
+    "LMDA",
+    "Layton Mystery Detective Agency: Kat's Mystery-Solving Files"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -264,5 +304,84 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyGknVZlmM5SW9vpqcAtzMnXfGdskmrwFet1qwWeZnQfc32ABtotKf8xLkE0PMa7EXnlbPRTO9jiWudcUx4Z-t-Ng2oZr-Q74r12uGtjSmOIKTYvOg_CvFGpKDRmqS5PyCitao",
       "nome": "Professor Layton and the Relics Treasure: Final Episode"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-08T00:00:00+00:00",
+    "to": "2019-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Apr 8, 2018 to Mar 31, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG - Children",
+  "score": 7.23,
+  "scored_by": 4334,
+  "rank": 3352,
+  "popularity": 5551,
+  "members": 18575,
+  "favorites": 63,
+  "synopsis": "The Layton Detective Agency, a business that helps its clients solve unusual mysteries, is run by Katrielle Layton—daughter of the world-renowned archaeology professor Hershel Layton. Together with her assistant Noah Montoir and talking dog Sherl, Katrielle finds herself unraveling cases involving a newly purchased cursed house, a dress imbued with a \"demon's curse,\" and the zombie of a client's deceased spouse, just to name a few. \n\nAside from her more quirky cases, Katrielle has been working on another unsolved problem: the disappearance of her father. Founding the agency was only the first step in her attempt to uncover the truth behind his vanishing. As she continues to take on client after client, each with wackier and stranger issues to tackle, Katrielle steadily closes in on the answer to the biggest mystery of her life.\n\n[Written by MAL Rewrite]",
+  "background": "Based on Level 5's Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy game.",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1428,
+      "type": "anime",
+      "name": "Level-5",
+      "url": "https://myanimelist.net/anime/producer/1428/Level-5"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1115/90222l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/NE_DzSPNUP4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37023,
+  "slug": "layton-mystery-tanteisha-katri-no-nazotoki-file"
 }

@@ -1,17 +1,51 @@
 {
-  "id": 33352,
-  "slug": "violet-evergarden",
-  "type": "legendado",
+  "mal_id": 33352,
+  "url": "https://myanimelist.net/anime/33352/Violet_Evergarden",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1795/95088t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1795/95088t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/g5xWqjFglsk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Violet Evergarden"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヴァイオレット・エヴァーガーデン"
+    },
+    {
+      "type": "English",
+      "title": "Violet Evergarden"
+    }
+  ],
   "title": "Violet Evergarden",
   "title_english": "Violet Evergarden",
   "title_japanese": "ヴァイオレット・エヴァーガーデン",
-  "image": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp",
-  "score": 8.69,
-  "synopsis": "The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War's final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.\n\nRecovering from her wounds, Violet starts a new life working at CH Postal Services after a falling out with her new intended guardian family. There, she witnesses by pure chance the work of an \"Auto Memory Doll,\" amanuenses that transcribe people's thoughts and feelings into words on paper. Moved by the notion, Violet begins work as an Auto Memory Doll, a trade that will take her on an adventure, one that will reshape the lives of her clients and hopefully lead to self-discovery.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/g5xWqjFglsk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +112,94 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwBr19xNp_f9O6ru55EokYjU8YLEEFgQSu6Us_mtjakq0GGVkuN5qiZldW6S7LJu4qZoEyW4rVbUkTgL1_u4vpCy_OYoMdig2G47j-WvUkBnt8w_UsELq8_nBhb8qLmMM1LI9o",
       "nome": "Auto Memoir Doll and 'I Love You'"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-11T00:00:00+00:00",
+    "to": "2018-04-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 5,
+        "month": 4,
+        "year": 2018
+      }
+    },
+    "string": "Jan 11, 2018 to Apr 5, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.69,
+  "scored_by": 1069419,
+  "rank": 70,
+  "popularity": 46,
+  "members": 1956998,
+  "favorites": 67806,
+  "synopsis": "The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War's final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.\n\nRecovering from her wounds, Violet starts a new life working at CH Postal Services after a falling out with her new intended guardian family. There, she witnesses by pure chance the work of an \"Auto Memory Doll,\" amanuenses that transcribe people's thoughts and feelings into words on paper. Moved by the notion, Violet begins work as an Auto Memory Doll, a trade that will take her on an adventure, one that will reshape the lives of her clients and hopefully lead to self-discovery.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/g5xWqjFglsk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33352,
+  "slug": "violet-evergarden"
 }

@@ -1,17 +1,62 @@
 {
-  "id": 161,
-  "slug": "peace-maker-kurogane",
-  "type": "legendado",
+  "mal_id": 161,
+  "url": "https://myanimelist.net/anime/161/Peace_Maker_Kurogane",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/77408.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/77408t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/77408l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/77408.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/77408t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/77408l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wqXNWGFAxfU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Peace Maker Kurogane"
+    },
+    {
+      "type": "Synonym",
+      "title": "Peacemaker Kurogane"
+    },
+    {
+      "type": "Synonym",
+      "title": "PMK"
+    },
+    {
+      "type": "Japanese",
+      "title": "PEACE MAKER 鐵"
+    },
+    {
+      "type": "English",
+      "title": "Peace Maker Kurogane"
+    }
+  ],
   "title": "Peace Maker Kurogane",
   "title_english": "Peace Maker Kurogane",
   "title_japanese": "PEACE MAKER 鐵",
-  "image": "https://cdn.myanimelist.net/images/anime/10/77408l.webp",
-  "score": 7.28,
-  "synopsis": "Although traumatized by witnessing the murder of his parents by one of the Choushuu, Ichimura Tetsunosuke's thirst for revenge lead him to desire strength. At the age of 15, Tetsunosuke approached the Shinsengumi, wanting to become one of its members. However, Tetsunosuke lacked the skill, mind and will to emotionlessly cut down whoever threatened peace and the Shinsengumi. Even with the support of his brother Tatsunosuke and his newfound friends of the Shinsengumi, little did Tetsunosuke know the blood and pain he would have to face being part of this historical group.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/wqXNWGFAxfU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "Peacemaker Kurogane",
+    "PMK"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -133,5 +178,114 @@
       "url": "https://lightspeedst.net/s3/mp4/peace-maker-kurogane/sd/24.mp4",
       "nome": "Iron"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-10-08T00:00:00+00:00",
+    "to": "2004-03-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2003
+      },
+      "to": {
+        "day": 24,
+        "month": 3,
+        "year": 2004
+      }
+    },
+    "string": "Oct 8, 2003 to Mar 24, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.28,
+  "scored_by": 24201,
+  "rank": 3084,
+  "popularity": 3146,
+  "members": 60702,
+  "favorites": 279,
+  "synopsis": "Although traumatized by witnessing the murder of his parents by one of the Choushuu, Ichimura Tetsunosuke's thirst for revenge lead him to desire strength. At the age of 15, Tetsunosuke approached the Shinsengumi, wanting to become one of its members. However, Tetsunosuke lacked the skill, mind and will to emotionlessly cut down whoever threatened peace and the Shinsengumi. Even with the support of his brother Tatsunosuke and his newfound friends of the Shinsengumi, little did Tetsunosuke know the blood and pain he would have to face being part of this historical group.",
+  "background": "",
+  "season": "fall",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "GDH",
+      "url": "https://myanimelist.net/anime/producer/42/GDH"
+    },
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 170,
+      "type": "anime",
+      "name": "Imagica",
+      "url": "https://myanimelist.net/anime/producer/170/Imagica"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/10/77408l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/wqXNWGFAxfU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 161,
+  "slug": "peace-maker-kurogane"
 }

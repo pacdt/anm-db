@@ -1,20 +1,69 @@
 {
-  "id": 44203,
-  "slug": "seirei-gensouki-dublado",
-  "type": "dublado",
+  "mal_id": 44203,
+  "url": "https://myanimelist.net/anime/44203/Seirei_Gensouki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1836/116060.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1836/116060t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1836/116060l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1836/116060.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1836/116060t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1836/116060l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3fyHza1aYEo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Seirei Gensouki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Spirit Chronicles"
+    },
+    {
+      "type": "Japanese",
+      "title": "精霊幻想記"
+    },
+    {
+      "type": "English",
+      "title": "Seirei Gensouki: Spirit Chronicles"
+    },
+    {
+      "type": "German",
+      "title": "Seirei Gensouki: Spirit Chronicles"
+    },
+    {
+      "type": "Spanish",
+      "title": "Seirei Gensouki: Spirit Chronicles"
+    },
+    {
+      "type": "French",
+      "title": "Seirei Gensouki: Spirit Chronicles"
+    }
+  ],
   "title": "Seirei Gensouki",
   "title_english": "Seirei Gensouki: Spirit Chronicles",
   "title_japanese": "精霊幻想記",
-  "image": "https://cdn.myanimelist.net/images/anime/1836/116060l.webp",
-  "score": 7.06,
-  "synopsis": "When 20-year-old college student Haruto Amakawa dies in a traffic accident, he does not expect to wake up in an unfamiliar world in the body of a young boy named Rio. As their memories and personas fuse, Rio realizes that he now also possesses magical powers. He is relieved to find that his burning passion for revenge against his mother's murderers has not subsided, despite his newly changed identity.\n\nNot soon after, Rio comes across the kidnapped princess of the Bertram Kingdom and saves her without hesitation. To express his gratitude, the king grants him the opportunity to enroll in the Bertram Royal Academy. Believing this to be a new chapter in his life, he is excited to study at this prestigious academy, but life here proves to be difficult for him, a slum-dweller surrounded by the majestic children of nobles.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3fyHza1aYEo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Spirit Chronicles"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +125,163 @@
       "url": "https://lightspeedst.net/s1/mp4/seirei-gensouki-dublado/sd/12.mp4",
       "nome": "Fated Reunion"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-07-06T00:00:00+00:00",
+    "to": "2021-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2021
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2021
+      }
+    },
+    "string": "Jul 6, 2021 to Sep 21, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.06,
+  "scored_by": 227719,
+  "rank": 4269,
+  "popularity": 579,
+  "members": 443302,
+  "favorites": 3446,
+  "synopsis": "When 20-year-old college student Haruto Amakawa dies in a traffic accident, he does not expect to wake up in an unfamiliar world in the body of a young boy named Rio. As their memories and personas fuse, Rio realizes that he now also possesses magical powers. He is relieved to find that his burning passion for revenge against his mother's murderers has not subsided, despite his newly changed identity.\n\nNot soon after, Rio comes across the kidnapped princess of the Bertram Kingdom and saves her without hesitation. To express his gratitude, the king grants him the opportunity to enroll in the Bertram Royal Academy. Believing this to be a new chapter in his life, he is excited to study at this prestigious academy, but life here proves to be difficult for him, a slum-dweller surrounded by the majestic children of nobles.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2021,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 547,
+      "type": "anime",
+      "name": "Hobby Japan",
+      "url": "https://myanimelist.net/anime/producer/547/Hobby_Japan"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 884,
+      "type": "anime",
+      "name": "Strawberry Meets Pictures",
+      "url": "https://myanimelist.net/anime/producer/884/Strawberry_Meets_Pictures"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1494,
+      "type": "anime",
+      "name": "Kanon Sound",
+      "url": "https://myanimelist.net/anime/producer/1494/Kanon_Sound"
+    },
+    {
+      "mal_id": 1589,
+      "type": "anime",
+      "name": "NichiNare",
+      "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+    },
+    {
+      "mal_id": 1821,
+      "type": "anime",
+      "name": "Melonbooks",
+      "url": "https://myanimelist.net/anime/producer/1821/Melonbooks"
+    },
+    {
+      "mal_id": 2174,
+      "type": "anime",
+      "name": "TMS Music",
+      "url": "https://myanimelist.net/anime/producer/2174/TMS_Music"
+    },
+    {
+      "mal_id": 2236,
+      "type": "anime",
+      "name": "CTW",
+      "url": "https://myanimelist.net/anime/producer/2236/CTW"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1836/116060l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3fyHza1aYEo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 44203,
+  "slug": "seirei-gensouki-dublado"
 }

@@ -1,17 +1,68 @@
 {
-  "id": 23135,
-  "slug": "pripara",
-  "type": "legendado",
+  "mal_id": 23135,
+  "url": "https://myanimelist.net/anime/23135/PriPara",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/75258.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75258t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75258l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/75258.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/75258t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/75258l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wYZbRrStwDI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "PriPara"
+    },
+    {
+      "type": "Synonym",
+      "title": "Puri Para"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pri Para"
+    },
+    {
+      "type": "Synonym",
+      "title": "PuriPara"
+    },
+    {
+      "type": "Synonym",
+      "title": "Prism Paradise"
+    },
+    {
+      "type": "Japanese",
+      "title": "プリパラ"
+    }
+  ],
   "title": "PriPara",
   "title_english": "PriPara",
   "title_japanese": "プリパラ",
-  "image": "https://cdn.myanimelist.net/images/anime/2/75258l.webp",
-  "score": 7.54,
-  "synopsis": "Every little girl waits for the day she'll get her special ticket, one that will grant her entry into the world of PriPara (Prism Paradise). PriPara is a world of music, fashion, and daily auditions for a chance to become a pop idol. Laala Manaka's friends and classmates aspire to become idols, but her school forbids elementary school students from participating in the idol competitions.\n\nLuckily, Laala is only interested in watching the idol shows. Yet somehow despite all this, she manages to bumble her way into the PriPara world, and debut as a fresh new talent. After being told all her life that she's too loud, Laala has finally found a place where she can be as loud as she wants and sing from her heart.\n\nAnd not only that, but there's a possibility that she might be the legendary Prism Voice. Adventure, fashion, and music awaits as Laala climbs her way to the top, on her way to become the cutest and most beloved pop idol in the world of PriPara!",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/wYZbRrStwDI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Puri Para",
+    "Pri Para",
+    "PuriPara",
+    "Prism Paradise"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -713,5 +764,94 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwsafNptoNg7ruWkzwPrWGz5cAk1dLTS6BSLD9u6e_IlDyYrlChnxYgmyBOqHpjgN-vrwizhUFUiMzF2dVIXdLeKsbKLRL8f7rf9PwF-jaPiMrrCagVIiPDumKC8vkOfBq0iKA",
       "nome": "Everyone~ are Friends! Friends For~ever!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-07-05T00:00:00+00:00",
+    "to": "2017-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2014
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jul 5, 2014 to Mar 28, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG - Children",
+  "score": 7.54,
+  "scored_by": 7226,
+  "rank": 1895,
+  "popularity": 4964,
+  "members": 24539,
+  "favorites": 484,
+  "synopsis": "Every little girl waits for the day she'll get her special ticket, one that will grant her entry into the world of PriPara (Prism Paradise). PriPara is a world of music, fashion, and daily auditions for a chance to become a pop idol. Laala Manaka's friends and classmates aspire to become idols, but her school forbids elementary school students from participating in the idol competitions.\n\nLuckily, Laala is only interested in watching the idol shows. Yet somehow despite all this, she manages to bumble her way into the PriPara world, and debut as a fresh new talent. After being told all her life that she's too loud, Laala has finally found a place where she can be as loud as she wants and sing from her heart.\n\nAnd not only that, but there's a possibility that she might be the legendary Prism Voice. Adventure, fashion, and music awaits as Laala climbs her way to the top, on her way to become the cutest and most beloved pop idol in the world of PriPara!",
+  "background": "",
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "17:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 17:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    },
+    {
+      "mal_id": 1025,
+      "type": "anime",
+      "name": "Dongwoo A&E",
+      "url": "https://myanimelist.net/anime/producer/1025/Dongwoo_A_E"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/2/75258l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/wYZbRrStwDI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 23135,
+  "slug": "pripara"
 }

@@ -1,17 +1,51 @@
 {
-  "id": 39583,
-  "slug": "number24",
-  "type": "legendado",
+  "mal_id": 39583,
+  "url": "https://myanimelist.net/anime/39583/number24",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1371/134464.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1371/134464t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1371/134464l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1371/134464.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1371/134464t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1371/134464l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/uxF1YxfqIRY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "number24"
+    },
+    {
+      "type": "Japanese",
+      "title": "number24 ナンバー・トゥーフォー"
+    },
+    {
+      "type": "English",
+      "title": "number24"
+    }
+  ],
   "title": "number24",
   "title_english": "number24",
   "title_japanese": "number24 ナンバー・トゥーフォー",
-  "image": "https://cdn.myanimelist.net/images/anime/1371/134464l.webp",
-  "score": 6.73,
-  "synopsis": "Natsuza Yuzuki has been playing rugby as a left-winger ever since he was a child. After enrolling in Doushisha University, he quickly becomes a rising star in the Kansai University League.\n\nHis dreams are shattered, however, when a nasty motorbike accident leaves him with a spinal hernia—making him unable to be able to play rugby ever again. With no role available other than the position of manager, he accepts his new post and hopes his squad can obtain a league title.\n\nYuzuki's team is an unlikely group, including his stoic best friend and full-back Seiichirou Jingyouji; hot-headed first-year Yasunari Tsuru, who harbors a strong dislike for Natsuza, filling his senior's old position as left wing; and Yuu Mashiro, who is struggling to hold his ground as a scrum half.\n\nDespite Natsuza putting his all into training his team for a league title, their squad still feels incomplete. A year ago, Ibuki Ueka, the genius fly-half that was once Doushisha's ace, suddenly quit rugby—and now Natsuza is determined to get him back.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/uxF1YxfqIRY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +107,113 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz3boku0ORlLdo4t7rxKM38da77Y8CIFIGCRtnWTGHoJjpWPhsAGh7SYPXe-4z-a1N95yeDIIe5538zUZR5qn19kkliea5n1WMH7nIZfUgjWsrKzCdd3NAwPQl5H3Cfma9960Q",
       "nome": "Omnibus Episode"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-08T00:00:00+00:00",
+    "to": "2020-04-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 15,
+        "month": 4,
+        "year": 2020
+      }
+    },
+    "string": "Jan 8, 2020 to Apr 15, 2020"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.73,
+  "scored_by": 22088,
+  "rank": 5939,
+  "popularity": 2966,
+  "members": 67604,
+  "favorites": 275,
+  "synopsis": "Natsuza Yuzuki has been playing rugby as a left-winger ever since he was a child. After enrolling in Doushisha University, he quickly becomes a rising star in the Kansai University League.\n\nHis dreams are shattered, however, when a nasty motorbike accident leaves him with a spinal hernia—making him unable to be able to play rugby ever again. With no role available other than the position of manager, he accepts his new post and hopes his squad can obtain a league title.\n\nYuzuki's team is an unlikely group, including his stoic best friend and full-back Seiichirou Jingyouji; hot-headed first-year Yasunari Tsuru, who harbors a strong dislike for Natsuza, filling his senior's old position as left wing; and Yuu Mashiro, who is struggling to hold his ground as a scrum half.\n\nDespite Natsuza putting his all into training his team for a league title, their squad still feels incomplete. A year ago, Ibuki Ueka, the genius fly-half that was once Doushisha's ace, suddenly quit rugby—and now Natsuza is determined to get him back.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 2103,
+      "type": "anime",
+      "name": "Mime Corporation",
+      "url": "https://myanimelist.net/anime/producer/2103/Mime_Corporation"
+    },
+    {
+      "mal_id": 2104,
+      "type": "anime",
+      "name": "it's",
+      "url": "https://myanimelist.net/anime/producer/2104/its"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 753,
+      "type": "anime",
+      "name": "PRA",
+      "url": "https://myanimelist.net/anime/producer/753/PRA"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1371/134464l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/uxF1YxfqIRY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39583,
+  "slug": "number24"
 }

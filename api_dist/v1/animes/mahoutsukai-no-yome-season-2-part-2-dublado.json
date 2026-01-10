@@ -1,19 +1,51 @@
 {
-  "id": 55742,
-  "slug": "mahoutsukai-no-yome-season-2-part-2-dublado",
-  "type": "dublado",
+  "mal_id": 55742,
+  "url": "https://myanimelist.net/anime/55742/Mahoutsukai_no_Yome_Season_2_Part_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1801/138944.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/138944t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/138944l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1801/138944.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/138944t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/138944l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/i27QYesj8qA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mahoutsukai no Yome Season 2 Part 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔法使いの嫁 SEASON2 第2クール"
+    },
+    {
+      "type": "English",
+      "title": "The Ancient Magus' Bride Season 2 Part 2"
+    }
+  ],
   "title": "Mahoutsukai no Yome Season 2 Part 2",
   "title_english": "The Ancient Magus' Bride Season 2 Part 2",
   "title_japanese": "魔法使いの嫁 SEASON2 第2クール",
-  "image": "https://cdn.myanimelist.net/images/anime/1801/138944l.webp",
-  "score": 7.91,
-  "synopsis": "Following a series of attacks that have left teachers and students alike sapped of their magic, headmistress Liza Quillyn decides to seal off the College, rendering it impossible to enter or leave the premises. As a result, Philomela Sargant is unable to comply with her grandmother Lizbeth's order to withdraw from the school.\n\nTrapped inside the College, Chise Hatori and her classmates begin to adjust to their novel and stressful circumstances. But as time goes on, Philomela's condition only gets worse—both mentally and physically. Meanwhile, details about the tragic past of Chise's roommate, Lucy Webster, continue to resurface. As Chise grapples with worries about her friends and with her evolving self, the identity of the mysterious magic-draining culprit plaguing the College may finally come to light.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/i27QYesj8qA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Fantasy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +107,128 @@
       "url": "https://lightspeedst.net/s7/mp4/mahoutsukai-no-yome-season-2-part-2-dublado/fhd/12.mp4",
       "nome": "The Show Must Go On. I"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-05T00:00:00+00:00",
+    "to": "2023-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2023
+      }
+    },
+    "string": "Oct 5, 2023 to Dec 21, 2023"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.91,
+  "scored_by": 48697,
+  "rank": 845,
+  "popularity": 2084,
+  "members": 118917,
+  "favorites": 337,
+  "synopsis": "Following a series of attacks that have left teachers and students alike sapped of their magic, headmistress Liza Quillyn decides to seal off the College, rendering it impossible to enter or leave the premises. As a result, Philomela Sargant is unable to comply with her grandmother Lizbeth's order to withdraw from the school.\n\nTrapped inside the College, Chise Hatori and her classmates begin to adjust to their novel and stressful circumstances. But as time goes on, Philomela's condition only gets worse—both mentally and physically. Meanwhile, details about the tragic past of Chise's roommate, Lucy Webster, continue to resurface. As Chise grapples with worries about her friends and with her evolving self, the identity of the mysterious magic-draining culprit plaguing the College may finally come to light.\n\n[Written by MAL Rewrite]",
+  "background": "Mahoutsukai no Yome Season 2 Part 2 was released on Blu-ray in two volumes from February 28, 2024, to March 27, 2024.",
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1452,
+      "type": "anime",
+      "name": "Mag Garden",
+      "url": "https://myanimelist.net/anime/producer/1452/Mag_Garden"
+    },
+    {
+      "mal_id": 1639,
+      "type": "anime",
+      "name": "Chiptune",
+      "url": "https://myanimelist.net/anime/producer/1639/Chiptune"
+    },
+    {
+      "mal_id": 1747,
+      "type": "anime",
+      "name": "Twin Engine",
+      "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2205,
+      "type": "anime",
+      "name": "Studio Kafka",
+      "url": "https://myanimelist.net/anime/producer/2205/Studio_Kafka"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1801/138944l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/i27QYesj8qA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 55742,
+  "slug": "mahoutsukai-no-yome-season-2-part-2-dublado"
 }

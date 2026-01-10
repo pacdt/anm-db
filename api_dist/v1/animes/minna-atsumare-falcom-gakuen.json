@@ -1,17 +1,53 @@
 {
-  "id": 21427,
-  "slug": "minna-atsumare-falcom-gakuen",
-  "type": "legendado",
+  "mal_id": 21427,
+  "url": "https://myanimelist.net/anime/21427/Minna_Atsumare_Falcom_Gakuen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/56549.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/56549t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/56549l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/56549.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/56549t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/56549l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Ey_UoTI_GLQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Everyone Assemble! Falcom Academy"
+    },
+    {
+      "type": "Japanese",
+      "title": "みんな集まれ！ファルコム学園"
+    }
+  ],
   "title": "Minna Atsumare! Falcom Gakuen",
   "title_english": "Minna Atsumare! Falcom Gakuen",
   "title_japanese": "みんな集まれ！ファルコム学園",
-  "image": "https://cdn.myanimelist.net/images/anime/10/56549l.webp",
-  "score": 5.97,
-  "synopsis": "Characters from various games released by Falcom (e.g. Dragon Slayer, The Legend of Heroes, and Ys series) come together in a school.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Ey_UoTI_GLQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Everyone Assemble! Falcom Academy"
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +101,82 @@
       "numero": 13,
       "url": "https://www.blogger.com/video.g?token=AD6v5dw11r28twLnSxbtH7Gu2RLvgqWTBRI34yKOpUJuz1igKibIvRJ67k33NmTRnbLviXRQCVJ6JXkSW98ofjS8pD3Em8j3-waiarjhStyfXQFCFSaJYLUM1f1nDQFK0sUH-T52QTg"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-05T00:00:00+00:00",
+    "to": "2014-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 5, 2014 to Mar 30, 2014"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.97,
+  "scored_by": 2411,
+  "rank": 10539,
+  "popularity": 8475,
+  "members": 6477,
+  "favorites": 6,
+  "synopsis": "Characters from various games released by Falcom (e.g. Dragon Slayer, The Legend of Heroes, and Ys series) come together in a school.",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/10/56549l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Ey_UoTI_GLQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 21427,
+  "slug": "minna-atsumare-falcom-gakuen"
 }

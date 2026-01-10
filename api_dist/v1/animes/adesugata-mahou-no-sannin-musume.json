@@ -1,21 +1,141 @@
 {
-  "id": 5246,
-  "slug": "adesugata-mahou-no-sannin-musume",
-  "type": "legendado",
+  "mal_id": 5246,
+  "url": "https://myanimelist.net/anime/5246/Adesugata_Mahou_no_Sannin_Musume",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1477/104687.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1477/104687t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/104687l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1477/104687.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1477/104687t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/104687l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Adesugata Mahou no Sannin Musume"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mami"
+    },
+    {
+      "type": "Synonym",
+      "title": "Emi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pelsia: Adesugata Mahou no Sannin Musume"
+    },
+    {
+      "type": "Synonym",
+      "title": "Charming Figures of the Magical Girl Trio"
+    },
+    {
+      "type": "Synonym",
+      "title": "Adesugata Mahou no Mami Persia Emi"
+    },
+    {
+      "type": "Japanese",
+      "title": "艶姿魔法の三人娘 [マミ·ペルシャ·エミ]"
+    }
+  ],
   "title": "Adesugata Mahou no Sannin Musume",
   "title_english": "Adesugata Mahou no Sannin Musume",
   "title_japanese": "艶姿魔法の三人娘 [マミ·ペルシャ·エミ]",
-  "image": "https://cdn.myanimelist.net/images/anime/1477/104687l.webp",
-  "score": 5.27,
-  "synopsis": "A recap-heavy crossover special in which Mami, Persia, and Emi go to a hot spring together.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Mami",
+    "Emi",
+    "Pelsia: Adesugata Mahou no Sannin Musume",
+    "Charming Figures of the Magical Girl Trio",
+    "Adesugata Mahou no Mami Persia Emi"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dz90r1qRu3E2Eq71cdzaqpe99aSnActQPJ-GMdGLmF3icSR7Qu_0oAla42pId8b54PDAV-N1-4OCrnLlDD3rRu7rMXyTZ7DoFnyrhp9cCs38NwcQLlSYc3HT4_LFN_YhDGFqCsB"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1986-03-28T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 3,
+        "year": 1986
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 28, 1986"
+  },
+  "duration": "29 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.27,
+  "scored_by": 841,
+  "rank": 13403,
+  "popularity": 12492,
+  "members": 1995,
+  "favorites": 1,
+  "synopsis": "A recap-heavy crossover special in which Mami, Persia, and Emi go to a hot spring together.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1477/104687l.webp",
+  "trailer_url": null,
+  "id": 5246,
+  "slug": "adesugata-mahou-no-sannin-musume"
 }

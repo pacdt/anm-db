@@ -1,17 +1,51 @@
 {
-  "id": 34104,
-  "slug": "knight-s-magic",
-  "type": "legendado",
+  "mal_id": 34104,
+  "url": "https://myanimelist.net/anime/34104/Knights___Magic",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1472/93813.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1472/93813t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1472/93813l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1472/93813.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1472/93813t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1472/93813l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/p4gSzsfTsFA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Knight's & Magic"
+    },
+    {
+      "type": "Japanese",
+      "title": "ナイツ&マジック"
+    },
+    {
+      "type": "English",
+      "title": "Knight's & Magic"
+    }
+  ],
   "title": "Knight's & Magic",
   "title_english": "Knight's & Magic",
   "title_japanese": "ナイツ&マジック",
-  "image": "https://cdn.myanimelist.net/images/anime/1472/93813l.webp",
-  "score": 7.07,
-  "synopsis": "Having died in a car accident, Tsubasa Kurata—an otaku from modern Japan—is reborn in the Fremmevilla Kingdom, a medieval world where powerful mechs called Silhouette Knights are used to fight horrific demonic beasts.\n\nBorn into a noble family under the name of Ernesti Echevarria and bestowed with prodigious magical abilities, he enrolls into Royal Laihaila Academy. This school of magic trains young men and women on how to pilot the Silhouette Knights, prepping them to protect the kingdom from threats, both demonic and human. Ernesti teams up with the twins named Adeltrud and Archid Olter with the goal to create his own Silhouette Knight one day, a feat unheard of for several centuries.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/p4gSzsfTsFA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +112,137 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzy3QYpeMVc0QV4_7p2yY-0QQosVzJmWrdN7tHrt6wyOi2qRk1SUggaUAXaGeOxUzoZjfvV4W-uhi9w2F-5pO3ncCIcaDwAjPCfGT5m5meRUG30YR8hSa1ULsM0Vp1-5GN8nr4",
       "nome": "Heaven & Earth"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-02T00:00:00+00:00",
+    "to": "2017-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2017
+      }
+    },
+    "string": "Jul 2, 2017 to Sep 24, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.07,
+  "scored_by": 142868,
+  "rank": 4245,
+  "popularity": 942,
+  "members": 287980,
+  "favorites": 1105,
+  "synopsis": "Having died in a car accident, Tsubasa Kurata—an otaku from modern Japan—is reborn in the Fremmevilla Kingdom, a medieval world where powerful mechs called Silhouette Knights are used to fight horrific demonic beasts.\n\nBorn into a noble family under the name of Ernesti Echevarria and bestowed with prodigious magical abilities, he enrolls into Royal Laihaila Academy. This school of magic trains young men and women on how to pilot the Silhouette Knights, prepping them to protect the kingdom from threats, both demonic and human. Ernesti teams up with the twins named Adeltrud and Archid Olter with the goal to create his own Silhouette Knight one day, a feat unheard of for several centuries.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2017,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "21:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 21:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1287,
+      "type": "anime",
+      "name": "Q-Tec",
+      "url": "https://myanimelist.net/anime/producer/1287/Q-Tec"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 441,
+      "type": "anime",
+      "name": "8bit",
+      "url": "https://myanimelist.net/anime/producer/441/8bit"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1472/93813l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/p4gSzsfTsFA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34104,
+  "slug": "knight-s-magic"
 }

@@ -1,17 +1,66 @@
 {
-  "id": 17389,
-  "slug": "kingdom-2nd-season",
-  "type": "legendado",
+  "mal_id": 17389,
+  "url": "https://myanimelist.net/anime/17389/Kingdom_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/53589.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/53589t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/53589l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/53589.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/53589t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/53589l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kingdom 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kingdom Hisho Hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kingdom: Dai 2 Series"
+    },
+    {
+      "type": "Japanese",
+      "title": "キングダム 第2シリーズ"
+    },
+    {
+      "type": "English",
+      "title": "Kingdom: Season 2"
+    },
+    {
+      "type": "French",
+      "title": "Kingdom Saison 2"
+    }
+  ],
   "title": "Kingdom 2nd Season",
   "title_english": "Kingdom: Season 2",
   "title_japanese": "キングダム 第2シリーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/13/53589l.webp",
-  "score": 8.29,
-  "synopsis": "A year after the devastating battle against the formidable Zhao, the State of Qin has returned its focus to pursuing King Ying Zheng's ambition of conquering the other six states and unifying China. Their next target is Wei, a smaller state which stands as a geographic stepping stone for the sake of conquest.\n\nXin, now a three hundred man commander of the swiftly rising Fei Xin Unit, continues to seek out lofty achievements in order to garner recognition for himself and his soldiers, motivated by those previously lost in battle. In the preliminary battles ahead of Qin's invasion of Wei, Xin finds competition in other young commanders who are of a higher social status than him. Back in Qin, the royal palace faces turmoil as opposing factions begin to make their move against Ying Zheng's regime.\n\nWith their hands full both abroad and at home, Zheng and Xin must lead the way in this era of unending war, resolved to etch their names in history by creating a unified China.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "Kingdom Hisho Hen",
+    "Kingdom: Dai 2 Series"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -208,5 +257,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxixDCu5XOEjocCpmq8_i13rGZ_WekCvsgtMo14jbKUFbSrIrJfIVZWj9u7A2LwflZJuM8hw6Ec1cqxnRdbfF43P6hVjlRxuhYLsbINunN9utPuq0tYgAU0p0Oa2xNaVSd-bKM",
       "nome": "A New Legend"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-06-08T00:00:00+00:00",
+    "to": "2014-03-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 6,
+        "year": 2013
+      },
+      "to": {
+        "day": 2,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jun 8, 2013 to Mar 2, 2014"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.29,
+  "scored_by": 72180,
+  "rank": 312,
+  "popularity": 1768,
+  "members": 146264,
+  "favorites": 943,
+  "synopsis": "A year after the devastating battle against the formidable Zhao, the State of Qin has returned its focus to pursuing King Ying Zheng's ambition of conquering the other six states and unifying China. Their next target is Wei, a smaller state which stands as a geographic stepping stone for the sake of conquest.\n\nXin, now a three hundred man commander of the swiftly rising Fei Xin Unit, continues to seek out lofty achievements in order to garner recognition for himself and his soldiers, motivated by those previously lost in battle. In the preliminary battles ahead of Qin's invasion of Wei, Xin finds competition in other young commanders who are of a higher social status than him. Back in Qin, the royal palace faces turmoil as opposing factions begin to make their move against Ying Zheng's regime.\n\nWith their hands full both abroad and at home, Zheng and Xin must lead the way in this era of unending war, resolved to etch their names in history by creating a unified China.\n\n[Written by MAL Rewrite]",
+  "background": "Kingdom 2nd Season adapts chapters 174-261 of the original manga.",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/13/53589l.webp",
+  "trailer_url": null,
+  "id": 17389,
+  "slug": "kingdom-2nd-season"
 }

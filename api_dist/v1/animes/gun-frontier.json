@@ -1,20 +1,47 @@
 {
-  "id": 1706,
-  "slug": "gun-frontier",
-  "type": "legendado",
+  "mal_id": 1706,
+  "url": "https://myanimelist.net/anime/1706/Gun_Frontier",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/15442.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/15442t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/15442l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/15442.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/15442t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/15442l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gun Frontier"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガンフロンティア"
+    }
+  ],
   "title": "Gun Frontier",
   "title_english": "Gun Frontier",
   "title_japanese": "ガンフロンティア",
-  "image": "https://cdn.myanimelist.net/images/anime/5/15442l.webp",
-  "score": 6.52,
-  "synopsis": "It is a harsh and barren wasteland, where the weak aren't allowed to dream. It is also a sacred land for true men, for there is no place a man can feel more alive. This is the Gun Frontier. Sea Pirate Captain Harlock and the errant samurai, Tochiro arrive in the United States on the Western Frontier. Along with a mysterious woman they meet along the way, the two friends challenge sex rings, bandits, and corrupt sheriff. They are searching for a lost clan of Japanese immigrants, and they will tear Gun Frontier from end to end until they find it.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -81,5 +108,105 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwHZTbw4E_RCnMYkCfS_mdwP-eHA_-HV8Oh-DU_l5Psn3RHWI4Ko2pOsPqqNHbFb4QFRU-ZIH1EFukHbmL4eRT7973BQzp0tZV1VNAu9AIpchCfWjKfu07sx5cxMwpeNhESEsE",
       "nome": "Tracks Towards the Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-03-28T00:00:00+00:00",
+    "to": "2002-06-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 3,
+        "year": 2002
+      },
+      "to": {
+        "day": 20,
+        "month": 6,
+        "year": 2002
+      }
+    },
+    "string": "Mar 28, 2002 to Jun 20, 2002"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.52,
+  "scored_by": 4280,
+  "rank": 7288,
+  "popularity": 6499,
+  "members": 12420,
+  "favorites": 25,
+  "synopsis": "It is a harsh and barren wasteland, where the weak aren't allowed to dream. It is also a sacred land for true men, for there is no place a man can feel more alive. This is the Gun Frontier. Sea Pirate Captain Harlock and the errant samurai, Tochiro arrive in the United States on the Western Frontier. Along with a mysterious woman they meet along the way, the two friends challenge sex rings, bandits, and corrupt sheriff. They are searching for a lost clan of Japanese immigrants, and they will tear Gun Frontier from end to end until they find it.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2002,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 258,
+      "type": "anime",
+      "name": "Echo",
+      "url": "https://myanimelist.net/anime/producer/258/Echo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 136,
+      "type": "anime",
+      "name": "Vega Entertainment",
+      "url": "https://myanimelist.net/anime/producer/136/Vega_Entertainment"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/5/15442l.webp",
+  "trailer_url": null,
+  "id": 1706,
+  "slug": "gun-frontier"
 }

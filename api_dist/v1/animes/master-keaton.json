@@ -1,19 +1,53 @@
 {
-  "id": 1483,
-  "slug": "master-keaton",
-  "type": "legendado",
+  "mal_id": 1483,
+  "url": "https://myanimelist.net/anime/1483/Master_Keaton",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/73931.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73931t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73931l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/73931.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73931t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73931l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Master Keaton"
+    },
+    {
+      "type": "Synonym",
+      "title": "Master Keaton: Blood and Bullets"
+    },
+    {
+      "type": "Japanese",
+      "title": "マスターキートン"
+    }
+  ],
   "title": "Master Keaton",
   "title_english": "Master Keaton",
   "title_japanese": "マスターキートン",
-  "image": "https://cdn.myanimelist.net/images/anime/7/73931l.webp",
-  "score": 7.61,
-  "synopsis": "The amazing Taichi Keaton works on cases around the globe that always lead to adventure! He combines his arsenal of multidisciplinary expertise in investigation, archeology, and survival with his experience as a professor, a Falklands Conflict veteran and a SAS agent to unravel the often dangerous challenges in each riveting episode.\n\n(Source: Geneon Entertainment USA)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Drama",
-    "Mystery"
+  "title_synonyms": [
+    "Master Keaton: Blood and Bullets"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +169,110 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyc1w5j47Cy6owfbeOzNk0KaalcaInpIFxdVwVpU52mjEP_rBuwr9BaUj0bwu4l8tLHS82zKiFEHeEOfqFq6SnwESys8PK_lWNo1-1TLzBIvTE9PCBgAWQtZiu-_ydn9fMd3Q",
       "nome": "The Day the Op Was Born"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-10-06T00:00:00+00:00",
+    "to": "1999-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 1998
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 1999
+      }
+    },
+    "string": "Oct 6, 1998 to Mar 30, 1999"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.61,
+  "scored_by": 6638,
+  "rank": 1647,
+  "popularity": 4419,
+  "members": 31828,
+  "favorites": 163,
+  "synopsis": "The amazing Taichi Keaton works on cases around the globe that always lead to adventure! He combines his arsenal of multidisciplinary expertise in investigation, archeology, and survival with his experience as a professor, a Falklands Conflict veteran and a SAS agent to unravel the often dangerous challenges in each riveting episode.\n\n(Source: Geneon Entertainment USA)",
+  "background": "",
+  "season": "fall",
+  "year": 1998,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "00:50",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 00:50 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/73931l.webp",
+  "trailer_url": null,
+  "id": 1483,
+  "slug": "master-keaton"
 }

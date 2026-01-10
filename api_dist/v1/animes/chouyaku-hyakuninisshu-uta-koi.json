@@ -1,18 +1,69 @@
 {
-  "id": 13349,
-  "slug": "chouyaku-hyakuninisshu-uta-koi",
-  "type": "legendado",
+  "mal_id": 13349,
+  "url": "https://myanimelist.net/anime/13349/Chouyaku_Hyakuninisshu__Uta_Koi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/42007.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/42007t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/42007l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/42007.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/42007t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/42007l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chouyaku Hyakuninisshu: Uta Koi."
+    },
+    {
+      "type": "Synonym",
+      "title": "Utakoi."
+    },
+    {
+      "type": "Japanese",
+      "title": "超訳百人一首 うた恋い。"
+    },
+    {
+      "type": "English",
+      "title": "Utakoi"
+    },
+    {
+      "type": "German",
+      "title": "Utakoi"
+    },
+    {
+      "type": "Spanish",
+      "title": "Utakoi"
+    },
+    {
+      "type": "French",
+      "title": "Utakoi"
+    }
+  ],
   "title": "Chouyaku Hyakuninisshu: Uta Koi.",
   "title_english": "Utakoi",
   "title_japanese": "超訳百人一首 うた恋い。",
-  "image": "https://cdn.myanimelist.net/images/anime/7/42007l.webp",
-  "score": 7.42,
-  "synopsis": "Uta Koi tells the \"super-liberal interpretation\" of the Hyakuninisshu anthology compiled during Japan's Heian period of 100 romantic poems from 100 different poets such as The Tale of Genji's Murasaki Shikibu.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Utakoi."
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +130,102 @@
       "url": "https://lightspeedst.net/s4/mp4/chouyaku-hyakuninisshu-uta-koi/sd/13.mp4",
       "nome": "Teika and Noriko \\ Princess Shokushi Gon Chunagon Teika"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-07-03T00:00:00+00:00",
+    "to": "2012-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2012
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2012
+      }
+    },
+    "string": "Jul 3, 2012 to Sep 25, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.42,
+  "scored_by": 9150,
+  "rank": 2392,
+  "popularity": 4403,
+  "members": 32099,
+  "favorites": 136,
+  "synopsis": "Uta Koi tells the \"super-liberal interpretation\" of the Hyakuninisshu anthology compiled during Japan's Heian period of 100 romantic poems from 100 different poets such as The Tale of Genji's Murasaki Shikibu.",
+  "background": "",
+  "season": "summer",
+  "year": 2012,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 333,
+      "type": "anime",
+      "name": "TYO Animations",
+      "url": "https://myanimelist.net/anime/producer/333/TYO_Animations"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/42007l.webp",
+  "trailer_url": null,
+  "id": 13349,
+  "slug": "chouyaku-hyakuninisshu-uta-koi"
 }

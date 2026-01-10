@@ -1,18 +1,62 @@
 {
-  "id": 6203,
-  "slug": "sasameki-koto",
-  "type": "legendado",
+  "mal_id": 6203,
+  "url": "https://myanimelist.net/anime/6203/Sasameki_Koto",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/75225.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75225t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75225l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/75225.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75225t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75225l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sasameki Koto"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sasamekikoto"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sasame Kikoto"
+    },
+    {
+      "type": "Japanese",
+      "title": "ささめきこと"
+    },
+    {
+      "type": "English",
+      "title": "Whispered Words"
+    }
+  ],
   "title": "Sasameki Koto",
   "title_english": "Whispered Words",
   "title_japanese": "ささめきこと",
-  "image": "https://cdn.myanimelist.net/images/anime/9/75225l.webp",
-  "score": 7.05,
-  "synopsis": "Murasame Sumika is popular in the high school for her excellence in the marks and sports. However, she has a secret: she is in love with her classmate Kazama Ushio. Ushio also has a liking to the love between girls, but she hasn't noticed Sumika's feelings and has always been refused by other girls.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Girls Love"
+  "title_synonyms": [
+    "Sasamekikoto",
+    "Sasame Kikoto"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +123,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxWV8erd0oG1rQh-5kr51UN5S4IEdIQJW3WFiYIyqOYWKOfMjfaPneOaSJBf68UbQwdP7F6MO410q3d4Wx6p-nTzek5EsWEfYjiWZwqPzRQVv56tc0_5Zik3u10XA3vdRFKzcA",
       "nome": "Calling You"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-08T00:00:00+00:00",
+    "to": "2009-12-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      }
+    },
+    "string": "Oct 8, 2009 to Dec 31, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.05,
+  "scored_by": 27956,
+  "rank": 4343,
+  "popularity": 2701,
+  "members": 79275,
+  "favorites": 314,
+  "synopsis": "Murasame Sumika is popular in the high school for her excellence in the marks and sports. However, she has a secret: she is in love with her classmate Kazama Ushio. Ushio also has a liking to the love between girls, but she hasn't noticed Sumika's feelings and has always been refused by other girls.",
+  "background": "",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "02:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 02:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Girls Love"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/9/75225l.webp",
+  "trailer_url": null,
+  "id": 6203,
+  "slug": "sasameki-koto"
 }

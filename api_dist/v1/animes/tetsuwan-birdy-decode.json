@@ -1,19 +1,62 @@
 {
-  "id": 3974,
-  "slug": "tetsuwan-birdy-decode",
-  "type": "legendado",
+  "mal_id": 3974,
+  "url": "https://myanimelist.net/anime/3974/Tetsuwan_Birdy_Decode",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1242/95178.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/95178t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/95178l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1242/95178.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1242/95178t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1242/95178l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/fX1a3fWQ_D4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tetsuwan Birdy Decode"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tetsuwan Birdy (2008)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Birdy the Mighty TV"
+    },
+    {
+      "type": "Japanese",
+      "title": "鉄腕バーディー (2008)"
+    },
+    {
+      "type": "English",
+      "title": "Birdy the Mighty: Decode"
+    }
+  ],
   "title": "Tetsuwan Birdy Decode",
   "title_english": "Birdy the Mighty: Decode",
   "title_japanese": "鉄腕バーディー (2008)",
-  "image": "https://cdn.myanimelist.net/images/anime/1242/95178l.webp",
-  "score": 7.4,
-  "synopsis": "While pursuing an alien fugitive, Birdy Cephon Altera—a bombastic police officer from the Space Federation—finds herself on Earth. Her target, Geega, has disguised himself as a human and assimilated into the fashion industry, so Birdy follows suit and joins a modeling agency, taking on the identity \"Shion Arita.\" Her position as a rising model has her posing for photo shoots by day and chasing intergalactic criminals by night.\n\nMeanwhile, Tsutomu Senkawa, an average high school student, explores an abandoned building with his friend, and coincidentally, Birdy has tracked down Geega to the same building. Senkawa briefly witnesses the battle before being seized as a hostage by Geega. However, Birdy, oblivious, attacks Geega and accidentally kills Senkawa. Distraught, she quickly decides to save him by integrating his consciousness into her body.\n\nNow, Birdy and Senkawa must not only cohabitate the same body, but also balance Senkawa's high school life, Shion Arita's modeling career, and Birdy's increasingly dangerous job as a Federation officer.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/fX1a3fWQ_D4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Tetsuwan Birdy (2008)",
+    "Birdy the Mighty TV"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +123,91 @@
       "url": "https://lightspeedst.net/s3/mp4/tetsuwan-birdy-decode/sd/13.mp4",
       "nome": "Stand By Me"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-07-05T00:00:00+00:00",
+    "to": "2008-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2008
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Jul 5, 2008 to Sep 27, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.4,
+  "scored_by": 36789,
+  "rank": 2466,
+  "popularity": 2286,
+  "members": 103067,
+  "favorites": 413,
+  "synopsis": "While pursuing an alien fugitive, Birdy Cephon Altera—a bombastic police officer from the Space Federation—finds herself on Earth. Her target, Geega, has disguised himself as a human and assimilated into the fashion industry, so Birdy follows suit and joins a modeling agency, taking on the identity \"Shion Arita.\" Her position as a rising model has her posing for photo shoots by day and chasing intergalactic criminals by night.\n\nMeanwhile, Tsutomu Senkawa, an average high school student, explores an abandoned building with his friend, and coincidentally, Birdy has tracked down Geega to the same building. Senkawa briefly witnesses the battle before being seized as a hostage by Geega. However, Birdy, oblivious, attacks Geega and accidentally kills Senkawa. Distraught, she quickly decides to save him by integrating his consciousness into her body.\n\nNow, Birdy and Senkawa must not only cohabitate the same body, but also balance Senkawa's high school life, Shion Arita's modeling career, and Birdy's increasingly dangerous job as a Federation officer.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2008,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1242/95178l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/fX1a3fWQ_D4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 3974,
+  "slug": "tetsuwan-birdy-decode"
 }

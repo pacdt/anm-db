@@ -1,19 +1,53 @@
 {
-  "id": 25517,
-  "slug": "magic-kaito-1412",
-  "type": "legendado",
+  "mal_id": 25517,
+  "url": "https://myanimelist.net/anime/25517/Magic_Kaito_1412",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/67807.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/67807t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/67807l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/67807.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/67807t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/67807l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Magic Kaito 1412"
+    },
+    {
+      "type": "Synonym",
+      "title": "Magic Kaito 2014"
+    },
+    {
+      "type": "Japanese",
+      "title": "まじっく快斗1412"
+    }
+  ],
   "title": "Magic Kaito 1412",
   "title_english": "Magic Kaito 1412",
   "title_japanese": "まじっく快斗1412",
-  "image": "https://cdn.myanimelist.net/images/anime/3/67807l.webp",
-  "score": 7.86,
-  "synopsis": "Eight years after the mysterious death of his father, Kaito Kuroba, a slightly mischievous but otherwise ordinary teenager, discovers a shocking secret: the Phantom Thief Kaito Kid—also known as \"The Magician Under the Moonlight\"—was none other than his own father. The former thief was murdered by a criminal organization seeking a mythical stone called the Pandora Gem, said to shed a tear with the passing of the Valley Comet that comes every ten thousand years. When the tear is consumed, the gem supposedly grants immortality.\n\nVowing to bring those responsible for his father's death to justice, Kaito dons the Phantom Thief's disguise, stealing priceless jewels night after night to find the Pandora Gem before his enemies can use the power for themselves.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Magic Kaito 2014"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +169,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy_J3-05r0GlSnNMOv3lArjiLyPS909zZNfcS-B-Mqp34nonXFQdO5SGmr-o90QlyJ3P2s-a-td1Cqp-6nGLwvTY512RJTtPBIU16mUT2k4BNj2nn3UqqePwMYc4eZmhKKJrGDL",
       "nome": "Midnight Crow (Part 2): Clash! Black or White!?"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-04T00:00:00+00:00",
+    "to": "2015-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2015
+      }
+    },
+    "string": "Oct 4, 2014 to Mar 28, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.86,
+  "scored_by": 60874,
+  "rank": 960,
+  "popularity": 1897,
+  "members": 134313,
+  "favorites": 1146,
+  "synopsis": "Eight years after the mysterious death of his father, Kaito Kuroba, a slightly mischievous but otherwise ordinary teenager, discovers a shocking secret: the Phantom Thief Kaito Kid—also known as \"The Magician Under the Moonlight\"—was none other than his own father. The former thief was murdered by a criminal organization seeking a mythical stone called the Pandora Gem, said to shed a tear with the passing of the Valley Comet that comes every ten thousand years. When the tear is consumed, the gem supposedly grants immortality.\n\nVowing to bring those responsible for his father's death to justice, Kaito dons the Phantom Thief's disguise, stealing priceless jewels night after night to find the Pandora Gem before his enemies can use the power for themselves.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/67807l.webp",
+  "trailer_url": null,
+  "id": 25517,
+  "slug": "magic-kaito-1412"
 }

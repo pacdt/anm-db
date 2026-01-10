@@ -1,19 +1,63 @@
 {
-  "id": 34745,
-  "slug": "mahoujin-guruguru-2017",
-  "type": "legendado",
+  "mal_id": 34745,
+  "url": "https://myanimelist.net/anime/34745/Mahoujin_Guruguru_2017",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/103168.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/103168t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/103168l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1880/103168.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/103168t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/103168l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/hKMHvrDcNKU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mahoujin Guruguru (2017)"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔法陣グルグル"
+    },
+    {
+      "type": "English",
+      "title": "Magical Circle"
+    },
+    {
+      "type": "German",
+      "title": "Magical Circle Guru-Guru"
+    },
+    {
+      "type": "Spanish",
+      "title": "Magical Circle Guru-Guru"
+    },
+    {
+      "type": "French",
+      "title": "Magical Circle Guru-Guru"
+    }
+  ],
   "title": "Mahoujin Guruguru (2017)",
   "title_english": "Magical Circle",
   "title_japanese": "魔法陣グルグル",
-  "image": "https://cdn.myanimelist.net/images/anime/1880/103168l.webp",
-  "score": 7.79,
-  "synopsis": "Nike was a simple boy from Boering Village, and the last thing he ever wanted was to become a hero. But when a sign appears from the king of Ainshent Castle Town recruiting heroes to slay the Demon Lord Giri, Nike's father enthusiastically forces him out the door. Along with Kukuri, a member of the Migu Migu Clan, Nike sets out on an adventure to become the legendary hero that the world needs.\n\nAs Nike and Kukuri travel across different continents, they attempt to learn the secrets of Guru Guru Magic, a strange but powerful type of magic used to seal Demon Lord Giri's power. While reluctantly taking on their assigned quest, the duo does not fail to acquire new comrades and have fun along the way.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/hKMHvrDcNKU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -135,5 +179,121 @@
       "url": "https://lightspeedst.net/s2/mp4/mahoujin-guruguru-2017/sd/24.mp4",
       "nome": "Engaged! A Heart in Love!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-11T00:00:00+00:00",
+    "to": "2017-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2017
+      }
+    },
+    "string": "Jul 11, 2017 to Dec 20, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.79,
+  "scored_by": 10927,
+  "rank": 1131,
+  "popularity": 4233,
+  "members": 35100,
+  "favorites": 243,
+  "synopsis": "Nike was a simple boy from Boering Village, and the last thing he ever wanted was to become a hero. But when a sign appears from the king of Ainshent Castle Town recruiting heroes to slay the Demon Lord Giri, Nike's father enthusiastically forces him out the door. Along with Kukuri, a member of the Migu Migu Clan, Nike sets out on an adventure to become the legendary hero that the world needs.\n\nAs Nike and Kukuri travel across different continents, they attempt to learn the secrets of Guru Guru Magic, a strange but powerful type of magic used to seal Demon Lord Giri's power. While reluctantly taking on their assigned quest, the duo does not fail to acquire new comrades and have fun along the way.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2017,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1880/103168l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/hKMHvrDcNKU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34745,
+  "slug": "mahoujin-guruguru-2017"
 }

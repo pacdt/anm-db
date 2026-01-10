@@ -1,17 +1,57 @@
 {
-  "id": 23121,
-  "slug": "jinsei",
-  "type": "legendado",
+  "mal_id": 23121,
+  "url": "https://myanimelist.net/anime/23121/Jinsei",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/64299.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/64299t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/64299l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/64299.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/64299t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/64299l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/d2BVEHmOLcM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jinsei"
+    },
+    {
+      "type": "Synonym",
+      "title": "Life"
+    },
+    {
+      "type": "Japanese",
+      "title": "人生相談テレビアニメーション「人生」"
+    },
+    {
+      "type": "English",
+      "title": "JINSEI -Life Consulting-"
+    }
+  ],
   "title": "Jinsei",
   "title_english": "JINSEI -Life Consulting-",
   "title_japanese": "人生相談テレビアニメーション「人生」",
-  "image": "https://cdn.myanimelist.net/images/anime/5/64299l.webp",
-  "score": 6.46,
-  "synopsis": "Yuuki Akamatsu lives a normal high school life... that is until his cousin, Ayaka Nikaidou, convinces him to join the Journalism Club as a life consultant! His new job is to manage the advice column for the school's weekly newspaper to help him become more social. Soon, Yuuki is joined by three girls: the smart and shy Rino Endou, the athletic and outgoing Ikumi Suzuki, and the cultured and sweet Fumi Kujou. Together, they solve the personal problems of those who anonymously ask for advice.\n\nAlthough each of the new life consultants has their own unique perspective, they are able to reach solutions together by holding debates and social experiments throughout the week. However, as time goes on, the four slowly come to realize that they have not only been guiding other students through their troubles, but also working through problems of their own as well.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/d2BVEHmOLcM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Life"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +118,89 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzZo8vpekdV7iV-Ez5sq4G1-DsNAbw0RgAqbVFR_djipKnl94OtQkDnzmahrmE3r_g0rqxElU45RAOfkEl1WmD6k6vrZDKy6ZyvD8cN6jhAkjyEHj5E45cl0GoNJhXpLP6cSmQ",
       "nome": "Hidden Plot"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-07-06T00:00:00+00:00",
+    "to": "2014-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2014
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2014
+      }
+    },
+    "string": "Jul 6, 2014 to Sep 28, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.46,
+  "scored_by": 26051,
+  "rank": 7630,
+  "popularity": 2821,
+  "members": 73913,
+  "favorites": 70,
+  "synopsis": "Yuuki Akamatsu lives a normal high school life... that is until his cousin, Ayaka Nikaidou, convinces him to join the Journalism Club as a life consultant! His new job is to manage the advice column for the school's weekly newspaper to help him become more social. Soon, Yuuki is joined by three girls: the smart and shy Rino Endou, the athletic and outgoing Ikumi Suzuki, and the cultured and sweet Fumi Kujou. Together, they solve the personal problems of those who anonymously ask for advice.\n\nAlthough each of the new life consultants has their own unique perspective, they are able to reach solutions together by holding debates and social experiments throughout the week. However, as time goes on, the four slowly come to realize that they have not only been guiding other students through their troubles, but also working through problems of their own as well.\n\n[Written by MAL Rewrite]",
+  "background": "Jinsei adapts the first 5 novels of Ougyo Kawashigi's light novel series of the same title.",
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 91,
+      "type": "anime",
+      "name": "feel.",
+      "url": "https://myanimelist.net/anime/producer/91/feel"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/64299l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/d2BVEHmOLcM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 23121,
+  "slug": "jinsei"
 }

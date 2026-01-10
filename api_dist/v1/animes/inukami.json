@@ -1,20 +1,53 @@
 {
-  "id": 940,
-  "slug": "inukami",
-  "type": "legendado",
+  "mal_id": 940,
+  "url": "https://myanimelist.net/anime/940/Inukami",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1405/110246t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1405/110246l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1405/110246.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1405/110246t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1405/110246l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Inukami!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dog Gods!"
+    },
+    {
+      "type": "Japanese",
+      "title": "いぬかみっ!"
+    }
+  ],
   "title": "Inukami!",
   "title_english": "Inukami!",
   "title_japanese": "いぬかみっ!",
-  "image": "https://cdn.myanimelist.net/images/anime/1405/110246l.webp",
-  "score": 7.21,
-  "synopsis": "Kawahira Keita is a descendant of a historic Inukami tamer family; however, because he lacked in its ability, he was forsaken by the family. One day, an Inukami named Youko came. She looked graceful, obedient, above all, beautiful. Soon he contracted with her, and she paid homage to him. However, she was a problematic Inukami that no one had been able to control.\n\nThis is a slap stick comedy of an Inukami Tamer, Keita and an Inukami, Youko. Keita is a man of worldly passions, and he likes money and girls very much. On the other hand, Youko likes to destroy things and is very jealous.\n\n(Source: AnimeNfo)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Supernatural",
-    "Ecchi"
+  "title_synonyms": [
+    "Dog Gods!"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -120,5 +153,91 @@
       "numero": 26,
       "url": "https://lightspeedst.net/s3/mp4/inukami/sd/26.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-04-06T00:00:00+00:00",
+    "to": "2006-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2006
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2006
+      }
+    },
+    "string": "Apr 6, 2006 to Sep 28, 2006"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.21,
+  "scored_by": 29632,
+  "rank": 3430,
+  "popularity": 2857,
+  "members": 72175,
+  "favorites": 203,
+  "synopsis": "Kawahira Keita is a descendant of a historic Inukami tamer family; however, because he lacked in its ability, he was forsaken by the family. One day, an Inukami named Youko came. She looked graceful, obedient, above all, beautiful. Soon he contracted with her, and she paid homage to him. However, she was a problematic Inukami that no one had been able to control.\n\nThis is a slap stick comedy of an Inukami Tamer, Keita and an Inukami, Youko. Keita is a man of worldly passions, and he likes money and girls very much. On the other hand, Youko likes to destroy things and is very jealous.\n\n(Source: AnimeNfo)",
+  "background": "",
+  "season": "spring",
+  "year": 2006,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Seven Arcs",
+      "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1405/110246l.webp",
+  "trailer_url": null,
+  "id": 940,
+  "slug": "inukami"
 }

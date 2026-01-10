@@ -1,17 +1,79 @@
 {
-  "id": 34257,
-  "slug": "cinderella-girls-gekijou",
-  "type": "legendado",
+  "mal_id": 34257,
+  "url": "https://myanimelist.net/anime/34257/Cinderella_Girls_Gekijou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/89786.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/89786t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/89786l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/89786.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/89786t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/89786l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/9in1ampGgFA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cinderella Girls Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "The iDOLM@STER Cinderella Girls Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Idolmaster Cinderella Girls Gekijou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cingeki"
+    },
+    {
+      "type": "Japanese",
+      "title": "シンデレラガールズ劇場"
+    },
+    {
+      "type": "English",
+      "title": "THE IDOLM@STER CINDERELLA GIRLS Theater"
+    },
+    {
+      "type": "German",
+      "title": "The Idolm@ster Cinderella Girls Theater"
+    },
+    {
+      "type": "Spanish",
+      "title": "The Idolm@ster Cinderella Girls Theater"
+    },
+    {
+      "type": "French",
+      "title": "The iDOLM@STER Cinderella Girls Gekijou"
+    }
+  ],
   "title": "Cinderella Girls Gekijou",
   "title_english": "THE IDOLM@STER CINDERELLA GIRLS Theater",
   "title_japanese": "シンデレラガールズ劇場",
-  "image": "https://cdn.myanimelist.net/images/anime/10/89786l.webp",
-  "score": 6.55,
-  "synopsis": "The girls of 346 Productions are back in this bite-sized look at their personal lives! Follow the idols of the Cinderella Project as they take a break from their hectic routine and instead go on vacations, eat at restaurants, and partake in other cheerful activities. Whether their faithful producer is along for the ride or just their fellow idols, everyone knows how to make the most of their days off.\n\nDeparting from its regular format, Cinderella Girls Gekijou is composed of several skits packed into shorter three-minute episodes, focusing on one or more characters at a time.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/9in1ampGgFA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "The iDOLM@STER Cinderella Girls Gekijou",
+    "The Idolmaster Cinderella Girls Gekijou",
+    "Cingeki"
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -234,5 +296,119 @@
       "numero": 52,
       "url": "https://lightspeedst.net/s3/mp4/cinderella-girls-gekijou/sd/52.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-04T00:00:00+00:00",
+    "to": "2017-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Apr 4, 2017 to Jun 27, 2017"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.55,
+  "scored_by": 6102,
+  "rank": 7055,
+  "popularity": 5359,
+  "members": 20393,
+  "favorites": 31,
+  "synopsis": "The girls of 346 Productions are back in this bite-sized look at their personal lives! Follow the idols of the Cinderella Project as they take a break from their hectic routine and instead go on vacations, eat at restaurants, and partake in other cheerful activities. Whether their faithful producer is along for the ride or just their fellow idols, everyone knows how to make the most of their days off.\n\nDeparting from its regular format, Cinderella Girls Gekijou is composed of several skits packed into shorter three-minute episodes, focusing on one or more characters at a time.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "21:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 21:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 1233,
+      "type": "anime",
+      "name": "Bandai Namco Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+    },
+    {
+      "mal_id": 1510,
+      "type": "anime",
+      "name": "Anime Consortium Japan",
+      "url": "https://myanimelist.net/anime/producer/1510/Anime_Consortium_Japan"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 400,
+      "type": "anime",
+      "name": "Gathering",
+      "url": "https://myanimelist.net/anime/producer/400/Gathering"
+    },
+    {
+      "mal_id": 1829,
+      "type": "anime",
+      "name": "Lesprit",
+      "url": "https://myanimelist.net/anime/producer/1829/Lesprit"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/89786l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/9in1ampGgFA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34257,
+  "slug": "cinderella-girls-gekijou"
 }

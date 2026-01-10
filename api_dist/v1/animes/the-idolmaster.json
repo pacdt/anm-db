@@ -1,18 +1,61 @@
 {
-  "id": 10278,
-  "slug": "the-idolmaster",
-  "type": "legendado",
+  "mal_id": 10278,
+  "url": "https://myanimelist.net/anime/10278/The_iDOLMSTER",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1682/142758.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1682/142758t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1682/142758l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1682/142758.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1682/142758t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1682/142758l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/sz53h6_Iq_4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "The iDOLM@STER"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Idolmaster"
+    },
+    {
+      "type": "Japanese",
+      "title": "アイドルマスター"
+    },
+    {
+      "type": "English",
+      "title": "THE IDOLM@STER"
+    },
+    {
+      "type": "German",
+      "title": "THE IDOLM@STER"
+    }
+  ],
   "title": "The iDOLM@STER",
   "title_english": "THE IDOLM@STER",
   "title_japanese": "アイドルマスター",
-  "image": "https://cdn.myanimelist.net/images/anime/1682/142758l.webp",
-  "score": 7.6,
-  "synopsis": "765 Production Studio manages the unique talents of 13 professional idols as they slowly make their way to the top and become country-wide celebrities. But the girls' journey is far from just fun and games: hard work, sweat, and tears are some of the prerequisites needed to flourish in this industry—and for 765 Pro in particular, a watchful eye out for their rival, the infamous 961 Production.\n\nAs the girls' fame grows, however, their time together as a family diminishes, and now the very popularity they sought is threatening to tear them apart. A difficult balance of work and bonding must be achieved, or they risk everyone going their separate ways. The personal and professional ordeals of these idols can not be conquered alone, but with each other's loving support, any obstacle or hardship can be overcome!\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/sz53h6_Iq_4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama"
+  "title_synonyms": [
+    "The Idolmaster"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +186,101 @@
       "numero": 26,
       "url": "https://lightspeedst.net/s2/mp4/the-idolmaster/sd/26.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-08T00:00:00+00:00",
+    "to": "2011-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2011
+      }
+    },
+    "string": "Jul 8, 2011 to Dec 23, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.6,
+  "scored_by": 55812,
+  "rank": 1668,
+  "popularity": 1657,
+  "members": 158913,
+  "favorites": 1718,
+  "synopsis": "765 Production Studio manages the unique talents of 13 professional idols as they slowly make their way to the top and become country-wide celebrities. But the girls' journey is far from just fun and games: hard work, sweat, and tears are some of the prerequisites needed to flourish in this industry—and for 765 Pro in particular, a watchful eye out for their rival, the infamous 961 Production.\n\nAs the girls' fame grows, however, their time together as a family diminishes, and now the very popularity they sought is threatening to tear them apart. A difficult balance of work and bonding must be achieved, or they risk everyone going their separate ways. The personal and professional ordeals of these idols can not be conquered alone, but with each other's loving support, any obstacle or hardship can be overcome!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 1233,
+      "type": "anime",
+      "name": "Bandai Namco Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1233/Bandai_Namco_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1682/142758l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/sz53h6_Iq_4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 10278,
+  "slug": "the-idolmaster"
 }

@@ -1,17 +1,47 @@
 {
-  "id": 42585,
-  "slug": "black-cat-dublado",
-  "type": "dublado",
+  "mal_id": 42585,
+  "url": "https://myanimelist.net/anime/42585/Black_Cat_Movie",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1322/108714.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1322/108714t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1322/108714l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1322/108714.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1322/108714t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1322/108714l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Black Cat (Movie)"
+    },
+    {
+      "type": "Japanese",
+      "title": "Black Cat"
+    }
+  ],
   "title": "Black Cat (Movie)",
   "title_english": "Black Cat (Movie)",
   "title_japanese": "Black Cat",
-  "image": "https://cdn.myanimelist.net/images/anime/1322/108714l.webp",
-  "score": null,
-  "synopsis": "A short film by Keiichi Tanaami featuring the song Fushiawase to Iu Na no Neko by Maki Asakawa.",
-  "trailer_url": null,
-  "genres": [
-    "Avant Garde"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -109,5 +139,62 @@
       "numero": 24,
       "url": "https://lightspeedst.net/s3/mp4/black-cat-dublado/sd/24.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1972-01-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 1,
+        "year": 1972
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "1972"
+  },
+  "duration": "2 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": null,
+  "scored_by": null,
+  "rank": 20410,
+  "popularity": 18108,
+  "members": 499,
+  "favorites": 2,
+  "synopsis": "A short film by Keiichi Tanaami featuring the song Fushiawase to Iu Na no Neko by Maki Asakawa.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    "Avant Garde"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1322/108714l.webp",
+  "trailer_url": null,
+  "id": 42585,
+  "slug": "black-cat-dublado"
 }

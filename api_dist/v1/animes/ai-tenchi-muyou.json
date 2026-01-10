@@ -1,18 +1,53 @@
 {
-  "id": 24699,
-  "slug": "ai-tenchi-muyou",
-  "type": "legendado",
+  "mal_id": 24699,
+  "url": "https://myanimelist.net/anime/24699/Ai_Tenchi_Muyou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/67801.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67801t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67801l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/67801.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67801t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67801l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ai Tenchi Muyou!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tenchi Muyo! Love"
+    },
+    {
+      "type": "Japanese",
+      "title": "愛・天地無用!"
+    }
+  ],
   "title": "Ai Tenchi Muyou!",
   "title_english": "Ai Tenchi Muyou!",
   "title_japanese": "愛・天地無用!",
-  "image": "https://cdn.myanimelist.net/images/anime/12/67801l.webp",
-  "score": 6.14,
-  "synopsis": "The franchise is celebrating its 20th anniversary with this new project.\n\nNote: The recap episodes are not included in the main episode count and are now included here.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Tenchi Muyo! Love"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -304,5 +339,83 @@
       "numero": 60,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyuppPf0YGHmHAmxQcuURqX0WT4jBI7RE0p_5dR7oqQy9NGx4Gc3J9LD8o79Q_jh4b8WiLIn7Mr9kBmEF5IzBWip4bEGiCW2fKH1oi_yGa2ETbW2NiuRKEKddeTLYDZaufN9zRy"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-06T00:00:00+00:00",
+    "to": "2014-12-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 26,
+        "month": 12,
+        "year": 2014
+      }
+    },
+    "string": "Oct 6, 2014 to Dec 26, 2014"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.14,
+  "scored_by": 11714,
+  "rank": 9581,
+  "popularity": 4025,
+  "members": 38859,
+  "favorites": 44,
+  "synopsis": "The franchise is celebrating its 20th anniversary with this new project.\n\nNote: The recap episodes are not included in the main episode count and are now included here.",
+  "background": "",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Not scheduled once per week"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 292,
+      "type": "anime",
+      "name": "AIC PLUS+",
+      "url": "https://myanimelist.net/anime/producer/292/AIC_PLUS_"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/67801l.webp",
+  "trailer_url": null,
+  "id": 24699,
+  "slug": "ai-tenchi-muyou"
 }

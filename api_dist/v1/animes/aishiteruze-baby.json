@@ -1,19 +1,76 @@
 {
-  "id": 102,
-  "slug": "aishiteruze-baby",
-  "type": "legendado",
+  "mal_id": 102,
+  "url": "https://myanimelist.net/anime/102/Aishiteruze_Baby★★",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/69665.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/69665t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/69665l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/69665.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/69665t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/69665l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Aishiteruze Baby★★"
+    },
+    {
+      "type": "Synonym",
+      "title": "Aishiteru ze Baby"
+    },
+    {
+      "type": "Synonym",
+      "title": "Love You Baby"
+    },
+    {
+      "type": "Synonym",
+      "title": "I Love You"
+    },
+    {
+      "type": "Synonym",
+      "title": "Baby"
+    },
+    {
+      "type": "Japanese",
+      "title": "愛してるぜ ベイベ★★"
+    },
+    {
+      "type": "English",
+      "title": "Babe, My Love"
+    },
+    {
+      "type": "French",
+      "title": "Babe My Love"
+    }
+  ],
   "title": "Aishiteruze Baby★★",
   "title_english": "Babe, My Love",
   "title_japanese": "愛してるぜ ベイベ★★",
-  "image": "https://cdn.myanimelist.net/images/anime/2/69665l.webp",
-  "score": 7.43,
-  "synopsis": "Katakura Kippei is in every way a high school playboy. Spending his days flirting with any girl he can see, responsibility is the last thing on his mind. Life takes an unexpected turn for him as one day he returns home to find himself with the full-time task of caring for his 5-year-old cousin. Kippei's aunt Miyako had disappeared, appearing to have abandoned his cousin, Yuzuyu. With Kippei's lack of responsibility and knowledge of childcare and Yuzuyu's injured heart with the disappearance of her mother, their time together is in for a bumpy ride.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Aishiteru ze Baby",
+    "Love You Baby",
+    "I Love You",
+    "Baby"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +202,91 @@
       "url": "https://lightspeedst.net/s3/mp4/aishiteruze-baby/sd/26.mp4",
       "nome": "I Love Everyone, Everyone"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-04-03T00:00:00+00:00",
+    "to": "2004-10-09T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 9,
+        "month": 10,
+        "year": 2004
+      }
+    },
+    "string": "Apr 3, 2004 to Oct 9, 2004"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.43,
+  "scored_by": 55087,
+  "rank": 2323,
+  "popularity": 2230,
+  "members": 106959,
+  "favorites": 562,
+  "synopsis": "Katakura Kippei is in every way a high school playboy. Spending his days flirting with any girl he can see, responsibility is the last thing on his mind. Life takes an unexpected turn for him as one day he returns home to find himself with the full-time task of caring for his 5-year-old cousin. Kippei's aunt Miyako had disappeared, appearing to have abandoned his cousin, Yuzuyu. With Kippei's lack of responsibility and knowledge of childcare and Yuzuyu's injured heart with the disappearance of her mother, their time together is in for a bumpy ride.",
+  "background": "",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 140,
+      "type": "anime",
+      "name": "Animax",
+      "url": "https://myanimelist.net/anime/producer/140/Animax"
+    },
+    {
+      "mal_id": 141,
+      "type": "anime",
+      "name": "Toei Video",
+      "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Childcare",
+      "url": "https://myanimelist.net/anime/genre/53/Childcare"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/2/69665l.webp",
+  "trailer_url": null,
+  "id": 102,
+  "slug": "aishiteruze-baby"
 }

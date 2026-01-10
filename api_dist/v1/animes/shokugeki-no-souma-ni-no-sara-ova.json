@@ -1,18 +1,67 @@
 {
-  "id": 34480,
-  "slug": "shokugeki-no-souma-ni-no-sara-ova",
-  "type": "legendado",
+  "mal_id": 34480,
+  "url": "https://myanimelist.net/anime/34480/Shokugeki_no_Souma__Ni_no_Sara_OVA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1032/96640.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/96640t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/96640l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1032/96640.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/96640t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/96640l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Asx0p5uCn4U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shokugeki no Souma: Ni no Sara OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shokugeki no Souma: Ni no Sara - Jump Festa 2016 Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shokugeki no Soma: Ni no Sara OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shokugeki no Souma 2nd Season OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "食戟のソーマ 弍ノ皿"
+    },
+    {
+      "type": "English",
+      "title": "Food Wars! The Second Plate OVA"
+    }
+  ],
   "title": "Shokugeki no Souma: Ni no Sara OVA",
   "title_english": "Food Wars! The Second Plate OVA",
   "title_japanese": "食戟のソーマ 弍ノ皿",
-  "image": "https://cdn.myanimelist.net/images/anime/1032/96640l.webp",
-  "score": 7.45,
-  "synopsis": "Having completed their Stagiaire assignments, the residents of Polar Star Dormitory and their friends visit a hot springs inn. Though they planned on relaxing, these young chefs step up to the plate when the inn's entire kitchen staff suffer accidents. Unbeknownst to them, they will not be cooking for any ordinary patrons.\n\nSometime after this trip, Souma Yukihira's desire for worthy opponents is stoked when he, Megumi Tadokoro, and the other Autumn Election quarter-finalists are invited to the annual Autumn Leaves Viewing event. The eight Tootsuki freshmen have a special opportunity to enjoy tea with the Elite Ten Council—including the Tenth Seat Erina Nakiri, who participates alongside her first-year classmates. Though it is framed as a friendly introduction between nine promising underclassmen and nine prestigious upperclassmen, Director Senzaemon Nakiri sees this meeting for what it is: a first encounter between the current reigning elite and their eventual usurpers. \n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Asx0p5uCn4U?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Gourmet",
-    "Ecchi"
+  "title_synonyms": [
+    "Shokugeki no Souma: Ni no Sara - Jump Festa 2016 Special",
+    "Shokugeki no Soma: Ni no Sara OVA",
+    "Shokugeki no Souma 2nd Season OVA"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -24,5 +73,114 @@
       "url": "https://lightspeedst.net/s4/mp4/shokugeki-no-souma-ni-no-sara-ova/sd/2.mp4",
       "nome": "Episode 2"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-05-01T00:00:00+00:00",
+    "to": "2017-07-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 5,
+        "year": 2017
+      },
+      "to": {
+        "day": 4,
+        "month": 7,
+        "year": 2017
+      }
+    },
+    "string": "May 1, 2017 to Jul 4, 2017"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.45,
+  "scored_by": 88134,
+  "rank": 2249,
+  "popularity": 1546,
+  "members": 174407,
+  "favorites": 110,
+  "synopsis": "Having completed their Stagiaire assignments, the residents of Polar Star Dormitory and their friends visit a hot springs inn. Though they planned on relaxing, these young chefs step up to the plate when the inn's entire kitchen staff suffer accidents. Unbeknownst to them, they will not be cooking for any ordinary patrons.\n\nSometime after this trip, Souma Yukihira's desire for worthy opponents is stoked when he, Megumi Tadokoro, and the other Autumn Election quarter-finalists are invited to the annual Autumn Leaves Viewing event. The eight Tootsuki freshmen have a special opportunity to enjoy tea with the Elite Ten Council—including the Tenth Seat Erina Nakiri, who participates alongside her first-year classmates. Though it is framed as a friendly introduction between nine promising underclassmen and nine prestigious upperclassmen, Director Senzaemon Nakiri sees this meeting for what it is: a first encounter between the current reigning elite and their eventual usurpers. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Gourmet",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1032/96640l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Asx0p5uCn4U?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34480,
+  "slug": "shokugeki-no-souma-ni-no-sara-ova"
 }

@@ -1,17 +1,62 @@
 {
-  "id": 11079,
-  "slug": "kill-me-baby",
-  "type": "legendado",
+  "mal_id": 11079,
+  "url": "https://myanimelist.net/anime/11079/Kill_Me_Baby",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/87197.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/87197t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/87197l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/87197.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/87197t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/87197l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/QCJowuoBTMY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kill Me Baby"
+    },
+    {
+      "type": "Synonym",
+      "title": "Baby"
+    },
+    {
+      "type": "Synonym",
+      "title": "Please Kill Me."
+    },
+    {
+      "type": "Japanese",
+      "title": "キルミーベイベー"
+    },
+    {
+      "type": "English",
+      "title": "Kill Me Baby"
+    }
+  ],
   "title": "Kill Me Baby",
   "title_english": "Kill Me Baby",
   "title_japanese": "キルミーベイベー",
-  "image": "https://cdn.myanimelist.net/images/anime/9/87197l.webp",
-  "score": 6.87,
-  "synopsis": "Kill Me Baby is the touching story of Yasuna, a normal (?) high school girl, and Sonya, her best friend who happens to be an assassin. Unfortunately, little Sonya's trained assassin instincts often work against her and others in her daily high school life, as Yasuna's often-broken wrist can attest to. She just wanted a hug, but she ended up with a broken neck. Isn't it sad? No, it's hilarious.\n\nNot even Yasuna's intense ninja training can prepare her for the exciting adventures in this explosive 4-panel manga adaptation.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/QCJowuoBTMY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Baby",
+    "Please Kill Me."
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +123,101 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyNLKmcEUASY5vpdY2Hcs0wbVeLWh25pF06q31r3nxmPR4HnxQP307E_lV9BEuHmnlDWpsvNeuDoU_PSBqu9_DunuTsmklK0IghJmJzp559RLsD9CHkdBC9_KOLjXRDbjA6sQDO",
       "nome": "Make the Kill Me and Make Me Your Baby"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-06T00:00:00+00:00",
+    "to": "2012-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2012
+      }
+    },
+    "string": "Jan 6, 2012 to Mar 30, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.87,
+  "scored_by": 53163,
+  "rank": 5186,
+  "popularity": 1954,
+  "members": 129417,
+  "favorites": 600,
+  "synopsis": "Kill Me Baby is the touching story of Yasuna, a normal (?) high school girl, and Sonya, her best friend who happens to be an assassin. Unfortunately, little Sonya's trained assassin instincts often work against her and others in her daily high school life, as Yasuna's often-broken wrist can attest to. She just wanted a hug, but she ended up with a broken neck. Isn't it sad? No, it's hilarious.\n\nNot even Yasuna's intense ninja training can prepare her for the exciting adventures in this explosive 4-panel manga adaptation.",
+  "background": "",
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/87197l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/QCJowuoBTMY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 11079,
+  "slug": "kill-me-baby"
 }

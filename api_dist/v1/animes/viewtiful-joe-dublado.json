@@ -1,19 +1,53 @@
 {
-  "id": 278,
-  "slug": "viewtiful-joe-dublado",
-  "type": "dublado",
+  "mal_id": 278,
+  "url": "https://myanimelist.net/anime/278/Viewtiful_Joe",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/278.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/278t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/278l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/278.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/278t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/278l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/8SzLFT94MPU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Viewtiful Joe"
+    },
+    {
+      "type": "Synonym",
+      "title": "Beautiful Joe"
+    },
+    {
+      "type": "Japanese",
+      "title": "ビューティフル ジョー"
+    }
+  ],
   "title": "Viewtiful Joe",
   "title_english": "Viewtiful Joe",
   "title_japanese": "ビューティフル ジョー",
-  "image": "https://cdn.myanimelist.net/images/anime/1/278l.webp",
-  "score": 6.77,
-  "synopsis": "Joe, a red-headed movie buff, and Silvia, his girlfriend, are having a bit of relationship trouble. Silvia feels that Joe is taking her for-granted and wants to do something together for once, so Joe decides to take her to see an old action movie featuring his favorite hero, Captain Blue. What started out as a cute movie date takes a turn for the worst when Silvia is pulled into the movie by the leader of the evil organization, Jado.\n\nJoe follows her into the mysterious \"Movieland,\" and is granted a powerful device known as a V-Watch by Captain Blue himself. With it, he transforms into the action hero named \"Viewtiful Joe\" and goes off to rescue his girlfriend before she can be used by Jado to take over the world. It's a long road to go from average Joe to full-blown hero, but he'll give it his all to save both his girl and the world—and he'll do it in the most \"view-ti-ful\" way possible.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/8SzLFT94MPU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Beautiful Joe"
   ],
+  "type": "dublado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -270,5 +304,96 @@
       "url": "https://lightspeedst.net/s2/mp4/viewtiful-joe-dublado/sd/51.mp4",
       "nome": "Tomorrow's Hero is You!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-02T00:00:00+00:00",
+    "to": "2005-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2005
+      }
+    },
+    "string": "Oct 2, 2004 to Sep 24, 2005"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.77,
+  "scored_by": 5869,
+  "rank": 5718,
+  "popularity": 6352,
+  "members": 13105,
+  "favorites": 28,
+  "synopsis": "Joe, a red-headed movie buff, and Silvia, his girlfriend, are having a bit of relationship trouble. Silvia feels that Joe is taking her for-granted and wants to do something together for once, so Joe decides to take her to see an old action movie featuring his favorite hero, Captain Blue. What started out as a cute movie date takes a turn for the worst when Silvia is pulled into the movie by the leader of the evil organization, Jado.\n\nJoe follows her into the mysterious \"Movieland,\" and is granted a powerful device known as a V-Watch by Captain Blue himself. With it, he transforms into the action hero named \"Viewtiful Joe\" and goes off to rescue his girlfriend before she can be used by Jado to take over the world. It's a long road to go from average Joe to full-blown hero, but he'll give it his all to save both his girl and the world—and he'll do it in the most \"view-ti-ful\" way possible.",
+  "background": "Viewtiful Joe is an adaptation of a video game of the same title created by CAPCOM.",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "07:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 07:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 240,
+      "type": "anime",
+      "name": "Capcom",
+      "url": "https://myanimelist.net/anime/producer/240/Capcom"
+    },
+    {
+      "mal_id": 2823,
+      "type": "anime",
+      "name": "We've Inc.",
+      "url": "https://myanimelist.net/anime/producer/2823/Weve_Inc"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 86,
+      "type": "anime",
+      "name": "Group TAC",
+      "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1/278l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/8SzLFT94MPU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 278,
+  "slug": "viewtiful-joe-dublado"
 }

@@ -1,17 +1,51 @@
 {
-  "id": 30251,
-  "slug": "venus-project-climax",
-  "type": "legendado",
+  "mal_id": 30251,
+  "url": "https://myanimelist.net/anime/30251/Venus_Project__Climax",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/74980.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/74980t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/74980l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/74980.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/74980t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/74980l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Venus Project: Climax"
+    },
+    {
+      "type": "Japanese",
+      "title": "VENUS PROJECT（ヴィーナス プロジェクト）－CLIMAX－"
+    },
+    {
+      "type": "English",
+      "title": "Venus Project: Climax"
+    }
+  ],
   "title": "Venus Project: Climax",
   "title_english": "Venus Project: Climax",
   "title_japanese": "VENUS PROJECT（ヴィーナス プロジェクト）－CLIMAX－",
-  "image": "https://cdn.myanimelist.net/images/anime/8/74980l.webp",
-  "score": 5.28,
-  "synopsis": "In the near future, Japan has developed sophisticated digital and image technology. People are enthusiastic for a new type of entertainment called \"FORMULA VENUS.\" Abbreviated as \"F-V,\" it is a sorted live battle of the top idol performances based on the idols' power, techniques, and developed experience. The story is about the drama that happens among the girls in VENUS PROJECT as they aim for the top by concentrating on difficult battles, passion, and friendship.\n\n(Source: MAL News)",
-  "trailer_url": null,
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -43,5 +77,89 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzzlrcKEVUt541U60Yt24_xDtl3qZATvwDYp1ZlO6fJ5mQ0zvJq-pmh1133qOt8USmfQEsE1-qWrSbo5vTTNiOZsHyWM7w3cNmOhVvdfSthIEydBO9rMiF8UmskEayO3MpEfA",
       "nome": "Final Round"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-12T00:00:00+00:00",
+    "to": "2015-09-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 20,
+        "month": 9,
+        "year": 2015
+      }
+    },
+    "string": "Jul 12, 2015 to Sep 20, 2015"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.28,
+  "scored_by": 2026,
+  "rank": 13389,
+  "popularity": 7901,
+  "members": 7656,
+  "favorites": 5,
+  "synopsis": "In the near future, Japan has developed sophisticated digital and image technology. People are enthusiastic for a new type of entertainment called \"FORMULA VENUS.\" Abbreviated as \"F-V,\" it is a sorted live battle of the top idol performances based on the idols' power, techniques, and developed experience. The story is about the drama that happens among the girls in VENUS PROJECT as they aim for the top by concentrating on difficult battles, passion, and friendship.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2135,
+      "type": "anime",
+      "name": "Imagine",
+      "url": "https://myanimelist.net/anime/producer/2135/Imagine"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Nomad",
+      "url": "https://myanimelist.net/anime/producer/70/Nomad"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/74980l.webp",
+  "trailer_url": null,
+  "id": 30251,
+  "slug": "venus-project-climax"
 }

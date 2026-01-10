@@ -1,17 +1,47 @@
 {
-  "id": 7770,
-  "slug": "yutori-chan",
-  "type": "legendado",
+  "mal_id": 7770,
+  "url": "https://myanimelist.net/anime/7770/Yutori-chan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/38359.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/38359t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/38359l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/38359.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/38359t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/38359l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yutori-chan"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゆとりちゃん"
+    }
+  ],
   "title": "Yutori-chan",
   "title_english": "Yutori-chan",
   "title_japanese": "ゆとりちゃん",
-  "image": "https://cdn.myanimelist.net/images/anime/2/38359l.webp",
-  "score": 6.08,
-  "synopsis": "Comedy anime about the generation gaps. The three main characters represent the major generations of Japanese; Yutori (teenagers), Tsumekomi (20-30s) and Dankai (middle age). Tsumekomi-chan is an office worker in a toy company and supervises the part-time working student Yutori-chan. She tries to get along with Yutori-chan but her selfish behavior typical of the Yutori generation is incomprehensible.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -113,5 +143,69 @@
       "numero": 25,
       "url": "https://lightspeedst.net/s3/mp4/yutori-chan/sd/25.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-12-29T00:00:00+00:00",
+    "to": "2010-04-09T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 12,
+        "year": 2009
+      },
+      "to": {
+        "day": 9,
+        "month": 4,
+        "year": 2010
+      }
+    },
+    "string": "Dec 29, 2009 to Apr 9, 2010"
+  },
+  "duration": "4 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.08,
+  "scored_by": 1999,
+  "rank": 9932,
+  "popularity": 8505,
+  "members": 6421,
+  "favorites": 3,
+  "synopsis": "Comedy anime about the generation gaps. The three main characters represent the major generations of Japanese; Yutori (teenagers), Tsumekomi (20-30s) and Dankai (middle age). Tsumekomi-chan is an office worker in a toy company and supervises the part-time working student Yutori-chan. She tries to get along with Yutori-chan but her selfish behavior typical of the Yutori generation is incomprehensible.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 789,
+      "type": "anime",
+      "name": "BIGLOBE",
+      "url": "https://myanimelist.net/anime/producer/789/BIGLOBE"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Actas",
+      "url": "https://myanimelist.net/anime/producer/60/Actas"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/2/38359l.webp",
+  "trailer_url": null,
+  "id": 7770,
+  "slug": "yutori-chan"
 }

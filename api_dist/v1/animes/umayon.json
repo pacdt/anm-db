@@ -1,17 +1,53 @@
 {
-  "id": 38835,
-  "slug": "umayon",
-  "type": "legendado",
+  "mal_id": 38835,
+  "url": "https://myanimelist.net/anime/38835/Umayon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1032/111641.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/111641t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/111641l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1032/111641.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/111641t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/111641l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mlRUN4_Mt2w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Umayon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uma Yon"
+    },
+    {
+      "type": "Japanese",
+      "title": "うまよん"
+    }
+  ],
   "title": "Umayon",
   "title_english": "Umayon",
   "title_japanese": "うまよん",
-  "image": "https://cdn.myanimelist.net/images/anime/1032/111641l.webp",
-  "score": 6.6,
-  "synopsis": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/mlRUN4_Mt2w?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Uma Yon"
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +109,82 @@
       "url": "https://lightspeedst.net/s3/mp4/umayon/hd/12.mp4",
       "nome": "Today's Main Race! The Gilded Vessel Obstacle Course (G1)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-07-07T00:00:00+00:00",
+    "to": "2020-09-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2020
+      },
+      "to": {
+        "day": 22,
+        "month": 9,
+        "year": 2020
+      }
+    },
+    "string": "Jul 7, 2020 to Sep 22, 2020"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.6,
+  "scored_by": 11037,
+  "rank": 6803,
+  "popularity": 5032,
+  "members": 23645,
+  "favorites": 22,
+  "synopsis": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
+  "background": "",
+  "season": "summer",
+  "year": 2020,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 21:54 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1587,
+      "type": "anime",
+      "name": "Cygames",
+      "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1396,
+      "type": "anime",
+      "name": "W-Toon Studio",
+      "url": "https://myanimelist.net/anime/producer/1396/W-Toon_Studio"
+    },
+    {
+      "mal_id": 1673,
+      "type": "anime",
+      "name": "DMM.futureworks",
+      "url": "https://myanimelist.net/anime/producer/1673/DMMfutureworks"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1032/111641l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/mlRUN4_Mt2w?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38835,
+  "slug": "umayon"
 }

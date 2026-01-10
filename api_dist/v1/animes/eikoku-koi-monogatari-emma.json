@@ -1,18 +1,63 @@
 {
-  "id": 345,
-  "slug": "eikoku-koi-monogatari-emma",
-  "type": "legendado",
+  "mal_id": 345,
+  "url": "https://myanimelist.net/anime/345/Eikoku_Koi_Monogatari_Emma",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/80117.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/80117t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/80117l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/80117.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/80117t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/80117l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/-8kjRKD7CDc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "type": "Japanese",
+      "title": "英國戀物語エマ"
+    },
+    {
+      "type": "English",
+      "title": "Emma: A Victorian Romance"
+    },
+    {
+      "type": "German",
+      "title": "Emma: A Victorian Romance"
+    },
+    {
+      "type": "Spanish",
+      "title": "Emma: Un Romance Victoriano"
+    },
+    {
+      "type": "French",
+      "title": "Emma: A Victorian Romance"
+    }
+  ],
   "title": "Eikoku Koi Monogatari Emma",
   "title_english": "Emma: A Victorian Romance",
   "title_japanese": "英國戀物語エマ",
-  "image": "https://cdn.myanimelist.net/images/anime/5/80117l.webp",
-  "score": 7.61,
-  "synopsis": "Emma has been a maid for most of her life. Working for a retired governess—the strict but compassionate Kelly Stownar—Emma has grown to love her work and has long since accepted her place in society. Beautiful, hardworking, and exceptionally kind, Emma has captured the hearts of many of London's working men—but their feelings always remain unrequited. Emma is waiting for love, and she finds it in the most unlikely of places.\n\nWilliam is the eldest son of the wealthy Jones household—a family that has only recently been accepted into the gentry, securing their position in high society. He is also the former ward of Mrs. Stownar, and on his first visit in years, he falls madly in love with her maid. His earnest attempts to win her affection, coupled with his good nature and warm personality, have captured Emma's heart.\n\nBut the polite society of 19th century England does not take kindly to the rejection of tradition. As a result, Emma and William's relationship could not face more opposition. In a world where the class lines are as strongly defended as the borders of nations, does their love have the strength to survive?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/-8kjRKD7CDc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +119,115 @@
       "url": "https://lightspeedst.net/s2/mp4/eikoku-koi-monogatari-emma/sd/12.mp4",
       "nome": "Lilies of the Valley"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-04-03T00:00:00+00:00",
+    "to": "2005-06-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2005
+      },
+      "to": {
+        "day": 19,
+        "month": 6,
+        "year": 2005
+      }
+    },
+    "string": "Apr 3, 2005 to Jun 19, 2005"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.61,
+  "scored_by": 20535,
+  "rank": 1625,
+  "popularity": 3039,
+  "members": 64552,
+  "favorites": 377,
+  "synopsis": "Emma has been a maid for most of her life. Working for a retired governess—the strict but compassionate Kelly Stownar—Emma has grown to love her work and has long since accepted her place in society. Beautiful, hardworking, and exceptionally kind, Emma has captured the hearts of many of London's working men—but their feelings always remain unrequited. Emma is waiting for love, and she finds it in the most unlikely of places.\n\nWilliam is the eldest son of the wealthy Jones household—a family that has only recently been accepted into the gentry, securing their position in high society. He is also the former ward of Mrs. Stownar, and on his first visit in years, he falls madly in love with her maid. His earnest attempts to win her affection, coupled with his good nature and warm personality, have captured Emma's heart.\n\nBut the polite society of 19th century England does not take kindly to the rejection of tradition. As a result, Emma and William's relationship could not face more opposition. In a world where the class lines are as strongly defended as the borders of nations, does their love have the strength to survive?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2005,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 741,
+      "type": "anime",
+      "name": "Toshiba Entertainment",
+      "url": "https://myanimelist.net/anime/producer/741/Toshiba_Entertainment"
+    },
+    {
+      "mal_id": 1556,
+      "type": "anime",
+      "name": "Fuji Creative",
+      "url": "https://myanimelist.net/anime/producer/1556/Fuji_Creative"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/5/80117l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/-8kjRKD7CDc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 345,
+  "slug": "eikoku-koi-monogatari-emma"
 }

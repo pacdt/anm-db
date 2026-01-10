@@ -1,20 +1,67 @@
 {
-  "id": 10444,
-  "slug": "digimon-xros-wars-aku-no-death-general-to-nanatsu-no-oukoku",
-  "type": "legendado",
+  "mal_id": 10444,
+  "url": "https://myanimelist.net/anime/10444/Digimon_Xros_Wars__Aku_no_Death_General_to_Nanatsu_no_Oukoku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/28688.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/28688t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/28688l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/28688.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/28688t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/28688l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+    },
+    {
+      "type": "Synonym",
+      "title": "Digimon Crosswars"
+    },
+    {
+      "type": "Synonym",
+      "title": "Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms"
+    },
+    {
+      "type": "Synonym",
+      "title": "Digimon Xros Wars: Aku no Death General to Shichinin no Oukoku"
+    },
+    {
+      "type": "Japanese",
+      "title": "デジモンクロスウォーズ～悪のデスジェネラルと七つの王国～"
+    },
+    {
+      "type": "English",
+      "title": "Digimon Fusion"
+    }
+  ],
   "title": "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku",
   "title_english": "Digimon Fusion",
   "title_japanese": "デジモンクロスウォーズ～悪のデスジェネラルと七つの王国～",
-  "image": "https://cdn.myanimelist.net/images/anime/11/28688l.webp",
-  "score": 7.1,
-  "synopsis": "Returning to the Digital World, Taiki and Shoutmon learn that the Bagra Army has taken it over and reformatted the world to have Seven Kingdoms, each ruled by a general. \n\n(Source: AniDB)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Digimon Crosswars",
+    "Digimon Xros Wars: The Evil Death Generals and the Seven Kingdoms",
+    "Digimon Xros Wars: Aku no Death General to Shichinin no Oukoku"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -256,5 +303,86 @@
       "numero": 54,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzDSvSg4ARbkEOh00tr7T1euZTfkSQYj8UpMwlSWlJ0RJFIbd7ZyomyIPE4LNSF1qylhu49tP7ttBR7kGr_KVHch5nSTGN8p7fe0oSGwoZYolqm1-25FDFkHbbB4m7tdEe6tf0"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-04-03T00:00:00+00:00",
+    "to": "2011-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2011
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Apr 3, 2011 to Sep 25, 2011"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG - Children",
+  "score": 7.1,
+  "scored_by": 15862,
+  "rank": 4081,
+  "popularity": 4523,
+  "members": 30457,
+  "favorites": 57,
+  "synopsis": "Returning to the Digital World, Taiki and Shoutmon learn that the Bagra Army has taken it over and reformatted the world to have Seven Kingdoms, each ruled by a general. \n\n(Source: AniDB)",
+  "background": "",
+  "season": "spring",
+  "year": 2011,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "06:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 06:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1163,
+      "type": "anime",
+      "name": "Flatiron Film Company",
+      "url": "https://myanimelist.net/anime/producer/1163/Flatiron_Film_Company"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/28688l.webp",
+  "trailer_url": null,
+  "id": 10444,
+  "slug": "digimon-xros-wars-aku-no-death-general-to-nanatsu-no-oukoku"
 }

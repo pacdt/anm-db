@@ -1,22 +1,130 @@
 {
-  "id": 35658,
-  "slug": "kuroko-no-basket-last-game-ng-shuu",
-  "type": "legendado",
+  "mal_id": 35658,
+  "url": "https://myanimelist.net/anime/35658/Kuroko_no_Basket__Last_Game_NG-shuu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/86001.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/86001t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/86001l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/86001.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/86001t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/86001l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kuroko no Basket: Last Game NG-shuu"
+    },
+    {
+      "type": "Japanese",
+      "title": "黒子のバスケ LAST GAME NG集"
+    }
+  ],
   "title": "Kuroko no Basket: Last Game NG-shuu",
   "title_english": "Kuroko no Basket: Last Game NG-shuu",
   "title_japanese": "黒子のバスケ LAST GAME NG集",
-  "image": "https://cdn.myanimelist.net/images/anime/9/86001l.webp",
-  "score": 7.74,
-  "synopsis": "Animated bloopers, based on the extra section of the original manga, included with the BD/DVD release of Kuroko no Basket: Last Game.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dw8TeWo3AA08DfCUBrner-i_JGHCpCzrtRsJ_XZatc4ptNBwRcnOBgKt7SyJWxG74V-jesclARci8tXTAia17pozVg7KDiJqCDamxcsdMsKRVPoGAuPpBhOJvV2oStzlUWgb_M"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-09-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 9,
+        "year": 2017
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 27, 2017"
+  },
+  "duration": "2 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.74,
+  "scored_by": 16913,
+  "rank": 1258,
+  "popularity": 4117,
+  "members": 37017,
+  "favorites": 44,
+  "synopsis": "Animated bloopers, based on the extra section of the original manga, included with the BD/DVD release of Kuroko no Basket: Last Game.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/9/86001l.webp",
+  "trailer_url": null,
+  "id": 35658,
+  "slug": "kuroko-no-basket-last-game-ng-shuu"
 }

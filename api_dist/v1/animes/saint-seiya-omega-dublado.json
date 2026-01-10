@@ -1,20 +1,53 @@
 {
-  "id": 12929,
-  "slug": "saint-seiya-omega-dublado",
-  "type": "dublado",
+  "mal_id": 12929,
+  "url": "https://myanimelist.net/anime/12929/Saint_Seiya_Omega",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/76052.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/76052t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76052l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/76052.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/76052t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76052l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3z6R7KW0hVY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saint Seiya Omega"
+    },
+    {
+      "type": "Synonym",
+      "title": "Saint Seiya Ω"
+    },
+    {
+      "type": "Japanese",
+      "title": "聖闘士星矢Ω"
+    }
+  ],
   "title": "Saint Seiya Omega",
   "title_english": "Saint Seiya Omega",
   "title_japanese": "聖闘士星矢Ω",
-  "image": "https://cdn.myanimelist.net/images/anime/8/76052l.webp",
-  "score": 6.29,
-  "synopsis": "The god of war and guardian of his namesake planet, Mars, was once sealed away by Seiya, but time has passed and his revival is at hand. Meanwhile, Saori Kido (Athena) is raising the boy Kouga, whose life Seiya saved, and he's been training every day to become a Saint in order to prepare for the coming crisis... \n\nUnaware of his destiny, when Kouga awakens to the power of his Cosmo hidden inside him, the curtain will rise upon the legend of a new Saint.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3z6R7KW0hVY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Saint Seiya Ω"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -501,5 +534,92 @@
       "url": "https://lightspeedst.net/s2/mp4/saint-seiya-omega-dublado/sd/97.mp4",
       "nome": "The End of the Battle! Koga, Become a Legend!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-01T00:00:00+00:00",
+    "to": "2014-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Apr 1, 2012 to Mar 30, 2014"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.29,
+  "scored_by": 26101,
+  "rank": 8690,
+  "popularity": 3414,
+  "members": 52669,
+  "favorites": 139,
+  "synopsis": "The god of war and guardian of his namesake planet, Mars, was once sealed away by Seiya, but time has passed and his revival is at hand. Meanwhile, Saori Kido (Athena) is raising the boy Kouga, whose life Seiya saved, and he's been training every day to become a Saint in order to prepare for the coming crisis... \n\nUnaware of his destiny, when Kouga awakens to the power of his Cosmo hidden inside him, the curtain will rise upon the legend of a new Saint.\n\n(Source: ANN)",
+  "background": "The Saint Seiya Omega anime was produced to commemorate the 25th anniversary of the original Saint Seiya franchise. (Source: Wikipedia)",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "06:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 06:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/76052l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3z6R7KW0hVY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 12929,
+  "slug": "saint-seiya-omega-dublado"
 }

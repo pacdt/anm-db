@@ -1,17 +1,63 @@
 {
-  "id": 30746,
-  "slug": "fushigi-na-somera-chan",
-  "type": "legendado",
+  "mal_id": 30746,
+  "url": "https://myanimelist.net/anime/30746/Fushigi_na_Somera-chan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/76737.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/76737t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/76737l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/76737.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/76737t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/76737l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/d_cyal2t238?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fushigi na Somera-chan"
+    },
+    {
+      "type": "Japanese",
+      "title": "不思議なソメラちゃん"
+    },
+    {
+      "type": "English",
+      "title": "Magical Somera-chan"
+    },
+    {
+      "type": "German",
+      "title": "Magical Somera-chan"
+    },
+    {
+      "type": "Spanish",
+      "title": "Magical Somera Chan: Fushigi na Somera-chan"
+    },
+    {
+      "type": "French",
+      "title": "Magical Somera-chan"
+    }
+  ],
   "title": "Fushigi na Somera-chan",
   "title_english": "Magical Somera-chan",
   "title_japanese": "不思議なソメラちゃん",
-  "image": "https://cdn.myanimelist.net/images/anime/7/76737l.webp",
-  "score": 5.86,
-  "synopsis": "The story follows the everyday life of Somera Nonomoto who can use the strongest kenpo, Nonomoto Mahou-ken, which is inherited from her mother with her younger sister Kukuru.\n\n(Source: Crunchyroll)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/d_cyal2t238?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +119,82 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzeNZD80ynSj1SRoy5KjJAXriUacuxJx-PGTx5-PSEnQqMQZL9FOdBFYZ3LOT8h4slTAcW3g1WAaWSZg-P8vtRkOuiVI8vap7gXC8M_vxtjZaox9KDwa9QN9EDhKAyP1Jx5U49G",
       "nome": "Here We Go! Final Episode"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-07T00:00:00+00:00",
+    "to": "2015-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2015
+      }
+    },
+    "string": "Oct 7, 2015 to Dec 23, 2015"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.86,
+  "scored_by": 6934,
+  "rank": 11155,
+  "popularity": 6120,
+  "members": 14321,
+  "favorites": 14,
+  "synopsis": "The story follows the everyday life of Somera Nonomoto who can use the strongest kenpo, Nonomoto Mahou-ken, which is inherited from her mother with her younger sister Kukuru.\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "23:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 23:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 615,
+      "type": "anime",
+      "name": "Dream Creation",
+      "url": "https://myanimelist.net/anime/producer/615/Dream_Creation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 541,
+      "type": "anime",
+      "name": "Seven",
+      "url": "https://myanimelist.net/anime/producer/541/Seven"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/76737l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/d_cyal2t238?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 30746,
+  "slug": "fushigi-na-somera-chan"
 }

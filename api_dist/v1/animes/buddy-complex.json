@@ -1,17 +1,51 @@
 {
-  "id": 21437,
-  "slug": "buddy-complex",
-  "type": "legendado",
+  "mal_id": 21437,
+  "url": "https://myanimelist.net/anime/21437/Buddy_Complex",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/57303.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57303t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57303l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/57303.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/57303t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/57303l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/18kM9ePsURc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Buddy Complex"
+    },
+    {
+      "type": "Japanese",
+      "title": "バディ・コンプレックス"
+    },
+    {
+      "type": "English",
+      "title": "Buddy Complex"
+    }
+  ],
   "title": "Buddy Complex",
   "title_english": "Buddy Complex",
   "title_japanese": "バディ・コンプレックス",
-  "image": "https://cdn.myanimelist.net/images/anime/12/57303l.webp",
-  "score": 7.11,
-  "synopsis": "When ordinary high school student Aoba Watase is suddenly targeted by a giant robot known as a \"Valiancer,\" he is saved by his mysterious classmate Hina Yumihara. After revealing that she and their robotic enemy are from the future, Hina suddenly propels Aoba 70 years forward in order to prevent his death.\n\nUpon arrival, Aoba finds himself in the cockpit of a Valiancer called \"Luxon,\" stuck in the midst of a firefight between the military forces of the Free Pact Alliance (FPA) and Zogilia Republic. After he shows high compatibility with an FPA pilot named Dio Weinberg, the two perform a successful \"coupling,\" allowing them to share experiences and subsequently increase their capabilities and skills. Although Aoba is able to survive this unexpected battle, he is taken into custody by the FPA ship Cygnus, who wishes to interrogate him. While the student's main concern is whether he will ever be able to return home, what he doesn't realize is that he is about to get caught up in a war to protect the world.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/18kM9ePsURc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +112,119 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyXC8HzErZ52uWTxxnTzEqXOkgv3-wr-mhk-HqcckxkPnn0ILAHf7wfznbAKOeCPggA3pvUTxOacOQwUv44H5tNp-DnDCGFdGGy5CXOOj5L8JflmA8QtAAG8YbfWZWTZ4nHjSI",
       "nome": "Acception"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-06T00:00:00+00:00",
+    "to": "2014-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Jan 6, 2014 to Mar 31, 2014"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.11,
+  "scored_by": 42339,
+  "rank": 4007,
+  "popularity": 2395,
+  "members": 96254,
+  "favorites": 244,
+  "synopsis": "When ordinary high school student Aoba Watase is suddenly targeted by a giant robot known as a \"Valiancer,\" he is saved by his mysterious classmate Hina Yumihara. After revealing that she and their robotic enemy are from the future, Hina suddenly propels Aoba 70 years forward in order to prevent his death.\n\nUpon arrival, Aoba finds himself in the cockpit of a Valiancer called \"Luxon,\" stuck in the midst of a firefight between the military forces of the Free Pact Alliance (FPA) and Zogilia Republic. After he shows high compatibility with an FPA pilot named Dio Weinberg, the two perform a successful \"coupling,\" allowing them to share experiences and subsequently increase their capabilities and skills. Although Aoba is able to survive this unexpected battle, he is taken into custody by the FPA ship Cygnus, who wishes to interrogate him. While the student's main concern is whether he will ever be able to return home, what he doesn't realize is that he is about to get caught up in a war to protect the world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 687,
+      "type": "anime",
+      "name": "Bandai Namco Live Creative",
+      "url": "https://myanimelist.net/anime/producer/687/Bandai_Namco_Live_Creative"
+    },
+    {
+      "mal_id": 1097,
+      "type": "anime",
+      "name": "Bandai Namco Games",
+      "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games"
+    },
+    {
+      "mal_id": 1121,
+      "type": "anime",
+      "name": "Banpresto",
+      "url": "https://myanimelist.net/anime/producer/1121/Banpresto"
+    },
+    {
+      "mal_id": 1588,
+      "type": "anime",
+      "name": "Bandai Channel",
+      "url": "https://myanimelist.net/anime/producer/1588/Bandai_Channel"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/57303l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/18kM9ePsURc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 21437,
+  "slug": "buddy-complex"
 }

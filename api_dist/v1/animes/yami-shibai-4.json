@@ -1,19 +1,79 @@
 {
-  "id": 34467,
-  "slug": "yami-shibai-4",
-  "type": "legendado",
+  "mal_id": 34467,
+  "url": "https://myanimelist.net/anime/34467/Yami_Shibai_4",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/83113.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/83113t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/83113l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/83113.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/83113t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/83113l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai 4"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories Fourth Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Theater of Darkness 4th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Japanese Ghost Stories 4"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居 4期"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai 4"
+    },
+    {
+      "type": "German",
+      "title": "Theatre of Darkness: Yamishibai 4"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yamishibai: Historias Japonesas de Fantasmas Temporada 4"
+    },
+    {
+      "type": "French",
+      "title": "Theater of Darkness: Yamishibai 4"
+    }
+  ],
   "title": "Yami Shibai 4",
   "title_english": "Theatre of Darkness: Yamishibai 4",
   "title_japanese": "闇芝居 4期",
-  "image": "https://cdn.myanimelist.net/images/anime/12/83113l.webp",
-  "score": 5.81,
-  "synopsis": "Excited children gather around the enigmatic masked Storyteller once more. His unique kamishibai storytelling draws them into tales of fear and dread. These are dark and foreboding stories, which could happen to anyone...\n \nThis season has tales of a salaryman who buries a dead cat, only to be haunted soon after; a college student and her cheap new apartment that hides a ghastly secret; boys exploring an abandoned haunted house before coming across a strange fish tank; a man who finds himself on the wrong bus, and in more danger than he thought possible; and a young couple's visit to an amusement park, which suddenly takes a dark turn. All these stories and more await in Yami Shibai 4.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Avant Garde",
-    "Horror",
-    "Supernatural"
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories Fourth Season",
+    "Theater of Darkness 4th Season",
+    "Japanese Ghost Stories 4"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +140,71 @@
       "url": "https://lightspeedst.net/s2/mp4/yami-shibai-4/sd/13.mp4",
       "nome": "Underground Walkway"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-16T00:00:00+00:00",
+    "to": "2017-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 16, 2017 to Mar 27, 2017"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.81,
+  "scored_by": 16338,
+  "rank": 11413,
+  "popularity": 4401,
+  "members": 32119,
+  "favorites": 10,
+  "synopsis": "Excited children gather around the enigmatic masked Storyteller once more. His unique kamishibai storytelling draws them into tales of fear and dread. These are dark and foreboding stories, which could happen to anyone...\n \nThis season has tales of a salaryman who buries a dead cat, only to be haunted soon after; a college student and her cheap new apartment that hides a ghastly secret; boys exploring an abandoned haunted house before coming across a strange fish tank; a man who finds himself on the wrong bus, and in more danger than he thought possible; and a young couple's visit to an amusement park, which suddenly takes a dark turn. All these stories and more await in Yami Shibai 4.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "02:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 02:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    "Avant Garde",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/83113l.webp",
+  "trailer_url": null,
+  "id": 34467,
+  "slug": "yami-shibai-4"
 }

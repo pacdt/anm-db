@@ -1,18 +1,67 @@
 {
-  "id": 545,
-  "slug": "mousou-kagaku-series-wandaba-style",
-  "type": "legendado",
+  "mal_id": 545,
+  "url": "https://myanimelist.net/anime/545/Mousou_Kagaku_Series__Wandaba_Style",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/14824.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/14824t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/14824l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/14824.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/14824t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/14824l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mousou Kagaku Series: Wandaba Style"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mousou Kagaku Series Wandaba Style"
+    },
+    {
+      "type": "Synonym",
+      "title": "Scientific Wild Fancy Series Wandabastyle"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wacky Science Fiction Series Wandaba Style"
+    },
+    {
+      "type": "Japanese",
+      "title": "妄想科学シリーズ ワンダバスタイル"
+    },
+    {
+      "type": "English",
+      "title": "Mousou Kagaku Series: Wandaba Style"
+    }
+  ],
   "title": "Mousou Kagaku Series: Wandaba Style",
   "title_english": "Mousou Kagaku Series: Wandaba Style",
   "title_japanese": "妄想科学シリーズ ワンダバスタイル",
-  "image": "https://cdn.myanimelist.net/images/anime/6/14824l.webp",
-  "score": 5.97,
-  "synopsis": "Genius scientist Tsukumo Susumu knows each and every single theory behind aerodynamics that exists on earth despite being only 13 years old. He wants to travel to the moon without the use of fossil fuels that power rockets. So begins his heavy research using his knowledge in the laws of physics, scientific theory and his wild imagination.\n\nHis test subjects are the unpopular idol group Mix JUICE (Himawari, Yuri, Ayame, Sakura). They come up with all sorts of crazy ideas to become the first humans to successfully hold a concert on the face of the moon. Will the four girls from Mix JUICE be able to struggle their way to the moon successfully?\n\n(Source: AniDB)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Mousou Kagaku Series Wandaba Style",
+    "Scientific Wild Fancy Series Wandabastyle",
+    "Wacky Science Fiction Series Wandaba Style"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -62,5 +111,76 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwoAUKouzQVmwi3rYRigdXKdyl-y1CET9EEjeiov-IaOOGpBadZm3Eu1wNzm6HPwZMKmyKhNKISWBJYVoDQ6VvSsOv4j6NFopUDVCmPJDUX7LmQjBrVD9RsbnJ28YuulqXObPek"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-04-05T00:00:00+00:00",
+    "to": "2003-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2003
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 2003
+      }
+    },
+    "string": "Apr 5, 2003 to Jun 21, 2003"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.97,
+  "scored_by": 1624,
+  "rank": 10542,
+  "popularity": 9712,
+  "members": 4487,
+  "favorites": 3,
+  "synopsis": "Genius scientist Tsukumo Susumu knows each and every single theory behind aerodynamics that exists on earth despite being only 13 years old. He wants to travel to the moon without the use of fossil fuels that power rockets. So begins his heavy research using his knowledge in the laws of physics, scientific theory and his wild imagination.\n\nHis test subjects are the unpopular idol group Mix JUICE (Himawari, Yuri, Ayame, Sakura). They come up with all sorts of crazy ideas to become the first humans to successfully hold a concert on the face of the moon. Will the four girls from Mix JUICE be able to struggle their way to the moon successfully?\n\n(Source: AniDB)",
+  "background": "",
+  "season": "spring",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 490,
+      "type": "anime",
+      "name": "Maiden Japan",
+      "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 120,
+      "type": "anime",
+      "name": "TNK",
+      "url": "https://myanimelist.net/anime/producer/120/TNK"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/14824l.webp",
+  "trailer_url": null,
+  "id": 545,
+  "slug": "mousou-kagaku-series-wandaba-style"
 }

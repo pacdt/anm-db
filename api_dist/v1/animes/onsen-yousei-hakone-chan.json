@@ -1,18 +1,69 @@
 {
-  "id": 31143,
-  "slug": "onsen-yousei-hakone-chan",
-  "type": "legendado",
+  "mal_id": 31143,
+  "url": "https://myanimelist.net/anime/31143/Onsen_Yousei_Hakone-chan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/77820.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/77820t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/77820l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/77820.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/77820t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/77820l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Onsen Yousei Hakone-chan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hot Springs Fairy Hakone-Chan"
+    },
+    {
+      "type": "Japanese",
+      "title": "温泉幼精ハコネちゃん"
+    },
+    {
+      "type": "English",
+      "title": "Hakone-chan"
+    },
+    {
+      "type": "German",
+      "title": "Hakone-chan"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hakone-Chan"
+    },
+    {
+      "type": "French",
+      "title": "Hakone-chan"
+    }
+  ],
   "title": "Onsen Yousei Hakone-chan",
   "title_english": "Hakone-chan",
   "title_japanese": "温泉幼精ハコネちゃん",
-  "image": "https://cdn.myanimelist.net/images/anime/12/77820l.webp",
-  "score": 5.84,
-  "synopsis": "After many years of dormant rest, a hot springs fairy awakens in modern-day Japan. However, while she slept, she took on the appearance of a young girl. She decides to cooperate with the locals whilst trying to regain her powers.\n\n(Source: LiveChart)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Supernatural"
+  "title_synonyms": [
+    "Hot Springs Fairy Hakone-Chan"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +130,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzFrJhx2_B0tO1pjkD0rJP0cXdBEMg_JdItPqQe212zhDYep_2z5T19aO1AyUxv7yAH84YoNf6rtZet5MeGEOa8DpUIfMpU1dy3jGzHAOaCWf0XuITbnon4P_ZM-uKC9WocdLEm",
       "nome": "A New Day with Hakone-chan"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-04T00:00:00+00:00",
+    "to": "2015-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2015
+      }
+    },
+    "string": "Oct 4, 2015 to Dec 27, 2015"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.84,
+  "scored_by": 15251,
+  "rank": 11278,
+  "popularity": 4475,
+  "members": 31018,
+  "favorites": 11,
+  "synopsis": "After many years of dormant rest, a hot springs fairy awakens in modern-day Japan. However, while she slept, she took on the appearance of a young girl. She decides to cooperate with the locals whilst trying to regain her powers.\n\n(Source: LiveChart)",
+  "background": "The manga was serialized on Aplix's Comic Meteor web platform between 2012 and 2014. Two volumes have been published by Holp Shuppan in November 2013 and April 2014. To commemorate the announcement of the adaptation, Comic Meteor is republishing the first three chapters on its website.",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "20:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 20:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1517,
+      "type": "anime",
+      "name": "Jinnan Studio",
+      "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 196,
+      "type": "anime",
+      "name": "Production Reed",
+      "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+    },
+    {
+      "mal_id": 406,
+      "type": "anime",
+      "name": "Asahi Production",
+      "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/77820l.webp",
+  "trailer_url": null,
+  "id": 31143,
+  "slug": "onsen-yousei-hakone-chan"
 }

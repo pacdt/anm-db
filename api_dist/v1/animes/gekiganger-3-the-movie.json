@@ -1,22 +1,151 @@
 {
-  "id": 2067,
-  "slug": "gekiganger-3-the-movie",
-  "type": "legendado",
+  "mal_id": 2067,
+  "url": "https://myanimelist.net/anime/2067/Gekiganger_3__The_Movie",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1343/94110.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1343/94110t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1343/94110l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1343/94110.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1343/94110t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1343/94110l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gekiganger 3: The Movie"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gekiganger 3: Nekketsu Daikessen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nadesico OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゲキ・ガンガー３　熱血大決戦"
+    },
+    {
+      "type": "English",
+      "title": "Gekiganger 3"
+    }
+  ],
   "title": "Gekiganger 3: The Movie",
   "title_english": "Gekiganger 3",
   "title_japanese": "ゲキ・ガンガー３　熱血大決戦",
-  "image": "https://cdn.myanimelist.net/images/anime/1343/94110l.webp",
-  "score": 6.45,
-  "synopsis": "Ken, Joe, and Akira, three high school students, must combine their three mecha into Gekiganger III to defeat the evil Prince Akara and Emperor Hyperion. The OVA is a compilation of the scenes from Nadesico, a new \"movie\", and is a parody of many mecha series from the 80s. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Gekiganger 3: Nekketsu Daikessen",
+    "Nadesico OVA"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/gekiganger-3-the-movie/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-02-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 2,
+        "year": 1998
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 21, 1998"
+  },
+  "duration": "30 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.45,
+  "scored_by": 2531,
+  "rank": 7704,
+  "popularity": 9138,
+  "members": 5350,
+  "favorites": 6,
+  "synopsis": "Ken, Joe, and Akira, three high school students, must combine their three mecha into Gekiganger III to defeat the evil Prince Akara and Emperor Hyperion. The OVA is a compilation of the scenes from Nadesico, a new \"movie\", and is a parody of many mecha series from the 80s. \n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1343/94110l.webp",
+  "trailer_url": null,
+  "id": 2067,
+  "slug": "gekiganger-3-the-movie"
 }

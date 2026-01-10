@@ -1,17 +1,67 @@
 {
-  "id": 16099,
-  "slug": "sword-art-online-sword-art-offline",
-  "type": "legendado",
+  "mal_id": 16099,
+  "url": "https://myanimelist.net/anime/16099/Sword_Art_Online__Sword_Art_Offline",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/43461.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/43461t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/43461l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/43461.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/43461t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/43461l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sword Art Online: Sword Art Offline"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sword Art Online Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "S.A.O Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "SAO Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "そーどあーと・おふらいん"
+    },
+    {
+      "type": "English",
+      "title": "Sword Art Offline"
+    }
+  ],
   "title": "Sword Art Online: Sword Art Offline",
   "title_english": "Sword Art Offline",
   "title_japanese": "そーどあーと・おふらいん",
-  "image": "https://cdn.myanimelist.net/images/anime/8/43461l.webp",
-  "score": 6.15,
-  "synopsis": "BD/DVD specials.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Sword Art Online Specials",
+    "S.A.O Specials",
+    "SAO Specials"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -58,5 +108,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxk04lBLLscPo9zMEesnFWigxcr8ITkOxsOfUVlR2YE2hbgKmKfhEd0sU3OV-Hk54yuqr2z_am3oRZBHOuAEV7YnTwILZ1cz7r3bc8NREw4HbruGD6u-gDno2djZE3ze_c3xIX8",
       "nome": "Sword Art Offline 9"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-24T00:00:00+00:00",
+    "to": "2013-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2013
+      }
+    },
+    "string": "Oct 24, 2012 to Jun 26, 2013"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.15,
+  "scored_by": 43700,
+  "rank": 9552,
+  "popularity": 2459,
+  "members": 92471,
+  "favorites": 165,
+  "synopsis": "BD/DVD specials.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1235,
+      "type": "anime",
+      "name": "I was a Ballerina",
+      "url": "https://myanimelist.net/anime/producer/1235/I_was_a_Ballerina"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/43461l.webp",
+  "trailer_url": null,
+  "id": 16099,
+  "slug": "sword-art-online-sword-art-offline"
 }

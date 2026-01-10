@@ -1,21 +1,69 @@
 {
-  "id": 31845,
-  "slug": "masou-gakuen-hxh",
-  "type": "legendado",
+  "mal_id": 31845,
+  "url": "https://myanimelist.net/anime/31845/Masou_Gakuen_HxH",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/80262.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/80262t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/80262l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/80262.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/80262t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/80262l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/EUvKVj_dKKU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Masou Gakuen HxH"
+    },
+    {
+      "type": "Synonym",
+      "title": "Masou Gakuen Hybrid x Heart"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔装学園H×H"
+    },
+    {
+      "type": "English",
+      "title": "Hybrid x Heart Magias Academy Ataraxia"
+    },
+    {
+      "type": "German",
+      "title": "Hybrid x Heart Magias Academy Ataraxia"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hybrid x Heart Magias Academy Ataraxia"
+    },
+    {
+      "type": "French",
+      "title": "Hybrid x Heart Magias Academy Ataraxia"
+    }
+  ],
   "title": "Masou Gakuen HxH",
   "title_english": "Hybrid x Heart Magias Academy Ataraxia",
   "title_japanese": "魔装学園H×H",
-  "image": "https://cdn.myanimelist.net/images/anime/7/80262l.webp",
-  "score": 6.11,
-  "synopsis": "Hida Kizuna possesses the HHG (Heart Hybrid Gear) ability, but it is not strong enough to make him particularly important. His older sister calls him to transfer to a strategic defense school, where many of the students (many of which are large-breasted girls) use their HHG abilities to fight invaders from another world while wearing extremely skimpy pilot outfits. Kizuna's fighting ability doesn't measure up, but his sister has another plan—apparently having erotic experiences with Kizuna will allow the girls to replenish their energy or power-up. It looks like his new school life is going to be full of embarrassment.\n\n(Source: MangaHelpers)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/EUvKVj_dKKU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Masou Gakuen Hybrid x Heart"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -77,5 +125,141 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx8imK0blP1NWTQ-SZRNQC5-rt83_Bg-PiPKi2DcF1mcxqvLIy2U4WQSZjG353Lm8p0QLUsQ3T5IQZ_lpccghbl6ToM7WR_QkbhPhvP4LT3FjFMht51dXb1BiZ9JMr6xg1A64g",
       "nome": "Aine -Aines-"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-07-06T00:00:00+00:00",
+    "to": "2016-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2016
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2016
+      }
+    },
+    "string": "Jul 6, 2016 to Sep 21, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.11,
+  "scored_by": 138038,
+  "rank": 9773,
+  "popularity": 880,
+  "members": 314164,
+  "favorites": 826,
+  "synopsis": "Hida Kizuna possesses the HHG (Heart Hybrid Gear) ability, but it is not strong enough to make him particularly important. His older sister calls him to transfer to a strategic defense school, where many of the students (many of which are large-breasted girls) use their HHG abilities to fight invaders from another world while wearing extremely skimpy pilot outfits. Kizuna's fighting ability doesn't measure up, but his sister has another plan—apparently having erotic experiences with Kizuna will allow the girls to replenish their energy or power-up. It looks like his new school life is going to be full of embarrassment.\n\n(Source: MangaHelpers)",
+  "background": "",
+  "season": "summer",
+  "year": 2016,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1604,
+      "type": "anime",
+      "name": "Sun TV",
+      "url": "https://myanimelist.net/anime/producer/1604/Sun_TV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1053,
+      "type": "anime",
+      "name": "Production IMS",
+      "url": "https://myanimelist.net/anime/producer/1053/Production_IMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/80262l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/EUvKVj_dKKU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31845,
+  "slug": "masou-gakuen-hxh"
 }

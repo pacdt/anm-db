@@ -1,18 +1,59 @@
 {
-  "id": 34289,
-  "slug": "schoolgirl-strikers-animation-channel",
-  "type": "legendado",
+  "mal_id": 34289,
+  "url": "https://myanimelist.net/anime/34289/Schoolgirl_Strikers__Animation_Channel",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/82560.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/82560t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/82560l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/82560.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/82560t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/82560l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/-VTLojBujhE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Schoolgirl Strikers: Animation Channel"
+    },
+    {
+      "type": "Japanese",
+      "title": "スクールガールストライカーズ Animation Channel"
+    },
+    {
+      "type": "German",
+      "title": "Schoolgirl Strikers"
+    },
+    {
+      "type": "Spanish",
+      "title": "Schoolgirl Strikers"
+    },
+    {
+      "type": "French",
+      "title": "Schoolgirl Strikers"
+    }
+  ],
   "title": "Schoolgirl Strikers: Animation Channel",
   "title_english": "Schoolgirl Strikers: Animation Channel",
   "title_japanese": "スクールガールストライカーズ Animation Channel",
-  "image": "https://cdn.myanimelist.net/images/anime/4/82560l.webp",
-  "score": 5.73,
-  "synopsis": "It's the near future. The newly established girls' private school Goryoukan Academy has another face. This school has a special unit, Fifth force, who is assembled and selected from the school's student body in order to fight an enemy called O'bli.\n\nThis is a story about love, courage and friendship about the girls called Strikers.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/-VTLojBujhE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +120,107 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyLSc2emVFKtgi-Nh-aqPbF6JZXdCctzFI8oiMTa5UFYkE_5YXebrZdKwXk7DzcxEF-0cIzdEr2ba_fSaGDzvrnHF4XFhESWD559YtqMpmnMNhBUcFhd7cH7_wMpF8iYP_9DvE",
       "nome": "Final Battle! Fifth Force Forever"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-07T00:00:00+00:00",
+    "to": "2017-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2017
+      }
+    },
+    "string": "Jan 7, 2017 to Apr 1, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.73,
+  "scored_by": 5955,
+  "rank": 11798,
+  "popularity": 5282,
+  "members": 21187,
+  "favorites": 20,
+  "synopsis": "It's the near future. The newly established girls' private school Goryoukan Academy has another face. This school has a special unit, Fifth force, who is assembled and selected from the school's student body in order to fight an enemy called O'bli.\n\nThis is a story about love, courage and friendship about the girls called Strikers.",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1444,
+      "type": "anime",
+      "name": "Egg Firm",
+      "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/82560l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/-VTLojBujhE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34289,
+  "slug": "schoolgirl-strikers-animation-channel"
 }

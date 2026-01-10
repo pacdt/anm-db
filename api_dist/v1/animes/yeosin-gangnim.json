@@ -1,19 +1,57 @@
 {
-  "id": 57192,
-  "slug": "yeosin-gangnim",
-  "type": "legendado",
+  "mal_id": 57192,
+  "url": "https://myanimelist.net/anime/57192/Yeosin_Gangnim",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1535/139699.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1535/139699t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1535/139699l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1535/139699.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1535/139699t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1535/139699l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/epbPGSkQp2M?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yeosin Gangnim"
+    },
+    {
+      "type": "Synonym",
+      "title": "Descent of a Goddess"
+    },
+    {
+      "type": "Japanese",
+      "title": "여신강림"
+    },
+    {
+      "type": "English",
+      "title": "True Beauty"
+    }
+  ],
   "title": "Yeosin Gangnim",
   "title_english": "True Beauty",
   "title_japanese": "여신강림",
-  "image": "https://cdn.myanimelist.net/images/anime/1535/139699l.webp",
-  "score": 6.59,
-  "synopsis": "Tired of being looked down upon for her unattractive appearance, middle schooler Lim Jugyeong turns to the transformative powers of makeup. First, she experiments with BB cream, lip tint, and eyeliner; then she begins using mascara, double eyelid glue, and colored contacts. Before she knows it, Jugyeong goes from being a girl who is bullied for her ugliness to being praised as a high-class beauty. Constantly surrounded by those who adore her goddess-like appearance, Jugyeong can now live a more than comfortable life at school—she simply has to keep her bare face a secret.\n\nHowever, everything changes when the new transfer student, Lee Suho, enters her life. Not only does the handsome Suho become immediately popular among their peers, but in a chance encounter, he also becomes the only classmate of Jugyeong's to see her face beneath the makeup. With her reputation on the line, Jugyeong must do whatever it takes to hide the truth about her appearance from the rest of her classmates. But the more time she spends with Suho, the more Jugyeong finds herself questioning whether one's true beauty lies solely in their looks.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/epbPGSkQp2M?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Descent of a Goddess"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +118,90 @@
       "url": "https://lightspeedst.net/s7/mp4/yeosin-gangnim/hd/13.mp4",
       "nome": "Our First Love"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-08-07T00:00:00+00:00",
+    "to": "2024-10-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 8,
+        "year": 2024
+      },
+      "to": {
+        "day": 30,
+        "month": 10,
+        "year": 2024
+      }
+    },
+    "string": "Aug 7, 2024 to Oct 30, 2024"
+  },
+  "duration": "19 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.59,
+  "scored_by": 10647,
+  "rank": 6825,
+  "popularity": 4641,
+  "members": 28668,
+  "favorites": 103,
+  "synopsis": "Tired of being looked down upon for her unattractive appearance, middle schooler Lim Jugyeong turns to the transformative powers of makeup. First, she experiments with BB cream, lip tint, and eyeliner; then she begins using mascara, double eyelid glue, and colored contacts. Before she knows it, Jugyeong goes from being a girl who is bullied for her ugliness to being praised as a high-class beauty. Constantly surrounded by those who adore her goddess-like appearance, Jugyeong can now live a more than comfortable life at school—she simply has to keep her bare face a secret.\n\nHowever, everything changes when the new transfer student, Lee Suho, enters her life. Not only does the handsome Suho become immediately popular among their peers, but in a chance encounter, he also becomes the only classmate of Jugyeong's to see her face beneath the makeup. With her reputation on the line, Jugyeong must do whatever it takes to hide the truth about her appearance from the rest of her classmates. But the more time she spends with Suho, the more Jugyeong finds herself questioning whether one's true beauty lies solely in their looks.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 2044,
+      "type": "anime",
+      "name": "Naver Webtoons",
+      "url": "https://myanimelist.net/anime/producer/2044/Naver_Webtoons"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2742,
+      "type": "anime",
+      "name": "Studio N",
+      "url": "https://myanimelist.net/anime/producer/2742/Studio_N"
+    },
+    {
+      "mal_id": 2972,
+      "type": "anime",
+      "name": "Cocktail Media",
+      "url": "https://myanimelist.net/anime/producer/2972/Cocktail_Media"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1535/139699l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/epbPGSkQp2M?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 57192,
+  "slug": "yeosin-gangnim"
 }

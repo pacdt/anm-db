@@ -1,18 +1,57 @@
 {
-  "id": 57609,
-  "slug": "megumi-no-daigo-kyuukoku-no-orange",
-  "type": "legendado",
+  "mal_id": 57609,
+  "url": "https://myanimelist.net/anime/57609/Megumi_no_Daigo__Kyuukoku_no_Orange_Recaps",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1146/140566.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/140566t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/140566l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1146/140566.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/140566t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/140566l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Megumi no Daigo: Kyuukoku no Orange Recaps"
+    },
+    {
+      "type": "Synonym",
+      "title": "Megumi no Daigo Kyuukoku no Orange Episode 12.5 and Episode 17.5"
+    },
+    {
+      "type": "Japanese",
+      "title": "め組の大吾 救国のオレンジ"
+    },
+    {
+      "type": "English",
+      "title": "Firefighter Daigo: Rescuer in Orange Recaps"
+    }
+  ],
   "title": "Megumi no Daigo: Kyuukoku no Orange Recaps",
   "title_english": "Firefighter Daigo: Rescuer in Orange Recaps",
   "title_japanese": "め組の大吾 救国のオレンジ",
-  "image": "https://cdn.myanimelist.net/images/anime/1146/140566l.webp",
-  "score": 5.94,
-  "synopsis": "Recap episodes of Megumi no Daigo: Kyuukoku no Orange.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Drama"
+  "title_synonyms": [
+    "Megumi no Daigo Kyuukoku no Orange Episode 12.5 and Episode 17.5"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -106,5 +145,83 @@
       "numero": 23,
       "url": "https://lightspeedst.net/s7/mp4/megumi-no-daigo-kyuukoku-no-orange/fhd/23.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-12-23T00:00:00+00:00",
+    "to": "2024-02-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 12,
+        "year": 2023
+      },
+      "to": {
+        "day": 10,
+        "month": 2,
+        "year": 2024
+      }
+    },
+    "string": "Dec 23, 2023 to Feb 10, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.94,
+  "scored_by": 623,
+  "rank": 10702,
+  "popularity": 13526,
+  "members": 1453,
+  "favorites": 2,
+  "synopsis": "Recap episodes of Megumi no Daigo: Kyuukoku no Orange.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1146/140566l.webp",
+  "trailer_url": null,
+  "id": 57609,
+  "slug": "megumi-no-daigo-kyuukoku-no-orange"
 }

@@ -1,19 +1,57 @@
 {
-  "id": 3085,
-  "slug": "koharu-biyori",
-  "type": "legendado",
+  "mal_id": 3085,
+  "url": "https://myanimelist.net/anime/3085/Koharu_Biyori",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1175/116677.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1175/116677t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1175/116677l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1175/116677.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1175/116677t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1175/116677l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koharu Biyori"
+    },
+    {
+      "type": "Synonym",
+      "title": "Koharubiyori"
+    },
+    {
+      "type": "Japanese",
+      "title": "こはるびより"
+    },
+    {
+      "type": "English",
+      "title": "Indian Summer"
+    }
+  ],
   "title": "Koharu Biyori",
   "title_english": "Indian Summer",
   "title_japanese": "こはるびより",
-  "image": "https://cdn.myanimelist.net/images/anime/1175/116677l.webp",
-  "score": 6.55,
-  "synopsis": "Set in a near future, a time where robots are common workers for their owners. Takaya Murase has just purchased a maid robot from a robotic doll distributor, MaidWorks. Ready to live a normal cleaning, cooking, and serving life to her owner, Yui is purchased, by Takaya but he has other plans for her...like dressing her up in dress-costumes of his fantasies and more.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi",
-    "Ecchi"
+  "title_synonyms": [
+    "Koharubiyori"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -30,5 +68,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyxFaNmvMsasiRlDr8PiwoMlF7j4ykPewpKr_uRyAPZifCqlt0nj5D1oOgI9bjhbvKBO0CRwDUTXg-U81pRt6FBuj_GN6ynwPY5bwtYyAeURxT1HrB4MWxwr70mIP1m-8NHGrNs",
       "nome": "Big Sister... Huh? / My Important... / It's an Indian Summer"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-10-15T00:00:00+00:00",
+    "to": "2008-03-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 10,
+        "year": 2007
+      },
+      "to": {
+        "day": 10,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Oct 15, 2007 to Mar 10, 2008"
+  },
+  "duration": "30 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.55,
+  "scored_by": 10356,
+  "rank": 7055,
+  "popularity": 5125,
+  "members": 22630,
+  "favorites": 27,
+  "synopsis": "Set in a near future, a time where robots are common workers for their owners. Takaya Murase has just purchased a maid robot from a robotic doll distributor, MaidWorks. Ready to live a normal cleaning, cooking, and serving life to her owner, Yui is purchased, by Takaya but he has other plans for her...like dressing her up in dress-costumes of his fantasies and more.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Daume",
+      "url": "https://myanimelist.net/anime/producer/39/Daume"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1175/116677l.webp",
+  "trailer_url": null,
+  "id": 3085,
+  "slug": "koharu-biyori"
 }

@@ -1,19 +1,57 @@
 {
-  "id": 49979,
-  "slug": "akuyaku-reijou-nanode-last-boss-wo-kattemimashita-dublado",
-  "type": "dublado",
+  "mal_id": 49979,
+  "url": "https://myanimelist.net/anime/49979/Akuyaku_Reijou_nanode_Last_Boss_wo_Kattemimashita",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1648/126110.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1648/126110t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1648/126110l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1648/126110.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1648/126110t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1648/126110l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ruqUkGmswA0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Akuyaku Reijou nanode Last Boss wo Kattemimashita"
+    },
+    {
+      "type": "Synonym",
+      "title": "Akulas"
+    },
+    {
+      "type": "Japanese",
+      "title": "悪役令嬢なのでラスボスを飼ってみました"
+    },
+    {
+      "type": "English",
+      "title": "I'm the Villainess, So I'm Taming the Final Boss"
+    }
+  ],
   "title": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
   "title_english": "I'm the Villainess, So I'm Taming the Final Boss",
   "title_japanese": "悪役令嬢なのでラスボスを飼ってみました",
-  "image": "https://cdn.myanimelist.net/images/anime/1648/126110l.webp",
-  "score": 7.2,
-  "synopsis": "Aileen Lauren Dautriche's life changes forever on the day her engagement with the crown prince Cedric Jeanne Elmir is nullified so he can be together with Lilia Rainworth. The event triggers Aileen's memories from her past life—she has been reincarnated in an otome game as the villainess, who is destined to die in the final act. To prevent her predetermined demise, Aileen has only one option: to court the game's last boss, Claude Jeanne Elmir—the proclaimed \"Demon King\" and Cedric's half-brother—and marry him.\n\nHowever, it is easier said than done, as Claude distrusts her intentions. Instead of giving up, Aileen adamantly tries to win his heart by helping Claude fulfill his wish: to build peace between humankind and demonic beasts. But time is running out, and it is up to Aileen to change the course of not only her tragic ending but Claude's as well.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ruqUkGmswA0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Akulas"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -30,5 +68,140 @@
       "url": "https://lightspeedst.net/s5/mp4/akuyaku-reijou-nanode-last-boss-wo-kattemimashita-dublado/sd/3.mp4",
       "nome": "The Villainess Is Greedy and Goes for the Win"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-01T00:00:00+00:00",
+    "to": "2022-12-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 17,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 1, 2022 to Dec 17, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.2,
+  "scored_by": 102913,
+  "rank": 3482,
+  "popularity": 1283,
+  "members": 212480,
+  "favorites": 1179,
+  "synopsis": "Aileen Lauren Dautriche's life changes forever on the day her engagement with the crown prince Cedric Jeanne Elmir is nullified so he can be together with Lilia Rainworth. The event triggers Aileen's memories from her past life—she has been reincarnated in an otome game as the villainess, who is destined to die in the final act. To prevent her predetermined demise, Aileen has only one option: to court the game's last boss, Claude Jeanne Elmir—the proclaimed \"Demon King\" and Cedric's half-brother—and marry him.\n\nHowever, it is easier said than done, as Claude distrusts her intentions. Instead of giving up, Aileen adamantly tries to win his heart by helping Claude fulfill his wish: to build peace between humankind and demonic beasts. But time is running out, and it is up to Aileen to change the course of not only her tragic ending but Claude's as well.\n\n[Written by MAL Rewrite]",
+  "background": "A special program featuring highlights of the story and characters was broadcasted on AbemaTV prior to the airing of the first episode.",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2146,
+      "type": "anime",
+      "name": "NetEase",
+      "url": "https://myanimelist.net/anime/producer/2146/NetEase"
+    },
+    {
+      "mal_id": 2232,
+      "type": "anime",
+      "name": "ADK Marketing Solutions",
+      "url": "https://myanimelist.net/anime/producer/2232/ADK_Marketing_Solutions"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1978,
+      "type": "anime",
+      "name": "Maho Film",
+      "url": "https://myanimelist.net/anime/producer/1978/Maho_Film"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 83,
+      "type": "anime",
+      "name": "Villainess",
+      "url": "https://myanimelist.net/anime/genre/83/Villainess"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1648/126110l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ruqUkGmswA0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49979,
+  "slug": "akuyaku-reijou-nanode-last-boss-wo-kattemimashita-dublado"
 }

@@ -1,19 +1,57 @@
 {
-  "id": 20,
-  "slug": "naruto-dublado",
-  "type": "dublado",
+  "mal_id": 20,
+  "url": "https://myanimelist.net/anime/20/Naruto",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1141/142503.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Naruto"
+    },
+    {
+      "type": "Synonym",
+      "title": "NARUTO"
+    },
+    {
+      "type": "Japanese",
+      "title": "ナルト"
+    },
+    {
+      "type": "English",
+      "title": "Naruto"
+    }
+  ],
   "title": "Naruto",
   "title_english": "Naruto",
   "title_japanese": "ナルト",
-  "image": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp",
-  "score": 8.02,
-  "synopsis": "Twelve years ago, a colossal demon fox terrorized the world. During the monster's attack on the Hidden Leaf Village, the Hokage—the village's leader and most powerful ninja—sacrifices himself to seal the beast inside a newborn, relieving civilization from destruction while dooming the baby to a lonely life.\n\nNow, after years of being shunned and bullied, Naruto Uzumaki pesters the village with elaborate pranks and vandalism. Despite these antics, he works hard to achieve his dream: to become the Hokage and earn the acknowledgement of those who have mistreated him for his entire life. Naruto joins Team 7, a ninja squad made up of two of his peers—prodigy Sasuke Uchiha and clever Sakura Haruno.\n\nUnder the aloof Kakashi Hatake's leadership, Team 7 takes on a series of difficult missions, forcing its members to grow in strength and comradery despite their many differences. Naruto strives to stand out in his rivalry with Sasuke and earn the romantic affection of Sakura. But as the trio brush against danger and death, their tragic pasts threaten to tear them apart.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "NARUTO"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -1070,5 +1108,98 @@
       "url": "https://lightspeedst.net/s2/mp4/naruto-dublado/sd/211.mp4",
       "nome": "Memory of Flames"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-10-03T00:00:00+00:00",
+    "to": "2007-02-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2002
+      },
+      "to": {
+        "day": 8,
+        "month": 2,
+        "year": 2007
+      }
+    },
+    "string": "Oct 3, 2002 to Feb 8, 2007"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.02,
+  "scored_by": 2107811,
+  "rank": 668,
+  "popularity": 9,
+  "members": 3064640,
+  "favorites": 85150,
+  "synopsis": "Twelve years ago, a colossal demon fox terrorized the world. During the monster's attack on the Hidden Leaf Village, the Hokage—the village's leader and most powerful ninja—sacrifices himself to seal the beast inside a newborn, relieving civilization from destruction while dooming the baby to a lonely life.\n\nNow, after years of being shunned and bullied, Naruto Uzumaki pesters the village with elaborate pranks and vandalism. Despite these antics, he works hard to achieve his dream: to become the Hokage and earn the acknowledgement of those who have mistreated him for his entire life. Naruto joins Team 7, a ninja squad made up of two of his peers—prodigy Sasuke Uchiha and clever Sakura Haruno.\n\nUnder the aloof Kakashi Hatake's leadership, Team 7 takes on a series of difficult missions, forcing its members to grow in strength and comradery despite their many differences. Naruto strives to stand out in his rivalry with Sasuke and earn the romantic affection of Sakura. But as the trio brush against danger and death, their tragic pasts threaten to tear them apart.\n\n[Written by MAL Rewrite]",
+  "background": "Naruto received numerous awards during its airing, including the Best Full-Length Animation Program Award in the third UStv Awards and the 38th Best Animated Show in IGN's Top 100 Animated Series. The anime was released on DVD in 16 volumes by VIZ Media from July 4, 2006, to September 22, 2009. The company rereleased it in eight volumes from October 6, 2009, to December 14, 2010. VIZ Media also made available a Blu-ray version in eight volumes from November 3, 2020, to October 18, 2022. The series adapts the first 27 volumes of the original manga.",
+  "season": "fall",
+  "year": 2002,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 19:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp",
+  "trailer_url": null,
+  "id": 20,
+  "slug": "naruto-dublado"
 }

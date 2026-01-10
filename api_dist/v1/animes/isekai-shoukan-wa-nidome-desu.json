@@ -1,20 +1,57 @@
 {
-  "id": 50220,
-  "slug": "isekai-shoukan-wa-nidome-desu",
-  "type": "legendado",
+  "mal_id": 50220,
+  "url": "https://myanimelist.net/anime/50220/Isekai_Shoukan_wa_Nidome_desu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1387/134151.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/134151t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/134151l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1387/134151.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/134151t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/134151l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/FNoriLaH0IM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Isekai Shoukan wa Nidome desu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Isenido"
+    },
+    {
+      "type": "Japanese",
+      "title": "異世界召喚は二度目です"
+    },
+    {
+      "type": "English",
+      "title": "Summoned to Another World for a Second Time"
+    }
+  ],
   "title": "Isekai Shoukan wa Nidome desu",
   "title_english": "Summoned to Another World for a Second Time",
   "title_japanese": "異世界召喚は二度目です",
-  "image": "https://cdn.myanimelist.net/images/anime/1387/134151l.webp",
-  "score": 5.67,
-  "synopsis": "There was once a man who was summoned to another world, and saved it. Of course, he became too popular there, and turned into an isekai-normie. However, that man fell into a \"trap\" and was forcibly returned to his original world. Moreover, he had to start over as a baby!\n\nThis is the story of the way-too-fantastic ex-hero who lived as a gloomy high-schooler, as he gets summoned once again to that same other world in a very unexpected development! \n\n(Source: Coolmic, edited)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/FNoriLaH0IM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Isenido"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -66,5 +103,122 @@
       "numero": 12,
       "url": "https://lightspeedst.net/s6/mp4/isekai-shoukan-wa-nidome-desu/hd/12.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-04-09T00:00:00+00:00",
+    "to": "2023-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2023
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 2023
+      }
+    },
+    "string": "Apr 9, 2023 to Jun 25, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.67,
+  "scored_by": 71291,
+  "rank": 12070,
+  "popularity": 1457,
+  "members": 185466,
+  "favorites": 762,
+  "synopsis": "There was once a man who was summoned to another world, and saved it. Of course, he became too popular there, and turned into an isekai-normie. However, that man fell into a \"trap\" and was forcibly returned to his original world. Moreover, he had to start over as a baby!\n\nThis is the story of the way-too-fantastic ex-hero who lived as a gloomy high-schooler, as he gets summoned once again to that same other world in a very unexpected development! \n\n(Source: Coolmic, edited)",
+  "background": "",
+  "season": "spring",
+  "year": 2023,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1377,
+      "type": "anime",
+      "name": "Futabasha",
+      "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    },
+    {
+      "mal_id": 1517,
+      "type": "anime",
+      "name": "Jinnan Studio",
+      "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+    },
+    {
+      "mal_id": 2228,
+      "type": "anime",
+      "name": "Bushiroad Move",
+      "url": "https://myanimelist.net/anime/producer/2228/Bushiroad_Move"
+    },
+    {
+      "mal_id": 2381,
+      "type": "anime",
+      "name": "Crest",
+      "url": "https://myanimelist.net/anime/producer/2381/Crest"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1521,
+      "type": "anime",
+      "name": "Studio Elle",
+      "url": "https://myanimelist.net/anime/producer/1521/Studio_Elle"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1387/134151l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/FNoriLaH0IM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50220,
+  "slug": "isekai-shoukan-wa-nidome-desu"
 }

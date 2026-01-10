@@ -1,18 +1,62 @@
 {
-  "id": 21563,
-  "slug": "kamigami-no-asobi",
-  "type": "legendado",
+  "mal_id": 21563,
+  "url": "https://myanimelist.net/anime/21563/Kamigami_no_Asobi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/60703.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/60703t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/60703l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/60703.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/60703t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/60703l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xW5r60YFruw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kamigami no Asobi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kamigami no Asobi: Ludere deorum"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kamiaso"
+    },
+    {
+      "type": "Japanese",
+      "title": "神々の悪戯"
+    },
+    {
+      "type": "English",
+      "title": "Kamigami no Asobi"
+    }
+  ],
   "title": "Kamigami no Asobi",
   "title_english": "Kamigami no Asobi",
   "title_japanese": "神々の悪戯",
-  "image": "https://cdn.myanimelist.net/images/anime/12/60703l.webp",
-  "score": 6.99,
-  "synopsis": "After discovering a mysterious sword in the storehouse of her home, third-year high school student Yui Kusanagi finds herself suddenly transported to a different world. While exploring her new surroundings, she meets five strange yet handsome men before coming face to face with Zeus: the king of the gods. \n\nIn order to restore the deteriorating relationship between the gods and humans, Zeus has created the Academy of the gods and has chosen Yui to be its one and only instructor. She has one year to educate the young and reluctant deities—including the five strangers she met earlier—on what it means to be human while learning about the gods herself; otherwise, they will all be trapped in Zeus' realm forever.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xW5r60YFruw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Kamigami no Asobi: Ludere deorum",
+    "Kamiaso"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +118,121 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy-J679Xyt52LR1dfeoWy_99GKCTNCHWDXfQSTHTN08vRYl7grBflHw9-fkqddvNgb1Kl44k-fytxdp5c--htWZLTmNXAzysRygKWtZrBqun5OU0hiSq1nMoXDq4dtsFVuLE0v4",
       "nome": "Eternal Separation"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-04-06T00:00:00+00:00",
+    "to": "2014-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2014
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2014
+      }
+    },
+    "string": "Apr 6, 2014 to Jun 22, 2014"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.99,
+  "scored_by": 67963,
+  "rank": 4610,
+  "popularity": 1701,
+  "members": 152830,
+  "favorites": 781,
+  "synopsis": "After discovering a mysterious sword in the storehouse of her home, third-year high school student Yui Kusanagi finds herself suddenly transported to a different world. While exploring her new surroundings, she meets five strange yet handsome men before coming face to face with Zeus: the king of the gods. \n\nIn order to restore the deteriorating relationship between the gods and humans, Zeus has created the Academy of the gods and has chosen Yui to be its one and only instructor. She has one year to educate the young and reluctant deities—including the five strangers she met earlier—on what it means to be human while learning about the gods herself; otherwise, they will all be trapped in Zeus' realm forever.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 116,
+      "type": "anime",
+      "name": "Broccoli",
+      "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/60703l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xW5r60YFruw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 21563,
+  "slug": "kamigami-no-asobi"
 }

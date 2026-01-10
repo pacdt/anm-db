@@ -1,18 +1,67 @@
 {
-  "id": 40979,
-  "slug": "yingxiong-zai-lin",
-  "type": "legendado",
+  "mal_id": 40979,
+  "url": "https://myanimelist.net/anime/40979/Yingxiong_Zai_Lin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1494/109747.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/109747t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/109747l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1494/109747.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/109747t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/109747l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xUborIcKG5o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yingxiong Zai Lin"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Hero's Return"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yingxiong? Wo Zao Jiu Bu Dang Le"
+    },
+    {
+      "type": "Synonym",
+      "title": "英雄？我早就不当了"
+    },
+    {
+      "type": "Japanese",
+      "title": "英雄再临"
+    },
+    {
+      "type": "English",
+      "title": "Hero Return"
+    }
+  ],
   "title": "Yingxiong Zai Lin",
   "title_english": "Hero Return",
   "title_japanese": "英雄再临",
-  "image": "https://cdn.myanimelist.net/images/anime/1494/109747l.webp",
-  "score": 6.88,
-  "synopsis": "Zero was mankind’s first real superhero. Under his watch, countless other superheros appeared and followed in his footsteps. However, after 5 years of war, Zero disappeared without a trace.\n\n(Source: zeroscans)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xUborIcKG5o?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
+  "title_synonyms": [
+    "The Hero's Return",
+    "Yingxiong? Wo Zao Jiu Bu Dang Le",
+    "英雄？我早就不当了"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -58,5 +107,70 @@
       "numero": 11,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxHWKgviFRuoVuhOyOX4DEYnSDQ-0g9R0TdAzHNLodQVRSWhnRdKQ1b0sC12OmPrw9Zzz6u_OUC9IyCUqwUVgFBiAp1m8vxwom_iElDARhhZb0DqKwLPI_qO5wZZxrusMpG720t"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-10-18T00:00:00+00:00",
+    "to": "2020-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 10,
+        "year": 2020
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2020
+      }
+    },
+    "string": "Oct 18, 2020 to Dec 27, 2020"
+  },
+  "duration": "16 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.88,
+  "scored_by": 13605,
+  "rank": 5146,
+  "popularity": 3563,
+  "members": 48457,
+  "favorites": 197,
+  "synopsis": "Zero was mankind’s first real superhero. Under his watch, countless other superheros appeared and followed in his footsteps. However, after 5 years of war, Zero disappeared without a trace.\n\n(Source: zeroscans)",
+  "background": "Animated adaptation of Wuliao Kan Kan Tian's (无聊看看天) novel titled Yingxiong? Wo Zao Jiu Bu Dang Le (英雄？我早就不当了).",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1980,
+      "type": "anime",
+      "name": "Big Firebird Culture",
+      "url": "https://myanimelist.net/anime/producer/1980/Big_Firebird_Culture"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1494/109747l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xUborIcKG5o?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40979,
+  "slug": "yingxiong-zai-lin"
 }

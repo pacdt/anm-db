@@ -1,19 +1,51 @@
 {
-  "id": 178,
-  "slug": "ultra-maniac",
-  "type": "legendado",
+  "mal_id": 178,
+  "url": "https://myanimelist.net/anime/178/Ultra_Maniac",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/53571.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/53571t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/53571l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/53571.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/53571t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/53571l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ultra Maniac"
+    },
+    {
+      "type": "Japanese",
+      "title": "ウルトラマニアック"
+    },
+    {
+      "type": "English",
+      "title": "Ultra Maniac"
+    }
+  ],
   "title": "Ultra Maniac",
   "title_english": "Ultra Maniac",
   "title_japanese": "ウルトラマニアック",
-  "image": "https://cdn.myanimelist.net/images/anime/8/53571l.webp",
-  "score": 7.15,
-  "synopsis": "Fantasies and miracles never interested Ayu Tateishi, a popular second-year student at her middle school. She was content with preserving her image of being cool, calm, and collected—all to catch the eye of her crush, Tetsushi Kaji. Ayu's carefree youthful days are interrupted by the appearance of Nina Sakura, a new transfer student who turns out to be a witch. As the only person who knows about Nina's ability to cast spells using a mini-computer, Ayu is forced to help Nina with her mission to find the five Holy Stones, qualifying her to marry the prince of the Magic Kingdom.\n\nUnfortunately, Nina's ineptitude with magic and her habit of meddling in Ayu's personal life cause nothing but trouble for the two of them as Ayu toils to maintain her good reputation and Nina struggles to hide her secret from the discerning eye of Hiroki Tsujiai, Tetsushi's best friend and an avid fan of manga. And when Nina's search for the five Holy Stones brings allies and challengers from the Magic Kingdom, Ayu is dragged into a world she never even dreamed was possible.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +177,98 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyvuLD2bj2TlBcsA7bIMVQLOjeW7eW0HJU-EGH9e5W4XpUQroxhC6cKHoVaJXZan7hm7m1QG4O1iYlmEgDYvdCulsIcYpeqoJPQUlyxpK6sDzUP7O83ctRVvKKlkPvVwvF9ULA",
       "nome": "Zoom In"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-05-20T00:00:00+00:00",
+    "to": "2003-11-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 5,
+        "year": 2003
+      },
+      "to": {
+        "day": 11,
+        "month": 11,
+        "year": 2003
+      }
+    },
+    "string": "May 20, 2003 to Nov 11, 2003"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.15,
+  "scored_by": 14624,
+  "rank": 3797,
+  "popularity": 4167,
+  "members": 36129,
+  "favorites": 150,
+  "synopsis": "Fantasies and miracles never interested Ayu Tateishi, a popular second-year student at her middle school. She was content with preserving her image of being cool, calm, and collected—all to catch the eye of her crush, Tetsushi Kaji. Ayu's carefree youthful days are interrupted by the appearance of Nina Sakura, a new transfer student who turns out to be a witch. As the only person who knows about Nina's ability to cast spells using a mini-computer, Ayu is forced to help Nina with her mission to find the five Holy Stones, qualifying her to marry the prince of the Magic Kingdom.\n\nUnfortunately, Nina's ineptitude with magic and her habit of meddling in Ayu's personal life cause nothing but trouble for the two of them as Ayu toils to maintain her good reputation and Nina struggles to hide her secret from the discerning eye of Hiroki Tsujiai, Tetsushi's best friend and an avid fan of manga. And when Nina's search for the five Holy Stones brings allies and challengers from the Magic Kingdom, Ayu is dragged into a world she never even dreamed was possible.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2003,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 318,
+      "type": "anime",
+      "name": "WAO World",
+      "url": "https://myanimelist.net/anime/producer/318/WAO_World"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 242,
+      "type": "anime",
+      "name": "Ashi Productions",
+      "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/53571l.webp",
+  "trailer_url": null,
+  "id": 178,
+  "slug": "ultra-maniac"
 }

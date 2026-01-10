@@ -1,18 +1,51 @@
 {
-  "id": 1647,
-  "slug": "kakugo-no-susume",
-  "type": "legendado",
+  "mal_id": 1647,
+  "url": "https://myanimelist.net/anime/1647/Kakugo_no_Susume",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/16230.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/16230t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/16230l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/16230.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/16230t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/16230l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qgvDHUPYhls?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kakugo no Susume"
+    },
+    {
+      "type": "Japanese",
+      "title": "覚悟のススメ"
+    },
+    {
+      "type": "English",
+      "title": "Apocalypse Zero"
+    }
+  ],
   "title": "Kakugo no Susume",
   "title_english": "Apocalypse Zero",
   "title_japanese": "覚悟のススメ",
-  "image": "https://cdn.myanimelist.net/images/anime/6/16230l.webp",
-  "score": 4.83,
-  "synopsis": "A series of natural disasters has reduced the world to rubble, with the survivors doing whatever they must to survive in a world gone mad. But one young boy, Kakugo, gifted with amazing martial arts and a superpowerful suit of armor by his late father, has been charged with making the world (or at least his school) a safer place. But his sister has a matching set of skills and equipment, and she`s on a mission to bring peace to the world... by wiping out humanity! \n\n(Source: AnimeNfo)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/qgvDHUPYhls?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Horror",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -22,5 +55,109 @@
       "numero": 2,
       "url": "https://lightspeedst.net/s3/mp4/kakugo-no-susume/sd/2.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-10-23T00:00:00+00:00",
+    "to": "1996-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 10,
+        "year": 1996
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 1996
+      }
+    },
+    "string": "Oct 23, 1996 to Dec 18, 1996"
+  },
+  "duration": "37 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 4.83,
+  "scored_by": 5369,
+  "rank": 14083,
+  "popularity": 6267,
+  "members": 13547,
+  "favorites": 47,
+  "synopsis": "A series of natural disasters has reduced the world to rubble, with the survivors doing whatever they must to survive in a world gone mad. But one young boy, Kakugo, gifted with amazing martial arts and a superpowerful suit of armor by his late father, has been charged with making the world (or at least his school) a safer place. But his sister has a matching set of skills and equipment, and she`s on a mission to bring peace to the world... by wiping out humanity! \n\n(Source: AnimeNfo)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 123,
+      "type": "anime",
+      "name": "Victor Entertainment",
+      "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+    },
+    {
+      "mal_id": 351,
+      "type": "anime",
+      "name": "Big West",
+      "url": "https://myanimelist.net/anime/producer/351/Big_West"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 242,
+      "type": "anime",
+      "name": "Ashi Productions",
+      "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/16230l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/qgvDHUPYhls?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1647,
+  "slug": "kakugo-no-susume"
 }

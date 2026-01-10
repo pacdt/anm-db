@@ -1,15 +1,47 @@
 {
-  "id": 61629,
-  "slug": "monster",
-  "type": "legendado",
+  "mal_id": 61629,
+  "url": "https://myanimelist.net/anime/61629/Monster_Music_2025",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1648/152231.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1648/152231t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1648/152231l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1648/152231.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1648/152231t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1648/152231l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Monster (Music, 2025)"
+    },
+    {
+      "type": "Japanese",
+      "title": "MONSTER"
+    }
+  ],
   "title": "Monster (Music, 2025)",
   "title_english": "Monster (Music, 2025)",
   "title_japanese": "MONSTER",
-  "image": "https://cdn.myanimelist.net/images/anime/1648/152231l.webp",
-  "score": null,
-  "synopsis": "The theme song for ENigmatic Recollection Chapter 2, The Chains of Fate!\n\n(Source: Official YouTube Channel)",
-  "trailer_url": null,
-  "genres": [],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -307,5 +339,60 @@
       "numero": 74,
       "url": "https://lightspeedst.net/s4/mp4/monster/sd/74.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-05-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 5,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "May 3, 2025"
+  },
+  "duration": "3 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 25703,
+  "members": 119,
+  "favorites": 1,
+  "synopsis": "The theme song for ENigmatic Recollection Chapter 2, The Chains of Fate!\n\n(Source: Official YouTube Channel)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1648/152231l.webp",
+  "trailer_url": null,
+  "id": 61629,
+  "slug": "monster"
 }

@@ -1,18 +1,51 @@
 {
-  "id": 48849,
-  "slug": "sonny-boy-dublado",
-  "type": "dublado",
+  "mal_id": 48849,
+  "url": "https://myanimelist.net/anime/48849/Sonny_Boy",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1509/117149.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1509/117149t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1509/117149l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1509/117149.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1509/117149t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1509/117149l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qQ2DqgnaAio?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sonny Boy"
+    },
+    {
+      "type": "Japanese",
+      "title": "Sonny Boy (サニーボーイ)"
+    },
+    {
+      "type": "English",
+      "title": "Sonny Boy"
+    }
+  ],
   "title": "Sonny Boy",
   "title_english": "Sonny Boy",
   "title_japanese": "Sonny Boy (サニーボーイ)",
-  "image": "https://cdn.myanimelist.net/images/anime/1509/117149l.webp",
-  "score": 7.84,
-  "synopsis": "Thirty-six students find themselves and their school building suddenly adrift in a void-like dimension. When supernatural powers awaken in some of them, a sense of detachment begins to divide the group. Despite the student council's attempts to impose order, they clash with the students possessing special abilities, who rebel against their strict control.\n\nThis conflict leads them to discover that this world has its own set of rules—and following them is necessary for survival. After one of the students decides to take a leap of faith, the school switches dimensions once again. While they deal with the unique challenges and circumstances that each world presents, the students must unravel the mysterious phenomenon and find a way back home.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/qQ2DqgnaAio?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Award Winning",
-    "Mystery"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,102 @@
       "url": "https://lightspeedst.net/s1/mp4/sonny-boy-dublado/hd/12.mp4",
       "nome": "A Two-Year Recess"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-07-16T00:00:00+00:00",
+    "to": "2021-10-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 7,
+        "year": 2021
+      },
+      "to": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      }
+    },
+    "string": "Jul 16, 2021 to Oct 1, 2021"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.84,
+  "scored_by": 131778,
+  "rank": 999,
+  "popularity": 733,
+  "members": 366587,
+  "favorites": 8631,
+  "synopsis": "Thirty-six students find themselves and their school building suddenly adrift in a void-like dimension. When supernatural powers awaken in some of them, a sense of detachment begins to divide the group. Despite the student council's attempts to impose order, they clash with the students possessing special abilities, who rebel against their strict control.\n\nThis conflict leads them to discover that this world has its own set of rules—and following them is necessary for survival. After one of the students decides to take a leap of faith, the school switches dimensions once again. While they deal with the unique challenges and circumstances that each world presents, the students must unravel the mysterious phenomenon and find a way back home.\n\n[Written by MAL Rewrite]",
+  "background": "Sonny Boy is based on an original story written by director Shingo Natsume who previously had his hand in directing shows such as One Punch Man and Space Dandy. Winner of the Excellence Award at the 25th Japan Media Arts Festival.",
+  "season": "summer",
+  "year": 2021,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 1800,
+      "type": "anime",
+      "name": "Marui Group",
+      "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Award Winning",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1509/117149l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/qQ2DqgnaAio?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 48849,
+  "slug": "sonny-boy-dublado"
 }

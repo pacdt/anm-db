@@ -1,17 +1,51 @@
 {
-  "id": 33266,
-  "slug": "nanocore",
-  "type": "legendado",
+  "mal_id": 33266,
+  "url": "https://myanimelist.net/anime/33266/Nanocore",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/79949.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/79949t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/79949l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/79949.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/79949t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/79949l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nanocore"
+    },
+    {
+      "type": "Japanese",
+      "title": "纳米核心"
+    },
+    {
+      "type": "English",
+      "title": "NANOCORE"
+    }
+  ],
   "title": "Nanocore",
   "title_english": "NANOCORE",
   "title_japanese": "纳米核心",
-  "image": "https://cdn.myanimelist.net/images/anime/13/79949l.webp",
-  "score": 5.98,
-  "synopsis": "Nanocore is a science fiction Chinese cartoon in 3D. The stage of the story is established on a fictional planet Birthigin. In this young planet, humanity will never stop longing for a bright future despite reason and fear. In revolutions and evolutions, humanity keeps challenging the Creator, and which eventually induces contractions intensified. People choose to wake up and struggle for their own ideals. They end the peace and angers sweep the whole planet, resulting in outbreak of the crisis known as Purple Fog.\n\nIn time of humans facing their odds of survival, the plan N.S.P led by the elite keeps frustrating until NanoCore's involving. It brings the plan his birth. As the existence, that the elite thinks should lead the development of human weapons, however, he breaks shackles of fate, and arrives at a land where faith no longer exists.\n\nHe learns to make choices and grows up with them, and the dim future of Birthigin thus begins to change.\n\n(Source: Nanocore Tumblr)",
-  "trailer_url": null,
-  "genres": [
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -53,5 +87,62 @@
       "numero": 10,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzAGLdDlaWHWWG3PR68_KmLnEOGnlWgs5tq9jf0bb863Py3275NSpoEjzaEhfGYn_GD381bAJsKxIm-UjMb80mW1yV1x_BBVv9tdNwB6x-oLicG61qqD9p__SKitjii4nnteMY"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-02-14T00:00:00+00:00",
+    "to": "2015-07-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 2,
+        "year": 2014
+      },
+      "to": {
+        "day": 31,
+        "month": 7,
+        "year": 2015
+      }
+    },
+    "string": "Feb 14, 2014 to Jul 31, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.98,
+  "scored_by": 256,
+  "rank": 10464,
+  "popularity": 14295,
+  "members": 1190,
+  "favorites": 1,
+  "synopsis": "Nanocore is a science fiction Chinese cartoon in 3D. The stage of the story is established on a fictional planet Birthigin. In this young planet, humanity will never stop longing for a bright future despite reason and fear. In revolutions and evolutions, humanity keeps challenging the Creator, and which eventually induces contractions intensified. People choose to wake up and struggle for their own ideals. They end the peace and angers sweep the whole planet, resulting in outbreak of the crisis known as Purple Fog.\n\nIn time of humans facing their odds of survival, the plan N.S.P led by the elite keeps frustrating until NanoCore's involving. It brings the plan his birth. As the existence, that the elite thinks should lead the development of human weapons, however, he breaks shackles of fate, and arrives at a land where faith no longer exists.\n\nHe learns to make choices and grows up with them, and the dim future of Birthigin thus begins to change.\n\n(Source: Nanocore Tumblr)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1460,
+      "type": "anime",
+      "name": "Coastline Animation Studio",
+      "url": "https://myanimelist.net/anime/producer/1460/Coastline_Animation_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/79949l.webp",
+  "trailer_url": null,
+  "id": 33266,
+  "slug": "nanocore"
 }

@@ -1,20 +1,51 @@
 {
-  "id": 22225,
-  "slug": "momo-kyun-sword",
-  "type": "legendado",
+  "mal_id": 22225,
+  "url": "https://myanimelist.net/anime/22225/Momo_Kyun_Sword",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/64445.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/64445t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/64445l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/64445.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/64445t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/64445l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/TvRB_cxc8xo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Momo Kyun Sword"
+    },
+    {
+      "type": "Japanese",
+      "title": "モモキュンソード"
+    },
+    {
+      "type": "English",
+      "title": "Momokyun Sword"
+    }
+  ],
   "title": "Momo Kyun Sword",
   "title_english": "Momokyun Sword",
   "title_japanese": "モモキュンソード",
-  "image": "https://cdn.myanimelist.net/images/anime/2/64445l.webp",
-  "score": 5.57,
-  "synopsis": "Momoko is a beautiful young sword fighter who was born inside a peach (momo in Japanese). She lives with her constant companions—the dog god Inugami, the monkey god Sarugami, and the pheasant god Kijigami—in a peaceful paradise. However, a demon army led by devil king invades the paradise and steals the precious treasure that protects Momoko's land. To retrieve the treasure and save the people, Momoko embarks on a great adventure with her three companions.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/TvRB_cxc8xo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +107,85 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxPykZ-gbDX_i7KUxkT0apuv8w1t2P5cCQjIstbj54cLmFz4kUq1OWCN_HuXMxZA5l98iIFKP6XYjC7eXbJLw1jVGZUh97ULloX74t-xOsromIExfZQd-6UlBCahNQoPu9NYM50",
       "nome": "Peach Fantasy! Momo Kyun Sword"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-07-09T00:00:00+00:00",
+    "to": "2014-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2014
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2014
+      }
+    },
+    "string": "Jul 9, 2014 to Sep 24, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.57,
+  "scored_by": 11169,
+  "rank": 12488,
+  "popularity": 4158,
+  "members": 36320,
+  "favorites": 32,
+  "synopsis": "Momoko is a beautiful young sword fighter who was born inside a peach (momo in Japanese). She lives with her constant companions—the dog god Inugami, the monkey god Sarugami, and the pheasant god Kijigami—in a peaceful paradise. However, a demon army led by devil king invades the paradise and steals the precious treasure that protects Momoko's land. To retrieve the treasure and save the people, Momoko embarks on a great adventure with her three companions.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2014,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 439,
+      "type": "anime",
+      "name": "Project No.9",
+      "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+    },
+    {
+      "mal_id": 1165,
+      "type": "anime",
+      "name": "Tri-Slash",
+      "url": "https://myanimelist.net/anime/producer/1165/Tri-Slash"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/2/64445l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/TvRB_cxc8xo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 22225,
+  "slug": "momo-kyun-sword"
 }

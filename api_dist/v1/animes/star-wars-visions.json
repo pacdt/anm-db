@@ -1,19 +1,51 @@
 {
-  "id": 49357,
-  "slug": "star-wars-visions",
-  "type": "legendado",
+  "mal_id": 49357,
+  "url": "https://myanimelist.net/anime/49357/Star_Wars__Visions",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1958/117686.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/117686t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/117686l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1958/117686.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/117686t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/117686l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/jtAsl-0o3O0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Star Wars: Visions"
+    },
+    {
+      "type": "Japanese",
+      "title": "スター・ウォーズ：ビジョンズ"
+    },
+    {
+      "type": "English",
+      "title": "Star Wars: Visions"
+    }
+  ],
   "title": "Star Wars: Visions",
   "title_english": "Star Wars: Visions",
   "title_japanese": "スター・ウォーズ：ビジョンズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1958/117686l.webp",
-  "score": 7.08,
-  "synopsis": "Presenting all-new, creative takes on the galaxy far, far away, Star Wars: Visions will be a series of animated short films celebrating Star Wars through the lens of the world's best anime creators. The anthology collection will bring nine fantastic visions from several of the leading Japanese anime studios, offering a fresh and diverse cultural perspective to Star Wars.\n\n(Source: Disney+)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/jtAsl-0o3O0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -60,5 +92,113 @@
       "url": "https://lightspeedst.net/s1/mp4/star-wars-visions/fhd/9.mp4",
       "nome": "Akakiri"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-09-22T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 22,
+        "month": 9,
+        "year": 2021
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 22, 2021"
+  },
+  "duration": "15 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.08,
+  "scored_by": 52945,
+  "rank": 4206,
+  "popularity": 2356,
+  "members": 98910,
+  "favorites": 366,
+  "synopsis": "Presenting all-new, creative takes on the galaxy far, far away, Star Wars: Visions will be a series of animated short films celebrating Star Wars through the lens of the world's best anime creators. The anthology collection will bring nine fantastic visions from several of the leading Japanese anime studios, offering a fresh and diverse cultural perspective to Star Wars.\n\n(Source: Disney+)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 290,
+      "type": "anime",
+      "name": "Kinema Citrus",
+      "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+    },
+    {
+      "mal_id": 437,
+      "type": "anime",
+      "name": "Kamikaze Douga",
+      "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+    },
+    {
+      "mal_id": 803,
+      "type": "anime",
+      "name": "Trigger",
+      "url": "https://myanimelist.net/anime/producer/803/Trigger"
+    },
+    {
+      "mal_id": 1033,
+      "type": "anime",
+      "name": "Studio Colorido",
+      "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+    },
+    {
+      "mal_id": 1393,
+      "type": "anime",
+      "name": "Geno Studio",
+      "url": "https://myanimelist.net/anime/producer/1393/Geno_Studio"
+    },
+    {
+      "mal_id": 1591,
+      "type": "anime",
+      "name": "Science SARU",
+      "url": "https://myanimelist.net/anime/producer/1591/Science_SARU"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1958/117686l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/jtAsl-0o3O0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49357,
+  "slug": "star-wars-visions"
 }

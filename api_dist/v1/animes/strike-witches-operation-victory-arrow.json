@@ -1,19 +1,47 @@
 {
-  "id": 23725,
-  "slug": "strike-witches-operation-victory-arrow",
-  "type": "legendado",
+  "mal_id": 23725,
+  "url": "https://myanimelist.net/anime/23725/Strike_Witches__Operation_Victory_Arrow",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1288/139648.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/139648t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/139648l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1288/139648.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/139648t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/139648l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2Y7aYxS57K4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Strike Witches: Operation Victory Arrow"
+    },
+    {
+      "type": "Japanese",
+      "title": "ストライクウィッチーズ Operation Victory Arrow"
+    }
+  ],
   "title": "Strike Witches: Operation Victory Arrow",
   "title_english": "Strike Witches: Operation Victory Arrow",
   "title_japanese": "ストライクウィッチーズ Operation Victory Arrow",
-  "image": "https://cdn.myanimelist.net/images/anime/1288/139648l.webp",
-  "score": 7.31,
-  "synopsis": "Operation Victory Arrow is set in the period between the end of Operation Mars in the second television series and the 2012 Strike Witches movie. The three 30-minute short stories depict the lives of the members who returned to their respective homes.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/2Y7aYxS57K4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -30,5 +58,102 @@
       "url": "https://lightspeedst.net/s4/mp4/strike-witches-operation-victory-arrow/sd/3.mp4",
       "nome": "The Bridge of Arnhem"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-12-12T00:00:00+00:00",
+    "to": "2015-07-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 12,
+        "year": 2014
+      },
+      "to": {
+        "day": 31,
+        "month": 7,
+        "year": 2015
+      }
+    },
+    "string": "Dec 12, 2014 to Jul 31, 2015"
+  },
+  "duration": "28 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.31,
+  "scored_by": 11004,
+  "rank": 2887,
+  "popularity": 4748,
+  "members": 27290,
+  "favorites": 42,
+  "synopsis": "Operation Victory Arrow is set in the period between the end of Operation Mars in the second television series and the 2012 Strike Witches movie. The three 30-minute short stories depict the lives of the members who returned to their respective homes.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1255,
+      "type": "anime",
+      "name": "Glovision",
+      "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+    },
+    {
+      "mal_id": 1516,
+      "type": "anime",
+      "name": "Sony PCL",
+      "url": "https://myanimelist.net/anime/producer/1516/Sony_PCL"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1288/139648l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/2Y7aYxS57K4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 23725,
+  "slug": "strike-witches-operation-victory-arrow"
 }

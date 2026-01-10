@@ -1,18 +1,51 @@
 {
-  "id": 36871,
-  "slug": "ultraman-dublado",
-  "type": "dublado",
+  "mal_id": 36871,
+  "url": "https://myanimelist.net/anime/36871/Ultraman",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1774/116478.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1774/116478t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1774/116478l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1774/116478.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1774/116478t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1774/116478l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qNlPjL4YhjU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ultraman"
+    },
+    {
+      "type": "Japanese",
+      "title": "ULTRAMAN"
+    },
+    {
+      "type": "English",
+      "title": "Ultraman"
+    }
+  ],
   "title": "Ultraman",
   "title_english": "Ultraman",
   "title_japanese": "ULTRAMAN",
-  "image": "https://cdn.myanimelist.net/images/anime/1774/116478l.webp",
-  "score": 6.69,
-  "synopsis": "Fifty years ago, an extraterrestrial giant of light known as Ultraman saved the earth but vanished. Ultraman's human host, Shin Hayata, was left with no memory of his time as a hero. Hayata's young son, Shinjirou, is found to have been born with a more powerful and durable body than any normal human. The organization who aided Ultraman, the SSSP, reveals Hayata's past to him. His father then dons a power suit again, assuming the role of Ultraman once more.\n\nOne night, Shinjirou is attacked by an alien named Bemular and rescued by his father, who is severely injured in the battle. With dangerous aliens lurking in the city and Hayata out of commission, it falls to Shinjirou to pick up the torch. But in working with the SSSP as the new Ultraman, Shinjirou finds himself wondering how far is he willing to go to help people.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/qNlPjL4YhjU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -66,5 +99,120 @@
       "numero": 13,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzJmSeTBKLR9MCu42nFl2B_lq6XCnv8XQdkfVNTfH21mie918V0MajlU7I2q62hEo6BHI3IAfHCOyRSI21oA9JCWwsDpHFFOFW6LW6nfV3JcOOm0AOs1OAt5Qw6d5a_t8tmSiJ8"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-04-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 1, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.69,
+  "scored_by": 14930,
+  "rank": 6245,
+  "popularity": 4533,
+  "members": 30297,
+  "favorites": 94,
+  "synopsis": "Fifty years ago, an extraterrestrial giant of light known as Ultraman saved the earth but vanished. Ultraman's human host, Shin Hayata, was left with no memory of his time as a hero. Hayata's young son, Shinjirou, is found to have been born with a more powerful and durable body than any normal human. The organization who aided Ultraman, the SSSP, reveals Hayata's past to him. His father then dons a power suit again, assuming the role of Ultraman once more.\n\nOne night, Shinjirou is attacked by an alien named Bemular and rescued by his father, who is severely injured in the battle. With dangerous aliens lurking in the city and Hayata out of commission, it falls to Shinjirou to pick up the torch. But in working with the SSSP as the new Ultraman, Shinjirou finds himself wondering how far is he willing to go to help people.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 453,
+      "type": "anime",
+      "name": "Tsuburaya Productions",
+      "url": "https://myanimelist.net/anime/producer/453/Tsuburaya_Productions"
+    },
+    {
+      "mal_id": 1358,
+      "type": "anime",
+      "name": "Fields",
+      "url": "https://myanimelist.net/anime/producer/1358/Fields"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    },
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    },
+    {
+      "mal_id": 2152,
+      "type": "anime",
+      "name": "G holdings",
+      "url": "https://myanimelist.net/anime/producer/2152/G_holdings"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 1189,
+      "type": "anime",
+      "name": "Sola Digital Arts",
+      "url": "https://myanimelist.net/anime/producer/1189/Sola_Digital_Arts"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1774/116478l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/qNlPjL4YhjU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36871,
+  "slug": "ultraman-dublado"
 }

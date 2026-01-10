@@ -1,20 +1,62 @@
 {
-  "id": 40823,
-  "slug": "ni-zhuan-ci-yuan-ai-jue-qi",
-  "type": "legendado",
+  "mal_id": 40823,
+  "url": "https://myanimelist.net/anime/40823/Ni_Zhuan_Ci_Yuan__AI_Jue_Qi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1021/105729.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/105729t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/105729l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1021/105729.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/105729t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/105729l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/W66x7xr8Qd0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ni Zhuan Ci Yuan: AI Jue Qi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Reversal Dimension: The Rise of AI"
+    },
+    {
+      "type": "Synonym",
+      "title": "Adverse Epoch"
+    },
+    {
+      "type": "Japanese",
+      "title": "逆转次元：AI崛起"
+    },
+    {
+      "type": "English",
+      "title": "Reversal Dimension"
+    }
+  ],
   "title": "Ni Zhuan Ci Yuan: AI Jue Qi",
   "title_english": "Reversal Dimension",
   "title_japanese": "逆转次元：AI崛起",
-  "image": "https://cdn.myanimelist.net/images/anime/1021/105729l.webp",
-  "score": 6.56,
-  "synopsis": "Shi Jiajie and Xiao Lei, who used the game as a livelihood, accidentally received the entry of the \"Epoch\" game. In order to win a huge prize in the game, Shi Jiajie decided to enter the game. As everyone knows, but it is involved in the inexplicable pursuit, but this is only the prelude to this layer of conspiracy…\n\n(Source: Donghua Info)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/W66x7xr8Qd0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Reversal Dimension: The Rise of AI",
+    "Adverse Epoch"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -64,5 +106,85 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dx0gKcsE_OQZ_rXjvowIQk_8WL1lwz95lSwzX0eqwfdW5VOsZccudWs6nFLSaUKwqSjI9r6MHmfqVn1T_vqdxE-ql5kicqL1FJCdcduSNtRK-B-ppIB82o_r5Ey2dvUVx3YjsM"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-11-05T00:00:00+00:00",
+    "to": "2020-01-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 11,
+        "year": 2019
+      },
+      "to": {
+        "day": 14,
+        "month": 1,
+        "year": 2020
+      }
+    },
+    "string": "Nov 5, 2019 to Jan 14, 2020"
+  },
+  "duration": "17 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.56,
+  "scored_by": 391,
+  "rank": 7037,
+  "popularity": 14048,
+  "members": 1270,
+  "favorites": 4,
+  "synopsis": "Shi Jiajie and Xiao Lei, who used the game as a livelihood, accidentally received the entry of the \"Epoch\" game. In order to win a huge prize in the game, Shi Jiajie decided to enter the game. As everyone knows, but it is involved in the inexplicable pursuit, but this is only the prelude to this layer of conspiracy…\n\n(Source: Donghua Info)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 2582,
+      "type": "anime",
+      "name": "Starlight Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2582/Starlight_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2463,
+      "type": "anime",
+      "name": "Cloud Art",
+      "url": "https://myanimelist.net/anime/producer/2463/Cloud_Art"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1021/105729l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/W66x7xr8Qd0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40823,
+  "slug": "ni-zhuan-ci-yuan-ai-jue-qi"
 }

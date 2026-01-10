@@ -1,18 +1,51 @@
 {
-  "id": 18229,
-  "slug": "gatchaman-crowds",
-  "type": "legendado",
+  "mal_id": 18229,
+  "url": "https://myanimelist.net/anime/18229/Gatchaman_Crowds",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/52471.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/52471t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/52471l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/52471.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/52471t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/52471l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ecYxVCXI844?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gatchaman Crowds"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガッチャマン クラウズ"
+    },
+    {
+      "type": "English",
+      "title": "Gatchaman Crowds"
+    }
+  ],
   "title": "Gatchaman Crowds",
   "title_english": "Gatchaman Crowds",
   "title_japanese": "ガッチャマン クラウズ",
-  "image": "https://cdn.myanimelist.net/images/anime/7/52471l.webp",
-  "score": 7.28,
-  "synopsis": "Hajime Ichinose's ordinary life is in for a change when a transcendent being named J.J Robinson hands her a small book called NOTE—a device which transforms her into one of the Gatchaman, the legendary protectors of Tachikawa City. Stressing that the existence of their group must remain a secret, fellow Gatchaman Sugane Tachibana takes Hajime to their base of operations, where Paiman, the panda-like alien leader of the Gatchaman, reveals their purpose: to eliminate aliens that pose a danger to humanity. These existential threats, called MESS, are becoming increasingly dangerous, destroying everything they touch. Now it's up to the Gatchaman and their new recruit to stop them before the world is engulfed in chaos.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ecYxVCXI844?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw1miaUe80eFJiOYlzDQP4GcQd6t9FaXDkpLquciDDady6UU5zxRxqcdPPr2ZrLYpL7MgKqJSr5P1r_vGWkFQ4PkTmkRCqskNk6vpE75on4Ac0Vjzv9VsHWBXeRdF6Ljde9Iogm",
       "nome": "Collage"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-07-13T00:00:00+00:00",
+    "to": "2013-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 7,
+        "year": 2013
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2013
+      }
+    },
+    "string": "Jul 13, 2013 to Sep 28, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.28,
+  "scored_by": 71491,
+  "rank": 3058,
+  "popularity": 1432,
+  "members": 188721,
+  "favorites": 1221,
+  "synopsis": "Hajime Ichinose's ordinary life is in for a change when a transcendent being named J.J Robinson hands her a small book called NOTE—a device which transforms her into one of the Gatchaman, the legendary protectors of Tachikawa City. Stressing that the existence of their group must remain a secret, fellow Gatchaman Sugane Tachibana takes Hajime to their base of operations, where Paiman, the panda-like alien leader of the Gatchaman, reveals their purpose: to eliminate aliens that pose a danger to humanity. These existential threats, called MESS, are becoming increasingly dangerous, destroying everything they touch. Now it's up to the Gatchaman and their new recruit to stop them before the world is engulfed in chaos.\n\n[Written by MAL Rewrite]",
+  "background": "The North American release of the Gatchaman Crowds anime series does not contain the director's cut of episode 12, which remains exclusive to Japan.",
+  "season": "summer",
+  "year": 2013,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Saturdays at Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 3193,
+      "type": "anime",
+      "name": "Sound Inn Studio",
+      "url": "https://myanimelist.net/anime/producer/3193/Sound_Inn_Studio"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/52471l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ecYxVCXI844?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 18229,
+  "slug": "gatchaman-crowds"
 }

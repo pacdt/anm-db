@@ -1,19 +1,51 @@
 {
-  "id": 52211,
-  "slug": "mashle-dublado",
-  "type": "dublado",
+  "mal_id": 52211,
+  "url": "https://myanimelist.net/anime/52211/Mashle",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1218/135107.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1218/135107t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1218/135107l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1218/135107.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1218/135107t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1218/135107l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Hbz4shbCPCA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mashle"
+    },
+    {
+      "type": "Japanese",
+      "title": "マッシュル-MASHLE-"
+    },
+    {
+      "type": "English",
+      "title": "Mashle: Magic and Muscles"
+    }
+  ],
   "title": "Mashle",
   "title_english": "Mashle: Magic and Muscles",
   "title_japanese": "マッシュル-MASHLE-",
-  "image": "https://cdn.myanimelist.net/images/anime/1218/135107l.webp",
-  "score": 7.62,
-  "synopsis": "In this magical world, one is easily identified as having magical abilities by a distinctive mark on their face. Those unable to practice magic are swiftly exterminated to maintain the magical integrity of society. However, deep within a forest lies an anomaly in Mash Burnedead, who can be found pumping iron with one arm and lifting a cream puff with the other. This aloof boy with superhuman strength—but no magical abilities—leads a quiet life with his father, far removed from society.\n\nMash's peace is soon disturbed when the authorities discover his lack of magical powers. They issue him an ultimatum: compete to become a Divine Visionary, which would force everyone to accept him, or be persecuted forever. To protect his family, he enrolls in the prestigious Easton Magic Academy, which only the most elite and gifted students are allowed to attend. Now, Mash must overcome his shortcomings as a magic-less being and surpass the other students—relying solely on his muscles.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Hbz4shbCPCA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +107,122 @@
       "url": "https://lightspeedst.net/s7/mp4/mashle-dublado/fhd/12.mp4",
       "nome": "Mash Burnedead and the Magic Mirror"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-04-08T00:00:00+00:00",
+    "to": "2023-07-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2023
+      },
+      "to": {
+        "day": 1,
+        "month": 7,
+        "year": 2023
+      }
+    },
+    "string": "Apr 8, 2023 to Jul 1, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.62,
+  "scored_by": 426098,
+  "rank": 1595,
+  "popularity": 297,
+  "members": 760178,
+  "favorites": 4717,
+  "synopsis": "In this magical world, one is easily identified as having magical abilities by a distinctive mark on their face. Those unable to practice magic are swiftly exterminated to maintain the magical integrity of society. However, deep within a forest lies an anomaly in Mash Burnedead, who can be found pumping iron with one arm and lifting a cream puff with the other. This aloof boy with superhuman strength—but no magical abilities—leads a quiet life with his father, far removed from society.\n\nMash's peace is soon disturbed when the authorities discover his lack of magical powers. They issue him an ultimatum: compete to become a Divine Visionary, which would force everyone to accept him, or be persecuted forever. To protect his family, he enrolls in the prestigious Easton Magic Academy, which only the most elite and gifted students are allowed to attend. Now, Mash must overcome his shortcomings as a magic-less being and surpass the other students—relying solely on his muscles.\n\n[Written by MAL Rewrite]",
+  "background": "Mashle adapts the first 38 chapters of the original manga.",
+  "season": "spring",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 142,
+      "type": "anime",
+      "name": "Asatsu DK",
+      "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 2640,
+      "type": "anime",
+      "name": "INSPION Edge",
+      "url": "https://myanimelist.net/anime/producer/2640/INSPION_Edge"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1218/135107l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Hbz4shbCPCA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 52211,
+  "slug": "mashle-dublado"
 }

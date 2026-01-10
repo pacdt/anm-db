@@ -1,19 +1,59 @@
 {
-  "id": 11433,
-  "slug": "ano-natsu-de-matteru",
-  "type": "legendado",
+  "mal_id": 11433,
+  "url": "https://myanimelist.net/anime/11433/Ano_Natsu_de_Matteru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/59405.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/59405t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/59405l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/59405.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/59405t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/59405l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/dM4fbripgWA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ano Natsu de Matteru"
+    },
+    {
+      "type": "Japanese",
+      "title": "あの夏で待ってる"
+    },
+    {
+      "type": "English",
+      "title": "Waiting in the Summer"
+    },
+    {
+      "type": "German",
+      "title": "Waiting in the Summer"
+    },
+    {
+      "type": "Spanish",
+      "title": "Ano Natsu de Matteru: Waiting in the Summer"
+    }
+  ],
   "title": "Ano Natsu de Matteru",
   "title_english": "Waiting in the Summer",
   "title_japanese": "あの夏で待ってる",
-  "image": "https://cdn.myanimelist.net/images/anime/12/59405l.webp",
-  "score": 7.4,
-  "synopsis": "While testing out his camera on a bridge one summer night, Kaito Kirishima sees a blue light streaking across the sky, only to be blown off the railing seconds later. Just before succumbing to unconsciousness, a hand reaches down to grab ahold of his own. Dazed and confused, Kaito wakes up the next morning wondering how he ended up back in his own room with no apparent injuries or any recollection of the night before. As he proceeds with his normal school life, Kaito and his friends discuss what to do with his camera, finally deciding to make a film with it over their upcoming summer break. Noticing that Kaito has an interest in the new upperclassmen Ichika Takatsuki, his friend Tetsurou Ishigaki decides to invite her, as well as her friend Remon Yamano, to join them in their movie project.\n\nIn what becomes one of the most entertaining and exciting summers of their lives, Kaito and his friends find that their time spent together is not just about creating a film, but something much more meaningful that will force them to confront their true feelings and each other.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/dM4fbripgWA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +115,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz_1adHnwopsMQTk_N-y6J1jrXjOaLkdpXGMXv4aB-ORsBtTLE2UUN8d6izU4imKyQnp-1NqE7tgwD30Pj45AoeMAsHMnVaqvyVJ6ajcmRTP9Ez36DbkLuqtzgzChBD-kqN9WE",
       "nome": "Waiting there, in the summer."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-10T00:00:00+00:00",
+    "to": "2012-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2012
+      }
+    },
+    "string": "Jan 10, 2012 to Mar 27, 2012"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.4,
+  "scored_by": 186749,
+  "rank": 2477,
+  "popularity": 649,
+  "members": 406665,
+  "favorites": 2102,
+  "synopsis": "While testing out his camera on a bridge one summer night, Kaito Kirishima sees a blue light streaking across the sky, only to be blown off the railing seconds later. Just before succumbing to unconsciousness, a hand reaches down to grab ahold of his own. Dazed and confused, Kaito wakes up the next morning wondering how he ended up back in his own room with no apparent injuries or any recollection of the night before. As he proceeds with his normal school life, Kaito and his friends discuss what to do with his camera, finally deciding to make a film with it over their upcoming summer break. Noticing that Kaito has an interest in the new upperclassmen Ichika Takatsuki, his friend Tetsurou Ishigaki decides to invite her, as well as her friend Remon Yamano, to join them in their movie project.\n\nIn what becomes one of the most entertaining and exciting summers of their lives, Kaito and his friends find that their time spent together is not just about creating a film, but something much more meaningful that will force them to confront their true feelings and each other.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Geneon Universal Entertainment",
+      "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/59405l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/dM4fbripgWA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 11433,
+  "slug": "ano-natsu-de-matteru"
 }

@@ -1,22 +1,150 @@
 {
-  "id": 28405,
-  "slug": "ansatsu-kyoushitsu-deai-no-jikan",
-  "type": "legendado",
+  "mal_id": 28405,
+  "url": "https://myanimelist.net/anime/28405/Ansatsu_Kyoushitsu__Deai_no_Jikan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/68547.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/68547t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/68547l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/68547.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/68547t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/68547l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ansatsu Kyoushitsu: Deai no Jikan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Assassination Classroom"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ansatsu Kyoushitsu Episode 0: Deai no Jikan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ansatsu Kyoushitsu: Jump Festa 2014 Special"
+    },
+    {
+      "type": "Japanese",
+      "title": "暗殺教室 episode:0 出会いの時間"
+    },
+    {
+      "type": "English",
+      "title": "Assassination Classroom: Meeting Time"
+    }
+  ],
   "title": "Ansatsu Kyoushitsu: Deai no Jikan",
   "title_english": "Assassination Classroom: Meeting Time",
   "title_japanese": "暗殺教室 episode:0 出会いの時間",
-  "image": "https://cdn.myanimelist.net/images/anime/12/68547l.webp",
-  "score": 7.43,
-  "synopsis": "Koro-sensei reminisces about his first meeting with Karasuma, where they first butted heads and fought against each other, ultimately coming to respect one another. However, Karasuma eventually points out their actual meeting wasn't nearly as eventful.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy"
+  "title_synonyms": [
+    "Assassination Classroom",
+    "Ansatsu Kyoushitsu Episode 0: Deai no Jikan",
+    "Ansatsu Kyoushitsu: Jump Festa 2014 Special"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/ansatsu-kyoushitsu-deai-no-jikan/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-11-09T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 11,
+        "year": 2014
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 9, 2014"
+  },
+  "duration": "10 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.43,
+  "scored_by": 67343,
+  "rank": 2334,
+  "popularity": 1759,
+  "members": 147241,
+  "favorites": 249,
+  "synopsis": "Koro-sensei reminisces about his first meeting with Karasuma, where they first butted heads and fought against each other, ultimately coming to respect one another. However, Karasuma eventually points out their actual meeting wasn't nearly as eventful.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 456,
+      "type": "anime",
+      "name": "Lerche",
+      "url": "https://myanimelist.net/anime/producer/456/Lerche"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/68547l.webp",
+  "trailer_url": null,
+  "id": 28405,
+  "slug": "ansatsu-kyoushitsu-deai-no-jikan"
 }

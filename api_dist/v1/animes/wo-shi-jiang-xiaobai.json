@@ -1,18 +1,57 @@
 {
-  "id": 36775,
-  "slug": "wo-shi-jiang-xiaobai",
-  "type": "legendado",
+  "mal_id": 36775,
+  "url": "https://myanimelist.net/anime/36775/Wo_Shi_Jiang_Xiaobai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1647/116402.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/116402t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/116402l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1647/116402.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1647/116402t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1647/116402l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/MH-t1nBiJHQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wo Shi Jiang Xiaobai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wo Shi Jiang Xiao Bai"
+    },
+    {
+      "type": "Japanese",
+      "title": "我是江小白"
+    },
+    {
+      "type": "English",
+      "title": "I'm Joybo"
+    }
+  ],
   "title": "Wo Shi Jiang Xiaobai",
   "title_english": "I'm Joybo",
   "title_japanese": "我是江小白",
-  "image": "https://cdn.myanimelist.net/images/anime/1647/116402l.webp",
-  "score": 7.07,
-  "synopsis": "Ten years ago, Jiang Xiaobai lost all his memories due to a traumatic event he no longer remembers. Now working as a trainee in Editorial Office No.2 of Wen Zheng Magazine, a literary periodical based in Chongqing, he is excited to begin a new chapter of his life: in two days, he finishes his probationary period and officially starts his job as an editor. He gives no thought to his recurring dream of a girl whose face can never clearly see.\n\nThat evening, one of Jiang Xiaobai's seniors passes him the task of rushing to the airport to escort the idiosyncratic rising author Tong Li, who has returned from America to launch her first serialized novel in Chinese. As punishment for this senior reneging on his own duties, Jiang Xiaobai replaces him as Tong Li's new editor. Though they get off to a rough start, Tong Li soon recognizes Jiang Xiaobai as someone precious from her high school days. Before they know it, the wheels of fate are set in motion, as Jiang Xiaobai slowly uncovers clues about a long-forgotten girl from his past.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/MH-t1nBiJHQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Wo Shi Jiang Xiao Bai"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -62,5 +101,63 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dz6Fy0e9tAjT9V-w8Ule506YTWx9-C6DiaT5lax5EJGxhLu3qY1oogzYdWD5ak16bxtP1rhjU9ONmvxwUkb7XyB85qp6IWNJHrbpMMxfIBZgID_-0LjB9VskYb-wpnVxHPjA6s"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-11-09T00:00:00+00:00",
+    "to": "2018-01-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 11,
+        "year": 2017
+      },
+      "to": {
+        "day": 24,
+        "month": 1,
+        "year": 2018
+      }
+    },
+    "string": "Nov 9, 2017 to Jan 24, 2018"
+  },
+  "duration": "21 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.07,
+  "scored_by": 1663,
+  "rank": 4221,
+  "popularity": 7604,
+  "members": 8473,
+  "favorites": 21,
+  "synopsis": "Ten years ago, Jiang Xiaobai lost all his memories due to a traumatic event he no longer remembers. Now working as a trainee in Editorial Office No.2 of Wen Zheng Magazine, a literary periodical based in Chongqing, he is excited to begin a new chapter of his life: in two days, he finishes his probationary period and officially starts his job as an editor. He gives no thought to his recurring dream of a girl whose face can never clearly see.\n\nThat evening, one of Jiang Xiaobai's seniors passes him the task of rushing to the airport to escort the idiosyncratic rising author Tong Li, who has returned from America to launch her first serialized novel in Chinese. As punishment for this senior reneging on his own duties, Jiang Xiaobai replaces him as Tong Li's new editor. Though they get off to a rough start, Tong Li soon recognizes Jiang Xiaobai as someone precious from her high school days. Before they know it, the wheels of fate are set in motion, as Jiang Xiaobai slowly uncovers clues about a long-forgotten girl from his past.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1807,
+      "type": "anime",
+      "name": "2:10 Animation",
+      "url": "https://myanimelist.net/anime/producer/1807/2_10_Animation"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1647/116402l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/MH-t1nBiJHQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36775,
+  "slug": "wo-shi-jiang-xiaobai"
 }

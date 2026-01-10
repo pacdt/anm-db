@@ -1,18 +1,58 @@
 {
-  "id": 43763,
-  "slug": "cestvs-the-roman-fighter",
-  "type": "legendado",
+  "mal_id": 43763,
+  "url": "https://myanimelist.net/anime/43763/Cestvs__The_Roman_Fighter",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1291/114014.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1291/114014t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1291/114014l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1291/114014.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1291/114014t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1291/114014l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/BUB4VjlB4G8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cestvs: The Roman Fighter"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kentou Ankokuden Cestv"
+    },
+    {
+      "type": "Synonym",
+      "title": "Cestus: The Legend of Boxing in the Dark Ages"
+    },
+    {
+      "type": "Japanese",
+      "title": "セスタス-The Roman Fighter-"
+    }
+  ],
   "title": "Cestvs: The Roman Fighter",
   "title_english": "Cestvs: The Roman Fighter",
   "title_japanese": "セスタス-The Roman Fighter-",
-  "image": "https://cdn.myanimelist.net/images/anime/1291/114014l.webp",
-  "score": 5.95,
-  "synopsis": "In the year 54 AD, 15-year-old slave fighter Cestvs desires one thing—an escape from his violent life. It is the wish Cestvs' owner has promised to grant him, but only after he wins 100 battles. However, Cestvs quickly comes to terms with the fact that, as a slave, his life is expendable. After the death of his friend, the possibility of freedom is the only thing keeping him going. With a burning ambition to attain it, Cestvs embarks on a journey to earn himself back, even if it means fighting other slaves for the entertainment of the public.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/BUB4VjlB4G8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Sports"
+  "title_synonyms": [
+    "Kentou Ankokuden Cestv",
+    "Cestus: The Legend of Boxing in the Dark Ages"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -69,5 +109,126 @@
       "url": "https://lightspeedst.net/s2/mp4/cestvs-the-roman-fighter/fhd/11.mp4",
       "nome": "A New Battlefield"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-15T00:00:00+00:00",
+    "to": "2021-06-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 24,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 15, 2021 to Jun 24, 2021"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.95,
+  "scored_by": 8213,
+  "rank": 10632,
+  "popularity": 5192,
+  "members": 21986,
+  "favorites": 85,
+  "synopsis": "In the year 54 AD, 15-year-old slave fighter Cestvs desires one thing—an escape from his violent life. It is the wish Cestvs' owner has promised to grant him, but only after he wins 100 battles. However, Cestvs quickly comes to terms with the fact that, as a slave, his life is expendable. After the death of his friend, the possibility of freedom is the only thing keeping him going. With a burning ambition to attain it, Cestvs embarks on a journey to earn himself back, even if it means fighting other slaves for the entertainment of the public.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 148,
+      "type": "anime",
+      "name": "Hakusensha",
+      "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 230,
+      "type": "anime",
+      "name": "Bandai",
+      "url": "https://myanimelist.net/anime/producer/230/Bandai"
+    },
+    {
+      "mal_id": 687,
+      "type": "anime",
+      "name": "Bandai Namco Live Creative",
+      "url": "https://myanimelist.net/anime/producer/687/Bandai_Namco_Live_Creative"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1488,
+      "type": "anime",
+      "name": "Hakuhodo DY Media Partners",
+      "url": "https://myanimelist.net/anime/producer/1488/Hakuhodo_DY_Media_Partners"
+    },
+    {
+      "mal_id": 1992,
+      "type": "anime",
+      "name": "Bandai Spirits",
+      "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    },
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1291/114014l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/BUB4VjlB4G8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 43763,
+  "slug": "cestvs-the-roman-fighter"
 }

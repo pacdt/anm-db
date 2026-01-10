@@ -1,19 +1,47 @@
 {
-  "id": 119,
-  "slug": "final-approach",
-  "type": "legendado",
+  "mal_id": 119,
+  "url": "https://myanimelist.net/anime/119/Final_Approach",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/14607.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/14607t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/14607l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/14607.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/14607t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/14607l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Final Approach"
+    },
+    {
+      "type": "Japanese",
+      "title": "φなる・あぷろーち"
+    }
+  ],
   "title": "Final Approach",
   "title_english": "Final Approach",
   "title_japanese": "φなる・あぷろーち",
-  "image": "https://cdn.myanimelist.net/images/anime/11/14607l.webp",
-  "score": 6.49,
-  "synopsis": "Ever since their parents died a few years ago, Ryo and his sister Akane have been living alone together. Despite their difficult situation, they are still living reasonably happy and normal lives. However, everything is about to be flipped upside-down due to a secret government project. Due to increasingly low birth rates in Japan, the Japanese government is testing a program in which two young people are forced to marry. Ryo wants no part of it, but he is given little choice in the matter; his new fiancée, Shizuka, comes to his home late one night with several dozen government issued bodyguards, who are there to ensure the success of the new couple. Unlike Ryo, Shizuka couldn’t be more willing to go along with this new program, and eagerly goes about her wifely duties, despite his objections. With meddling friends, pushy bodyguards, and an overenthusiastic new fiancée, Ryo’s life has taken a turn in a direction the young man certainly didn’t expect.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +108,70 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dynrkI45rYOxFW1EpgNm5r4QAqtN48nE38-6Kg-M7f_Xtcp2nFmxjYXSbdL6wjSv-kgqYTdWXK-z981fUVbal6HHolDMxKicwCSBGLTFjNB3CyD9egDSEtijsgzBCGPIm4NjZU",
       "nome": "A Great Conflict!! The Wedding of Love and Glory"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-10-03T00:00:00+00:00",
+    "to": "2004-12-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 26,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Oct 3, 2004 to Dec 26, 2004"
+  },
+  "duration": "14 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.49,
+  "scored_by": 18292,
+  "rank": 7484,
+  "popularity": 4108,
+  "members": 37199,
+  "favorites": 50,
+  "synopsis": "Ever since their parents died a few years ago, Ryo and his sister Akane have been living alone together. Despite their difficult situation, they are still living reasonably happy and normal lives. However, everything is about to be flipped upside-down due to a secret government project. Due to increasingly low birth rates in Japan, the Japanese government is testing a program in which two young people are forced to marry. Ryo wants no part of it, but he is given little choice in the matter; his new fiancée, Shizuka, comes to his home late one night with several dozen government issued bodyguards, who are there to ensure the success of the new couple. Unlike Ryo, Shizuka couldn’t be more willing to go along with this new program, and eagerly goes about her wifely duties, despite his objections. With meddling friends, pushy bodyguards, and an overenthusiastic new fiancée, Ryo’s life has taken a turn in a direction the young man certainly didn’t expect.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2004,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Trinet Entertainment",
+      "url": "https://myanimelist.net/anime/producer/63/Trinet_Entertainment"
+    },
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/14607l.webp",
+  "trailer_url": null,
+  "id": 119,
+  "slug": "final-approach"
 }

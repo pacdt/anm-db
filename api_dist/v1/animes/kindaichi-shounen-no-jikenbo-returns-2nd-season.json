@@ -1,17 +1,79 @@
 {
-  "id": 31227,
-  "slug": "kindaichi-shounen-no-jikenbo-returns-2nd-season",
-  "type": "legendado",
+  "mal_id": 31227,
+  "url": "https://myanimelist.net/anime/31227/Kindaichi_Shounen_no_Jikenbo_Returns_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/75726.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75726t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75726l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/75726.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75726t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75726l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pCUF5QRdY-U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kindaichi Shounen no Jikenbo Returns 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kindaichi Shounen no Jikenbo R 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kindaichi Case Files Returns"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kindaichi Case Files R 2,"
+    },
+    {
+      "type": "Japanese",
+      "title": "金田一少年の事件簿R【リターンズ】"
+    },
+    {
+      "type": "English",
+      "title": "The File of Young Kindaichi Returns 2nd Season"
+    },
+    {
+      "type": "German",
+      "title": "The File of Young Kindaichi Returns Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kindaichi Shounen no Jikenbo Returns Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "The File of Young Kindaichi Returns Saison 2"
+    }
+  ],
   "title": "Kindaichi Shounen no Jikenbo Returns 2nd Season",
   "title_english": "The File of Young Kindaichi Returns 2nd Season",
   "title_japanese": "金田一少年の事件簿R【リターンズ】",
-  "image": "https://cdn.myanimelist.net/images/anime/9/75726l.webp",
-  "score": 7.67,
-  "synopsis": "Hajime Kindaichi once again becomes embroiled in solving baffling cases and deciphering puzzling crimes that would confound the most seasoned of detectives. Whether it's a gruesome murder and shady circumstances surrounding the Japanese board game Go; a perplexing and macabre case involving a mysterious character, \"Rosenkreutz,\" and blue roses; or blood curdling crimes associated with an urban legend at a winter ski resort – Hajime is out to crack them all!\n\n(Source: YTV)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/pCUF5QRdY-U?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery"
+  "title_synonyms": [
+    "Kindaichi Shounen no Jikenbo R 2",
+    "Kindaichi Case Files Returns",
+    "Kindaichi Case Files R 2,"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -123,5 +185,76 @@
       "url": "https://lightspeedst.net/s2/mp4/kindaichi-shounen-no-jikenbo-returns-2nd-season/sd/22.mp4",
       "nome": "The Foxfire-Floating Murders, File 4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-03T00:00:00+00:00",
+    "to": "2016-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2016
+      }
+    },
+    "string": "Oct 3, 2015 to Mar 26, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.67,
+  "scored_by": 5399,
+  "rank": 1452,
+  "popularity": 6339,
+  "members": 13152,
+  "favorites": 34,
+  "synopsis": "Hajime Kindaichi once again becomes embroiled in solving baffling cases and deciphering puzzling crimes that would confound the most seasoned of detectives. Whether it's a gruesome murder and shady circumstances surrounding the Japanese board game Go; a perplexing and macabre case involving a mysterious character, \"Rosenkreutz,\" and blue roses; or blood curdling crimes associated with an urban legend at a winter ski resort – Hajime is out to crack them all!\n\n(Source: YTV)",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/9/75726l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/pCUF5QRdY-U?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31227,
+  "slug": "kindaichi-shounen-no-jikenbo-returns-2nd-season"
 }

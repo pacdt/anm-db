@@ -1,18 +1,75 @@
 {
-  "id": 14227,
-  "slug": "tonari-no-kaibutsu-kun",
-  "type": "legendado",
+  "mal_id": 14227,
+  "url": "https://myanimelist.net/anime/14227/Tonari_no_Kaibutsu-kun",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/39779.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/39779t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/39779l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/39779.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/39779t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/39779l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/SlD-8h96pDw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tonari no Kaibutsu-kun"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tonari no Kaibutsukun"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Monster Next Door"
+    },
+    {
+      "type": "Synonym",
+      "title": "My Neighbor Monster-kun"
+    },
+    {
+      "type": "Japanese",
+      "title": "となりの怪物くん"
+    },
+    {
+      "type": "English",
+      "title": "My Little Monster"
+    },
+    {
+      "type": "German",
+      "title": "My Little Monster"
+    },
+    {
+      "type": "French",
+      "title": "Le Garçon d'à Côté"
+    }
+  ],
   "title": "Tonari no Kaibutsu-kun",
   "title_english": "My Little Monster",
   "title_japanese": "となりの怪物くん",
-  "image": "https://cdn.myanimelist.net/images/anime/4/39779l.webp",
-  "score": 7.45,
-  "synopsis": "Shizuku Mizutani is apathetic toward her classmates, only caring about her grades. However, her cold view of life begins to change when she meets Haru Yoshida, a violent troublemaker who stopped attending class after getting into a fight early in the school year. He is not much different from her, though—he too understands little about human nature and does not have any friends. Much to Shizuku's surprise, he proclaims that she will be his friend and immediately confesses his feelings toward her upon meeting her.\n \nBecause of her lack of friends and social interaction, Shizuku has a hard time understanding her relationship with Haru. But slowly, their friendship begins to progress, and she discovers that there is more to Haru than violence. She begins to  develop feelings for him, but is unsure what kind of emotions she is experiencing. Together, Shizuku and Haru explore the true nature of their relationship and emotions.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/SlD-8h96pDw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Tonari no Kaibutsukun",
+    "The Monster Next Door",
+    "My Neighbor Monster-kun"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +136,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzEeXjhOX_OykoZp4rhG-pslBHKssXtC9M-D_fIvGwHPj78KcJVWBpQF15Usvd__MFyGE_K9cI6Uk04VwNcWCOE3obPexbtwhzg9Z5raQcR9iPcZ2g1qX9E0K8yUxmUoPYrJxMJ",
       "nome": "Spring Is Near"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-02T00:00:00+00:00",
+    "to": "2012-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Oct 2, 2012 to Dec 25, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.45,
+  "scored_by": 643040,
+  "rank": 2253,
+  "popularity": 143,
+  "members": 1154710,
+  "favorites": 6630,
+  "synopsis": "Shizuku Mizutani is apathetic toward her classmates, only caring about her grades. However, her cold view of life begins to change when she meets Haru Yoshida, a violent troublemaker who stopped attending class after getting into a fight early in the school year. He is not much different from her, though—he too understands little about human nature and does not have any friends. Much to Shizuku's surprise, he proclaims that she will be his friend and immediately confesses his feelings toward her upon meeting her.\n \nBecause of her lack of friends and social interaction, Shizuku has a hard time understanding her relationship with Haru. But slowly, their friendship begins to progress, and she discovers that there is more to Haru than violence. She begins to  develop feelings for him, but is unsure what kind of emotions she is experiencing. Together, Shizuku and Haru explore the true nature of their relationship and emotions.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 372,
+      "type": "anime",
+      "name": "NIS America",
+      "url": "https://myanimelist.net/anime/producer/372/NIS_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/39779l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/SlD-8h96pDw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 14227,
+  "slug": "tonari-no-kaibutsu-kun"
 }

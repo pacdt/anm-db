@@ -1,18 +1,67 @@
 {
-  "id": 37044,
-  "slug": "guomin-laogong-dai-huijia-2nd-season",
-  "type": "legendado",
+  "mal_id": 37044,
+  "url": "https://myanimelist.net/anime/37044/Guomin_Laogong_Dai_Huijia_2nd_season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1838/90259.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1838/90259t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1838/90259l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1838/90259.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1838/90259t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1838/90259l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/eQTfMKP5h-A?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Guomin Laogong Dai Huijia 2nd season"
+    },
+    {
+      "type": "Synonym",
+      "title": "How to Steal 55 Kisses 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bringing Back Home Mr. Perfect 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Taking Everybody's Husband Home 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "国民老公带回家 第二季"
+    },
+    {
+      "type": "English",
+      "title": "National Husband Bring Home 2"
+    }
+  ],
   "title": "Guomin Laogong Dai Huijia 2nd season",
   "title_english": "National Husband Bring Home 2",
   "title_japanese": "国民老公带回家 第二季",
-  "image": "https://cdn.myanimelist.net/images/anime/1838/90259l.webp",
-  "score": 6.3,
-  "synopsis": "Second season of Guomin Laogong Dai Huijia.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/eQTfMKP5h-A?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "How to Steal 55 Kisses 2nd Season",
+    "Bringing Back Home Mr. Perfect 2nd Season",
+    "Taking Everybody's Husband Home 2nd Season"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -62,5 +111,83 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwsACeROsLLqNe85JCR3y73q4TEtj6alTVtFqEIXRDl5DhUp36XyQIY2fk02CtmsS5Ewt1QWV7P5yfGozOYVCKGOdvtsteBQAFyZH6eQLUeXI0hs97ZdkOQh5fJjyH03tNaKIk"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-05-01T00:00:00+00:00",
+    "to": "2017-07-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 5,
+        "year": 2017
+      },
+      "to": {
+        "day": 3,
+        "month": 7,
+        "year": 2017
+      }
+    },
+    "string": "May 1, 2017 to Jul 3, 2017"
+  },
+  "duration": "12 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.3,
+  "scored_by": 2018,
+  "rank": 8625,
+  "popularity": 8400,
+  "members": 6618,
+  "favorites": 9,
+  "synopsis": "Second season of Guomin Laogong Dai Huijia.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1350,
+      "type": "anime",
+      "name": "B.CMAY PICTURES",
+      "url": "https://myanimelist.net/anime/producer/1350/BCMAY_PICTURES"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1838/90259l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/eQTfMKP5h-A?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37044,
+  "slug": "guomin-laogong-dai-huijia-2nd-season"
 }

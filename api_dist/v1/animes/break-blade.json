@@ -1,17 +1,63 @@
 {
-  "id": 22433,
-  "slug": "break-blade",
-  "type": "legendado",
+  "mal_id": 22433,
+  "url": "https://myanimelist.net/anime/22433/Break_Blade",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/58635.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/58635t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/58635l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/58635.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/58635t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/58635l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WlWevyHW2ak?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Break Blade"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブレイク ブレイド"
+    },
+    {
+      "type": "English",
+      "title": "Broken Blade"
+    },
+    {
+      "type": "German",
+      "title": "Broken Blade"
+    },
+    {
+      "type": "Spanish",
+      "title": "Broken Blade"
+    },
+    {
+      "type": "French",
+      "title": "Broken Blade"
+    }
+  ],
   "title": "Break Blade",
   "title_english": "Broken Blade",
   "title_japanese": "ブレイク ブレイド",
-  "image": "https://cdn.myanimelist.net/images/anime/7/58635l.webp",
-  "score": 7.24,
-  "synopsis": "In the continent of Cruzon, an impending war between the Kingdom of Krisna and the nation of Athens is brimming. The people of this land are able to use quartz for whatever purpose they desire. Yet one person, Rygart Arrow, is not. He is an \"un-sorcerer,\" a person unable to use quartz. But this characteristic will enable him to pilot an ancient Golem, one strong enough to put up a fight against the invading army of Athens.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/WlWevyHW2ak?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +119,113 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyaYn-WAOwmK7HfM7Pev88UbhQOKbd0SAnkvOG3uhVRgCRaM6dtsAdqIgPgPcR42ez4EBXD2j9xN2h7hdn30_9rsyv4V4tAVkbLgiVkUMLqggALiX_ssKy36Yv-1-3bFCU5wahT",
       "nome": "Endless Fate"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-04-06T00:00:00+00:00",
+    "to": "2014-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2014
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2014
+      }
+    },
+    "string": "Apr 6, 2014 to Jun 22, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.24,
+  "scored_by": 38817,
+  "rank": 3303,
+  "popularity": 2322,
+  "members": 101116,
+  "favorites": 229,
+  "synopsis": "In the continent of Cruzon, an impending war between the Kingdom of Krisna and the nation of Athens is brimming. The people of this land are able to use quartz for whatever purpose they desire. Yet one person, Rygart Arrow, is not. He is an \"un-sorcerer,\" a person unable to use quartz. But this characteristic will enable him to pilot an ancient Golem, one strong enough to put up a fight against the invading army of Athens.",
+  "background": "",
+  "season": "spring",
+  "year": 2014,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/58635l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/WlWevyHW2ak?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 22433,
+  "slug": "break-blade"
 }

@@ -1,20 +1,69 @@
 {
-  "id": 8630,
-  "slug": "hidan-no-aria",
-  "type": "legendado",
+  "mal_id": 8630,
+  "url": "https://myanimelist.net/anime/8630/Hidan_no_Aria",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/30095.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/30095t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/30095l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/30095.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/30095t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/30095l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3dTWfuip5Ro?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hidan no Aria"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hidan no Aria"
+    },
+    {
+      "type": "Japanese",
+      "title": "緋弾のアリア"
+    },
+    {
+      "type": "English",
+      "title": "Aria the Scarlet Ammo"
+    },
+    {
+      "type": "German",
+      "title": "Aria the Scarlet Ammo"
+    },
+    {
+      "type": "Spanish",
+      "title": "Aria the Scarlet Ammo"
+    },
+    {
+      "type": "French",
+      "title": "Aria the Scarlet Ammo"
+    }
+  ],
   "title": "Hidan no Aria",
   "title_english": "Aria the Scarlet Ammo",
   "title_japanese": "緋弾のアリア",
-  "image": "https://cdn.myanimelist.net/images/anime/9/30095l.webp",
-  "score": 6.77,
-  "synopsis": "In response to the worsening crime rate, Japan creates Tokyo Butei High, an elite academy where \"Butei\" or armed detectives hone their deadly skills in hopes of becoming mercenary-like agents of justice. One particular Butei is Kinji Tooyama, an anti-social and curt sophomore dropout who was once a student of the combat-centric Assault Division. Kinji now lives a life of leisure studying logistics in order to cover up his powerful but embarrassing special ability. However, his peaceful days soon come to an end when he becomes the target of the infamous \"Butei Killer,\" and runs into an emotional hurricane and outspoken prodigy of the highest rank, Aria Holmes Kanzaki, who saves Kinji's life and demands that he become her partner after seeing what he is truly capable of.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3dTWfuip5Ro?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Hidan no Aria"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -64,5 +113,110 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzyjUp3-YwUr64CD65YMx3B91nPmiMRPi7E50ypgfr-xKGSoq1RtrVTRVXLHEKlZnfHR5zveXyuVNSWPC_PKBA74vCq82FsMn7ud1ag1iJrzIb5yBQa82j69Xbe0wEVw2w4kxw"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-04-15T00:00:00+00:00",
+    "to": "2011-07-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 4,
+        "year": 2011
+      },
+      "to": {
+        "day": 1,
+        "month": 7,
+        "year": 2011
+      }
+    },
+    "string": "Apr 15, 2011 to Jul 1, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.77,
+  "scored_by": 201502,
+  "rank": 5742,
+  "popularity": 678,
+  "members": 391193,
+  "favorites": 927,
+  "synopsis": "In response to the worsening crime rate, Japan creates Tokyo Butei High, an elite academy where \"Butei\" or armed detectives hone their deadly skills in hopes of becoming mercenary-like agents of justice. One particular Butei is Kinji Tooyama, an anti-social and curt sophomore dropout who was once a student of the combat-centric Assault Division. Kinji now lives a life of leisure studying logistics in order to cover up his powerful but embarrassing special ability. However, his peaceful days soon come to an end when he becomes the target of the infamous \"Butei Killer,\" and runs into an emotional hurricane and outspoken prodigy of the highest rank, Aria Holmes Kanzaki, who saves Kinji's life and demands that he become her partner after seeing what he is truly capable of.\n\n[Written by MAL Rewrite]",
+  "background": "Hidan no Aria adapts the first 3 novels of Chuugaku Akamatsu's light novel series of the same title.",
+  "season": "spring",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/30095l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3dTWfuip5Ro?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 8630,
+  "slug": "hidan-no-aria"
 }

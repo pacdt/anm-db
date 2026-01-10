@@ -1,18 +1,59 @@
 {
-  "id": 14277,
-  "slug": "chitose-get-you",
-  "type": "legendado",
+  "mal_id": 14277,
+  "url": "https://myanimelist.net/anime/14277/Chitose_Get_You",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/50537.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/50537t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/50537l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/50537.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/50537t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/50537l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chitose Get You!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ちとせげっちゅ!!"
+    },
+    {
+      "type": "German",
+      "title": "Chitose get you!"
+    },
+    {
+      "type": "Spanish",
+      "title": "Chitose Get You!"
+    },
+    {
+      "type": "French",
+      "title": "Chitose get you!"
+    }
+  ],
   "title": "Chitose Get You!!",
   "title_english": "Chitose Get You!!",
   "title_japanese": "ちとせげっちゅ!!",
-  "image": "https://cdn.myanimelist.net/images/anime/10/50537l.webp",
-  "score": 6.19,
-  "synopsis": "Chitose is an 11-year-old girl who is madly in love with an older guy named Hiroshi. He works at the town hall right next to the school and Chitose spends every day relentlessly pursuing him. Can Chitose ever convince Hiroshi to go out with her?",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -99,5 +140,96 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwOFNHqvcBxdsGzJpD3gi5BKdnOzq-WqjFPJO6jB2CkFeoh5mZSV_t-o8hNodvwc4Gejub6jfu_uGAUWrH7twElyiJqGLUqyKyN8XXKJ_BBfBbkp3nlwdXMJJrXZHmKvKpGOw",
       "nome": "The Meal"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-07-02T00:00:00+00:00",
+    "to": "2012-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2012
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Jul 2, 2012 to Dec 24, 2012"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.19,
+  "scored_by": 10186,
+  "rank": 9304,
+  "popularity": 5171,
+  "members": 22250,
+  "favorites": 15,
+  "synopsis": "Chitose is an 11-year-old girl who is madly in love with an older guy named Hiroshi. He works at the town hall right next to the school and Chitose spends every day relentlessly pursuing him. Can Chitose ever convince Hiroshi to go out with her?",
+  "background": "",
+  "season": "summer",
+  "year": 2012,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:56",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:56 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 332,
+      "type": "anime",
+      "name": "Takeshobo",
+      "url": "https://myanimelist.net/anime/producer/332/Takeshobo"
+    },
+    {
+      "mal_id": 615,
+      "type": "anime",
+      "name": "Dream Creation",
+      "url": "https://myanimelist.net/anime/producer/615/Dream_Creation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 300,
+      "type": "anime",
+      "name": "SILVER LINK.",
+      "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/10/50537l.webp",
+  "trailer_url": null,
+  "id": 14277,
+  "slug": "chitose-get-you"
 }

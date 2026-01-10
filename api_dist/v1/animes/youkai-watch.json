@@ -1,18 +1,69 @@
 {
-  "id": 19157,
-  "slug": "youkai-watch",
-  "type": "legendado",
+  "mal_id": 19157,
+  "url": "https://myanimelist.net/anime/19157/Youkai_Watch",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/58137.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/58137t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/58137l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/58137.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/58137t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/58137l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7lJPkVw1H6o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Youkai Watch"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yokai Watch"
+    },
+    {
+      "type": "Japanese",
+      "title": "妖怪ウォッチ"
+    },
+    {
+      "type": "English",
+      "title": "Yo-kai Watch"
+    },
+    {
+      "type": "German",
+      "title": "Yo-Kai Watch"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yo-Kai Watch"
+    },
+    {
+      "type": "French",
+      "title": "Yo-Kai Watch"
+    }
+  ],
   "title": "Youkai Watch",
   "title_english": "Yo-kai Watch",
   "title_japanese": "妖怪ウォッチ",
-  "image": "https://cdn.myanimelist.net/images/anime/6/58137l.webp",
-  "score": 6.75,
-  "synopsis": "Primary school student Keita Amano's curiosity is as innocent as any other child's his age. But when one day he decides to venture deeper into the forest, he encounters a small and mysterious capsule. Out from its depths comes Whisper. After 190 years of imprisonment, this ghost-like creature is glad that someone has been kind enough to set him free. He decides to reward Keita by becoming his guardian against supernatural forces. Whisper is one of many Youkai that exist in the world, and provides Keita with a special Youkai Watch, which enables him to see and interact with all the other Youkai.\n\nYoukai Watch follows Keita, Whisper and the cat spirit Jibanyan as they encounter Youkai, befriend them, fix all the trouble that they so often cause, and, with the help of the watch, use the powers of previously encountered Youkai to aid them. Young Keita may have been just an ordinary primary school student when he first encountered the Youkai, but the many adventures that follow his discovery provide him with invaluable experiences and precious life lessons that help him grow.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/7lJPkVw1H6o?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Supernatural"
+  "title_synonyms": [
+    "Yokai Watch"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -244,5 +295,97 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dymT3J-GRKnz_60qMtT4yEzPjsYhev6Jfo0O7HIcJPLCFZu-msr3srKkqxE5Ze_j2JL8oNObpVNpEkQ63u0Yy_THeCt43G1Ni-f4hb--Q3psYrS88z5kpHEWpG4TV_ek7tgiwo",
       "nome": "Year 3 Class Y, Mr. Nyanpachi: Episode 3 / Yo-Kai Okane Naider / Legend Yo-Kai Unchikuma"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-08T00:00:00+00:00",
+    "to": "2018-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Jan 8, 2014 to Mar 30, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.75,
+  "scored_by": 17464,
+  "rank": 5862,
+  "popularity": 4085,
+  "members": 37728,
+  "favorites": 283,
+  "synopsis": "Primary school student Keita Amano's curiosity is as innocent as any other child's his age. But when one day he decides to venture deeper into the forest, he encounters a small and mysterious capsule. Out from its depths comes Whisper. After 190 years of imprisonment, this ghost-like creature is glad that someone has been kind enough to set him free. He decides to reward Keita by becoming his guardian against supernatural forces. Whisper is one of many Youkai that exist in the world, and provides Keita with a special Youkai Watch, which enables him to see and interact with all the other Youkai.\n\nYoukai Watch follows Keita, Whisper and the cat spirit Jibanyan as they encounter Youkai, befriend them, fix all the trouble that they so often cause, and, with the help of the watch, use the powers of previously encountered Youkai to aid them. Young Keita may have been just an ordinary primary school student when he first encountered the Youkai, but the many adventures that follow his discovery provide him with invaluable experiences and precious life lessons that help him grow.",
+  "background": "Youkai Watch was awarded the Best Film Award for a TV Series at the Tokyo Anime Award Festival in 2015. It also won the grand prize for Digital Content of the Year in 2014 at Japan’s 20th annual Association of Media in Digital Awards.",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 791,
+      "type": "anime",
+      "name": "Dentsu Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/791/Dentsu_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/58137l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/7lJPkVw1H6o?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 19157,
+  "slug": "youkai-watch"
 }

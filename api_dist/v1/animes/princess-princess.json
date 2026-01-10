@@ -1,15 +1,68 @@
 {
-  "id": 20913,
-  "slug": "princess-princess",
-  "type": "legendado",
+  "mal_id": 20913,
+  "url": "https://myanimelist.net/anime/20913/6♥Princess",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/55347.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/55347t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/55347l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/55347.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/55347t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/55347l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "6♥Princess"
+    },
+    {
+      "type": "Synonym",
+      "title": "Six Princess"
+    },
+    {
+      "type": "Synonym",
+      "title": "6 Princess"
+    },
+    {
+      "type": "Synonym",
+      "title": "6HP"
+    },
+    {
+      "type": "Synonym",
+      "title": "6 Hearts Princess"
+    },
+    {
+      "type": "Japanese",
+      "title": "6♥PRINCESS"
+    }
+  ],
   "title": "6♥Princess",
   "title_english": "6♥Princess",
   "title_japanese": "6♥PRINCESS",
-  "image": "https://cdn.myanimelist.net/images/anime/12/55347l.webp",
-  "score": 5.49,
-  "synopsis": "\"6HP\" is a magical girl animation produced by Murakami's Ponkotan studio and features character designs by mebae. \"6HP Six Hearts Princess Pink or Black\" is a promotional video for the series cosmetics, created by Shu Uemura. Music is by livetune and vocal is by Hatsune Miku.",
-  "trailer_url": null,
-  "genres": [],
+  "title_synonyms": [
+    "Six Princess",
+    "6 Princess",
+    "6HP",
+    "6 Hearts Princess"
+  ],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -59,5 +112,67 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxI306YnKaMGdp39bLnqSG1tmzX2M7auCnZHnzaKXPw0B9r_rd9LecIqFMRQQe0xlZzYV9uedXQbqVRAXSYNCQMcnc68VdSCwphKUFg_yYibfcPnYRuQCEyfwb74T71fbVWc88"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-10-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2013
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 4, 2013"
+  },
+  "duration": "3 min",
+  "rating": "G - All Ages",
+  "score": 5.49,
+  "scored_by": 2438,
+  "rank": null,
+  "popularity": 9550,
+  "members": 4721,
+  "favorites": 2,
+  "synopsis": "\"6HP\" is a magical girl animation produced by Murakami's Ponkotan studio and features character designs by mebae. \"6HP Six Hearts Princess Pink or Black\" is a promotional video for the series cosmetics, created by Shu Uemura. Music is by livetune and vocal is by Hatsune Miku.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 931,
+      "type": "anime",
+      "name": "Poncotan",
+      "url": "https://myanimelist.net/anime/producer/931/Poncotan"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/55347l.webp",
+  "trailer_url": null,
+  "id": 20913,
+  "slug": "princess-princess"
 }

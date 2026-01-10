@@ -1,21 +1,133 @@
 {
-  "id": 31321,
-  "slug": "shounen-to-sakura",
-  "type": "legendado",
+  "mal_id": 31321,
+  "url": "https://myanimelist.net/anime/31321/Shounen_to_Sakura",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75322.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75322t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75322l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75322.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75322t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75322l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shounen to Sakura"
+    },
+    {
+      "type": "Japanese",
+      "title": "少年とさくら"
+    },
+    {
+      "type": "English",
+      "title": "The Cherry Tree"
+    }
+  ],
   "title": "Shounen to Sakura",
   "title_english": "The Cherry Tree",
   "title_japanese": "少年とさくら",
-  "image": "https://cdn.myanimelist.net/images/anime/7/75322l.webp",
-  "score": 5.6,
-  "synopsis": "In postwar Tokyo, while his mum works, Taichi spends his days alone and misses his dad who was killed in the war. Through his friendship with an old man who tends a seemingly dead cherry tree, Taichi learns about the tree and gradually becomes more positive.\n\n(Source: Treasures of the Heart)",
-  "trailer_url": null,
-  "genres": [
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Picture book",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/shounen-to-sakura/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1983-07-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 7,
+        "year": 1983
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 1983"
+  },
+  "duration": "25 min",
+  "rating": "G - All Ages",
+  "score": 5.6,
+  "scored_by": 346,
+  "rank": 12365,
+  "popularity": 15836,
+  "members": 790,
+  "favorites": 1,
+  "synopsis": "In postwar Tokyo, while his mum works, Taichi spends his days alone and misses his dad who was killed in the war. Through his friendship with an old man who tends a seemingly dead cherry tree, Taichi learns about the tree and gradually becomes more positive.\n\n(Source: Treasures of the Heart)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1147,
+      "type": "anime",
+      "name": "Shinano Kikaku",
+      "url": "https://myanimelist.net/anime/producer/1147/Shinano_Kikaku"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/75322l.webp",
+  "trailer_url": null,
+  "id": 31321,
+  "slug": "shounen-to-sakura"
 }

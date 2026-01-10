@@ -1,19 +1,62 @@
 {
-  "id": 56693,
-  "slug": "watari-kun-no-xx-ga-houkai-sunzen",
-  "type": "legendado",
+  "mal_id": 56693,
+  "url": "https://myanimelist.net/anime/56693/Watari-kun_no_xx_ga_Houkai_Sunzen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1502/150545.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1502/150545t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1502/150545l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1502/150545.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1502/150545t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1502/150545l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kJiYL6pviEs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Watari-kun no xx ga Houkai Sunzen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Watari's XX Is on the Brink of Collapse"
+    },
+    {
+      "type": "Synonym",
+      "title": "Watari-kun's ****** Is about to Collapse"
+    },
+    {
+      "type": "Japanese",
+      "title": "渡くんの××が崩壊寸前"
+    },
+    {
+      "type": "English",
+      "title": "Watari-kun's ****** Is about to Collapse"
+    }
+  ],
   "title": "Watari-kun no xx ga Houkai Sunzen",
   "title_english": "Watari-kun's ****** Is about to Collapse",
   "title_japanese": "渡くんの××が崩壊寸前",
-  "image": "https://cdn.myanimelist.net/images/anime/1502/150545l.webp",
-  "score": 6.61,
-  "synopsis": "The daily life of high school student Naoto Watari revolves around his little sister Suzushiro. As their parents passed away two years prior, the siblings have been passed from one relative to another, resulting in Naoto taking the most responsibility for her. Although things have not been easy for the two, Naoto is now content with living at their aunt's place.\n\nThis newfound peace is suddenly turned on its head when Satsuki Tachibana enrolls at Naoto's school. The two used to be good friends, but after Satsuki completely destroyed his family's garden, she disappeared from Naoto's life. Despite what happened, Satsuki seems to be making advances toward Naoto now that they have reconnected. Coupled with other people around him that harbor secrets, Naoto's desire for an idyllic life may be at jeopardy.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kJiYL6pviEs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Watari's XX Is on the Brink of Collapse",
+    "Watari-kun's ****** Is about to Collapse"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +188,127 @@
       "url": "https://lightspeedst.net/s2/mp4/watari-kun-no-xx-ga-houkai-sunzen/hd/26.mp4",
       "nome": "One Last Thing to Make Sure Of"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-07-05T00:00:00+00:00",
+    "to": "2025-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2025
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2025
+      }
+    },
+    "string": "Jul 5, 2025 to Dec 27, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.61,
+  "scored_by": 14612,
+  "rank": 6730,
+  "popularity": 3172,
+  "members": 59726,
+  "favorites": 189,
+  "synopsis": "The daily life of high school student Naoto Watari revolves around his little sister Suzushiro. As their parents passed away two years prior, the siblings have been passed from one relative to another, resulting in Naoto taking the most responsibility for her. Although things have not been easy for the two, Naoto is now content with living at their aunt's place.\n\nThis newfound peace is suddenly turned on its head when Satsuki Tachibana enrolls at Naoto's school. The two used to be good friends, but after Satsuki completely destroyed his family's garden, she disappeared from Naoto's life. Despite what happened, Satsuki seems to be making advances toward Naoto now that they have reconnected. Coupled with other people around him that harbor secrets, Naoto's desire for an idyllic life may be at jeopardy.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 2232,
+      "type": "anime",
+      "name": "ADK Marketing Solutions",
+      "url": "https://myanimelist.net/anime/producer/2232/ADK_Marketing_Solutions"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2405,
+      "type": "anime",
+      "name": "Staple Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2405/Staple_Entertainment"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1502/150545l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kJiYL6pviEs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 56693,
+  "slug": "watari-kun-no-xx-ga-houkai-sunzen"
 }

@@ -1,18 +1,59 @@
 {
-  "id": 38959,
-  "slug": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
-  "type": "legendado",
+  "mal_id": 38959,
+  "url": "https://myanimelist.net/anime/38959/Lord_El-Melloi_II-sei_no_Jikenbo__Rail_Zeppelin_Grace_Note",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1107/111530t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1107/111530l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1107/111530.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1107/111530t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1107/111530l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/n5lCZwNpYdg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note"
+    },
+    {
+      "type": "Japanese",
+      "title": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-"
+    },
+    {
+      "type": "English",
+      "title": "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note"
+    },
+    {
+      "type": "German",
+      "title": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
+    },
+    {
+      "type": "French",
+      "title": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
+    }
+  ],
   "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
   "title_english": "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note",
   "title_japanese": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
-  "image": "https://cdn.myanimelist.net/images/anime/1107/111530l.webp",
-  "score": 7.38,
-  "synopsis": "Ten years after facing defeat in the Fourth Holy Grail War, Waver Velvet, now Lord El-Melloi II, teaches classes at the Clock Tower—the center of education for mages. However, his new status as Lord comes with a caveat: obey the orders of Reines, the younger sister of the deceased Kayneth El-Melloi, until she is old enough to rule the House of El-Melloi.\n\nWaver, along with his mysterious apprentice Gray, takes on a series of cases assigned by Reines and the Mages Association. With each case proving to be more complex than the last, could there be more to the Clock Tower than meets the eye, and what secrets does Reines hide?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/n5lCZwNpYdg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy",
-    "Mystery"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +120,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwWHvuyRuQALSC-astnvMFoloFhhw27K2gzG-jWjMYgQM7oDB3pxGPdNmw3NObZFLveUenA60vZlnXqJhYbexpDCDD79AOoDygxB96slb8XkaxANvQXF0effyEV2_gEPLmGuQCh",
       "nome": "The Clock Tower, Usual Days, and the First Step Forward to the Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-07T00:00:00+00:00",
+    "to": "2019-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Jul 7, 2019 to Sep 29, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.38,
+  "scored_by": 68800,
+  "rank": 2561,
+  "popularity": 1628,
+  "members": 162722,
+  "favorites": 438,
+  "synopsis": "Ten years after facing defeat in the Fourth Holy Grail War, Waver Velvet, now Lord El-Melloi II, teaches classes at the Clock Tower—the center of education for mages. However, his new status as Lord comes with a caveat: obey the orders of Reines, the younger sister of the deceased Kayneth El-Melloi, until she is old enough to rule the House of El-Melloi.\n\nWaver, along with his mysterious apprentice Gray, takes on a series of cases assigned by Reines and the Mages Association. With each case proving to be more complex than the last, could there be more to the Clock Tower than meets the eye, and what secrets does Reines hide?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 703,
+      "type": "anime",
+      "name": "Notes",
+      "url": "https://myanimelist.net/anime/producer/703/Notes"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1103,
+      "type": "anime",
+      "name": "TROYCA",
+      "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+    }
+  ],
+  "genres": [
+    "Fantasy",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1107/111530l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/n5lCZwNpYdg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38959,
+  "slug": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note"
 }

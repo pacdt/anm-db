@@ -1,21 +1,134 @@
 {
-  "id": 31997,
-  "slug": "hetalia-the-world-twinkle-extra-disc",
-  "type": "legendado",
+  "mal_id": 31997,
+  "url": "https://myanimelist.net/anime/31997/Hetalia__The_World_Twinkle_Extra_Disc",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/77986.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/77986t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/77986l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/77986.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/77986t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/77986l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/b-4XxIbXlhI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hetalia: The World Twinkle Extra Disc"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hetalia: The World Twinkle - Surprise Halloween!"
+    },
+    {
+      "type": "Japanese",
+      "title": "「 ヘタリア The World Twinkle 」 えくすとらでぃすく"
+    }
+  ],
   "title": "Hetalia: The World Twinkle Extra Disc",
   "title_english": "Hetalia: The World Twinkle Extra Disc",
   "title_japanese": "「 ヘタリア The World Twinkle 」 えくすとらでぃすく",
-  "image": "https://cdn.myanimelist.net/images/anime/10/77986l.webp",
-  "score": 7.27,
-  "synopsis": "It's Halloween, and America decides to invite all the other countries to his party. Since there is a costume contest, the countries show up in a wide array of outfits, although it quickly becomes clear that some among them may have taken the competition a bit too seriously. But soon, the guests begin to wonder why America hasn't shown off his own costume. What could be the reason?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/b-4XxIbXlhI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Hetalia: The World Twinkle - Surprise Halloween!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxtmSOPyqAkY0IpJP2jVlUptT_yhuUnqkqKohcHQYIJqt0LtROhk6MYYBxLgrEwMA9aaL2pIejKQatTu9RheoByA5Vcsp1uUQNwV5jtB7E9fRtZXph2G_9s9Bztonnqa9jdFt8"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-02-24T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 2,
+        "year": 2016
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 24, 2016"
+  },
+  "duration": "12 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.27,
+  "scored_by": 3492,
+  "rank": 3138,
+  "popularity": 7476,
+  "members": 8851,
+  "favorites": 10,
+  "synopsis": "It's Halloween, and America decides to invite all the other countries to his party. Since there is a costume contest, the countries show up in a wide array of outfits, although it quickly becomes clear that some among them may have taken the competition a bit too seriously. But soon, the guests begin to wonder why America hasn't shown off his own costume. What could be the reason?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/77986l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/b-4XxIbXlhI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31997,
+  "slug": "hetalia-the-world-twinkle-extra-disc"
 }

@@ -1,18 +1,58 @@
 {
-  "id": 42268,
-  "slug": "shouxi-yu-ling-shi",
-  "type": "legendado",
+  "mal_id": 42268,
+  "url": "https://myanimelist.net/anime/42268/Shouxi_Yu_Ling_Shi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1457/108134.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1457/108134t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1457/108134l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1457/108134.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1457/108134t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1457/108134l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shouxi Yu Ling Shi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chief Soul Manipulator"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chief Soul Master"
+    },
+    {
+      "type": "Japanese",
+      "title": "首席御灵师"
+    }
+  ],
   "title": "Shouxi Yu Ling Shi",
   "title_english": "Shouxi Yu Ling Shi",
   "title_japanese": "首席御灵师",
-  "image": "https://cdn.myanimelist.net/images/anime/1457/108134l.webp",
-  "score": 6.43,
-  "synopsis": "Last century, Shi Dali was sealed for 100 years, but he accidentally discovered Qingqing, the celestial nine tails fox. He started his path to become Chief Soul Master, to find out the mistery of his origin and to protect the world.\n\n(Source: themoviedb)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Fantasy"
+  "title_synonyms": [
+    "Chief Soul Manipulator",
+    "Chief Soul Master"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -46,5 +86,63 @@
       "numero": 8,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxS-ZDL0-qwNHEZc7OG8izrGC-Sps41ECAgsyko2sAWcPZa0ecuzN0Y2pI5U3miB178fV1HWIDyYqx747sMPkWqtGF7B34E0BvJYognVR8v8gYWnGclFURqmM37WLsET_x1BJU"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-06-20T00:00:00+00:00",
+    "to": "2020-10-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 6,
+        "year": 2020
+      },
+      "to": {
+        "day": 24,
+        "month": 10,
+        "year": 2020
+      }
+    },
+    "string": "Jun 20, 2020 to Oct 24, 2020"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.43,
+  "scored_by": 436,
+  "rank": 7835,
+  "popularity": 12957,
+  "members": 1712,
+  "favorites": 8,
+  "synopsis": "Last century, Shi Dali was sealed for 100 years, but he accidentally discovered Qingqing, the celestial nine tails fox. He started his path to become Chief Soul Master, to find out the mistery of his origin and to protect the world.\n\n(Source: themoviedb)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2059,
+      "type": "anime",
+      "name": "Suoyi Technology",
+      "url": "https://myanimelist.net/anime/producer/2059/Suoyi_Technology"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1457/108134l.webp",
+  "trailer_url": null,
+  "id": 42268,
+  "slug": "shouxi-yu-ling-shi"
 }

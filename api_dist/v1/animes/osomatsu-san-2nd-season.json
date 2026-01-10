@@ -1,17 +1,63 @@
 {
-  "id": 35067,
-  "slug": "osomatsu-san-2nd-season",
-  "type": "legendado",
+  "mal_id": 35067,
+  "url": "https://myanimelist.net/anime/35067/Osomatsu-san_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/88328.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/88328t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/88328l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/88328.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/88328t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/88328l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/M06J7P1yCHI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Osomatsu-san 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "おそ松さん 第2期"
+    },
+    {
+      "type": "English",
+      "title": "Mr. Osomatsu 2"
+    },
+    {
+      "type": "German",
+      "title": "Mr. Osomatsu Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Osomatsu-san Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "Osomatsu-san Saison 2"
+    }
+  ],
   "title": "Osomatsu-san 2nd Season",
   "title_english": "Mr. Osomatsu 2",
   "title_japanese": "おそ松さん 第2期",
-  "image": "https://cdn.myanimelist.net/images/anime/13/88328l.webp",
-  "score": 7.62,
-  "synopsis": "Second season of Osomatsu-san.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/M06J7P1yCHI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -138,5 +184,125 @@
       "url": "https://lightspeedst.net/s3/mp4/osomatsu-san-2nd-season/sd/25.mp4",
       "nome": "Mr. Osomatsu in Hell"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-10-03T00:00:00+00:00",
+    "to": "2018-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2017
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Oct 3, 2017 to Mar 27, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.62,
+  "scored_by": 23786,
+  "rank": 1598,
+  "popularity": 3241,
+  "members": 57493,
+  "favorites": 246,
+  "synopsis": "Second season of Osomatsu-san.",
+  "background": "",
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1632,
+      "type": "anime",
+      "name": "Daiichi Shokai",
+      "url": "https://myanimelist.net/anime/producer/1632/Daiichi_Shokai"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/88328l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/M06J7P1yCHI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 35067,
+  "slug": "osomatsu-san-2nd-season"
 }

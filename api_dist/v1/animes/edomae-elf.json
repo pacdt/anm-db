@@ -1,18 +1,62 @@
 {
-  "id": 52081,
-  "slug": "edomae-elf",
-  "type": "legendado",
+  "mal_id": 52081,
+  "url": "https://myanimelist.net/anime/52081/Edomae_Elf",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1171/133777.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1171/133777t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1171/133777l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1171/133777.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1171/133777t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1171/133777l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xsy4byqe_ek?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Edomae Elf"
+    },
+    {
+      "type": "Synonym",
+      "title": "A Sloven Elf Who Have Been from the Edo Period"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shut-In Elf"
+    },
+    {
+      "type": "Japanese",
+      "title": "江戸前エルフ"
+    },
+    {
+      "type": "English",
+      "title": "Otaku Elf"
+    }
+  ],
   "title": "Edomae Elf",
   "title_english": "Otaku Elf",
   "title_japanese": "江戸前エルフ",
-  "image": "https://cdn.myanimelist.net/images/anime/1171/133777l.webp",
-  "score": 7.25,
-  "synopsis": "For more than four hundred years, the Takamimi Shrine has stood in Tokyo, enshrining the local goddess: Elda, a magical elf summoned from another world. The immortal elf has been served for 15 generations by the family who summoned her in the Edo period. Now, after Koito Koganei turns 16 years old, this responsibility falls onto her.\n\nServing as Elda's shrine maiden, Koito must balance her responsibilities with her daily school life. This proves to be difficult because Elda is a total social recluse who loves video games, collecting toys, and eating snacks. In an effort to get the lazy shut-in to experience more of the outside world, Koito juggles her time between indulging Elda's various hobbies and getting her to interact with the rest of humanity. Along the way, Koito learns more about the history of the area and what makes the goddess so loved and spoiled by the locals.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xsy4byqe_ek?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Supernatural"
+  "title_synonyms": [
+    "A Sloven Elf Who Have Been from the Edo Period",
+    "Shut-In Elf"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -62,5 +106,121 @@
       "numero": 12,
       "url": "https://lightspeedst.net/s6/mp4_temp/edomae-elf/12/720p.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-04-08T00:00:00+00:00",
+    "to": "2023-06-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 4,
+        "year": 2023
+      },
+      "to": {
+        "day": 24,
+        "month": 6,
+        "year": 2023
+      }
+    },
+    "string": "Apr 8, 2023 to Jun 24, 2023"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.25,
+  "scored_by": 26462,
+  "rank": 3230,
+  "popularity": 2822,
+  "members": 73839,
+  "favorites": 215,
+  "synopsis": "For more than four hundred years, the Takamimi Shrine has stood in Tokyo, enshrining the local goddess: Elda, a magical elf summoned from another world. The immortal elf has been served for 15 generations by the family who summoned her in the Edo period. Now, after Koito Koganei turns 16 years old, this responsibility falls onto her.\n\nServing as Elda's shrine maiden, Koito must balance her responsibilities with her daily school life. This proves to be difficult because Elda is a total social recluse who loves video games, collecting toys, and eating snacks. In an effort to get the lazy shut-in to experience more of the outside world, Koito juggles her time between indulging Elda's various hobbies and getting her to interact with the rest of humanity. Along the way, Koito learns more about the history of the area and what makes the goddess so loved and spoiled by the locals.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "02:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 02:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 513,
+      "type": "anime",
+      "name": "Nikkatsu",
+      "url": "https://myanimelist.net/anime/producer/513/Nikkatsu"
+    },
+    {
+      "mal_id": 2146,
+      "type": "anime",
+      "name": "NetEase",
+      "url": "https://myanimelist.net/anime/producer/2146/NetEase"
+    },
+    {
+      "mal_id": 2147,
+      "type": "anime",
+      "name": "Heart Company",
+      "url": "https://myanimelist.net/anime/producer/2147/Heart_Company"
+    },
+    {
+      "mal_id": 2640,
+      "type": "anime",
+      "name": "INSPION Edge",
+      "url": "https://myanimelist.net/anime/producer/2640/INSPION_Edge"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 605,
+      "type": "anime",
+      "name": "C2C",
+      "url": "https://myanimelist.net/anime/producer/605/C2C"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1171/133777l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xsy4byqe_ek?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 52081,
+  "slug": "edomae-elf"
 }

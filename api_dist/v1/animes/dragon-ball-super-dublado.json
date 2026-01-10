@@ -1,20 +1,67 @@
 {
-  "id": 30694,
-  "slug": "dragon-ball-super-dublado",
-  "type": "dublado",
+  "mal_id": 30694,
+  "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/74606t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/74606.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/74606t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/nZKs2Sbx4iM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragon Ball Super"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dragon Ball Chou"
+    },
+    {
+      "type": "Synonym",
+      "title": "DB Super"
+    },
+    {
+      "type": "Synonym",
+      "title": "DBS"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴンボール超（スーパー）"
+    },
+    {
+      "type": "English",
+      "title": "Dragon Ball Super"
+    }
+  ],
   "title": "Dragon Ball Super",
   "title_english": "Dragon Ball Super",
   "title_japanese": "ドラゴンボール超（スーパー）",
-  "image": "https://cdn.myanimelist.net/images/anime/7/74606l.webp",
-  "score": 7.47,
-  "synopsis": "Seven years after the defeat of Majin Buu, Earth is at peace, and its people live free from any dangers lurking in the universe. However, this peace is short-lived; a sleeping threat awakens in the dark reaches of the galaxy: Beerus, the ruthless God of Destruction.\n\nDisturbed by a prophecy that he will be defeated by a \"Super Saiyan God,\" Beerus and his angelic attendant Whis search the universe for this mysterious being. Before long, they reach Earth and encounter Gokuu Son, one of the planet's mightiest warriors, and his powerful friends.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/nZKs2Sbx4iM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Dragon Ball Chou",
+    "DB Super",
+    "DBS"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -671,5 +718,99 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxxHvFswHqRM9ko5Uh7zQKlRKbRan2nO_0hytUJHQDPwqpYk_f-0SzYykaBaDaLafhknNo1ayyVIRhPRTkVOo69P2XBF2w20jSxGcqlD0ttqceyGGejbiwNfeJ-Y6B1ozcYsK8",
       "nome": "The Miraculous Conclusion! Farewell, Goku! Until We Meet Again!!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-05T00:00:00+00:00",
+    "to": "2018-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Jul 5, 2015 to Mar 25, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.47,
+  "scored_by": 578714,
+  "rank": 2161,
+  "popularity": 221,
+  "members": 899232,
+  "favorites": 11238,
+  "synopsis": "Seven years after the defeat of Majin Buu, Earth is at peace, and its people live free from any dangers lurking in the universe. However, this peace is short-lived; a sleeping threat awakens in the dark reaches of the galaxy: Beerus, the ruthless God of Destruction.\n\nDisturbed by a prophecy that he will be defeated by a \"Super Saiyan God,\" Beerus and his angelic attendant Whis search the universe for this mysterious being. Before long, they reach Earth and encounter Gokuu Son, one of the planet's mightiest warriors, and his powerful friends.\n\n[Written by MAL Rewrite]",
+  "background": "Dragon Ball Super's first 27 episodes are adaptations of the films Dragon Ball Z Movie 14: Kami to Kami (episodes 1-14) and Dragon Ball Z Movie 15: Fukkatsu no F (episodes 15-27).",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "09:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 09:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/74606l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/nZKs2Sbx4iM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 30694,
+  "slug": "dragon-ball-super-dublado"
 }

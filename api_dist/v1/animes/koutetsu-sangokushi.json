@@ -1,17 +1,47 @@
 {
-  "id": 2162,
-  "slug": "koutetsu-sangokushi",
-  "type": "legendado",
+  "mal_id": 2162,
+  "url": "https://myanimelist.net/anime/2162/Koutetsu_Sangokushi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/75661.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75661t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75661l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/75661.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75661t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75661l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koutetsu Sangokushi"
+    },
+    {
+      "type": "Japanese",
+      "title": "鋼鉄三国志"
+    }
+  ],
   "title": "Koutetsu Sangokushi",
   "title_english": "Koutetsu Sangokushi",
   "title_japanese": "鋼鉄三国志",
-  "image": "https://cdn.myanimelist.net/images/anime/3/75661l.webp",
-  "score": 6.28,
-  "synopsis": "The Imperial Seal has been passed down through the generations since ancient times. It confers great power unto the warriors that it chooses. This is the story of those warriors.\n\nIt is a time of chaos and of civil war. It is a time when great armies clash in titanic battles and great heroes carve their names in history. It is also a time of death and destruction, when the people of the land live in constant fear of the sword. Onto this stage steps the reluctant Rikuson (Lu Xun), whose family had been the guardians of the Imperial Seal up until it was stolen by Sonsaku. At the behest of his mentor Rikuson offers his services to Sonsaku with the intention of confirming the will of the Imperial Seal. However, assassins strike down Sonsaku and the Imperial Seal is lost. So begins, Rikuson’s journey to recover the Imperial Seal and discover his destiny.\n\n(Source: AniDB)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -138,5 +168,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxDEuB9A8rSy33hLYFp9JoJ-mBxGphnJrwCnCF-F_qg1kGUOCVHV6z0aipAqscTsuUUghH7SXJXOO7BTATdXkvarqj_E8oSRz34c4MnY3LAZI8KYWjffqGJXhhsAKz_REI6W4xe",
       "nome": "Rikuson Hakugen Dances on the Go Plains Where Red Stars Are Falling"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-06T00:00:00+00:00",
+    "to": "2007-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 6, 2007 to Sep 28, 2007"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.28,
+  "scored_by": 2800,
+  "rank": 8742,
+  "popularity": 7250,
+  "members": 9580,
+  "favorites": 14,
+  "synopsis": "The Imperial Seal has been passed down through the generations since ancient times. It confers great power unto the warriors that it chooses. This is the story of those warriors.\n\nIt is a time of chaos and of civil war. It is a time when great armies clash in titanic battles and great heroes carve their names in history. It is also a time of death and destruction, when the people of the land live in constant fear of the sword. Onto this stage steps the reluctant Rikuson (Lu Xun), whose family had been the guardians of the Imperial Seal up until it was stolen by Sonsaku. At the behest of his mentor Rikuson offers his services to Sonsaku with the intention of confirming the will of the Imperial Seal. However, assassins strike down Sonsaku and the Imperial Seal is lost. So begins, Rikuson’s journey to recover the Imperial Seal and discover his destiny.\n\n(Source: AniDB)",
+  "background": "",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Picture Magic",
+      "url": "https://myanimelist.net/anime/producer/78/Picture_Magic"
+    }
+  ],
+  "genres": [
+    "Adventure"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/75661l.webp",
+  "trailer_url": null,
+  "id": 2162,
+  "slug": "koutetsu-sangokushi"
 }

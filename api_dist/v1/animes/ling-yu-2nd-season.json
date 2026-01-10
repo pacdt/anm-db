@@ -1,17 +1,58 @@
 {
-  "id": 36790,
-  "slug": "ling-yu-2nd-season",
-  "type": "legendado",
+  "mal_id": 36790,
+  "url": "https://myanimelist.net/anime/36790/Ling_Yu_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/88949.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/88949t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/88949l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/88949.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/88949t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/88949l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ling Yu 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Spiritual Domain Second Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Spiritual Field 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "灵域 第二季"
+    }
+  ],
   "title": "Ling Yu 2nd Season",
   "title_english": "Ling Yu 2nd Season",
   "title_japanese": "灵域 第二季",
-  "image": "https://cdn.myanimelist.net/images/anime/13/88949l.webp",
-  "score": 6.66,
-  "synopsis": "Qin Lie have to guard Tang Siqi, regardless of the differences between them, and Liang Shanyan, while the strange powers coursing through his veins are beginning to slowly awaken. When Qin Lie vows to protect the instrument of sovereign, at the same time, seven Evil Clan's Lords are appearing on the field. While the most powerful secret weapon is emerging from the altar, the enemy intend to seize Qin Lie's life...",
-  "trailer_url": null,
-  "genres": [
-    "Fantasy"
+  "title_synonyms": [
+    "Spiritual Domain Second Season",
+    "Spiritual Field 2"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -53,5 +94,69 @@
       "numero": 10,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxqLuHds3-COAOrsGS2P0spa54OGAIac9qyzQbL8hXIDibLNlp9glpzuV8HFlzCFPU4fBbkW4upDz5_oA2SEIfyoIMgkIiqLGsVuBVhGBaeAHjmy0UXPsYpPwBJv0hJw7Pln_0"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-02-18T00:00:00+00:00",
+    "to": "2016-04-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 2,
+        "year": 2016
+      },
+      "to": {
+        "day": 21,
+        "month": 4,
+        "year": 2016
+      }
+    },
+    "string": "Feb 18, 2016 to Apr 21, 2016"
+  },
+  "duration": "14 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.66,
+  "scored_by": 1100,
+  "rank": 6413,
+  "popularity": 11297,
+  "members": 2795,
+  "favorites": 2,
+  "synopsis": "Qin Lie have to guard Tang Siqi, regardless of the differences between them, and Liang Shanyan, while the strange powers coursing through his veins are beginning to slowly awaken. When Qin Lie vows to protect the instrument of sovereign, at the same time, seven Evil Clan's Lords are appearing on the field. While the most powerful secret weapon is emerging from the altar, the enemy intend to seize Qin Lie's life...",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1806,
+      "type": "anime",
+      "name": "iQIYI",
+      "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1325,
+      "type": "anime",
+      "name": "Haoliners Animation",
+      "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/88949l.webp",
+  "trailer_url": null,
+  "id": 36790,
+  "slug": "ling-yu-2nd-season"
 }

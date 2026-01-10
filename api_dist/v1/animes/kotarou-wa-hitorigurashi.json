@@ -1,17 +1,57 @@
 {
-  "id": 49909,
-  "slug": "kotarou-wa-hitorigurashi",
-  "type": "legendado",
+  "mal_id": 49909,
+  "url": "https://myanimelist.net/anime/49909/Kotarou_wa_Hitorigurashi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1862/121020.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1862/121020t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1862/121020l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1862/121020.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1862/121020t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1862/121020l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/0XJA93kdzsQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kotarou wa Hitorigurashi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kotaro Lives By Himself"
+    },
+    {
+      "type": "Japanese",
+      "title": "コタローは1人暮らし"
+    },
+    {
+      "type": "English",
+      "title": "Kotaro Lives Alone"
+    }
+  ],
   "title": "Kotarou wa Hitorigurashi",
   "title_english": "Kotaro Lives Alone",
   "title_japanese": "コタローは1人暮らし",
-  "image": "https://cdn.myanimelist.net/images/anime/1862/121020l.webp",
-  "score": 8.15,
-  "synopsis": "One day, manga author Shin Karino is greeted by four-year-old Kotarou Satou, his new next-door neighbor, who gifts him a box of tissues. In Karino's eyes, Kotarou is an odd kid: he speaks in an extremely formal manner, and he lives alone in his apartment—no parents or relatives in sight. But Kotarou neither seems to mind, nor wants to rely on people.\n\nFeeling sympathetic toward Kotarou's circumstances, Karino decides to follow Kotarou to a bathhouse in case something might happen to him and there he comes to understand the little boy is not so different from him. Little by little, Karino—along with the other residents of the apartment complex—grows fond of Kotarou and his antics. At the same time, Kotarou himself might have found something akin to a family in his unique neighbors.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/0XJA93kdzsQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Kotaro Lives By Himself"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -53,5 +93,76 @@
       "numero": 10,
       "url": "https://lightspeedst.net/s1/mp4/kotarou-wa-hitorigurashi/hd/10.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-03-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 3,
+        "year": 2022
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 10, 2022"
+  },
+  "duration": "26 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.15,
+  "scored_by": 106115,
+  "rank": 489,
+  "popularity": 1369,
+  "members": 198706,
+  "favorites": 2281,
+  "synopsis": "One day, manga author Shin Karino is greeted by four-year-old Kotarou Satou, his new next-door neighbor, who gifts him a box of tissues. In Karino's eyes, Kotarou is an odd kid: he speaks in an extremely formal manner, and he lives alone in his apartment—no parents or relatives in sight. But Kotarou neither seems to mind, nor wants to rely on people.\n\nFeeling sympathetic toward Kotarou's circumstances, Karino decides to follow Kotarou to a bathhouse in case something might happen to him and there he comes to understand the little boy is not so different from him. Little by little, Karino—along with the other residents of the apartment complex—grows fond of Kotarou and his antics. At the same time, Kotarou himself might have found something akin to a family in his unique neighbors.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Childcare",
+      "url": "https://myanimelist.net/anime/genre/53/Childcare"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1862/121020l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/0XJA93kdzsQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49909,
+  "slug": "kotarou-wa-hitorigurashi"
 }

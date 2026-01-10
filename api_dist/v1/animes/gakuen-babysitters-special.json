@@ -1,21 +1,146 @@
 {
-  "id": 37959,
-  "slug": "gakuen-babysitters-special",
-  "type": "legendado",
+  "mal_id": 37959,
+  "url": "https://myanimelist.net/anime/37959/Gakuen_Babysitters_Special",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1925/100826.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1925/100826t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1925/100826l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1925/100826.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1925/100826t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1925/100826l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gakuen Babysitters Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gakuen Babysitters Episode 13"
+    },
+    {
+      "type": "Japanese",
+      "title": "学園ベビーシッターズ"
+    },
+    {
+      "type": "English",
+      "title": "School Babysitters Episode 13"
+    },
+    {
+      "type": "German",
+      "title": "School Babysitters Folge 13 – Untitled"
+    },
+    {
+      "type": "French",
+      "title": "School Babysitters Épisode 13 – Untitled"
+    }
+  ],
   "title": "Gakuen Babysitters Special",
   "title_english": "School Babysitters Episode 13",
   "title_japanese": "学園ベビーシッターズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1925/100826l.webp",
-  "score": 7.75,
-  "synopsis": "With the onset of exams Ryuuichi and Kotaro spend less time together and a special version of Snow White is put on by the cast of Gakuen Babysitters. This special episode is bundled with the 7th Blu-ray volume.",
-  "trailer_url": null,
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Gakuen Babysitters Episode 13"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxhDGSpKhio1GvmogmoKD_OJFu2zYn850laqQ-ZFsatUNiaSUf0u2vDzlrUrHB5NgqOX-vTPOUPBUwAIX1l6jMZQ-tpQ2rTG4swRNkCRtaeNB3Sp_7UMbLdRcWyO6kD_V5ZaEU"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-09-26T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 9,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 26, 2018"
+  },
+  "duration": "27 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.75,
+  "scored_by": 24422,
+  "rank": 1230,
+  "popularity": 3573,
+  "members": 48377,
+  "favorites": 58,
+  "synopsis": "With the onset of exams Ryuuichi and Kotaro spend less time together and a special version of Snow White is put on by the cast of Gakuen Babysitters. This special episode is bundled with the 7th Blu-ray volume.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Childcare",
+      "url": "https://myanimelist.net/anime/genre/53/Childcare"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1925/100826l.webp",
+  "trailer_url": null,
+  "id": 37959,
+  "slug": "gakuen-babysitters-special"
 }

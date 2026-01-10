@@ -1,19 +1,62 @@
 {
-  "id": 85,
-  "slug": "mobile-suit-zeta-gundam",
-  "type": "legendado",
+  "mal_id": 85,
+  "url": "https://myanimelist.net/anime/85/Kidou_Senshi_Zeta_Gundam",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/11153t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/11153l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/11153t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/11153l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WX1sTTLIXAM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kidou Senshi Zeta Gundam"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kidou Senshi Z Gundam"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mobile Suit Z Gundam"
+    },
+    {
+      "type": "Japanese",
+      "title": "機動戦士Ζガンダム"
+    },
+    {
+      "type": "English",
+      "title": "Mobile Suit Zeta Gundam"
+    }
+  ],
   "title": "Kidou Senshi Zeta Gundam",
   "title_english": "Mobile Suit Zeta Gundam",
   "title_japanese": "機動戦士Ζガンダム",
-  "image": "https://cdn.myanimelist.net/images/anime/6/11153l.webp",
-  "score": 7.89,
-  "synopsis": "It is Universal Century 0087, and the One Year War between the Earth Federation and Principality of Zeon is over. The Earth Federation has created an elite task force, known as the Titans, who are responsible for hunting the remaining Zeon forces. However, the power-hungry Titans have shown themselves to be no better than Zeon, spurring the creation of a rebellious faction called the Anti-Earth Union Group (AEUG).\n \n17-year-old Kamille Bidan lives in the colony Green Noa, home to a Titan base. Kamille gets in trouble after assaulting a Titan officer, an event that coincides with an attack led by former Zeon ace Char Aznable, now known as AEUG pilot Quattro Bajeena. When Kamille steals a Titan's prototype Gundam, he soon finds himself in the middle of the dangerous conflict.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/WX1sTTLIXAM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Kidou Senshi Z Gundam",
+    "Mobile Suit Z Gundam"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -265,5 +308,109 @@
       "url": "https://lightspeedst.net/s2/mp4/mobile-suit-zeta-gundam/sd/50.mp4",
       "nome": "Run Through The Cosmos"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1985-03-02T00:00:00+00:00",
+    "to": "1986-02-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 3,
+        "year": 1985
+      },
+      "to": {
+        "day": 22,
+        "month": 2,
+        "year": 1986
+      }
+    },
+    "string": "Mar 2, 1985 to Feb 22, 1986"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.89,
+  "scored_by": 44051,
+  "rank": 892,
+  "popularity": 2577,
+  "members": 85814,
+  "favorites": 2621,
+  "synopsis": "It is Universal Century 0087, and the One Year War between the Earth Federation and Principality of Zeon is over. The Earth Federation has created an elite task force, known as the Titans, who are responsible for hunting the remaining Zeon forces. However, the power-hungry Titans have shown themselves to be no better than Zeon, spurring the creation of a rebellious faction called the Anti-Earth Union Group (AEUG).\n \n17-year-old Kamille Bidan lives in the colony Green Noa, home to a Titan base. Kamille gets in trouble after assaulting a Titan officer, an event that coincides with an attack led by former Zeon ace Char Aznable, now known as AEUG pilot Quattro Bajeena. When Kamille steals a Titan's prototype Gundam, he soon finds himself in the middle of the dangerous conflict.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 1985,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 1366,
+      "type": "anime",
+      "name": "Nagoya Broadcasting Network",
+      "url": "https://myanimelist.net/anime/producer/1366/Nagoya_Broadcasting_Network"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/11153l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/WX1sTTLIXAM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 85,
+  "slug": "mobile-suit-zeta-gundam"
 }

@@ -1,17 +1,55 @@
 {
-  "id": 4439,
-  "slug": "kurenai-sanshirou",
-  "type": "legendado",
+  "mal_id": 4439,
+  "url": "https://myanimelist.net/anime/4439/Kurenai_Sanshirou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1445/134584.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1445/134584t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1445/134584l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1445/134584.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1445/134584t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1445/134584l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kurenai Sanshirou"
+    },
+    {
+      "type": "Japanese",
+      "title": "紅三四郎"
+    },
+    {
+      "type": "English",
+      "title": "Judo Boy"
+    },
+    {
+      "type": "French",
+      "title": "Judo Boy"
+    }
+  ],
   "title": "Kurenai Sanshirou",
   "title_english": "Judo Boy",
   "title_japanese": "紅三四郎",
-  "image": "https://cdn.myanimelist.net/images/anime/1445/134584l.webp",
-  "score": 6.47,
-  "synopsis": "Young Sanshiro Kurenai is the proud heir of a judo dojo. One day, he finds his beloved father dead and a glass eye not too far from the corpse. Ready to avenge his father and take his honour back, Sanshiro and his friend Ken start searching for the mysterious one-eyed murderer...\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -117,5 +155,76 @@
       "numero": 26,
       "url": "https://www.blogger.com/video.g?token=AD6v5dz_Z0h5avnO-Goqsj_DADLl33r85-IAl1jjFn1p8fnSIANT-UtabKQrri4VYN-Aa7ihlTqrYbeVTYRC5ugt1_A5XAYBvGjRZAZV1Bb4qyJFlpbD7eo18i3V-pacVyOZqbz39Cw"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1969-04-02T00:00:00+00:00",
+    "to": "1969-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 1969
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 1969
+      }
+    },
+    "string": "Apr 2, 1969 to Sep 24, 1969"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.47,
+  "scored_by": 719,
+  "rank": 7610,
+  "popularity": 11450,
+  "members": 2682,
+  "favorites": 9,
+  "synopsis": "Young Sanshiro Kurenai is the proud heir of a judo dojo. One day, he finds his beloved father dead and a glass eye not too far from the corpse. Ready to avenge his father and take his honour back, Sanshiro and his friend Ken start searching for the mysterious one-eyed murderer...\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 1969,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1445/134584l.webp",
+  "trailer_url": null,
+  "id": 4439,
+  "slug": "kurenai-sanshirou"
 }

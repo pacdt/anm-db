@@ -1,18 +1,69 @@
 {
-  "id": 38759,
-  "slug": "sewayaki-kitsune-no-senko-san",
-  "type": "legendado",
+  "mal_id": 38759,
+  "url": "https://myanimelist.net/anime/38759/Sewayaki_Kitsune_no_Senko-san",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1814/99677.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1814/99677t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1814/99677l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1814/99677.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1814/99677t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1814/99677l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DUF5Ov7hmkM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sewayaki Kitsune no Senko-san"
+    },
+    {
+      "type": "Synonym",
+      "title": "Meddlesome Kitsune Senko-san"
+    },
+    {
+      "type": "Japanese",
+      "title": "世話やきキツネの仙狐さん"
+    },
+    {
+      "type": "English",
+      "title": "The Helpful Fox Senko-san"
+    },
+    {
+      "type": "German",
+      "title": "The Helpful Fox Senko-san"
+    },
+    {
+      "type": "Spanish",
+      "title": "The Helpful Fox Senko-san"
+    },
+    {
+      "type": "French",
+      "title": "The Helpful Fox Senko-san"
+    }
+  ],
   "title": "Sewayaki Kitsune no Senko-san",
   "title_english": "The Helpful Fox Senko-san",
   "title_japanese": "世話やきキツネの仙狐さん",
-  "image": "https://cdn.myanimelist.net/images/anime/1814/99677l.webp",
-  "score": 7.31,
-  "synopsis": "Like many hardworking members of the workforce, Kuroto Nakano is perpetually stressed out by his job. Still, since he lives alone, he must carry on to sustain himself. Little do humans like Kuroto know, this stress takes the form of darkness residing within a person's body and will bring one's life to ruin. \n\nFox deities can see this darkness and have the duty to save people before it is too late. To help rid Kuroto of his stress,  Senko-san, an eight hundred-year-old foxgirl, volunteers to take care of him, and will do everything she can to ease the tension in his weary soul.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DUF5Ov7hmkM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life",
-    "Supernatural"
+  "title_synonyms": [
+    "Meddlesome Kitsune Senko-san"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +125,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxDYZr-Y29P5a6WtcNhQuwKk0D5IHC3Z-_zd-xegTwm-hqHt1cvSdvdJ1BJPPz6zqKARYT7XC5pB_Rnw2pBiDYBdrm6E6ff7gH_pasH1zdw6tEzQd-NRPk_v26oWdjQwFsO0bA",
       "nome": "Still..."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-04-10T00:00:00+00:00",
+    "to": "2019-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 4,
+        "year": 2019
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2019
+      }
+    },
+    "string": "Apr 10, 2019 to Jun 26, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.31,
+  "scored_by": 188470,
+  "rank": 2881,
+  "popularity": 705,
+  "members": 378487,
+  "favorites": 2384,
+  "synopsis": "Like many hardworking members of the workforce, Kuroto Nakano is perpetually stressed out by his job. Still, since he lives alone, he must carry on to sustain himself. Little do humans like Kuroto know, this stress takes the form of darkness residing within a person's body and will bring one's life to ruin. \n\nFox deities can see this darkness and have the duty to save people before it is too late. To help rid Kuroto of his stress,  Senko-san, an eight hundred-year-old foxgirl, volunteers to take care of him, and will do everything she can to ease the tension in his weary soul.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2019,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1814/99677l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DUF5Ov7hmkM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38759,
+  "slug": "sewayaki-kitsune-no-senko-san"
 }

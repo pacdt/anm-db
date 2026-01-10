@@ -1,21 +1,73 @@
 {
-  "id": 709,
-  "slug": "mujin-wakusei-survive-dublado",
-  "type": "dublado",
+  "mal_id": 709,
+  "url": "https://myanimelist.net/anime/709/Mujin_Wakusei_Survive",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/46859.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/46859t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/46859l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/46859.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/46859t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/46859l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mujin Wakusei Survive"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uninhabited Planet Survive"
+    },
+    {
+      "type": "Synonym",
+      "title": "Survivants"
+    },
+    {
+      "type": "Synonym",
+      "title": "Survive! - Uninhabited Planet"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uninhabited Planet SURVIVE"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uninhabited Planet Survival"
+    },
+    {
+      "type": "Japanese",
+      "title": "無人惑星サヴァイヴ"
+    }
+  ],
   "title": "Mujin Wakusei Survive",
   "title_english": "Mujin Wakusei Survive",
   "title_japanese": "無人惑星サヴァイヴ",
-  "image": "https://cdn.myanimelist.net/images/anime/3/46859l.webp",
-  "score": 7.72,
-  "synopsis": "The story is set in the 22nd century where space travel, planet colonization and anti-gravity basketball are practically everyday things. Planet Earth has become uninhabitable, and therefore people live in colonies on the surrounding planets. On a school field trip, a mistake causes the protagonist, a young transfer student named Luna, her pet robot, and six of her classmates to be thrown through a gravity storm and crash land on a seemingly uninhabited planet. There, with Luna as their leader, the robot cat Chako, the lone wolf Kaoru, the spoiled rich boy Howard, the shy Sharla, the obedient Bell, the prideful musician Menori and the young genius Shingo must fight for their survival. But is the planet really uninhabited, or is there someone or something out there, waiting in the shadows?\n\n(Source: Wikipedia)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi",
-    "Slice of Life"
+  "title_synonyms": [
+    "Uninhabited Planet Survive",
+    "Survivants",
+    "Survive! - Uninhabited Planet",
+    "Uninhabited Planet SURVIVE",
+    "Uninhabited Planet Survival"
   ],
+  "type": "dublado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -277,5 +329,79 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzHV40Fjw_-ZlAm0zS6SGEkoJN2ktrf4UpKYoHAN09lQXwBijhNwjOk2VgLSs4vn5BZbLNp53uNqrqNvaUR7JahyOl7GiRYKpvRJA1MBzPb-3xgg8CTS62ag5EojsQ1Uc9fHrA",
       "nome": "To The Place Where Everyone Is"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-10-16T00:00:00+00:00",
+    "to": "2004-10-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 10,
+        "year": 2003
+      },
+      "to": {
+        "day": 28,
+        "month": 10,
+        "year": 2004
+      }
+    },
+    "string": "Oct 16, 2003 to Oct 28, 2004"
+  },
+  "duration": "25 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.72,
+  "scored_by": 11155,
+  "rank": 1291,
+  "popularity": 4371,
+  "members": 32748,
+  "favorites": 336,
+  "synopsis": "The story is set in the 22nd century where space travel, planet colonization and anti-gravity basketball are practically everyday things. Planet Earth has become uninhabitable, and therefore people live in colonies on the surrounding planets. On a school field trip, a mistake causes the protagonist, a young transfer student named Luna, her pet robot, and six of her classmates to be thrown through a gravity storm and crash land on a seemingly uninhabited planet. There, with Luna as their leader, the robot cat Chako, the lone wolf Kaoru, the spoiled rich boy Howard, the shy Sharla, the obedient Bell, the prideful musician Menori and the young genius Shingo must fight for their survival. But is the planet really uninhabited, or is there someone or something out there, waiting in the shadows?\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "fall",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    },
+    {
+      "mal_id": 94,
+      "type": "anime",
+      "name": "Telecom Animation Film",
+      "url": "https://myanimelist.net/anime/producer/94/Telecom_Animation_Film"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi",
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/46859l.webp",
+  "trailer_url": null,
+  "id": 709,
+  "slug": "mujin-wakusei-survive-dublado"
 }

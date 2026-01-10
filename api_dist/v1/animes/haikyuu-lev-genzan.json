@@ -1,21 +1,142 @@
 {
-  "id": 25303,
-  "slug": "haikyuu-lev-genzan",
-  "type": "legendado",
+  "mal_id": 25303,
+  "url": "https://myanimelist.net/anime/25303/Haikyuu_Lev_Genzan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1498/96643.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/96643t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/96643l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1498/96643.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/96643t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/96643l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Haikyuu!! Lev Genzan!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haikyuu!!: Jump Festa 2014 Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haikyuu!! OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Haikyuu!! The Arrival of Haiba Lev"
+    },
+    {
+      "type": "Japanese",
+      "title": "ハイキュー!! リエーフ見参！"
+    },
+    {
+      "type": "English",
+      "title": "Haikyu!!: Lev Appears!"
+    }
+  ],
   "title": "Haikyuu!! Lev Genzan!",
   "title_english": "Haikyu!!: Lev Appears!",
   "title_japanese": "ハイキュー!! リエーフ見参！",
-  "image": "https://cdn.myanimelist.net/images/anime/1498/96643l.webp",
-  "score": 7.7,
-  "synopsis": "Nekoma High School's volleyball team recruits a new member: the half-Japanese, half-Russian Lev Haiba. Though the self-proclaimed ace is blessed with great height, he lacks basic volleyball techniques. This gives the team's setter, Kenma Kozume, a hard time when matching up with him.\n \nTo everyone's surprise, Nekoma's coach suggests that Lev play in the Kunihira Senior High School's practice match, leaving Kenma no choice but to cooperate with the tall player. Will Kenma be able to overcome this new challenge?\n \n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Sports"
+  "title_synonyms": [
+    "Haikyuu!!: Jump Festa 2014 Special",
+    "Haikyuu!! OVA",
+    "Haikyuu!! The Arrival of Haiba Lev"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/haikyuu-lev-genzan/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-03-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 3,
+        "year": 2015
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 4, 2015"
+  },
+  "duration": "24 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.7,
+  "scored_by": 78763,
+  "rank": 1361,
+  "popularity": 1792,
+  "members": 144058,
+  "favorites": 206,
+  "synopsis": "Nekoma High School's volleyball team recruits a new member: the half-Japanese, half-Russian Lev Haiba. Though the self-proclaimed ace is blessed with great height, he lacks basic volleyball techniques. This gives the team's setter, Kenma Kozume, a hard time when matching up with him.\n \nTo everyone's surprise, Nekoma's coach suggests that Lev play in the Kunihira Senior High School's practice match, leaving Kenma no choice but to cooperate with the tall player. Will Kenma be able to overcome this new challenge?\n \n[Written by MAL Rewrite]",
+  "background": "Haikyuu!!: Lev Kenzan! (ハイキュー!! リエーフ見参！) was screened at Jump Festa 2014 on November 9, 2014. The OVA was later bundled with the 15th volume of the manga, released March 4, 2015.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1498/96643l.webp",
+  "trailer_url": null,
+  "id": 25303,
+  "slug": "haikyuu-lev-genzan"
 }

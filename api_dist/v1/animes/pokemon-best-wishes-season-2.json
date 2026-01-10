@@ -1,20 +1,74 @@
 {
-  "id": 14093,
-  "slug": "pokemon-best-wishes-season-2",
-  "type": "legendado",
+  "mal_id": 14093,
+  "url": "https://myanimelist.net/anime/14093/Pokemon_Best_Wishes_Season_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1904/140254.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1904/140254t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1904/140254l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1904/140254.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1904/140254t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1904/140254l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pokemon Best Wishes! Season 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pocket Monsters: Best Wishes! 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Black & White 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "ポケットモンスター ベストウイッシュ シーズン2"
+    },
+    {
+      "type": "English",
+      "title": "Pokémon: Black & White: Rival Destinies"
+    },
+    {
+      "type": "German",
+      "title": "Pokémon die Serie: Schwarz und Weiß Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Pokémon Temporada 15: Negro y Blanco. Destinos Rivales."
+    },
+    {
+      "type": "French",
+      "title": "Pokémon la Série: Noir et Blanc saision 2"
+    }
+  ],
   "title": "Pokemon Best Wishes! Season 2",
   "title_english": "Pokémon: Black & White: Rival Destinies",
   "title_japanese": "ポケットモンスター ベストウイッシュ シーズン2",
-  "image": "https://cdn.myanimelist.net/images/anime/1904/140254l.webp",
-  "score": 6.47,
-  "synopsis": "Satoshi, Iris and Dent continue their travels through the Isshu region. After successfully winning his eighth Gym Badge against Homika in Tachiwaki City, Shirona invites everyone to stay at her villa in east Isshu, where old friend Hikari is also staying, and participate in the Pokémon World Tournament Junior Cup before Satoshi participates in the Isshu League. Team Rocket, meanwhile, initiate their final plan for the Isshu region. What is the purpose of their desire for the legendary Pokémon Meloetta?",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Pocket Monsters: Best Wishes! 2",
+    "Black & White 2"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -276,5 +330,98 @@
       "numero": 59,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwwfROwuuWZMm7sCe3_P_Jiogb4jzBqMSS-hdWFgx88DBiK2NiRyJnWF9pFxpglN4K-y6oT80Ip5owTYSS9M2XMJPAFi7_AxL8Lt1iEsGQiBWh6MuI_Qr3UXK8h3Njd-5SLTrLJ"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-06-21T00:00:00+00:00",
+    "to": "2013-01-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 6,
+        "year": 2012
+      },
+      "to": {
+        "day": 10,
+        "month": 1,
+        "year": 2013
+      }
+    },
+    "string": "Jun 21, 2012 to Jan 10, 2013"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG - Children",
+  "score": 6.47,
+  "scored_by": 44203,
+  "rank": 7626,
+  "popularity": 2744,
+  "members": 77525,
+  "favorites": 36,
+  "synopsis": "Satoshi, Iris and Dent continue their travels through the Isshu region. After successfully winning his eighth Gym Badge against Homika in Tachiwaki City, Shirona invites everyone to stay at her villa in east Isshu, where old friend Hikari is also staying, and participate in the Pokémon World Tournament Junior Cup before Satoshi participates in the Isshu League. Team Rocket, meanwhile, initiate their final plan for the Isshu region. What is the purpose of their desire for the legendary Pokémon Meloetta?",
+  "background": "",
+  "season": "summer",
+  "year": 2012,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 499,
+      "type": "anime",
+      "name": "The Pokemon Company International",
+      "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1904/140254l.webp",
+  "trailer_url": null,
+  "id": 14093,
+  "slug": "pokemon-best-wishes-season-2"
 }

@@ -1,19 +1,51 @@
 {
-  "id": 60057,
-  "slug": "chao-neng-lifang-chaofan-pian",
-  "type": "legendado",
+  "mal_id": 60057,
+  "url": "https://myanimelist.net/anime/60057/Chao_Neng_Lifang__Chaofan_Pian",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1759/145944.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/145944t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/145944l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1759/145944.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/145944t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/145944l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/F7bqJsb05-U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chao Neng Lifang: Chaofan Pian"
+    },
+    {
+      "type": "Japanese",
+      "title": "超能立方 超凡篇"
+    },
+    {
+      "type": "English",
+      "title": "The Super Cube"
+    }
+  ],
   "title": "Chao Neng Lifang: Chaofan Pian",
   "title_english": "The Super Cube",
   "title_japanese": "超能立方 超凡篇",
-  "image": "https://cdn.myanimelist.net/images/anime/1759/145944l.webp",
-  "score": 7.19,
-  "synopsis": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu’s longtime crush, confesses her love to him, the delinquent Sun Jun, who also has a crush on her, is provoked. \n\nWang Xiaoxiu resolves the crisis with his wit and extraordinary powers, but it also brings more disasters as a result. Shen Yao is taken to the world of extraordinary beings by a mysterious person, and Wang Xiaoxiu embarks on a journey to rescue her. Fighting in the bizarre universe, he finds the meaning of fairness and justice on the path to becoming a peerless powerhouse.\n\n(Source: iQIYI International)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/F7bqJsb05-U?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -66,5 +98,77 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwJayrDWWQ9yIdpXnNwJilWM505VELfghysYIiFDqqW5NWpCBNzP3U2vYiYpVV5Rv3tc2mKkhMoV_0DKO0T6eRLxaxUh9vphgz9Z9xsuBdZfjc2r310Yn3XQu6A3uBGW2RMxYI"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-03-21T00:00:00+00:00",
+    "to": "2025-05-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 3,
+        "year": 2025
+      },
+      "to": {
+        "day": 23,
+        "month": 5,
+        "year": 2025
+      }
+    },
+    "string": "Mar 21, 2025 to May 23, 2025"
+  },
+  "duration": "20 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.19,
+  "scored_by": 13803,
+  "rank": 3574,
+  "popularity": 3516,
+  "members": 49777,
+  "favorites": 193,
+  "synopsis": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu’s longtime crush, confesses her love to him, the delinquent Sun Jun, who also has a crush on her, is provoked. \n\nWang Xiaoxiu resolves the crisis with his wit and extraordinary powers, but it also brings more disasters as a result. Shen Yao is taken to the world of extraordinary beings by a mysterious person, and Wang Xiaoxiu embarks on a journey to rescue her. Fighting in the bizarre universe, he finds the meaning of fairness and justice on the path to becoming a peerless powerhouse.\n\n(Source: iQIYI International)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1806,
+      "type": "anime",
+      "name": "iQIYI",
+      "url": "https://myanimelist.net/anime/producer/1806/iQIYI"
+    },
+    {
+      "mal_id": 2501,
+      "type": "anime",
+      "name": "Kuaikan Manhua",
+      "url": "https://myanimelist.net/anime/producer/2501/Kuaikan_Manhua"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1980,
+      "type": "anime",
+      "name": "Big Firebird Culture",
+      "url": "https://myanimelist.net/anime/producer/1980/Big_Firebird_Culture"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1759/145944l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/F7bqJsb05-U?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60057,
+  "slug": "chao-neng-lifang-chaofan-pian"
 }

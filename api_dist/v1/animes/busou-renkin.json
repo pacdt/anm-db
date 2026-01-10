@@ -1,18 +1,67 @@
 {
-  "id": 1536,
-  "slug": "busou-renkin",
-  "type": "legendado",
+  "mal_id": 1536,
+  "url": "https://myanimelist.net/anime/1536/Busou_Renkin",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/75566.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/75566t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/75566l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/75566.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/75566t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/75566l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Busou Renkin"
+    },
+    {
+      "type": "Synonym",
+      "title": "BoRe"
+    },
+    {
+      "type": "Synonym",
+      "title": "BuRe"
+    },
+    {
+      "type": "Synonym",
+      "title": "Arms Alchemy"
+    },
+    {
+      "type": "Japanese",
+      "title": "武装錬金"
+    },
+    {
+      "type": "English",
+      "title": "Buso Renkin"
+    }
+  ],
   "title": "Busou Renkin",
   "title_english": "Buso Renkin",
   "title_japanese": "武装錬金",
-  "image": "https://cdn.myanimelist.net/images/anime/6/75566l.webp",
-  "score": 7.28,
-  "synopsis": "Disguising themselves as humans, homunculi inhabit the world to prey on the unsuspecting population. Created long ago by alchemists from Europe, homunculi are difficult to eliminate without weapons known as Kurogane. Each Kurogane is uniquely shaped according to its wielder's instincts, taking the form of special abilities called Busou Renkin.\n\nWhile walking home from school one day, Kazuki Mutou spots a defenseless girl under attack by a homunculus. But as he attempts to intervene, the girl ends up saving Kazuki’s life instead, shattering his ignorant worldview. The girl introduces herself as Tokiko Tsumura, and Kazuki soon learns that she has accidentally implanted a Kurogane inside of him. Now unintentionally dragged into the fight against homunculi, Kazuki must forgo his former life of leisure in order to protect the ones he holds dear.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Supernatural"
+  "title_synonyms": [
+    "BoRe",
+    "BuRe",
+    "Arms Alchemy"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +193,109 @@
       "url": "https://lightspeedst.net/s3/mp4/busou-renkin/sd/26.mp4",
       "nome": "Period"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-10-05T00:00:00+00:00",
+    "to": "2007-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2006
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2007
+      }
+    },
+    "string": "Oct 5, 2006 to Mar 29, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.28,
+  "scored_by": 82447,
+  "rank": 3050,
+  "popularity": 1509,
+  "members": 178443,
+  "favorites": 874,
+  "synopsis": "Disguising themselves as humans, homunculi inhabit the world to prey on the unsuspecting population. Created long ago by alchemists from Europe, homunculi are difficult to eliminate without weapons known as Kurogane. Each Kurogane is uniquely shaped according to its wielder's instincts, taking the form of special abilities called Busou Renkin.\n\nWhile walking home from school one day, Kazuki Mutou spots a defenseless girl under attack by a homunculus. But as he attempts to intervene, the girl ends up saving Kazuki’s life instead, shattering his ignorant worldview. The girl introduces herself as Tokiko Tsumura, and Kazuki soon learns that she has accidentally implanted a Kurogane inside of him. Now unintentionally dragged into the fight against homunculi, Kazuki must forgo his former life of leisure in order to protect the ones he holds dear.\n\n[Written by MAL Rewrite]",
+  "background": "Busou Renkin was released on DVD in North America by VIZ Media from April 29, 2008, to October 7, 2008.",
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 2135,
+      "type": "anime",
+      "name": "Imagine",
+      "url": "https://myanimelist.net/anime/producer/2135/Imagine"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/75566l.webp",
+  "trailer_url": null,
+  "id": 1536,
+  "slug": "busou-renkin"
 }

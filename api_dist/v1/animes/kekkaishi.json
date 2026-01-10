@@ -1,19 +1,61 @@
 {
-  "id": 1606,
-  "slug": "kekkaishi",
-  "type": "legendado",
+  "mal_id": 1606,
+  "url": "https://myanimelist.net/anime/1606/Kekkaishi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75191.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75191t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75191l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75191.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75191t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75191l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xht0MY1Tjnk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kekkaishi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Barrier Master"
+    },
+    {
+      "type": "Japanese",
+      "title": "結界師"
+    },
+    {
+      "type": "English",
+      "title": "Kekkaishi"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kekkaishi"
+    }
+  ],
   "title": "Kekkaishi",
   "title_english": "Kekkaishi",
   "title_japanese": "結界師",
-  "image": "https://cdn.myanimelist.net/images/anime/7/75191l.webp",
-  "score": 7.59,
-  "synopsis": "Yoshimura Sumimura comes from a long line of \"Kekkaishi,\" individuals who have supernatural abilities and are able to destroy evil creatures called Ayakashi that venture into the human realm from time to time. The Ayakashi are demons that look to feast on the power emanating from the land of Karasumori, which also happens to be where Yoshimura's high school is located. Now, Yoshimura must fight to protect his beloved school and hometown. Although, if it were up to him, he would rather be baking cakes than fighting off the ugly characters that show up at night.\n\nThankfully, Yoshimura isn't the only one helping to keep the baddies at bay. His childhood friend and neighbor, Tokine Yukimura, joins him in this righteous battle. Despite the fact that they are from rival clans, these two make a fantastic team. And teamwork is something vital to fighting the evil that is closing in, as the Ayakashi attack in waves, looking to claim the land as their own, and a shadowy organization looks on, ready to pounce when the time is right...",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xht0MY1Tjnk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Supernatural"
+  "title_synonyms": [
+    "Barrier Master"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -270,5 +312,110 @@
       "url": "https://lightspeedst.net/s3/mp4/kekkaishi/sd/51.mp4",
       "nome": "Yoshimori and Kaguro"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-10-16T00:00:00+00:00",
+    "to": "2008-02-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 10,
+        "year": 2006
+      },
+      "to": {
+        "day": 5,
+        "month": 2,
+        "year": 2008
+      }
+    },
+    "string": "Oct 16, 2006 to Feb 5, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.59,
+  "scored_by": 52149,
+  "rank": 1702,
+  "popularity": 2108,
+  "members": 117353,
+  "favorites": 646,
+  "synopsis": "Yoshimura Sumimura comes from a long line of \"Kekkaishi,\" individuals who have supernatural abilities and are able to destroy evil creatures called Ayakashi that venture into the human realm from time to time. The Ayakashi are demons that look to feast on the power emanating from the land of Karasumori, which also happens to be where Yoshimura's high school is located. Now, Yoshimura must fight to protect his beloved school and hometown. Although, if it were up to him, he would rather be baking cakes than fighting off the ugly characters that show up at night.\n\nThankfully, Yoshimura isn't the only one helping to keep the baddies at bay. His childhood friend and neighbor, Tokine Yukimura, joins him in this righteous battle. Despite the fact that they are from rival clans, these two make a fantastic team. And teamwork is something vital to fighting the evil that is closing in, as the Ayakashi attack in waves, looking to claim the land as their own, and a shadowy organization looks on, ready to pounce when the time is right...",
+  "background": "",
+  "season": "fall",
+  "year": 2006,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    },
+    {
+      "mal_id": 3242,
+      "type": "anime",
+      "name": "Zet",
+      "url": "https://myanimelist.net/anime/producer/3242/Zet"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/75191l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xht0MY1Tjnk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1606,
+  "slug": "kekkaishi"
 }

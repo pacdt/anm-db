@@ -1,18 +1,61 @@
 {
-  "id": 36039,
-  "slug": "a-i-c-o-incarnation",
-  "type": "legendado",
+  "mal_id": 36039,
+  "url": "https://myanimelist.net/anime/36039/AICO_Incarnation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1921/91085.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1921/91085t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1921/91085l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1921/91085.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1921/91085t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1921/91085l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CCfYQnOLHV0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "A.I.C.O. Incarnation"
+    },
+    {
+      "type": "Synonym",
+      "title": "AICO"
+    },
+    {
+      "type": "Japanese",
+      "title": "A.I.C.O. -Incarnation-"
+    },
+    {
+      "type": "German",
+      "title": "A.I.C.O. Incarnation"
+    },
+    {
+      "type": "French",
+      "title": "A.I.C.O. Incarnation"
+    }
+  ],
   "title": "A.I.C.O. Incarnation",
   "title_english": "A.I.C.O. Incarnation",
   "title_japanese": "A.I.C.O. -Incarnation-",
-  "image": "https://cdn.myanimelist.net/images/anime/1921/91085l.webp",
-  "score": 6.53,
-  "synopsis": "In 2035, an incident known as “The Burst” occurs at a Japanese research facility,  giving birth to the rapidly expanding, consuming, and self-replicating \"Matter.\" Snaking its way through the remains of dams and military facilities in the Kurobe Gorge, the hostile Matter is besieged by task forces trying to prevent it from reaching the ocean and mercenaries seeking the truth behind its existence.\n\nAiko Tachibana lives under constant medical surveillance after being rescued from the Matter. She spends her days waiting out her recovery by making paper planes. Soon, her daily life at school is disturbed by the arrival of transfer student Yuuya Kanzaki, who proceeds to point out a number of inconsistencies regarding her body. Why is she never injured, and why does she suddenly no longer need her wheelchair? He claims that there is more to her existence than she has been led to believe, and that she alone holds the key to ending The Burst.\n\nWith many factions now interested in Aiko, she and Yuuya must gather allies and embark on a dangerous pilgrimage into the heart of the infested gorge before the net can close around them. To escape the conspiracy moving against them, the pair must face off against the Matter—an enemy that flows like water.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/CCfYQnOLHV0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi"
+  "title_synonyms": [
+    "AICO"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +117,94 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxn2r7PsZiEv0iG26hGkuwvSW8c0hzJgfe-kIWNyjWnCEIyXxl7bTRdVyGw9HPgCQe00NsMQJxznWTAU9CRbt7ceFAL9TXNUZAtSxdejfFWEwialpcSH8s7Fwv1aO6f6u5sft0",
       "nome": "Reincarnation"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-03-09T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 3,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 9, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.53,
+  "scored_by": 58344,
+  "rank": 7182,
+  "popularity": 2025,
+  "members": 123305,
+  "favorites": 273,
+  "synopsis": "In 2035, an incident known as “The Burst” occurs at a Japanese research facility,  giving birth to the rapidly expanding, consuming, and self-replicating \"Matter.\" Snaking its way through the remains of dams and military facilities in the Kurobe Gorge, the hostile Matter is besieged by task forces trying to prevent it from reaching the ocean and mercenaries seeking the truth behind its existence.\n\nAiko Tachibana lives under constant medical surveillance after being rescued from the Matter. She spends her days waiting out her recovery by making paper planes. Soon, her daily life at school is disturbed by the arrival of transfer student Yuuya Kanzaki, who proceeds to point out a number of inconsistencies regarding her body. Why is she never injured, and why does she suddenly no longer need her wheelchair? He claims that there is more to her existence than she has been led to believe, and that she alone holds the key to ending The Burst.\n\nWith many factions now interested in Aiko, she and Yuuya must gather allies and embark on a dangerous pilgrimage into the heart of the infested gorge before the net can close around them. To escape the conspiracy moving against them, the pair must face off against the Matter—an enemy that flows like water.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1833,
+      "type": "anime",
+      "name": "Yamasa",
+      "url": "https://myanimelist.net/anime/producer/1833/Yamasa"
+    },
+    {
+      "mal_id": 2512,
+      "type": "anime",
+      "name": "Studio Easter",
+      "url": "https://myanimelist.net/anime/producer/2512/Studio_Easter"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1921/91085l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/CCfYQnOLHV0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36039,
+  "slug": "a-i-c-o-incarnation"
 }

@@ -1,19 +1,69 @@
 {
-  "id": 38083,
-  "slug": "ken-en-ken-aoki-kagayaki",
-  "type": "legendado",
+  "mal_id": 38083,
+  "url": "https://myanimelist.net/anime/38083/Ken_En_Ken__Aoki_Kagayaki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1339/95573.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1339/95573t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1339/95573l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1339/95573.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1339/95573t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1339/95573l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KO_Qar16S08?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ken En Ken: Aoki Kagayaki"
+    },
+    {
+      "type": "Synonym",
+      "title": "Xuan-Yuan Sword: Lights of the Bleak"
+    },
+    {
+      "type": "Japanese",
+      "title": "軒轅剣・蒼き曜"
+    },
+    {
+      "type": "English",
+      "title": "Xuan Yuan Sword Luminary"
+    },
+    {
+      "type": "German",
+      "title": "Xuan Yuan Sword Luminary"
+    },
+    {
+      "type": "Spanish",
+      "title": "Xuan Yuan Sword Luminary"
+    },
+    {
+      "type": "French",
+      "title": "Xuan Yuan Sword Luminary"
+    }
+  ],
   "title": "Ken En Ken: Aoki Kagayaki",
   "title_english": "Xuan Yuan Sword Luminary",
   "title_japanese": "軒轅剣・蒼き曜",
-  "image": "https://cdn.myanimelist.net/images/anime/1339/95573l.webp",
-  "score": 6.02,
-  "synopsis": "Yin and Ning are two sisters who have been wandering the land together ever since their village was destroyed by the villainous Taibai Empire. Their childhood friend, Zhao, has been enslaved by the Taibai himself, and uses his brilliance at tinkering and inventing to get by as a slave to the Empire's whims. One day, Yin accidentally discovers a legendary sword, which grants her fantastic abilities in combat, and allows her to summon a mystical, mechanical fox spirit named Yun, who is sworn to fight by her side. Meanwhile, Zhao is making fast friends with a mysterious young girl who just may hold a great amount of power within the Taibai Empire. As Zhao and the Fu sisters find themselves increasingly caught up in the Empire's battle for supremacy over the land, it will take all of the magic and might that the budding resistance armies can muster to turn the tide of war once and for all.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/KO_Qar16S08?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Xuan-Yuan Sword: Lights of the Bleak"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +130,84 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxTH7uTnCdDakDH5JY8Bh27up2jng80TqIkRpXGzeT4ZNWxpRRUhah2zKU64p1bibYzOpcEeB6-nKIKemzNYbSaQgqscRUrpSQCQBAk0Iw0JUiWnvhdY0krIWfkHN6gumUwUN9Z",
       "nome": "The Sky Fortress"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-02T00:00:00+00:00",
+    "to": "2018-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 2, 2018 to Dec 25, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.02,
+  "scored_by": 5391,
+  "rank": 10302,
+  "popularity": 5505,
+  "members": 19015,
+  "favorites": 25,
+  "synopsis": "Yin and Ning are two sisters who have been wandering the land together ever since their village was destroyed by the villainous Taibai Empire. Their childhood friend, Zhao, has been enslaved by the Taibai himself, and uses his brilliance at tinkering and inventing to get by as a slave to the Empire's whims. One day, Yin accidentally discovers a legendary sword, which grants her fantastic abilities in combat, and allows her to summon a mystical, mechanical fox spirit named Yun, who is sworn to fight by her side. Meanwhile, Zhao is making fast friends with a mysterious young girl who just may hold a great amount of power within the Taibai Empire. As Zhao and the Fu sisters find themselves increasingly caught up in the Empire's battle for supremacy over the land, it will take all of the magic and might that the budding resistance armies can muster to turn the tide of war once and for all.\n\n(Source: ANN)",
+  "background": "Ken En Ken: Aoki Kagayaki is based on the 2004 Taiwanese role-playing game Xuan Yuan Jian Waizhuan: Cang zhi Tao, whose story is set in the Spring and Autumn period of Chinese history (approximately 770–476 BC).",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 1041,
+      "type": "anime",
+      "name": "Ai Addiction",
+      "url": "https://myanimelist.net/anime/producer/1041/Ai_Addiction"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1339/95573l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/KO_Qar16S08?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38083,
+  "slug": "ken-en-ken-aoki-kagayaki"
 }

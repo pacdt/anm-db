@@ -1,17 +1,57 @@
 {
-  "id": 48542,
-  "slug": "do-it-yourself",
-  "type": "legendado",
+  "mal_id": 48542,
+  "url": "https://myanimelist.net/anime/48542/Do_It_Yourself",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1408/127129.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/127129t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/127129l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1408/127129.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1408/127129t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1408/127129l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pxRszOIy9eA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Do It Yourself!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "DIY!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "Do It Yourself!! -どぅー・いっと・ゆあせるふ-"
+    },
+    {
+      "type": "English",
+      "title": "Do It Yourself!!"
+    }
+  ],
   "title": "Do It Yourself!!",
   "title_english": "Do It Yourself!!",
   "title_japanese": "Do It Yourself!! -どぅー・いっと・ゆあせるふ-",
-  "image": "https://cdn.myanimelist.net/images/anime/1408/127129l.webp",
-  "score": 7.45,
-  "synopsis": "The Fourth Industrial Revolution has led to the development of cutting-edge technologies that have rapidly evolved the world. As a result, schools have begun incorporating these technologies into their curriculum, leaving behind the ways of the old. One such institution is the elite Yuyu Girls' Vocational High School, where both Serufu Yua and her childhood friend, Miku \"Purin\" Suride, have applied. Although the tech-savvy Purin is accepted to Yuyu High, the accident-prone Serufu is rejected and enters the traditional Gatagata Girls' High School instead, driving a wedge into their friendship.\n\nOn her way to class one day, Serufu gets into a bike accident, and Rei Yasaku, a passerby who attends the same school, fixes her damaged bicycle. Serufu later finds out that Rei has a passion for old-fashioned crafts and is the head of the school's Do-It-Yourself (DIY) Club—which is in danger of closing due to a lack of members.\n\nRealizing that this may be her chance to repair her relationship with Purin, Serufu joins the club in hopes of creating projects that could bring them together once more. As the DIY Club welcomes new faces, Serufu learns to build not only handicrafts but also new friendships along the way!\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/pxRszOIy9eA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "DIY!!"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +113,118 @@
       "url": "https://lightspeedst.net/s5/mp4/do-it-yourself/fhd/12.mp4",
       "nome": "\"DIY\" Means Friendship, Always and Forever!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-06T00:00:00+00:00",
+    "to": "2022-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 6, 2022 to Dec 22, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.45,
+  "scored_by": 46003,
+  "rank": 2265,
+  "popularity": 2050,
+  "members": 121200,
+  "favorites": 660,
+  "synopsis": "The Fourth Industrial Revolution has led to the development of cutting-edge technologies that have rapidly evolved the world. As a result, schools have begun incorporating these technologies into their curriculum, leaving behind the ways of the old. One such institution is the elite Yuyu Girls' Vocational High School, where both Serufu Yua and her childhood friend, Miku \"Purin\" Suride, have applied. Although the tech-savvy Purin is accepted to Yuyu High, the accident-prone Serufu is rejected and enters the traditional Gatagata Girls' High School instead, driving a wedge into their friendship.\n\nOn her way to class one day, Serufu gets into a bike accident, and Rei Yasaku, a passerby who attends the same school, fixes her damaged bicycle. Serufu later finds out that Rei has a passion for old-fashioned crafts and is the head of the school's Do-It-Yourself (DIY) Club—which is in danger of closing due to a lack of members.\n\nRealizing that this may be her chance to repair her relationship with Purin, Serufu joins the club in hopes of creating projects that could bring them together once more. As the DIY Club welcomes new faces, Serufu learns to build not only handicrafts but also new friendships along the way!\n\n[Written by MAL Rewrite]",
+  "background": "Do It Yourself! was released on Blu-ray and DVD in four volumes from December 23, 2022 to March 24, 2023. The anime's official partner Takagi, a tool manufacturer from Niigata, participated in the Japan DIY Homecenter Show 2022 exhibition of home living products held at the Makuhari Messe center in Chiba from August 25 to 27. At its booth, the company distributed uchiwa fans for free with Do It Yourself!! illustrations.",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1507,
+      "type": "anime",
+      "name": "Sumitomo",
+      "url": "https://myanimelist.net/anime/producer/1507/Sumitomo"
+    },
+    {
+      "mal_id": 1996,
+      "type": "anime",
+      "name": "MAGNET",
+      "url": "https://myanimelist.net/anime/producer/1996/MAGNET"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1295,
+      "type": "anime",
+      "name": "PINE JAM",
+      "url": "https://myanimelist.net/anime/producer/1295/PINE_JAM"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1408/127129l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/pxRszOIy9eA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 48542,
+  "slug": "do-it-yourself"
 }

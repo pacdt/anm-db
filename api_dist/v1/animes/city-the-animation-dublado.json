@@ -1,17 +1,53 @@
 {
-  "id": 59898,
-  "slug": "city-the-animation-dublado",
-  "type": "dublado",
+  "mal_id": 59898,
+  "url": "https://myanimelist.net/anime/59898/City_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1829/145678.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1829/145678t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1829/145678l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1829/145678.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1829/145678t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1829/145678l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/YP17uvO9amU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "City The Animation"
+    },
+    {
+      "type": "Synonym",
+      "title": "City"
+    },
+    {
+      "type": "Japanese",
+      "title": "CITY THE ANIMATION"
+    }
+  ],
   "title": "City The Animation",
   "title_english": "City The Animation",
   "title_japanese": "CITY THE ANIMATION",
-  "image": "https://cdn.myanimelist.net/images/anime/1829/145678l.webp",
-  "score": 8.1,
-  "synopsis": "Aimless daydreaming in high school is an ordinary part of growing up. But once graduation comes, suddenly there are bills to pay and a higher education to tackle. Even so, Midori Nagumo never quite stopped dreaming—even after entering college—as she still wants to have fun while ignoring her responsibilities. Contrasting Midori's recklessness is her supposed best friend Niikura, who is the complete opposite of Midori and has a goal of becoming a photographer after college.\n\nHowever, Niikura is often pulled into Midori's schemes, which leads them to meet Wako Izumi, a tenacious, yet airheaded classmate who is always taking pictures of things she finds fun. The trio ends up living together in the same apartment and attempt to navigate their lives in the city of City, where unexpected and out-of-the-ordinary things occur daily.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/YP17uvO9amU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "City"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -21,5 +57,101 @@
       "numero": 2,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzcUnEXVuauEHqGEbRDGUt-EtkKr7PHceZSw7yszud5SbTd-O5P5MgYBg5K7exZwO-PIfc5D8luzAck2n-Ui4DCVhDtiNHeqteTKhmcLO2RFANHu6idrbCSIRoNufHNnYDIYAo"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-07-07T00:00:00+00:00",
+    "to": "2025-09-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2025
+      },
+      "to": {
+        "day": 29,
+        "month": 9,
+        "year": 2025
+      }
+    },
+    "string": "Jul 7, 2025 to Sep 29, 2025"
+  },
+  "duration": "27 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.1,
+  "scored_by": 23007,
+  "rank": 554,
+  "popularity": 2759,
+  "members": 76962,
+  "favorites": 564,
+  "synopsis": "Aimless daydreaming in high school is an ordinary part of growing up. But once graduation comes, suddenly there are bills to pay and a higher education to tackle. Even so, Midori Nagumo never quite stopped dreaming—even after entering college—as she still wants to have fun while ignoring her responsibilities. Contrasting Midori's recklessness is her supposed best friend Niikura, who is the complete opposite of Midori and has a goal of becoming a photographer after college.\n\nHowever, Niikura is often pulled into Midori's schemes, which leads them to meet Wako Izumi, a tenacious, yet airheaded classmate who is always taking pictures of things she finds fun. The trio ends up living together in the same apartment and attempt to navigate their lives in the city of City, where unexpected and out-of-the-ordinary things occur daily.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2025,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 211,
+      "type": "anime",
+      "name": "Rakuonsha",
+      "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+    },
+    {
+      "mal_id": 1500,
+      "type": "anime",
+      "name": "ABC Animation",
+      "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1829/145678l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/YP17uvO9amU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59898,
+  "slug": "city-the-animation-dublado"
 }

@@ -1,20 +1,51 @@
 {
-  "id": 10490,
-  "slug": "blood-c",
-  "type": "legendado",
+  "mal_id": 10490,
+  "url": "https://myanimelist.net/anime/10490/Blood-C",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1691/140716.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/140716t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/140716l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1691/140716.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/140716t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/140716l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Blood-C"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブラッドシー"
+    },
+    {
+      "type": "English",
+      "title": "Blood-C"
+    }
+  ],
   "title": "Blood-C",
   "title_english": "Blood-C",
   "title_japanese": "ブラッドシー",
-  "image": "https://cdn.myanimelist.net/images/anime/1691/140716l.webp",
-  "score": 6.53,
-  "synopsis": "Peaceful schoolgirl by day, fearsome monster slayer by night, Saya Kisaragi is leading a split life. Equipped with a ceremonial sword given to her by her father for sacred tasks, she vanquishes every monster who dares threaten her quiet little village. But all too soon, Saya's reality and everything she believes to be true is tested, when she overhears the monsters speak of a broken covenant—something she knows nothing about. And then, unexpectedly, a strange dog appears; it asks her to whom she promised to protect the village, curious as to what would happen if she were to break that promise. Tormented by unexplainable visions and her world unraveling around her, we travel with Saya through her struggle to find a way to the truth in a village where nothing is as it seems.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Horror",
-    "Mystery",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +107,110 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwHO-kmpGuyaIrr_ZWTy2D_RLDndHl5rkomWuJhTDE0TARclI5IvCsYrka4-kWteclGrRZJHIzA5fwdfDmF-HiXF1QZ2bEY4ZceMdiFGKvKOkZefir6NVGJZJ2lKm3euaOQ0Q",
       "nome": "If Remembering Me"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-08T00:00:00+00:00",
+    "to": "2011-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Jul 8, 2011 to Sep 30, 2011"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.53,
+  "scored_by": 170376,
+  "rank": 7191,
+  "popularity": 659,
+  "members": 401939,
+  "favorites": 1351,
+  "synopsis": "Peaceful schoolgirl by day, fearsome monster slayer by night, Saya Kisaragi is leading a split life. Equipped with a ceremonial sword given to her by her father for sacred tasks, she vanquishes every monster who dares threaten her quiet little village. But all too soon, Saya's reality and everything she believes to be true is tested, when she overhears the monsters speak of a broken covenant—something she knows nothing about. And then, unexpectedly, a strange dog appears; it asks her to whom she promised to protect the village, curious as to what would happen if she were to break that promise. Tormented by unexplainable visions and her world unraveling around her, we travel with Saya through her struggle to find a way to the truth in a village where nothing is as it seems.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 715,
+      "type": "anime",
+      "name": "Dwango",
+      "url": "https://myanimelist.net/anime/producer/715/Dwango"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Horror",
+    "Mystery",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1691/140716l.webp",
+  "trailer_url": null,
+  "id": 10490,
+  "slug": "blood-c"
 }

@@ -1,18 +1,51 @@
 {
-  "id": 60260,
-  "slug": "hotel-inhumans",
-  "type": "legendado",
+  "mal_id": 60260,
+  "url": "https://myanimelist.net/anime/60260/Hotel_Inhumans",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1900/150443.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1900/150443t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1900/150443l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1900/150443.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1900/150443t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1900/150443l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zfthL1m2GFg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hotel Inhumans"
+    },
+    {
+      "type": "Japanese",
+      "title": "ホテル・インヒューマンズ"
+    },
+    {
+      "type": "English",
+      "title": "Hotel Inhumans"
+    }
+  ],
   "title": "Hotel Inhumans",
   "title_english": "Hotel Inhumans",
   "title_japanese": "ホテル・インヒューマンズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1900/150443l.webp",
-  "score": 6.71,
-  "synopsis": "Ikurou Hoshi and Sara Haizaki are the concierges at Hotel Inhumans, a hotel that specifically caters to assassins. They fulfill all the requests their guests may ask of them, never uttering the word \"no.\" While Ikurou specializes in research into their clients' backgrounds and careers, Sara protects the hotel with skills to match that of the hotel's patrons.\n\nHowever, despite providing every service imaginable for these assassins, Ikurou despises those who kill for money and claims daily that he is going to quit his job. Yet the more requests he and Sara fulfill on behalf of their guests, the more Ikurou learns about the unexpected humanity found within the assassins. With every glimpse into the lives and motivations of those who murder for a living, the more he realizes assassins are not so different from him or Sara.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/zfthL1m2GFg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +112,113 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/hotel-inhumans/13/720p.mp4",
       "nome": "Another Sky 4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-07-06T00:00:00+00:00",
+    "to": "2025-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2025
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2025
+      }
+    },
+    "string": "Jul 6, 2025 to Sep 28, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.71,
+  "scored_by": 6366,
+  "rank": 6102,
+  "popularity": 5149,
+  "members": 22385,
+  "favorites": 41,
+  "synopsis": "Ikurou Hoshi and Sara Haizaki are the concierges at Hotel Inhumans, a hotel that specifically caters to assassins. They fulfill all the requests their guests may ask of them, never uttering the word \"no.\" While Ikurou specializes in research into their clients' backgrounds and careers, Sara protects the hotel with skills to match that of the hotel's patrons.\n\nHowever, despite providing every service imaginable for these assassins, Ikurou despises those who kill for money and claims daily that he is going to quit his job. Yet the more requests he and Sara fulfill on behalf of their guests, the more Ikurou learns about the unexpected humanity found within the assassins. With every glimpse into the lives and motivations of those who murder for a living, the more he realizes assassins are not so different from him or Sara.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2025,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 513,
+      "type": "anime",
+      "name": "Nikkatsu",
+      "url": "https://myanimelist.net/anime/producer/513/Nikkatsu"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1294,
+      "type": "anime",
+      "name": "Sound Team Don Juan",
+      "url": "https://myanimelist.net/anime/producer/1294/Sound_Team_Don_Juan"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1542,
+      "type": "anime",
+      "name": "DMM.com",
+      "url": "https://myanimelist.net/anime/producer/1542/DMMcom"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 397,
+      "type": "anime",
+      "name": "Bridge",
+      "url": "https://myanimelist.net/anime/producer/397/Bridge"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 68,
+      "type": "anime",
+      "name": "Organized Crime",
+      "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1900/150443l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/zfthL1m2GFg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60260,
+  "slug": "hotel-inhumans"
 }

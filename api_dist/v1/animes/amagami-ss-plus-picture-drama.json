@@ -1,22 +1,120 @@
 {
-  "id": 15951,
-  "slug": "amagami-ss-plus-picture-drama",
-  "type": "legendado",
+  "mal_id": 15951,
+  "url": "https://myanimelist.net/anime/15951/Amagami_SS__Plus_Picture_Drama",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/55899.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/55899t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/55899l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/55899.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/55899t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/55899l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Amagami SS+ Plus Picture Drama"
+    },
+    {
+      "type": "Synonym",
+      "title": "Amagami SS+ Plus Picture Drama - Valentine For You"
+    },
+    {
+      "type": "Synonym",
+      "title": "Amagami SS+ Plus Picture Drama - Give Me Chocolate!"
+    },
+    {
+      "type": "Japanese",
+      "title": "アマガミSS+ plus 新作ピクチャードラマ～バレンタイン・フォー・ユー～"
+    }
+  ],
   "title": "Amagami SS+ Plus Picture Drama",
   "title_english": "Amagami SS+ Plus Picture Drama",
   "title_japanese": "アマガミSS+ plus 新作ピクチャードラマ～バレンタイン・フォー・ユー～",
-  "image": "https://cdn.myanimelist.net/images/anime/8/55899l.webp",
-  "score": 6.53,
-  "synopsis": "Picture Dramas from the DVD/BD Vol.7.",
-  "trailer_url": null,
-  "genres": [
-    "Romance"
+  "title_synonyms": [
+    "Amagami SS+ Plus Picture Drama - Valentine For You",
+    "Amagami SS+ Plus Picture Drama - Give Me Chocolate!"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/amagami-ss-plus-picture-drama/sd/1.mp4",
       "nome": "Valentine for You"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 3, 2012"
+  },
+  "duration": "7 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.53,
+  "scored_by": 9484,
+  "rank": 7185,
+  "popularity": 5222,
+  "members": 21679,
+  "favorites": 21,
+  "synopsis": "Picture Dramas from the DVD/BD Vol.7.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/55899l.webp",
+  "trailer_url": null,
+  "id": 15951,
+  "slug": "amagami-ss-plus-picture-drama"
 }

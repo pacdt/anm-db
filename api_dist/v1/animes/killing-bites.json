@@ -1,19 +1,55 @@
 {
-  "id": 34964,
-  "slug": "killing-bites",
-  "type": "legendado",
+  "mal_id": 34964,
+  "url": "https://myanimelist.net/anime/34964/Killing_Bites",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/90087.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/90087t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/90087l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/90087.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/90087t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/90087l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/gykjd18qxAI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Killing Bites"
+    },
+    {
+      "type": "Japanese",
+      "title": "キリングバイツ"
+    },
+    {
+      "type": "English",
+      "title": "Killing Bites"
+    },
+    {
+      "type": "Spanish",
+      "title": "Bocados Mortales"
+    }
+  ],
   "title": "Killing Bites",
   "title_english": "Killing Bites",
   "title_japanese": "キリングバイツ",
-  "image": "https://cdn.myanimelist.net/images/anime/13/90087l.webp",
-  "score": 6.54,
-  "synopsis": "After unknowingly participating in a kidnapping, college student Yuuya Nomoto finds his friends brutally murdered by Hitomi Uzaki, the high school girl they attempted to abduct. Forced to drive her to an undisclosed location, he finds himself being wagered as the prize for a death match between two Therianthropes, superpowered human-animal hybrids created through advanced gene therapy. As one of these hybrids, Hitomi uses the speed and fearlessness she gained from her ratel genes to viciously dispatch her foe and save Yuuya from certain death.\n\nWaking up hours later hoping the whole event was only a nightmare, Yuuya realizes that he has become embroiled in a secret proxy war between four large Japanese business conglomerates, with the winner taking control of the economy. As her sole albeit unwilling investor, his life is now directly linked to Hitomi's ability to participate in underground bloodsport matches known only as Killing Bites.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/gykjd18qxAI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +111,140 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz3hEsH2oBY6QltCzhLLz6dFufdIi0ewi63JhW1lPrb43aC5LSgjYpYTyzsQjhU7Brnmqxb1jcUtOqKdG81sP1nMBqZBHf-_dQAEZiHRN7qj18jod272K4Nu1vH_Cj3nn4odto1",
       "nome": "Thanks for Everything"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-01-13T00:00:00+00:00",
+    "to": "2018-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 1,
+        "year": 2018
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Jan 13, 2018 to Mar 31, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.54,
+  "scored_by": 86415,
+  "rank": 7130,
+  "popularity": 1333,
+  "members": 204815,
+  "favorites": 486,
+  "synopsis": "After unknowingly participating in a kidnapping, college student Yuuya Nomoto finds his friends brutally murdered by Hitomi Uzaki, the high school girl they attempted to abduct. Forced to drive her to an undisclosed location, he finds himself being wagered as the prize for a death match between two Therianthropes, superpowered human-animal hybrids created through advanced gene therapy. As one of these hybrids, Hitomi uses the speed and fearlessness she gained from her ratel genes to viciously dispatch her foe and save Yuuya from certain death.\n\nWaking up hours later hoping the whole event was only a nightmare, Yuuya realizes that he has become embroiled in a secret proxy war between four large Japanese business conglomerates, with the winner taking control of the economy. As her sole albeit unwilling investor, his life is now directly linked to Hitomi's ability to participate in underground bloodsport matches known only as Killing Bites.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2018,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "02:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 02:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1337,
+      "type": "anime",
+      "name": "Medicos Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+    },
+    {
+      "mal_id": 1358,
+      "type": "anime",
+      "name": "Fields",
+      "url": "https://myanimelist.net/anime/producer/1358/Fields"
+    },
+    {
+      "mal_id": 1787,
+      "type": "anime",
+      "name": "KLab",
+      "url": "https://myanimelist.net/anime/producer/1787/KLab"
+    },
+    {
+      "mal_id": 2223,
+      "type": "anime",
+      "name": "Christmas Holly",
+      "url": "https://myanimelist.net/anime/producer/2223/Christmas_Holly"
+    },
+    {
+      "mal_id": 2225,
+      "type": "anime",
+      "name": "C-one",
+      "url": "https://myanimelist.net/anime/producer/2225/C-one"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/13/90087l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/gykjd18qxAI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34964,
+  "slug": "killing-bites"
 }

@@ -1,17 +1,51 @@
 {
-  "id": 49376,
-  "slug": "mou-ippon",
-  "type": "legendado",
+  "mal_id": 49376,
+  "url": "https://myanimelist.net/anime/49376/Mou_Ippon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1039/131684.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1039/131684t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1039/131684l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1039/131684.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1039/131684t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1039/131684l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/bSWR6mCAgMc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mou Ippon!"
+    },
+    {
+      "type": "Japanese",
+      "title": "もういっぽん！"
+    },
+    {
+      "type": "English",
+      "title": "\"Ippon\" again!"
+    }
+  ],
   "title": "Mou Ippon!",
   "title_english": "\"Ippon\" again!",
   "title_japanese": "もういっぽん！",
-  "image": "https://cdn.myanimelist.net/images/anime/1039/131684l.webp",
-  "score": 7.08,
-  "synopsis": "The happy-go-lucky Michi Sonoda announces to her teammate, Sanae Takigawa, that she will quit judo for good after her final middle school tournament. This leaves Sanae in disbelief; after all, it was Michi's passion toward the sport that reeled Sanae into judo in the first place. Michi claims that a well-spent youth should be associated with things such as getting a boyfriend rather than sweaty tatami mats.\n\nHowever, Michi's plan to end her fledgling judo career with a bang is spoiled after experiencing an embarrassing defeat at the hands of the talented Towa Hiura. Later, her plan is further derailed when she finds out that Towa has enrolled in the same high school as herself and Sanae. With the sudden appearance of her past foe, Michi may soon realize that she still has lingering feelings for the sport of judo.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/bSWR6mCAgMc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +112,126 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/mou-ippon/13/720p.mp4",
       "nome": "Another Ippon!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-09T00:00:00+00:00",
+    "to": "2023-04-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 3,
+        "month": 4,
+        "year": 2023
+      }
+    },
+    "string": "Jan 9, 2023 to Apr 3, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.08,
+  "scored_by": 8812,
+  "rank": 4185,
+  "popularity": 4813,
+  "members": 26339,
+  "favorites": 56,
+  "synopsis": "The happy-go-lucky Michi Sonoda announces to her teammate, Sanae Takigawa, that she will quit judo for good after her final middle school tournament. This leaves Sanae in disbelief; after all, it was Michi's passion toward the sport that reeled Sanae into judo in the first place. Michi claims that a well-spent youth should be associated with things such as getting a boyfriend rather than sweaty tatami mats.\n\nHowever, Michi's plan to end her fledgling judo career with a bang is spoiled after experiencing an embarrassing defeat at the hands of the talented Towa Hiura. Later, her plan is further derailed when she finds out that Towa has enrolled in the same high school as herself and Sanae. With the sudden appearance of her past foe, Michi may soon realize that she still has lingering feelings for the sport of judo.\n\n[Written by MAL Rewrite]",
+  "background": "Mou Ippon! was released on Blu-ray and DVD in four volumes from March 29, 2023, to June 21, 2023.",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    },
+    {
+      "mal_id": 1996,
+      "type": "anime",
+      "name": "MAGNET",
+      "url": "https://myanimelist.net/anime/producer/1996/MAGNET"
+    },
+    {
+      "mal_id": 2684,
+      "type": "anime",
+      "name": "CHOCOLATE",
+      "url": "https://myanimelist.net/anime/producer/2684/CHOCOLATE"
+    },
+    {
+      "mal_id": 2912,
+      "type": "anime",
+      "name": "Three S Studio",
+      "url": "https://myanimelist.net/anime/producer/2912/Three_S_Studio"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1984,
+      "type": "anime",
+      "name": "Bakken Record",
+      "url": "https://myanimelist.net/anime/producer/1984/Bakken_Record"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1039/131684l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/bSWR6mCAgMc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49376,
+  "slug": "mou-ippon"
 }

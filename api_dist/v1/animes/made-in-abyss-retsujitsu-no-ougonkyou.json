@@ -1,21 +1,51 @@
 {
-  "id": 41084,
-  "slug": "made-in-abyss-retsujitsu-no-ougonkyou",
-  "type": "legendado",
+  "mal_id": 41084,
+  "url": "https://myanimelist.net/anime/41084/Made_in_Abyss__Retsujitsu_no_Ougonkyou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1864/122519.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/122519t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/122519l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1864/122519.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1864/122519t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1864/122519l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CWZz5x-XCA8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Made in Abyss: Retsujitsu no Ougonkyou"
+    },
+    {
+      "type": "Japanese",
+      "title": "メイドインアビス 烈日の黄金郷"
+    },
+    {
+      "type": "English",
+      "title": "Made in Abyss: The Golden City of the Scorching Sun"
+    }
+  ],
   "title": "Made in Abyss: Retsujitsu no Ougonkyou",
   "title_english": "Made in Abyss: The Golden City of the Scorching Sun",
   "title_japanese": "メイドインアビス 烈日の黄金郷",
-  "image": "https://cdn.myanimelist.net/images/anime/1864/122519l.webp",
-  "score": 8.6,
-  "synopsis": "After surviving the brutal challenges of Idofront, Riko now possesses a White Whistle, allowing her to descend into the Abyss's sixth layer—The Capital of the Unreturned. Alongside Reg and Nanachi, Riko begins to explore the uncharted domain, where the ruins of the promised Golden City are located.\n\nAs the trio starts to adapt to the harsh environment, they soon encounter dangerous creatures and treacherous landscapes. Their expedition leads them to a village inhabited by strange beings known as \"hollows.\" Despite the creeping sense of unease that welcomes them, the three venture onward to uncover the mysteries of the settlement and long-lost legacies of the forgotten adventurers who once descended into the horrors of the unexplored Abyss.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/CWZz5x-XCA8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Drama",
-    "Fantasy",
-    "Mystery",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -77,5 +107,129 @@
       "url": "https://lightspeedst.net/s4/mp4/made-in-abyss-retsujitsu-no-ougonkyou/fhd/12.mp4",
       "nome": "Gold"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-07-06T00:00:00+00:00",
+    "to": "2022-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2022
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2022
+      }
+    },
+    "string": "Jul 6, 2022 to Sep 28, 2022"
+  },
+  "duration": "25 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.6,
+  "scored_by": 251601,
+  "rank": 107,
+  "popularity": 473,
+  "members": 524500,
+  "favorites": 6822,
+  "synopsis": "After surviving the brutal challenges of Idofront, Riko now possesses a White Whistle, allowing her to descend into the Abyss's sixth layer—The Capital of the Unreturned. Alongside Reg and Nanachi, Riko begins to explore the uncharted domain, where the ruins of the promised Golden City are located.\n\nAs the trio starts to adapt to the harsh environment, they soon encounter dangerous creatures and treacherous landscapes. Their expedition leads them to a village inhabited by strange beings known as \"hollows.\" Despite the creeping sense of unease that welcomes them, the three venture onward to uncover the mysteries of the settlement and long-lost legacies of the forgotten adventurers who once descended into the horrors of the unexplored Abyss.\n\n[Written by MAL Rewrite]",
+  "background": "Made in Abyss: Retsujitsu no Ougonkyou was released on Blu-ray and DVD in Japan from October 26, 2022 to December 23, 2022.",
+  "season": "summer",
+  "year": 2022,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 332,
+      "type": "anime",
+      "name": "Takeshobo",
+      "url": "https://myanimelist.net/anime/producer/332/Takeshobo"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1587,
+      "type": "anime",
+      "name": "Cygames",
+      "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2095,
+      "type": "anime",
+      "name": "Global Solutions",
+      "url": "https://myanimelist.net/anime/producer/2095/Global_Solutions"
+    },
+    {
+      "mal_id": 2106,
+      "type": "anime",
+      "name": "Sony Music Solutions",
+      "url": "https://myanimelist.net/anime/producer/2106/Sony_Music_Solutions"
+    },
+    {
+      "mal_id": 2369,
+      "type": "anime",
+      "name": "IRMA LA DOUCE",
+      "url": "https://myanimelist.net/anime/producer/2369/IRMA_LA_DOUCE"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 290,
+      "type": "anime",
+      "name": "Kinema Citrus",
+      "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1864/122519l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/CWZz5x-XCA8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41084,
+  "slug": "made-in-abyss-retsujitsu-no-ougonkyou"
 }

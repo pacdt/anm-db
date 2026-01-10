@@ -1,20 +1,62 @@
 {
-  "id": 3654,
-  "slug": "macademi-wasshoi",
-  "type": "legendado",
+  "mal_id": 3654,
+  "url": "https://myanimelist.net/anime/3654/Macademi_Wasshoi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74031.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74031t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74031l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74031.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74031t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74031l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/X4KYeEMogXQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Macademi Wasshoi!"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Magician's Academy"
+    },
+    {
+      "type": "Synonym",
+      "title": "MA Project"
+    },
+    {
+      "type": "Japanese",
+      "title": "まかでみWAっしょい！"
+    },
+    {
+      "type": "English",
+      "title": "Magician's Academy"
+    }
+  ],
   "title": "Macademi Wasshoi!",
   "title_english": "Magician's Academy",
   "title_japanese": "まかでみWAっしょい！",
-  "image": "https://cdn.myanimelist.net/images/anime/10/74031l.webp",
-  "score": 6.89,
-  "synopsis": "Magician's Academy revolves around Takuto Hasegawa, who attends a magic academy that is not marked on any map. During a summoning spell exam, he accidentally creates a girl named Tanarotte, who happens to hold enough magical power to destroy his country, but fortunately Tanarotte professes undying loyalty (and love) to her \"creator.\" \n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/X4KYeEMogXQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "The Magician's Academy",
+    "MA Project"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +118,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy_KORwQUMxn6Ab_JacbzSNh9t-TVGgYvGoA4o_t4z-76NNtHAAVRIoQPULym4XpurwYiXy7CZ3mR4jm1sA8_snN7vg1Jm49UOJSf97gzkxrQ-pT40x1C_saFiNq1E-1VpOAbY3",
       "nome": "It's somehow a rampage on the holy night"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-06T00:00:00+00:00",
+    "to": "2008-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2008
+      }
+    },
+    "string": "Oct 6, 2008 to Dec 22, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.89,
+  "scored_by": 19422,
+  "rank": 5095,
+  "popularity": 3696,
+  "members": 45644,
+  "favorites": 111,
+  "synopsis": "Magician's Academy revolves around Takuto Hasegawa, who attends a magic academy that is not marked on any map. During a summoning spell exam, he accidentally creates a girl named Tanarotte, who happens to hold enough magical power to destroy his country, but fortunately Tanarotte professes undying loyalty (and love) to her \"creator.\" \n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/74031l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/X4KYeEMogXQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 3654,
+  "slug": "macademi-wasshoi"
 }

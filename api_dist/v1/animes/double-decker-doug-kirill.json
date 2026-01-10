@@ -1,20 +1,51 @@
 {
-  "id": 37496,
-  "slug": "double-decker-doug-kirill",
-  "type": "legendado",
+  "mal_id": 37496,
+  "url": "https://myanimelist.net/anime/37496/Double_Decker_Doug___Kirill",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1299/95783.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/95783t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/95783l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1299/95783.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/95783t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/95783l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zj8CeFZJJc0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Double Decker! Doug & Kirill"
+    },
+    {
+      "type": "Japanese",
+      "title": "DOUBLE DECKER! ダグ＆キリル"
+    },
+    {
+      "type": "English",
+      "title": "Double Decker! Doug & Kirill"
+    }
+  ],
   "title": "Double Decker! Doug & Kirill",
   "title_english": "Double Decker! Doug & Kirill",
   "title_japanese": "DOUBLE DECKER! ダグ＆キリル",
-  "image": "https://cdn.myanimelist.net/images/anime/1299/95783l.webp",
-  "score": 6.8,
-  "synopsis": "The once peaceful city-state of Lisvalletta has found itself beset by a dangerous new drug called Anthem. The side effects of the drug allow the user to enter a state of Overdrive, wherein they mutate into superpowered beasts with inhuman abilities. With the police powerless to stop this new threat, the responsibility falls upon the Special Crime Investigation Unit SEVEN-O. To offset the dangers of this work, the investigators work under the patented \"Double Decker\" system, which requires them to team up in \"buddy cop\" pairs.\n\nAs a child, average police officer Kirill Vrubel fantasized about being a hero who would save his school from a random terrorist attack. His chance to be a hero arrives when his landlady blackmails him into searching for her lost cat. Upon arriving and falling asleep in an abandoned warehouse, Kirill finds himself in the middle of a hostage situation involving an Anthem user. By teaming up with SEVEN-O detective Douglas \"Doug\" Bilingam, Kirill earns his spot as the newest member of SEVEN-O. Now, with the help of this secret organization, he may finally achieve his dream of becoming a hero.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/zj8CeFZJJc0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Mystery",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -81,5 +112,92 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwqL-o0Rxdw79c3YWuOMrXm5LLg05gRp789oIYJHZnbAOflXgby-Clz2gQugWXeXrZ1-w3EVT0qsMGY0agIN-WSU4DAHKHT_MsVhp4Pusw8RpARfsIFvfpET_d0iWKWO7Ojt7rT",
       "nome": "And Then There Were None"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-09-30T00:00:00+00:00",
+    "to": "2018-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 30,
+        "month": 9,
+        "year": 2018
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Sep 30, 2018 to Dec 23, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.8,
+  "scored_by": 13588,
+  "rank": 5557,
+  "popularity": 4044,
+  "members": 38571,
+  "favorites": 95,
+  "synopsis": "The once peaceful city-state of Lisvalletta has found itself beset by a dangerous new drug called Anthem. The side effects of the drug allow the user to enter a state of Overdrive, wherein they mutate into superpowered beasts with inhuman abilities. With the police powerless to stop this new threat, the responsibility falls upon the Special Crime Investigation Unit SEVEN-O. To offset the dangers of this work, the investigators work under the patented \"Double Decker\" system, which requires them to team up in \"buddy cop\" pairs.\n\nAs a child, average police officer Kirill Vrubel fantasized about being a hero who would save his school from a random terrorist attack. His chance to be a hero arrives when his landlady blackmails him into searching for her lost cat. Upon arriving and falling asleep in an abandoned warehouse, Kirill finds himself in the middle of a hostage situation involving an Anthem user. By teaming up with SEVEN-O detective Douglas \"Doug\" Bilingam, Kirill earns his spot as the newest member of SEVEN-O. Now, with the help of this secret organization, he may finally achieve his dream of becoming a hero.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1299/95783l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/zj8CeFZJJc0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37496,
+  "slug": "double-decker-doug-kirill"
 }

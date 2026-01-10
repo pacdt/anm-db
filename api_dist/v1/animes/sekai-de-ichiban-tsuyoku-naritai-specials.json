@@ -1,23 +1,147 @@
 {
-  "id": 21009,
-  "slug": "sekai-de-ichiban-tsuyoku-naritai-specials",
-  "type": "legendado",
+  "mal_id": 21009,
+  "url": "https://myanimelist.net/anime/21009/Sekai_de_Ichiban_Tsuyoku_Naritai_Specials",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/55775.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/55775t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/55775l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/55775.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/55775t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/55775l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sekai de Ichiban Tsuyoku Naritai! Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "SekaTsuyo Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "世界でいちばん強くなりたい!"
+    },
+    {
+      "type": "English",
+      "title": "Wanna Be the Strongest in the World Specials"
+    }
+  ],
   "title": "Sekai de Ichiban Tsuyoku Naritai! Specials",
   "title_english": "Wanna Be the Strongest in the World Specials",
   "title_japanese": "世界でいちばん強くなりたい!",
-  "image": "https://cdn.myanimelist.net/images/anime/7/55775l.webp",
-  "score": 5.68,
-  "synopsis": "Short specials included on the BD/DVD volumes of \"Sekai de Ichiban Tsuyoku Naritai!\"",
-  "trailer_url": null,
-  "genres": [
-    "Sports",
-    "Ecchi"
+  "title_synonyms": [
+    "SekaTsuyo Specials"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/sekai-de-ichiban-tsuyoku-naritai-specials/sd/1.mp4",
       "nome": "Shocking Mud Wrestling!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-12-12T00:00:00+00:00",
+    "to": "2014-05-12T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 12,
+        "year": 2013
+      },
+      "to": {
+        "day": 12,
+        "month": 5,
+        "year": 2014
+      }
+    },
+    "string": "Dec 12, 2013 to May 12, 2014"
+  },
+  "duration": "4 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.68,
+  "scored_by": 3541,
+  "rank": 12023,
+  "popularity": 7291,
+  "members": 9417,
+  "favorites": 6,
+  "synopsis": "Short specials included on the BD/DVD volumes of \"Sekai de Ichiban Tsuyoku Naritai!\"",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 925,
+      "type": "anime",
+      "name": "Earth Star Entertainment",
+      "url": "https://myanimelist.net/anime/producer/925/Earth_Star_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Arms",
+      "url": "https://myanimelist.net/anime/producer/38/Arms"
+    }
+  ],
+  "genres": [
+    "Sports",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/55775l.webp",
+  "trailer_url": null,
+  "id": 21009,
+  "slug": "sekai-de-ichiban-tsuyoku-naritai-specials"
 }

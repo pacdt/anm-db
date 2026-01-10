@@ -1,18 +1,53 @@
 {
-  "id": 2727,
-  "slug": "sweet-valerian",
-  "type": "legendado",
+  "mal_id": 2727,
+  "url": "https://myanimelist.net/anime/2727/Sweet_Valerian",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/3676.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/3676t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/3676l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/3676.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/3676t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/3676l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sweet Valerian"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sweet Valerians"
+    },
+    {
+      "type": "Japanese",
+      "title": "スウィート・ヴァレリアン"
+    }
+  ],
   "title": "Sweet Valerian",
   "title_english": "Sweet Valerian",
   "title_japanese": "スウィート・ヴァレリアン",
-  "image": "https://cdn.myanimelist.net/images/anime/11/3676l.webp",
-  "score": 5.85,
-  "synopsis": "The Stress Team floats over the city, locating stressed out people and transforming them into monsters. To combat this, three girls reluctantly transform into the Sweet Valerians, bunny defenders of justice.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy"
+  "title_synonyms": [
+    "Sweet Valerians"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -86,5 +121,70 @@
       "numero": 18,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwJkZEQcS1a2diqtEi3RrhEEYd-zP9JuKiGI79l391nhfnsYBG0YWPdXknMqkmDNxhRDhef4_WGOAHC3XY_1-3P-ypjnKPgNjlP4zYiUDdfPCGf2bn0WVbQ8oclBSowk1vsau4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-08-01T00:00:00+00:00",
+    "to": "2004-12-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 8,
+        "year": 2004
+      },
+      "to": {
+        "day": 19,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Aug 1, 2004 to Dec 19, 2004"
+  },
+  "duration": "3 min per ep",
+  "rating": "G - All Ages",
+  "score": 5.85,
+  "scored_by": 1270,
+  "rank": 11218,
+  "popularity": 9741,
+  "members": 4454,
+  "favorites": 9,
+  "synopsis": "The Stress Team floats over the city, locating stressed out people and transforming them into monsters. To combat this, three girls reluctantly transform into the Sweet Valerians, bunny defenders of justice.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2004,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "07:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 07:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/3676l.webp",
+  "trailer_url": null,
+  "id": 2727,
+  "slug": "sweet-valerian"
 }

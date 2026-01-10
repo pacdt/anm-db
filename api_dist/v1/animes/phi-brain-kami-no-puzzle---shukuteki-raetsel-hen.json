@@ -1,19 +1,84 @@
 {
-  "id": 15651,
-  "slug": "phi-brain-kami-no-puzzle---shukuteki-raetsel-hen",
-  "type": "legendado",
+  "mal_id": 15651,
+  "url": "https://myanimelist.net/anime/15651/Phi_Brain__Kami_no_Puzzle_-_Shukuteki_Rätsel-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/54099.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/54099t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/54099l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/54099.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/54099t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/54099l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Phi Brain: Kami no Puzzle Dai 3"
+    },
+    {
+      "type": "Synonym",
+      "title": "Phi Brain: Kami no Puzzle Third Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Phi Brain: Kami no Puzzle 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Phi Brain: Puzzle of God - Nemesis! Raetsel-hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "ファイ・ブレイン 〜神のパズル 宿敵！レイツェル編"
+    },
+    {
+      "type": "English",
+      "title": "Phi Brain: Puzzle of God 3"
+    },
+    {
+      "type": "German",
+      "title": "Phi Brain Puzzel Of God Staffel 3"
+    },
+    {
+      "type": "Spanish",
+      "title": "Phi Brain Puzzel Of God Temporada 3"
+    },
+    {
+      "type": "French",
+      "title": "Phi Brain Puzzel Of God Saison 3"
+    }
+  ],
   "title": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen",
   "title_english": "Phi Brain: Puzzle of God 3",
   "title_japanese": "ファイ・ブレイン 〜神のパズル 宿敵！レイツェル編",
-  "image": "https://cdn.myanimelist.net/images/anime/12/54099l.webp",
-  "score": 7.23,
-  "synopsis": "\"Are puzzles really necessary in this world?\"\n\nIn order to restore Jin's memory, Kaito and his friends go on a puzzle-viewing journey to England. As they're walking through the underground maze beneath the church, where young Kaito and Rook first met Jin, a mysterious girl appears in front of them.\n\nJin calls the girl by the name \"Raetsel\". It seems they know each other. However, she suddenly disappears and takes Jin with her. What's more, the traps in the underground maze are activated and start coming after Kaito and his friends.\n\n(Source: www9.nhk.or.jp)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Mystery",
-    "Suspense"
+  "title_synonyms": [
+    "Phi Brain: Kami no Puzzle Dai 3",
+    "Phi Brain: Kami no Puzzle Third Season",
+    "Phi Brain: Kami no Puzzle 3rd Season",
+    "Phi Brain: Puzzle of God - Nemesis! Raetsel-hen"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -140,5 +205,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxDLjo5CthpjMDU4RViYkHivI9sQX5JPyOkboMPCYMSWVY6eaKc-4poEG0NUN9DJzwnaoldY-mpiN7qFzM_NKoqqsk4z6w_zLPBhtIOZ7O_HWBLyC5cGyGQxZiod6Gt0yer7BI",
       "nome": "It's Insanely Fun to Be Alive"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-10-06T00:00:00+00:00",
+    "to": "2014-03-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2013
+      },
+      "to": {
+        "day": 23,
+        "month": 3,
+        "year": 2014
+      }
+    },
+    "string": "Oct 6, 2013 to Mar 23, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.23,
+  "scored_by": 14067,
+  "rank": 3364,
+  "popularity": 4080,
+  "members": 37866,
+  "favorites": 41,
+  "synopsis": "\"Are puzzles really necessary in this world?\"\n\nIn order to restore Jin's memory, Kaito and his friends go on a puzzle-viewing journey to England. As they're walking through the underground maze beneath the church, where young Kaito and Rook first met Jin, a mysterious girl appears in front of them.\n\nJin calls the girl by the name \"Raetsel\". It seems they know each other. However, she suddenly disappears and takes Jin with her. What's more, the traps in the underground maze are activated and start coming after Kaito and his friends.\n\n(Source: www9.nhk.or.jp)",
+  "background": "",
+  "season": "fall",
+  "year": 2013,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 59,
+      "type": "anime",
+      "name": "High Stakes Game",
+      "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/54099l.webp",
+  "trailer_url": null,
+  "id": 15651,
+  "slug": "phi-brain-kami-no-puzzle---shukuteki-raetsel-hen"
 }

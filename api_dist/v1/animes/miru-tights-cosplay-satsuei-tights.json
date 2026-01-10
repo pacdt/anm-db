@@ -1,21 +1,125 @@
 {
-  "id": 40176,
-  "slug": "miru-tights-cosplay-satsuei-tights",
-  "type": "legendado",
+  "mal_id": 40176,
+  "url": "https://myanimelist.net/anime/40176/Miru_Tights__Cosplay_Satsuei_Tights",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1003/102303.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1003/102303t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1003/102303l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1003/102303.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1003/102303t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1003/102303l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Miru Tights: Cosplay Satsuei Tights"
+    },
+    {
+      "type": "Synonym",
+      "title": "Miru Tights Special"
+    },
+    {
+      "type": "Japanese",
+      "title": "みるタイツ コスプレ撮影 タイツ"
+    },
+    {
+      "type": "English",
+      "title": "Miru Tights: Cosplay Photoshoot Tights"
+    }
+  ],
   "title": "Miru Tights: Cosplay Satsuei Tights",
   "title_english": "Miru Tights: Cosplay Photoshoot Tights",
   "title_japanese": "みるタイツ コスプレ撮影 タイツ",
-  "image": "https://cdn.myanimelist.net/images/anime/1003/102303l.webp",
-  "score": 6.4,
-  "synopsis": "In the lead-up to a photoshoot in which Yua Nakabeni and Ren Aikawa have been invited to model for an illustrator, the two girls are feeling anxious. To help them out, their friend and fellow classmate Homi Moegi decides to run a practice shoot in hopes of easing their nerves.\n\nYua and Ren repeatedly tense up during shots on their own, so Homi asks them to pair up for some couple shots, hoping that they will relax in each other's company. What begins as a series of cute poses soon turns into an alluring collage of legs encased in black stockings layered over one another.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Ecchi"
+  "title_synonyms": [
+    "Miru Tights Special"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzRKeiG4jBjrwcdztk1NTnLMIZ3S6sT_GdC5jFRuJU15aXuJBcoWIBLXdroAO3wFIt3jYCR7jizZRn3tsyC4sqGvj5IEIA632Tti1GTC931svsThFv6_MWmMvUjIWlm_b8WTVs"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-08-23T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 8,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 23, 2019"
+  },
+  "duration": "4 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.4,
+  "scored_by": 15606,
+  "rank": 8017,
+  "popularity": 4494,
+  "members": 30753,
+  "favorites": 39,
+  "synopsis": "In the lead-up to a photoshoot in which Yua Nakabeni and Ren Aikawa have been invited to model for an illustrator, the two girls are feeling anxious. To help them out, their friend and fellow classmate Homi Moegi decides to run a practice shoot in hopes of easing their nerves.\n\nYua and Ren repeatedly tense up during shots on their own, so Homi asks them to pair up for some couple shots, hoping that they will relax in each other's company. What begins as a series of cute poses soon turns into an alluring collage of legs encased in black stockings layered over one another.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1687,
+      "type": "anime",
+      "name": "Yokohama Animation Lab",
+      "url": "https://myanimelist.net/anime/producer/1687/Yokohama_Animation_Lab"
+    }
+  ],
+  "genres": [
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1003/102303l.webp",
+  "trailer_url": null,
+  "id": 40176,
+  "slug": "miru-tights-cosplay-satsuei-tights"
 }

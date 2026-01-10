@@ -1,20 +1,76 @@
 {
-  "id": 5114,
-  "slug": "fullmetal-alchemist-brotherhood-dublado",
-  "type": "dublado",
+  "mal_id": 5114,
+  "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1ac3_YdSSy0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fullmetal Alchemist: Brotherhood"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hagane no Renkinjutsushi: Fullmetal Alchemist"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fullmetal Alchemist (2009)"
+    },
+    {
+      "type": "Synonym",
+      "title": "FMA"
+    },
+    {
+      "type": "Synonym",
+      "title": "FMAB"
+    },
+    {
+      "type": "Japanese",
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+    },
+    {
+      "type": "English",
+      "title": "Fullmetal Alchemist: Brotherhood"
+    },
+    {
+      "type": "French",
+      "title": "Fullmetal Alchemist Brotherhood"
+    }
+  ],
   "title": "Fullmetal Alchemist: Brotherhood",
   "title_english": "Fullmetal Alchemist: Brotherhood",
   "title_japanese": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-  "image": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp",
-  "score": 9.1,
-  "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.\n\nThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing \"automail,\" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.\n\nAs Edward becomes an infamous alchemist and gains the nickname \"Fullmetal,\" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1ac3_YdSSy0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "Fantasy"
+  "title_synonyms": [
+    "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+    "Fullmetal Alchemist (2009)",
+    "FMA",
+    "FMAB"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -336,5 +392,117 @@
       "url": "https://lightspeedst.net/s2/mp4/fullmetal-alchemist-brotherhood-dublado/sd/64.mp4",
       "nome": "Journey's End"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-04-05T00:00:00+00:00",
+    "to": "2010-07-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2009
+      },
+      "to": {
+        "day": 4,
+        "month": 7,
+        "year": 2010
+      }
+    },
+    "string": "Apr 5, 2009 to Jul 4, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 9.1,
+  "scored_by": 2271287,
+  "rank": 3,
+  "popularity": 3,
+  "members": 3613871,
+  "favorites": 238952,
+  "synopsis": "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.\n\nThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing \"automail,\" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.\n\nAs Edward becomes an infamous alchemist and gains the nickname \"Fullmetal,\" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 17:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 1499,
+      "type": "anime",
+      "name": "Techno Sound",
+      "url": "https://myanimelist.net/anime/producer/1499/Techno_Sound"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1ac3_YdSSy0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 5114,
+  "slug": "fullmetal-alchemist-brotherhood-dublado"
 }

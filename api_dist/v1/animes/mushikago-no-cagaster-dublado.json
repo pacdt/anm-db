@@ -1,19 +1,63 @@
 {
-  "id": 38663,
-  "slug": "mushikago-no-cagaster-dublado",
-  "type": "dublado",
+  "mal_id": 38663,
+  "url": "https://myanimelist.net/anime/38663/Mushikago_no_Cagaster",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1842/105458.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1842/105458t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1842/105458l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1842/105458.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1842/105458t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1842/105458l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/aUAJsXRSqyE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mushikago no Cagaster"
+    },
+    {
+      "type": "Japanese",
+      "title": "虫籠のカガステル"
+    },
+    {
+      "type": "English",
+      "title": "Cagaster of an Insect Cage"
+    },
+    {
+      "type": "German",
+      "title": "Cagaster of an Insect Cage"
+    },
+    {
+      "type": "Spanish",
+      "title": "Insect Cage"
+    },
+    {
+      "type": "French",
+      "title": "Cagaster of an Insect Cage"
+    }
+  ],
   "title": "Mushikago no Cagaster",
   "title_english": "Cagaster of an Insect Cage",
   "title_japanese": "虫籠のカガステル",
-  "image": "https://cdn.myanimelist.net/images/anime/1842/105458l.webp",
-  "score": 6.44,
-  "synopsis": "In a near future, an illness called \"Cagaster\" made ​​its appearance. It turns humans into insects. The story begins 30 years after the onset of the illness, in 2125. It follows the adventures of Kidou, a boy who fights insects.\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/aUAJsXRSqyE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,78 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwnz0vdH3TarL2c-JKg-Mx1kVm0Fqjddk-WPL87Wh_iSh-Judnoxi15IGTr5u32soNfiIUK545nVKprP3947kjZmzmejRv1TWKhz5Un7lNAnagJwCNRc_ZFOTrQqWcG2UKYVs26",
       "nome": "Finally, For You"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-02-06T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 2,
+        "year": 2020
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 6, 2020"
+  },
+  "duration": "28 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.44,
+  "scored_by": 18383,
+  "rank": 7798,
+  "popularity": 3837,
+  "members": 42883,
+  "favorites": 83,
+  "synopsis": "In a near future, an illness called \"Cagaster\" made ​​its appearance. It turns humans into insects. The story begins 30 years after the onset of the illness, in 2125. It follows the adventures of Kidou, a boy who fights insects.\n\n(Source: MAL News)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1997,
+      "type": "anime",
+      "name": "Studio KAI",
+      "url": "https://myanimelist.net/anime/producer/1997/Studio_KAI"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1842/105458l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/aUAJsXRSqyE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38663,
+  "slug": "mushikago-no-cagaster-dublado"
 }

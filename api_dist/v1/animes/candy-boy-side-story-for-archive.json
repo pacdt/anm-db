@@ -1,21 +1,128 @@
 {
-  "id": 3456,
-  "slug": "candy-boy-side-story-for-archive",
-  "type": "legendado",
+  "mal_id": 3456,
+  "url": "https://myanimelist.net/anime/3456/Candy☆Boy__Side_Story_For_Archive",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/35473.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/35473t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/35473l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/35473.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/35473t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/35473l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Candy☆Boy: Side Story For Archive"
+    },
+    {
+      "type": "Synonym",
+      "title": "Candy Boy Episode 0"
+    },
+    {
+      "type": "Japanese",
+      "title": "Candy☆Boy: Side Story For Archive"
+    }
+  ],
   "title": "Candy☆Boy: Side Story For Archive",
   "title_english": "Candy☆Boy: Side Story For Archive",
   "title_japanese": "Candy☆Boy: Side Story For Archive",
-  "image": "https://cdn.myanimelist.net/images/anime/3/35473l.webp",
-  "score": 6.75,
-  "synopsis": "The very first Candy☆Boy episode.\n\nTwin sisters, Yukino and Kanade Sakurai, room together in the dorms at their high school, enjoying school life with their friends and one another. One day, Sakuya Kamiyama, an underclassman, seeks out Yukino, while Kanade learns from a friend that Sakuya has admired Yukino for a very long time.  This innocent revelation sets into motion a chain of events that eventually lead to Yukino expressing her feelings for her sister.",
-  "trailer_url": null,
-  "genres": [
-    "Girls Love"
+  "title_synonyms": [
+    "Candy Boy Episode 0"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s3/mp4/candy-boy-side-story-for-archive/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-11-22T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 22,
+        "month": 11,
+        "year": 2007
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 22, 2007"
+  },
+  "duration": "10 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.75,
+  "scored_by": 18346,
+  "rank": 5828,
+  "popularity": 4324,
+  "members": 33692,
+  "favorites": 26,
+  "synopsis": "The very first Candy☆Boy episode.\n\nTwin sisters, Yukino and Kanade Sakurai, room together in the dorms at their high school, enjoying school life with their friends and one another. One day, Sakuya Kamiyama, an underclassman, seeks out Yukino, while Kanade learns from a friend that Sakuya has admired Yukino for a very long time.  This innocent revelation sets into motion a chain of events that eventually lead to Yukino expressing her feelings for her sister.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 2975,
+      "type": "anime",
+      "name": "Dreamusic",
+      "url": "https://myanimelist.net/anime/producer/2975/Dreamusic"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Girls Love"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/35473l.webp",
+  "trailer_url": null,
+  "id": 3456,
+  "slug": "candy-boy-side-story-for-archive"
 }

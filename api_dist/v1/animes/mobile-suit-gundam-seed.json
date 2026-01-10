@@ -1,20 +1,69 @@
 {
-  "id": 93,
-  "slug": "mobile-suit-gundam-seed",
-  "type": "legendado",
+  "mal_id": 93,
+  "url": "https://myanimelist.net/anime/93/Kidou_Senshi_Gundam_SEED",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/91081t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/91081l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/91081t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/91081l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xuveD0juESE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kidou Senshi Gundam SEED"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kidou Senshi Gundam SEED"
+    },
+    {
+      "type": "Japanese",
+      "title": "機動戦士ガンダムSEED"
+    },
+    {
+      "type": "English",
+      "title": "Mobile Suit Gundam SEED"
+    },
+    {
+      "type": "German",
+      "title": "Mobile Suit Gundam Seed"
+    },
+    {
+      "type": "Spanish",
+      "title": "Mobile Suit Gundam Seed"
+    },
+    {
+      "type": "French",
+      "title": "Mobile Suit Gundam Seed"
+    }
+  ],
   "title": "Kidou Senshi Gundam SEED",
   "title_english": "Mobile Suit Gundam SEED",
   "title_japanese": "機動戦士ガンダムSEED",
-  "image": "https://cdn.myanimelist.net/images/anime/1792/91081l.webp",
-  "score": 7.73,
-  "synopsis": "In the year Cosmic Era 0071, the space colony Heliopolis remains neutral in the great war raging across the galaxy between Coordinators, human beings whose biological traits have been altered before birth, and Naturals, unaltered people who remain on the planet Earth. The Naturals' deep hatred of the Coordinators drove the advanced beings into space, seeking shelter in man-made colonies.\n\nKira Yamato is a Coordinator and university student on Heliopolis, when his life is thrown into disarray as ZAFT, the military organization composed of rebellious Coordinators, attacks the colony in an effort to steal a set of five state-of-the-art military mobile suits known as Gundams.\n\nWhile ZAFT manages to make off with four of the mobile suits, Kira take control of the final Gundam, the Strike. Surviving the battle, Kira and his college friends join the crew of the Archangel, a ship run by the Earth Alliance, and the young soldiers experience the horrors of war and the loss that comes with it.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xuveD0juESE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Award Winning",
-    "Drama",
-    "Romance",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Kidou Senshi Gundam SEED"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -266,5 +315,134 @@
       "url": "https://lightspeedst.net/s3/mp4/mobile-suit-gundam-seed/sd/50.mp4",
       "nome": "To a Future that Never Ends"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-10-05T00:00:00+00:00",
+    "to": "2003-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2002
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2003
+      }
+    },
+    "string": "Oct 5, 2002 to Sep 27, 2003"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.73,
+  "scored_by": 101224,
+  "rank": 1279,
+  "popularity": 1471,
+  "members": 183093,
+  "favorites": 3710,
+  "synopsis": "In the year Cosmic Era 0071, the space colony Heliopolis remains neutral in the great war raging across the galaxy between Coordinators, human beings whose biological traits have been altered before birth, and Naturals, unaltered people who remain on the planet Earth. The Naturals' deep hatred of the Coordinators drove the advanced beings into space, seeking shelter in man-made colonies.\n\nKira Yamato is a Coordinator and university student on Heliopolis, when his life is thrown into disarray as ZAFT, the military organization composed of rebellious Coordinators, attacks the colony in an effort to steal a set of five state-of-the-art military mobile suits known as Gundams.\n\nWhile ZAFT manages to make off with four of the mobile suits, Kira take control of the final Gundam, the Strike. Surviving the battle, Kira and his college friends join the crew of the Archangel, a ship run by the Earth Alliance, and the young soldiers experience the horrors of war and the loss that comes with it.\n\n[Written by MAL Rewrite]",
+  "background": "The HD Remaster of Gundam SEED omits episodes 14 and 26 of the original, therefore having a total of 48 episodes. Mobile Suit Gundam SEED won the Animation of the Year in the 3rd Tokyo International Anime Fair. It was the eighth TV Feature Award winner at the Animation Kobe Awards in 2003. It was the third winner at the Japanese Otaku Awards in 2003.",
+  "season": "fall",
+  "year": 2002,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 142,
+      "type": "anime",
+      "name": "Asatsu DK",
+      "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 1175,
+      "type": "anime",
+      "name": "Atelier Musa",
+      "url": "https://myanimelist.net/anime/producer/1175/Atelier_Musa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    },
+    {
+      "mal_id": 595,
+      "type": "anime",
+      "name": "NYAV Post",
+      "url": "https://myanimelist.net/anime/producer/595/NYAV_Post"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Award Winning",
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1792/91081l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xuveD0juESE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 93,
+  "slug": "mobile-suit-gundam-seed"
 }

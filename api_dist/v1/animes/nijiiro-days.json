@@ -1,18 +1,61 @@
 {
-  "id": 31414,
-  "slug": "nijiiro-days",
-  "type": "legendado",
+  "mal_id": 31414,
+  "url": "https://myanimelist.net/anime/31414/Nijiiro_Days",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/76691.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/76691t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76691l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/76691.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/76691t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76691l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/nWkFNSt9ZyY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nijiiro Days"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nijiiro Days"
+    },
+    {
+      "type": "Japanese",
+      "title": "虹色デイズ"
+    },
+    {
+      "type": "English",
+      "title": "Rainbow Days"
+    },
+    {
+      "type": "French",
+      "title": "Rainbow Days"
+    }
+  ],
   "title": "Nijiiro Days",
   "title_english": "Rainbow Days",
   "title_japanese": "虹色デイズ",
-  "image": "https://cdn.myanimelist.net/images/anime/8/76691l.webp",
-  "score": 7.26,
-  "synopsis": "Nijiiro Days follows the colorful lives and romantic relationships of four high school boys—Natsuki Hashiba, a dreamer with delusions of love; Tomoya Matsunaga, a narcissistic playboy who has multiple girlfriends; Keiichi Katakura, a kinky sadist who always carries a whip; and Tsuyoshi Naoe, an otaku who has a cosplaying girlfriend.\n\nWhen his girlfriend unceremoniously dumps him on Christmas Eve, Natsuki breaks down in tears in the middle of the street and is offered tissues by a girl in a Santa Claus suit. He instantly falls in love with this girl, Anna Kobayakawa, who fortunately attends the same school as him. Natsuki's pursuit of Anna should have been simple and uneventful; however, much to his dismay, his nosy friends constantly meddle in his relationship, as they strive to succeed in their own endeavors of love.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/nWkFNSt9ZyY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Nijiiro Days"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -134,5 +177,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxZf5bepgzY-WV-6KlYetDgaPE4aEX2H_vOvm9jUhL_PwkLCbgSzRtDwCWxVISY5-Qt6EqSx4Xlqy2lFaPMczBjRuaQ7a-3FoOqOMMyNuJnTc3n6lMfcm6ftpMLjO6_Oa1rHcg",
       "nome": "Episode 24"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-01-10T00:00:00+00:00",
+    "to": "2016-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2016
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Jan 10, 2016 to Jun 26, 2016"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.26,
+  "scored_by": 102905,
+  "rank": 3178,
+  "popularity": 1128,
+  "members": 244503,
+  "favorites": 736,
+  "synopsis": "Nijiiro Days follows the colorful lives and romantic relationships of four high school boys—Natsuki Hashiba, a dreamer with delusions of love; Tomoya Matsunaga, a narcissistic playboy who has multiple girlfriends; Keiichi Katakura, a kinky sadist who always carries a whip; and Tsuyoshi Naoe, an otaku who has a cosplaying girlfriend.\n\nWhen his girlfriend unceremoniously dumps him on Christmas Eve, Natsuki breaks down in tears in the middle of the street and is offered tissues by a girl in a Santa Claus suit. He instantly falls in love with this girl, Anna Kobayakawa, who fortunately attends the same school as him. Natsuki's pursuit of Anna should have been simple and uneventful; however, much to his dismay, his nosy friends constantly meddle in his relationship, as they strive to succeed in their own endeavors of love.\n\n[Written by MAL Rewrite]",
+  "background": "The voice cast for the drama CD, that was released in 2014 alongside the seventh volume of the manga, have also taken on the roles of the main characters in the anime adaptation.",
+  "season": "winter",
+  "year": 2016,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 905,
+      "type": "anime",
+      "name": "Tokuma Japan",
+      "url": "https://myanimelist.net/anime/producer/905/Tokuma_Japan"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1411,
+      "type": "anime",
+      "name": "Kyoraku Industrial Holdings",
+      "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 196,
+      "type": "anime",
+      "name": "Production Reed",
+      "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/76691l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/nWkFNSt9ZyY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31414,
+  "slug": "nijiiro-days"
 }

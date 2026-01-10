@@ -1,17 +1,62 @@
 {
-  "id": 59561,
-  "slug": "around-40-otoko-no-isekai-tsuuhan",
-  "type": "legendado",
+  "mal_id": 59561,
+  "url": "https://myanimelist.net/anime/59561/Around_40_Otoko_no_Isekai_Tsuuhan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1887/146512.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/146512t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/146512l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1887/146512.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/146512t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/146512l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/T0MqIIIC5yQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Around 40 Otoko no Isekai Tsuuhan"
+    },
+    {
+      "type": "Synonym",
+      "title": "Arafoo Otoko no Isekai Tsuuhan Seikatsu"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Mail Order Life of a Man Around 40 in Another World"
+    },
+    {
+      "type": "Japanese",
+      "title": "アラフォー男の異世界通販"
+    },
+    {
+      "type": "English",
+      "title": "The Daily Life of a Middle-Aged Online Shopper in Another World"
+    }
+  ],
   "title": "Around 40 Otoko no Isekai Tsuuhan",
   "title_english": "The Daily Life of a Middle-Aged Online Shopper in Another World",
   "title_japanese": "アラフォー男の異世界通販",
-  "image": "https://cdn.myanimelist.net/images/anime/1887/146512l.webp",
-  "score": 6.35,
-  "synopsis": "From nowhere, middle-aged illustrator Kenichi Hamada finds himself summoned to another world. Despite arriving in an unfamiliar land, he realizes he can still connect to an online shop named Shangri-La, which he frequented back in Japan, to order almost anything. Not long after, Kenichi comes across a town and, using Shangri-La, decides to become a merchant in the settlement.\n\nBy selling products from Earth, he is quickly able to make a living for himself while gaining acquaintances and the attention of local companies. However, the man just wants to live a quiet life without nuisances and leaves the town to build a cabin in a nearby forest. Though interrupted from time to time, there is nothing that can stop Kenichi from having his peaceful days.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/T0MqIIIC5yQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy"
+  "title_synonyms": [
+    "Arafoo Otoko no Isekai Tsuuhan Seikatsu",
+    "The Mail Order Life of a Man Around 40 in Another World"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +123,119 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/around-40-otoko-no-isekai-tsuuhan/13/720p.mp4",
       "nome": "To Sa-Kura"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-01-09T00:00:00+00:00",
+    "to": "2025-04-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2025
+      },
+      "to": {
+        "day": 3,
+        "month": 4,
+        "year": 2025
+      }
+    },
+    "string": "Jan 9, 2025 to Apr 3, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.35,
+  "scored_by": 44574,
+  "rank": 8300,
+  "popularity": 2481,
+  "members": 91553,
+  "favorites": 211,
+  "synopsis": "From nowhere, middle-aged illustrator Kenichi Hamada finds himself summoned to another world. Despite arriving in an unfamiliar land, he realizes he can still connect to an online shop named Shangri-La, which he frequented back in Japan, to order almost anything. Not long after, Kenichi comes across a town and, using Shangri-La, decides to become a merchant in the settlement.\n\nBy selling products from Earth, he is quickly able to make a living for himself while gaining acquaintances and the attention of local companies. However, the man just wants to live a quiet life without nuisances and leaves the town to build a cabin in a nearby forest. Though interrupted from time to time, there is nothing that can stop Kenichi from having his peaceful days.\n\n[Written by MAL Rewrite]",
+  "background": "Around 40 Otoko no Isekai Tsuuhan was released on Blu-ray in two box sets from April 25, 2025, to May 28, 2025.",
+  "season": "winter",
+  "year": 2025,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "21:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 21:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 1517,
+      "type": "anime",
+      "name": "Jinnan Studio",
+      "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 3058,
+      "type": "anime",
+      "name": "AniTone",
+      "url": "https://myanimelist.net/anime/producer/3058/AniTone"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2455,
+      "type": "anime",
+      "name": "East Fish Studio",
+      "url": "https://myanimelist.net/anime/producer/2455/East_Fish_Studio"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1887/146512l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/T0MqIIIC5yQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59561,
+  "slug": "around-40-otoko-no-isekai-tsuuhan"
 }

@@ -1,18 +1,57 @@
 {
-  "id": 4264,
-  "slug": "ultraviolet-code-044",
-  "type": "legendado",
+  "mal_id": 4264,
+  "url": "https://myanimelist.net/anime/4264/Ultraviolet__Code_044",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/21701.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/21701t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/21701l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/21701.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/21701t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/21701l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ultraviolet: Code 044"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ultraviolet:Code044"
+    },
+    {
+      "type": "Japanese",
+      "title": "ウルトラヴァイオレットコード044"
+    },
+    {
+      "type": "English",
+      "title": "Ultraviolet: Code 044"
+    }
+  ],
   "title": "Ultraviolet: Code 044",
   "title_english": "Ultraviolet: Code 044",
   "title_japanese": "ウルトラヴァイオレットコード044",
-  "image": "https://cdn.myanimelist.net/images/anime/5/21701l.webp",
-  "score": 5.77,
-  "synopsis": "044 becomes the strongest female soldier excelling in combat through gene manipulation using a virus. However, in exchange for her abilities, her days become numbered. The next mission of the government is to destroy a bloodthirsty squad, Phage, and its leader King. In her battle, she encounters a Phage soldier, Luka, and finds herself unable to kill him. She wonders why, but as a result, Daxus Jr., the leader of the government group, regards her as a traitor. She is targeted by both Phage and the government, and she runs away with the injured Luka.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Ultraviolet:Code044"
   ],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,82 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwQ--eX77HxCme7DyDnPsIiPkQnMIHXgFlkI69gLZQTiBhaztyCzPZVOWtydiqvWky7zMGyLioeEXIGKjf3DN0ARbMwhaBtEpoYO6fDrF71iK7GnH9yZYgezWTWrTRbfxwoiqyy",
       "nome": "...Flashes"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-07-01T00:00:00+00:00",
+    "to": "2008-09-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 7,
+        "year": 2008
+      },
+      "to": {
+        "day": 16,
+        "month": 9,
+        "year": 2008
+      }
+    },
+    "string": "Jul 1, 2008 to Sep 16, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.77,
+  "scored_by": 1593,
+  "rank": 11622,
+  "popularity": 7689,
+  "members": 8223,
+  "favorites": 5,
+  "synopsis": "044 becomes the strongest female soldier excelling in combat through gene manipulation using a virus. However, in exchange for her abilities, her days become numbered. The next mission of the government is to destroy a bloodthirsty squad, Phage, and its leader King. In her battle, she encounters a Phage soldier, Luka, and finds herself unable to kill him. She wonders why, but as a result, Daxus Jr., the leader of the government group, regards her as a traitor. She is targeted by both Phage and the government, and she runs away with the injured Luka.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2008,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Sony Pictures Entertainment",
+      "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+    },
+    {
+      "mal_id": 200,
+      "type": "anime",
+      "name": "Tezuka Productions",
+      "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+    },
+    {
+      "mal_id": 2280,
+      "type": "anime",
+      "name": "Mill Creek Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2280/Mill_Creek_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/21701l.webp",
+  "trailer_url": null,
+  "id": 4264,
+  "slug": "ultraviolet-code-044"
 }

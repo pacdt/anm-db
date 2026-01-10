@@ -1,18 +1,47 @@
 {
-  "id": 2066,
-  "slug": "gall-force-the-revolution",
-  "type": "legendado",
+  "mal_id": 2066,
+  "url": "https://myanimelist.net/anime/2066/Gall_Force__The_Revolution",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/26528.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/26528t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/26528l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/26528.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/26528t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/26528l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gall Force: The Revolution"
+    },
+    {
+      "type": "Japanese",
+      "title": "ガルフォース THE REVOLUTION"
+    }
+  ],
   "title": "Gall Force: The Revolution",
   "title_english": "Gall Force: The Revolution",
   "title_japanese": "ガルフォース THE REVOLUTION",
-  "image": "https://cdn.myanimelist.net/images/anime/8/26528l.webp",
-  "score": 5.91,
-  "synopsis": "East Force meets West Force and all Hell breaks loose. The Solonoids, that lovable race of female warriors, are at it again, fighting amongst themselves. During a heated battle, however, it looks like the leaders of the two factions have hung their warriors out to dry. In the middle of all this fighting and chaos, East Force detects a transmission from an unidentified planet. The Gall Force gals leave their posts to go. Lufy, the West Force's Ace Pilot, who is after Rabby, follows them to the planet.\n\n(Source: AnimeNfo)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -30,5 +59,89 @@
       "numero": 4,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwspjnKN61VXzFdCgtzAhwtLPUVWzfFQPvUfMuN4EBv0KsjQdXssG1fHYPTVjbjK9YGD8YamkhfwMD1SzB4mE7PP7yLtk4F1IOC3dMF9hjJ6T2DSedmaDdZ5un8JDPUMW6Is4Ku"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-10-02T00:00:00+00:00",
+    "to": "1997-03-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 1996
+      },
+      "to": {
+        "day": 21,
+        "month": 3,
+        "year": 1997
+      }
+    },
+    "string": "Oct 2, 1996 to Mar 21, 1997"
+  },
+  "duration": "30 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.91,
+  "scored_by": 1016,
+  "rank": 10870,
+  "popularity": 11305,
+  "members": 2791,
+  "favorites": 4,
+  "synopsis": "East Force meets West Force and all Hell breaks loose. The Solonoids, that lovable race of female warriors, are at it again, fighting amongst themselves. During a heated battle, however, it looks like the leaders of the two factions have hung their warriors out to dry. In the middle of all this fighting and chaos, East Force detects a transmission from an unidentified planet. The Gall Force gals leave their posts to go. Lufy, the West Force's Ace Pilot, who is after Rabby, follows them to the planet.\n\n(Source: AnimeNfo)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/26528l.webp",
+  "trailer_url": null,
+  "id": 2066,
+  "slug": "gall-force-the-revolution"
 }

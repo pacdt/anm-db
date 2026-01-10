@@ -1,20 +1,57 @@
 {
-  "id": 10588,
-  "slug": "persona-4-the-animation",
-  "type": "legendado",
+  "mal_id": 10588,
+  "url": "https://myanimelist.net/anime/10588/Persona_4_the_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/29107.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/29107t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/29107l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/29107.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/29107t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/29107l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/PnvAj2XyL-k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Persona 4 the Animation"
+    },
+    {
+      "type": "Synonym",
+      "title": "P4A"
+    },
+    {
+      "type": "Japanese",
+      "title": "ペルソナ4アニメーション"
+    },
+    {
+      "type": "English",
+      "title": "Persona 4 the Animation"
+    }
+  ],
   "title": "Persona 4 the Animation",
   "title_english": "Persona 4 the Animation",
   "title_japanese": "ペルソナ4アニメーション",
-  "image": "https://cdn.myanimelist.net/images/anime/4/29107l.webp",
-  "score": 7.52,
-  "synopsis": "Serial murders have recently plagued Inaba, with the police struggling to find any leads. Despite this, due to his parents going abroad for work, Yuu Narukami moves to the small town to live with his uncle for a year. He enrolls at Yasogami High School, where he meets and befriends Yousuke Hanamura, Chie Satonaka, and Yukiko Amagi.\n\nWhile hanging out together after school, the group fills Yuu in on the urban legend known as the \"Midnight Channel\"—a mysterious TV channel that only appears at midnight on rainy days while the viewer is alone. Curious about the claim, Yuu decides to tune in that night, only to see the next victim of the serial murders appear on the screen instead. He also finds himself being drawn into the TV, which intrigues his newfound friends enough to want to investigate.\n\nYuu ends up falling into the world within the TV, which is blanketed by a thick fog and swarming with hostile creatures known as \"Shadows.\" Realizing that this world is somehow connected to the murders, the Investigation Team forms with the goal of uncovering the mystery behind the incidents.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/PnvAj2XyL-k?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Mystery",
-    "Sci-Fi",
-    "Supernatural"
+  "title_synonyms": [
+    "P4A"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -141,5 +178,116 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw-BxkMv3BppGCMHXIJYuLsfUIq8Ba4E1sV2jThwy7d9bVVZoZTXqLmzl9GY5R-Z_j0r5rrXF7DBzrup1biCRxt8rqqlxgk1qPAbbcwdRjKfumNxT7QC7fq-6nJMFOM5nU3vD0",
       "nome": "We Can Change the World"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-10-07T00:00:00+00:00",
+    "to": "2012-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2011
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2012
+      }
+    },
+    "string": "Oct 7, 2011 to Mar 30, 2012"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.52,
+  "scored_by": 135745,
+  "rank": 1999,
+  "popularity": 991,
+  "members": 276619,
+  "favorites": 2493,
+  "synopsis": "Serial murders have recently plagued Inaba, with the police struggling to find any leads. Despite this, due to his parents going abroad for work, Yuu Narukami moves to the small town to live with his uncle for a year. He enrolls at Yasogami High School, where he meets and befriends Yousuke Hanamura, Chie Satonaka, and Yukiko Amagi.\n\nWhile hanging out together after school, the group fills Yuu in on the urban legend known as the \"Midnight Channel\"—a mysterious TV channel that only appears at midnight on rainy days while the viewer is alone. Curious about the claim, Yuu decides to tune in that night, only to see the next victim of the serial murders appear on the screen instead. He also finds himself being drawn into the TV, which intrigues his newfound friends enough to want to investigate.\n\nYuu ends up falling into the world within the TV, which is blanketed by a thick fog and swarming with hostile creatures known as \"Shadows.\" Realizing that this world is somehow connected to the murders, the Investigation Team forms with the goal of uncovering the mystery behind the incidents.\n\n[Written by MAL Rewrite]",
+  "background": "Persona 4 The Animation is based off of the critically acclaimed RPG series by Atlus.",
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    },
+    {
+      "mal_id": 870,
+      "type": "anime",
+      "name": "Index",
+      "url": "https://myanimelist.net/anime/producer/870/Index"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 88,
+      "type": "anime",
+      "name": "AIC ASTA",
+      "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/29107l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/PnvAj2XyL-k?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 10588,
+  "slug": "persona-4-the-animation"
 }

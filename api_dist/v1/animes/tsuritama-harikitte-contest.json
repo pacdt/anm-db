@@ -1,22 +1,115 @@
 {
-  "id": 31581,
-  "slug": "tsuritama-harikitte-contest",
-  "type": "legendado",
+  "mal_id": 31581,
+  "url": "https://myanimelist.net/anime/31581/Tsuritama__Harikitte_Contest",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/76239.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/76239t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76239l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/76239.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/76239t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76239l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tsuritama: Harikitte Contest"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tsuritama Picture Drama"
+    },
+    {
+      "type": "Japanese",
+      "title": "つり球　オリジナルピクチャードラマ「ハリキってコンテスト」"
+    }
+  ],
   "title": "Tsuritama: Harikitte Contest",
   "title_english": "Tsuritama: Harikitte Contest",
   "title_japanese": "つり球　オリジナルピクチャードラマ「ハリキってコンテスト」",
-  "image": "https://cdn.myanimelist.net/images/anime/8/76239l.webp",
-  "score": 5.92,
-  "synopsis": "Haru, Yuki, and the boys participate in a competition to decide who will be the next \"Prince of the Sea from Endoshima.\" They just need to show their talents and impress the jury, but everything went in a wrong direction.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Tsuritama Picture Drama"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dw7qg1A9WPl-54IXh3ogVKugpNybkFCoIYTjf9mb1uwKvx-9PWLVq719s531yC5kJSPoa2vbZl7ML8iTlGTHbAfg3UVpTEmyGy0h3g39MLuY-8T35-J9jWfp77fSHZr2S-JfS5F"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-11-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 11,
+        "year": 2012
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 21, 2012"
+  },
+  "duration": "18 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.92,
+  "scored_by": 943,
+  "rank": 10835,
+  "popularity": 10348,
+  "members": 3669,
+  "favorites": 4,
+  "synopsis": "Haru, Yuki, and the boys participate in a competition to decide who will be the next \"Prince of the Sea from Endoshima.\" They just need to show their talents and impress the jury, but everything went in a wrong direction.",
+  "background": "Picture drama screened at a Tsuritama event on September 22, 2012, and bundled with the sixth Blu-ray and DVD volume.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/76239l.webp",
+  "trailer_url": null,
+  "id": 31581,
+  "slug": "tsuritama-harikitte-contest"
 }

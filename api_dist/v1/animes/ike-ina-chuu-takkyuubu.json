@@ -1,18 +1,57 @@
 {
-  "id": 914,
-  "slug": "ike-ina-chuu-takkyuubu",
-  "type": "legendado",
+  "mal_id": 914,
+  "url": "https://myanimelist.net/anime/914/Ike_Ina-chuu_Takkyuu-bu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/25459.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/25459t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/25459l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/25459.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/25459t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/25459l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ike! Ina-chuu Takkyuu-bu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Go! Ina Junior High Ping-Pong Club"
+    },
+    {
+      "type": "Japanese",
+      "title": "行け! 稲中卓球部"
+    },
+    {
+      "type": "English",
+      "title": "The Ping-Pong Club"
+    }
+  ],
   "title": "Ike! Ina-chuu Takkyuu-bu",
   "title_english": "The Ping-Pong Club",
   "title_japanese": "行け! 稲中卓球部",
-  "image": "https://cdn.myanimelist.net/images/anime/10/25459l.webp",
-  "score": 7.49,
-  "synopsis": "When the Inaho Junior High Ping-Pong Club grows apathetic about an upcoming tournament, their new manager, Kyoko Iwashita, boosts their morale with something they cannot refuse—a \"sex pass,\" a voucher that grants the best player on the team unadulterated access to her body for a whole month. This is just one of many ways that this peculiar ping-pong club exceeds the realm of normalcy.\n\nAmong the Ping-Pong Club's six members, Maeno proves to be the most troublesome, discovering bizarre ways to distract the team each day. With the others contributing to these mischievous acts, Takeda—the captain of the club—tries his hardest to put up with the team's antics. But when popular vice-captain Yuusuke Kinoshita is being swept away by girls, he instead finds himself receiving support from the stern but resilient manager, Kyoko.\n\nWith the ever-present risk of their team being dissolved, Takeda and his friends find themselves having to overcome numerous obstacles. While Maeno often appears to put the club in jeopardy, it is usually he who devises schemes that are just so crazy that they have a chance of working. Can Maeno and his ludicrous stunts help his team persevere, or will they continue to just be a nuisance to the Ping-Pong Club?\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Ecchi"
+  "title_synonyms": [
+    "Go! Ina Junior High Ping-Pong Club"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +183,115 @@
       "url": "https://lightspeedst.net/s2/mp4/ike-ina-chuu-takkyuubu/sd/26.mp4",
       "nome": "Dandy Principal / The Drifters"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1995-04-06T00:00:00+00:00",
+    "to": "1995-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 1995
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 1995
+      }
+    },
+    "string": "Apr 6, 1995 to Sep 28, 1995"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.49,
+  "scored_by": 5404,
+  "rank": 2104,
+  "popularity": 5484,
+  "members": 19187,
+  "favorites": 138,
+  "synopsis": "When the Inaho Junior High Ping-Pong Club grows apathetic about an upcoming tournament, their new manager, Kyoko Iwashita, boosts their morale with something they cannot refuse—a \"sex pass,\" a voucher that grants the best player on the team unadulterated access to her body for a whole month. This is just one of many ways that this peculiar ping-pong club exceeds the realm of normalcy.\n\nAmong the Ping-Pong Club's six members, Maeno proves to be the most troublesome, discovering bizarre ways to distract the team each day. With the others contributing to these mischievous acts, Takeda—the captain of the club—tries his hardest to put up with the team's antics. But when popular vice-captain Yuusuke Kinoshita is being swept away by girls, he instead finds himself receiving support from the stern but resilient manager, Kyoko.\n\nWith the ever-present risk of their team being dissolved, Takeda and his friends find themselves having to overcome numerous obstacles. While Maeno often appears to put the club in jeopardy, it is usually he who devises schemes that are just so crazy that they have a chance of working. Can Maeno and his ludicrous stunts help his team persevere, or will they continue to just be a nuisance to the Ping-Pong Club?\n\n[Written by MAL Rewrite]",
+  "background": "Ike! Ina-chuu Takkyuu-bu consists of 26 episodes; however, each episode is divided into two 12-minute segments, leading some streaming services to partition the show into 52 episodes. This occurs on the DVD releases as well, although the North American release confused certain two-part episodes, with its episode count at 47. The DVD set consists of five uniquely-named volumes, with certain episodes appearing on their own respective discs.",
+  "season": "spring",
+  "year": 1995,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 80,
+      "type": "anime",
+      "name": "Trans Arts",
+      "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+    },
+    {
+      "mal_id": 99,
+      "type": "anime",
+      "name": "Kitty Films",
+      "url": "https://myanimelist.net/anime/producer/99/Kitty_Films"
+    },
+    {
+      "mal_id": 101,
+      "type": "anime",
+      "name": "Studio Hibari",
+      "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 284,
+      "type": "anime",
+      "name": "Central Park Media",
+      "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 391,
+      "type": "anime",
+      "name": "Grouper Productions",
+      "url": "https://myanimelist.net/anime/producer/391/Grouper_Productions"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/10/25459l.webp",
+  "trailer_url": null,
+  "id": 914,
+  "slug": "ike-ina-chuu-takkyuubu"
 }

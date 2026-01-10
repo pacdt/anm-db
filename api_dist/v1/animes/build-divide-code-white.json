@@ -1,17 +1,67 @@
 {
-  "id": 48777,
-  "slug": "build-divide-code-white",
-  "type": "legendado",
+  "mal_id": 48777,
+  "url": "https://myanimelist.net/anime/48777/Build_Divide__Code_White",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1932/121458.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1932/121458t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1932/121458l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1932/121458.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1932/121458t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1932/121458l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/I1raNUriVU0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Build Divide: Code White"
+    },
+    {
+      "type": "Synonym",
+      "title": "Build Divide: #000000 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Build Divide: Code Black 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Build Divide: #FFFFFF"
+    },
+    {
+      "type": "Japanese",
+      "title": "ビルディバイド -#FFFFFF(コードホワイト)-"
+    },
+    {
+      "type": "English",
+      "title": "Build Divide -#FFFFFF- Code White"
+    }
+  ],
   "title": "Build Divide: Code White",
   "title_english": "Build Divide -#FFFFFF- Code White",
   "title_japanese": "ビルディバイド -#FFFFFF(コードホワイト)-",
-  "image": "https://cdn.myanimelist.net/images/anime/1932/121458l.webp",
-  "score": 6.63,
-  "synopsis": "Second season of Build Divide.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/I1raNUriVU0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy"
+  "title_synonyms": [
+    "Build Divide: #000000 2nd Season",
+    "Build Divide: Code Black 2nd Season",
+    "Build Divide: #FFFFFF"
   ],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
@@ -28,5 +78,83 @@
       "url": "https://lightspeedst.net/s1/mp4/build-divide-code-white/hd/3.mp4",
       "nome": "Flowers and Birds"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-04-03T00:00:00+00:00",
+    "to": "2022-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2022
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2022
+      }
+    },
+    "string": "Apr 3, 2022 to Jun 26, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.63,
+  "scored_by": 6016,
+  "rank": 6575,
+  "popularity": 5107,
+  "members": 22794,
+  "favorites": 80,
+  "synopsis": "Second season of Build Divide.",
+  "background": "",
+  "season": "spring",
+  "year": 2022,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1932/121458l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/I1raNUriVU0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 48777,
+  "slug": "build-divide-code-white"
 }

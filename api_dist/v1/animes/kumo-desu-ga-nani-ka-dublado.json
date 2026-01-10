@@ -1,20 +1,63 @@
 {
-  "id": 37984,
-  "slug": "kumo-desu-ga-nani-ka-dublado",
-  "type": "dublado",
+  "mal_id": 37984,
+  "url": "https://myanimelist.net/anime/37984/Kumo_desu_ga_Nani_ka",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1593/113724.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/113724t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/113724l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1593/113724.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/113724t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/113724l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xpPJIKUsbls?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kumo desu ga, Nani ka?"
+    },
+    {
+      "type": "Japanese",
+      "title": "蜘蛛ですが、なにか？"
+    },
+    {
+      "type": "English",
+      "title": "So I'm a Spider, So What?"
+    },
+    {
+      "type": "German",
+      "title": "So I'm a Spider, So What?"
+    },
+    {
+      "type": "Spanish",
+      "title": "So I'm a Spider, So What?"
+    },
+    {
+      "type": "French",
+      "title": "So I'm a Spider, So What?"
+    }
+  ],
   "title": "Kumo desu ga, Nani ka?",
   "title_english": "So I'm a Spider, So What?",
   "title_japanese": "蜘蛛ですが、なにか？",
-  "image": "https://cdn.myanimelist.net/images/anime/1593/113724l.webp",
-  "score": 7.45,
-  "synopsis": "The day is as normal as it can be in high school as the students peacefully go about their everyday activities until an unprecedented catastrophe strikes the school, killing every person in its wake. Guided by what seems to be a miracle, a handful of students are fortunate enough to be reincarnated into another world as nobles, princes, and other kinds of people with prestigious backgrounds.\n\nOne girl, however, is not so lucky. Being reborn as a spider of the weakest kind, she immediately experiences the hardships of her dire situation. Even so, she must press on to survive the numerous threats that endanger her life. Discovering that her new world has a system like that of an RPG, she tries her best to hunt prey and defeat monsters to level up and evolve. As she gradually grows stronger, she hopes one day her efforts will be rewarded, and that she will be granted a better life.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xpPJIKUsbls?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -121,5 +164,121 @@
       "url": "https://lightspeedst.net/s1/mp4/kumo-desu-ga-nani-ka-dublado/fhd/21.mp4",
       "nome": "So, I'm Not in This One, Am I?"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-08T00:00:00+00:00",
+    "to": "2021-07-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 3,
+        "month": 7,
+        "year": 2021
+      }
+    },
+    "string": "Jan 8, 2021 to Jul 3, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.45,
+  "scored_by": 264029,
+  "rank": 2235,
+  "popularity": 506,
+  "members": 497890,
+  "favorites": 4718,
+  "synopsis": "The day is as normal as it can be in high school as the students peacefully go about their everyday activities until an unprecedented catastrophe strikes the school, killing every person in its wake. Guided by what seems to be a miracle, a handful of students are fortunate enough to be reincarnated into another world as nobles, princes, and other kinds of people with prestigious backgrounds.\n\nOne girl, however, is not so lucky. Being reborn as a spider of the weakest kind, she immediately experiences the hardships of her dire situation. Even so, she must press on to survive the numerous threats that endanger her life. Discovering that her new world has a system like that of an RPG, she tries her best to hunt prey and defeat monsters to level up and evolve. As she gradually grows stronger, she hopes one day her efforts will be rewarded, and that she will be granted a better life.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1614,
+      "type": "anime",
+      "name": "NTT Plala",
+      "url": "https://myanimelist.net/anime/producer/1614/NTT_Plala"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1237,
+      "type": "anime",
+      "name": "Millepensee",
+      "url": "https://myanimelist.net/anime/producer/1237/Millepensee"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1593/113724l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xpPJIKUsbls?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37984,
+  "slug": "kumo-desu-ga-nani-ka-dublado"
 }

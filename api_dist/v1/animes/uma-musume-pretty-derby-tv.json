@@ -1,17 +1,63 @@
 {
-  "id": 35249,
-  "slug": "uma-musume-pretty-derby-tv",
-  "type": "legendado",
+  "mal_id": 35249,
+  "url": "https://myanimelist.net/anime/35249/Uma_Musume__Pretty_Derby",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1478/91837.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1478/91837t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1478/91837l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1478/91837.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1478/91837t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1478/91837l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/WlDbeKNVtBo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Uma Musume: Pretty Derby"
+    },
+    {
+      "type": "Japanese",
+      "title": "ウマ娘 プリティーダービー"
+    },
+    {
+      "type": "English",
+      "title": "Umamusume: Pretty Derby"
+    },
+    {
+      "type": "German",
+      "title": "Umamusume: Pretty Derby"
+    },
+    {
+      "type": "Spanish",
+      "title": "Umamusume: Pretty Derby"
+    },
+    {
+      "type": "French",
+      "title": "Umamusume: Pretty Derby"
+    }
+  ],
   "title": "Uma Musume: Pretty Derby",
   "title_english": "Umamusume: Pretty Derby",
   "title_japanese": "ウマ娘 プリティーダービー",
-  "image": "https://cdn.myanimelist.net/images/anime/1478/91837l.webp",
-  "score": 7.36,
-  "synopsis": "Famous racehorses that have left behind worthy legacies, unique as they can be, are reincarnated as horse girls in a parallel world. In this life, they start their journey anew as they continue to race and perhaps relive the success they once lived through.\n\nAspiring to become the best racehorse in Japan, a horse girl named Special Week moves to Tokyo to enroll in the Tracen Academy—an institution that nurtures horse girls like her to become better racers. There, Special Week witnesses the sophisticated running style of Silence Suzuka and is inspired to become a racer like her. Shortly after, Special Week finds herself recruited into Silence Suzuka's team, Spica. From there, she begins her path to the top—one lap at a time.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/WlDbeKNVtBo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +124,100 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy3OUcGp1u33lXcr6fY92u7QjEiBqscSl9kzide_vwJI26Z-w2CPRk3iERqtCvadii2siSZqvUF0hu9sWXocx8OQo3dBbrabxZwVmm5-B_B-VgTPHY0H0h4m6tCypvUlxgHKLII",
       "nome": "Echo, Fanfare!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-02T00:00:00+00:00",
+    "to": "2018-06-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 18,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Apr 2, 2018 to Jun 18, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.36,
+  "scored_by": 90947,
+  "rank": 2654,
+  "popularity": 1293,
+  "members": 211779,
+  "favorites": 1064,
+  "synopsis": "Famous racehorses that have left behind worthy legacies, unique as they can be, are reincarnated as horse girls in a parallel world. In this life, they start their journey anew as they continue to race and perhaps relive the success they once lived through.\n\nAspiring to become the best racehorse in Japan, a horse girl named Special Week moves to Tokyo to enroll in the Tracen Academy—an institution that nurtures horse girls like her to become better racers. There, Special Week witnesses the sophisticated running style of Silence Suzuka and is inspired to become a racer like her. Shortly after, Special Week finds herself recruited into Silence Suzuka's team, Spica. From there, she begins her path to the top—one lap at a time.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 1587,
+      "type": "anime",
+      "name": "Cygames",
+      "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 132,
+      "type": "anime",
+      "name": "P.A. Works",
+      "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1478/91837l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/WlDbeKNVtBo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 35249,
+  "slug": "uma-musume-pretty-derby-tv"
 }

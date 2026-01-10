@@ -1,24 +1,130 @@
 {
-  "id": 57160,
-  "slug": "sand-land-the-series",
-  "type": "legendado",
+  "mal_id": 57160,
+  "url": "https://myanimelist.net/anime/57160/Sand_Land__The_Series",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1004/142114.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1004/142114t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1004/142114l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1004/142114.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1004/142114t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1004/142114l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/eoIceltMvH0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sand Land: The Series"
+    },
+    {
+      "type": "Japanese",
+      "title": "SAND LAND: THE SERIES"
+    }
+  ],
   "title": "Sand Land: The Series",
   "title_english": "Sand Land: The Series",
   "title_japanese": "SAND LAND: THE SERIES",
-  "image": "https://cdn.myanimelist.net/images/anime/1004/142114l.webp",
-  "score": 7.48,
-  "synopsis": "In the far future, war has destroyed the entire Earth, leaving only a barren wasteland where the supply of water is controlled by the greedy king. In search of a long-lost lake, Sheriff Rao asked the king of the demons for help...and got the king's son, Beelzebub, and his assistant, Thief. Together the unlikely trio sets off across the desert, facing dragons, bandits and the deadliest foe of all... the King's army itself! \n\n(Source: Viz Media)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/eoIceltMvH0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s7/mp4/sand-land-the-series/sd/1.mp4",
       "nome": "Departure"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-03-20T00:00:00+00:00",
+    "to": "2024-05-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 3,
+        "year": 2024
+      },
+      "to": {
+        "day": 1,
+        "month": 5,
+        "year": 2024
+      }
+    },
+    "string": "Mar 20, 2024 to May 1, 2024"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.48,
+  "scored_by": 7712,
+  "rank": 2145,
+  "popularity": 5296,
+  "members": 21011,
+  "favorites": 56,
+  "synopsis": "In the far future, war has destroyed the entire Earth, leaving only a barren wasteland where the supply of water is controlled by the greedy king. In search of a long-lost lake, Sheriff Rao asked the king of the demons for help...and got the king's son, Beelzebub, and his assistant, Thief. Together the unlikely trio sets off across the desert, facing dragons, bandits and the deadliest foe of all... the King's army itself! \n\n(Source: Viz Media)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    },
+    {
+      "mal_id": 298,
+      "type": "anime",
+      "name": "Anima",
+      "url": "https://myanimelist.net/anime/producer/298/Anima"
+    },
+    {
+      "mal_id": 437,
+      "type": "anime",
+      "name": "Kamikaze Douga",
+      "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1004/142114l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/eoIceltMvH0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 57160,
+  "slug": "sand-land-the-series"
 }

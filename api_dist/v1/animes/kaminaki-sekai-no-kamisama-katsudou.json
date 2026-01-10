@@ -1,19 +1,62 @@
 {
-  "id": 51693,
-  "slug": "kaminaki-sekai-no-kamisama-katsudou",
-  "type": "legendado",
+  "mal_id": 51693,
+  "url": "https://myanimelist.net/anime/51693/Kaminaki_Sekai_no_Kamisama_Katsudou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1794/135148.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1794/135148t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1794/135148l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1794/135148.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1794/135148t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1794/135148l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/MD_q7xYb-Xs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kamikatsu"
+    },
+    {
+      "type": "Synonym",
+      "title": "What God Does in a World Without Gods"
+    },
+    {
+      "type": "Japanese",
+      "title": "神無き世界のカミサマ活動"
+    },
+    {
+      "type": "English",
+      "title": "Kamikatsu: Working for God in a Godless World"
+    }
+  ],
   "title": "Kaminaki Sekai no Kamisama Katsudou",
   "title_english": "Kamikatsu: Working for God in a Godless World",
   "title_japanese": "神無き世界のカミサマ活動",
-  "image": "https://cdn.myanimelist.net/images/anime/1794/135148l.webp",
-  "score": 6.67,
-  "synopsis": "Under the belief that the omnipotent god Mitama will come to save him, Yukito Urabe participates in a ritual to become the new leader of his father's cult. But when the boy drowns during the ritual, he wishes to be reborn in a world without gods or religion.\n\nReawakening in a completely different world devoid of spirituality. He meets a deviant girl named Aruaru, who introduces him to her village. However, his idyllic image of this world's society is short-lived when he witnesses a public group suicide and learns of the country's end-of-life system: at any moment, the government may order any citizen to die.\n\nAruaru and her sister are forcibly taken for execution soon after, prompting Yukito to rush to their rescue—but to no avail. In a moment of desperation, Yukito recalls his father's teachings and utters a prayer for Mitama to save them. Seemingly answering his call, a little girl descends from the sky and annihilates everyone who harmed Yukito and his friends. To Yukito's surprise, the girl introduces herself as Mitama.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/MD_q7xYb-Xs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Kamikatsu",
+    "What God Does in a World Without Gods"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +118,134 @@
       "url": "https://lightspeedst.net/s6/mp4/kaminaki-sekai-no-kamisama-katsudou/hd/12.mp4",
       "nome": "We Know We Are Not Worthy O Great Lord Mitama on the Throne-"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-04-06T00:00:00+00:00",
+    "to": "2023-07-06T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2023
+      },
+      "to": {
+        "day": 6,
+        "month": 7,
+        "year": 2023
+      }
+    },
+    "string": "Apr 6, 2023 to Jul 6, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.67,
+  "scored_by": 99534,
+  "rank": 6328,
+  "popularity": 1207,
+  "members": 229173,
+  "favorites": 786,
+  "synopsis": "Under the belief that the omnipotent god Mitama will come to save him, Yukito Urabe participates in a ritual to become the new leader of his father's cult. But when the boy drowns during the ritual, he wishes to be reborn in a world without gods or religion.\n\nReawakening in a completely different world devoid of spirituality. He meets a deviant girl named Aruaru, who introduces him to her village. However, his idyllic image of this world's society is short-lived when he witnesses a public group suicide and learns of the country's end-of-life system: at any moment, the government may order any citizen to die.\n\nAruaru and her sister are forcibly taken for execution soon after, prompting Yukito to rush to their rescue—but to no avail. In a moment of desperation, Yukito recalls his father's teachings and utters a prayer for Mitama to save them. Seemingly answering his call, a little girl descends from the sky and annihilates everyone who harmed Yukito and his friends. To Yukito's surprise, the girl introduces herself as Mitama.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2023,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1996,
+      "type": "anime",
+      "name": "MAGNET",
+      "url": "https://myanimelist.net/anime/producer/1996/MAGNET"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2201,
+      "type": "anime",
+      "name": "Studio Palette",
+      "url": "https://myanimelist.net/anime/producer/2201/Studio_Palette"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1794/135148l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/MD_q7xYb-Xs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51693,
+  "slug": "kaminaki-sekai-no-kamisama-katsudou"
 }

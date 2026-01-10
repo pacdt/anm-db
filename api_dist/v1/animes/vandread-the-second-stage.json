@@ -1,18 +1,55 @@
 {
-  "id": 181,
-  "slug": "vandread-the-second-stage",
-  "type": "legendado",
+  "mal_id": 181,
+  "url": "https://myanimelist.net/anime/181/Vandread__The_Second_Stage",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75447.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75447t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75447l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/75447.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/75447t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/75447l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kIQMpvNgIzk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Vandread: The Second Stage"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヴァンドレッド the second stage"
+    },
+    {
+      "type": "English",
+      "title": "Vandread: The Second Stage"
+    },
+    {
+      "type": "French",
+      "title": "Vandread: The Second Stage 2eme saison"
+    }
+  ],
   "title": "Vandread: The Second Stage",
   "title_english": "Vandread: The Second Stage",
   "title_japanese": "ヴァンドレッド the second stage",
-  "image": "https://cdn.myanimelist.net/images/anime/4/75447l.webp",
-  "score": 7.37,
-  "synopsis": "Though Hibiki and crew defeated a super-huge battleship of the earth in the last of the first stage, they noticed five battleships further aiming at Mejeiru and Tarahk. And, crew of NIRVANA learnt Tarahk and Mejeiru which were their home had been faced to the crisis of Karitori (reaping). Travel to their home is speed up so that they may inform of the crisis. On the way, current information of the earth having been brought by girl Misty who had come to travel with them was worse than they can imagine. Hibiki and crew noticed a true fight was in the future. VANDREAD is finally changed into final system by the attack of the enemy who becomes violent more and more. Can they save their home? And, what happens to the relations between Hibiki and Dita?\n\n(Source: AnimeNfo)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kIQMpvNgIzk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +116,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyKtpXo_mHy_6Q3psWxC3qnxpXcf-_2eJlUGJ_O1FBfZsQhPMuFJvHVGd2SLv4MkgohV65sIy53WOS8EYMlNKsLBxjvfdlMN-AZJuua_u3hngGtx0juiWta7t5ABY_gGcOl9p0",
       "nome": "Trust"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-10-05T00:00:00+00:00",
+    "to": "2002-01-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2001
+      },
+      "to": {
+        "day": 18,
+        "month": 1,
+        "year": 2002
+      }
+    },
+    "string": "Oct 5, 2001 to Jan 18, 2002"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.37,
+  "scored_by": 32952,
+  "rank": 2595,
+  "popularity": 3253,
+  "members": 56923,
+  "favorites": 123,
+  "synopsis": "Though Hibiki and crew defeated a super-huge battleship of the earth in the last of the first stage, they noticed five battleships further aiming at Mejeiru and Tarahk. And, crew of NIRVANA learnt Tarahk and Mejeiru which were their home had been faced to the crisis of Karitori (reaping). Travel to their home is speed up so that they may inform of the crisis. On the way, current information of the earth having been brought by girl Misty who had come to travel with them was worse than they can imagine. Hibiki and crew noticed a true fight was in the future. VANDREAD is finally changed into final system by the attack of the enemy who becomes violent more and more. Can they save their home? And, what happens to the relations between Hibiki and Dita?\n\n(Source: AnimeNfo)",
+  "background": "",
+  "season": "fall",
+  "year": 2001,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "GDH",
+      "url": "https://myanimelist.net/anime/producer/42/GDH"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/75447l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kIQMpvNgIzk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 181,
+  "slug": "vandread-the-second-stage"
 }

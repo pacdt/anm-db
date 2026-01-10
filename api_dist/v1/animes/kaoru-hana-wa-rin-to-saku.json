@@ -1,18 +1,57 @@
 {
-  "id": 59845,
-  "slug": "kaoru-hana-wa-rin-to-saku",
-  "type": "legendado",
+  "mal_id": 59845,
+  "url": "https://myanimelist.net/anime/59845/Kaoru_Hana_wa_Rin_to_Saku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1744/150433.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1744/150433t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1744/150433l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1744/150433.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1744/150433t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1744/150433l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1FcVJxxPWh4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaoru Hana wa Rin to Saku"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Fragrant Flowers Bloom with Dignity"
+    },
+    {
+      "type": "Japanese",
+      "title": "薫る花は凛と咲く"
+    },
+    {
+      "type": "English",
+      "title": "The Fragrant Flower Blooms with Dignity"
+    }
+  ],
   "title": "Kaoru Hana wa Rin to Saku",
   "title_english": "The Fragrant Flower Blooms with Dignity",
   "title_japanese": "薫る花は凛と咲く",
-  "image": "https://cdn.myanimelist.net/images/anime/1744/150433l.webp",
-  "score": 8.6,
-  "synopsis": "The all-girls Kikyo Private Academy and Chidori Public High School are polar opposites. With its prestigious history, Kikyo is attended by noble young ladies from distinguished families, while Chidori is infamously full of simple-minded delinquents. It is no surprise that their students clash with their differences.\n\nHaving a tall stature and fierce appearance, Chidori student Rintarou Tsumugi is often avoided by others despite his gentle heart. One day, while helping out at his family's patisserie, he meets a customer who, after a brief moment, runs away from him. The next day, the customer returns to apologize to Rintarou, introducing herself as the cheerful Kaoruko Waguri.\n\nAfter spending time with Kaoruko, Rintarou appreciates that she does not judge him based on his appearance and looks forward to when they will meet again. However, when Rintarou discovers Kaoruko attends Kikyo, their relationship will challenge the social expectations and dynamics around them.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1FcVJxxPWh4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "The Fragrant Flowers Bloom with Dignity"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -69,5 +108,113 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/kaoru-hana-wa-rin-to-saku/11/720p.mp4",
       "nome": "A Morsel of Warmth"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-07-06T00:00:00+00:00",
+    "to": "2025-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2025
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2025
+      }
+    },
+    "string": "Jul 6, 2025 to Sep 28, 2025"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.6,
+  "scored_by": 167078,
+  "rank": 105,
+  "popularity": 702,
+  "members": 379849,
+  "favorites": 7300,
+  "synopsis": "The all-girls Kikyo Private Academy and Chidori Public High School are polar opposites. With its prestigious history, Kikyo is attended by noble young ladies from distinguished families, while Chidori is infamously full of simple-minded delinquents. It is no surprise that their students clash with their differences.\n\nHaving a tall stature and fierce appearance, Chidori student Rintarou Tsumugi is often avoided by others despite his gentle heart. One day, while helping out at his family's patisserie, he meets a customer who, after a brief moment, runs away from him. The next day, the customer returns to apologize to Rintarou, introducing herself as the cheerful Kaoruko Waguri.\n\nAfter spending time with Kaoruko, Rintarou appreciates that she does not judge him based on his appearance and looks forward to when they will meet again. However, when Rintarou discovers Kaoruko attends Kikyo, their relationship will challenge the social expectations and dynamics around them.\n\n[Written by MAL Rewrite]",
+  "background": "Kaoru Hana wa Rin to Saku was released on Blu-ray and DVD from August 27, 2025, to February 25, 2026.",
+  "season": "summer",
+  "year": 2025,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1800,
+      "type": "anime",
+      "name": "Marui Group",
+      "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1835,
+      "type": "anime",
+      "name": "CloverWorks",
+      "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1744/150433l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1FcVJxxPWh4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59845,
+  "slug": "kaoru-hana-wa-rin-to-saku"
 }

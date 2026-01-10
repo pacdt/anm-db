@@ -1,18 +1,63 @@
 {
-  "id": 41266,
-  "slug": "olympia-kyklos",
-  "type": "legendado",
+  "mal_id": 41266,
+  "url": "https://myanimelist.net/anime/41266/Bessatsu_Olympia_Kyklos",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1783/113441.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1783/113441t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1783/113441l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1783/113441.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1783/113441t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1783/113441l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CPsNV0TgxDY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bessatsu Olympia Kyklos"
+    },
+    {
+      "type": "Japanese",
+      "title": "別冊オリンピア・キュクロス"
+    },
+    {
+      "type": "English",
+      "title": "Extra Olympia Kyklos"
+    },
+    {
+      "type": "German",
+      "title": "Extra Olympia Kyklos"
+    },
+    {
+      "type": "Spanish",
+      "title": "Extra Olympia Kyklos"
+    },
+    {
+      "type": "French",
+      "title": "Extra Olympia Kyklos"
+    }
+  ],
   "title": "Bessatsu Olympia Kyklos",
   "title_english": "Extra Olympia Kyklos",
   "title_japanese": "別冊オリンピア・キュクロス",
-  "image": "https://cdn.myanimelist.net/images/anime/1783/113441l.webp",
-  "score": 6.96,
-  "synopsis": "Although primarily working as a vase painter in Ancient Greece, Demetrios is berated for his lack of resolve and ability to keep a cool head in a crisis. One day, he is suddenly struck by lightning and transported to Tokyo in 1964, the first year Japan hosted the Summer Olympics. \n\nMore than accommodated by a family who simply excuses him as a harmless foreigner, Demetrios ends up bringing the knowledge he has gained from the modern era to his own time period whenever he returns after being zapped by lightning. As he repeatedly travels between the two eras, Demetrios learns to impress his fellow villagers and begins to stand up for himself—all just in time to become stronger and organize and participate in his own Olympics back at home.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/CPsNV0TgxDY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -59,5 +104,84 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxh1pX2aeD34wwXXHDp-eUxB54KuzGIdWvtEo0hqSor40pwcxR8CGIfC_XAK8vv4vn33x5idNnXS591ioA5OsNG3F7IW2cqqNfFm9vK81XVV3Yc0FA6BtxDezBOl7yBoFy8fQ4",
       "nome": "Build a Tropaion"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-20T00:00:00+00:00",
+    "to": "2020-11-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 2,
+        "month": 11,
+        "year": 2020
+      }
+    },
+    "string": "Apr 20, 2020 to Nov 2, 2020"
+  },
+  "duration": "5 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.96,
+  "scored_by": 7089,
+  "rank": 4724,
+  "popularity": 5438,
+  "members": 19550,
+  "favorites": 79,
+  "synopsis": "Although primarily working as a vase painter in Ancient Greece, Demetrios is berated for his lack of resolve and ability to keep a cool head in a crisis. One day, he is suddenly struck by lightning and transported to Tokyo in 1964, the first year Japan hosted the Summer Olympics. \n\nMore than accommodated by a family who simply excuses him as a harmless foreigner, Demetrios ends up bringing the knowledge he has gained from the modern era to his own time period whenever he returns after being zapped by lightning. As he repeatedly travels between the two eras, Demetrios learns to impress his fellow villagers and begins to stand up for himself—all just in time to become stronger and organize and participate in his own Olympics back at home.\n\n[Written by MAL Rewrite]",
+  "background": "The series is a mixed-media project combining clay animation with traditional animation and other video techniques.",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 21:54 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 2517,
+      "type": "anime",
+      "name": "nobishiro lab",
+      "url": "https://myanimelist.net/anime/producer/2517/nobishiro_lab"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2115,
+      "type": "anime",
+      "name": "Gosay Studio",
+      "url": "https://myanimelist.net/anime/producer/2115/Gosay_Studio"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1783/113441l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/CPsNV0TgxDY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 41266,
+  "slug": "olympia-kyklos"
 }

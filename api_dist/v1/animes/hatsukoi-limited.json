@@ -1,18 +1,61 @@
 {
-  "id": 5150,
-  "slug": "hatsukoi-limited",
-  "type": "legendado",
+  "mal_id": 5150,
+  "url": "https://myanimelist.net/anime/5150/Hatsukoi_Limited",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1643/115475.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1643/115475t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1643/115475l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1643/115475.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1643/115475t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1643/115475l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hatsukoi Limited."
+    },
+    {
+      "type": "Synonym",
+      "title": "Hatsukoi Gentei."
+    },
+    {
+      "type": "Japanese",
+      "title": "初恋限定。"
+    },
+    {
+      "type": "English",
+      "title": "Hatsukoi Limited"
+    },
+    {
+      "type": "French",
+      "title": "Hatsukoi Limited"
+    }
+  ],
   "title": "Hatsukoi Limited.",
   "title_english": "Hatsukoi Limited",
   "title_japanese": "初恋限定。",
-  "image": "https://cdn.myanimelist.net/images/anime/1643/115475l.webp",
-  "score": 7.25,
-  "synopsis": "Ayumi Arihara believes that being loved is the ultimate key to happiness—which is why her greatest wish is to have a boy confess to her. A series of unfortunate events leads to her ideal dream coming true, albeit in a nightmarish way: the towering and terrifying Misao Zaitsu confesses his love to Ayumi through a letter.\n\nMentally exhausted from not knowing what to do, Ayumi collapses in class. A classmate comes to her rescue, carrying her princess-style to the infirmary. This makes Ayumi fall in love with the cute boy, only to realize he is none other than Misao's younger brother, Mamoru.\n\nFeeling caught between a rock and a hard place, Ayumi must decide whether to stick to her idea of love or pursue what she truly desires. However, Ayumi is not alone in her struggles—all her friends are also taking on the challenges of first love, and for teenagers, it is never as easy as it seems.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Hatsukoi Gentei."
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +117,115 @@
       "url": "https://lightspeedst.net/s2/mp4/hatsukoi-limited/sd/12.mp4",
       "nome": "First Love Limited"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-04-12T00:00:00+00:00",
+    "to": "2009-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 4,
+        "year": 2009
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2009
+      }
+    },
+    "string": "Apr 12, 2009 to Jun 28, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.25,
+  "scored_by": 42027,
+  "rank": 3236,
+  "popularity": 2236,
+  "members": 106456,
+  "favorites": 239,
+  "synopsis": "Ayumi Arihara believes that being loved is the ultimate key to happiness—which is why her greatest wish is to have a boy confess to her. A series of unfortunate events leads to her ideal dream coming true, albeit in a nightmarish way: the towering and terrifying Misao Zaitsu confesses his love to Ayumi through a letter.\n\nMentally exhausted from not knowing what to do, Ayumi collapses in class. A classmate comes to her rescue, carrying her princess-style to the infirmary. This makes Ayumi fall in love with the cute boy, only to realize he is none other than Misao's younger brother, Mamoru.\n\nFeeling caught between a rock and a hard place, Ayumi must decide whether to stick to her idea of love or pursue what she truly desires. However, Ayumi is not alone in her struggles—all her friends are also taking on the challenges of first love, and for teenagers, it is never as easy as it seems.\n\n[Written by MAL Rewrite]",
+  "background": "Hatsukoi Limited. was released on DVD as Hatsukoi Limited by Sentai Filmworks on July 31, 2012.",
+  "season": "spring",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Geneon Universal Entertainment",
+      "url": "https://myanimelist.net/anime/producer/31/Geneon_Universal_Entertainment"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1643/115475l.webp",
+  "trailer_url": null,
+  "id": 5150,
+  "slug": "hatsukoi-limited"
 }

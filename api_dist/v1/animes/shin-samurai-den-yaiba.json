@@ -1,18 +1,51 @@
 {
-  "id": 58812,
-  "slug": "shin-samurai-den-yaiba",
-  "type": "legendado",
+  "mal_id": 58812,
+  "url": "https://myanimelist.net/anime/58812/Shin_Samurai-den_Yaiba",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1872/150755.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1872/150755t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1872/150755l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1872/150755.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1872/150755t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1872/150755l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7noPMIddli4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shin Samurai-den Yaiba"
+    },
+    {
+      "type": "Japanese",
+      "title": "真･侍伝 YAIBA"
+    },
+    {
+      "type": "English",
+      "title": "Yaiba: Samurai Legend"
+    }
+  ],
   "title": "Shin Samurai-den Yaiba",
   "title_english": "Yaiba: Samurai Legend",
   "title_japanese": "真･侍伝 YAIBA",
-  "image": "https://cdn.myanimelist.net/images/anime/1872/150755l.webp",
-  "score": 7.19,
-  "synopsis": "Deep in a tropical jungle, young Yaiba Kurogane diligently practices swordsmanship alongside his father, Kenjuurou, completely unaware of the modern world. However, one day, the two end up in a container on its way to Japan. There, they encounter Kenjuurou's old rival, Raizou Mine, and his daughter, Sayaka. Out of other options, Yaiba agrees to a deal with the Mine household: if he beats the strongest student in their dojo, he will be welcome to stay.\n\nUsing his distinctive skills and extraordinary strength, Yaiba earns his place. Wanting to fight more powerful enemies, Yaiba follows Sayaka to school—where he quickly loses to Takeshi Onimaru and acknowledges him as his new rival. With Onimaru inheriting the sword of his bloodline and obtaining demonic powers, Yaiba must train to become even stronger and beat him for good.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/7noPMIddli4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -129,5 +162,121 @@
       "url": "https://lightspeedst.net/s5/mp4/shin-samurai-den-yaiba/hd/23.mp4",
       "nome": "The Dragon God Orb Resurrected!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-05T00:00:00+00:00",
+    "to": "2025-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2025
+      }
+    },
+    "string": "Apr 5, 2025 to Sep 27, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.19,
+  "scored_by": 10451,
+  "rank": 3558,
+  "popularity": 3941,
+  "members": 40667,
+  "favorites": 127,
+  "synopsis": "Deep in a tropical jungle, young Yaiba Kurogane diligently practices swordsmanship alongside his father, Kenjuurou, completely unaware of the modern world. However, one day, the two end up in a container on its way to Japan. There, they encounter Kenjuurou's old rival, Raizou Mine, and his daughter, Sayaka. Out of other options, Yaiba agrees to a deal with the Mine household: if he beats the strongest student in their dojo, he will be welcome to stay.\n\nUsing his distinctive skills and extraordinary strength, Yaiba earns his place. Wanting to fight more powerful enemies, Yaiba follows Sayaka to school—where he quickly loses to Takeshi Onimaru and acknowledges him as his new rival. With Onimaru inheriting the sword of his bloodline and obtaining demonic powers, Yaiba must train to become even stronger and beat him for good.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 474,
+      "type": "anime",
+      "name": "Shogakukan Music & Digital Entertainment",
+      "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+    },
+    {
+      "mal_id": 1294,
+      "type": "anime",
+      "name": "Sound Team Don Juan",
+      "url": "https://myanimelist.net/anime/producer/1294/Sound_Team_Don_Juan"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1872/150755l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/7noPMIddli4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 58812,
+  "slug": "shin-samurai-den-yaiba"
 }

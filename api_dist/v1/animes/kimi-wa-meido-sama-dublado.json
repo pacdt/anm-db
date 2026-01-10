@@ -1,18 +1,51 @@
 {
-  "id": 57611,
-  "slug": "kimi-wa-meido-sama-dublado",
-  "type": "dublado",
+  "mal_id": 57611,
+  "url": "https://myanimelist.net/anime/57611/Kimi_wa_Meido-sama",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1909/144684.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1909/144684t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1909/144684l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1909/144684.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1909/144684t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1909/144684l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kRL2nBz7Z6E?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kimi wa Meido-sama."
+    },
+    {
+      "type": "Japanese",
+      "title": "君は冥土様。"
+    },
+    {
+      "type": "English",
+      "title": "You are Ms. Servant."
+    }
+  ],
   "title": "Kimi wa Meido-sama.",
   "title_english": "You are Ms. Servant.",
   "title_japanese": "君は冥土様。",
-  "image": "https://cdn.myanimelist.net/images/anime/1909/144684l.webp",
-  "score": 7.06,
-  "synopsis": "One day, Hitoyoshi Yokoya wakes up to a mysterious nameless girl dressed as a maid ringing his doorbell, asking to be his servant. With her former master referring her to the Yokoya household, she offers her expertise as an assassin. Intimidated by her background, Hitoyoshi tries to send her away; but when she leaves something behind, he rushes to return it to her and is nearly hit by a truck in the process. With her fast reflexes, the girl saves him just in time, and Hitoyoshi ends up taking her in. \n\nIronically, the maid lacks any skills apart from the art of killing she has perfected since childhood. Nevertheless, Hitoyoshi welcomes the girl with open arms, encouraging her to leave her monochromatic past behind and experience a normal life. To seal the deal, Hitoyoshi names her Yuki, marking the beginning of her path to redemption and happiness.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kRL2nBz7Z6E?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -39,5 +72,112 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzatrbAQ7t6GNqv1dDndW27sLpaEwkuxImXkePaacNXnwGhK29JhFdHHy-NT5JtOnZBIChBfa_a9NbdqzaVAUMTBVk0Q8HP1yGBGEAuOsY5PDrywokZ_FXoRedxq0LcKeI-Cg4",
       "nome": "What You Want to Protect."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-10-06T00:00:00+00:00",
+    "to": "2024-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2024
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2024
+      }
+    },
+    "string": "Oct 6, 2024 to Dec 22, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.06,
+  "scored_by": 49960,
+  "rank": 4257,
+  "popularity": 1902,
+  "members": 133698,
+  "favorites": 486,
+  "synopsis": "One day, Hitoyoshi Yokoya wakes up to a mysterious nameless girl dressed as a maid ringing his doorbell, asking to be his servant. With her former master referring her to the Yokoya household, she offers her expertise as an assassin. Intimidated by her background, Hitoyoshi tries to send her away; but when she leaves something behind, he rushes to return it to her and is nearly hit by a truck in the process. With her fast reflexes, the girl saves him just in time, and Hitoyoshi ends up taking her in. \n\nIronically, the maid lacks any skills apart from the art of killing she has perfected since childhood. Nevertheless, Hitoyoshi welcomes the girl with open arms, encouraging her to leave her monochromatic past behind and experience a normal life. To seal the deal, Hitoyoshi names her Yuki, marking the beginning of her path to redemption and happiness.\n\n[Written by MAL Rewrite]",
+  "background": "Kimi wa Meido-sama. aired on TV Asahi's NUMAnimation block. The series was released on Blu-ray in a box set on March 26, 2025.",
+  "season": "fall",
+  "year": 2024,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 1041,
+      "type": "anime",
+      "name": "Ai Addiction",
+      "url": "https://myanimelist.net/anime/producer/1041/Ai_Addiction"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1659,
+      "type": "anime",
+      "name": "AbemaTV",
+      "url": "https://myanimelist.net/anime/producer/1659/AbemaTV"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    },
+    {
+      "mal_id": 2234,
+      "type": "anime",
+      "name": "TV Asahi Music",
+      "url": "https://myanimelist.net/anime/producer/2234/TV_Asahi_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1440,
+      "type": "anime",
+      "name": "Felix Film",
+      "url": "https://myanimelist.net/anime/producer/1440/Felix_Film"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1909/144684l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kRL2nBz7Z6E?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 57611,
+  "slug": "kimi-wa-meido-sama-dublado"
 }

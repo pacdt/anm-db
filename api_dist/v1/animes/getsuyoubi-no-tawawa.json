@@ -1,18 +1,57 @@
 {
-  "id": 34213,
-  "slug": "getsuyoubi-no-tawawa",
-  "type": "legendado",
+  "mal_id": 34213,
+  "url": "https://myanimelist.net/anime/34213/Getsuyoubi_no_Tawawa",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/83576.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/83576t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/83576l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/83576.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/83576t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/83576l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Getsuyoubi no Tawawa"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tawawa on Monday"
+    },
+    {
+      "type": "Japanese",
+      "title": "月曜日のたわわ"
+    },
+    {
+      "type": "English",
+      "title": "Tawawa on Monday"
+    }
+  ],
   "title": "Getsuyoubi no Tawawa",
   "title_english": "Tawawa on Monday",
   "title_japanese": "月曜日のたわわ",
-  "image": "https://cdn.myanimelist.net/images/anime/13/83576l.webp",
-  "score": 6.39,
-  "synopsis": "Oniisan, a typical salaryman, has the weekly duty of protecting high school student Ai-chan from gropers by escorting her during their Monday morning train commutes. Despite the short time Oniisan and Ai-chan spend together, they manage to bond and learn more about each other's lives. To help Oniisan get through his Monday blues, Ai-chan gives him small presents as motivation.\n\nAi-chan and many other girls—who all share a certain attractive trait—lighten up the Mondays of their male friends and colleagues for the long week ahead.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Slice of Life",
-    "Ecchi"
+  "title_synonyms": [
+    "Tawawa on Monday"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +113,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzKwNPOOg4DzVFdlUy2yP4UUPtvJvAXq14LaRiXHip2Ya3KMDdKzgHhcbxGJkO2lZ8X-DOjUZ43RFjgPpOzS4GWTyEoy_VjNbupthUAu2ZN-0QAPin8VoeSghMp8tM0wlfE3wQN",
       "nome": "Ai-chan and the Stairs to Adulthood"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-10T00:00:00+00:00",
+    "to": "2016-12-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 26,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 10, 2016 to Dec 26, 2016"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.39,
+  "scored_by": 61385,
+  "rank": 8077,
+  "popularity": 1592,
+  "members": 168469,
+  "favorites": 353,
+  "synopsis": "Oniisan, a typical salaryman, has the weekly duty of protecting high school student Ai-chan from gropers by escorting her during their Monday morning train commutes. Despite the short time Oniisan and Ai-chan spend together, they manage to bond and learn more about each other's lives. To help Oniisan get through his Monday blues, Ai-chan gives him small presents as motivation.\n\nAi-chan and many other girls—who all share a certain attractive trait—lighten up the Mondays of their male friends and colleagues for the long week ahead.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1331,
+      "type": "anime",
+      "name": "i0+",
+      "url": "https://myanimelist.net/anime/producer/1331/i0_"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1295,
+      "type": "anime",
+      "name": "PINE JAM",
+      "url": "https://myanimelist.net/anime/producer/1295/PINE_JAM"
+    }
+  ],
+  "genres": [
+    "Slice of Life",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/83576l.webp",
+  "trailer_url": null,
+  "id": 34213,
+  "slug": "getsuyoubi-no-tawawa"
 }

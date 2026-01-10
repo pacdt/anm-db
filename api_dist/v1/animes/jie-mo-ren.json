@@ -1,19 +1,57 @@
 {
-  "id": 33309,
-  "slug": "jie-mo-ren",
-  "type": "legendado",
+  "mal_id": 33309,
+  "url": "https://myanimelist.net/anime/33309/Jie_Mo_Ren",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/80054.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/80054t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/80054l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/80054.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/80054t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/80054l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jie Mo Ren"
+    },
+    {
+      "type": "Synonym",
+      "title": "Xue Mo Ren"
+    },
+    {
+      "type": "Japanese",
+      "title": "戒魔人"
+    },
+    {
+      "type": "English",
+      "title": "The Devil Ring"
+    }
+  ],
   "title": "Jie Mo Ren",
   "title_english": "The Devil Ring",
   "title_japanese": "戒魔人",
-  "image": "https://cdn.myanimelist.net/images/anime/10/80054l.webp",
-  "score": 6.02,
-  "synopsis": "When Freshman Zhou Xiaoan put on a ring of unclear origin, a terrifying devil leaps from his mouth and his life is changed forever. Shocking historical secrets are slowly revealed - a Blood Devil calling itself King Zhou of Shang, a race of heart-eating zombies; a dubious group of Taoist Priests that fight against them; mysterious beings of the supernatural world who can blend in to human society.\n\n(Source: GFearJ)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Mystery",
-    "Supernatural"
+  "title_synonyms": [
+    "Xue Mo Ren"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -71,5 +109,70 @@
       "numero": 14,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyjwUEZ6yja5tGaCnd4VYm0cjM6mFIyFK07ihiwKUUgKvK1bPkBYpgRmaPmy0QdwUGsRIgHUSBP-1Hd3-kdUKfWBUo64gMgCCiuShbdNdaYjX21regurqLdGA8OS1mxp7GFoGVV"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-27T00:00:00+00:00",
+    "to": "2016-07-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 27,
+        "month": 7,
+        "year": 2016
+      }
+    },
+    "string": "Apr 27, 2016 to Jul 27, 2016"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.02,
+  "scored_by": 1889,
+  "rank": 10301,
+  "popularity": 6997,
+  "members": 10442,
+  "favorites": 30,
+  "synopsis": "When Freshman Zhou Xiaoan put on a ring of unclear origin, a terrifying devil leaps from his mouth and his life is changed forever. Shocking historical secrets are slowly revealed - a Blood Devil calling itself King Zhou of Shang, a race of heart-eating zombies; a dubious group of Taoist Priests that fight against them; mysterious beings of the supernatural world who can blend in to human society.\n\n(Source: GFearJ)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    },
+    {
+      "mal_id": 2274,
+      "type": "anime",
+      "name": "Qiying Animation",
+      "url": "https://myanimelist.net/anime/producer/2274/Qiying_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/80054l.webp",
+  "trailer_url": null,
+  "id": 33309,
+  "slug": "jie-mo-ren"
 }

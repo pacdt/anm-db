@@ -1,19 +1,63 @@
 {
-  "id": 2403,
-  "slug": "kodomo-no-jikan-tv",
-  "type": "legendado",
+  "mal_id": 2403,
+  "url": "https://myanimelist.net/anime/2403/Kodomo_no_Jikan_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1944/149834.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1944/149834t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1944/149834l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1944/149834.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1944/149834t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1944/149834l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kodomo no Jikan (TV)"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nymphet"
+    },
+    {
+      "type": "Synonym",
+      "title": "A Child's Time"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kojika"
+    },
+    {
+      "type": "Japanese",
+      "title": "こどものじかん"
+    }
+  ],
   "title": "Kodomo no Jikan (TV)",
   "title_english": "Kodomo no Jikan (TV)",
   "title_japanese": "こどものじかん",
-  "image": "https://cdn.myanimelist.net/images/anime/1944/149834l.webp",
-  "score": 6.68,
-  "synopsis": "3rd grade teacher Aoki Daisuke didn't expect the first class he ever taught to be one of the toughest obstacles of his life. After getting off on the wrong foot with the entire class, a moment of kind-heartedness instantly convinces one of his students, Rin Kokonoe, to make the ill-fated Aoki-sensei her lover. But what exactly are Rin's intentions for wanting to actively seduce Aoki-sensei, and will Aoki-sensei be able to help her to deal with them?",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Ecchi"
+  "title_synonyms": [
+    "Nymphet",
+    "A Child's Time",
+    "Kojika"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,102 @@
       "url": "https://lightspeedst.net/s3/mp4/kodomo-no-jikan-tv/sd/12.mp4",
       "nome": "A Child's Time"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-10-12T00:00:00+00:00",
+    "to": "2007-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 10,
+        "year": 2007
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2007
+      }
+    },
+    "string": "Oct 12, 2007 to Dec 28, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.68,
+  "scored_by": 55583,
+  "rank": 6307,
+  "popularity": 2103,
+  "members": 117638,
+  "favorites": 608,
+  "synopsis": "3rd grade teacher Aoki Daisuke didn't expect the first class he ever taught to be one of the toughest obstacles of his life. After getting off on the wrong foot with the entire class, a moment of kind-heartedness instantly convinces one of his students, Rin Kokonoe, to make the ill-fated Aoki-sensei her lover. But what exactly are Rin's intentions for wanting to actively seduce Aoki-sensei, and will Aoki-sensei be able to help her to deal with them?",
+  "background": "",
+  "season": "fall",
+  "year": 2007,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 399,
+      "type": "anime",
+      "name": "Dream Force",
+      "url": "https://myanimelist.net/anime/producer/399/Dream_Force"
+    },
+    {
+      "mal_id": 1377,
+      "type": "anime",
+      "name": "Futabasha",
+      "url": "https://myanimelist.net/anime/producer/1377/Futabasha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3033,
+      "type": "anime",
+      "name": "Studio Barcelona",
+      "url": "https://myanimelist.net/anime/producer/3033/Studio_Barcelona"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1944/149834l.webp",
+  "trailer_url": null,
+  "id": 2403,
+  "slug": "kodomo-no-jikan-tv"
 }

@@ -1,19 +1,57 @@
 {
-  "id": 33417,
-  "slug": "super-lovers-2",
-  "type": "legendado",
+  "mal_id": 33417,
+  "url": "https://myanimelist.net/anime/33417/Super_Lovers_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/83807.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/83807t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/83807l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/83807.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/83807t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/83807l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1ty-aFNs4iI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Super Lovers 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Super Lovers Second Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "SUPER LOVERS（スーパーラヴァーズ） 2"
+    },
+    {
+      "type": "English",
+      "title": "Super Lovers 2"
+    }
+  ],
   "title": "Super Lovers 2",
   "title_english": "Super Lovers 2",
   "title_japanese": "SUPER LOVERS（スーパーラヴァーズ） 2",
-  "image": "https://cdn.myanimelist.net/images/anime/9/83807l.webp",
-  "score": 6.98,
-  "synopsis": "Second season of Super Lovers.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1ty-aFNs4iI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Boys Love",
-    "Comedy",
-    "Drama"
+  "title_synonyms": [
+    "Super Lovers Second Season"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -65,5 +103,125 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy9f-46T0RdVjnOlK7Nai7HyAnalEmtxVy5sQ5aq2KKJLjGgn4AD2vH_MQ947_57QijRfXzisoDEvso162Fao3sMfob0aAuJiKL2b3Soq4Uv0eVl7cjZHkUB-crFSQ99vjLlJ4P",
       "nome": "Happy Days"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-12T00:00:00+00:00",
+    "to": "2017-03-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 16,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 12, 2017 to Mar 16, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.98,
+  "scored_by": 49579,
+  "rank": 4642,
+  "popularity": 2398,
+  "members": 95954,
+  "favorites": 350,
+  "synopsis": "Second season of Super Lovers.",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1309,
+      "type": "anime",
+      "name": "Lawson HMV Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1309/Lawson_HMV_Entertainment"
+    },
+    {
+      "mal_id": 1627,
+      "type": "anime",
+      "name": "TV Saitama",
+      "url": "https://myanimelist.net/anime/producer/1627/TV_Saitama"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Boys Love",
+    "Comedy",
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/83807l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1ty-aFNs4iI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33417,
+  "slug": "super-lovers-2"
 }

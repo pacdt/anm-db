@@ -1,19 +1,57 @@
 {
-  "id": 4581,
-  "slug": "shikabane-hime-aka",
-  "type": "legendado",
+  "mal_id": 4581,
+  "url": "https://myanimelist.net/anime/4581/Shikabane_Hime__Aka",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1429/115664.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1429/115664t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1429/115664l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1429/115664.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1429/115664t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1429/115664l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Xvr1z07uIYA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shikabane Hime: Aka"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shikabane Hime Aka"
+    },
+    {
+      "type": "Japanese",
+      "title": "屍姫 赫"
+    },
+    {
+      "type": "English",
+      "title": "Corpse Princess: Aka"
+    }
+  ],
   "title": "Shikabane Hime: Aka",
   "title_english": "Corpse Princess: Aka",
   "title_japanese": "屍姫 赫",
-  "image": "https://cdn.myanimelist.net/images/anime/1429/115664l.webp",
-  "score": 7.17,
-  "synopsis": "Living at a shrine with other orphans, Ouri Kagami is no stranger to corpses. But when he sees the patron of his orphanage, Keisei Tagami, seemingly revive the scarred corpse of schoolgirl Makina Hoshimura, he cannot help but feel incredibly shocked.\n\nIntrigued by the mysterious circumstances surrounding Makina, he learns that she is a Shikabane Hime—an undead being tasked with eliminating others like her who pose a threat to society. As Ouri goes about his daily life, his inexplicable run-ins with her are shrouded in abnormality. But as each encounter grows more intense, the two are brought closer together, and it may be their intertwining fates that hold the key to unveiling the secrets behind the world of Shikabanes.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Xvr1z07uIYA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Horror",
-    "Supernatural"
+  "title_synonyms": [
+    "Shikabane Hime Aka"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +113,97 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwtYUWaB-8MU8yU8Ck6TS4OcZEoZOzhIMoHATdg5dF3wOB5zN7CywxOxeeUO6nGnrgwPSGgMtTa5iNpU1MU-GVwXJ3IEgNsXxh4iqQ5Zc0GqT6KFYO7h7F9G4VExg1d2knejuEl",
       "nome": "Dawn"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-02T00:00:00+00:00",
+    "to": "2008-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2008
+      }
+    },
+    "string": "Oct 2, 2008 to Dec 25, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.17,
+  "scored_by": 46937,
+  "rank": 3703,
+  "popularity": 1935,
+  "members": 130480,
+  "favorites": 248,
+  "synopsis": "Living at a shrine with other orphans, Ouri Kagami is no stranger to corpses. But when he sees the patron of his orphanage, Keisei Tagami, seemingly revive the scarred corpse of schoolgirl Makina Hoshimura, he cannot help but feel incredibly shocked.\n\nIntrigued by the mysterious circumstances surrounding Makina, he learns that she is a Shikabane Hime—an undead being tasked with eliminating others like her who pose a threat to society. As Ouri goes about his daily life, his inexplicable run-ins with her are shrouded in abnormality. But as each encounter grows more intense, the two are brought closer together, and it may be their intertwining fates that hold the key to unveiling the secrets behind the world of Shikabanes.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    },
+    {
+      "mal_id": 91,
+      "type": "anime",
+      "name": "feel.",
+      "url": "https://myanimelist.net/anime/producer/91/feel"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1429/115664l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Xvr1z07uIYA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 4581,
+  "slug": "shikabane-hime-aka"
 }

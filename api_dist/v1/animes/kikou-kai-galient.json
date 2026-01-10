@@ -1,18 +1,57 @@
 {
-  "id": 5153,
-  "slug": "kikou-kai-galient",
-  "type": "legendado",
+  "mal_id": 5153,
+  "url": "https://myanimelist.net/anime/5153/Kikou_Kai_Galient",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1951/90860.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1951/90860t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1951/90860l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1951/90860.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1951/90860t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1951/90860l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KQ5z_GBiIq4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kikou Kai Galient"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kikoukai Garian"
+    },
+    {
+      "type": "Japanese",
+      "title": "機甲界ガリアン"
+    },
+    {
+      "type": "English",
+      "title": "Panzer World Galient"
+    }
+  ],
   "title": "Kikou Kai Galient",
   "title_english": "Panzer World Galient",
   "title_japanese": "機甲界ガリアン",
-  "image": "https://cdn.myanimelist.net/images/anime/1951/90860l.webp",
-  "score": 6.48,
-  "synopsis": "Set in a far flung medieval-looking world of Arst, Prince Jordy Volder takes up the fight against the ambitions of the conqueror Marder. Jordy uses the legendary giant robot \"panzer\" Galient, which is one of many panzers that have been preserved underground for thousands of years. Using an army of advanced robot panzers, Marder is conquering all of Arst in preparation of his plan for dominance of the Crescent Galaxy.\n\n(Source: Wikipedia)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/KQ5z_GBiIq4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Kikoukai Garian"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -114,5 +153,84 @@
       "numero": 25,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwTvUbtl7PRWS17FfriDZcL3Nh14GVVWck0ejY7YgSIgQzGnTb0C15nwflm_FZ_zR0Q5XWbbc-P5V5t2BxBnKL9vgtLivcdCp4SWwsydapJl1-foZpje87IQb3S2Z_tthUT8VS6"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1984-10-05T00:00:00+00:00",
+    "to": "1985-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 1984
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 1985
+      }
+    },
+    "string": "Oct 5, 1984 to Mar 29, 1985"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.48,
+  "scored_by": 1358,
+  "rank": 7524,
+  "popularity": 9592,
+  "members": 4654,
+  "favorites": 8,
+  "synopsis": "Set in a far flung medieval-looking world of Arst, Prince Jordy Volder takes up the fight against the ambitions of the conqueror Marder. Jordy uses the legendary giant robot \"panzer\" Galient, which is one of many panzers that have been preserved underground for thousands of years. Using an army of advanced robot panzers, Marder is conquering all of Arst in preparation of his plan for dominance of the Crescent Galaxy.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "fall",
+  "year": 1984,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1951/90860l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/KQ5z_GBiIq4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 5153,
+  "slug": "kikou-kai-galient"
 }

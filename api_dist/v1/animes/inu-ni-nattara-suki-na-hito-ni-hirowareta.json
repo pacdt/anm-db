@@ -1,18 +1,57 @@
 {
-  "id": 51265,
-  "slug": "inu-ni-nattara-suki-na-hito-ni-hirowareta",
-  "type": "legendado",
+  "mal_id": 51265,
+  "url": "https://myanimelist.net/anime/51265/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1832/132333.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1832/132333t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/132333l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1832/132333.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1832/132333t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/132333l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kS4vV1uoK6g?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Inu ni Nattara Suki na Hito ni Hirowareta."
+    },
+    {
+      "type": "Synonym",
+      "title": "Inuhiro"
+    },
+    {
+      "type": "Japanese",
+      "title": "犬になったら好きな人に拾われた。"
+    },
+    {
+      "type": "English",
+      "title": "My Life as Inukai-san's Dog."
+    }
+  ],
   "title": "Inu ni Nattara Suki na Hito ni Hirowareta.",
   "title_english": "My Life as Inukai-san's Dog.",
   "title_japanese": "犬になったら好きな人に拾われた。",
-  "image": "https://cdn.myanimelist.net/images/anime/1832/132333l.webp",
-  "score": 5.04,
-  "synopsis": "On a rainy afternoon, a male high school student awakens freezing on the streets with no memory of how he got there. His classmate and crush, Karen Inukai, finds him and takes him back to her home where, to his surprise, she starts to undress. She seems intent on bathing with him, though he has no idea why. When she holds him once more, he catches a glimpse of himself in the mirror—discovering that he has turned into a dog!\n\nInukai adopts the puppy and names him Pochita. Now, he must adjust to life as a dog and figure out how to get out of this strange predicament. But while he mulls over an escape plan, Pochita sees a whole new side to Inukai that he never saw at school.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kS4vV1uoK6g?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Ecchi"
+  "title_synonyms": [
+    "Inuhiro"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -82,5 +121,101 @@
       "numero": 14,
       "url": "https://lightspeedst.net/s6/mp4_temp/inu-ni-nattara-suki-na-hito-ni-hirowareta/14/720p.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-07T00:00:00+00:00",
+    "to": "2023-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Jan 7, 2023 to Mar 25, 2023"
+  },
+  "duration": "12 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.04,
+  "scored_by": 53808,
+  "rank": 13837,
+  "popularity": 1895,
+  "members": 134489,
+  "favorites": 672,
+  "synopsis": "On a rainy afternoon, a male high school student awakens freezing on the streets with no memory of how he got there. His classmate and crush, Karen Inukai, finds him and takes him back to her home where, to his surprise, she starts to undress. She seems intent on bathing with him, though he has no idea why. When she holds him once more, he catches a glimpse of himself in the mirror—discovering that he has turned into a dog!\n\nInukai adopts the puppy and names him Pochita. Now, he must adjust to life as a dog and figure out how to get out of this strange predicament. But while he mulls over an escape plan, Pochita sees a whole new side to Inukai that he never saw at school.\n\n[Written by MAL Rewrite]",
+  "background": "Inu ni Nattara Suki na Hito ni Hirowareta. was released on Blu-ray in two volumes from March 29, 2023, to April 26, 2023.",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 2892,
+      "type": "anime",
+      "name": "WWWave",
+      "url": "https://myanimelist.net/anime/producer/2892/WWWave"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2314,
+      "type": "anime",
+      "name": "Quad",
+      "url": "https://myanimelist.net/anime/producer/2314/Quad"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1832/132333l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kS4vV1uoK6g?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51265,
+  "slug": "inu-ni-nattara-suki-na-hito-ni-hirowareta"
 }

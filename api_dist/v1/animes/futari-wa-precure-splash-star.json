@@ -1,18 +1,51 @@
 {
-  "id": 1534,
-  "slug": "futari-wa-precure-splash-star",
-  "type": "legendado",
+  "mal_id": 1534,
+  "url": "https://myanimelist.net/anime/1534/Futari_wa_Precure__Splash☆Star",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/7534.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/7534t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/7534l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/7534.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/7534t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/7534l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Futari wa Precure: Splash☆Star"
+    },
+    {
+      "type": "Japanese",
+      "title": "ふたりはプリキュア Splash☆Star"
+    },
+    {
+      "type": "English",
+      "title": "Pretty Cure Splash Star"
+    }
+  ],
   "title": "Futari wa Precure: Splash☆Star",
   "title_english": "Pretty Cure Splash Star",
   "title_japanese": "ふたりはプリキュア Splash☆Star",
-  "image": "https://cdn.myanimelist.net/images/anime/3/7534l.webp",
-  "score": 7.19,
-  "synopsis": "During the summer festival five years ago, two girls met at a mysterious tree and saw two glowing spheres. Now, these two girls--Saki Hyuuga, ace pitcher on the school softball team; and Mai Mishou, who prefers sketching over stargazing--are chosen by the spirits of flowers (Flappy) and birds (Choppy) to restore the Seven Fountains and save their worlds from Dark Autumn. Together, they are the NEW Pretty Cure.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -164,5 +197,77 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dydeAPfSSa3SNbQKVqz4HyD7bgjex84qoMjKx39Gl3fQmYfwJB7E0ixvmcoxYmlTW0ef_tknbubXEYCvC9Z1e1EfNcz2IaZGxsC850uVz-Vpbp1bucXf95Y8CHU9BCbuCjS6f4",
       "nome": "The Power of Miracle! Pretty Cure's Big Transformation!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-02-05T00:00:00+00:00",
+    "to": "2007-01-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 2,
+        "year": 2006
+      },
+      "to": {
+        "day": 28,
+        "month": 1,
+        "year": 2007
+      }
+    },
+    "string": "Feb 5, 2006 to Jan 28, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.19,
+  "scored_by": 6576,
+  "rank": 3583,
+  "popularity": 5852,
+  "members": 16104,
+  "favorites": 86,
+  "synopsis": "During the summer festival five years ago, two girls met at a mysterious tree and saw two glowing spheres. Now, these two girls--Saki Hyuuga, ace pitcher on the school softball team; and Mai Mishou, who prefers sketching over stargazing--are chosen by the spirits of flowers (Flappy) and birds (Choppy) to restore the Seven Fountains and save their worlds from Dark Autumn. Together, they are the NEW Pretty Cure.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2006,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1415,
+      "type": "anime",
+      "name": "Asahi Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/7534l.webp",
+  "trailer_url": null,
+  "id": 1534,
+  "slug": "futari-wa-precure-splash-star"
 }

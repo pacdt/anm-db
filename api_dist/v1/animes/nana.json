@@ -1,18 +1,51 @@
 {
-  "id": 877,
-  "slug": "nana",
-  "type": "legendado",
+  "mal_id": 877,
+  "url": "https://myanimelist.net/anime/877/Nana",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/11232.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/11232t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/11232l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/11232.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/11232t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/11232l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/NtXI90cMN10?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nana"
+    },
+    {
+      "type": "Japanese",
+      "title": "NANA [ナナ]"
+    },
+    {
+      "type": "English",
+      "title": "Nana"
+    }
+  ],
   "title": "Nana",
   "title_english": "Nana",
   "title_japanese": "NANA [ナナ]",
-  "image": "https://cdn.myanimelist.net/images/anime/2/11232l.webp",
-  "score": 8.57,
-  "synopsis": "Departing from their respective hometowns, two young women with identical names are brought together in their pursuit of new beginnings. With their hearts set on going to Tokyo, Nana Komatsu dreams about blissful love, while Nana Osaki aims for a successful music career.\n\nThe former has a cheerful and friendly nature, but her naivety has steered her romantic life astray until she meets her dependable boyfriend—Shouji Endo. Without letting herself be dismayed by Shouji's decision to study in Tokyo, Nana works hard to earn enough money and follow him there. Meanwhile, her namesake is a solitary punk vocalist whose impassioned romance with her band's bassist, Ren Honjou, comes to a sudden end. Though heartbroken, Nana bravely looks forward and travels to the capital with the ambition of becoming a recognized artist.\n\nShortly after they arrive in Tokyo, the girls cross paths again due to an unexpected coincidence that ultimately leads them to live under the same roof. As they grow closer, the two strive to support one another amid their struggles to forge a future for themselves.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/NtXI90cMN10?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -249,5 +282,121 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz7oioELQ0pUFuyrp_7rm8wEEooQ_ULL2vx9TTD3YsloFWsSmloIo_Rdqq_-9Fnuk4c8LFLVNp9HkaJybOtQWVx1UpR_PH1xFloC3PwNyTusgdMbpAv9GXyYeOMMnsH51pZ_lC4",
       "nome": "Fireworks Display, Hachi and Nana"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-04-05T00:00:00+00:00",
+    "to": "2007-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2006
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2007
+      }
+    },
+    "string": "Apr 5, 2006 to Mar 28, 2007"
+  },
+  "duration": "22 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 8.57,
+  "scored_by": 294625,
+  "rank": 117,
+  "popularity": 296,
+  "members": 761305,
+  "favorites": 34533,
+  "synopsis": "Departing from their respective hometowns, two young women with identical names are brought together in their pursuit of new beginnings. With their hearts set on going to Tokyo, Nana Komatsu dreams about blissful love, while Nana Osaki aims for a successful music career.\n\nThe former has a cheerful and friendly nature, but her naivety has steered her romantic life astray until she meets her dependable boyfriend—Shouji Endo. Without letting herself be dismayed by Shouji's decision to study in Tokyo, Nana works hard to earn enough money and follow him there. Meanwhile, her namesake is a solitary punk vocalist whose impassioned romance with her band's bassist, Ren Honjou, comes to a sudden end. Though heartbroken, Nana bravely looks forward and travels to the capital with the ambition of becoming a recognized artist.\n\nShortly after they arrive in Tokyo, the girls cross paths again due to an unexpected coincidence that ultimately leads them to live under the same roof. As they grow closer, the two strive to support one another amid their struggles to forge a future for themselves.\n\n[Written by MAL Rewrite]",
+  "background": "After the release of the first episode on April 5, 2006, Nana's highest TV rating was 6.3% in the Kanto region, making it the first late-night anime to reach the top 10 of the weekly audience ranking. In Japan, VAP published 17 DVDs of the series between July 7, 2006 and November 21, 2007. In North America, four DVD box sets were released by Viz Media from September 2009 to April 2010. The company also released an English dub version, which premiered on the Funimation Channel on September 19, 2009. Sentai Filmworks licensed the series in 2021 after Viz Media lost its rights. Nana inspired a couple of tribute albums, the most notable of them being \"Love for Nana - Only 1 Tribute,\" which was released by EMI Music Japan on March 16, 2005.",
+  "season": "spring",
+  "year": 2006,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "23:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 23:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/2/11232l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/NtXI90cMN10?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 877,
+  "slug": "nana"
 }

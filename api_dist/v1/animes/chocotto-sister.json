@@ -1,20 +1,53 @@
 {
-  "id": 1219,
-  "slug": "chocotto-sister",
-  "type": "legendado",
+  "mal_id": 1219,
+  "url": "https://myanimelist.net/anime/1219/Chocotto_Sister",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/16825.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/16825t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/16825l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/16825.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/16825t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/16825l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chocotto Sister"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chokotto Sister"
+    },
+    {
+      "type": "Japanese",
+      "title": "ちょこッとSister"
+    }
+  ],
   "title": "Chocotto Sister",
   "title_english": "Chocotto Sister",
   "title_japanese": "ちょこッとSister",
-  "image": "https://cdn.myanimelist.net/images/anime/7/16825l.webp",
-  "score": 6.74,
-  "synopsis": "Haruma Kawagoe is an only child. A long time ago, at Christmas time, his mother miscarried the child that was to have been his baby sister. That night, young Haruma knelt down and offered up an earnest prayer: \"Please make my mother well again, and please give me a little sister.\" Years have passed, and Haruma has nearly forgotten his prayer. But Santa hasn't.... one Christmas, when Haruma is least expecting it, he gets an unusual present - his sister.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Chokotto Sister"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -136,5 +169,72 @@
       "url": "https://lightspeedst.net/s4/mp4/chocotto-sister/sd/24.mp4",
       "nome": "Happy Christmas"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-07-12T00:00:00+00:00",
+    "to": "2006-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 7,
+        "year": 2006
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2006
+      }
+    },
+    "string": "Jul 12, 2006 to Dec 20, 2006"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.74,
+  "scored_by": 9019,
+  "rank": 5894,
+  "popularity": 5108,
+  "members": 22794,
+  "favorites": 40,
+  "synopsis": "Haruma Kawagoe is an only child. A long time ago, at Christmas time, his mother miscarried the child that was to have been his baby sister. That night, young Haruma knelt down and offered up an earnest prayer: \"Please make my mother well again, and please give me a little sister.\" Years have passed, and Haruma has nearly forgotten his prayer. But Santa hasn't.... one Christmas, when Haruma is least expecting it, he gets an unusual present - his sister.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2006,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Nomad",
+      "url": "https://myanimelist.net/anime/producer/70/Nomad"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/16825l.webp",
+  "trailer_url": null,
+  "id": 1219,
+  "slug": "chocotto-sister"
 }

@@ -1,20 +1,63 @@
 {
-  "id": 34542,
-  "slug": "inuyashiki",
-  "type": "legendado",
+  "mal_id": 34542,
+  "url": "https://myanimelist.net/anime/34542/Inuyashiki",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/88471.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/88471t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/88471l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/88471.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/88471t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/88471l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/BEQe5xvsv8w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Inuyashiki"
+    },
+    {
+      "type": "Japanese",
+      "title": "いぬやしき"
+    },
+    {
+      "type": "English",
+      "title": "Inuyashiki: Last Hero"
+    },
+    {
+      "type": "German",
+      "title": "Inuyashiki Last Hero"
+    },
+    {
+      "type": "Spanish",
+      "title": "Inuyashiki: Last Hero"
+    },
+    {
+      "type": "French",
+      "title": "Inuyashiki le Dernier Héros"
+    }
+  ],
   "title": "Inuyashiki",
   "title_english": "Inuyashiki: Last Hero",
   "title_japanese": "いぬやしき",
-  "image": "https://cdn.myanimelist.net/images/anime/7/88471l.webp",
-  "score": 7.63,
-  "synopsis": "Ichirou Inuyashiki is a 58-year-old family man who is going through a difficult time in his life. Though his frequent back problems are painful, nothing hurts quite as much as the indifference and distaste that his wife and children have for him. Despite this, Ichirou still manages to find solace in Hanako, an abandoned Shiba Inu that he adopts into his home. However, his life takes a turn for the worse when a follow-up physical examination reveals that Ichirou has stomach cancer and only three months to live; though he tries to be strong, his family's disinterest causes an emotional breakdown. Running off into a nearby field, Ichirou embraces his dog and weeps—until he notices a strange figure standing before him.\n\nSuddenly, a bright light appears and Ichirou is enveloped by smoke and dust. When he comes to, he discovers something is amiss—he has been reborn as a mechanized weapon wearing the skin of his former self. Though initially shocked, the compassionate Ichirou immediately uses his newfound powers to save a life, an act of kindness that fills him with happiness and newfound hope.\n\nHowever, the origins of these strange powers remain unclear. Who was the mysterious figure at the site of the explosion, and are they as kind as Ichirou when it comes to using this dangerous gift?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/BEQe5xvsv8w?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Sci-Fi",
-    "Suspense"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -71,5 +114,116 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxpJyt5Ijg_TSWg-mtc_TDID-Iw9m51OYL-9m5Bm1qSGvmKvUM1uoIWFjQ_Fef247jBVJE1_7octnbkUTeQps9BJG8ZYfR7_k7TVhqhmRQEVPDsczXq4rCM2P033TgQM3kSuCjg",
       "nome": "People of Earth"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-10-13T00:00:00+00:00",
+    "to": "2017-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 2017
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2017
+      }
+    },
+    "string": "Oct 13, 2017 to Dec 22, 2017"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.63,
+  "scored_by": 334433,
+  "rank": 1547,
+  "popularity": 336,
+  "members": 694908,
+  "favorites": 4046,
+  "synopsis": "Ichirou Inuyashiki is a 58-year-old family man who is going through a difficult time in his life. Though his frequent back problems are painful, nothing hurts quite as much as the indifference and distaste that his wife and children have for him. Despite this, Ichirou still manages to find solace in Hanako, an abandoned Shiba Inu that he adopts into his home. However, his life takes a turn for the worse when a follow-up physical examination reveals that Ichirou has stomach cancer and only three months to live; though he tries to be strong, his family's disinterest causes an emotional breakdown. Running off into a nearby field, Ichirou embraces his dog and weeps—until he notices a strange figure standing before him.\n\nSuddenly, a bright light appears and Ichirou is enveloped by smoke and dust. When he comes to, he discovers something is amiss—he has been reborn as a mechanized weapon wearing the skin of his former self. Though initially shocked, the compassionate Ichirou immediately uses his newfound powers to save a life, an act of kindness that fills him with happiness and newfound hope.\n\nHowever, the origins of these strange powers remain unclear. Who was the mysterious figure at the site of the explosion, and are they as kind as Ichirou when it comes to using this dangerous gift?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 1671,
+      "type": "anime",
+      "name": "DMM pictures",
+      "url": "https://myanimelist.net/anime/producer/1671/DMM_pictures"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 569,
+      "type": "anime",
+      "name": "MAPPA",
+      "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/88471l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/BEQe5xvsv8w?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34542,
+  "slug": "inuyashiki"
 }

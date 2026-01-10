@@ -1,20 +1,58 @@
 {
-  "id": 991,
-  "slug": "usagi-chan-de-cue",
-  "type": "legendado",
+  "mal_id": 991,
+  "url": "https://myanimelist.net/anime/991/Usagi-chan_de_Cue",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/2999.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/2999t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/2999l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/2999.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/2999t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/2999l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Usagi-chan de Cue!!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Usagichan"
+    },
+    {
+      "type": "Synonym",
+      "title": "It's my rabbit and it's Cue!"
+    },
+    {
+      "type": "Japanese",
+      "title": "うさぎちゃんで ＣＵＥ!!"
+    }
+  ],
   "title": "Usagi-chan de Cue!!",
   "title_english": "Usagi-chan de Cue!!",
   "title_japanese": "うさぎちゃんで ＣＵＥ!!",
-  "image": "https://cdn.myanimelist.net/images/anime/12/2999l.webp",
-  "score": 5.57,
-  "synopsis": "Mikami Inaba was fighting a person from another school on her school's rooftop. As they fought, her friend Haru appeared. Seeing Mikami distracted, the man charged at her, causing both of them to break the nearby rabbit cages &amp; fall off the roof. As Mikami fell, she desperately grabbed the rabbit. Suddenly, a flash or pink light appeared. Mikami fused with the rabbit, and gained another personality, called Mimika. Now, Mikami only appears when various people threaten her and her friends. Otherwise, she takes on the form of Mimika.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Usagichan",
+    "It's my rabbit and it's Cue!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -28,5 +66,79 @@
       "numero": 3,
       "url": "https://lightspeedst.net/s2/mp4/usagi-chan-de-cue/sd/3.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-11-09T00:00:00+00:00",
+    "to": "2002-04-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 11,
+        "year": 2001
+      },
+      "to": {
+        "day": 26,
+        "month": 4,
+        "year": 2002
+      }
+    },
+    "string": "Nov 9, 2001 to Apr 26, 2002"
+  },
+  "duration": "26 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.57,
+  "scored_by": 3129,
+  "rank": 12475,
+  "popularity": 7483,
+  "members": 8829,
+  "favorites": 10,
+  "synopsis": "Mikami Inaba was fighting a person from another school on her school's rooftop. As they fought, her friend Haru appeared. Seeing Mikami distracted, the man charged at her, causing both of them to break the nearby rabbit cages &amp; fall off the roof. As Mikami fell, she desperately grabbed the rabbit. Suddenly, a flash or pink light appeared. Mikami fused with the rabbit, and gained another personality, called Mimika. Now, Mikami only appears when various people threaten her and her friends. Otherwise, she takes on the form of Mimika.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 45,
+      "type": "anime",
+      "name": "Pink Pineapple",
+      "url": "https://myanimelist.net/anime/producer/45/Pink_Pineapple"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 462,
+      "type": "anime",
+      "name": "Chaos Project",
+      "url": "https://myanimelist.net/anime/producer/462/Chaos_Project"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/2999l.webp",
+  "trailer_url": null,
+  "id": 991,
+  "slug": "usagi-chan-de-cue"
 }

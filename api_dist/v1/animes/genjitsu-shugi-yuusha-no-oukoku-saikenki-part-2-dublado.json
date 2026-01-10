@@ -1,19 +1,62 @@
 {
-  "id": 49930,
-  "slug": "genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2-dublado",
-  "type": "dublado",
+  "mal_id": 49930,
+  "url": "https://myanimelist.net/anime/49930/Genjitsu_Shugi_Yuusha_no_Oukoku_Saikenki_Part_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1088/120068.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1088/120068t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1088/120068l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1088/120068.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1088/120068t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1088/120068l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/cAepP-zxzBM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Re:Construction the Elfrieden Kingdom Tales of Realistic Brave"
+    },
+    {
+      "type": "Synonym",
+      "title": "A Realist Hero's Kingdom Restoration Chronicle"
+    },
+    {
+      "type": "Japanese",
+      "title": "現実主義勇者の王国再建記"
+    },
+    {
+      "type": "English",
+      "title": "How a Realist Hero Rebuilt the Kingdom Part 2"
+    }
+  ],
   "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
   "title_english": "How a Realist Hero Rebuilt the Kingdom Part 2",
   "title_japanese": "現実主義勇者の王国再建記",
-  "image": "https://cdn.myanimelist.net/images/anime/1088/120068l.webp",
-  "score": 7.43,
-  "synopsis": "Together with his talented aides, the \"Realist Hero\" Kazuya Souma continues his quest of reinvigorating the Elfrieden Kingdom through administrative reform. Having successfully conquered Van—the capital city of the Principality of Amidonia—Kazuya now faces the envoy from Gran Chaos Empire, who wishes to impose punishment for breaching the ban on war established by the Mankind Declaration Treaty. Despite the dire situation, Kazuya sees a path to avoid unnecessary conflict whilst gaining new allies. With his plan being seemingly perfect, the only barrier to success is gaining approval from the envoy.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/cAepP-zxzBM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Re:Construction the Elfrieden Kingdom Tales of Realistic Brave",
+    "A Realist Hero's Kingdom Restoration Chronicle"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +118,127 @@
       "url": "https://lightspeedst.net/s1/mp4/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2-dublado/hd/12.mp4",
       "nome": "Know Your Enemy and Know Yourself, and Your Union Shall Not Be Endangered"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-01-09T00:00:00+00:00",
+    "to": "2022-04-03T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2022
+      },
+      "to": {
+        "day": 3,
+        "month": 4,
+        "year": 2022
+      }
+    },
+    "string": "Jan 9, 2022 to Apr 3, 2022"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.43,
+  "scored_by": 151840,
+  "rank": 2333,
+  "popularity": 925,
+  "members": 292593,
+  "favorites": 1447,
+  "synopsis": "Together with his talented aides, the \"Realist Hero\" Kazuya Souma continues his quest of reinvigorating the Elfrieden Kingdom through administrative reform. Having successfully conquered Van—the capital city of the Principality of Amidonia—Kazuya now faces the envoy from Gran Chaos Empire, who wishes to impose punishment for breaching the ban on war established by the Mankind Declaration Treaty. Despite the dire situation, Kazuya sees a path to avoid unnecessary conflict whilst gaining new allies. With his plan being seemingly perfect, the only barrier to success is gaining approval from the envoy.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2022,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 1443,
+      "type": "anime",
+      "name": "Overlap",
+      "url": "https://myanimelist.net/anime/producer/1443/Overlap"
+    },
+    {
+      "mal_id": 2408,
+      "type": "anime",
+      "name": "WOWMAX",
+      "url": "https://myanimelist.net/anime/producer/2408/WOWMAX"
+    },
+    {
+      "mal_id": 2797,
+      "type": "anime",
+      "name": "MIGHTY MEDIA",
+      "url": "https://myanimelist.net/anime/producer/2797/MIGHTY_MEDIA"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1088/120068l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/cAepP-zxzBM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 49930,
+  "slug": "genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2-dublado"
 }

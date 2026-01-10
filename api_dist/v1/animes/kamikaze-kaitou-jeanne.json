@@ -1,20 +1,58 @@
 {
-  "id": 142,
-  "slug": "kamikaze-kaitou-jeanne",
-  "type": "legendado",
+  "mal_id": 142,
+  "url": "https://myanimelist.net/anime/142/Kamikaze_Kaitou_Jeanne",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/20389.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/20389t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/20389l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/20389.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/20389t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/20389l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kamikaze Kaitou Jeanne"
+    },
+    {
+      "type": "Synonym",
+      "title": "Phantom Thief Jeanne"
+    },
+    {
+      "type": "Synonym",
+      "title": "Divine Wind Thief Jeanne"
+    },
+    {
+      "type": "Japanese",
+      "title": "神風怪盗ジャンヌ"
+    }
+  ],
   "title": "Kamikaze Kaitou Jeanne",
   "title_english": "Kamikaze Kaitou Jeanne",
   "title_japanese": "神風怪盗ジャンヌ",
-  "image": "https://cdn.myanimelist.net/images/anime/5/20389l.webp",
-  "score": 7.47,
-  "synopsis": "A normal looking high school girl on the outside, Kusakabe Maron is actually the reincarnation of Jeanne d' Arc. With the help of the angel, Fin Fish, Maron works as the thief Jeanne at night to seal the demons that reside in pieces of artwork, preying upon the weak hearts of the owners. She is branded as a thief due to the fact that the artworks disappear after she seals the demons. One day, a new neighbor and classmate appears, as well as a rival in her night job, the thief Sinbad. With her own best friend being the detective's daughter, out to capture her and the appearance of her new rival, Maron's work is anything but easy.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Drama",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Phantom Thief Jeanne",
+    "Divine Wind Thief Jeanne"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -236,5 +274,104 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dylScLRnp-Q8bxZR-l1R3RKn6qBjjWHvWtd8aF8cLdoW_YBnxmRSgtkSoQfJuMrz_Nk_DRqSbFcl_ot7THESQRxAwJbmUlRFMcm4_QKgg0XgBeyWBaR4W9zkAjbVbscwO9WRUk",
       "nome": "You, Become God's Wind!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1999-02-13T00:00:00+00:00",
+    "to": "2000-01-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 2,
+        "year": 1999
+      },
+      "to": {
+        "day": 29,
+        "month": 1,
+        "year": 2000
+      }
+    },
+    "string": "Feb 13, 1999 to Jan 29, 2000"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.47,
+  "scored_by": 29852,
+  "rank": 2168,
+  "popularity": 3148,
+  "members": 60612,
+  "favorites": 556,
+  "synopsis": "A normal looking high school girl on the outside, Kusakabe Maron is actually the reincarnation of Jeanne d' Arc. With the help of the angel, Fin Fish, Maron works as the thief Jeanne at night to seal the demons that reside in pieces of artwork, preying upon the weak hearts of the owners. She is branded as a thief due to the fact that the artworks disappear after she seals the demons. One day, a new neighbor and classmate appears, as well as a rival in her night job, the thief Sinbad. With her own best friend being the detective's daughter, out to capture her and the appearance of her new rival, Maron's work is anything but easy.",
+  "background": "",
+  "season": "winter",
+  "year": 1999,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:28",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:28 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 2292,
+      "type": "anime",
+      "name": "Toei Advertising",
+      "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/5/20389l.webp",
+  "trailer_url": null,
+  "id": 142,
+  "slug": "kamikaze-kaitou-jeanne"
 }

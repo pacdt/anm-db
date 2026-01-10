@@ -1,18 +1,67 @@
 {
-  "id": 1288,
-  "slug": "kidou-keisatsu-patlabor",
-  "type": "legendado",
+  "mal_id": 1288,
+  "url": "https://myanimelist.net/anime/1288/Kidou_Keisatsu_Patlabor",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/24151.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/24151t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/24151l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/24151.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/24151t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/24151l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HHolkn-PKn4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kidou Keisatsu Patlabor"
+    },
+    {
+      "type": "Synonym",
+      "title": "Patlabor The Mobile Police: The Original Series"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kido Keisatsu Patlabor: Early Days"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mobile Police Patlabor"
+    },
+    {
+      "type": "Japanese",
+      "title": "機動警察パトレイバー"
+    },
+    {
+      "type": "English",
+      "title": "Patlabor: The Mobile Police"
+    }
+  ],
   "title": "Kidou Keisatsu Patlabor",
   "title_english": "Patlabor: The Mobile Police",
   "title_japanese": "機動警察パトレイバー",
-  "image": "https://cdn.myanimelist.net/images/anime/11/24151l.webp",
-  "score": 7.26,
-  "synopsis": "As the human race evolves, so does its technology. Engineers have successfully created robots dubbed \"Labors\" for mass distribution, utilized by society for a number of everyday tasks. However, there are criminals who manage to get their hands on these Labors, using them for their own nefarious means.\n\nTo combat this new form of delinquency, police around the world begin using \"Patrol Labors\" or \"Patlabors\" to put a stop to Labor-related crimes. Rookie police officer Noa Izumi is drafted into a special Patlabor unit, getting her own mechanical suit to fight crime. Naming this machine Alphonse, Izumi works tirelessly alongside her peers to keep civilization safe from those who would use this advanced technology to harm others.\n\nAs Izumi becomes further ingrained within her unit, she must also learn how to navigate both her social and professional spheres with grace and wit. She befriends the aloof Asuma Shinohara, fellow pilot Isao Oota, and the other members of her brigade as she helps them to combat conspiratorial plots, workplace revolts, and supernatural beings.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/HHolkn-PKn4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Patlabor The Mobile Police: The Original Series",
+    "Kido Keisatsu Patlabor: Early Days",
+    "Mobile Police Patlabor"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -49,5 +98,114 @@
       "url": "https://lightspeedst.net/s4/mp4/kidou-keisatsu-patlabor/sd/7.mp4",
       "nome": "Go North, SV2!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1988-04-25T00:00:00+00:00",
+    "to": "1989-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 4,
+        "year": 1988
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 1989
+      }
+    },
+    "string": "Apr 25, 1988 to Jun 25, 1989"
+  },
+  "duration": "28 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.26,
+  "scored_by": 15782,
+  "rank": 3171,
+  "popularity": 3782,
+  "members": 43929,
+  "favorites": 246,
+  "synopsis": "As the human race evolves, so does its technology. Engineers have successfully created robots dubbed \"Labors\" for mass distribution, utilized by society for a number of everyday tasks. However, there are criminals who manage to get their hands on these Labors, using them for their own nefarious means.\n\nTo combat this new form of delinquency, police around the world begin using \"Patrol Labors\" or \"Patlabors\" to put a stop to Labor-related crimes. Rookie police officer Noa Izumi is drafted into a special Patlabor unit, getting her own mechanical suit to fight crime. Naming this machine Alphonse, Izumi works tirelessly alongside her peers to keep civilization safe from those who would use this advanced technology to harm others.\n\nAs Izumi becomes further ingrained within her unit, she must also learn how to navigate both her social and professional spheres with grace and wit. She befriends the aloof Asuma Shinohara, fellow pilot Isao Oota, and the other members of her brigade as she helps them to combat conspiratorial plots, workplace revolts, and supernatural beings.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 230,
+      "type": "anime",
+      "name": "Bandai",
+      "url": "https://myanimelist.net/anime/producer/230/Bandai"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 284,
+      "type": "anime",
+      "name": "Central Park Media",
+      "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+    },
+    {
+      "mal_id": 490,
+      "type": "anime",
+      "name": "Maiden Japan",
+      "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/24151l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/HHolkn-PKn4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1288,
+  "slug": "kidou-keisatsu-patlabor"
 }

@@ -1,19 +1,89 @@
 {
-  "id": 2001,
-  "slug": "tengen-toppa-gurren-lagann",
-  "type": "legendado",
+  "mal_id": 2001,
+  "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/5123t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/5123t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/rAQylCHv8Cw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tengen Toppa Gurren Lagann"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tengen Toppa Gurren-Lagann"
+    },
+    {
+      "type": "Synonym",
+      "title": "Making Break-Through Gurren Lagann"
+    },
+    {
+      "type": "Synonym",
+      "title": "Heavenly Breakthrough Gurren Lagann"
+    },
+    {
+      "type": "Synonym",
+      "title": "TTGL"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gurren Laggan"
+    },
+    {
+      "type": "Japanese",
+      "title": "天元突破グレンラガン"
+    },
+    {
+      "type": "English",
+      "title": "Gurren Lagann"
+    },
+    {
+      "type": "German",
+      "title": "Gurren Lagann"
+    },
+    {
+      "type": "Spanish",
+      "title": "Gurren Lagann"
+    },
+    {
+      "type": "French",
+      "title": "Gurren Lagann"
+    }
+  ],
   "title": "Tengen Toppa Gurren Lagann",
   "title_english": "Gurren Lagann",
   "title_japanese": "天元突破グレンラガン",
-  "image": "https://cdn.myanimelist.net/images/anime/4/5123l.webp",
-  "score": 8.64,
-  "synopsis": "Simon and Kamina were born and raised in a deep, underground village, hidden from the fabled surface. Kamina is a free-spirited loose cannon bent on making a name for himself, while Simon is a timid young boy with no real aspirations. One day while excavating the earth, Simon stumbles upon a mysterious object that turns out to be the ignition key to an ancient artifact of war, which the duo dubs Lagann. Using their new weapon, Simon and Kamina fend off a surprise attack from the surface with the help of Yoko Littner, a hot-blooded redhead wielding a massive gun who wanders the world above.\n\nIn the aftermath of the battle, the sky is now in plain view, prompting Simon and Kamina to set off on a journey alongside Yoko to explore the wastelands of the surface. Soon, they join the fight against the \"Beastmen,\" humanoid creatures that terrorize the remnants of humanity in powerful robots called \"Gunmen.\" Although they face some challenges and setbacks, the trio bravely fights these new enemies alongside other survivors to reclaim the surface, while slowly unraveling a galaxy-sized mystery.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/rAQylCHv8Cw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Award Winning",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Tengen Toppa Gurren-Lagann",
+    "Making Break-Through Gurren Lagann",
+    "Heavenly Breakthrough Gurren Lagann",
+    "TTGL",
+    "Gurren Laggan"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -150,5 +220,127 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyrrLkeQdbBGGGoTkEi0qxGSeXgtort9JbR7p8go2XcFbQI2pGVwykDOPxHKx3DoyMuyu4UX4jBgeAJ3Lw-MG3eQDRHiOGZQ8O_c5WqSSC-4JmPSu0RgerXypmuxx6nEjbKogmO",
       "nome": "The Lights in the Sky Are Stars"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-01T00:00:00+00:00",
+    "to": "2007-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 1, 2007 to Sep 30, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.64,
+  "scored_by": 961591,
+  "rank": 86,
+  "popularity": 65,
+  "members": 1737144,
+  "favorites": 83666,
+  "synopsis": "Simon and Kamina were born and raised in a deep, underground village, hidden from the fabled surface. Kamina is a free-spirited loose cannon bent on making a name for himself, while Simon is a timid young boy with no real aspirations. One day while excavating the earth, Simon stumbles upon a mysterious object that turns out to be the ignition key to an ancient artifact of war, which the duo dubs Lagann. Using their new weapon, Simon and Kamina fend off a surprise attack from the surface with the help of Yoko Littner, a hot-blooded redhead wielding a massive gun who wanders the world above.\n\nIn the aftermath of the battle, the sky is now in plain view, prompting Simon and Kamina to set off on a journey alongside Yoko to explore the wastelands of the surface. Soon, they join the fight against the \"Beastmen,\" humanoid creatures that terrorize the remnants of humanity in powerful robots called \"Gunmen.\" Although they face some challenges and setbacks, the trio bravely fights these new enemies alongside other survivors to reclaim the surface, while slowly unraveling a galaxy-sized mystery.\n\n[Written by MAL Rewrite]",
+  "background": "Gurren Lagann received widespread critical acclaim since its release. The series received an Excellence Prize at the 2007 Japan Media Arts Festival. Its director Hiroyuki Imaishi received an individual award for \"Personal Best\" at the 12th Animation Kobe Festival that same year for his work on the series. In 2008, during the 7th annual Tokyo Anime Awards held at the Tokyo International Anime Fair, Gurren Lagann won the \"Best Television Production\" award. In addition, the \"Best Character Design\" award was given to the character designer Atsushi Nishigori for his work on the anime.",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 85,
+      "type": "anime",
+      "name": "Konami",
+      "url": "https://myanimelist.net/anime/producer/85/Konami"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 230,
+      "type": "anime",
+      "name": "Bandai",
+      "url": "https://myanimelist.net/anime/producer/230/Bandai"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    },
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Award Winning",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/5123l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/rAQylCHv8Cw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 2001,
+  "slug": "tengen-toppa-gurren-lagann"
 }

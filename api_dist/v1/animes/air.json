@@ -1,19 +1,51 @@
 {
-  "id": 101,
-  "slug": "air",
-  "type": "legendado",
+  "mal_id": 101,
+  "url": "https://myanimelist.net/anime/101/Air",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1825/146531.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1825/146531t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1825/146531l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1825/146531.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1825/146531t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1825/146531l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/9oTsWYOUZHU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Air"
+    },
+    {
+      "type": "Japanese",
+      "title": "AIR"
+    },
+    {
+      "type": "English",
+      "title": "Air"
+    }
+  ],
   "title": "Air",
   "title_english": "Air",
   "title_japanese": "AIR",
-  "image": "https://cdn.myanimelist.net/images/anime/1825/146531l.webp",
-  "score": 7.27,
-  "synopsis": "Yukito Kunisaki is on a journey in search of the Winged Maiden who was bound to the sky centuries ago, after hearing an old childhood tale from his mother. As Yukito shows his puppet show to people in an attempt to make some money, he finds himself in a small town in which he did not expect to stay very long. However, when he meets an unusual girl named Misuzu, things take a drastic turn as he is invited to stay with her.\n\nBy staying in the quaint town, Yukito soon becomes friends with the locals. As he gets to know them better, he learns of their problems and decides to help, putting his search for the Winged Maiden on hold. With his search on hold, and his growing attachment to Misuzu and the small town, will Yukito ever find the Winged Maiden, or is she closer than he thought?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/9oTsWYOUZHU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +111,96 @@
       "numero": 13,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxn2l3pqC3sT2hQZthx2J68BZp2czlMqHE62zaGxZJuu2Z_9Xpy4qQcqMpKQIoD_j6QcWyDCi2khmm_0pS0qZ5zWTwy6w75zpFeCyGOvJ-0EtF0dbr9SldpfkJd2VWiWAfrge2I"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-01-07T00:00:00+00:00",
+    "to": "2005-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2005
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2005
+      }
+    },
+    "string": "Jan 7, 2005 to Mar 25, 2005"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.27,
+  "scored_by": 158229,
+  "rank": 3121,
+  "popularity": 892,
+  "members": 310229,
+  "favorites": 2718,
+  "synopsis": "Yukito Kunisaki is on a journey in search of the Winged Maiden who was bound to the sky centuries ago, after hearing an old childhood tale from his mother. As Yukito shows his puppet show to people in an attempt to make some money, he finds himself in a small town in which he did not expect to stay very long. However, when he meets an unusual girl named Misuzu, things take a drastic turn as he is invited to stay with her.\n\nBy staying in the quaint town, Yukito soon becomes friends with the locals. As he gets to know them better, he learns of their problems and decides to help, putting his search for the Winged Maiden on hold. With his search on hold, and his growing attachment to Misuzu and the small town, will Yukito ever find the Winged Maiden, or is she closer than he thought?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2005,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1825/146531l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/9oTsWYOUZHU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 101,
+  "slug": "air"
 }

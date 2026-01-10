@@ -1,19 +1,51 @@
 {
-  "id": 275,
-  "slug": "love-love",
-  "type": "legendado",
+  "mal_id": 275,
+  "url": "https://myanimelist.net/anime/275/Love♥Love",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1064/149848.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/149848t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/149848l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1064/149848.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/149848t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/149848l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Love♥Love?"
+    },
+    {
+      "type": "Japanese",
+      "title": "LOVE♥LOVE?"
+    },
+    {
+      "type": "English",
+      "title": "Love♥Love?"
+    }
+  ],
   "title": "Love♥Love?",
   "title_english": "Love♥Love?",
   "title_japanese": "LOVE♥LOVE?",
-  "image": "https://cdn.myanimelist.net/images/anime/1064/149848l.webp",
-  "score": 5.83,
-  "synopsis": "Naoto Ooizumi is the writer of the CosPrayers TV show, although this is a secret known only to the producer of the show, Mitsuki Ikuta. He has a crush on one of the actresses in the show, Natsumi Yagami. As the show proceeds so does their relationship, with many wacky twists and turns along the way. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +108,91 @@
       "numero": 13,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzWmeKrSXWmrEIx8PJpq74MaeVvCiXKRs0-lLL7L6DmsxW3jkLekp8DiZKKbRj6bc-zZ6QeT9sW2IYw_G_yBGSoFp39NpHQkmehDoK4MN8N5vUIEUGYpy8uypApVZn6OV9zxks"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-05-04T00:00:00+00:00",
+    "to": "2004-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 5,
+        "year": 2004
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2004
+      }
+    },
+    "string": "May 4, 2004 to Jun 29, 2004"
+  },
+  "duration": "14 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.83,
+  "scored_by": 10142,
+  "rank": 11290,
+  "popularity": 5050,
+  "members": 23464,
+  "favorites": 13,
+  "synopsis": "Naoto Ooizumi is the writer of the CosPrayers TV show, although this is a secret known only to the producer of the show, Mitsuki Ikuta. He has a crush on one of the actresses in the show, Natsumi Yagami. As the show proceeds so does their relationship, with many wacky twists and turns along the way. \n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "00:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 00:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "m.o.e.",
+      "url": "https://myanimelist.net/anime/producer/40/moe"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 490,
+      "type": "anime",
+      "name": "Maiden Japan",
+      "url": "https://myanimelist.net/anime/producer/490/Maiden_Japan"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Imagin",
+      "url": "https://myanimelist.net/anime/producer/75/Imagin"
+    },
+    {
+      "mal_id": 1383,
+      "type": "anime",
+      "name": "Studio Live",
+      "url": "https://myanimelist.net/anime/producer/1383/Studio_Live"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1064/149848l.webp",
+  "trailer_url": null,
+  "id": 275,
+  "slug": "love-love"
 }

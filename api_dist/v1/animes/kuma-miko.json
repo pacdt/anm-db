@@ -1,17 +1,63 @@
 {
-  "id": 31804,
-  "slug": "kuma-miko",
-  "type": "legendado",
+  "mal_id": 31804,
+  "url": "https://myanimelist.net/anime/31804/Kuma_Miko",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/78863.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/78863t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/78863l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/78863.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/78863t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/78863l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/CiqZUdyrwBk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kuma Miko"
+    },
+    {
+      "type": "Japanese",
+      "title": "くまみこ"
+    },
+    {
+      "type": "English",
+      "title": "Kumamiko: Girl Meets Bear"
+    },
+    {
+      "type": "German",
+      "title": "Kumamiko: Girl Meets Bear"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kumamiko: Girl Meets Bear"
+    },
+    {
+      "type": "French",
+      "title": "Kumamiko: Girl Meets Bear"
+    }
+  ],
   "title": "Kuma Miko",
   "title_english": "Kumamiko: Girl Meets Bear",
   "title_japanese": "くまみこ",
-  "image": "https://cdn.myanimelist.net/images/anime/8/78863l.webp",
-  "score": 6.31,
-  "synopsis": "What does a bear know about life in the big city? For Machi Amayadori's sake, hopefully a lot! The young shrine maiden has spent her whole life in the rural mountains with Natsu, her talking guardian bear. Now, at fourteen, she wants to take a chance and attend high school in the big city. Can Natsu really prepare her for city life? Or will his wacky trials be too much for even Machi to bear?\n\n(Source: FUNimation)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/CiqZUdyrwBk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +119,101 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzeQyW1BVAtB5WibycUtcArryV_FKz6CPPpkibmAjz5sBPX-3mK9uUSUjtrWBex3JQjg2Wr5qPDsMVwcnTY7ndiu3icq80rkGTzMDexNFuTRXp-mRjgA11UPzlJIpmTiwdzEjte",
       "nome": "Decision"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-03T00:00:00+00:00",
+    "to": "2016-06-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 19,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 3, 2016 to Jun 19, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.31,
+  "scored_by": 32268,
+  "rank": 8544,
+  "popularity": 2697,
+  "members": 79505,
+  "favorites": 89,
+  "synopsis": "What does a bear know about life in the big city? For Machi Amayadori's sake, hopefully a lot! The young shrine maiden has spent her whole life in the rural mountains with Natsu, her talking guardian bear. Now, at fourteen, she wants to take a chance and attend high school in the big city. Can Natsu really prepare her for city life? Or will his wacky trials be too much for even Machi to bear?\n\n(Source: FUNimation)",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 737,
+      "type": "anime",
+      "name": "Sony Music Communications",
+      "url": "https://myanimelist.net/anime/producer/737/Sony_Music_Communications"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 290,
+      "type": "anime",
+      "name": "Kinema Citrus",
+      "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+    },
+    {
+      "mal_id": 1264,
+      "type": "anime",
+      "name": "EMT Squared",
+      "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/8/78863l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/CiqZUdyrwBk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31804,
+  "slug": "kuma-miko"
 }

@@ -1,18 +1,57 @@
 {
-  "id": 61159,
-  "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
-  "type": "legendado",
+  "mal_id": 61159,
+  "url": "https://myanimelist.net/anime/61159/Toujima_Tanzaburou_wa_Kamen_Rider_ni_Naritai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1455/152139.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1455/152139t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1455/152139l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1455/152139.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1455/152139t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1455/152139l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/76c3cCV1BcU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tojima Tanzaburo Wants to Be a Masked Rider"
+    },
+    {
+      "type": "Japanese",
+      "title": "東島丹三郎は仮面ライダーになりたい"
+    },
+    {
+      "type": "English",
+      "title": "Tojima Wants to Be a Kamen Rider"
+    }
+  ],
   "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
   "title_english": "Tojima Wants to Be a Kamen Rider",
   "title_japanese": "東島丹三郎は仮面ライダーになりたい",
-  "image": "https://cdn.myanimelist.net/images/anime/1455/152139l.webp",
-  "score": 7.64,
-  "synopsis": "Tanzaburou Toujima has spent his entire life chasing a dream: to become Kamen Rider. Now, at 40, reality has nearly caught up with him, and he's on the verge of letting go of his childhood fantasy.\n\nThat is, until he gets caught up in a crime wave led by the \"Fake Shocker\" gang—turning his long-time dream into something far more dangerous.\n\nWhat starts as a pretend hero's journey quickly becomes something real. The ultimate Kamen Rider fantasy is about to begin!\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/76c3cCV1BcU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy"
+  "title_synonyms": [
+    "Tojima Tanzaburo Wants to Be a Masked Rider"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -77,5 +116,114 @@
       "numero": 13,
       "url": "https://lightspeedst.net/s2/mp4/toujima-tanzaburou-wa-kamen-rider-ni-naritai/hd/13.mp4"
     }
-  ]
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2025-10-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2025
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 5, 2025 to ?"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.64,
+  "scored_by": 7954,
+  "rank": 1522,
+  "popularity": 3735,
+  "members": 44943,
+  "favorites": 148,
+  "synopsis": "Tanzaburou Toujima has spent his entire life chasing a dream: to become Kamen Rider. Now, at 40, reality has nearly caught up with him, and he's on the verge of letting go of his childhood fantasy.\n\nThat is, until he gets caught up in a crime wave led by the \"Fake Shocker\" gang—turning his long-time dream into something far more dangerous.\n\nWhat starts as a pretend hero's journey quickly becomes something real. The ultimate Kamen Rider fantasy is about to begin!\n\n(Source: MAL News)",
+  "background": "",
+  "season": "fall",
+  "year": 2025,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1653,
+      "type": "anime",
+      "name": "Kinoshita Group Holdings",
+      "url": "https://myanimelist.net/anime/producer/1653/Kinoshita_Group_Holdings"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1455/152139l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/76c3cCV1BcU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 61159,
+  "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai"
 }

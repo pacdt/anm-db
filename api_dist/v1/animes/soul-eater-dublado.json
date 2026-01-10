@@ -1,19 +1,51 @@
 {
-  "id": 3588,
-  "slug": "soul-eater-dublado",
-  "type": "dublado",
+  "mal_id": 3588,
+  "url": "https://myanimelist.net/anime/3588/Soul_Eater",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1071/149486.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1071/149486t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1071/149486l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1071/149486.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1071/149486t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1071/149486l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZJyKOEabFdo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Soul Eater"
+    },
+    {
+      "type": "Japanese",
+      "title": "ソウルイーター"
+    },
+    {
+      "type": "English",
+      "title": "Soul Eater"
+    }
+  ],
   "title": "Soul Eater",
   "title_english": "Soul Eater",
   "title_japanese": "ソウルイーター",
-  "image": "https://cdn.myanimelist.net/images/anime/1071/149486l.webp",
-  "score": 7.85,
-  "synopsis": "Death City is home to the famous Death Weapon Meister Academy (Shibusen), a technical academy headed by the Shinigami—Lord Death himself. Its mission: to raise Death Scythes for the Shinigami to wield against the many evils of their fantastical world. These Death Scythes, however, are not made from physical weapons; rather, they are born from human hybrids who have the ability to transform their bodies into Demon Weapons, and only after they have consumed the souls of 99 evil beings and one witch's soul.\n\nSoul Eater Evans, a Demon Scythe who only seems to care about what's cool, aims to become a Death Scythe with the help of his straight-laced wielder, or meister, Maka Albarn. The contrasting duo work and study alongside the hot headed Black☆Star and his caring weapon Tsubaki, as well as the Shinigami's own son, Death the Kid, an obsessive-compulsive dual wielder of twin pistols Patty and Liz.\n\nAs they take on missions to collect souls and protect the city from the world's threats, the Shibusen students work together under the snickering sun to become sounder in mind, body, and soul.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ZJyKOEabFdo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -270,5 +302,116 @@
       "url": "https://lightspeedst.net/s1/mp4/soul-eater-dublado/sd/51.mp4",
       "nome": "The Word is Bravery!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-04-07T00:00:00+00:00",
+    "to": "2009-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2008
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2009
+      }
+    },
+    "string": "Apr 7, 2008 to Mar 30, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.85,
+  "scored_by": 893057,
+  "rank": 971,
+  "popularity": 64,
+  "members": 1739236,
+  "favorites": 29686,
+  "synopsis": "Death City is home to the famous Death Weapon Meister Academy (Shibusen), a technical academy headed by the Shinigami—Lord Death himself. Its mission: to raise Death Scythes for the Shinigami to wield against the many evils of their fantastical world. These Death Scythes, however, are not made from physical weapons; rather, they are born from human hybrids who have the ability to transform their bodies into Demon Weapons, and only after they have consumed the souls of 99 evil beings and one witch's soul.\n\nSoul Eater Evans, a Demon Scythe who only seems to care about what's cool, aims to become a Death Scythe with the help of his straight-laced wielder, or meister, Maka Albarn. The contrasting duo work and study alongside the hot headed Black☆Star and his caring weapon Tsubaki, as well as the Shinigami's own son, Death the Kid, an obsessive-compulsive dual wielder of twin pistols Patty and Liz.\n\nAs they take on missions to collect souls and protect the city from the world's threats, the Shibusen students work together under the snickering sun to become sounder in mind, body, and soul.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 3024,
+      "type": "anime",
+      "name": "Fonishia",
+      "url": "https://myanimelist.net/anime/producer/3024/Fonishia"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1071/149486l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ZJyKOEabFdo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 3588,
+  "slug": "soul-eater-dublado"
 }

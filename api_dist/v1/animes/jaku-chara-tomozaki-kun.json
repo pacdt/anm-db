@@ -1,18 +1,70 @@
 {
-  "id": 40530,
-  "slug": "jaku-chara-tomozaki-kun",
-  "type": "legendado",
+  "mal_id": 40530,
+  "url": "https://myanimelist.net/anime/40530/Jaku-Chara_Tomozaki-kun",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1120/109232.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1120/109232t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1120/109232l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1120/109232.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1120/109232t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1120/109232l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xe0BOheaJo4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jaku-Chara Tomozaki-kun"
+    },
+    {
+      "type": "Synonym",
+      "title": "Jakusha Character Tomozaki-kun"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Low Tier Character \"Tomozaki-kun\""
+    },
+    {
+      "type": "Japanese",
+      "title": "弱キャラ友崎くん"
+    },
+    {
+      "type": "English",
+      "title": "Bottom-Tier Character Tomozaki"
+    },
+    {
+      "type": "German",
+      "title": "Bottom-Tier Character Tomozaki"
+    },
+    {
+      "type": "French",
+      "title": "Bottom-Tier Character Tomozaki"
+    }
+  ],
   "title": "Jaku-Chara Tomozaki-kun",
   "title_english": "Bottom-Tier Character Tomozaki",
   "title_japanese": "弱キャラ友崎くん",
-  "image": "https://cdn.myanimelist.net/images/anime/1120/109232l.webp",
-  "score": 7.1,
-  "synopsis": "Fumiya Tomozaki is Japan's best player in the online game Attack Families, commonly known as \"Tackfam.\" Despite holding such a revered title, a lack of social skills and amiability causes him to fall short in his everyday high school life. Failing to have any friends, he blames the convoluted mechanics and unfair rules of life, forcing him to give up and proclaim himself a bottom-tier character in this \"game.\"\n\nAfter a fateful meeting with another top-tier Tackfam player, Fumiya is shocked to discover the player's true identity—Aoi Hinami, a popular, smart, and sociable classmate who is the complete opposite of himself. Aoi, surprised at how inept Fumiya is at everything besides Tackfam, decides to assist him in succeeding in what she calls the greatest game of them all. Through the gruesome ordeals of social interactions and relationships, Fumiya begins to advance tiers in the glorious game of life.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xe0BOheaJo4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Jakusha Character Tomozaki-kun",
+    "The Low Tier Character \"Tomozaki-kun\""
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -82,5 +134,108 @@
       "numero": 14,
       "url": "https://lightspeedst.net/s4/mp4/jaku-chara-tomozaki-kun/fhd/14.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-08T00:00:00+00:00",
+    "to": "2021-03-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 26,
+        "month": 3,
+        "year": 2021
+      }
+    },
+    "string": "Jan 8, 2021 to Mar 26, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.1,
+  "scored_by": 217040,
+  "rank": 4092,
+  "popularity": 599,
+  "members": 433472,
+  "favorites": 2022,
+  "synopsis": "Fumiya Tomozaki is Japan's best player in the online game Attack Families, commonly known as \"Tackfam.\" Despite holding such a revered title, a lack of social skills and amiability causes him to fall short in his everyday high school life. Failing to have any friends, he blames the convoluted mechanics and unfair rules of life, forcing him to give up and proclaim himself a bottom-tier character in this \"game.\"\n\nAfter a fateful meeting with another top-tier Tackfam player, Fumiya is shocked to discover the player's true identity—Aoi Hinami, a popular, smart, and sociable classmate who is the complete opposite of himself. Aoi, surprised at how inept Fumiya is at everything besides Tackfam, decides to assist him in succeeding in what she calls the greatest game of them all. Through the gruesome ordeals of social interactions and relationships, Fumiya begins to advance tiers in the glorious game of life.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "21:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 21:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1883,
+      "type": "anime",
+      "name": "APDREAM",
+      "url": "https://myanimelist.net/anime/producer/1883/APDREAM"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2090,
+      "type": "anime",
+      "name": "Dream Shift",
+      "url": "https://myanimelist.net/anime/producer/2090/Dream_Shift"
+    },
+    {
+      "mal_id": 2441,
+      "type": "anime",
+      "name": "Bergamo",
+      "url": "https://myanimelist.net/anime/producer/2441/Bergamo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 439,
+      "type": "anime",
+      "name": "Project No.9",
+      "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1120/109232l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xe0BOheaJo4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40530,
+  "slug": "jaku-chara-tomozaki-kun"
 }

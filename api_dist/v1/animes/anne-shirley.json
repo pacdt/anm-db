@@ -1,17 +1,51 @@
 {
-  "id": 60334,
-  "slug": "anne-shirley",
-  "type": "legendado",
+  "mal_id": 60334,
+  "url": "https://myanimelist.net/anime/60334/Anne_Shirley",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1564/150049.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1564/150049t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1564/150049l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1564/150049.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1564/150049t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1564/150049l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/GXUaLD071as?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Anne Shirley"
+    },
+    {
+      "type": "Japanese",
+      "title": "アン・シャーリー"
+    },
+    {
+      "type": "English",
+      "title": "Anne Shirley"
+    }
+  ],
   "title": "Anne Shirley",
   "title_english": "Anne Shirley",
   "title_japanese": "アン・シャーリー",
-  "image": "https://cdn.myanimelist.net/images/anime/1564/150049l.webp",
-  "score": 7.87,
-  "synopsis": "Eleven-year-old orphan Anne Shirley has spent her life moving from one family to another, always hoping to find a place where she truly belongs. When she is sent to live with elderly siblings Marilla and Matthew Cuthbert at Green Gables, a quiet farm in the town of Avonlea, it is quickly revealed that she is there by mistake. Having expected a boy able to help out with farm work, the Cuthberts are surprised to instead receive a young girl with a vivid imagination and a flair for the dramatic.\n\nDespite the Cuthberts' initial hesitation, Anne's energy, intelligence, and charm soon win them over. Anne settles into her new life, experiencing many things for the first time—such as attending school and making close friends—as she learns to navigate the joys and challenges of growing up.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/GXUaLD071as?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -133,5 +167,76 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/anne-shirley/24/720p.mp4",
       "nome": "It’s the Birthday of Our Happiness"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-04-05T00:00:00+00:00",
+    "to": "2025-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2025
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2025
+      }
+    },
+    "string": "Apr 5, 2025 to Sep 27, 2025"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.87,
+  "scored_by": 15021,
+  "rank": 943,
+  "popularity": 3485,
+  "members": 50638,
+  "favorites": 288,
+  "synopsis": "Eleven-year-old orphan Anne Shirley has spent her life moving from one family to another, always hoping to find a place where she truly belongs. When she is sent to live with elderly siblings Marilla and Matthew Cuthbert at Green Gables, a quiet farm in the town of Avonlea, it is quickly revealed that she is there by mistake. Having expected a boy able to help out with farm work, the Cuthberts are surprised to instead receive a young girl with a vivid imagination and a flair for the dramatic.\n\nDespite the Cuthberts' initial hesitation, Anne's energy, intelligence, and charm soon win them over. Anne settles into her new life, experiencing many things for the first time—such as attending school and making close friends—as she learns to navigate the joys and challenges of growing up.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 769,
+      "type": "anime",
+      "name": "Fujipacific Music",
+      "url": "https://myanimelist.net/anime/producer/769/Fujipacific_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 229,
+      "type": "anime",
+      "name": "The Answer Studio",
+      "url": "https://myanimelist.net/anime/producer/229/The_Answer_Studio"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1564/150049l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/GXUaLD071as?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60334,
+  "slug": "anne-shirley"
 }

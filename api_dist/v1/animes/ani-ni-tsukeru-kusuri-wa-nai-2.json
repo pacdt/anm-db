@@ -1,17 +1,58 @@
 {
-  "id": 37924,
-  "slug": "ani-ni-tsukeru-kusuri-wa-nai-2",
-  "type": "legendado",
+  "mal_id": 37924,
+  "url": "https://myanimelist.net/anime/37924/Ani_ni_Tsukeru_Kusuri_wa_Nai_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1797/129201.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/129201t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/129201l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1797/129201.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/129201t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/129201l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/co7QD-XN1aU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ani ni Tsukeru Kusuri wa Nai! 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Please Take My Brother Away 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kuai Ba Wo Ge Dai Zou 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "兄に付ける薬はない! 2"
+    }
+  ],
   "title": "Ani ni Tsukeru Kusuri wa Nai! 2",
   "title_english": "Ani ni Tsukeru Kusuri wa Nai! 2",
   "title_japanese": "兄に付ける薬はない! 2",
-  "image": "https://cdn.myanimelist.net/images/anime/1797/129201l.webp",
-  "score": 7.72,
-  "synopsis": "As always, Shi Miao is tired of her brother's ridiculous antics, and Shi Fen can only hope to escape the clutches of his violent sister. With their friends and classmates in tow, the two continue their dysfunctional relationship as reluctant but devoted siblings.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/co7QD-XN1aU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Please Take My Brother Away 2",
+    "Kuai Ba Wo Ge Dai Zou 2"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -133,5 +174,82 @@
       "url": "https://lightspeedst.net/s3/mp4/ani-ni-tsukeru-kusuri-wa-nai-2/hd/24.mp4",
       "nome": "Episode 24"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-09T00:00:00+00:00",
+    "to": "2018-12-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": 17,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Jul 9, 2018 to Dec 17, 2018"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.72,
+  "scored_by": 28015,
+  "rank": 1303,
+  "popularity": 3316,
+  "members": 55189,
+  "favorites": 93,
+  "synopsis": "As always, Shi Miao is tired of her brother's ridiculous antics, and Shi Fen can only hope to escape the clutches of his violent sister. With their friends and classmates in tow, the two continue their dysfunctional relationship as reluctant but devoted siblings.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2018,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 21:54 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 866,
+      "type": "anime",
+      "name": "Fanworks",
+      "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+    },
+    {
+      "mal_id": 1690,
+      "type": "anime",
+      "name": "Imagineer",
+      "url": "https://myanimelist.net/anime/producer/1690/Imagineer"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1797/129201l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/co7QD-XN1aU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37924,
+  "slug": "ani-ni-tsukeru-kusuri-wa-nai-2"
 }

@@ -1,18 +1,51 @@
 {
-  "id": 32454,
-  "slug": "usakame",
-  "type": "legendado",
+  "mal_id": 32454,
+  "url": "https://myanimelist.net/anime/32454/Usakame",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/79223.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/79223t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/79223l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/79223.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/79223t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/79223l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KlGV0E13y9w?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Usakame"
+    },
+    {
+      "type": "Japanese",
+      "title": "うさかめ"
+    },
+    {
+      "type": "English",
+      "title": "Usakame"
+    }
+  ],
   "title": "Usakame",
   "title_english": "Usakame",
   "title_japanese": "うさかめ",
-  "image": "https://cdn.myanimelist.net/images/anime/10/79223l.webp",
-  "score": 5.76,
-  "synopsis": "The girls of the Usakame High tennis club, Tanaka Kinako, Suzuki Ayako, Sato Kurumi, and Nishiarai-Taishi Nishi, pursue their various dreams... This high school comedy kind of thing starts now. Usakame, the official rival of the high intensity comedy Teekyuu, depicts the mostly ordinary but slightly strange daily lives of four girls who devote themselves to practice. All members of Earth Star Dream, an Earth Star Entertainment idol unit of nationally famous voice actors, appear in the show! Sit back, relax, and enjoy Teekyuu's rival Usakame. \n\n(Source: Crunchyroll)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/KlGV0E13y9w?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwwE5vcv6e6wJ65XJ7ad2RASGjwN5OTGnjarWe14R0w6VUoWE8GjlF9R32uIK9YJIdDTKK72gyw3YbavjrmgHb7xbPmM0tCDAFb6PsCN0NrWoHFX9icBiODv29xs73g0CLthip8",
       "nome": "To Gaze Upon an Aureolin Butterfly Alongside Kouhai"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-12T00:00:00+00:00",
+    "to": "2016-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 12, 2016 to Jun 28, 2016"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.76,
+  "scored_by": 6686,
+  "rank": 11673,
+  "popularity": 6178,
+  "members": 14030,
+  "favorites": 8,
+  "synopsis": "The girls of the Usakame High tennis club, Tanaka Kinako, Suzuki Ayako, Sato Kurumi, and Nishiarai-Taishi Nishi, pursue their various dreams... This high school comedy kind of thing starts now. Usakame, the official rival of the high intensity comedy Teekyuu, depicts the mostly ordinary but slightly strange daily lives of four girls who devote themselves to practice. All members of Earth Star Dream, an Earth Star Entertainment idol unit of nationally famous voice actors, appear in the show! Sit back, relax, and enjoy Teekyuu's rival Usakame. \n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 925,
+      "type": "anime",
+      "name": "Earth Star Entertainment",
+      "url": "https://myanimelist.net/anime/producer/925/Earth_Star_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1237,
+      "type": "anime",
+      "name": "Millepensee",
+      "url": "https://myanimelist.net/anime/producer/1237/Millepensee"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/10/79223l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/KlGV0E13y9w?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32454,
+  "slug": "usakame"
 }

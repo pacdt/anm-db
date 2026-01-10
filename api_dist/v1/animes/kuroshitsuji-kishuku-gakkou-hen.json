@@ -1,19 +1,57 @@
 {
-  "id": 55855,
-  "slug": "kuroshitsuji-kishuku-gakkou-hen",
-  "type": "legendado",
+  "mal_id": 55855,
+  "url": "https://myanimelist.net/anime/55855/Kuroshitsuji__Kishuku_Gakkou-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1505/141820.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1505/141820t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1505/141820l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1505/141820.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1505/141820t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1505/141820l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/a-5NVZrsS-0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kuroshitsuji: Kishuku Gakkou-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Black Butler: Public School Edition"
+    },
+    {
+      "type": "Japanese",
+      "title": "黒執事 -寄宿学校編-"
+    },
+    {
+      "type": "English",
+      "title": "Black Butler: Public School Arc"
+    }
+  ],
   "title": "Kuroshitsuji: Kishuku Gakkou-hen",
   "title_english": "Black Butler: Public School Arc",
   "title_japanese": "黒執事 -寄宿学校編-",
-  "image": "https://cdn.myanimelist.net/images/anime/1505/141820l.webp",
-  "score": 7.86,
-  "synopsis": "At the request of Queen Victoria, Earl Ciel Phantomhive goes to Weston College—a prestigious public academy for boys, known for its traditions and outstanding curriculum—to search for a relative of hers who has not returned home in months. Thanks to his noble status, the 13-year-old Ciel is swiftly able to enroll as a student, while his devilish butler Sebastian Michaelis assumes a teaching position at the school. \n\nCiel does not anticipate being unable to locate the Queen's relative on campus. To make matters worse, he cannot request a meeting with the headmaster of the college, who may be the only person that knows anything pertaining to the disappearance. The only ones in frequent contact with the headmaster are the heads of the college dormitories, known as the Prefect 4 (P4): Edgar Redmond, Lawrence Bluewer, Herman Greenhill, and Gregory Violet.\n\nCiel must concoct a plan to get in the P4's good graces if he wants to use their connections to succeed in his mission. But the distinguished college and its students hide much that is unseen, making this task more improbable than he could imagine.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/a-5NVZrsS-0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Mystery",
-    "Supernatural"
+  "title_synonyms": [
+    "Black Butler: Public School Edition"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -70,5 +108,115 @@
       "url": "https://lightspeedst.net/s7/mp4_temp/kuroshitsuji-kishuku-gakkou-hen/11/720p.mp4",
       "nome": "His Butler, Taking Off"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-04-13T00:00:00+00:00",
+    "to": "2024-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 4,
+        "year": 2024
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2024
+      }
+    },
+    "string": "Apr 13, 2024 to Jun 22, 2024"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.86,
+  "scored_by": 37116,
+  "rank": 961,
+  "popularity": 2239,
+  "members": 106066,
+  "favorites": 756,
+  "synopsis": "At the request of Queen Victoria, Earl Ciel Phantomhive goes to Weston College—a prestigious public academy for boys, known for its traditions and outstanding curriculum—to search for a relative of hers who has not returned home in months. Thanks to his noble status, the 13-year-old Ciel is swiftly able to enroll as a student, while his devilish butler Sebastian Michaelis assumes a teaching position at the school. \n\nCiel does not anticipate being unable to locate the Queen's relative on campus. To make matters worse, he cannot request a meeting with the headmaster of the college, who may be the only person that knows anything pertaining to the disappearance. The only ones in frequent contact with the headmaster are the heads of the college dormitories, known as the Prefect 4 (P4): Edgar Redmond, Lawrence Bluewer, Herman Greenhill, and Gregory Violet.\n\nCiel must concoct a plan to get in the P4's good graces if he wants to use their connections to succeed in his mission. But the distinguished college and its students hide much that is unseen, making this task more improbable than he could imagine.\n\n[Written by MAL Rewrite]",
+  "background": "Kuroshitsuji: Kishuku Gakkou-hen was released on Blu-ray and DVD in four volumes from June 26, 2024, to September 25, 2024.",
+  "season": "spring",
+  "year": 2024,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1835,
+      "type": "anime",
+      "name": "CloverWorks",
+      "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1505/141820l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/a-5NVZrsS-0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 55855,
+  "slug": "kuroshitsuji-kishuku-gakkou-hen"
 }

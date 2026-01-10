@@ -1,15 +1,51 @@
 {
-  "id": 19067,
-  "slug": "future-card-buddyfight",
-  "type": "legendado",
+  "mal_id": 19067,
+  "url": "https://myanimelist.net/anime/19067/Future_Card_Buddyfight",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/78797.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/78797t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/78797l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/78797.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/78797t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/78797l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Future Card Buddyfight"
+    },
+    {
+      "type": "Japanese",
+      "title": "フューチャーカード バディファイト"
+    },
+    {
+      "type": "English",
+      "title": "Future Card Buddyfight"
+    }
+  ],
   "title": "Future Card Buddyfight",
   "title_english": "Future Card Buddyfight",
   "title_japanese": "フューチャーカード バディファイト",
-  "image": "https://cdn.myanimelist.net/images/anime/9/78797l.webp",
-  "score": 6.74,
-  "synopsis": "An adaptation of the Future Card Buddyfight card game.\n\nFuture Card Buddyfight takes place in a more futuristic version of today. The card game connects to a parallel universe through special cards (Buddy Rare Cards) that act as portals. They bring monsters to Earth in order for them to become buddies with humans. Through friendship and courage, they take on and fight challenges, known as Buddyfights, where people of all ages have friendly non-hurtful competitions. The main character, Gaou Mikado has just started Buddyfighting. As the story progresses, Buddyfights are seeming to become a little too real...",
-  "trailer_url": null,
-  "genres": [],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Card game",
   "episodes": [
     {
       "numero": 1,
@@ -21,5 +57,80 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzzJqHS-JkzA_IoT_FdcJtJMXnIK-LmnbgrNWUbi9zSfncqvSRTrluT-DFevSHsv3-Mk7IAqH2Udi3JNxatKW_tGUvWPE1lpSPbFyFxflfMqu1mohbP_j3px1cgv5Mp6bPaQok",
       "nome": "Gao vs. Tasuku!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-01-04T00:00:00+00:00",
+    "to": "2015-04-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 2014
+      },
+      "to": {
+        "day": 4,
+        "month": 4,
+        "year": 2015
+      }
+    },
+    "string": "Jan 4, 2014 to Apr 4, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 6.74,
+  "scored_by": 5728,
+  "rank": 5899,
+  "popularity": 6461,
+  "members": 12606,
+  "favorites": 53,
+  "synopsis": "An adaptation of the Future Card Buddyfight card game.\n\nFuture Card Buddyfight takes place in a more futuristic version of today. The card game connects to a parallel universe through special cards (Buddy Rare Cards) that act as portals. They bring monsters to Earth in order for them to become buddies with humans. Through friendship and courage, they take on and fight challenges, known as Buddyfights, where people of all ages have friendly non-hurtful competitions. The main character, Gaou Mikado has just started Buddyfighting. As the story progresses, Buddyfights are seeming to become a little too real...",
+  "background": "",
+  "season": "winter",
+  "year": 2014,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 08:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    },
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/78797l.webp",
+  "trailer_url": null,
+  "id": 19067,
+  "slug": "future-card-buddyfight"
 }

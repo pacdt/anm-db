@@ -1,17 +1,69 @@
 {
-  "id": 38080,
-  "slug": "kono-oto-tomare",
-  "type": "legendado",
+  "mal_id": 38080,
+  "url": "https://myanimelist.net/anime/38080/Kono_Oto_Tomare",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1464/99881.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1464/99881t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1464/99881l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1464/99881.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1464/99881t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1464/99881l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/TtE4mOHXNV0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kono Oto Tomare!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Stop This Sound!"
+    },
+    {
+      "type": "Japanese",
+      "title": "この音とまれ！"
+    },
+    {
+      "type": "English",
+      "title": "Kono Oto Tomare!: Sounds of Life"
+    },
+    {
+      "type": "German",
+      "title": "Kono Oto Tomare!: Sounds of Life"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kono Oto Tomare!: Sounds of Life"
+    },
+    {
+      "type": "French",
+      "title": "Kono Oto Tomare!: Sounds of Life"
+    }
+  ],
   "title": "Kono Oto Tomare!",
   "title_english": "Kono Oto Tomare!: Sounds of Life",
   "title_japanese": "この音とまれ！",
-  "image": "https://cdn.myanimelist.net/images/anime/1464/99881l.webp",
-  "score": 7.94,
-  "synopsis": "Gen Kudou, a koto maker, believes that his delinquent grandson Chika would never understand the profoundness of the traditional musical instrument. In an attempt to make up for his naivety and understand the words of his late grandfather, Chika tries to join the Tokise High School Koto Club. \n\nEven though the club is in dire need of members, new club president Takezou Kurata is unwilling to easily accept Chika's application due to his bad reputation. Nonetheless, after seeing Chika's seriousness and enthusiasm, Takezou allows the problem child to join, along with koto prodigy Satowa Houzuki and three of Chika's energetic friends. Kono Oto Tomare! follows the merry band of musicians as they aspire to play at the national competition.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/TtE4mOHXNV0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama"
+  "title_synonyms": [
+    "Stop This Sound!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +130,138 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzkdxiRoUFh3ekLl5UDwQe0rpCV87UqmqFGD6nEP_i6nafuFjVH5bQL4AmcYl29Ux01Nn-dr5_6_dAIF4nH0EBAa4rhuT9qQU_24UCztx4PGSUQ7yKhGv5veXlq1SthwFR-DWLf",
       "nome": "Kuon"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-04-07T00:00:00+00:00",
+    "to": "2019-06-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2019
+      },
+      "to": {
+        "day": 30,
+        "month": 6,
+        "year": 2019
+      }
+    },
+    "string": "Apr 7, 2019 to Jun 30, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.94,
+  "scored_by": 134987,
+  "rank": 794,
+  "popularity": 780,
+  "members": 344178,
+  "favorites": 2745,
+  "synopsis": "Gen Kudou, a koto maker, believes that his delinquent grandson Chika would never understand the profoundness of the traditional musical instrument. In an attempt to make up for his naivety and understand the words of his late grandfather, Chika tries to join the Tokise High School Koto Club. \n\nEven though the club is in dire need of members, new club president Takezou Kurata is unwilling to easily accept Chika's application due to his bad reputation. Nonetheless, after seeing Chika's seriousness and enthusiasm, Takezou allows the problem child to join, along with koto prodigy Satowa Houzuki and three of Chika's energetic friends. Kono Oto Tomare! follows the merry band of musicians as they aspire to play at the national competition.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2019,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 647,
+      "type": "anime",
+      "name": "Memory-Tech",
+      "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1557,
+      "type": "anime",
+      "name": "Pony Canyon Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1557/Pony_Canyon_Enterprises"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1471,
+      "type": "anime",
+      "name": "Platinum Vision",
+      "url": "https://myanimelist.net/anime/producer/1471/Platinum_Vision"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1464/99881l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/TtE4mOHXNV0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38080,
+  "slug": "kono-oto-tomare"
 }

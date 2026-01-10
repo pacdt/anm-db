@@ -1,24 +1,122 @@
 {
-  "id": 56741,
-  "slug": "temple-specials",
-  "type": "legendado",
+  "mal_id": 56741,
+  "url": "https://myanimelist.net/anime/56741/Temple_Specials",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1927/138733.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/138733t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/138733l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1927/138733.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1927/138733t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1927/138733l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Temple Specials"
+    },
+    {
+      "type": "Japanese",
+      "title": "てんぷる"
+    },
+    {
+      "type": "English",
+      "title": "TenPuru: No One Can Live on Loneliness Specials"
+    }
+  ],
   "title": "Temple Specials",
   "title_english": "TenPuru: No One Can Live on Loneliness Specials",
   "title_japanese": "てんぷる",
-  "image": "https://cdn.myanimelist.net/images/anime/1927/138733l.webp",
-  "score": 6.48,
-  "synopsis": "Specials included in the BD/DVD release of Temple.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s6/mp4/temple-specials/fhd/1.mp4",
       "nome": "No Way, Why Is It So Big..."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-25T00:00:00+00:00",
+    "to": "2023-11-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 22,
+        "month": 11,
+        "year": 2023
+      }
+    },
+    "string": "Oct 25, 2023 to Nov 22, 2023"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.48,
+  "scored_by": 6565,
+  "rank": 7551,
+  "popularity": 6247,
+  "members": 13608,
+  "favorites": 11,
+  "synopsis": "Specials included in the BD/DVD release of Temple.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2554,
+      "type": "anime",
+      "name": "Gekkou",
+      "url": "https://myanimelist.net/anime/producer/2554/Gekkou"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1927/138733l.webp",
+  "trailer_url": null,
+  "id": 56741,
+  "slug": "temple-specials"
 }

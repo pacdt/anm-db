@@ -1,19 +1,67 @@
 {
-  "id": 36824,
-  "slug": "huyao-xiao-hongniang-nan-guo",
-  "type": "legendado",
+  "mal_id": 36824,
+  "url": "https://myanimelist.net/anime/36824/Huyao_Xiao_Hongniang_5__Nan_Guo_Pian",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1739/108980.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1739/108980t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1739/108980l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1739/108980.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1739/108980t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1739/108980l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Huyao Xiao Hongniang 5: Nan Guo Pian"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fox Spirit Matchmaker: Southern Kingdom"
+    },
+    {
+      "type": "Synonym",
+      "title": "​狐妖小红娘 第五季"
+    },
+    {
+      "type": "Synonym",
+      "title": "Huyao Xiao Hongniang 5th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "狐妖小红娘5 南国篇"
+    },
+    {
+      "type": "English",
+      "title": "Fox Spirit Matchmaker 5th Season"
+    }
+  ],
   "title": "Huyao Xiao Hongniang 5: Nan Guo Pian",
   "title_english": "Fox Spirit Matchmaker 5th Season",
   "title_japanese": "狐妖小红娘5 南国篇",
-  "image": "https://cdn.myanimelist.net/images/anime/1739/108980l.webp",
-  "score": 7.32,
-  "synopsis": "Fifth season of Huyao Xiao Hongniang.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Fox Spirit Matchmaker: Southern Kingdom",
+    "​狐妖小红娘 第五季",
+    "Huyao Xiao Hongniang 5th Season"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -119,5 +167,90 @@
       "numero": 26,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwJIPkr8V_z5aPGN6Rhj31fAk082eKYN52Sr85QZU-APEUtVjESZMtWuC2Oc2BN2gmq0RsmdBbl9gcClFkn7lL5B0KgkfpiotbKorwU6XzFQyVou1xPRBEgY-kjPkrSAP54ZASE"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-11-24T00:00:00+00:00",
+    "to": "2018-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 11,
+        "year": 2017
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Nov 24, 2017 to Jun 22, 2018"
+  },
+  "duration": "19 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.32,
+  "scored_by": 2180,
+  "rank": 2843,
+  "popularity": 7772,
+  "members": 7997,
+  "favorites": 16,
+  "synopsis": "Fifth season of Huyao Xiao Hongniang.",
+  "background": "Episodes 64-89 of Huyao Xiao Hongniang.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1325,
+      "type": "anime",
+      "name": "Haoliners Animation",
+      "url": "https://myanimelist.net/anime/producer/1325/Haoliners_Animation"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1739/108980l.webp",
+  "trailer_url": null,
+  "id": 36824,
+  "slug": "huyao-xiao-hongniang-nan-guo"
 }

@@ -1,18 +1,77 @@
 {
-  "id": 40005,
-  "slug": "quanzhi-fashi-4th-season",
-  "type": "legendado",
+  "mal_id": 40005,
+  "url": "https://myanimelist.net/anime/40005/Quanzhi_Fashi_IV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1925/105375.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1925/105375t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1925/105375l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1925/105375.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1925/105375t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1925/105375l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/29ZVPVv7tz8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Quanzhi Fashi IV"
+    },
+    {
+      "type": "Synonym",
+      "title": "Quanzhi Fashi 4th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Quan Zhi Fa Shi 4"
+    },
+    {
+      "type": "Synonym",
+      "title": "Full-Time Magister 4"
+    },
+    {
+      "type": "Synonym",
+      "title": "Versatile Mage"
+    },
+    {
+      "type": "Synonym",
+      "title": "Almighty Mage"
+    },
+    {
+      "type": "Japanese",
+      "title": "全职法师Ⅳ"
+    },
+    {
+      "type": "English",
+      "title": "Full-Time Magister 4th Season"
+    }
+  ],
   "title": "Quanzhi Fashi IV",
   "title_english": "Full-Time Magister 4th Season",
   "title_japanese": "全职法师Ⅳ",
-  "image": "https://cdn.myanimelist.net/images/anime/1925/105375l.webp",
-  "score": 7.3,
-  "synopsis": "The Black Order returns and decides to make its move against Mo Fan during the assessment for advancing to the main campus. To counteract them, Mo Fan trains using the Three Step Pagoda. Later, he is selected to be an exchange student at another university. The exchange program curriculum includes a team fight and a practical test, of which the latter takes place in a city filled with monsters. During all this, the deserters from the defense force put Mo Fan in a predicament, adding to the existing obstacles to his dream of becoming the strongest mage.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/29ZVPVv7tz8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
+  "title_synonyms": [
+    "Quanzhi Fashi 4th Season",
+    "Quan Zhi Fa Shi 4",
+    "Full-Time Magister 4",
+    "Versatile Mage",
+    "Almighty Mage"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -62,5 +121,89 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dznZ9mTxcX1EPJ6A1BjJ7KgbWoHzf4mcSmHBaxqIX4fpsyR9xtwgxhOBQBmEuf0d_c25AUTrQu6l4DpCX3H7BOe6YVPZU53wCXGgxh_ndyssx3MoYA_WPe5knjgsQeF6P_vptQ"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-05-27T00:00:00+00:00",
+    "to": "2020-06-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 5,
+        "year": 2020
+      },
+      "to": {
+        "day": 24,
+        "month": 6,
+        "year": 2020
+      }
+    },
+    "string": "May 27, 2020 to Jun 24, 2020"
+  },
+  "duration": "21 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.3,
+  "scored_by": 19922,
+  "rank": 2946,
+  "popularity": 3735,
+  "members": 44942,
+  "favorites": 91,
+  "synopsis": "The Black Order returns and decides to make its move against Mo Fan during the assessment for advancing to the main campus. To counteract them, Mo Fan trains using the Three Step Pagoda. Later, he is selected to be an exchange student at another university. The exchange program curriculum includes a team fight and a practical test, of which the latter takes place in a city filled with monsters. During all this, the deserters from the defense force put Mo Fan in a predicament, adding to the existing obstacles to his dream of becoming the strongest mage.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1349,
+      "type": "anime",
+      "name": "Tencent Animation & Comics",
+      "url": "https://myanimelist.net/anime/producer/1349/Tencent_Animation___Comics"
+    },
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1667,
+      "type": "anime",
+      "name": "Foch Film",
+      "url": "https://myanimelist.net/anime/producer/1667/Foch_Film"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1925/105375l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/29ZVPVv7tz8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40005,
+  "slug": "quanzhi-fashi-4th-season"
 }

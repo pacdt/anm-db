@@ -1,22 +1,163 @@
 {
-  "id": 38383,
-  "slug": "jashin-chan-dropkick-episode-12",
-  "type": "legendado",
+  "mal_id": 38383,
+  "url": "https://myanimelist.net/anime/38383/Jashin-chan_Dropkick_Episode_12",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1969/95176.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/95176t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/95176l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1969/95176.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1969/95176t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1969/95176l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/UhmvlBlaGwA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jashin-chan Dropkick Episode 12"
+    },
+    {
+      "type": "Synonym",
+      "title": "False God My Dropkick Episode 12"
+    },
+    {
+      "type": "Japanese",
+      "title": "邪神ちゃんドロップキック 第12話"
+    },
+    {
+      "type": "English",
+      "title": "Dropkick On My Devil! Episode 12"
+    },
+    {
+      "type": "German",
+      "title": "Dropkick on My Devil!! Dash Folge 12"
+    },
+    {
+      "type": "Spanish",
+      "title": "¡Patada Voladora a mi Demonio! Episodio 12 (No Emitido en TV)"
+    },
+    {
+      "type": "French",
+      "title": "Dropkick On My Devil! Épisode 12"
+    }
+  ],
   "title": "Jashin-chan Dropkick Episode 12",
   "title_english": "Dropkick On My Devil! Episode 12",
   "title_japanese": "邪神ちゃんドロップキック 第12話",
-  "image": "https://cdn.myanimelist.net/images/anime/1969/95176l.webp",
-  "score": 7.18,
-  "synopsis": "Making her grand return from space, Jashin-chan still seeks to kill Yurine Hanazono to get back into Hell. However, the attempted murder is put on hold when Yurine drags her out to the beach alongside the rest of her friends. Wasting valuable planning time, Jashin-chan instead finds herself spending the day doing what her summoner and her good friends do: swimming in the ocean, eating shaved ice, fighting a Kraken, and having a barbecue.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/UhmvlBlaGwA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Supernatural"
+  "title_synonyms": [
+    "False God My Dropkick Episode 12"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dx9SzRMQg4J9EAHhnIQyoEAZkDMRy6svd6UC0Z5QR1DTkdXiPH8xzW2EbHRuUx4ujVPRdglSdcmya0FOXyFY2FcC_Tv0IMjEHqNpmdXGDzzmHfWjDMj_6LpqTXXIQ4LSn_NWZE"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Oct 1, 2018"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.18,
+  "scored_by": 19271,
+  "rank": 3603,
+  "popularity": 4153,
+  "members": 36396,
+  "favorites": 16,
+  "synopsis": "Making her grand return from space, Jashin-chan still seeks to kill Yurine Hanazono to get back into Hell. However, the attempted murder is put on hold when Yurine drags her out to the beach alongside the rest of her friends. Wasting valuable planning time, Jashin-chan instead finds herself spending the day doing what her summoner and her good friends do: swimming in the ocean, eating shaved ice, fighting a Kraken, and having a barbecue.\n\n[Written by MAL Rewrite]",
+  "background": "Episode 12 of Jashin-chan Dropkick was streamed exclusively on Amazon Prime Video and also bundled with the second Blu-ray and DVD volume.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 2092,
+      "type": "anime",
+      "name": "BookLive",
+      "url": "https://myanimelist.net/anime/producer/2092/BookLive"
+    },
+    {
+      "mal_id": 2093,
+      "type": "anime",
+      "name": "ibis Capital Partners",
+      "url": "https://myanimelist.net/anime/producer/2093/ibis_Capital_Partners"
+    },
+    {
+      "mal_id": 2095,
+      "type": "anime",
+      "name": "Global Solutions",
+      "url": "https://myanimelist.net/anime/producer/2095/Global_Solutions"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Nomad",
+      "url": "https://myanimelist.net/anime/producer/70/Nomad"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1969/95176l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/UhmvlBlaGwA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38383,
+  "slug": "jashin-chan-dropkick-episode-12"
 }

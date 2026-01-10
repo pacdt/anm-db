@@ -1,19 +1,63 @@
 {
-  "id": 39017,
-  "slug": "kyokou-suiri",
-  "type": "legendado",
+  "mal_id": 39017,
+  "url": "https://myanimelist.net/anime/39017/Kyokou_Suiri",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1310/117188.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1310/117188t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1310/117188l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1310/117188.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1310/117188t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1310/117188l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/O47qukJbNHc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kyokou Suiri"
+    },
+    {
+      "type": "Japanese",
+      "title": "虚構推理"
+    },
+    {
+      "type": "English",
+      "title": "In/Spectre"
+    },
+    {
+      "type": "German",
+      "title": "In/Spectre"
+    },
+    {
+      "type": "Spanish",
+      "title": "In/Spectre"
+    },
+    {
+      "type": "French",
+      "title": "In/Spectre"
+    }
+  ],
   "title": "Kyokou Suiri",
   "title_english": "In/Spectre",
   "title_japanese": "虚構推理",
-  "image": "https://cdn.myanimelist.net/images/anime/1310/117188l.webp",
-  "score": 6.92,
-  "synopsis": "Hidden in plain sight, spirits known as youkai inhabit the world. While most are benign, a certain subset threatens the tenuous peace between youkai and humanity. Ever since she agreed to become their \"God of Wisdom,\" Kotoko Iwanaga has served as a mediator between the two realms, resolving any supernatural problems that come her way.\n\nAt a local hospital, Kotoko approaches Kurou Sakuragawa, a university student whose long-term relationship ended with an unfortunate breakup. Kotoko harbors feelings for him and suspects that something supernatural lurks within his harmless appearance, so she asks Kurou for his assistance in helping out youkai.\n\nTwo years later, news of an idol who was accidentally crushed to death by steel beams flooded the press. However, months later, sightings begin to tell of a faceless woman who wields a steel beam. As is the case for any supernatural problem, Kotoko and her partner set out to stop this spirit from wreaking havoc—but this case may prove to be far more sinister and personal than they could have ever thought.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/O47qukJbNHc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery",
-    "Romance",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,146 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzLDcTdYPNH7zDz9Gjo6DHgCEaEnvsnLmPchUUU5gilQo2BHRLMwNkX_YcA6UIvD35pDfKCUeUfOQeNBkw6gxs6fXOypNli8S46Q1W7QKc-UrPEY_Ul-raQJZNpLd0BmP7drJU",
       "nome": "She Who Defends Order"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-01-12T00:00:00+00:00",
+    "to": "2020-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2020
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2020
+      }
+    },
+    "string": "Jan 12, 2020 to Mar 29, 2020"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.92,
+  "scored_by": 227626,
+  "rank": 4942,
+  "popularity": 467,
+  "members": 526844,
+  "favorites": 1461,
+  "synopsis": "Hidden in plain sight, spirits known as youkai inhabit the world. While most are benign, a certain subset threatens the tenuous peace between youkai and humanity. Ever since she agreed to become their \"God of Wisdom,\" Kotoko Iwanaga has served as a mediator between the two realms, resolving any supernatural problems that come her way.\n\nAt a local hospital, Kotoko approaches Kurou Sakuragawa, a university student whose long-term relationship ended with an unfortunate breakup. Kotoko harbors feelings for him and suspects that something supernatural lurks within his harmless appearance, so she asks Kurou for his assistance in helping out youkai.\n\nTwo years later, news of an idol who was accidentally crushed to death by steel beams flooded the press. However, months later, sightings begin to tell of a faceless woman who wields a steel beam. As is the case for any supernatural problem, Kotoko and her partner set out to stop this spirit from wreaking havoc—but this case may prove to be far more sinister and personal than they could have ever thought.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2020,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1334,
+      "type": "anime",
+      "name": "Docomo Anime Store",
+      "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1602,
+      "type": "anime",
+      "name": "GYAO!",
+      "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 1800,
+      "type": "anime",
+      "name": "Marui Group",
+      "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1310/117188l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/O47qukJbNHc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39017,
+  "slug": "kyokou-suiri"
 }

@@ -1,18 +1,65 @@
 {
-  "id": 2921,
-  "slug": "ashita-no-joe-2",
-  "type": "legendado",
+  "mal_id": 2921,
+  "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/45028.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/45028t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/45028.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/45028t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ashita no Joe 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Rocky Joe 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "あしたのジョー２"
+    },
+    {
+      "type": "English",
+      "title": "Tomorrow's Joe 2"
+    },
+    {
+      "type": "German",
+      "title": "N/A"
+    },
+    {
+      "type": "Spanish",
+      "title": "El Campeón/ El mañana de Joe 2"
+    }
+  ],
   "title": "Ashita no Joe 2",
   "title_english": "Tomorrow's Joe 2",
   "title_japanese": "あしたのジョー２",
-  "image": "https://cdn.myanimelist.net/images/anime/3/45028l.webp",
-  "score": 8.77,
-  "synopsis": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.",
-  "trailer_url": null,
-  "genres": [
-    "Drama",
-    "Sports"
+  "title_synonyms": [
+    "Rocky Joe 2"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -249,5 +296,84 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz2JPp3_JnBDzOOn5khc1ZE91rDwo7Y-gbq32tSTi1vzrzLq83mCuddvmTCT7Rt9VjCQdH8Pcuovk81vFm6h5QIhkUIBEPiNeYHhm9Z4SYR0CBoXtklA5kZYemg5LJ5FJbjOkK1",
       "nome": "The Great End"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1980-10-13T00:00:00+00:00",
+    "to": "1981-08-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 10,
+        "year": 1980
+      },
+      "to": {
+        "day": 31,
+        "month": 8,
+        "year": 1981
+      }
+    },
+    "string": "Oct 13, 1980 to Aug 31, 1981"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.77,
+  "scored_by": 25188,
+  "rank": 45,
+  "popularity": 3025,
+  "members": 65129,
+  "favorites": 3239,
+  "synopsis": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.",
+  "background": "",
+  "season": "fall",
+  "year": 1980,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 583,
+      "type": "anime",
+      "name": "Annapuru",
+      "url": "https://myanimelist.net/anime/producer/583/Annapuru"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 65,
+      "type": "anime",
+      "name": "Tokyo Movie Shinsha",
+      "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/45028l.webp",
+  "trailer_url": null,
+  "id": 2921,
+  "slug": "ashita-no-joe-2"
 }

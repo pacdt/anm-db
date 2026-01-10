@@ -1,20 +1,74 @@
 {
-  "id": 33502,
-  "slug": "shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka",
-  "type": "legendado",
+  "mal_id": 33502,
+  "url": "https://myanimelist.net/anime/33502/Shuumatsu_Nani_Shitemasu_ka_Isogashii_desu_ka_Sukutte_Moratte_Ii_desu_ka",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/85260.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/85260t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/85260l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/85260.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/85260t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/85260l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZGfC2boki-I?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
+    },
+    {
+      "type": "Synonym",
+      "title": "SukaSuka"
+    },
+    {
+      "type": "Synonym",
+      "title": "What are you doing at the end? Are you busy? Can you save me?"
+    },
+    {
+      "type": "Japanese",
+      "title": "終末なにしてますか？忙しいですか？救ってもらっていいですか？"
+    },
+    {
+      "type": "English",
+      "title": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?"
+    },
+    {
+      "type": "German",
+      "title": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?"
+    },
+    {
+      "type": "Spanish",
+      "title": "WorldEnd: What Do You Do at The End of The World? Are You Busy? Will You Save Us?"
+    },
+    {
+      "type": "French",
+      "title": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?"
+    }
+  ],
   "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
   "title_english": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
   "title_japanese": "終末なにしてますか？忙しいですか？救ってもらっていいですか？",
-  "image": "https://cdn.myanimelist.net/images/anime/4/85260l.webp",
-  "score": 7.67,
-  "synopsis": "Putting his life on the line, Willem Kmetsch leaves his loved ones behind and sets out to battle a mysterious monster, and even though he is victorious, he is rendered frozen in ice. It is during his icy slumber that terrifying creatures known as \"Beasts\" emerge on the Earth's surface and threaten humanity's existence. Willem awakens 500 years later, only to find himself the sole survivor of his race as mankind is wiped out.\n \nTogether with the other surviving races, Willem takes refuge on the floating islands in the sky, living in fear of the Beasts below. He lives a life of loneliness and only does odd jobs to get by. One day, he is tasked with being a weapon storehouse caretaker. Thinking nothing of it, Willem accepts, but he soon realizes that these weapons are actually a group of young Leprechauns. Though they bear every resemblance to humans, they have no regard for their own lives, identifying themselves as mere weapons of war. Among them is Chtholly Nota Seniorious, who is more than willing to sacrifice herself if it means defeating the Beasts and ensuring peace.\n \nWillem becomes something of a father figure for the young Leprechauns, watching over them fondly and supporting them in any way he can. He, who once fought so bravely on the frontlines, can now only hope that the ones being sent to battle return safely from the monsters that destroyed his kind.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ZGfC2boki-I?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Fantasy",
-    "Romance",
-    "Sci-Fi"
+  "title_synonyms": [
+    "SukaSuka",
+    "What are you doing at the end? Are you busy? Can you save me?"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +130,121 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxI50UhEZ8BV9xzD4npg75cKt3mHiTMQMXvjkH5NCzdZIrjlpnz1rcqAeyj0as0eVARjvbNZDV0kUvbtwekgOzyANxU-VBK6sgG7AVhzbw9UemEbx7xY6qXYVBjBJFXcit9IBud",
       "nome": "The Happiest Girl in the World - Chtholly"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-04-11T00:00:00+00:00",
+    "to": "2017-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2017
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2017
+      }
+    },
+    "string": "Apr 11, 2017 to Jun 27, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.67,
+  "scored_by": 204480,
+  "rank": 1433,
+  "popularity": 595,
+  "members": 437111,
+  "favorites": 4854,
+  "synopsis": "Putting his life on the line, Willem Kmetsch leaves his loved ones behind and sets out to battle a mysterious monster, and even though he is victorious, he is rendered frozen in ice. It is during his icy slumber that terrifying creatures known as \"Beasts\" emerge on the Earth's surface and threaten humanity's existence. Willem awakens 500 years later, only to find himself the sole survivor of his race as mankind is wiped out.\n \nTogether with the other surviving races, Willem takes refuge on the floating islands in the sky, living in fear of the Beasts below. He lives a life of loneliness and only does odd jobs to get by. One day, he is tasked with being a weapon storehouse caretaker. Thinking nothing of it, Willem accepts, but he soon realizes that these weapons are actually a group of young Leprechauns. Though they bear every resemblance to humans, they have no regard for their own lives, identifying themselves as mere weapons of war. Among them is Chtholly Nota Seniorious, who is more than willing to sacrifice herself if it means defeating the Beasts and ensuring peace.\n \nWillem becomes something of a father figure for the young Leprechauns, watching over them fondly and supporting them in any way he can. He, who once fought so bravely on the frontlines, can now only hope that the ones being sent to battle return safely from the monsters that destroyed his kind.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2017,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1651,
+      "type": "anime",
+      "name": "Production Ace",
+      "url": "https://myanimelist.net/anime/producer/1651/Production_Ace"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    },
+    {
+      "mal_id": 605,
+      "type": "anime",
+      "name": "C2C",
+      "url": "https://myanimelist.net/anime/producer/605/C2C"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/85260l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ZGfC2boki-I?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33502,
+  "slug": "shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka"
 }

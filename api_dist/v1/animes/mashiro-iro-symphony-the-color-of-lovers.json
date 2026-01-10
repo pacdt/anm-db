@@ -1,18 +1,71 @@
 {
-  "id": 10397,
-  "slug": "mashiro-iro-symphony-the-color-of-lovers",
-  "type": "legendado",
+  "mal_id": 10397,
+  "url": "https://myanimelist.net/anime/10397/Mashiro-iro_Symphony__The_Color_of_Lovers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/39303.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/39303t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/39303l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/39303.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/39303t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/39303l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mashiro-iro Symphony: The Color of Lovers"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mashiro-iro Symphony: Love Is Pure White"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mashiroiro Symphony: The Color of Lovers"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pure White Symphony"
+    },
+    {
+      "type": "Japanese",
+      "title": "ましろ色シンフォニー -The color of lovers-"
+    },
+    {
+      "type": "English",
+      "title": "Mashiroiro Symphony: The Color of Lovers"
+    },
+    {
+      "type": "Spanish",
+      "title": "Mashiroiro Symphony"
+    }
+  ],
   "title": "Mashiro-iro Symphony: The Color of Lovers",
   "title_english": "Mashiroiro Symphony: The Color of Lovers",
   "title_japanese": "ましろ色シンフォニー -The color of lovers-",
-  "image": "https://cdn.myanimelist.net/images/anime/9/39303l.webp",
-  "score": 7.01,
-  "synopsis": "When boys suddenly get into places where they've never been allowed before, some girls tend to get upset. So when the decision is made to merge the elite Yuihime Girls' Private Academy and the coeducational Kagamidai Private Academy, everyone wants to take extra care in avoiding trouble while bringing the two Privates together. Therefore, rather than just bringing the Kagamidai boys into the Yuihime girls' school all at once, a plan is concocted in which a group of test males will be inserted into the Girls' Private Academy first.\n\nThus, poor young Shingo finds himself being thrown as a sacrificial lamb to the lionesses of Yuihime, who aren't exactly waiting for him with open arms. Will Shingo manage to survive the estrogen soaked death pit that is Yuihime? Can the girls learn to be more receptive to the boys? And just how long until something involving panties will cause emotions to flare, sparks to fly and the battle of the sexes to explode?\n\n(Source: Sentai Filmworks, edited)",
-  "trailer_url": null,
-  "genres": [
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Mashiro-iro Symphony: Love Is Pure White",
+    "Mashiroiro Symphony: The Color of Lovers",
+    "Pure White Symphony"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +127,102 @@
       "url": "https://lightspeedst.net/s3/mp4/mashiro-iro-symphony-the-color-of-lovers/sd/12.mp4",
       "nome": "Beginning-Colored Season."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-10-05T00:00:00+00:00",
+    "to": "2011-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2011
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2011
+      }
+    },
+    "string": "Oct 5, 2011 to Dec 21, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.01,
+  "scored_by": 77363,
+  "rank": 4546,
+  "popularity": 1637,
+  "members": 161766,
+  "favorites": 506,
+  "synopsis": "When boys suddenly get into places where they've never been allowed before, some girls tend to get upset. So when the decision is made to merge the elite Yuihime Girls' Private Academy and the coeducational Kagamidai Private Academy, everyone wants to take extra care in avoiding trouble while bringing the two Privates together. Therefore, rather than just bringing the Kagamidai boys into the Yuihime girls' school all at once, a plan is concocted in which a group of test males will be inserted into the Girls' Private Academy first.\n\nThus, poor young Shingo finds himself being thrown as a sacrificial lamb to the lionesses of Yuihime, who aren't exactly waiting for him with open arms. Will Shingo manage to survive the estrogen soaked death pit that is Yuihime? Can the girls learn to be more receptive to the boys? And just how long until something involving panties will cause emotions to flare, sparks to fly and the battle of the sexes to explode?\n\n(Source: Sentai Filmworks, edited)",
+  "background": "",
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Manglobe",
+      "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/39303l.webp",
+  "trailer_url": null,
+  "id": 10397,
+  "slug": "mashiro-iro-symphony-the-color-of-lovers"
 }

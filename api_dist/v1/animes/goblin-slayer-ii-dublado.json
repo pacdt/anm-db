@@ -1,19 +1,53 @@
 {
-  "id": 47160,
-  "slug": "goblin-slayer-ii-dublado",
-  "type": "dublado",
+  "mal_id": 47160,
+  "url": "https://myanimelist.net/anime/47160/Goblin_Slayer_II",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1100/138338.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/138338t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/138338l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1100/138338.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/138338t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/138338l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Dc3U12kH3WA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Goblin Slayer II"
+    },
+    {
+      "type": "Synonym",
+      "title": "Goblin Slayer 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゴブリンスレイヤーⅡ"
+    }
+  ],
   "title": "Goblin Slayer II",
   "title_english": "Goblin Slayer II",
   "title_japanese": "ゴブリンスレイヤーⅡ",
-  "image": "https://cdn.myanimelist.net/images/anime/1100/138338l.webp",
-  "score": 7.21,
-  "synopsis": "Second season of Goblin Slayer.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Dc3U12kH3WA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Goblin Slayer 2nd Season"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +109,121 @@
       "url": "https://lightspeedst.net/s7/mp4/goblin-slayer-ii-dublado/fhd/12.mp4",
       "nome": "O Prayers, Have You Reached Heaven?"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-10-06T00:00:00+00:00",
+    "to": "2023-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2023
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2023
+      }
+    },
+    "string": "Oct 6, 2023 to Dec 22, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.21,
+  "scored_by": 145160,
+  "rank": 3475,
+  "popularity": 658,
+  "members": 402816,
+  "favorites": 3182,
+  "synopsis": "Second season of Goblin Slayer.",
+  "background": "Goblin Slayer II was released on Blu-ray and DVD in three volumes from January 31, 2024, to March 27, 2024.",
+  "season": "fall",
+  "year": 2023,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Sony Pictures Entertainment",
+      "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+    },
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1899,
+      "type": "anime",
+      "name": "Good Smile Film",
+      "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+    },
+    {
+      "mal_id": 2117,
+      "type": "anime",
+      "name": "SB Creative",
+      "url": "https://myanimelist.net/anime/producer/2117/SB_Creative"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1100/138338l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Dc3U12kH3WA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 47160,
+  "slug": "goblin-slayer-ii-dublado"
 }

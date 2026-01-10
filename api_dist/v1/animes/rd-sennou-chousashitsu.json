@@ -1,18 +1,51 @@
 {
-  "id": 3363,
-  "slug": "rd-sennou-chousashitsu",
-  "type": "legendado",
+  "mal_id": 3363,
+  "url": "https://myanimelist.net/anime/3363/RD_Sennou_Chousashitsu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/18929.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/18929t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/18929l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/18929.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/18929t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/18929l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "RD Sennou Chousashitsu"
+    },
+    {
+      "type": "Japanese",
+      "title": "RD 潜脳調査室"
+    },
+    {
+      "type": "English",
+      "title": "Real Drive"
+    }
+  ],
   "title": "RD Sennou Chousashitsu",
   "title_english": "Real Drive",
   "title_japanese": "RD 潜脳調査室",
-  "image": "https://cdn.myanimelist.net/images/anime/6/18929l.webp",
-  "score": 7.08,
-  "synopsis": "2061 AD. Fifty years have passed since mankind developed the Network society. It was anticipated that this new infrastructure would realize a utopia where people connected with each other at the level of consciousness. However, new social problems such as personal data leaks and proliferation of manipulated information began to surface. Nevertheless, people still relied on the Network to exchange information, and proved unable to opt to abandon it.\n\nIn due course, a new Network realm with more effective security measures was developed. This was called Meta Real Network, usually abbreviated as \"the Metal.\"\n\nThe Metal accommodated personal memory data within protected virtual stand-alone organic cyber enclaves called bubble shells and eventually pervaded the everyday lives of people.\n\nHowever, people gradually learned to release and explode their instincts within the secure environment of the Metal. The unleashed instincts pushed each individual's consciousness to drown in the sea of information and to be exposed to the pressures of desire. Meanwhile, norms and regulations continued to bind their real world lives. Thus, strange friction between the two worlds began to manifest themselves as aberrations beyond the bounds of the imaginable.\n\nExperts who challenged the deep sea of the Metal to investigate and decipher such aberrations were called cyber divers.\n\nThis is a story of a cyber diver, Masamichi Haru, who investigates the incidents that lie between Reality and the Metal.\n\n(Source: Production I.G)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +177,82 @@
       "url": "https://lightspeedst.net/s3/mp4/rd-sennou-chousashitsu/sd/26.mp4",
       "nome": "Real Drive"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-04-09T00:00:00+00:00",
+    "to": "2008-10-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2008
+      },
+      "to": {
+        "day": 1,
+        "month": 10,
+        "year": 2008
+      }
+    },
+    "string": "Apr 9, 2008 to Oct 1, 2008"
+  },
+  "duration": "22 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.08,
+  "scored_by": 6607,
+  "rank": 4198,
+  "popularity": 4493,
+  "members": 30771,
+  "favorites": 62,
+  "synopsis": "2061 AD. Fifty years have passed since mankind developed the Network society. It was anticipated that this new infrastructure would realize a utopia where people connected with each other at the level of consciousness. However, new social problems such as personal data leaks and proliferation of manipulated information began to surface. Nevertheless, people still relied on the Network to exchange information, and proved unable to opt to abandon it.\n\nIn due course, a new Network realm with more effective security measures was developed. This was called Meta Real Network, usually abbreviated as \"the Metal.\"\n\nThe Metal accommodated personal memory data within protected virtual stand-alone organic cyber enclaves called bubble shells and eventually pervaded the everyday lives of people.\n\nHowever, people gradually learned to release and explode their instincts within the secure environment of the Metal. The unleashed instincts pushed each individual's consciousness to drown in the sea of information and to be exposed to the pressures of desire. Meanwhile, norms and regulations continued to bind their real world lives. Thus, strange friction between the two worlds began to manifest themselves as aberrations beyond the bounds of the imaginable.\n\nExperts who challenged the deep sea of the Metal to investigate and decipher such aberrations were called cyber divers.\n\nThis is a story of a cyber diver, Masamichi Haru, who investigates the incidents that lie between Reality and the Metal.\n\n(Source: Production I.G)",
+  "background": "",
+  "season": "spring",
+  "year": 2008,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:59",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:59 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1791,
+      "type": "anime",
+      "name": "D.N. Dream Partners",
+      "url": "https://myanimelist.net/anime/producer/1791/DN_Dream_Partners"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/18929l.webp",
+  "trailer_url": null,
+  "id": 3363,
+  "slug": "rd-sennou-chousashitsu"
 }

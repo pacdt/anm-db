@@ -1,18 +1,63 @@
 {
-  "id": 40031,
-  "slug": "mugyutto-black-clover",
-  "type": "legendado",
+  "mal_id": 40031,
+  "url": "https://myanimelist.net/anime/40031/Mugyutto_Black_Clover",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1066/101736.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1066/101736t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1066/101736l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1066/101736.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1066/101736t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1066/101736l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mugyutto! Black Clover"
+    },
+    {
+      "type": "Japanese",
+      "title": "むぎゅっと！ブラッククローバー"
+    },
+    {
+      "type": "English",
+      "title": "Squishy! Black Clover"
+    },
+    {
+      "type": "German",
+      "title": "Squishy! Black Clover"
+    },
+    {
+      "type": "Spanish",
+      "title": "Squishy! Black Clover"
+    },
+    {
+      "type": "French",
+      "title": "Squishy! Black Clover"
+    }
+  ],
   "title": "Mugyutto! Black Clover",
   "title_english": "Squishy! Black Clover",
   "title_japanese": "むぎゅっと！ブラッククローバー",
-  "image": "https://cdn.myanimelist.net/images/anime/1066/101736l.webp",
-  "score": 6.46,
-  "synopsis": "SD Black Clover short comedy specials released exclusively on dTV.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -54,5 +99,77 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy3wiAKx5QxD_GWGuD0-vzmBdTgJ1A8w3wVuqd-iU9R_9ubuxkYBcjJ55--xAHmybyhjJniAh62CsNJRZzO1HbkVOuwaVjuTBweQFhOJ0XEm8ObGvsRRQcS4C7aWc5h_iH-S8eI",
       "nome": "Asta, Forever..."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-01T00:00:00+00:00",
+    "to": "2019-08-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 19,
+        "month": 8,
+        "year": 2019
+      }
+    },
+    "string": "Jul 1, 2019 to Aug 19, 2019"
+  },
+  "duration": "7 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.46,
+  "scored_by": 8219,
+  "rank": 7648,
+  "popularity": 5261,
+  "members": 21366,
+  "favorites": 42,
+  "synopsis": "SD Black Clover short comedy specials released exclusively on dTV.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 276,
+      "type": "anime",
+      "name": "DLE",
+      "url": "https://myanimelist.net/anime/producer/276/DLE"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1066/101736l.webp",
+  "trailer_url": null,
+  "id": 40031,
+  "slug": "mugyutto-black-clover"
 }

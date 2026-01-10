@@ -1,17 +1,63 @@
 {
-  "id": 31196,
-  "slug": "cardfight-vanguard-g-girs-crisis-hen",
-  "type": "legendado",
+  "mal_id": 31196,
+  "url": "https://myanimelist.net/anime/31196/Cardfight_Vanguard_G__GIRS_Crisis-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/76231.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/76231t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/76231l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/76231.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/76231t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/76231l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cardfight!! Vanguard G: GIRS Crisis-hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "カードファイト!! ヴァンガードG　ギアースクライシス編"
+    },
+    {
+      "type": "English",
+      "title": "Cardfight!! Vanguard G GIRS Crisis"
+    },
+    {
+      "type": "German",
+      "title": "Cardfight!! Vanguard G GIRS Crisis"
+    },
+    {
+      "type": "Spanish",
+      "title": "Cardfight!! Vanguard G GIRS Crisis"
+    },
+    {
+      "type": "French",
+      "title": "Cardfight!! Vanguard G GIRS Crisis"
+    }
+  ],
   "title": "Cardfight!! Vanguard G: GIRS Crisis-hen",
   "title_english": "Cardfight!! Vanguard G GIRS Crisis",
   "title_japanese": "カードファイト!! ヴァンガードG　ギアースクライシス編",
-  "image": "https://cdn.myanimelist.net/images/anime/3/76231l.webp",
-  "score": 6.69,
-  "synopsis": "The first half of the second season of Cardfight!! Vanguard G series.",
-  "trailer_url": null,
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Card game",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +189,94 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxZtqb5bnJwjIJoVy_foo73JjeuW-DJpCmZ8-ANusa7CbNe-BZ5Kznw9s40fLs1THGhcoZOL8yCtz-FXKWYCuHjELP09jhCJWM1nUhAExhWsQT7eLcscGFe3ButWoiIoQEAkXg",
       "nome": "GIRS Crisis"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-10-11T00:00:00+00:00",
+    "to": "2016-04-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2015
+      },
+      "to": {
+        "day": 10,
+        "month": 4,
+        "year": 2016
+      }
+    },
+    "string": "Oct 11, 2015 to Apr 10, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.69,
+  "scored_by": 6006,
+  "rank": 6209,
+  "popularity": 6483,
+  "members": 12495,
+  "favorites": 22,
+  "synopsis": "The first half of the second season of Cardfight!! Vanguard G series.",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "10:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 10:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/76231l.webp",
+  "trailer_url": null,
+  "id": 31196,
+  "slug": "cardfight-vanguard-g-girs-crisis-hen"
 }

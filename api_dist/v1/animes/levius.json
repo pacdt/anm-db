@@ -1,18 +1,47 @@
 {
-  "id": 39574,
-  "slug": "levius",
-  "type": "legendado",
+  "mal_id": 39574,
+  "url": "https://myanimelist.net/anime/39574/Levius",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1329/116479.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1329/116479t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/116479l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1329/116479.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1329/116479t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/116479l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/OT7gqOS9RI8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Levius"
+    },
+    {
+      "type": "Japanese",
+      "title": "Levius -レビウス-"
+    }
+  ],
   "title": "Levius",
   "title_english": "Levius",
   "title_japanese": "Levius -レビウス-",
-  "image": "https://cdn.myanimelist.net/images/anime/1329/116479l.webp",
-  "score": 7.12,
-  "synopsis": "As society rises from the ashes of war, cybernetically augmented arena fighters battle for fame and fortune... or die trying.\n\nIt's the 19th century, and the world has entered the Era of Rebirth, recovering from the devastating flames of war. The sport of mechanical martial arts has galvanized the nations. Cybernetically augmented fighters turn their blood into steam and their bodies into brutal fighting—and killing—machines.\n\nYoung Levius is one of those arena battlers, hell-bent on winning in order to simply survive. \n\n(Source: VIZ Media)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/OT7gqOS9RI8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi",
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +103,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwtdK2dq3naqmdNoFGOFESbK-xkkNC97mKMx8O1UeEgpCKnDWVz_Rpgk0hG8kKCQHmqg-qOwBToe6OVCtYSO_CrXn-sTs8P7ifsylP-P8FfkCl5JECmDjRAV2Swt8I9QGXQIGA",
       "nome": "It's Finer Than Usual Today..."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-11-28T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 11,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 28, 2019"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.12,
+  "scored_by": 11929,
+  "rank": 3956,
+  "popularity": 4781,
+  "members": 26785,
+  "favorites": 74,
+  "synopsis": "As society rises from the ashes of war, cybernetically augmented arena fighters battle for fame and fortune... or die trying.\n\nIt's the 19th century, and the world has entered the Era of Rebirth, recovering from the devastating flames of war. The sport of mechanical martial arts has galvanized the nations. Cybernetically augmented fighters turn their blood into steam and their bodies into brutal fighting—and killing—machines.\n\nYoung Levius is one of those arena battlers, hell-bent on winning in order to simply survive. \n\n(Source: VIZ Media)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1023,
+      "type": "anime",
+      "name": "Polygon Pictures",
+      "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+    }
+  ],
+  "genres": [
+    "Sci-Fi",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1329/116479l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/OT7gqOS9RI8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 39574,
+  "slug": "levius"
 }

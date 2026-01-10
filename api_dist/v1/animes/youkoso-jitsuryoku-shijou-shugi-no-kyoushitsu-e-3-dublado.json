@@ -1,18 +1,67 @@
 {
-  "id": 51180,
-  "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3-dublado",
-  "type": "dublado",
+  "mal_id": 51180,
+  "url": "https://myanimelist.net/anime/51180/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1332/139318.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1332/139318t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1332/139318l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1332/139318.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1332/139318t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1332/139318l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/0yOULRwyp2o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Welcome to the Classroom of the Elite"
+    },
+    {
+      "type": "Synonym",
+      "title": "You-jitsu 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "You-zitsu 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "ようこそ実力至上主義の教室へ 3rd Season"
+    },
+    {
+      "type": "English",
+      "title": "Classroom of the Elite III"
+    }
+  ],
   "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
   "title_english": "Classroom of the Elite III",
   "title_japanese": "ようこそ実力至上主義の教室へ 3rd Season",
-  "image": "https://cdn.myanimelist.net/images/anime/1332/139318l.webp",
-  "score": 7.94,
-  "synopsis": "Third season of Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/0yOULRwyp2o?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Suspense"
+  "title_synonyms": [
+    "Welcome to the Classroom of the Elite",
+    "You-jitsu 3rd Season",
+    "You-zitsu 3rd Season"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -64,5 +113,125 @@
       "url": "https://lightspeedst.net/s7/mp4/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3-dublado/fhd/10.mp4",
       "nome": "The First Cause of Absurd Conclusions I Ascribe to the Want of Method."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-01-03T00:00:00+00:00",
+    "to": "2024-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 1,
+        "year": 2024
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2024
+      }
+    },
+    "string": "Jan 3, 2024 to Mar 27, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.94,
+  "scored_by": 255719,
+  "rank": 792,
+  "popularity": 501,
+  "members": 502294,
+  "favorites": 4439,
+  "synopsis": "Third season of Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e.",
+  "background": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season was released on Blu-ray & DVD in four volumes from April 24, 2024, to July 24, 2024.",
+  "season": "winter",
+  "year": 2024,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 101,
+      "type": "anime",
+      "name": "Studio Hibari",
+      "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 456,
+      "type": "anime",
+      "name": "Lerche",
+      "url": "https://myanimelist.net/anime/producer/456/Lerche"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1332/139318l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/0yOULRwyp2o?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51180,
+  "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3-dublado"
 }

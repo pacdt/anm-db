@@ -1,20 +1,67 @@
 {
-  "id": 37618,
-  "slug": "meng-qi-shi-shen",
-  "type": "legendado",
+  "mal_id": 37618,
+  "url": "https://myanimelist.net/anime/37618/Meng_Qi_Shi_Shen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1826/91440.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1826/91440t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1826/91440l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1826/91440.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1826/91440t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1826/91440l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3MkZ2oEGYlg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Meng Qi Shi Shen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mengqi Shishen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Adorable Food Goddess"
+    },
+    {
+      "type": "Synonym",
+      "title": "シンデレラ・シェフ ～萌妻食神～"
+    },
+    {
+      "type": "Japanese",
+      "title": "萌妻食神"
+    },
+    {
+      "type": "English",
+      "title": "Cinderella Chef"
+    }
+  ],
   "title": "Meng Qi Shi Shen",
   "title_english": "Cinderella Chef",
   "title_japanese": "萌妻食神",
-  "image": "https://cdn.myanimelist.net/images/anime/1826/91440l.webp",
-  "score": 7.33,
-  "synopsis": "Ye Jiayao is a young and talented cook who dreams of becoming a renowned chef one day. As luck would have it, she's magically transported back in time to Imperial China, and in the body of an extremely useless girl. Ye Jiayao is immediately kidnapped and held for ransom, but she manages to use her wits (and her sense of humor) to get whatever she wants.\n\n(Source: CBR)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/3MkZ2oEGYlg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Gourmet",
-    "Romance"
+  "title_synonyms": [
+    "Mengqi Shishen",
+    "Adorable Food Goddess",
+    "シンデレラ・シェフ ～萌妻食神～"
   ],
+  "type": "legendado",
+  "source": "Web novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +123,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxXE6IOJ0e4I7E2ElqKufussSHSTXhUPZzKxv4w2giUQqZVEZU1ZNmwyk0Q9tk5uJIufSQMDwMo0cvxYfBLf9Tm9f3tHKz1j-cS6tw3CbVtIZO3NpS6E6uPY6CnCJlXlk4OK5w",
       "nome": "Are we cool? Yes!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-12-29T00:00:00+00:00",
+    "to": "2019-03-09T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 12,
+        "year": 2018
+      },
+      "to": {
+        "day": 9,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Dec 29, 2018 to Mar 9, 2019"
+  },
+  "duration": "20 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.33,
+  "scored_by": 11176,
+  "rank": 2790,
+  "popularity": 4381,
+  "members": 32496,
+  "favorites": 177,
+  "synopsis": "Ye Jiayao is a young and talented cook who dreams of becoming a renowned chef one day. As luck would have it, she's magically transported back in time to Imperial China, and in the body of an extremely useless girl. Ye Jiayao is immediately kidnapped and held for ransom, but she manages to use her wits (and her sense of humor) to get whatever she wants.\n\n(Source: CBR)",
+  "background": "Meng Qi Shi Shen is an adaptation of the Chinese web novel of the same title, written by Zi Yi 281 (紫伊281).",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1728,
+      "type": "anime",
+      "name": "China Literature Limited",
+      "url": "https://myanimelist.net/anime/producer/1728/China_Literature_Limited"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1772,
+      "type": "anime",
+      "name": "Wawayu Animation",
+      "url": "https://myanimelist.net/anime/producer/1772/Wawayu_Animation"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Gourmet",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1826/91440l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/3MkZ2oEGYlg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37618,
+  "slug": "meng-qi-shi-shen"
 }

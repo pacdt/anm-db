@@ -1,17 +1,47 @@
 {
-  "id": 558,
-  "slug": "major-s2",
-  "type": "legendado",
+  "mal_id": 558,
+  "url": "https://myanimelist.net/anime/558/Major_S2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/73972.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/73972t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/73972l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/73972.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/73972t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/73972l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Major S2"
+    },
+    {
+      "type": "Japanese",
+      "title": "メジャー (第2シリーズ)"
+    }
+  ],
   "title": "Major S2",
   "title_english": "Major S2",
   "title_japanese": "メジャー (第2シリーズ)",
-  "image": "https://cdn.myanimelist.net/images/anime/6/73972l.webp",
-  "score": 8.17,
-  "synopsis": "Gorou Honda has finally returned to Mifune East Junior High School, surprising his friends upon arrival. Now, Gorou is once again surrounded by those he holds closest, and he strives to continue playing and enjoying the game he loves most.\n\nHowever, things do not go as planned, as Gorou is reminded of the harsh realities of baseball as he copes with an injury he sustained while playing baseball at Hitaka Little. Between new rivals, old friends, and mending broken relationships, Gorou must overcome challenges he has never faced before. \n\nHis goal of attending elite baseball high school Kaido may not be far from his reach, but complicated circumstances may stop him in his tracks once again. How will he deal with the immense pressures of the game? And will he ever be able to find the type of baseball he loves most?\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +173,95 @@
       "url": "https://lightspeedst.net/s3/mp4/major-s2/sd/26.mp4",
       "nome": "Goodbye!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-12-10T00:00:00+00:00",
+    "to": "2006-06-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 12,
+        "year": 2005
+      },
+      "to": {
+        "day": 10,
+        "month": 6,
+        "year": 2006
+      }
+    },
+    "string": "Dec 10, 2005 to Jun 10, 2006"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.17,
+  "scored_by": 47509,
+  "rank": 462,
+  "popularity": 2771,
+  "members": 76034,
+  "favorites": 312,
+  "synopsis": "Gorou Honda has finally returned to Mifune East Junior High School, surprising his friends upon arrival. Now, Gorou is once again surrounded by those he holds closest, and he strives to continue playing and enjoying the game he loves most.\n\nHowever, things do not go as planned, as Gorou is reminded of the harsh realities of baseball as he copes with an injury he sustained while playing baseball at Hitaka Little. Between new rivals, old friends, and mending broken relationships, Gorou must overcome challenges he has never faced before. \n\nHis goal of attending elite baseball high school Kaido may not be far from his reach, but complicated circumstances may stop him in his tracks once again. How will he deal with the immense pressures of the game? And will he ever be able to find the type of baseball he loves most?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2006,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    },
+    {
+      "mal_id": 3087,
+      "type": "anime",
+      "name": "Shogakukan Productions",
+      "url": "https://myanimelist.net/anime/producer/3087/Shogakukan_Productions"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 101,
+      "type": "anime",
+      "name": "Studio Hibari",
+      "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/73972l.webp",
+  "trailer_url": null,
+  "id": 558,
+  "slug": "major-s2"
 }

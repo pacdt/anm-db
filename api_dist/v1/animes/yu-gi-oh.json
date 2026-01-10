@@ -1,19 +1,100 @@
 {
-  "id": 550,
-  "slug": "yu-gi-oh",
-  "type": "legendado",
+  "mal_id": 550,
+  "url": "https://myanimelist.net/anime/550/Yu☆Gi☆Oh",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/47487.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/47487t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/47487l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/47487.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/47487t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/47487l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yu☆Gi☆Oh!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Game King"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yugioh"
+    },
+    {
+      "type": "Synonym",
+      "title": "King of Games"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yu-Gi-Oh! First Series"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yu-Gi-Oh! Serie Zero"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yugi-Oh"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yuugiou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yu-Gi-Oh Season 0"
+    },
+    {
+      "type": "Japanese",
+      "title": "遊☆戯☆王"
+    },
+    {
+      "type": "German",
+      "title": "Yu-Gi-Oh!"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yu-Gi-Oh!"
+    },
+    {
+      "type": "French",
+      "title": "Yu-Gi-Oh!"
+    }
+  ],
   "title": "Yu☆Gi☆Oh!",
   "title_english": "Yu☆Gi☆Oh!",
   "title_japanese": "遊☆戯☆王",
-  "image": "https://cdn.myanimelist.net/images/anime/4/47487l.webp",
-  "score": 7.25,
-  "synopsis": "Bullies often target someone frail and weak—someone exactly like Yuugi Mutou. His beautiful childhood friend, Anzu Mazaki, is always there to stand up for him, but he can't depend on her forever. Katsuya Jonouchi, who is almost always accompanied by his verbal sparring partner Hiroto Honda, doesn't seem like a bad person either, despite always bringing Yuugi trouble. But most of all, Yuugi wishes for a true friend who understands him and would never betray him.\n\nYuugi treasures his Millennium Puzzle, an ancient Egyptian artifact that was brought into his grandfather's game shop. Believing that solving the puzzle will grant him his wish, he completes the puzzle, unleashing a new personality within him—the soul of the \"King of Games.\"\n\nDark, twisted, strong, and reliable, the new personality named Yami Yuugi is the exact opposite of Yuugi. Upon any injustice toward him, Yami Yuugi takes over Yuugi's body and forces the opponent into a \"Shadow Game.\" The stakes are high as whoever loses shall have a taste of the darkness that resides within their own heart.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Game King",
+    "Yugioh",
+    "King of Games",
+    "Yu-Gi-Oh! First Series",
+    "Yu-Gi-Oh! Serie Zero",
+    "Yugi-Oh",
+    "Yuugiou",
+    "Yu-Gi-Oh Season 0"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -150,5 +231,85 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwV6GznMq2JfcoebyuCqN6NRRjslovc9i7kTB_zPMiN965ZqfiibYzytMEwEsGDDG8XRoYDGNxN_r5hdc75Qr9rHhIbxK4Rs5x6XUTufCEp6Cnk704sHEZzj-XJ6oIXCMWFc4Q",
       "nome": "Friendship - From Legend to Myth"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1998-04-04T00:00:00+00:00",
+    "to": "1998-10-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 1998
+      },
+      "to": {
+        "day": 10,
+        "month": 10,
+        "year": 1998
+      }
+    },
+    "string": "Apr 4, 1998 to Oct 10, 1998"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.25,
+  "scored_by": 150735,
+  "rank": 3223,
+  "popularity": 1035,
+  "members": 264964,
+  "favorites": 1384,
+  "synopsis": "Bullies often target someone frail and weak—someone exactly like Yuugi Mutou. His beautiful childhood friend, Anzu Mazaki, is always there to stand up for him, but he can't depend on her forever. Katsuya Jonouchi, who is almost always accompanied by his verbal sparring partner Hiroto Honda, doesn't seem like a bad person either, despite always bringing Yuugi trouble. But most of all, Yuugi wishes for a true friend who understands him and would never betray him.\n\nYuugi treasures his Millennium Puzzle, an ancient Egyptian artifact that was brought into his grandfather's game shop. Believing that solving the puzzle will grant him his wish, he completes the puzzle, unleashing a new personality within him—the soul of the \"King of Games.\"\n\nDark, twisted, strong, and reliable, the new personality named Yami Yuugi is the exact opposite of Yuugi. Upon any injustice toward him, Yami Yuugi takes over Yuugi's body and forces the opponent into a \"Shadow Game.\" The stakes are high as whoever loses shall have a taste of the darkness that resides within their own heart.\n\n[Written by MAL Rewrite]",
+  "background": "Yu☆Gi☆Oh! loosely adapts the first 59 chapters of the source manga while adding original events and characters not present in the manga.",
+  "season": "spring",
+  "year": 1998,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/47487l.webp",
+  "trailer_url": null,
+  "id": 550,
+  "slug": "yu-gi-oh"
 }

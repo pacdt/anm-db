@@ -1,17 +1,63 @@
 {
-  "id": 2215,
-  "slug": "kishin-taisen-gigantic-formula",
-  "type": "legendado",
+  "mal_id": 2215,
+  "url": "https://myanimelist.net/anime/2215/Kishin_Taisen_Gigantic_Formula",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1387/133796.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/133796t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/133796l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1387/133796.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1387/133796t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1387/133796l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kishin Taisen Gigantic Formula"
+    },
+    {
+      "type": "Synonym",
+      "title": "Apo Mekhanes Theos Gigantic Formula"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mechanical Divine War Gigantic Formula"
+    },
+    {
+      "type": "Synonym",
+      "title": "War Gods Battle: Gigantic Formula"
+    },
+    {
+      "type": "Japanese",
+      "title": "機神大戦 ギガンティック・フォーミュラ"
+    }
+  ],
   "title": "Kishin Taisen Gigantic Formula",
   "title_english": "Kishin Taisen Gigantic Formula",
   "title_japanese": "機神大戦 ギガンティック・フォーミュラ",
-  "image": "https://cdn.myanimelist.net/images/anime/1387/133796l.webp",
-  "score": 6.79,
-  "synopsis": "2035 A.D. The heads of ancient giant idols were excavated all over the world. Using those twelve stones statues, Humanity had barely overcome the threat of extinction called the \"Equatorial Winter\". But the stone statues had forced Humanity to construct colossal suits of armor as their bodies and demanded that the humans fight each other.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Sci-Fi"
+  "title_synonyms": [
+    "Apo Mekhanes Theos Gigantic Formula",
+    "Mechanical Divine War Gigantic Formula",
+    "War Gods Battle: Gigantic Formula"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +189,82 @@
       "url": "https://lightspeedst.net/s3/mp4/kishin-taisen-gigantic-formula/sd/26.mp4",
       "nome": "Ultimate"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-05T00:00:00+00:00",
+    "to": "2007-09-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 27,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 5, 2007 to Sep 27, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.79,
+  "scored_by": 2502,
+  "rank": 5602,
+  "popularity": 7906,
+  "members": 7653,
+  "favorites": 8,
+  "synopsis": "2035 A.D. The heads of ancient giant idols were excavated all over the world. Using those twelve stones statues, Humanity had barely overcome the threat of extinction called the \"Equatorial Winter\". But the stone statues had forced Humanity to construct colossal suits of armor as their bodies and demanded that the humans fight each other.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1387/133796l.webp",
+  "trailer_url": null,
+  "id": 2215,
+  "slug": "kishin-taisen-gigantic-formula"
 }

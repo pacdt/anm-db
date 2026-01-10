@@ -1,17 +1,47 @@
 {
-  "id": 32248,
-  "slug": "masamune-datenicle",
-  "type": "legendado",
+  "mal_id": 32248,
+  "url": "https://myanimelist.net/anime/32248/Masamune_Datenicle",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/83821.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83821t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83821l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/83821.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/83821t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/83821l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Masamune Datenicle"
+    },
+    {
+      "type": "Japanese",
+      "title": "政宗ダテニクル"
+    }
+  ],
   "title": "Masamune Datenicle",
   "title_english": "Masamune Datenicle",
   "title_japanese": "政宗ダテニクル",
-  "image": "https://cdn.myanimelist.net/images/anime/7/83821l.webp",
-  "score": 5.62,
-  "synopsis": "The coming-of-age battle story will center on the famous 17th-century Japanese warlord Date Masamune when he was young. The Date clan took its name from the Date region of the former Mutsu province, which comprises part of the modern-day city of Date.\n\nThe anime will be the first in the city's \"Kirari na Wonder Project\" (Twinkling Wonder Project), which aims to highlight tourist attractions and the appeal of the region.\n\nGainax's newly founded Fukushima studio will work on the anime, and will complete it at the end of March. The anime will have a private screening in April and will also screen in anime events and be posted online.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -40,5 +70,94 @@
       "numero": 6,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzxfhxNc10_sGuBleODvudEZrUzZEpumknYzdECHByeqhyGdT9qXBZOod3E6Ik6JmLiTy5JoN8vSdt6FJJPeBOz9Eyw2pe-QPqWnayXoOwdqdmJLgAMQMDs3VbMMKsLA5WogiE"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-05-02T00:00:00+00:00",
+    "to": "2018-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 5,
+        "year": 2016
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "May 2, 2016 to Mar 30, 2018"
+  },
+  "duration": "14 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.62,
+  "scored_by": 510,
+  "rank": 12294,
+  "popularity": 9858,
+  "members": 4300,
+  "favorites": 4,
+  "synopsis": "The coming-of-age battle story will center on the famous 17th-century Japanese warlord Date Masamune when he was young. The Date clan took its name from the Date region of the former Mutsu province, which comprises part of the modern-day city of Date.\n\nThe anime will be the first in the city's \"Kirari na Wonder Project\" (Twinkling Wonder Project), which aims to highlight tourist attractions and the appeal of the region.\n\nGainax's newly founded Fukushima studio will work on the anime, and will complete it at the end of March. The anime will have a private screening in April and will also screen in anime events and be posted online.\n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1538,
+      "type": "anime",
+      "name": "JTB Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1538/JTB_Entertainment"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    },
+    {
+      "mal_id": 1314,
+      "type": "anime",
+      "name": "Gaina",
+      "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/83821l.webp",
+  "trailer_url": null,
+  "id": 32248,
+  "slug": "masamune-datenicle"
 }

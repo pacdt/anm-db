@@ -1,18 +1,57 @@
 {
-  "id": 50590,
-  "slug": "koukyuu-no-karasu",
-  "type": "legendado",
+  "mal_id": 50590,
+  "url": "https://myanimelist.net/anime/50590/Koukyuu_no_Karasu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1932/127228.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1932/127228t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1932/127228l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1932/127228.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1932/127228t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1932/127228l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/quAPsQrxKCE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koukyuu no Karasu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kokyu no Karasu"
+    },
+    {
+      "type": "Japanese",
+      "title": "後宮の烏"
+    },
+    {
+      "type": "English",
+      "title": "Raven of the Inner Palace"
+    }
+  ],
   "title": "Koukyuu no Karasu",
   "title_english": "Raven of the Inner Palace",
   "title_japanese": "後宮の烏",
-  "image": "https://cdn.myanimelist.net/images/anime/1932/127228l.webp",
-  "score": 7.54,
-  "synopsis": "Among the royal court, there is an individual feared as much as revered: the Raven Consort Ryuu Jusetsu. Residing in her jet-black palace and isolated from the emperor, she is the subject of countless rumors. Claimed to possess mystic abilities, she is said to take on any request—from finding lost items to inflicting curses. While some call her an immortal sage, others believe her to be a terrifying revenant. But such comments fail to faze Jusetsu, who prefers to spend her days in quiet solitude. That is, until the emperor, Ka Koushun, barges into her court and asks for her assistance with a mysterious case.\n\nThe young emperor's request requires Jusetsu to step out of her palace for the first time. Despite Ka Koushun's frequent visits annoying her to no end, she cannot bring herself to turn him away. Her predecessor's teachings echo in her ears: the Raven Consort is destined to remain forever alone and never desire anything. Yet Jusetsu finds herself making the first of several bonds when she asks Jiujiu, an innocently inquisitive court girl, to be her sole attendant.\n\nTogether, they begin fulfilling requests from the people of the palace. However, unknown perils lurk in the outside world, and drawing attention to herself may bring Jusetsu face-to-face with a past that is better left undisturbed.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/quAPsQrxKCE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy",
-    "Mystery"
+  "title_synonyms": [
+    "Kokyu no Karasu"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +118,119 @@
       "url": "https://lightspeedst.net/s5/mp4/koukyuu-no-karasu/fhd/13.mp4",
       "nome": "Xiangfu Incense"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-01T00:00:00+00:00",
+    "to": "2022-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 1, 2022 to Dec 24, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.54,
+  "scored_by": 43590,
+  "rank": 1884,
+  "popularity": 2071,
+  "members": 119831,
+  "favorites": 823,
+  "synopsis": "Among the royal court, there is an individual feared as much as revered: the Raven Consort Ryuu Jusetsu. Residing in her jet-black palace and isolated from the emperor, she is the subject of countless rumors. Claimed to possess mystic abilities, she is said to take on any request—from finding lost items to inflicting curses. While some call her an immortal sage, others believe her to be a terrifying revenant. But such comments fail to faze Jusetsu, who prefers to spend her days in quiet solitude. That is, until the emperor, Ka Koushun, barges into her court and asks for her assistance with a mysterious case.\n\nThe young emperor's request requires Jusetsu to step out of her palace for the first time. Despite Ka Koushun's frequent visits annoying her to no end, she cannot bring herself to turn him away. Her predecessor's teachings echo in her ears: the Raven Consort is destined to remain forever alone and never desire anything. Yet Jusetsu finds herself making the first of several bonds when she asks Jiujiu, an innocently inquisitive court girl, to be her sole attendant.\n\nTogether, they begin fulfilling requests from the people of the palace. However, unknown perils lurk in the outside world, and drawing attention to herself may bring Jusetsu face-to-face with a past that is better left undisturbed.\n\n[Written by MAL Rewrite]",
+  "background": "Koukyuu no Karasu was released on Blu-ray and DVD in six volumes from December 21, 2022 to May 24, 2023.",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1734,
+      "type": "anime",
+      "name": "Tohan Corporation",
+      "url": "https://myanimelist.net/anime/producer/1734/Tohan_Corporation"
+    },
+    {
+      "mal_id": 1800,
+      "type": "anime",
+      "name": "Marui Group",
+      "url": "https://myanimelist.net/anime/producer/1800/Marui_Group"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [
+    "Fantasy",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1932/127228l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/quAPsQrxKCE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50590,
+  "slug": "koukyuu-no-karasu"
 }

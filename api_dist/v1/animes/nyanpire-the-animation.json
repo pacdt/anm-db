@@ -1,18 +1,47 @@
 {
-  "id": 10197,
-  "slug": "nyanpire-the-animation",
-  "type": "legendado",
+  "mal_id": 10197,
+  "url": "https://myanimelist.net/anime/10197/Nyanpire_The_Animation",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/46147.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/46147t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/46147l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/46147.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/46147t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/46147l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/139E_h_XToQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nyanpire The Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "にゃんぱいあ The Animation"
+    }
+  ],
   "title": "Nyanpire The Animation",
   "title_english": "Nyanpire The Animation",
   "title_japanese": "にゃんぱいあ The Animation",
-  "image": "https://cdn.myanimelist.net/images/anime/11/46147l.webp",
-  "score": 6.64,
-  "synopsis": "When a handsome vampire finds a kitten on the verge of death, he cannot help but take pity on the poor creature and save its life the only way he knows how: by offering it some of his blood and granting it eternal life as a vampire cat. The kitten—now known as Nyanpire—does his best to acquire blood and other red substances for his consumption. At the same time, he must also manage the difficulties of being a household pet and keeping up with the other strange cats around the neighborhood.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/139E_h_XToQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +103,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzWCoB-bkQVry6GbJqsQ18WrEufxTJpD9xHcGhzarcNRh2_bacmH9Fcl-RdpHM1iETL7bs2EzrNhQ6F4nyg5gnvNvACdLcJCnCHAxS0mr8sIKsi7ZoCi_2DSNpe6hKYcSnOyw",
       "nome": "The Vampire Returns"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-07-06T00:00:00+00:00",
+    "to": "2011-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2011
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2011
+      }
+    },
+    "string": "Jul 6, 2011 to Sep 21, 2011"
+  },
+  "duration": "4 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.64,
+  "scored_by": 15278,
+  "rank": 6521,
+  "popularity": 4572,
+  "members": 29768,
+  "favorites": 89,
+  "synopsis": "When a handsome vampire finds a kitten on the verge of death, he cannot help but take pity on the poor creature and save its life the only way he knows how: by offering it some of his blood and granting it eternal life as a vampire cat. The kitten—now known as Nyanpire—does his best to acquire blood and other red substances for his consumption. At the same time, he must also manage the difficulties of being a household pet and keeping up with the other strange cats around the neighborhood.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2011,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "22:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 22:54 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Gonzo",
+      "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/46147l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/139E_h_XToQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 10197,
+  "slug": "nyanpire-the-animation"
 }

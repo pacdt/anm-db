@@ -1,18 +1,72 @@
 {
-  "id": 12189,
-  "slug": "hyouka",
-  "type": "legendado",
+  "mal_id": 12189,
+  "url": "https://myanimelist.net/anime/12189/Hyouka",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/50521t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/50521l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/50521.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/50521t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/50521l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/N5nNKAVB4O4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hyouka"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hyou-ka"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hyouka: You can't escape"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hyou-ka: You can't escape"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hyoka"
+    },
+    {
+      "type": "Japanese",
+      "title": "氷菓"
+    },
+    {
+      "type": "English",
+      "title": "Hyouka"
+    }
+  ],
   "title": "Hyouka",
   "title_english": "Hyouka",
   "title_japanese": "氷菓",
-  "image": "https://cdn.myanimelist.net/images/anime/13/50521l.webp",
-  "score": 8.05,
-  "synopsis": "High school freshman Houtarou Oreki has but one goal: to lead a gray life while conserving as much energy as he can. Unfortunately, his peaceful days come to an end when his older sister, Tomoe, forces him to save the memberless Classics Club from disbandment.\n\nLuckily, Oreki's predicament seems to be over when he heads to the clubroom and discovers that his fellow first-year, Eru Chitanda, has already become a member. However, despite his obligation being fulfilled, Oreki finds himself entangled by Chitanda's curious and bubbly personality, soon joining the club of his own volition.\n\nSoon enough, the club's membership grows to four, as Oreki's friends Satoshi Fukube and Mayaka Ibara join. Driven by Chitanda's insatiable curiosity, the members of the Classics Club solve the trivial yet intriguing mysteries that permeate their daily lives.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/N5nNKAVB4O4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery",
-    "Slice of Life"
+  "title_synonyms": [
+    "Hyou-ka",
+    "Hyouka: You can't escape",
+    "Hyou-ka: You can't escape",
+    "Hyoka"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -124,5 +178,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwsZ_lyH4ZTfp_jmCqN9OQRbdFM61Rmqq5mhhIh61qeSQjnPNcR3GqYIWUJEJP0GR6vF_tAwAsI2-YZALvDJlV6ypBogy1is4BwkkRIgY9UrgnO1-pB3D5S3Vkix2Q65eehwnY",
       "nome": "The Doll That Took the Long Way Around"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-23T00:00:00+00:00",
+    "to": "2012-09-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 23,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 17,
+        "month": 9,
+        "year": 2012
+      }
+    },
+    "string": "Apr 23, 2012 to Sep 17, 2012"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.05,
+  "scored_by": 681783,
+  "rank": 634,
+  "popularity": 100,
+  "members": 1461027,
+  "favorites": 28042,
+  "synopsis": "High school freshman Houtarou Oreki has but one goal: to lead a gray life while conserving as much energy as he can. Unfortunately, his peaceful days come to an end when his older sister, Tomoe, forces him to save the memberless Classics Club from disbandment.\n\nLuckily, Oreki's predicament seems to be over when he heads to the clubroom and discovers that his fellow first-year, Eru Chitanda, has already become a member. However, despite his obligation being fulfilled, Oreki finds himself entangled by Chitanda's curious and bubbly personality, soon joining the club of his own volition.\n\nSoon enough, the club's membership grows to four, as Oreki's friends Satoshi Fukube and Mayaka Ibara join. Driven by Chitanda's insatiable curiosity, the members of the Classics Club solve the trivial yet intriguing mysteries that permeate their daily lives.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 665,
+      "type": "anime",
+      "name": "chara-ani.com",
+      "url": "https://myanimelist.net/anime/producer/665/chara-anicom"
+    },
+    {
+      "mal_id": 929,
+      "type": "anime",
+      "name": "Animation Do",
+      "url": "https://myanimelist.net/anime/producer/929/Animation_Do"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/50521l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/N5nNKAVB4O4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 12189,
+  "slug": "hyouka"
 }

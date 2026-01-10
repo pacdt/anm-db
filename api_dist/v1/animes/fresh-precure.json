@@ -1,18 +1,53 @@
 {
-  "id": 5684,
-  "slug": "fresh-precure",
-  "type": "legendado",
+  "mal_id": 5684,
+  "url": "https://myanimelist.net/anime/5684/Fresh_Precure",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/21267.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/21267t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/21267l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/21267.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/21267t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/21267l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Fresh Precure!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fresh Pretty Cure!"
+    },
+    {
+      "type": "Japanese",
+      "title": "フレッシュプリキュア！"
+    }
+  ],
   "title": "Fresh Precure!",
   "title_english": "Fresh Precure!",
   "title_japanese": "フレッシュプリキュア！",
-  "image": "https://cdn.myanimelist.net/images/anime/9/21267l.webp",
-  "score": 7.4,
-  "synopsis": "Love Momozono is a 14-year-old student at Yotsuba Junior Highschool that tends to care more for others than for herself. One day she visits a show of the famous dance unit \"Trinity\" and decides to become a dancer, too. On the same event, subordinates of the Labyrinth Kingdom show up who want to collect the unhappiness of the audience. Love gets the power to change into Cure Peach and fights them. Soon after, she is joined by her good friends Miki, who is Cure Berry, and Inori, who becomes Cure Pine.\n \n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy"
+  "title_synonyms": [
+    "Fresh Pretty Cure!"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -264,5 +299,70 @@
       "url": "https://lightspeedst.net/s2/mp4/fresh-precure/sd/50.mp4",
       "nome": "Full of Smiles! Everyone Will Get Their Happiness!!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-02-01T00:00:00+00:00",
+    "to": "2010-01-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 2,
+        "year": 2009
+      },
+      "to": {
+        "day": 30,
+        "month": 1,
+        "year": 2010
+      }
+    },
+    "string": "Feb 1, 2009 to Jan 30, 2010"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.4,
+  "scored_by": 7692,
+  "rank": 2483,
+  "popularity": 5470,
+  "members": 19270,
+  "favorites": 175,
+  "synopsis": "Love Momozono is a 14-year-old student at Yotsuba Junior Highschool that tends to care more for others than for herself. One day she visits a show of the famous dance unit \"Trinity\" and decides to become a dancer, too. On the same event, subordinates of the Labyrinth Kingdom show up who want to collect the unhappiness of the audience. Love gets the power to change into Cure Peach and fights them. Soon after, she is joined by her good friends Miki, who is Cure Berry, and Inori, who becomes Cure Pine.\n \n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/9/21267l.webp",
+  "trailer_url": null,
+  "id": 5684,
+  "slug": "fresh-precure"
 }

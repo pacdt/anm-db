@@ -1,15 +1,57 @@
 {
-  "id": 12651,
-  "slug": "danball-senki-w",
-  "type": "legendado",
+  "mal_id": 12651,
+  "url": "https://myanimelist.net/anime/12651/Danball_Senki_W",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/56963.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56963t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56963l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/56963.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/56963t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/56963l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Danball Senki W"
+    },
+    {
+      "type": "Synonym",
+      "title": "Danbooru Senki W"
+    },
+    {
+      "type": "Japanese",
+      "title": "ダンボール戦機 Ｗ"
+    },
+    {
+      "type": "English",
+      "title": "LBX: Little Battlers eXperience Season 2"
+    }
+  ],
   "title": "Danball Senki W",
   "title_english": "LBX: Little Battlers eXperience Season 2",
   "title_japanese": "ダンボール戦機 Ｗ",
-  "image": "https://cdn.myanimelist.net/images/anime/4/56963l.webp",
-  "score": 7.05,
-  "synopsis": "One year after the fight with the Innovators, a new terrorist organization called the Detectors threatens the world using LBXs. Ban joins up with new and old friends to stop the Detectors.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [],
+  "title_synonyms": [
+    "Danbooru Senki W"
+  ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -141,5 +183,81 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwlNFyGjlVxvxiiehQqIf4AF_P5367UVWSKmUPGayt21DzKSkmO2p_2R_8HTxPO3PlJ_1sDEdW0tUHizQzGAb5Oqf16pNPqq2Fl-8xTEeO9BL9BHxHs5nMO1FZoapBmj4Py2iSo",
       "nome": "Brilliant Players"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-01-18T00:00:00+00:00",
+    "to": "2013-03-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 1,
+        "year": 2012
+      },
+      "to": {
+        "day": 20,
+        "month": 3,
+        "year": 2013
+      }
+    },
+    "string": "Jan 18, 2012 to Mar 20, 2013"
+  },
+  "duration": "23 min per ep",
+  "rating": "G - All Ages",
+  "score": 7.05,
+  "scored_by": 3610,
+  "rank": 4310,
+  "popularity": 7958,
+  "members": 7548,
+  "favorites": 32,
+  "synopsis": "One year after the fight with the Innovators, a new terrorist organization called the Detectors threatens the world using LBXs. Ban joins up with new and old friends to stop the Detectors.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2012,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 791,
+      "type": "anime",
+      "name": "Dentsu Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/791/Dentsu_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/56963l.webp",
+  "trailer_url": null,
+  "id": 12651,
+  "slug": "danball-senki-w"
 }

@@ -1,18 +1,70 @@
 {
-  "id": 43325,
-  "slug": "yuukoku-no-moriarty-part-2-dublado",
-  "type": "dublado",
+  "mal_id": 43325,
+  "url": "https://myanimelist.net/anime/43325/Yuukoku_no_Moriarty_Part_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1200/111522.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1200/111522t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1200/111522l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1200/111522.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1200/111522t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1200/111522l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DeI3yNsyMKI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yuukoku no Moriarty Part 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Moriarty's Patriotism Part 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Moriarty the Patriot 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "憂国のモリアーティ"
+    },
+    {
+      "type": "English",
+      "title": "Moriarty the Patriot Part 2"
+    },
+    {
+      "type": "German",
+      "title": "Moriarty the Patriot Staffel 2"
+    },
+    {
+      "type": "French",
+      "title": "Moriarty the Patriot Saison 2"
+    }
+  ],
   "title": "Yuukoku no Moriarty Part 2",
   "title_english": "Moriarty the Patriot Part 2",
   "title_japanese": "憂国のモリアーティ",
-  "image": "https://cdn.myanimelist.net/images/anime/1200/111522l.webp",
-  "score": 8.29,
-  "synopsis": "Great Britain is ablaze with news of a so-called \"Lord of Crime,\" a criminal mastermind responsible for the downfall of several unruly nobles. In truth, the Lord of Crime is not an individual, but rather a group consisting of William James Moriarty and his two brothers, Louis and Albert. Together, they wish to destroy everything rotten about their current world and create a new, fair society for all. To accomplish their goal, they must commit criminal acts, which the great detective Sherlock Holmes and his partner, John H. Watson, cannot abide by. A dangerous cat and mouse game begins between the Lord of Crime and Sherlock, with each trying to outwit the other. Yet Sherlock, despite his skills, has no idea that his foe is right under his nose.\n\nInvolved with both parties is a woman named Irene Adler, who is as beautiful as she is cunning. No stranger to scandal, Irene has embroiled herself in one that may be too big even for her, as the classified documents she stole could shake the very foundations of the British Empire. Can Irene be saved, or does a deadly future await her?\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DeI3yNsyMKI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Mystery",
-    "Suspense"
+  "title_synonyms": [
+    "Moriarty's Patriotism Part 2",
+    "Moriarty the Patriot 2"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +131,133 @@
       "url": "https://lightspeedst.net/s5/mp4/yuukoku-no-moriarty-part-2-dublado/fhd/13.mp4",
       "nome": "The Final Problem, Act 2"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-04T00:00:00+00:00",
+    "to": "2021-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 4, 2021 to Jun 27, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.29,
+  "scored_by": 134258,
+  "rank": 321,
+  "popularity": 951,
+  "members": 285835,
+  "favorites": 3287,
+  "synopsis": "Great Britain is ablaze with news of a so-called \"Lord of Crime,\" a criminal mastermind responsible for the downfall of several unruly nobles. In truth, the Lord of Crime is not an individual, but rather a group consisting of William James Moriarty and his two brothers, Louis and Albert. Together, they wish to destroy everything rotten about their current world and create a new, fair society for all. To accomplish their goal, they must commit criminal acts, which the great detective Sherlock Holmes and his partner, John H. Watson, cannot abide by. A dangerous cat and mouse game begins between the Lord of Crime and Sherlock, with each trying to outwit the other. Yet Sherlock, despite his skills, has no idea that his foe is right under his nose.\n\nInvolved with both parties is a woman named Irene Adler, who is as beautiful as she is cunning. No stranger to scandal, Irene has embroiled herself in one that may be too big even for her, as the classified documents she stole could shake the very foundations of the British Empire. Can Irene be saved, or does a deadly future await her?\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2021,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    },
+    {
+      "mal_id": 1992,
+      "type": "anime",
+      "name": "Bandai Spirits",
+      "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Mystery",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 68,
+      "type": "anime",
+      "name": "Organized Crime",
+      "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1200/111522l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DeI3yNsyMKI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 43325,
+  "slug": "yuukoku-no-moriarty-part-2-dublado"
 }

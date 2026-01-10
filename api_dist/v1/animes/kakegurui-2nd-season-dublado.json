@@ -1,19 +1,71 @@
 {
-  "id": 37086,
-  "slug": "kakegurui-2nd-season-dublado",
-  "type": "dublado",
+  "mal_id": 37086,
+  "url": "https://myanimelist.net/anime/37086/Kakegurui××",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1496/96519.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1496/96519t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1496/96519l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1496/96519.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1496/96519t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1496/96519l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/8fCIcho7N4k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kakegurui××"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kakegurui 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kakegurui: Compulsive Gambler 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gambling School 2nd Season,"
+    },
+    {
+      "type": "Japanese",
+      "title": "賭ケグルイ××"
+    },
+    {
+      "type": "German",
+      "title": "Kakegurui: Das Leben ist ein Spiel Staffel 2"
+    },
+    {
+      "type": "French",
+      "title": "Gambling School Saison 2"
+    }
+  ],
   "title": "Kakegurui××",
   "title_english": "Kakegurui××",
   "title_japanese": "賭ケグルイ××",
-  "image": "https://cdn.myanimelist.net/images/anime/1496/96519l.webp",
-  "score": 7.18,
-  "synopsis": "As Yumeko Jabami's fame grows and the reputation of the student council dwindles, Kirari Momobami decides to revolutionize the group. To this end, she announces an election for its next president. The rules are simple: each student in the school receives one chip. Whoever has the most chips by the end of thirty days becomes both the new president and the head of the Momobami clan.\n\nUpon receiving news of this development, the Momobami branch families spring into action. Eleven transfer students arrive at Hyakkao Private Academy, each aiming to lead both the school and the Momobami clan. Equipped with unique talents, they will compete to get as many chips as possible—but their chips are not the only things on the line.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/8fCIcho7N4k?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Mystery",
-    "Suspense"
+  "title_synonyms": [
+    "Kakegurui 2nd Season",
+    "Kakegurui: Compulsive Gambler 2nd Season",
+    "Gambling School 2nd Season,"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +127,152 @@
       "url": "https://lightspeedst.net/s3/mp4/kakegurui-2nd-season-dublado/sd/12.mp4",
       "nome": "The Null Woman"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-09T00:00:00+00:00",
+    "to": "2019-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Jan 9, 2019 to Mar 27, 2019"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.18,
+  "scored_by": 496804,
+  "rank": 3606,
+  "popularity": 260,
+  "members": 829031,
+  "favorites": 2022,
+  "synopsis": "As Yumeko Jabami's fame grows and the reputation of the student council dwindles, Kirari Momobami decides to revolutionize the group. To this end, she announces an election for its next president. The rules are simple: each student in the school receives one chip. Whoever has the most chips by the end of thirty days becomes both the new president and the head of the Momobami clan.\n\nUpon receiving news of this development, the Momobami branch families spring into action. Eleven transfer students arrive at Hyakkao Private Academy, each aiming to lead both the school and the Momobami clan. Equipped with unique talents, they will compete to get as many chips as possible—but their chips are not the only things on the line.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "02:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 02:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 1185,
+      "type": "anime",
+      "name": "81 Produce",
+      "url": "https://myanimelist.net/anime/producer/1185/81_Produce"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 569,
+      "type": "anime",
+      "name": "MAPPA",
+      "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 59,
+      "type": "anime",
+      "name": "High Stakes Game",
+      "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1496/96519l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/8fCIcho7N4k?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37086,
+  "slug": "kakegurui-2nd-season-dublado"
 }

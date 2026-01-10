@@ -1,15 +1,51 @@
 {
-  "id": 52405,
-  "slug": "highspeed-etoile",
-  "type": "legendado",
+  "mal_id": 52405,
+  "url": "https://myanimelist.net/anime/52405/Highspeed_Etoile",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1719/143307.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1719/143307t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1719/143307l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1719/143307.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1719/143307t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1719/143307l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/h9irlbBv8ng?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Highspeed Etoile"
+    },
+    {
+      "type": "Japanese",
+      "title": "HIGHSPEED Étoile（ハイスピードエトワール）"
+    },
+    {
+      "type": "English",
+      "title": "Highspeed Etoile"
+    }
+  ],
   "title": "Highspeed Etoile",
   "title_english": "Highspeed Etoile",
   "title_japanese": "HIGHSPEED Étoile（ハイスピードエトワール）",
-  "image": "https://cdn.myanimelist.net/images/anime/1719/143307l.webp",
-  "score": 6.14,
-  "synopsis": "With the introduction of Hybrid Performance Exceed Reactor (HyPER)—a technology that injects new life into racing—race cars can now reach incredible speeds of up to five hundred kilometers per hour. Five years after the inception of the NEX Race, a competition where the cars are enhanced by HyPER and even AI, one man stands as the undisputed champion. Having won every title since the inaugural NEX Race season, Lorenzo M. Salvatore is the king of the racing world.\n\nUnexpectedly entering the tournament is a former ballet dancer, Rin Rindou, who has been given a chance to become a real racer after setting a world record in a racing video game. Forced to give up dancing, Rin shifts her focus to chasing a new goal, despite her lack of experience. Making the most of her peculiar skill set and the NEX Race innovations, the young newcomer may just be the one to dethrone the absolute king.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/h9irlbBv8ng?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -67,5 +103,98 @@
       "numero": 12,
       "url": "https://lightspeedst.net/s7/mp4/highspeed-etoile/hd/12.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-04-06T00:00:00+00:00",
+    "to": "2024-06-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2024
+      },
+      "to": {
+        "day": 22,
+        "month": 6,
+        "year": 2024
+      }
+    },
+    "string": "Apr 6, 2024 to Jun 22, 2024"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.14,
+  "scored_by": 4848,
+  "rank": 9596,
+  "popularity": 5566,
+  "members": 18434,
+  "favorites": 102,
+  "synopsis": "With the introduction of Hybrid Performance Exceed Reactor (HyPER)—a technology that injects new life into racing—race cars can now reach incredible speeds of up to five hundred kilometers per hour. Five years after the inception of the NEX Race, a competition where the cars are enhanced by HyPER and even AI, one man stands as the undisputed champion. Having won every title since the inaugural NEX Race season, Lorenzo M. Salvatore is the king of the racing world.\n\nUnexpectedly entering the tournament is a former ballet dancer, Rin Rindou, who has been given a chance to become a real racer after setting a world record in a racing video game. Forced to give up dancing, Rin shifts her focus to chasing a new goal, despite her lack of experience. Making the most of her peculiar skill set and the NEX Race innovations, the young newcomer may just be the one to dethrone the absolute king.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2024,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:53",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:53 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 2634,
+      "type": "anime",
+      "name": "Yostar",
+      "url": "https://myanimelist.net/anime/producer/2634/Yostar"
+    },
+    {
+      "mal_id": 2908,
+      "type": "anime",
+      "name": "First Call Music",
+      "url": "https://myanimelist.net/anime/producer/2908/First_Call_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1209,
+      "type": "anime",
+      "name": "Studio A-CAT",
+      "url": "https://myanimelist.net/anime/producer/1209/Studio_A-CAT"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 3,
+      "type": "anime",
+      "name": "Racing",
+      "url": "https://myanimelist.net/anime/genre/3/Racing"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1719/143307l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/h9irlbBv8ng?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 52405,
+  "slug": "highspeed-etoile"
 }

@@ -1,19 +1,69 @@
 {
-  "id": 23277,
-  "slug": "saekano-how-to-raise-a-boring-girlfriend",
-  "type": "legendado",
+  "mal_id": 23277,
+  "url": "https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1329/142757.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1329/142757t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/142757l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1329/142757.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1329/142757t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/142757l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Hv3oF7Ky8NI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Saenai Heroine no Sodatekata"
+    },
+    {
+      "type": "Synonym",
+      "title": "Saenai Kanojo no Sodate-kata"
+    },
+    {
+      "type": "Japanese",
+      "title": "冴えない彼女〈ヒロイン〉の育てかた"
+    },
+    {
+      "type": "English",
+      "title": "Saekano: How to Raise a Boring Girlfriend"
+    },
+    {
+      "type": "German",
+      "title": "Saekano? How to Raise a Boring Girlfriend"
+    },
+    {
+      "type": "Spanish",
+      "title": "Saekano: Cómo Educar a una Novia Aburrida"
+    },
+    {
+      "type": "French",
+      "title": "Saekano: How to Raise a Boring Girlfriend"
+    }
+  ],
   "title": "Saenai Heroine no Sodatekata",
   "title_english": "Saekano: How to Raise a Boring Girlfriend",
   "title_japanese": "冴えない彼女〈ヒロイン〉の育てかた",
-  "image": "https://cdn.myanimelist.net/images/anime/1329/142757l.webp",
-  "score": 7.47,
-  "synopsis": "Tomoya Aki, an otaku, has been obsessed with collecting anime and light novels for years, attaching himself to various series with captivating stories and characters. Now, he wants to have a chance of providing the same experience for others by creating his own game, but unfortunately, Tomoya cannot do this task by himself.\n\nHe successfully recruits childhood friend Eriri Spencer Sawamura to illustrate and literary elitist Utaha Kasumigaoka to write the script for his visual novel, while he directs. Super-group now in hand, Tomoya only needs an inspiration to base his project on, and luckily meets the beautiful, docile Megumi Katou, who he then models his main character after.\n\nUsing what knowledge he has, Tomoya creates a new doujin circle with hopes to touch the hearts of those who play their game. What he does not realize, is that to invoke these emotions, the creators have had to experience the same feelings in their own lives.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Hv3oF7Ky8NI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Saenai Kanojo no Sodate-kata"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +129,151 @@
       "numero": 13,
       "url": "https://lightspeedst.net/s3/mp4/saekano-how-to-raise-a-boring-girlfriend/sd/13.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-01-16T00:00:00+00:00",
+    "to": "2015-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 16,
+        "month": 1,
+        "year": 2015
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2015
+      }
+    },
+    "string": "Jan 16, 2015 to Mar 27, 2015"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.47,
+  "scored_by": 333061,
+  "rank": 2182,
+  "popularity": 326,
+  "members": 707396,
+  "favorites": 4544,
+  "synopsis": "Tomoya Aki, an otaku, has been obsessed with collecting anime and light novels for years, attaching himself to various series with captivating stories and characters. Now, he wants to have a chance of providing the same experience for others by creating his own game, but unfortunately, Tomoya cannot do this task by himself.\n\nHe successfully recruits childhood friend Eriri Spencer Sawamura to illustrate and literary elitist Utaha Kasumigaoka to write the script for his visual novel, while he directs. Super-group now in hand, Tomoya only needs an inspiration to base his project on, and luckily meets the beautiful, docile Megumi Katou, who he then models his main character after.\n\nUsing what knowledge he has, Tomoya creates a new doujin circle with hopes to touch the hearts of those who play their game. What he does not realize, is that to invoke these emotions, the creators have had to experience the same feelings in their own lives.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2015,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:50",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:50 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 619,
+      "type": "anime",
+      "name": "Cospa",
+      "url": "https://myanimelist.net/anime/producer/619/Cospa"
+    },
+    {
+      "mal_id": 769,
+      "type": "anime",
+      "name": "Fujipacific Music",
+      "url": "https://myanimelist.net/anime/producer/769/Fujipacific_Music"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1411,
+      "type": "anime",
+      "name": "Kyoraku Industrial Holdings",
+      "url": "https://myanimelist.net/anime/producer/1411/Kyoraku_Industrial_Holdings"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 1664,
+      "type": "anime",
+      "name": "Fujimi Shobo",
+      "url": "https://myanimelist.net/anime/producer/1664/Fujimi_Shobo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1329/142757l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Hv3oF7Ky8NI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 23277,
+  "slug": "saekano-how-to-raise-a-boring-girlfriend"
 }

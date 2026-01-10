@@ -1,18 +1,57 @@
 {
-  "id": 48590,
-  "slug": "mini-dragon",
-  "type": "legendado",
+  "mal_id": 48590,
+  "url": "https://myanimelist.net/anime/48590/Mini_Dragon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1060/117806.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1060/117806t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1060/117806l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1060/117806.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1060/117806t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1060/117806l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Mini Dragon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Minidora"
+    },
+    {
+      "type": "Japanese",
+      "title": "ミニドラ"
+    },
+    {
+      "type": "English",
+      "title": "Miss Kobayashi's Dragon Maid S Short Animation Series"
+    }
+  ],
   "title": "Mini Dragon",
   "title_english": "Miss Kobayashi's Dragon Maid S Short Animation Series",
   "title_japanese": "ミニドラ",
-  "image": "https://cdn.myanimelist.net/images/anime/1060/117806l.webp",
-  "score": 7.34,
-  "synopsis": "Commemoration mini-anime series released on Kyoani YouTube Channel ahead of Kobayashi-san Chi no Maid Dragon S.",
-  "trailer_url": null,
-  "genres": [
-    "Slice of Life",
-    "Supernatural"
+  "title_synonyms": [
+    "Minidora"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +118,63 @@
       "url": "https://lightspeedst.net/s2/mp4/mini-dragon/fhd/13.mp4",
       "nome": "Honeymoon (Of Course, That's How It Ends)"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-04-07T00:00:00+00:00",
+    "to": "2021-06-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2021
+      },
+      "to": {
+        "day": 30,
+        "month": 6,
+        "year": 2021
+      }
+    },
+    "string": "Apr 7, 2021 to Jun 30, 2021"
+  },
+  "duration": "1 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.34,
+  "scored_by": 38608,
+  "rank": 2772,
+  "popularity": 3021,
+  "members": 65371,
+  "favorites": 70,
+  "synopsis": "Commemoration mini-anime series released on Kyoani YouTube Channel ahead of Kobayashi-san Chi no Maid Dragon S.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2,
+      "type": "anime",
+      "name": "Kyoto Animation",
+      "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+    }
+  ],
+  "genres": [
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1060/117806l.webp",
+  "trailer_url": null,
+  "id": 48590,
+  "slug": "mini-dragon"
 }

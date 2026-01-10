@@ -1,19 +1,57 @@
 {
-  "id": 65,
-  "slug": "rozen-maiden-traeumend",
-  "type": "legendado",
+  "mal_id": 65,
+  "url": "https://myanimelist.net/anime/65/Rozen_Maiden__Träumend",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/10242.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/10242t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/10242l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/10242.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/10242t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/10242l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Rozen Maiden: Träumend"
+    },
+    {
+      "type": "Synonym",
+      "title": "Rozen Maiden 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "ローゼンメイデン トロイメント"
+    },
+    {
+      "type": "English",
+      "title": "Rozen Maiden: Träumend"
+    }
+  ],
   "title": "Rozen Maiden: Träumend",
   "title_english": "Rozen Maiden: Träumend",
   "title_japanese": "ローゼンメイデン トロイメント",
-  "image": "https://cdn.myanimelist.net/images/anime/4/10242l.webp",
-  "score": 7.61,
-  "synopsis": "As the story of Rozen Maiden closes, a new chapter begins in Rozen Maiden: Träumend. Shinku and the other sentient dolls of the Rozen Maiden collection are living life as usual at Jun Sakurada's house. Having settled into his role as Shinku's partner in the deadly Alice Game, Jun overcomes his former fears and prepares to return to school. And although Shinku and the other dolls idly pass the days by in the comfort of Jun's home, dark times lie ahead as a new foe presents herself: Barasuishou, the seventh Rozen Maiden.\n\nBut Barasuishou is a mystery even to her sisters, none of whom have ever laid eyes on her until now. Shinku considers this a sign that the Alice Game is coming to an end, meaning the dolls will soon be forced to fight one another. Haunted by the upcoming battle and nightmares concerning another doll, Shinku begins distancing herself from the others. If she wishes to claim victory, it will come at a high cost—the lives of her sisters.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Drama",
-    "Supernatural"
+  "title_synonyms": [
+    "Rozen Maiden 2"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +113,97 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzF8uHmzCn6Wd4vQjeKIa4zRE4Kdf7Rcqqkh1IoJBs1fSJv481QO08vqcuuNu83RgSc8SrO1YF4pyv4nCa-DA--xfRui6lTbNK_BvsK7Bx1O0w86kx4ClW--7YbsSGn1audJzQ",
       "nome": "Alice"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-10-21T00:00:00+00:00",
+    "to": "2006-01-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 10,
+        "year": 2005
+      },
+      "to": {
+        "day": 27,
+        "month": 1,
+        "year": 2006
+      }
+    },
+    "string": "Oct 21, 2005 to Jan 27, 2006"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.61,
+  "scored_by": 61195,
+  "rank": 1608,
+  "popularity": 2187,
+  "members": 110372,
+  "favorites": 485,
+  "synopsis": "As the story of Rozen Maiden closes, a new chapter begins in Rozen Maiden: Träumend. Shinku and the other sentient dolls of the Rozen Maiden collection are living life as usual at Jun Sakurada's house. Having settled into his role as Shinku's partner in the deadly Alice Game, Jun overcomes his former fears and prepares to return to school. And although Shinku and the other dolls idly pass the days by in the comfort of Jun's home, dark times lie ahead as a new foe presents herself: Barasuishou, the seventh Rozen Maiden.\n\nBut Barasuishou is a mystery even to her sisters, none of whom have ever laid eyes on her until now. Shinku considers this a sign that the Alice Game is coming to an end, meaning the dolls will soon be forced to fight one another. Haunted by the upcoming battle and nightmares concerning another doll, Shinku begins distancing herself from the others. If she wishes to claim victory, it will come at a high cost—the lives of her sisters.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2005,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 71,
+      "type": "anime",
+      "name": "Mellow Head",
+      "url": "https://myanimelist.net/anime/producer/71/Mellow_Head"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Nomad",
+      "url": "https://myanimelist.net/anime/producer/70/Nomad"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/10242l.webp",
+  "trailer_url": null,
+  "id": 65,
+  "slug": "rozen-maiden-traeumend"
 }

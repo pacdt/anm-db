@@ -1,19 +1,57 @@
 {
-  "id": 10800,
-  "slug": "chihayafuru",
-  "type": "legendado",
+  "mal_id": 10800,
+  "url": "https://myanimelist.net/anime/10800/Chihayafuru",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/35749.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/35749t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/35749l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/35749.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/35749t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/35749l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Y8U-E8hldHk?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Chihayafuru"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chihayafull"
+    },
+    {
+      "type": "Japanese",
+      "title": "ちはやふる"
+    },
+    {
+      "type": "English",
+      "title": "Chihayafuru"
+    }
+  ],
   "title": "Chihayafuru",
   "title_english": "Chihayafuru",
   "title_japanese": "ちはやふる",
-  "image": "https://cdn.myanimelist.net/images/anime/3/35749l.webp",
-  "score": 8.17,
-  "synopsis": "As a child, Chihaya Ayase had only one dream: to see her elder sister Chitose become Japan's most successful model. However, upon defending her ostracised classmate Arata Wataya from his bully—Chihaya's childhood friend Taichi Mashima—she discovers the world of competitive karuta and soon becomes enamoured with the sport.\n\nBased on the Ogura Hundred Poets anthology, this card game where poems are studied requires excellent memory, agility, and a tremendous endurance from the players. Full of hope, Chihaya joins the Shiranami Society together with the newly reconciled Arata and Taichi, embarking on an exciting journey for the title awarded to the top-ranked female player—Queen of Karuta.\n\nSince middle school, Chihaya grew distant from a dispassionate Taichi and separated from Arata. However, in order to improve her skills, Chihaya decides to create a karuta club in her high school. With the help of Taichi, another veteran player, and a few spirited newcomers, Chihaya's new-founded Mizusawa Karuta Club aims for victory in the Omi Shrine's national championship.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Y8U-E8hldHk?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Sports"
+  "title_synonyms": [
+    "Chihayafull"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -140,5 +178,110 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw1YIjAIyEeDH6GR4HFwE07-dsg77c_D6plgLfOqYZ7jLIqKRX3Xi6TUx5E68NjEGB_ABXsvbxYZF1atw9xjxKBOiJVXWff51NL7s5R980kDmtIQ8nQhLqjOa9EEIET4XkrXbu3",
       "nome": "Moonlight, Clear and Bright"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-10-05T00:00:00+00:00",
+    "to": "2012-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2011
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2012
+      }
+    },
+    "string": "Oct 5, 2011 to Mar 28, 2012"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.17,
+  "scored_by": 193181,
+  "rank": 470,
+  "popularity": 512,
+  "members": 490522,
+  "favorites": 8339,
+  "synopsis": "As a child, Chihaya Ayase had only one dream: to see her elder sister Chitose become Japan's most successful model. However, upon defending her ostracised classmate Arata Wataya from his bully—Chihaya's childhood friend Taichi Mashima—she discovers the world of competitive karuta and soon becomes enamoured with the sport.\n\nBased on the Ogura Hundred Poets anthology, this card game where poems are studied requires excellent memory, agility, and a tremendous endurance from the players. Full of hope, Chihaya joins the Shiranami Society together with the newly reconciled Arata and Taichi, embarking on an exciting journey for the title awarded to the top-ranked female player—Queen of Karuta.\n\nSince middle school, Chihaya grew distant from a dispassionate Taichi and separated from Arata. However, in order to improve her skills, Chihaya decides to create a karuta club in her high school. With the help of Taichi, another veteran player, and a few spirited newcomers, Chihaya's new-founded Mizusawa Karuta Club aims for victory in the Omi Shrine's national championship.\n\n[Written by MAL Rewrite]",
+  "background": "Animax Asia released the anime with English subtitles in 2013.",
+  "season": "fall",
+  "year": 2011,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:59",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:59 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/35749l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Y8U-E8hldHk?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 10800,
+  "slug": "chihayafuru"
 }

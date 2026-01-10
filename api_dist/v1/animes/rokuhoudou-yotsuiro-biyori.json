@@ -1,18 +1,63 @@
 {
-  "id": 36513,
-  "slug": "rokuhoudou-yotsuiro-biyori",
-  "type": "legendado",
+  "mal_id": 36513,
+  "url": "https://myanimelist.net/anime/36513/Rokuhou-dou_Yotsuiro_Biyori",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1015/90727.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/90727t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/90727l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1015/90727.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/90727t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/90727l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1PhxmoNP9BU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Rokuhou-dou Yotsuiro Biyori"
+    },
+    {
+      "type": "Japanese",
+      "title": "鹿楓堂よついろ日和"
+    },
+    {
+      "type": "English",
+      "title": "Yotsuiro Biyori"
+    },
+    {
+      "type": "German",
+      "title": "Yotsuiro Biyori"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yotsuiro Biyori"
+    },
+    {
+      "type": "French",
+      "title": "Yotsuiro Biyori"
+    }
+  ],
   "title": "Rokuhou-dou Yotsuiro Biyori",
   "title_english": "Yotsuiro Biyori",
   "title_japanese": "鹿楓堂よついろ日和",
-  "image": "https://cdn.myanimelist.net/images/anime/1015/90727l.webp",
-  "score": 7.64,
-  "synopsis": "Kyousui \"Sui\" Tougoku inherits a traditional Japanese-style cafe called Rokuhoudou from his grandfather, which he manages alongside Gregorio \"Gure\" Valentino, Tokitaka Nagae, and Tsubaki Nakao. Their hospitality par excellence undoubtedly turns any one-time visitor into a regular. Having gone through their own share of trials and tribulations, the staff at this modest cafe do their best to serve their customers—whether it be through tea, sweets, or even helping with the various troubles one may have.\n\nAlthough most days pass pleasantly, the small world of Sui and his friends takes an unexpected path when their reputation as a cafe flourishes overnight.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1PhxmoNP9BU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Gourmet",
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -59,5 +104,89 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyoNErJyQZAGqnDMC_nqpI9lCxqLCT47dqzJAidkdVWoYaU6iUVLwOnYsKy1PtBZPHJOKxQovTdTl9bwA9uJcIA31JHIWwuIWIp6M_IAiXoS55KHFUNn2PCQE9Tzo6xbD05ORA",
       "nome": "Clumsy Hero | Mont Blanc Boy"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-11T00:00:00+00:00",
+    "to": "2018-06-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 27,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Apr 11, 2018 to Jun 27, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.64,
+  "scored_by": 13391,
+  "rank": 1519,
+  "popularity": 4110,
+  "members": 37159,
+  "favorites": 226,
+  "synopsis": "Kyousui \"Sui\" Tougoku inherits a traditional Japanese-style cafe called Rokuhoudou from his grandfather, which he manages alongside Gregorio \"Gure\" Valentino, Tokitaka Nagae, and Tsubaki Nakao. Their hospitality par excellence undoubtedly turns any one-time visitor into a regular. Having gone through their own share of trials and tribulations, the staff at this modest cafe do their best to serve their customers—whether it be through tea, sweets, or even helping with the various troubles one may have.\n\nAlthough most days pass pleasantly, the small world of Sui and his friends takes an unexpected path when their reputation as a cafe flourishes overnight.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 00:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    "Gourmet",
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1015/90727l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1PhxmoNP9BU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36513,
+  "slug": "rokuhoudou-yotsuiro-biyori"
 }

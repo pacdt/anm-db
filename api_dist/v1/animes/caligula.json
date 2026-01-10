@@ -1,15 +1,47 @@
 {
-  "id": 37733,
-  "slug": "caligula",
-  "type": "legendado",
+  "mal_id": 37733,
+  "url": "https://myanimelist.net/anime/37733/Caligula_Music",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1270/91876.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/91876t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/91876l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1270/91876.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1270/91876t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/91876l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Caligula (Music)"
+    },
+    {
+      "type": "Japanese",
+      "title": "CALiGULA"
+    }
+  ],
   "title": "Caligula (Music)",
   "title_english": "Caligula (Music)",
   "title_japanese": "CALiGULA",
-  "image": "https://cdn.myanimelist.net/images/anime/1270/91876l.webp",
-  "score": 5.55,
-  "synopsis": "Music video for CALiGULA by GREAT3. Single from 1998.\n\nGuest vocals by CHARA.",
-  "trailer_url": null,
-  "genres": [],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Music",
   "episodes": [
     {
       "numero": 1,
@@ -59,5 +91,60 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dx5UoMDeems1SmekXeXW2aKC9Xm7xQvKmwSC1iyrJSMcThFRWrX38aVCcjIE-33KMTzDvYmi0no4EcztVPxUDpSPG-PQ1h_TCnyUr55nZdxpRkcK5GNSREnbrMlq-mpBLAnUEY"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-05-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 5,
+        "year": 2012
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "May 27, 2012"
+  },
+  "duration": "5 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.55,
+  "scored_by": 192,
+  "rank": null,
+  "popularity": 18828,
+  "members": 442,
+  "favorites": 0,
+  "synopsis": "Music video for CALiGULA by GREAT3. Single from 1998.\n\nGuest vocals by CHARA.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1270/91876l.webp",
+  "trailer_url": null,
+  "id": 37733,
+  "slug": "caligula"
 }

@@ -1,18 +1,51 @@
 {
-  "id": 34280,
-  "slug": "gamers",
-  "type": "legendado",
+  "mal_id": 34280,
+  "url": "https://myanimelist.net/anime/34280/Gamers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/86828.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86828t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86828l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/86828.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86828t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86828l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/UBq2wniqUOo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gamers!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゲーマーズ！"
+    },
+    {
+      "type": "English",
+      "title": "Gamers!"
+    }
+  ],
   "title": "Gamers!",
   "title_english": "Gamers!",
   "title_japanese": "ゲーマーズ！",
-  "image": "https://cdn.myanimelist.net/images/anime/4/86828l.webp",
-  "score": 6.72,
-  "synopsis": "Keita Amano is a typical high school gamer living out an average student's life. One day, however, he has an unexpected meeting with the cutest girl in school that makes him want to disappear without a trace! \n\nThis girl, Karen Tendou, is an exemplary student who is proclaimed to be the school's idol. She discovers that Amano is a gamer, and this newfound knowledge incites a passionate desire within her to recruit him into the game club. Upon visiting the club, Amano is forcefully made aware of a side to gaming wildly different than the one he loves so dearly. \n\nTendou's interest in Amano begins shaking up what was once an uneventful life, filling it with spontaneity, awkwardness, and a little bit of mayhem. As a result, every day becomes a comical battle for Amano's sanity as he tries to adapt to these wild, unexpected changes.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/UBq2wniqUOo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,156 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyAFDqDeF5mxOgry8xE7rNS_JdWQOrJgVGa8lycYzhCcYY3vDeqHOI9WeAYpzUjcC58OZ1vMxjtnyFG4pqUPxNfvsMUamxa2LvosbUIWbk9iBLmUAmOqChtTZftRitbE5lUnFRq",
       "nome": "Intermission x Gamers and Billing System Talk"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-13T00:00:00+00:00",
+    "to": "2017-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2017
+      }
+    },
+    "string": "Jul 13, 2017 to Sep 28, 2017"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.72,
+  "scored_by": 393458,
+  "rank": 6002,
+  "popularity": 339,
+  "members": 692669,
+  "favorites": 2254,
+  "synopsis": "Keita Amano is a typical high school gamer living out an average student's life. One day, however, he has an unexpected meeting with the cutest girl in school that makes him want to disappear without a trace! \n\nThis girl, Karen Tendou, is an exemplary student who is proclaimed to be the school's idol. She discovers that Amano is a gamer, and this newfound knowledge incites a passionate desire within her to recruit him into the game club. Upon visiting the club, Amano is forcefully made aware of a side to gaming wildly different than the one he loves so dearly. \n\nTendou's interest in Amano begins shaking up what was once an uneventful life, filling it with spontaneity, awkwardness, and a little bit of mayhem. As a result, every day becomes a comical battle for Amano's sanity as he tries to adapt to these wild, unexpected changes.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2017,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "21:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 21:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Sony Pictures Entertainment",
+      "url": "https://myanimelist.net/anime/producer/15/Sony_Pictures_Entertainment"
+    },
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1331,
+      "type": "anime",
+      "name": "i0+",
+      "url": "https://myanimelist.net/anime/producer/1331/i0_"
+    },
+    {
+      "mal_id": 1336,
+      "type": "anime",
+      "name": "Chugai Mining",
+      "url": "https://myanimelist.net/anime/producer/1336/Chugai_Mining"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1295,
+      "type": "anime",
+      "name": "PINE JAM",
+      "url": "https://myanimelist.net/anime/producer/1295/PINE_JAM"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Video Game",
+      "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/86828l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/UBq2wniqUOo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34280,
+  "slug": "gamers"
 }

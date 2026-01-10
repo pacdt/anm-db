@@ -1,19 +1,63 @@
 {
-  "id": 34834,
-  "slug": "hina-logi-from-luck-logic",
-  "type": "legendado",
+  "mal_id": 34834,
+  "url": "https://myanimelist.net/anime/34834/Hina_Logi__From_Luck___Logic",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/86576.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86576t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86576l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/86576.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/86576t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/86576l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/egjLhcfDYF8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hina Logi: From Luck & Logic"
+    },
+    {
+      "type": "Japanese",
+      "title": "ひなろじ～from Luck & Logic～"
+    },
+    {
+      "type": "English",
+      "title": "Hina Logic – from Luck & Logic"
+    },
+    {
+      "type": "German",
+      "title": "Hina Logic - from Luck & Logic"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hina Logic: From Luck & Logic"
+    },
+    {
+      "type": "French",
+      "title": "Hina Logic – from Luck & Logic"
+    }
+  ],
   "title": "Hina Logi: From Luck & Logic",
   "title_english": "Hina Logic – from Luck & Logic",
   "title_japanese": "ひなろじ～from Luck & Logic～",
-  "image": "https://cdn.myanimelist.net/images/anime/11/86576l.webp",
-  "score": 6.65,
-  "synopsis": "Liones Yelistratova, a pure princess from a small country, enters a school in Hokkaido on a spring day. The school is a specialized educational institution operated by ALCA to train Logicalists, who maintain world peace. Liones enters class S, where she meets many classmates with unique personalities, like Nina. A lively and cute everyday life begins now.\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/egjLhcfDYF8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Card game",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dza9XiDWyW9FbMo0n07jFPi5F4iHbsNFdevTLH1sjStV8NW3D--3lEfO2rX1nxbMBq8YkGwUfdWhNH_ve8jy1_dYzZupf8IvDbgQ7kq2qOC02Clf9cIfAL0AcQLTk20gVQvtizr",
       "nome": "Episode 12"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-07-01T00:00:00+00:00",
+    "to": "2017-09-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 7,
+        "year": 2017
+      },
+      "to": {
+        "day": 23,
+        "month": 9,
+        "year": 2017
+      }
+    },
+    "string": "Jul 1, 2017 to Sep 23, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.65,
+  "scored_by": 10534,
+  "rank": 6482,
+  "popularity": 4385,
+  "members": 32457,
+  "favorites": 81,
+  "synopsis": "Liones Yelistratova, a pure princess from a small country, enters a school in Hokkaido on a spring day. The school is a specialized educational institution operated by ALCA to train Logicalists, who maintain world peace. Liones enters class S, where she meets many classmates with unique personalities, like Nina. A lively and cute everyday life begins now.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "summer",
+  "year": 2017,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Saturdays at Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 459,
+      "type": "anime",
+      "name": "Nitroplus",
+      "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 1678,
+      "type": "anime",
+      "name": "Yuhodo",
+      "url": "https://myanimelist.net/anime/producer/1678/Yuhodo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 95,
+      "type": "anime",
+      "name": "Doga Kobo",
+      "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/86576l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/egjLhcfDYF8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34834,
+  "slug": "hina-logi-from-luck-logic"
 }

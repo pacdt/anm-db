@@ -1,20 +1,61 @@
 {
-  "id": 9736,
-  "slug": "astarotte-no-omocha",
-  "type": "legendado",
+  "mal_id": 9736,
+  "url": "https://myanimelist.net/anime/9736/Astarotte_no_Omocha",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/75562.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75562t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75562l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/75562.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75562t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75562l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/qKo1bHKI_PA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Astarotte no Omocha!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Lotte no Omocha!"
+    },
+    {
+      "type": "Japanese",
+      "title": "アスタロッテのおもちゃ！"
+    },
+    {
+      "type": "English",
+      "title": "Astarotte's Toy"
+    },
+    {
+      "type": "Spanish",
+      "title": "Astarotte's Toy"
+    }
+  ],
   "title": "Astarotte no Omocha!",
   "title_english": "Astarotte's Toy",
   "title_japanese": "アスタロッテのおもちゃ！",
-  "image": "https://cdn.myanimelist.net/images/anime/3/75562l.webp",
-  "score": 6.46,
-  "synopsis": "Succubi, like the young princess Astarotte \"Lotte\" Ygvar, require the life seed from men to survive, replenish their magic, and continue the royal lineage of the magical realm. This means succubi are required to keep a harem of men close at hand. Ironically, Lotte despises men, which will put her life at risk once she matures. To convince her to fulfill her duties, one of her attendants, Judith Snorrevik, goes to the human realm to find a human male whom Lotte can tolerate.\n\nJudith returns with 23-year-old Naoya Touhara, a single father who unfortunately leaves his daughter, Asuha, behind in the human realm. As the first member of Lotte's harem, Naoya quickly adapts to this new environment, serving the princess to make her happy, rather than viewing her with sexual intent. Unfortunately, when his daughter is allowed to arrive in the magical realm, Naoya's relationship quickly worsens with Lotte. Even so, he strives to patch up their relationship.\n\nIt soon becomes clear, however, that Naoya's presence in the magical realm is more than just mere coincidence. As he develops his bond with Lotte, fate begins to pull together the connections that tie him and everyone else within this enchanting world.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/qKo1bHKI_PA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Lotte no Omocha!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +117,116 @@
       "url": "https://lightspeedst.net/s3/mp4/astarotte-no-omocha/sd/12.mp4",
       "nome": "An Asterisk Beyond the Sky"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-04-11T00:00:00+00:00",
+    "to": "2011-06-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2011
+      },
+      "to": {
+        "day": 26,
+        "month": 6,
+        "year": 2011
+      }
+    },
+    "string": "Apr 11, 2011 to Jun 26, 2011"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.46,
+  "scored_by": 71890,
+  "rank": 7671,
+  "popularity": 1694,
+  "members": 153908,
+  "favorites": 252,
+  "synopsis": "Succubi, like the young princess Astarotte \"Lotte\" Ygvar, require the life seed from men to survive, replenish their magic, and continue the royal lineage of the magical realm. This means succubi are required to keep a harem of men close at hand. Ironically, Lotte despises men, which will put her life at risk once she matures. To convince her to fulfill her duties, one of her attendants, Judith Snorrevik, goes to the human realm to find a human male whom Lotte can tolerate.\n\nJudith returns with 23-year-old Naoya Touhara, a single father who unfortunately leaves his daughter, Asuha, behind in the human realm. As the first member of Lotte's harem, Naoya quickly adapts to this new environment, serving the princess to make her happy, rather than viewing her with sexual intent. Unfortunately, when his daughter is allowed to arrive in the magical realm, Naoya's relationship quickly worsens with Lotte. Even so, he strives to patch up their relationship.\n\nIt soon becomes clear, however, that Naoya's presence in the magical realm is more than just mere coincidence. As he develops his bond with Lotte, fate begins to pull together the connections that tie him and everyone else within this enchanting world.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2011,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/75562l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/qKo1bHKI_PA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 9736,
+  "slug": "astarotte-no-omocha"
 }

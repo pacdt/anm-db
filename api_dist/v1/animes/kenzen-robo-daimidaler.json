@@ -1,19 +1,74 @@
 {
-  "id": 21809,
-  "slug": "kenzen-robo-daimidaler",
-  "type": "legendado",
+  "mal_id": 21809,
+  "url": "https://myanimelist.net/anime/21809/Kenzen_Robo_Daimidaler",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/61435.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/61435t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/61435l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/61435.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/61435t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/61435l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kenzen Robo Daimidaler"
+    },
+    {
+      "type": "Synonym",
+      "title": "Daimidaler the Sound Robot"
+    },
+    {
+      "type": "Synonym",
+      "title": "Midara"
+    },
+    {
+      "type": "Japanese",
+      "title": "健全ロボ ダイミダラー"
+    },
+    {
+      "type": "English",
+      "title": "Daimidaler: Prince vs. Penguin Empire"
+    },
+    {
+      "type": "German",
+      "title": "Daimidaler: Prince vs. Penguin Empire"
+    },
+    {
+      "type": "Spanish",
+      "title": "Daimidaler: Prince vs. Penguin Empire"
+    },
+    {
+      "type": "French",
+      "title": "Daimidaler: Prince vs. Penguin Empire"
+    }
+  ],
   "title": "Kenzen Robo Daimidaler",
   "title_english": "Daimidaler: Prince vs. Penguin Empire",
   "title_japanese": "健全ロボ ダイミダラー",
-  "image": "https://cdn.myanimelist.net/images/anime/2/61435l.webp",
-  "score": 6.13,
-  "synopsis": "Battles continue between \"Penguin Empire\", the mysterious life form which arrived on earth all of a sudden, and \"Beauty Salon Prince\", the secret anti-Penguin organization. In order to fight Penguin Empire's gigantic \"Penguin Robot\", Beauty Salon Prince has developed their ultimate weapon, \"Daimidaler\", and is now looking for the pilot. They choose Koichi Madanbashi, a hot-blooded high school boy who is mad about big boobs, because he is the factor of \"Hi-ERo particles\", the source of unknown energy.\n\n(Source: Showgate)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi",
-    "Ecchi"
+  "title_synonyms": [
+    "Daimidaler the Sound Robot",
+    "Midara"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +130,122 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyZvVYmmqpTbUX-pIcKT6Q42uVSXX57C6Is0IN6fQwLQz9AXA8pw3VkxANiwj-Ad650IAXjBmPfyhcPmwngFgM2ncqiaANWFh15fZ_1ZV4_VMEtb1dBoNBt3vNhZDwFkV-d7Y4",
       "nome": "Showdown! Sound Robots V.S. Daimidaler"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-04-05T00:00:00+00:00",
+    "to": "2014-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2014
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 2014
+      }
+    },
+    "string": "Apr 5, 2014 to Jun 21, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.13,
+  "scored_by": 27376,
+  "rank": 9615,
+  "popularity": 2768,
+  "members": 76167,
+  "favorites": 118,
+  "synopsis": "Battles continue between \"Penguin Empire\", the mysterious life form which arrived on earth all of a sudden, and \"Beauty Salon Prince\", the secret anti-Penguin organization. In order to fight Penguin Empire's gigantic \"Penguin Robot\", Beauty Salon Prince has developed their ultimate weapon, \"Daimidaler\", and is now looking for the pilot. They choose Koichi Madanbashi, a hot-blooded high school boy who is mad about big boobs, because he is the factor of \"Hi-ERo particles\", the source of unknown energy.\n\n(Source: Showgate)",
+  "background": "",
+  "season": "spring",
+  "year": 2014,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 120,
+      "type": "anime",
+      "name": "TNK",
+      "url": "https://myanimelist.net/anime/producer/120/TNK"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/2/61435l.webp",
+  "trailer_url": null,
+  "id": 21809,
+  "slug": "kenzen-robo-daimidaler"
 }

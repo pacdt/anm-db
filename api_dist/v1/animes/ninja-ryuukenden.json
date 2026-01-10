@@ -1,24 +1,138 @@
 {
-  "id": 619,
-  "slug": "ninja-ryuukenden",
-  "type": "legendado",
+  "mal_id": 619,
+  "url": "https://myanimelist.net/anime/619/Ninja_Ryuukenden",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/69415.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/69415t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/69415l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/69415.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/69415t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/69415l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ninja Ryuukenden"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ninja Ryukenden"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tale of Ninja Ryuuken"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ninja Ryu: The Dragon Sword Story"
+    },
+    {
+      "type": "Japanese",
+      "title": "忍者龍剣伝"
+    },
+    {
+      "type": "English",
+      "title": "Ninja Gaiden"
+    }
+  ],
   "title": "Ninja Ryuukenden",
   "title_english": "Ninja Gaiden",
   "title_japanese": "忍者龍剣伝",
-  "image": "https://cdn.myanimelist.net/images/anime/5/69415l.webp",
+  "title_synonyms": [
+    "Ninja Ryukenden",
+    "Tale of Ninja Ryuuken",
+    "Ninja Ryu: The Dragon Sword Story"
+  ],
+  "type": "legendado",
+  "source": "Game",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s3/mp4/ninja-ryuukenden/sd/1.mp4"
+    }
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1991-11-22T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 22,
+        "month": 11,
+        "year": 1991
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Nov 22, 1991"
+  },
+  "duration": "48 min",
+  "rating": "R - 17+ (violence & profanity)",
   "score": 5.67,
+  "scored_by": 2782,
+  "rank": 12084,
+  "popularity": 8808,
+  "members": 5913,
+  "favorites": 7,
   "synopsis": "By day, Ryu Hayabusa is the owner of a simple shop selling Japanese antiques. By night, he defends New York City as the Dragon Ninja. When the respected Dr. Ned Friedman announces that he has developed a perfect cure for cancer in an extremely bizarre press conference, Ryu knows that something is very wrong. Along with his trusted associates who work for a small newspaper, Ryu sets out to uncover the dark secrets behind Dr. Friedman's supposed miracle cure.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
+  "background": "The Ninja Ryuukenden anime is a sequel to the first entry of the Ninja Ryuukenden series of video games.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 280,
+      "type": "anime",
+      "name": "Studio Junio",
+      "url": "https://myanimelist.net/anime/producer/280/Studio_Junio"
+    }
+  ],
   "genres": [
     "Action",
     "Sci-Fi",
     "Supernatural",
     "Suspense"
   ],
-  "episodes": [
+  "explicit_genres": [],
+  "themes": [
     {
-      "numero": 1,
-      "url": "https://lightspeedst.net/s3/mp4/ninja-ryuukenden/sd/1.mp4"
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
     }
-  ]
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/69415l.webp",
+  "trailer_url": null,
+  "id": 619,
+  "slug": "ninja-ryuukenden"
 }

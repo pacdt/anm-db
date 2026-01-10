@@ -1,19 +1,69 @@
 {
-  "id": 459,
-  "slug": "one-piece",
-  "type": "legendado",
+  "mal_id": 459,
+  "url": "https://myanimelist.net/anime/459/One_Piece_Movie_01",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1770/97704t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1770/97704l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1770/97704.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1770/97704t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1770/97704l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/eEApDotghec?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "One Piece Movie 01"
+    },
+    {
+      "type": "Synonym",
+      "title": "One Piece: The Movie"
+    },
+    {
+      "type": "Japanese",
+      "title": "ONE PIECE"
+    },
+    {
+      "type": "English",
+      "title": "One Piece: The Movie"
+    },
+    {
+      "type": "German",
+      "title": "One Piece: Der Film"
+    },
+    {
+      "type": "Spanish",
+      "title": "One Piece: La Película"
+    },
+    {
+      "type": "French",
+      "title": "One Piece: Le Film"
+    }
+  ],
   "title": "One Piece Movie 01",
   "title_english": "One Piece: The Movie",
   "title_japanese": "ONE PIECE",
-  "image": "https://cdn.myanimelist.net/images/anime/1770/97704l.webp",
-  "score": 7.09,
-  "synopsis": "Many years ago, Woonan, a legendary pirate, plundered one-third of the world's gold and stashed it away on his secret island shrouded in mystery. \n\nIn the present, Luffy and the rest of the Straw Hats continue on their journey to the Grand Line. They are robbed by a group of bandits. Led by their captain, El Drago, these same bandits are headed towards Woonan's famed island. Even though the Straw Hat Pirates must now recover their stolen treasure, they have gained another objective: to discover the lost island, its treasures, and learn about the legend of Woonan.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/eEApDotghec?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "One Piece: The Movie"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -4635,5 +4685,71 @@
       "numero": 1155,
       "url": "https://lightspeedst.net/s2/mp4_temp/one-piece/1155/720p.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-03-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 3,
+        "year": 2000
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Mar 4, 2000"
+  },
+  "duration": "50 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.09,
+  "scored_by": 85933,
+  "rank": 4129,
+  "popularity": 1714,
+  "members": 151970,
+  "favorites": 469,
+  "synopsis": "Many years ago, Woonan, a legendary pirate, plundered one-third of the world's gold and stashed it away on his secret island shrouded in mystery. \n\nIn the present, Luffy and the rest of the Straw Hats continue on their journey to the Grand Line. They are robbed by a group of bandits. Led by their captain, El Drago, these same bandits are headed towards Woonan's famed island. Even though the Straw Hat Pirates must now recover their stolen treasure, they have gained another objective: to discover the lost island, its treasures, and learn about the legend of Woonan.\n\n[Written by MAL Rewrite]",
+  "background": "One Piece Movie 01 was aired in theaters as a double feature alongside Digimon Adventure: Bokura no War Game as part of Toei's Spring 2000 Anime fair.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1770/97704l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/eEApDotghec?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 459,
+  "slug": "one-piece"
 }

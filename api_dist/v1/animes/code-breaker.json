@@ -1,17 +1,57 @@
 {
-  "id": 11703,
-  "slug": "code-breaker",
-  "type": "legendado",
+  "mal_id": 11703,
+  "url": "https://myanimelist.net/anime/11703/Code_Breaker",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/57251.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/57251t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/57251l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/57251.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/57251t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/57251l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/gLvfOYvgFpA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Code:Breaker"
+    },
+    {
+      "type": "Synonym",
+      "title": "Code Breaker"
+    },
+    {
+      "type": "Japanese",
+      "title": "CØDE:BREAKER"
+    },
+    {
+      "type": "English",
+      "title": "Code:Breaker"
+    }
+  ],
   "title": "Code:Breaker",
   "title_english": "Code:Breaker",
   "title_japanese": "CØDE:BREAKER",
-  "image": "https://cdn.myanimelist.net/images/anime/13/57251l.webp",
-  "score": 6.7,
-  "synopsis": "Although cheerful and delicate, Sakura Sakurakouji is a skilled martial artist with a sense of fairness that never falters—no matter the situation. Upon witnessing people burning in blue flames while on a bus ride home, she calls the police to bring their murderer to justice only to find that no evidence remains. However, all her doubts about what she saw vanish when the next day, the new transfer student Rei Oogami joins her class; he is the very boy she watched commit murder in cold blood.\n\nRei is kind, sweet, and quickly becomes popular, contradicting Sakura's accusations. Soon enough, she learns his true nature: a Code Breaker, or \"one who does not exist.\" To Sakura's shock, Rei—armed with mysterious powers—seeks to exact justice according to the principle of \"an eye for an eye.\" Determined to bring Rei to the right path, Sakura keeps close to him in the hopes of redeeming him from his ways before others are hurt.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/gLvfOYvgFpA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
+  "title_synonyms": [
+    "Code Breaker"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +118,126 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwU_TjcyBaffcoGJtgaUNbaCR8tPirD0mNqHDaMBvuuuJ465Vv0M_14--URb4wAvfXXbAi0KGzH4NXrAMlk3huBOpkI8TSQA7C6XznyiMX-R8NoSVG-dQySrVf5UBtXbIeTJ6U",
       "nome": "A Flower Blooming With God"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-07T00:00:00+00:00",
+    "to": "2012-12-23T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 23,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Oct 7, 2012 to Dec 23, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.7,
+  "scored_by": 167320,
+  "rank": 6173,
+  "popularity": 759,
+  "members": 351432,
+  "favorites": 699,
+  "synopsis": "Although cheerful and delicate, Sakura Sakurakouji is a skilled martial artist with a sense of fairness that never falters—no matter the situation. Upon witnessing people burning in blue flames while on a bus ride home, she calls the police to bring their murderer to justice only to find that no evidence remains. However, all her doubts about what she saw vanish when the next day, the new transfer student Rei Oogami joins her class; he is the very boy she watched commit murder in cold blood.\n\nRei is kind, sweet, and quickly becomes popular, contradicting Sakura's accusations. Soon enough, she learns his true nature: a Code Breaker, or \"one who does not exist.\" To Sakura's shock, Rei—armed with mysterious powers—seeks to exact justice according to the principle of \"an eye for an eye.\" Determined to bring Rei to the right path, Sakura keeps close to him in the hopes of redeeming him from his ways before others are hurt.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "02:58",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 02:58 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 647,
+      "type": "anime",
+      "name": "Memory-Tech",
+      "url": "https://myanimelist.net/anime/producer/647/Memory-Tech"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 3024,
+      "type": "anime",
+      "name": "Fonishia",
+      "url": "https://myanimelist.net/anime/producer/3024/Fonishia"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 290,
+      "type": "anime",
+      "name": "Kinema Citrus",
+      "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/13/57251l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/gLvfOYvgFpA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 11703,
+  "slug": "code-breaker"
 }

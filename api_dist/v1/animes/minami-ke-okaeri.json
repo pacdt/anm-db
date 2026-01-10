@@ -1,17 +1,47 @@
 {
-  "id": 5162,
-  "slug": "minami-ke-okaeri",
-  "type": "legendado",
+  "mal_id": 5162,
+  "url": "https://myanimelist.net/anime/5162/Minami-ke_Okaeri",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/11458.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/11458t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/11458l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/11458.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/11458t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/11458l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2iZa79sclmo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Minami-ke Okaeri"
+    },
+    {
+      "type": "Japanese",
+      "title": "みなみけ おかえり"
+    }
+  ],
   "title": "Minami-ke Okaeri",
   "title_english": "Minami-ke Okaeri",
   "title_japanese": "みなみけ おかえり",
-  "image": "https://cdn.myanimelist.net/images/anime/10/11458l.webp",
-  "score": 7.54,
-  "synopsis": "A year has passed since Okawari and the three sisters have grown up. Their likings and moods are almost the same. Haruka, the older sister, is a love-giving mother to the younger sisters and a discipline follower. Kana, the middle one, leaves everything to the last possible moment and always gives trouble to the trio. Chiaki, the little one, is the calculating and manipulating one; she likes to be admired and loved by Haruka and always gives trouble to the less blessed Kana. Despite being an unbalanced family, they love each other with all their heart. The family's daily life is as funny as ever; trouble and love are always present. Now it's time to see if they'll survive this age change since Haruka is now a young adult; she has even more responsibilities, having to watch over the young while integrating into the adult life.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/2iZa79sclmo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +108,82 @@
       "url": "https://lightspeedst.net/s3/mp4/minami-ke-okaeri/sd/13.mp4",
       "nome": "Because We're Together"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-01-05T00:00:00+00:00",
+    "to": "2009-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2009
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2009
+      }
+    },
+    "string": "Jan 5, 2009 to Mar 30, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.54,
+  "scored_by": 36652,
+  "rank": 1887,
+  "popularity": 2909,
+  "members": 70020,
+  "favorites": 56,
+  "synopsis": "A year has passed since Okawari and the three sisters have grown up. Their likings and moods are almost the same. Haruka, the older sister, is a love-giving mother to the younger sisters and a discipline follower. Kana, the middle one, leaves everything to the last possible moment and always gives trouble to the trio. Chiaki, the little one, is the calculating and manipulating one; she likes to be admired and loved by Haruka and always gives trouble to the less blessed Kana. Despite being an unbalanced family, they love each other with all their heart. The family's daily life is as funny as ever; trouble and love are always present. Now it's time to see if they'll survive this age change since Haruka is now a young adult; she has even more responsibilities, having to watch over the young while integrating into the adult life.\n\n(Source: ANN)",
+  "background": "",
+  "season": "winter",
+  "year": 2009,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 163,
+      "type": "anime",
+      "name": "asread.",
+      "url": "https://myanimelist.net/anime/producer/163/asread"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/10/11458l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/2iZa79sclmo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 5162,
+  "slug": "minami-ke-okaeri"
 }

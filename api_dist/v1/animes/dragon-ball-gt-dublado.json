@@ -1,20 +1,62 @@
 {
-  "id": 225,
-  "slug": "dragon-ball-gt-dublado",
-  "type": "dublado",
+  "mal_id": 225,
+  "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1262/93119t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1262/93119l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1262/93119t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1262/93119l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragon Ball GT"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dragonball GT"
+    },
+    {
+      "type": "Synonym",
+      "title": "DBGT"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴンボールGT"
+    },
+    {
+      "type": "English",
+      "title": "Dragon Ball GT"
+    }
+  ],
   "title": "Dragon Ball GT",
   "title_english": "Dragon Ball GT",
   "title_japanese": "ドラゴンボールGT",
-  "image": "https://cdn.myanimelist.net/images/anime/1262/93119l.webp",
-  "score": 6.52,
-  "synopsis": "Emperor Pilaf finally has his hands on the Black Star Dragon Balls after years of searching, which are said to be twice as powerful as Earth's normal ones. Pilaf is about to make his wish for world domination when he is interrupted by Gokuu Son. As a result, Pilaf flubs his wish and accidentally turns Gokuu back into a child.\n\nAfter the wish is granted, the Black Star Dragon Balls scatter across the galaxy. However, Gokuu discovers that they will cause the Earth to explode unless they are all brought back within a year. Uniting with his granddaughter Pan and a young adult Trunks, Gokuu sets off on an adventure through the universe to find the Black Star Dragon Balls and save his planet from destruction.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Dragonball GT",
+    "DBGT"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -336,5 +378,93 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzTBmi1OFoPi-TIWy0h27txAnmrxQfhyCIT8XiVkQPs_jASvb01DvltctsVh4cYNUsimYvFPs3i9HMkWFIxnUAQMGXTR-hT5dmFcm6u2PNNwt7gykmOp7NwPvxr7Drl18hTu1o",
       "nome": "Goodbye, Goku... 'Till the Day We Meet Again"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-02-07T00:00:00+00:00",
+    "to": "1997-11-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 2,
+        "year": 1996
+      },
+      "to": {
+        "day": 19,
+        "month": 11,
+        "year": 1997
+      }
+    },
+    "string": "Feb 7, 1996 to Nov 19, 1997"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.52,
+  "scored_by": 447494,
+  "rank": 7278,
+  "popularity": 356,
+  "members": 670065,
+  "favorites": 2271,
+  "synopsis": "Emperor Pilaf finally has his hands on the Black Star Dragon Balls after years of searching, which are said to be twice as powerful as Earth's normal ones. Pilaf is about to make his wish for world domination when he is interrupted by Gokuu Son. As a result, Pilaf flubs his wish and accidentally turns Gokuu back into a child.\n\nAfter the wish is granted, the Black Star Dragon Balls scatter across the galaxy. However, Gokuu discovers that they will cause the Earth to explode unless they are all brought back within a year. Uniting with his granddaughter Pan and a young adult Trunks, Gokuu sets off on an adventure through the universe to find the Black Star Dragon Balls and save his planet from destruction.\n\n[Written by MAL Rewrite]",
+  "background": "Dragon Ball GT was produced by Toei Animation with minor involvement from Akira Toriyama, who assisted in creating the show's premise and designed most of the new villains and main protagonists. Toriyama referred to the series as \"a grand side-story of the original Dragon Ball\".",
+  "season": "winter",
+  "year": 1996,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1262/93119l.webp",
+  "trailer_url": null,
+  "id": 225,
+  "slug": "dragon-ball-gt-dublado"
 }

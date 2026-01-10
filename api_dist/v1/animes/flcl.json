@@ -1,20 +1,66 @@
 {
-  "id": 227,
-  "slug": "flcl",
-  "type": "legendado",
+  "mal_id": 227,
+  "url": "https://myanimelist.net/anime/227/FLCL",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/77356t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/77356l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/77356t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/77356l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/yYTnHjD6GuE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "FLCL"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fooly Cooly"
+    },
+    {
+      "type": "Synonym",
+      "title": "Furi Kuri"
+    },
+    {
+      "type": "Japanese",
+      "title": "フリクリ"
+    },
+    {
+      "type": "English",
+      "title": "FLCL"
+    },
+    {
+      "type": "Spanish",
+      "title": "FLCL Furi Kuri"
+    }
+  ],
   "title": "FLCL",
   "title_english": "FLCL",
   "title_japanese": "フリクリ",
-  "image": "https://cdn.myanimelist.net/images/anime/7/77356l.webp",
-  "score": 8.04,
-  "synopsis": "Naota Nandaba is an ordinary sixth grader living in a city where nothing amazing ever seems to happen. After his brother Tasuku leaves town to play baseball in America, Naota takes it upon himself to look after everything Tasuku left behind—from his top bunk bed to his ex-girlfriend Mamimi Samejima, who hasn't stopped clinging to Naota since Tasuku left. \n\nLittle does Naota know, however, that his mundane existence is on the verge of being changed forever: enter Haruko Haruhara, a Vespa-riding, bass guitar-wielding, pink-haired psychopath whose first encounter with Naota leaves him with tire tracks on his back and a giant horn on his head. Though all he wants is some peace and quiet, when Haruko takes up residence at his parents' home, Naota finds himself dragged into the heart of the greatest battle for supremacy that Earth—and quite possibly the entire universe—has ever seen.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/yYTnHjD6GuE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Avant Garde",
-    "Comedy",
-    "Sci-Fi",
-    "Suspense"
+  "title_synonyms": [
+    "Fooly Cooly",
+    "Furi Kuri"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -46,5 +92,110 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dy0AttS7KDSD60wQHto5c0DJdvabP3JhzYt6knOe4CMyuz0o6jM__eha7uXzvW1sIz6nthqq--zsdnh0RHWJgea3lLb1gGDpS_Fu8uyhJv9K9o3g1mnmqyWfbQxx4y3q2f6OH0t",
       "nome": "FLCLimax"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2000-04-26T00:00:00+00:00",
+    "to": "2001-03-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 4,
+        "year": 2000
+      },
+      "to": {
+        "day": 16,
+        "month": 3,
+        "year": 2001
+      }
+    },
+    "string": "Apr 26, 2000 to Mar 16, 2001"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.04,
+  "scored_by": 461493,
+  "rank": 638,
+  "popularity": 233,
+  "members": 883660,
+  "favorites": 32674,
+  "synopsis": "Naota Nandaba is an ordinary sixth grader living in a city where nothing amazing ever seems to happen. After his brother Tasuku leaves town to play baseball in America, Naota takes it upon himself to look after everything Tasuku left behind—from his top bunk bed to his ex-girlfriend Mamimi Samejima, who hasn't stopped clinging to Naota since Tasuku left. \n\nLittle does Naota know, however, that his mundane existence is on the verge of being changed forever: enter Haruko Haruhara, a Vespa-riding, bass guitar-wielding, pink-haired psychopath whose first encounter with Naota leaves him with tire tracks on his back and a giant horn on his head. Though all he wants is some peace and quiet, when Haruko takes up residence at his parents' home, Naota finds himself dragged into the heart of the greatest battle for supremacy that Earth—and quite possibly the entire universe—has ever seen.\n\n[Written by MAL Rewrite]",
+  "background": "The original property rights of the anime were sold by Gainax to Production I.G in 2015. The anime placed third place for the Best Animation Film at the Fantasia Festival in 2003. In 2007 the anime got a nomination for Best Cast, and won the Best Comedy Series and the Best Short Series at the American Anime Awards show.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Avant Garde",
+    "Comedy",
+    "Sci-Fi",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/7/77356l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/yYTnHjD6GuE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 227,
+  "slug": "flcl"
 }

@@ -1,20 +1,62 @@
 {
-  "id": 53162,
-  "slug": "majutsushi-orphen-hagure-tabi-urbanrama-hen",
-  "type": "legendado",
+  "mal_id": 53162,
+  "url": "https://myanimelist.net/anime/53162/Majutsushi_Orphen_Hagure_Tabi__Urbanrama-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1388/132318.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1388/132318t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1388/132318l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1388/132318.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1388/132318t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1388/132318l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/35VX5rMk7KY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Majutsushi Orphen Hagure Tabi: Urbanrama-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Majutsushi Orphen Hagure Tabi 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sorcerous Stabber Orphen 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "魔術士オーフェンはぐれ旅 アーバンラマ編"
+    },
+    {
+      "type": "English",
+      "title": "Sorcerous Stabber Orphen -Chaos in Urbanrama-"
+    }
+  ],
   "title": "Majutsushi Orphen Hagure Tabi: Urbanrama-hen",
   "title_english": "Sorcerous Stabber Orphen -Chaos in Urbanrama-",
   "title_japanese": "魔術士オーフェンはぐれ旅 アーバンラマ編",
-  "image": "https://cdn.myanimelist.net/images/anime/1388/132318l.webp",
-  "score": 6.15,
-  "synopsis": "After the events of Kimluck, Orphen is on a quest to find Azalie, only to find himself in a war in between celestial beings and humans.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/35VX5rMk7KY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Drama",
-    "Fantasy"
+  "title_synonyms": [
+    "Majutsushi Orphen Hagure Tabi 3rd Season",
+    "Sorcerous Stabber Orphen 3rd Season"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -35,5 +77,133 @@
       "numero": 4,
       "url": "https://lightspeedst.net/s5/mp4/majutsushi-orphen-hagure-tabi-urbanrama-hen/fhd/4.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-18T00:00:00+00:00",
+    "to": "2023-04-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 18,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 5,
+        "month": 4,
+        "year": 2023
+      }
+    },
+    "string": "Jan 18, 2023 to Apr 5, 2023"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.15,
+  "scored_by": 3875,
+  "rank": 9539,
+  "popularity": 5508,
+  "members": 18965,
+  "favorites": 60,
+  "synopsis": "After the events of Kimluck, Orphen is on a quest to find Azalie, only to find himself in a war in between celestial beings and humans.",
+  "background": "This season adapts contents from volumes 11-15 of the light novels.",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "20:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 20:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 135,
+      "type": "anime",
+      "name": "MediaNet",
+      "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+    },
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1003,
+      "type": "anime",
+      "name": "Nippon Television Network",
+      "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    },
+    {
+      "mal_id": 1988,
+      "type": "anime",
+      "name": "TO Books",
+      "url": "https://myanimelist.net/anime/producer/1988/TO_Books"
+    },
+    {
+      "mal_id": 2146,
+      "type": "anime",
+      "name": "NetEase",
+      "url": "https://myanimelist.net/anime/producer/2146/NetEase"
+    },
+    {
+      "mal_id": 2425,
+      "type": "anime",
+      "name": "Bandai Namco Music Live",
+      "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1388/132318l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/35VX5rMk7KY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 53162,
+  "slug": "majutsushi-orphen-hagure-tabi-urbanrama-hen"
 }

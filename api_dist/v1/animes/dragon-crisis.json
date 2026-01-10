@@ -1,19 +1,53 @@
 {
-  "id": 9330,
-  "slug": "dragon-crisis",
-  "type": "legendado",
+  "mal_id": 9330,
+  "url": "https://myanimelist.net/anime/9330/Dragon_Crisis",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/50311.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/50311t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/50311l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/50311.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/50311t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/50311l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pPUwVjekuxw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dragon Crisis!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Dragon Crisis!"
+    },
+    {
+      "type": "Japanese",
+      "title": "ドラゴンクライシス!"
+    }
+  ],
   "title": "Dragon Crisis!",
   "title_english": "Dragon Crisis!",
   "title_japanese": "ドラゴンクライシス!",
-  "image": "https://cdn.myanimelist.net/images/anime/8/50311l.webp",
-  "score": 6.6,
-  "synopsis": "A normal high school boy Kisaragi Ryuji's peaceful life is turned into an adventure by the return of his second cousin Eriko. Ryuji and Eriko seize a relic box from a black broker. In the box, they find a red dragon girl Rose. In order to protect Rose from the black organization, Ryuji decides to fight using his power as a relic handler.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/pPUwVjekuxw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Dragon Crisis!"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +109,114 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwfo1SG7HioeGTvK8yaP79BsUNirXvXqOB0zcLe1-uyJ31JPGUbZHoOtjU1cNT2sPsv63vmOK23Ustz8ynz21zJgwPVuTt3jF7DvwaQZobZZHB6oNLfNardOP4YMCW00msx96_x",
       "nome": "Engage"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-01-11T00:00:00+00:00",
+    "to": "2011-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2011
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2011
+      }
+    },
+    "string": "Jan 11, 2011 to Mar 29, 2011"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.6,
+  "scored_by": 89779,
+  "rank": 6769,
+  "popularity": 1507,
+  "members": 178968,
+  "favorites": 291,
+  "synopsis": "A normal high school boy Kisaragi Ryuji's peaceful life is turned into an adventure by the return of his second cousin Eriko. Ryuji and Eriko seize a relic box from a black broker. In the box, they find a red dragon girl Rose. In order to protect Rose from the black organization, Ryuji decides to fight using his power as a relic handler.",
+  "background": "The first episode received a free online preview at online streaming service GyaO! starting on Thursday, 16th December, 2010 until Wednesday, 22nd December. 1000 lucky participants in possession of a Yahoo Japan ID were given the chance to see it through an online lottery. The regular television broadcast started on January 11, 2011.",
+  "season": "winter",
+  "year": 2011,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 158,
+      "type": "anime",
+      "name": "Kids Station",
+      "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/50311l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/pPUwVjekuxw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 9330,
+  "slug": "dragon-crisis"
 }

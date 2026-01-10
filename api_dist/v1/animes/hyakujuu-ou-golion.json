@@ -1,18 +1,85 @@
 {
-  "id": 1448,
-  "slug": "hyakujuu-ou-golion",
-  "type": "legendado",
+  "mal_id": 1448,
+  "url": "https://myanimelist.net/anime/1448/Hyakujuu-Ou_GoLion",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/51647.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/51647t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/51647l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/51647.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/51647t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/51647l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hyakujuu-Ou GoLion"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hyakujuu Ou Golion"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hundred-Beast King Go Lion"
+    },
+    {
+      "type": "Synonym",
+      "title": "Lion Force Voltron"
+    },
+    {
+      "type": "Synonym",
+      "title": "Voltran"
+    },
+    {
+      "type": "Synonym",
+      "title": "Voltron (U.S.)"
+    },
+    {
+      "type": "Japanese",
+      "title": "百獣王ゴライオン"
+    },
+    {
+      "type": "English",
+      "title": "Voltron: Defender of the Universe"
+    },
+    {
+      "type": "German",
+      "title": "Voltron: Verteidiger des Universums"
+    },
+    {
+      "type": "French",
+      "title": "Voltron: Le Defenseur de l'Univers"
+    }
+  ],
   "title": "Hyakujuu-Ou GoLion",
   "title_english": "Voltron: Defender of the Universe",
   "title_japanese": "百獣王ゴライオン",
-  "image": "https://cdn.myanimelist.net/images/anime/2/51647l.webp",
-  "score": 6.83,
-  "synopsis": "Golion, a powerful sentient robot, abuses his great powers by attacking and killing creatures known as Deathblack Beastmen, boasting that no one could defeat him. A divine space being punishes Golion for his arrogance and abuse by seperating him into 5 different lion robots. In the year 1999, a group of 5 young men return to Earth after a space voyage, only to find it ravaged by nuclear war. After encountering the alien race known as the Galra, the 5 youths end up on the planet Altea, and learn that the 5 lion robots that Golion was split into are in hibernation in various parts of Altea. Somehow, they must reunite the lions and form Golion, the only hope for the human race.\n\n(Source: ANN)\n\nAbout Voltron (U.S.)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Hyakujuu Ou Golion",
+    "Hundred-Beast King Go Lion",
+    "Lion Force Voltron",
+    "Voltran",
+    "Voltron (U.S.)"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -154,5 +221,77 @@
       "url": "https://lightspeedst.net/s4/mp4/hyakujuu-ou-golion/sd/28.mp4",
       "nome": "The Demon's Birthday"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1981-03-04T00:00:00+00:00",
+    "to": "1982-02-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 3,
+        "year": 1981
+      },
+      "to": {
+        "day": 24,
+        "month": 2,
+        "year": 1982
+      }
+    },
+    "string": "Mar 4, 1981 to Feb 24, 1982"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.83,
+  "scored_by": 6521,
+  "rank": 5418,
+  "popularity": 6195,
+  "members": 13891,
+  "favorites": 68,
+  "synopsis": "Golion, a powerful sentient robot, abuses his great powers by attacking and killing creatures known as Deathblack Beastmen, boasting that no one could defeat him. A divine space being punishes Golion for his arrogance and abuse by seperating him into 5 different lion robots. In the year 1999, a group of 5 young men return to Earth after a space voyage, only to find it ravaged by nuclear war. After encountering the alien race known as the Galra, the 5 youths end up on the planet Altea, and learn that the 5 lion robots that Golion was split into are in hibernation in various parts of Altea. Somehow, they must reunite the lions and form Golion, the only hope for the human race.\n\n(Source: ANN)\n\nAbout Voltron (U.S.)",
+  "background": "",
+  "season": "spring",
+  "year": 1981,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/2/51647l.webp",
+  "trailer_url": null,
+  "id": 1448,
+  "slug": "hyakujuu-ou-golion"
 }

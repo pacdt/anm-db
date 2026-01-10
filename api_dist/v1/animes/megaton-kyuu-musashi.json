@@ -1,22 +1,145 @@
 {
-  "id": 33737,
-  "slug": "megaton-kyuu-musashi",
-  "type": "legendado",
+  "mal_id": 33737,
+  "url": "https://myanimelist.net/anime/33737/Megaton-kyuu_Musashi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1317/116693.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1317/116693t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1317/116693l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1317/116693.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1317/116693t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1317/116693l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/wg3ONC_JbHw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Megaton-kyuu Musashi"
+    },
+    {
+      "type": "Japanese",
+      "title": "メガトン級ムサシ"
+    },
+    {
+      "type": "English",
+      "title": "Megaton Musashi"
+    }
+  ],
   "title": "Megaton-kyuu Musashi",
   "title_english": "Megaton Musashi",
   "title_japanese": "メガトン級ムサシ",
-  "image": "https://cdn.myanimelist.net/images/anime/1317/116693l.webp",
-  "score": 6.28,
-  "synopsis": "In an ordinary town, there are people who live a peaceful and fulfilling life. But they don't know that it is a false peace. The untold truth... The earth has already been destroyed...\n\n99.9% of the human race has been wiped out by a mysterious alien force from outer space. The enemy is named \"Dracters.\" Eventually, a large hole was drilled in the earth and terraformed into a suitable environment for the aliens to live. Humans have no choice but to hide in shelters to escape their eyes. Waiting for the day of resurrection, which they do not know when it will come...\n\nThe inhabitants of the shelter Ixia have had their memories of the day of destruction erased, and live a normal life without knowing anything about it. However, some of them, the \"chosen ones,\" have become pilots, driving giant robots called \"Rogue\" and fighting against aliens. Today, another new pilot is selected...\n\n(Source: Crunchyroll, edited)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/wg3ONC_JbHw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Mixed media",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s7/mp4_temp/megaton-kyuu-musashi/1/720p.mp4",
       "nome": "The Sleeping Lion"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-01T00:00:00+00:00",
+    "to": "2021-12-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 24,
+        "month": 12,
+        "year": 2021
+      }
+    },
+    "string": "Oct 1, 2021 to Dec 24, 2021"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.28,
+  "scored_by": 3262,
+  "rank": 8745,
+  "popularity": 5670,
+  "members": 17551,
+  "favorites": 65,
+  "synopsis": "In an ordinary town, there are people who live a peaceful and fulfilling life. But they don't know that it is a false peace. The untold truth... The earth has already been destroyed...\n\n99.9% of the human race has been wiped out by a mysterious alien force from outer space. The enemy is named \"Dracters.\" Eventually, a large hole was drilled in the earth and terraformed into a suitable environment for the aliens to live. Humans have no choice but to hide in shelters to escape their eyes. Waiting for the day of resurrection, which they do not know when it will come...\n\nThe inhabitants of the shelter Ixia have had their memories of the day of destruction erased, and live a normal life without knowing anything about it. However, some of them, the \"chosen ones,\" have become pilots, driving giant robots called \"Rogue\" and fighting against aliens. Today, another new pilot is selected...\n\n(Source: Crunchyroll, edited)",
+  "background": "",
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1428,
+      "type": "anime",
+      "name": "Level-5",
+      "url": "https://myanimelist.net/anime/producer/1428/Level-5"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1317/116693l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/wg3ONC_JbHw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33737,
+  "slug": "megaton-kyuu-musashi"
 }

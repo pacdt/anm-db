@@ -1,19 +1,57 @@
 {
-  "id": 6512,
-  "slug": "nyan-koi",
-  "type": "legendado",
+  "mal_id": 6512,
+  "url": "https://myanimelist.net/anime/6512/Nyan_Koi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/18299.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/18299t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18299l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/18299.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/18299t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18299l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nyan Koi!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nyankoi"
+    },
+    {
+      "type": "Japanese",
+      "title": "にゃんこい！"
+    },
+    {
+      "type": "English",
+      "title": "Nyan Koi!"
+    }
+  ],
   "title": "Nyan Koi!",
   "title_english": "Nyan Koi!",
   "title_japanese": "にゃんこい！",
-  "image": "https://cdn.myanimelist.net/images/anime/10/18299l.webp",
-  "score": 7.11,
-  "synopsis": "Junpei Kousaka is a second-year high school student who has an allergy for cats—a predicament that has made him hate cats and everything related to them. Unfortunately for him, though, he is surrounded by cat lovers: his family, his estranged childhood friend, and even his crush Kaede Mizuno.\n\nOne day, while returning home from school, Junpei nonchalantly attempts to kick an empty can into the trash, but miserably misses. Instead of making it to the garbage, the can ends up breaking off the head of a cat deity statue. That fateful day, he is cursed with the ability to understand cat speech. However, he must keep his curse a secret from everyone else, because anyone who finds out will become more accident-prone and share the same fate as him.\n\nWith the guidance of his cat Nyamsus and with no other choice left, Junpei now has to do a hundred good deeds for cats to lift the curse. If he is unable to complete this task, he will turn into a cat, and considering his allergy, that would be a death sentence for him!\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Nyankoi"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +113,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzl0i1WPaggNhjCwp9VNMclEe6Sqrx28V6eMhCB2itgZUYeXLkja1g5daWtO0bDBUybMzb6Nt555M5T-nDqnMfYS_2VZe2ieqv8QpFV2AJr7Yf3J0L3m5omXi0CZkMCDs6FD0w",
       "nome": "Does Heaven Await Me?"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-10-02T00:00:00+00:00",
+    "to": "2009-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2009
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2009
+      }
+    },
+    "string": "Oct 2, 2009 to Dec 18, 2009"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.11,
+  "scored_by": 139735,
+  "rank": 4039,
+  "popularity": 990,
+  "members": 276687,
+  "favorites": 602,
+  "synopsis": "Junpei Kousaka is a second-year high school student who has an allergy for cats—a predicament that has made him hate cats and everything related to them. Unfortunately for him, though, he is surrounded by cat lovers: his family, his estranged childhood friend, and even his crush Kaede Mizuno.\n\nOne day, while returning home from school, Junpei nonchalantly attempts to kick an empty can into the trash, but miserably misses. Instead of making it to the garbage, the can ends up breaking off the head of a cat deity statue. That fateful day, he is cursed with the ability to understand cat speech. However, he must keep his curse a secret from everyone else, because anyone who finds out will become more accident-prone and share the same fate as him.\n\nWith the guidance of his cat Nyamsus and with no other choice left, Junpei now has to do a hundred good deeds for cats to lift the curse. If he is unable to complete this task, he will turn into a cat, and considering his allergy, that would be a death sentence for him!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2009,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:59",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:59 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 874,
+      "type": "anime",
+      "name": "Flex Comix",
+      "url": "https://myanimelist.net/anime/producer/874/Flex_Comix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 71,
+      "type": "anime",
+      "name": "Pets",
+      "url": "https://myanimelist.net/anime/genre/71/Pets"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/18299l.webp",
+  "trailer_url": null,
+  "id": 6512,
+  "slug": "nyan-koi"
 }

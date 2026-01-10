@@ -1,18 +1,62 @@
 {
-  "id": 59175,
-  "slug": "ooi-tonbo-2nd-season",
-  "type": "legendado",
+  "mal_id": 59175,
+  "url": "https://myanimelist.net/anime/59175/Ooi_Tonbo_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1115/145549.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1115/145549t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1115/145549l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1115/145549.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1115/145549t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1115/145549l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/aX7zsrvvh0U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ooi! Tonbo 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hey! Tonbo"
+    },
+    {
+      "type": "Synonym",
+      "title": "Oi! Tonbo"
+    },
+    {
+      "type": "Japanese",
+      "title": "オーイ！とんぼ 第2期"
+    },
+    {
+      "type": "English",
+      "title": "Tonbo! Season 2"
+    }
+  ],
   "title": "Ooi! Tonbo 2nd Season",
   "title_english": "Tonbo! Season 2",
   "title_japanese": "オーイ！とんぼ 第2期",
-  "image": "https://cdn.myanimelist.net/images/anime/1115/145549l.webp",
-  "score": 7.31,
-  "synopsis": "After graduating middle school, Tonbo Ooi sets sail from the isolated island of Tokara to Kumamoto in hopes of advancing her golf career. Using his connections, Tonbo's mentor Kazuyoshi Igarashi is able to convince coach Hajime Udou to train her. While Tonbo initially has trouble showing off her abilities with her peculiar playstyle and inexperience with using a variety of golf clubs, she quickly proves her worth at her course debut by making use of her unique skills.\n\nLeaving an impression on Hajime and the people around her, Tonbo is sent to compete in the Kyushu Women's Championship. Met with familiar faces and new rivals, she is determined to dive deeper into the professional world of golf.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/aX7zsrvvh0U?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Sports"
+  "title_synonyms": [
+    "Hey! Tonbo",
+    "Oi! Tonbo"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -22,5 +66,118 @@
       "numero": 2,
       "url": "https://lightspeedst.net/s7/mp4/ooi-tonbo-2nd-season/hd/2.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-10-05T00:00:00+00:00",
+    "to": "2025-01-04T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2024
+      },
+      "to": {
+        "day": 4,
+        "month": 1,
+        "year": 2025
+      }
+    },
+    "string": "Oct 5, 2024 to Jan 4, 2025"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.31,
+  "scored_by": 2907,
+  "rank": 2888,
+  "popularity": 8627,
+  "members": 6164,
+  "favorites": 17,
+  "synopsis": "After graduating middle school, Tonbo Ooi sets sail from the isolated island of Tokara to Kumamoto in hopes of advancing her golf career. Using his connections, Tonbo's mentor Kazuyoshi Igarashi is able to convince coach Hajime Udou to train her. While Tonbo initially has trouble showing off her abilities with her peculiar playstyle and inexperience with using a variety of golf clubs, she quickly proves her worth at her course debut by making use of her unique skills.\n\nLeaving an impression on Hajime and the people around her, Tonbo is sent to compete in the Kyushu Women's Championship. Met with familiar faces and new rivals, she is determined to dive deeper into the professional world of golf.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2024,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "10:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 10:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    },
+    {
+      "mal_id": 474,
+      "type": "anime",
+      "name": "Shogakukan Music & Digital Entertainment",
+      "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1469,
+      "type": "anime",
+      "name": "BS TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/1469/BS_TV_Tokyo"
+    },
+    {
+      "mal_id": 2431,
+      "type": "anime",
+      "name": "Happinet Phantom Studios",
+      "url": "https://myanimelist.net/anime/producer/2431/Happinet_Phantom_Studios"
+    },
+    {
+      "mal_id": 2923,
+      "type": "anime",
+      "name": "Golf Digest Sha",
+      "url": "https://myanimelist.net/anime/producer/2923/Golf_Digest_Sha"
+    },
+    {
+      "mal_id": 3103,
+      "type": "anime",
+      "name": "REMOW",
+      "url": "https://myanimelist.net/anime/producer/3103/REMOW"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1115/145549l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/aX7zsrvvh0U?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 59175,
+  "slug": "ooi-tonbo-2nd-season"
 }

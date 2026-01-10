@@ -1,18 +1,51 @@
 {
-  "id": 60489,
-  "slug": "takopii-no-genzai",
-  "type": "legendado",
+  "mal_id": 60489,
+  "url": "https://myanimelist.net/anime/60489/Takopii_no_Genzai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1182/149879.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1182/149879.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/SUhYB0W7gM0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Takopii no Genzai"
+    },
+    {
+      "type": "Japanese",
+      "title": "タコピーの原罪"
+    },
+    {
+      "type": "English",
+      "title": "Takopi's Original Sin"
+    }
+  ],
   "title": "Takopii no Genzai",
   "title_english": "Takopi's Original Sin",
   "title_japanese": "タコピーの原罪",
-  "image": "https://cdn.myanimelist.net/images/anime/1182/149879l.webp",
-  "score": 8.78,
-  "synopsis": "A squid-like creature, known as a Happian, leaves his home planet with the desire to spread happiness across the universe. He lands on Earth, but quickly finds himself in danger of captivity by its inhabitants. Fortunately, he is found by an unsmiling little girl named Shizuka Kuze, who feeds him and names him Takopii. Feeling indebted, Takopii decides to do everything in his power to bring a smile to her face.\n\nThe task is easier said than done, however. Shizuka is bullied by her classmates, she does not have a father, and her mother is never home—though the gravity of these issues flies over the naive Takopii's head. Even so, Shizuka does have one source of happiness: her dog Chappy. The connection Shizuka and Chappy share only increases Takopii's desire to make the girl smile.\n\nWhile Takopii's attempts to lift Shizuka's spirits lead to unintended consequences, he is determined to take things into his own tentacles, test his understanding of human beings, and achieve his goal of spreading happiness.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/SUhYB0W7gM0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -44,5 +77,126 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/takopii-no-genzai/6/720p.mp4",
       "nome": "To All of You in 2016"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-06-28T00:00:00+00:00",
+    "to": "2025-08-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 28,
+        "month": 6,
+        "year": 2025
+      },
+      "to": {
+        "day": 2,
+        "month": 8,
+        "year": 2025
+      }
+    },
+    "string": "Jun 28, 2025 to Aug 2, 2025"
+  },
+  "duration": "26 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.78,
+  "scored_by": 142925,
+  "rank": 39,
+  "popularity": 1046,
+  "members": 263452,
+  "favorites": 5540,
+  "synopsis": "A squid-like creature, known as a Happian, leaves his home planet with the desire to spread happiness across the universe. He lands on Earth, but quickly finds himself in danger of captivity by its inhabitants. Fortunately, he is found by an unsmiling little girl named Shizuka Kuze, who feeds him and names him Takopii. Feeling indebted, Takopii decides to do everything in his power to bring a smile to her face.\n\nThe task is easier said than done, however. Shizuka is bullied by her classmates, she does not have a father, and her mother is never home—though the gravity of these issues flies over the naive Takopii's head. Even so, Shizuka does have one source of happiness: her dog Chappy. The connection Shizuka and Chappy share only increases Takopii's desire to make the girl smile.\n\nWhile Takopii's attempts to lift Shizuka's spirits lead to unintended consequences, he is determined to take things into his own tentacles, test his understanding of human beings, and achieve his goal of spreading happiness.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1390,
+      "type": "anime",
+      "name": "Toy's Factory",
+      "url": "https://myanimelist.net/anime/producer/1390/Toys_Factory"
+    },
+    {
+      "mal_id": 2229,
+      "type": "anime",
+      "name": "Toho Music",
+      "url": "https://myanimelist.net/anime/producer/2229/Toho_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1991,
+      "type": "anime",
+      "name": "Enishiya",
+      "url": "https://myanimelist.net/anime/producer/1991/Enishiya"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1182/149879l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/SUhYB0W7gM0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60489,
+  "slug": "takopii-no-genzai"
 }

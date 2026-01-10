@@ -1,19 +1,53 @@
 {
-  "id": 1218,
-  "slug": "tonagura",
-  "type": "legendado",
+  "mal_id": 1218,
+  "url": "https://myanimelist.net/anime/1218/Tonagura",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/1218.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/1218t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/1218l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/1218.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/1218t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/1218l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tonagura!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tona-gura!"
+    },
+    {
+      "type": "Japanese",
+      "title": "となグラ！"
+    }
+  ],
   "title": "Tonagura!",
   "title_english": "Tonagura!",
   "title_japanese": "となグラ！",
-  "image": "https://cdn.myanimelist.net/images/anime/1/1218l.webp",
-  "score": 6.66,
-  "synopsis": "Kazuki has been awaiting 10 years for the day when her neighbours moved back to their old house. She has a crush on Yuuji, whom she considers as her first love but to whom she never managed to express her feelings for him before they moved out. Yuuji often comes over to play with Kazuki, Kazuki's older sister Hatsune and Yuuji's sister Marie when they were kids. Her ideal depiction of Yuuji was soon shattered when he turned out more than she had expected, him acting all ecchi during their reunion. With their parents off in South America, both families must learn to live with each other and rekindle the childhood feelings they shared together. Things get even more crazy as they attend the same school.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Tona-gura!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +114,92 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwIkwVcHqo5Nt4-tHHS_AebOt3D64TAZbw3Nhm6pVf4fEk5aXtbkL6Pr3MNHheNILRLHauaEcR87FBUXKq2fb_fRoaJ0nVUPZaZ4i1To21kT7-dMVaHHHH12ssDbecawwcoi1CP",
       "nome": "The Veranda and a Paper Plane"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-07-09T00:00:00+00:00",
+    "to": "2006-10-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2006
+      },
+      "to": {
+        "day": 1,
+        "month": 10,
+        "year": 2006
+      }
+    },
+    "string": "Jul 9, 2006 to Oct 1, 2006"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.66,
+  "scored_by": 23986,
+  "rank": 6433,
+  "popularity": 3426,
+  "members": 52341,
+  "favorites": 55,
+  "synopsis": "Kazuki has been awaiting 10 years for the day when her neighbours moved back to their old house. She has a crush on Yuuji, whom she considers as her first love but to whom she never managed to express her feelings for him before they moved out. Yuuji often comes over to play with Kazuki, Kazuki's older sister Hatsune and Yuuji's sister Marie when they were kids. Her ideal depiction of Yuuji was soon shattered when he turned out more than she had expected, him acting all ecchi during their reunion. With their parents off in South America, both families must learn to live with each other and rekindle the childhood feelings they shared together. Things get even more crazy as they attend the same school.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2006,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Daume",
+      "url": "https://myanimelist.net/anime/producer/39/Daume"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1/1218l.webp",
+  "trailer_url": null,
+  "id": 1218,
+  "slug": "tonagura"
 }

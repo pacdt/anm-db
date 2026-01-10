@@ -1,19 +1,59 @@
 {
-  "id": 37976,
-  "slug": "zombieland-saga",
-  "type": "legendado",
+  "mal_id": 37976,
+  "url": "https://myanimelist.net/anime/37976/Zombieland_Saga",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1084/128208.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/128208t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/128208l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1084/128208.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/128208t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/128208l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/O3VO4zinUOI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Zombieland Saga"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゾンビランドサガ"
+    },
+    {
+      "type": "English",
+      "title": "Zombie Land Saga"
+    },
+    {
+      "type": "German",
+      "title": "Zombie Land Saga"
+    },
+    {
+      "type": "French",
+      "title": "Zombie Land Saga"
+    }
+  ],
   "title": "Zombieland Saga",
   "title_english": "Zombie Land Saga",
   "title_japanese": "ゾンビランドサガ",
-  "image": "https://cdn.myanimelist.net/images/anime/1084/128208l.webp",
-  "score": 7.5,
-  "synopsis": "Sakura Minamoto dreams of becoming an idol. Unfortunately, reality hits her like a truck, and she dies in a sudden traffic accident. Ten years later, she wakes up in Saga Prefecture, only to find herself a zombie with no memory of her past. While still coming to terms with her demise, she meets a man named Koutarou Tatsumi, who explains that he has resurrected her and six other zombie girls from different eras for the purpose of economically revitalizing Saga by means of an idol group. Assuming the role of an abrasive manager, Koutarou begins scheduling events; the girls go along with it, eventually deciding to name their idol group Franchouchou.\n\nAn absurdly comedic take on the idol genre, Zombieland Saga tells the story of Franchouchou's heartwarming struggle to save Saga Prefecture while hiding their zombie identities and rediscovering their past lives.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/O3VO4zinUOI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Award Winning",
-    "Comedy",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +115,109 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzRis08E4s-E8YJoY46rClSmx9-3JBeJFRIg3fL-0C5U8a69v8DcAB9WGIkYH938rOJDJekPb812YEnrx-uRjwfHVwuBzbx4zASUDR6H1yWX2XUoRLC3hNOmFwFQdtggH_djcRV",
       "nome": "Good Morning Again Saga"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-04T00:00:00+00:00",
+    "to": "2018-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 4, 2018 to Dec 20, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.5,
+  "scored_by": 252010,
+  "rank": 2075,
+  "popularity": 466,
+  "members": 527164,
+  "favorites": 3346,
+  "synopsis": "Sakura Minamoto dreams of becoming an idol. Unfortunately, reality hits her like a truck, and she dies in a sudden traffic accident. Ten years later, she wakes up in Saga Prefecture, only to find herself a zombie with no memory of her past. While still coming to terms with her demise, she meets a man named Koutarou Tatsumi, who explains that he has resurrected her and six other zombie girls from different eras for the purpose of economically revitalizing Saga by means of an idol group. Assuming the role of an abrasive manager, Koutarou begins scheduling events; the girls go along with it, eventually deciding to name their idol group Franchouchou.\n\nAn absurdly comedic take on the idol genre, Zombieland Saga tells the story of Franchouchou's heartwarming struggle to save Saga Prefecture while hiding their zombie identities and rediscovering their past lives.\n\n[Written by MAL Rewrite]",
+  "background": "Zombieland Saga is an original anime production announced by Cygames in collaboration with Avex Pictures and dugout, who are respectively producing the music and sound. The animation is done by studio MAPPA. Crunchyroll is simulcasting the episodes, while Funimation is simuldubbing them. Both the opening and ending theme songs (\"Adabana Necromancy\" and \"Hikari e\" respectively) are performed by Franchouchou. On October 8, 2018, a manga adaptation was launched on Cygames' Cycomi website, which is being drawn by Megumu Soramichi (Rakudai Kishi no Cavalry). Zombieland Saga won the Animation of the Year award in the Television category at the Tokyo Anime Award Festival in 2019.",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1587,
+      "type": "anime",
+      "name": "Cygames",
+      "url": "https://myanimelist.net/anime/producer/1587/Cygames"
+    },
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 569,
+      "type": "anime",
+      "name": "MAPPA",
+      "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+    }
+  ],
+  "genres": [
+    "Award Winning",
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1084/128208l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/O3VO4zinUOI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37976,
+  "slug": "zombieland-saga"
 }

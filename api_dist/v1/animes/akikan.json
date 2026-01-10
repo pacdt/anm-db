@@ -1,20 +1,57 @@
 {
-  "id": 5112,
-  "slug": "akikan",
-  "type": "legendado",
+  "mal_id": 5112,
+  "url": "https://myanimelist.net/anime/5112/Akikan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/47093.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/47093t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/47093l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/47093.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/47093t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/47093l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Akikan!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Empty Can!"
+    },
+    {
+      "type": "Japanese",
+      "title": "アキカン!"
+    },
+    {
+      "type": "English",
+      "title": "Akikan!"
+    }
+  ],
   "title": "Akikan!",
   "title_english": "Akikan!",
   "title_japanese": "アキカン!",
-  "image": "https://cdn.myanimelist.net/images/anime/5/47093l.webp",
-  "score": 6.1,
-  "synopsis": "Hobbies are often a great way of meeting new people, but how could Kakeru Daichi, who collects rare juice cans, have ever suspected that he'd meet a fascinating new girl when he attempted to DRINK her? Naming her Melon, because she's got great melon... soda, Kakeru quickly learns that she's an Akikan—a beautiful girl who's also a special can created to fight other Akikans in a strange experiment to determine what kind of container is better: steel or aluminum! \n\nWill becoming involved in this ridiculously twisted research project gone amuck complicate Kakeru's life incredibly? Of course it will, but because Melon's steel body needs carbon dioxide to breathe, he's now stuck with her since she's too CO2 dependent! And when his wealthy, attractive, best childhood friend Najimi gets HER own aluminum Akikan, the trouble really begins! \n\n(Source: Sentai Filmworks)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Fantasy",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Empty Can!"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +113,86 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dykPF3eqD-eWB91WHrDytv9nMf9quW9_kMlbvx4Atf9SFjOgf2MYwWqzLfMMZpZ5Ko72OsoSAqe2pAD9MCLb86HKPIp0-vsB0dQrmMIVTYxs4pC5WyfEuWCl_iNIlSGrQCG1uYB",
       "nome": "A Toast to the Brilliant Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-01-04T00:00:00+00:00",
+    "to": "2009-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 1,
+        "year": 2009
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2009
+      }
+    },
+    "string": "Jan 4, 2009 to Mar 29, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.1,
+  "scored_by": 63939,
+  "rank": 9830,
+  "popularity": 1969,
+  "members": 127666,
+  "favorites": 140,
+  "synopsis": "Hobbies are often a great way of meeting new people, but how could Kakeru Daichi, who collects rare juice cans, have ever suspected that he'd meet a fascinating new girl when he attempted to DRINK her? Naming her Melon, because she's got great melon... soda, Kakeru quickly learns that she's an Akikan—a beautiful girl who's also a special can created to fight other Akikans in a strange experiment to determine what kind of container is better: steel or aluminum! \n\nWill becoming involved in this ridiculously twisted research project gone amuck complicate Kakeru's life incredibly? Of course it will, but because Melon's steel body needs carbon dioxide to breathe, he's now stuck with her since she's too CO2 dependent! And when his wealthy, attractive, best childhood friend Najimi gets HER own aluminum Akikan, the trouble really begins! \n\n(Source: Sentai Filmworks)",
+  "background": "Episode 1 was previewed at Bandai Channel on 12/22/2008. Regular broadcasting began on 01/04/2009.",
+  "season": "winter",
+  "year": 2009,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/47093l.webp",
+  "trailer_url": null,
+  "id": 5112,
+  "slug": "akikan"
 }

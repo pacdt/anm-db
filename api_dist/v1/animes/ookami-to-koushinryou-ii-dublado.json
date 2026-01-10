@@ -1,20 +1,70 @@
 {
-  "id": 5341,
-  "slug": "ookami-to-koushinryou-ii-dublado",
-  "type": "dublado",
+  "mal_id": 5341,
+  "url": "https://myanimelist.net/anime/5341/Ookami_to_Koushinryou_II",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/59399.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/59399t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/59399l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/59399.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/59399t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/59399l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mnCXgfrjn1k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ookami to Koushinryou II"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ookami to Koushinryou 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Spice and Wolf 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "狼と香辛料II"
+    },
+    {
+      "type": "English",
+      "title": "Spice and Wolf II"
+    },
+    {
+      "type": "German",
+      "title": "Spice and Wolf II"
+    },
+    {
+      "type": "French",
+      "title": "Spice and Wolf II"
+    }
+  ],
   "title": "Ookami to Koushinryou II",
   "title_english": "Spice and Wolf II",
   "title_japanese": "狼と香辛料II",
-  "image": "https://cdn.myanimelist.net/images/anime/6/59399l.webp",
-  "score": 8.3,
-  "synopsis": "Traveling merchant Kraft Lawrence continues his northward journey with wolf goddess Holo, in search of her lost home of Yoitsu. Lawrence and his sharp-witted partner continue to make some small profits along the way, while slowly uncovering more information about Holo's hometown. However, the road to Yoitsu is a bumpy one filled with many troubles—Lawrence runs into a charming young fellow merchant who has his eyes set on the female wolf companion, and he begins to doubt if Holo will remain by his side; he and the goddess will also have to consider precarious and risky business deals as Lawrence strives to achieve his dream of becoming a shopowner. All the while, with his determination tested at every turn during his journey, Lawrence must question his relationship with Holo, take on business ventures, and ask himself whether it is time for him and Holo to go their separate ways.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/mnCXgfrjn1k?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Drama",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Ookami to Koushinryou 2nd Season",
+    "Spice and Wolf 2nd Season"
   ],
+  "type": "dublado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +126,122 @@
       "url": "https://lightspeedst.net/s1/mp4/ookami-to-koushinryou-ii-dublado/sd/12.mp4",
       "nome": "Wolf and Endless Tears"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2009-07-09T00:00:00+00:00",
+    "to": "2009-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2009
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2009
+      }
+    },
+    "string": "Jul 9, 2009 to Sep 24, 2009"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.3,
+  "scored_by": 287745,
+  "rank": 301,
+  "popularity": 483,
+  "members": 516962,
+  "favorites": 4312,
+  "synopsis": "Traveling merchant Kraft Lawrence continues his northward journey with wolf goddess Holo, in search of her lost home of Yoitsu. Lawrence and his sharp-witted partner continue to make some small profits along the way, while slowly uncovering more information about Holo's hometown. However, the road to Yoitsu is a bumpy one filled with many troubles—Lawrence runs into a charming young fellow merchant who has his eyes set on the female wolf companion, and he begins to doubt if Holo will remain by his side; he and the goddess will also have to consider precarious and risky business deals as Lawrence strives to achieve his dream of becoming a shopowner. All the while, with his determination tested at every turn during his journey, Lawrence must question his relationship with Holo, take on business ventures, and ask himself whether it is time for him and Holo to go their separate ways.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2009,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:15",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:15 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 75,
+      "type": "anime",
+      "name": "Imagin",
+      "url": "https://myanimelist.net/anime/producer/75/Imagin"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 352,
+      "type": "anime",
+      "name": "Kadokawa Pictures Japan",
+      "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    },
+    {
+      "mal_id": 553,
+      "type": "anime",
+      "name": "Marvy Jack",
+      "url": "https://myanimelist.net/anime/producer/553/Marvy_Jack"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/59399l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/mnCXgfrjn1k?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 5341,
+  "slug": "ookami-to-koushinryou-ii-dublado"
 }

@@ -1,19 +1,74 @@
 {
-  "id": 2772,
-  "slug": "juushin-enbu-hero-tales",
-  "type": "legendado",
+  "mal_id": 2772,
+  "url": "https://myanimelist.net/anime/2772/Juushin_Enbu__Hero_Tales",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75193.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75193t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75193l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75193.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75193t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75193l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/73LMSSiH9eo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Juushin Enbu: Hero Tales"
+    },
+    {
+      "type": "Synonym",
+      "title": "Jyuushin Enbu"
+    },
+    {
+      "type": "Synonym",
+      "title": "Jushin Enbu"
+    },
+    {
+      "type": "Japanese",
+      "title": "獣神演武 - HERO TALES -"
+    },
+    {
+      "type": "English",
+      "title": "Hero Tales"
+    },
+    {
+      "type": "German",
+      "title": "Hero Tales"
+    },
+    {
+      "type": "Spanish",
+      "title": "Hero Tales"
+    },
+    {
+      "type": "French",
+      "title": "Hero Tales"
+    }
+  ],
   "title": "Juushin Enbu: Hero Tales",
   "title_english": "Hero Tales",
   "title_japanese": "獣神演武 - HERO TALES -",
-  "image": "https://cdn.myanimelist.net/images/anime/7/75193l.webp",
-  "score": 6.81,
-  "synopsis": "For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form—a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.\n\nTaito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.\n\n(Source: RightStuf)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/73LMSSiH9eo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Jyuushin Enbu",
+    "Jushin Enbu"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -145,5 +200,104 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxhgpE5pVgR35irLavL8MhX95ClYq6j_3GZFs37a4fbjYG82V9351sYgkhuVOJYGd-AyNKmRHTlS5dZr9t96E0efHTGf4QLY-GhDOxbQWAbdNsoSfnsiW8bHxQwWQK8GjyiooMC",
       "nome": "Final Chapter: The End of the Tale"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-10-08T00:00:00+00:00",
+    "to": "2008-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2007
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Oct 8, 2007 to Mar 31, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.81,
+  "scored_by": 10527,
+  "rank": 5507,
+  "popularity": 4612,
+  "members": 29116,
+  "favorites": 39,
+  "synopsis": "For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form—a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.\n\nTaito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.\n\n(Source: RightStuf)",
+  "background": "",
+  "season": "fall",
+  "year": 2007,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "02:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 02:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 93,
+      "type": "anime",
+      "name": "Studio Flag",
+      "url": "https://myanimelist.net/anime/producer/93/Studio_Flag"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/7/75193l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/73LMSSiH9eo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 2772,
+  "slug": "juushin-enbu-hero-tales"
 }

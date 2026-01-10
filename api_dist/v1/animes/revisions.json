@@ -1,17 +1,47 @@
 {
-  "id": 37436,
-  "slug": "revisions",
-  "type": "legendado",
+  "mal_id": 37436,
+  "url": "https://myanimelist.net/anime/37436/Revisions",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1215/111381.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1215/111381t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1215/111381l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1215/111381.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1215/111381t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1215/111381l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/6PzsvG5GYmY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Revisions"
+    },
+    {
+      "type": "Japanese",
+      "title": "revisions リヴィジョンズ"
+    }
+  ],
   "title": "Revisions",
   "title_english": "Revisions",
   "title_japanese": "revisions リヴィジョンズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1215/111381l.webp",
-  "score": 6.02,
-  "synopsis": "\"This is a prophecy for you, where five people will meet huge adversaries, and only you can protect everyone.\" Daisuke Dojima is a second-year high school student who was abducted when he was young. He was involved in a special phenomenon—Shibuya Drift—with his childhood friends Gai, Lu, Marimari, and Keisaku. They were transferred to the center of Shibuya over 300 years into the future. What's waiting for them is endless wilderness and forest, Interspersed ruin, future citizens, and \"Revisions\" which are huge mechanical monsters. Trampled by the monsters without understanding the situation, a girl who has the same name as the person who saved Daisuke when he was abducted, Milo, provided a mobile suit \"String Puppet\" and told them to save Shibuya. With separated paths, adversaries, destined prophecies, the boys, and girls are on their journey to return to their original time.\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/6PzsvG5GYmY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +103,95 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzryQHNYSUzvW4xam3j262k80zUO_moaSbsOUUWDw_IE20u-VAxHKrohnzFUZsipEwRule0RGlrM0kmI0lH6FiHJUiyrtNN091o0IInZfn9DtJPH-492mdgOVvhJaWMDz2gmiE",
       "nome": "Revert"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-10T00:00:00+00:00",
+    "to": "2019-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Jan 10, 2019 to Mar 28, 2019"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.02,
+  "scored_by": 21360,
+  "rank": 10273,
+  "popularity": 2933,
+  "members": 69115,
+  "favorites": 82,
+  "synopsis": "\"This is a prophecy for you, where five people will meet huge adversaries, and only you can protect everyone.\" Daisuke Dojima is a second-year high school student who was abducted when he was young. He was involved in a special phenomenon—Shibuya Drift—with his childhood friends Gai, Lu, Marimari, and Keisaku. They were transferred to the center of Shibuya over 300 years into the future. What's waiting for them is endless wilderness and forest, Interspersed ruin, future citizens, and \"Revisions\" which are huge mechanical monsters. Trampled by the monsters without understanding the situation, a girl who has the same name as the person who saved Daisuke when he was abducted, Milo, provided a mobile suit \"String Puppet\" and told them to save Shibuya. With separated paths, adversaries, destined prophecies, the boys, and girls are on their journey to return to their original time.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 735,
+      "type": "anime",
+      "name": "Slow Curve",
+      "url": "https://myanimelist.net/anime/producer/735/Slow_Curve"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 235,
+      "type": "anime",
+      "name": "Shirogumi",
+      "url": "https://myanimelist.net/anime/producer/235/Shirogumi"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1215/111381l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/6PzsvG5GYmY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37436,
+  "slug": "revisions"
 }

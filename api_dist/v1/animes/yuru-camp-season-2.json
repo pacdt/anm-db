@@ -1,17 +1,74 @@
 {
-  "id": 38474,
-  "slug": "yuru-camp-season-2",
-  "type": "legendado",
+  "mal_id": 38474,
+  "url": "https://myanimelist.net/anime/38474/Yuru_Camp△_Season_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1255/110636.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/110636t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/110636l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1255/110636.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/110636t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/110636l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ciGB8qOyXrM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yuru Camp△ Season 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yuru Camp 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yurukyan"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゆるキャン△ SEASON2"
+    },
+    {
+      "type": "English",
+      "title": "Laid-Back Camp Season 2"
+    },
+    {
+      "type": "German",
+      "title": "Laid Back Camp Staffel 2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Laid-Back Camp Temporada 2"
+    },
+    {
+      "type": "French",
+      "title": "Yuru Camp – Au grand air Saison 2"
+    }
+  ],
   "title": "Yuru Camp△ Season 2",
   "title_english": "Laid-Back Camp Season 2",
   "title_japanese": "ゆるキャン△ SEASON2",
-  "image": "https://cdn.myanimelist.net/images/anime/1255/110636l.webp",
-  "score": 8.5,
-  "synopsis": "Having spent Christmas camping with her new friends, Rin Shima embarks on a solo-camping trip to see the New Year sunrise by the sea. All goes according to plan until unforeseen weather blocks the roads back home, making a return trip impossible. Rin, who is now stranded for a few days, is invited by Nadeshiko Kagamihara to stay at her grandmother's house. \n\nWhat is supposed to be a two-day trip becomes an extended period of sightseeing and new experiences for Rin, and she encounters some new and old faces along the way. Yuru Camp△ Season 2 continues the story of Rin, Nadeshiko, and their friends as they further explore the joys of camping.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ciGB8qOyXrM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Yuru Camp 2nd Season",
+    "Yurukyan"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +135,94 @@
       "url": "https://lightspeedst.net/s2/mp4/yuru-camp-season-2/hd/13.mp4",
       "nome": "I'm Home"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-01-07T00:00:00+00:00",
+    "to": "2021-04-01T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2021
+      },
+      "to": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      }
+    },
+    "string": "Jan 7, 2021 to Apr 1, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.5,
+  "scored_by": 111059,
+  "rank": 157,
+  "popularity": 1099,
+  "members": 249684,
+  "favorites": 3174,
+  "synopsis": "Having spent Christmas camping with her new friends, Rin Shima embarks on a solo-camping trip to see the New Year sunrise by the sea. All goes according to plan until unforeseen weather blocks the roads back home, making a return trip impossible. Rin, who is now stranded for a few days, is invited by Nadeshiko Kagamihara to stay at her grandmother's house. \n\nWhat is supposed to be a two-day trip becomes an extended period of sightseeing and new experiences for Rin, and she encounters some new and old faces along the way. Yuru Camp△ Season 2 continues the story of Rin, Nadeshiko, and their friends as they further explore the joys of camping.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2021,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 963,
+      "type": "anime",
+      "name": "MAGES.",
+      "url": "https://myanimelist.net/anime/producer/963/MAGES"
+    },
+    {
+      "mal_id": 1576,
+      "type": "anime",
+      "name": "DeNA",
+      "url": "https://myanimelist.net/anime/producer/1576/DeNA"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1075,
+      "type": "anime",
+      "name": "C-Station",
+      "url": "https://myanimelist.net/anime/producer/1075/C-Station"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 63,
+      "type": "anime",
+      "name": "Iyashikei",
+      "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1255/110636l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ciGB8qOyXrM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38474,
+  "slug": "yuru-camp-season-2"
 }

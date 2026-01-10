@@ -1,17 +1,63 @@
 {
-  "id": 34295,
-  "slug": "choboraunyopomi-gekijou-dai-san-maku-ai-mai-mii-surgical-friends",
-  "type": "legendado",
+  "mal_id": 34295,
+  "url": "https://myanimelist.net/anime/34295/Choboraunyopomi_Gekijou_Dai_San_Maku_Ai_Mai_Mii__Surgical_Friends",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/83846.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/83846t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/83846l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/83846.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/83846t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/83846l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Choboraunyopomi Gekijou Dai San Maku Ai Mai Mii: Surgical Friends"
+    },
+    {
+      "type": "Japanese",
+      "title": "ちょぼらうにょぽみ劇場第三幕「あいまいみー~Surgical Friends~」"
+    },
+    {
+      "type": "English",
+      "title": "Ai-Mai-Mi Surgical Friends"
+    },
+    {
+      "type": "German",
+      "title": "Ai-Mai-Mi Surgical Friends"
+    },
+    {
+      "type": "Spanish",
+      "title": "Ai-Mai-Mi Surgical Friends"
+    },
+    {
+      "type": "French",
+      "title": "Ai-Mai-Mi Surgical Friends"
+    }
+  ],
   "title": "Choboraunyopomi Gekijou Dai San Maku Ai Mai Mii: Surgical Friends",
   "title_english": "Ai-Mai-Mi Surgical Friends",
   "title_japanese": "ちょぼらうにょぽみ劇場第三幕「あいまいみー~Surgical Friends~」",
-  "image": "https://cdn.myanimelist.net/images/anime/11/83846l.webp",
-  "score": 6.05,
-  "synopsis": "Ai, Mai, Mii, and Ponoka continue to make the most of their high school years working on manga, engaging in friendly competition with each other, and going toe-to-toe with fierce rivals. As they continue to encounter a series of bizarre and amusing situations, the girls find little time to be bored.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -77,5 +123,88 @@
       "numero": 13,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxjHgCOga5zOrWrC21EEMg5k6iziWgo4d13sCvC_EExd433ABywYX7e81ge2qJmzCTryH8xAUjXQklXN39TtyaHgdeZ9NKW9jfL1GSUUxsuArZHMNAgKgYXylUSxp7RCuPfdXUo"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-01-03T00:00:00+00:00",
+    "to": "2017-03-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 1,
+        "year": 2017
+      },
+      "to": {
+        "day": 21,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Jan 3, 2017 to Mar 21, 2017"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.05,
+  "scored_by": 4902,
+  "rank": 10118,
+  "popularity": 6707,
+  "members": 11554,
+  "favorites": 18,
+  "synopsis": "Ai, Mai, Mii, and Ponoka continue to make the most of their high school years working on manga, engaging in friendly competition with each other, and going toe-to-toe with fierce rivals. As they continue to encounter a series of bizarre and amusing situations, the girls find little time to be bored.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2017,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 615,
+      "type": "anime",
+      "name": "Dream Creation",
+      "url": "https://myanimelist.net/anime/producer/615/Dream_Creation"
+    },
+    {
+      "mal_id": 1600,
+      "type": "anime",
+      "name": "On-Lead",
+      "url": "https://myanimelist.net/anime/producer/1600/On-Lead"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 541,
+      "type": "anime",
+      "name": "Seven",
+      "url": "https://myanimelist.net/anime/producer/541/Seven"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/83846l.webp",
+  "trailer_url": null,
+  "id": 34295,
+  "slug": "choboraunyopomi-gekijou-dai-san-maku-ai-mai-mii-surgical-friends"
 }

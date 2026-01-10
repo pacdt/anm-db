@@ -1,19 +1,69 @@
 {
-  "id": 24909,
-  "slug": "kaitou-joker",
-  "type": "legendado",
+  "mal_id": 24909,
+  "url": "https://myanimelist.net/anime/24909/Kaitou_Joker",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/64975.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/64975t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/64975l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/64975.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/64975t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/64975l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/iUO5fBbD1ZU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaitou Joker"
+    },
+    {
+      "type": "Synonym",
+      "title": "Mysterious Joker"
+    },
+    {
+      "type": "Japanese",
+      "title": "怪盗ジョーカー"
+    },
+    {
+      "type": "English",
+      "title": "JOKER"
+    },
+    {
+      "type": "German",
+      "title": "JOKER"
+    },
+    {
+      "type": "Spanish",
+      "title": "Joker"
+    },
+    {
+      "type": "French",
+      "title": "Kaitô Joker"
+    }
+  ],
   "title": "Kaitou Joker",
   "title_english": "JOKER",
   "title_japanese": "怪盗ジョーカー",
-  "image": "https://cdn.myanimelist.net/images/anime/12/64975l.webp",
-  "score": 6.99,
-  "synopsis": "Under the veil of the shining night, the mysterious phantom thief Joker performs daring heists on one valuable treasure to the next. Although often backed into a corner by persistent police investigator Dokusaburou Oniyama, the self-proclaimed \"Miracle Maker\" uses his arsenal of flashy tricks to escape, straddling the line between science and magic. \n\nIn the middle of a heist to steal the \"Dragon Gem\" from the mansion of a haughty multimillionaire, Joker meets Hachi, a clumsy but earnest ninja. Hachi is after the same treasure but idolizes Joker, who in return merely sees him as a nuisance. Still, the two are able to work together to perform a successful heist. Seeing Hachi's wit and courage, as well as his convenient ability to perform housework, Joker reluctantly accepts him as a disciple.\n\nAs they set off with their eyes set on the next prize, Joker and Hachi butt heads with other phantom thieves. Facing both old friends and new foes alike, Joker competes to become the best \"magician\" of the shining night.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/iUO5fBbD1ZU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Mystery"
+  "title_synonyms": [
+    "Mysterious Joker"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -249,5 +299,84 @@
       "numero": 52,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxvMevir2T9XhqlKWRdk8dFylLi95c79Xz3bBDuBDRd1YIvholRMnDKiVugTaooFrEmOl-HPw9ZMS2vPk8Nbnyil4G_X08u798rCy3cwKvepqpH5lN1reBo9F7qgZH1_SJGa1w"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-06T00:00:00+00:00",
+    "to": "2015-01-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 5,
+        "month": 1,
+        "year": 2015
+      }
+    },
+    "string": "Oct 6, 2014 to Jan 5, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.99,
+  "scored_by": 6128,
+  "rank": 4608,
+  "popularity": 5888,
+  "members": 15833,
+  "favorites": 134,
+  "synopsis": "Under the veil of the shining night, the mysterious phantom thief Joker performs daring heists on one valuable treasure to the next. Although often backed into a corner by persistent police investigator Dokusaburou Oniyama, the self-proclaimed \"Miracle Maker\" uses his arsenal of flashy tricks to escape, straddling the line between science and magic. \n\nIn the middle of a heist to steal the \"Dragon Gem\" from the mansion of a haughty multimillionaire, Joker meets Hachi, a clumsy but earnest ninja. Hachi is after the same treasure but idolizes Joker, who in return merely sees him as a nuisance. Still, the two are able to work together to perform a successful heist. Seeing Hachi's wit and courage, as well as his convenient ability to perform housework, Joker reluctantly accepts him as a disciple.\n\nAs they set off with their eyes set on the next prize, Joker and Hachi butt heads with other phantom thieves. Facing both old friends and new foes alike, Joker competes to become the best \"magician\" of the shining night.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 142,
+      "type": "anime",
+      "name": "Asatsu DK",
+      "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 247,
+      "type": "anime",
+      "name": "Shin-Ei Animation",
+      "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/64975l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/iUO5fBbD1ZU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 24909,
+  "slug": "kaitou-joker"
 }

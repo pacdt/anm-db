@@ -1,17 +1,47 @@
 {
-  "id": 4550,
-  "slug": "hyakko",
-  "type": "legendado",
+  "mal_id": 4550,
+  "url": "https://myanimelist.net/anime/4550/Hyakko",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1606/137514.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1606/137514t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1606/137514l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1606/137514.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1606/137514t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1606/137514l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hyakko"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヒャッコ"
+    }
+  ],
   "title": "Hyakko",
   "title_english": "Hyakko",
   "title_japanese": "ヒャッコ",
-  "image": "https://cdn.myanimelist.net/images/anime/1606/137514l.webp",
-  "score": 7.23,
-  "synopsis": "On their first day of high school shy Ayumi Nonomura and taciturn Tatsuki Iizuka become lost on the immense campus of Kamizono Academy. An irresistible force of nature named Torako Kageyama accompanied by her best friend Suzume Saotome appears in front of them. Led, sometimes pushed, by Torako, the girls and their classmates work through problems of school, home and adolescence.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +108,96 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyDrtLGgxY8rt825g-oWh1ArHbLVEwNz_JBcl7SGzLhQYWAE7C4-7_CKJhxKpPYFb-KDtaa3zXcg-Prk9wP9C-2dYd9v2RhvZLNMDw2_nfG55_IMItZUh7TNq6uMOE97ujBGuRE",
       "nome": "Four People Form a Tiger"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-10-02T00:00:00+00:00",
+    "to": "2008-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2008
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2008
+      }
+    },
+    "string": "Oct 2, 2008 to Dec 25, 2008"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.23,
+  "scored_by": 20932,
+  "rank": 3348,
+  "popularity": 3641,
+  "members": 46813,
+  "favorites": 112,
+  "synopsis": "On their first day of high school shy Ayumi Nonomura and taciturn Tatsuki Iizuka become lost on the immense campus of Kamizono Academy. An irresistible force of nature named Torako Kageyama accompanied by her best friend Suzume Saotome appears in front of them. Led, sometimes pushed, by Torako, the girls and their classmates work through problems of school, home and adolescence.",
+  "background": "",
+  "season": "fall",
+  "year": 2008,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "02:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 02:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 874,
+      "type": "anime",
+      "name": "Flex Comix",
+      "url": "https://myanimelist.net/anime/producer/874/Flex_Comix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 217,
+      "type": "anime",
+      "name": "Nozomi Entertainment",
+      "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Nippon Animation",
+      "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1606/137514l.webp",
+  "trailer_url": null,
+  "id": 4550,
+  "slug": "hyakko"
 }

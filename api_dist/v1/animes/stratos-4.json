@@ -1,18 +1,47 @@
 {
-  "id": 421,
-  "slug": "stratos-4",
-  "type": "legendado",
+  "mal_id": 421,
+  "url": "https://myanimelist.net/anime/421/Stratos_4",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/67337.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/67337t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/67337l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/67337.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/67337t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/67337l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Stratos 4"
+    },
+    {
+      "type": "Japanese",
+      "title": "ストラトス・フォー"
+    }
+  ],
   "title": "Stratos 4",
   "title_english": "Stratos 4",
   "title_japanese": "ストラトス・フォー",
-  "image": "https://cdn.myanimelist.net/images/anime/8/67337l.webp",
-  "score": 6.62,
-  "synopsis": "In the early 21st century, Earth has come under threat from giant comets. In response, the United Nations institutes the Cosmic Emergency Management Agency (CEMA) and establishes a two-part defense program. Taking off from orbital stations, spacecraft launch specialized missiles to intercept and break up the threatening celestial objects, while fighter jets back on Earth deal with the remaining fragments. Competition among the pilots is fierce, as everyone wants to be one of the highly regarded Comet Blasters in space instead of the Meteor Sweepers on airbases.\n\nAlthough from an esteemed lineage of pilots, recruit Mikaze Honjou finds the path to become a Comet Blaster arduous, which only results in her neglecting her studies. However, after a successful mission with her friends—Karin Kikuhara, Shizuha Doi, and Ayamo Nakamura—Mikaze rediscovers her motivation and sets out to make it through the training with the others.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +108,84 @@
       "url": "https://lightspeedst.net/s3/mp4/stratos-4/sd/13.mp4",
       "nome": "Code: 113 Final Approach"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-01-05T00:00:00+00:00",
+    "to": "2003-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 1,
+        "year": 2003
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2003
+      }
+    },
+    "string": "Jan 5, 2003 to Mar 30, 2003"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.62,
+  "scored_by": 5312,
+  "rank": 6645,
+  "popularity": 6226,
+  "members": 13761,
+  "favorites": 28,
+  "synopsis": "In the early 21st century, Earth has come under threat from giant comets. In response, the United Nations institutes the Cosmic Emergency Management Agency (CEMA) and establishes a two-part defense program. Taking off from orbital stations, spacecraft launch specialized missiles to intercept and break up the threatening celestial objects, while fighter jets back on Earth deal with the remaining fragments. Competition among the pilots is fierce, as everyone wants to be one of the highly regarded Comet Blasters in space instead of the Meteor Sweepers on airbases.\n\nAlthough from an esteemed lineage of pilots, recruit Mikaze Honjou finds the path to become a Comet Blaster arduous, which only results in her neglecting her studies. However, after a successful mission with her friends—Karin Kikuhara, Shizuha Doi, and Ayamo Nakamura—Mikaze rediscovers her motivation and sets out to make it through the training with the others.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2003,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 233,
+      "type": "anime",
+      "name": "Bandai Entertainment",
+      "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Studio Fantasia",
+      "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/67337l.webp",
+  "trailer_url": null,
+  "id": 421,
+  "slug": "stratos-4"
 }

@@ -1,18 +1,63 @@
 {
-  "id": 33758,
-  "slug": "wu-geng-ji",
-  "type": "legendado",
+  "mal_id": 33758,
+  "url": "https://myanimelist.net/anime/33758/Wu_Geng_Ji",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1759/148058.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/148058t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/148058l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1759/148058.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1759/148058t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1759/148058l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mLr6tNp9Zmg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wu Geng Ji"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Legend and the Hero"
+    },
+    {
+      "type": "Synonym",
+      "title": "Feng Shen Ji"
+    },
+    {
+      "type": "Synonym",
+      "title": "Chronicles of the God's Order"
+    },
+    {
+      "type": "Japanese",
+      "title": "武庚纪"
+    }
+  ],
   "title": "Wu Geng Ji",
   "title_english": "Wu Geng Ji",
   "title_japanese": "武庚纪",
-  "image": "https://cdn.myanimelist.net/images/anime/1759/148058l.webp",
-  "score": 7.28,
-  "synopsis": "A messenger of the Heavens has arrived in Zhao Ge, which has been ruled by the Shang dynasty for generations. The current emperor, Zi Zhou, refuses to bow his head before the gods, and declares to the messenger that he will no longer accept the tyranny of the Heavens. The gods do not take this kindly; and soon, the emperor of a neighboring land, Wu Jifa, leads a crusade against the rebelling Shang.\n\nDuring the battle, the Shang forces are vastly overwhelmed, and just when the capital is inches away from being taken, Zhou joins the fight. Although he breaks through the enemy ranks and makes his way toward Jifa, out of nowhere a god falls from the sky, landing right before him, prepared to personally deal with the troublemaker.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/mLr6tNp9Zmg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
+  "title_synonyms": [
+    "The Legend and the Hero",
+    "Feng Shen Ji",
+    "Chronicles of the God's Order"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -164,5 +209,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzm0A8PpoyOvOeaqtlOkJ1gH3Z_aJRbWIKDBf69W_e_C-BWwBywheSGzgM9n4jcBUIITj9WtcGpCkMUbIsoPbOEMDguJK3MRjXigrUvKOlm0ZpFSYfhVnaeQEhs9LGg4wXXYkAl",
       "nome": "Hermit"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-06-24T00:00:00+00:00",
+    "to": "2017-08-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 6,
+        "year": 2016
+      },
+      "to": {
+        "day": 24,
+        "month": 8,
+        "year": 2017
+      }
+    },
+    "string": "Jun 24, 2016 to Aug 24, 2017"
+  },
+  "duration": "15 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.28,
+  "scored_by": 2101,
+  "rank": 3039,
+  "popularity": 8599,
+  "members": 6229,
+  "favorites": 33,
+  "synopsis": "A messenger of the Heavens has arrived in Zhao Ge, which has been ruled by the Shang dynasty for generations. The current emperor, Zi Zhou, refuses to bow his head before the gods, and declares to the messenger that he will no longer accept the tyranny of the Heavens. The gods do not take this kindly; and soon, the emperor of a neighboring land, Wu Jifa, leads a crusade against the rebelling Shang.\n\nDuring the battle, the Shang forces are vastly overwhelmed, and just when the capital is inches away from being taken, Zhou joins the fight. Although he breaks through the enemy ranks and makes his way toward Jifa, out of nowhere a god falls from the sky, landing right before him, prepared to personally deal with the troublemaker.\n\n[Written by MAL Rewrite]",
+  "background": "Wu Geng Ji Season 1 adapts chapters 1-19 of the Feng Shen Ji manhua.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1727,
+      "type": "anime",
+      "name": "Tencent Video",
+      "url": "https://myanimelist.net/anime/producer/1727/Tencent_Video"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1768,
+      "type": "anime",
+      "name": "Sparkly Key Animation Studio",
+      "url": "https://myanimelist.net/anime/producer/1768/Sparkly_Key_Animation_Studio"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1759/148058l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/mLr6tNp9Zmg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 33758,
+  "slug": "wu-geng-ji"
 }

@@ -1,19 +1,61 @@
 {
-  "id": 1453,
-  "slug": "maison-ikkoku",
-  "type": "legendado",
+  "mal_id": 1453,
+  "url": "https://myanimelist.net/anime/1453/Maison_Ikkoku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/17576.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/17576t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/17576l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/17576.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/17576t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/17576l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/et7jnupRe7Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Maison Ikkoku"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ikkoku House"
+    },
+    {
+      "type": "Japanese",
+      "title": "めぞん一刻"
+    },
+    {
+      "type": "English",
+      "title": "Maison Ikkoku"
+    },
+    {
+      "type": "French",
+      "title": "Maison Ikkoku: Juliette Je t'aime"
+    }
+  ],
   "title": "Maison Ikkoku",
   "title_english": "Maison Ikkoku",
   "title_japanese": "めぞん一刻",
-  "image": "https://cdn.myanimelist.net/images/anime/6/17576l.webp",
-  "score": 8.2,
-  "synopsis": "In the town of Clock Hill, there is an old boarding house called Maison Ikkoku. While the residence itself is fairly normal, most of its occupants are not. Yuusaku Godai, its most quiet tenant, has finally reached his limit with his neighbors' constant disruptions and boisterous partying. Wanting a calmer place to call home so that he can study in peace, he prepares to move away.\n\nHowever, his plans to leave are suddenly interrupted when he meets the new boarding house manager, Kyoko Otonashi. Falling madly in love with her, he decides that the boarding house may not be such a bad place to live after all. Unfortunately for him, Kyoko has her own romantic troubles: she is a widow whose husband died six months into their marriage. And despite her blossoming feelings for Godai, Kyoko still cherishes her dearly departed husband, and she believes that no other man could possibly fill the void in her heart. But with Godai's persistence and some help of the other eccentric tenants, she may experience true love once again.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/et7jnupRe7Y?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Ikkoku House"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -495,5 +537,98 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx0YioLxxR_NwBhrmBPuV7IB_DzILpbrC3ERiX12-2KLd698_YfF7Wit-SOFBKDOlcERzcMo7tCoHriHxoyyocHCV0LsVPgVyHv-3UNxXy9kPzZwEyz2JJ691GKgJ9NNAshRUze",
       "nome": "As Long as this Love Lasts! Ikkoku-kan is Forever...!!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1986-03-26T00:00:00+00:00",
+    "to": "1988-03-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 3,
+        "year": 1986
+      },
+      "to": {
+        "day": 2,
+        "month": 3,
+        "year": 1988
+      }
+    },
+    "string": "Mar 26, 1986 to Mar 2, 1988"
+  },
+  "duration": "25 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 8.2,
+  "scored_by": 20962,
+  "rank": 416,
+  "popularity": 2659,
+  "members": 81621,
+  "favorites": 1901,
+  "synopsis": "In the town of Clock Hill, there is an old boarding house called Maison Ikkoku. While the residence itself is fairly normal, most of its occupants are not. Yuusaku Godai, its most quiet tenant, has finally reached his limit with his neighbors' constant disruptions and boisterous partying. Wanting a calmer place to call home so that he can study in peace, he prepares to move away.\n\nHowever, his plans to leave are suddenly interrupted when he meets the new boarding house manager, Kyoko Otonashi. Falling madly in love with her, he decides that the boarding house may not be such a bad place to live after all. Unfortunately for him, Kyoko has her own romantic troubles: she is a widow whose husband died six months into their marriage. And despite her blossoming feelings for Godai, Kyoko still cherishes her dearly departed husband, and she believes that no other man could possibly fill the void in her heart. But with Godai's persistence and some help of the other eccentric tenants, she may experience true love once again.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 1986,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 99,
+      "type": "anime",
+      "name": "Kitty Films",
+      "url": "https://myanimelist.net/anime/producer/99/Kitty_Films"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/17576l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/et7jnupRe7Y?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1453,
+  "slug": "maison-ikkoku"
 }

@@ -1,18 +1,51 @@
 {
-  "id": 51923,
-  "slug": "warau-arsnotoria-sun",
-  "type": "legendado",
+  "mal_id": 51923,
+  "url": "https://myanimelist.net/anime/51923/Warau_Arsnotoria_Sun",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1823/124696.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1823/124696t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1823/124696l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1823/124696.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1823/124696t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1823/124696l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_i0HQlQioHM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Warau Arsnotoria Sun!"
+    },
+    {
+      "type": "Japanese",
+      "title": "咲う アルスノトリア すんっ！"
+    },
+    {
+      "type": "English",
+      "title": "Smile of the Arsnotoria the Animation"
+    }
+  ],
   "title": "Warau Arsnotoria Sun!",
   "title_english": "Smile of the Arsnotoria the Animation",
   "title_japanese": "咲う アルスノトリア すんっ！",
-  "image": "https://cdn.myanimelist.net/images/anime/1823/124696l.webp",
-  "score": 5.81,
-  "synopsis": "In the magical academic city of Ashram, girls known as Pentagrams study general education, magic, and etiquette to become proper ladies. Hidden from the rest of the world, the school is like a secret garden that is home to blossoming flowers. However, bugs sensitive to magic may target and trample them; as one of their tasks, the girls must exterminate these insects.\n\nThe smileless Pentagram Arsnotoria lives in the fifth dorm house alongside her adored roommates: the cheerful Mell, the self-paced Little Alberta, the confident Picatrix, and the cool Abramelin. No matter what time of day, they hang out together as much as possible, and even throw tea parties in their secret room after completing their duties. The girls live in peace as they work toward their goal—but there may be more to Ashram and the Pentagrams beyond the calm life they have come to cherish.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_i0HQlQioHM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,112 @@
       "url": "https://lightspeedst.net/s4/mp4/warau-arsnotoria-sun/fhd/12.mp4",
       "nome": "Sniff!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-07-06T00:00:00+00:00",
+    "to": "2022-09-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2022
+      },
+      "to": {
+        "day": 21,
+        "month": 9,
+        "year": 2022
+      }
+    },
+    "string": "Jul 6, 2022 to Sep 21, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.81,
+  "scored_by": 8807,
+  "rank": 11428,
+  "popularity": 4428,
+  "members": 31589,
+  "favorites": 51,
+  "synopsis": "In the magical academic city of Ashram, girls known as Pentagrams study general education, magic, and etiquette to become proper ladies. Hidden from the rest of the world, the school is like a secret garden that is home to blossoming flowers. However, bugs sensitive to magic may target and trample them; as one of their tasks, the girls must exterminate these insects.\n\nThe smileless Pentagram Arsnotoria lives in the fifth dorm house alongside her adored roommates: the cheerful Mell, the self-paced Little Alberta, the confident Picatrix, and the cool Abramelin. No matter what time of day, they hang out together as much as possible, and even throw tea parties in their secret room after completing their duties. The girls live in peace as they work toward their goal—but there may be more to Ashram and the Pentagrams beyond the calm life they have come to cherish.\n\n[Written by MAL Rewrite]",
+  "background": "Warau Arsnotoria Sun! is an adaptation of the 2021 smartphone game Warau Arsnotoria by Nitroplus. The series was released on Blu-ray and DVD in five volumes from September 21, 2022 to December 21, 2022.",
+  "season": "summer",
+  "year": 2022,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 459,
+      "type": "anime",
+      "name": "Nitroplus",
+      "url": "https://myanimelist.net/anime/producer/459/Nitroplus"
+    },
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1501,
+      "type": "anime",
+      "name": "JR East Marketing & Communications",
+      "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing___Communications"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1823/124696l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_i0HQlQioHM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51923,
+  "slug": "warau-arsnotoria-sun"
 }

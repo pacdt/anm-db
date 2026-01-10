@@ -1,17 +1,59 @@
 {
-  "id": 36259,
-  "slug": "pingu-in-the-city",
-  "type": "legendado",
+  "mal_id": 36259,
+  "url": "https://myanimelist.net/anime/36259/Pingu_in_the_City",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1140/95174.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1140/95174t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1140/95174l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1140/95174.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1140/95174t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1140/95174l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Pingu in the City"
+    },
+    {
+      "type": "Japanese",
+      "title": "ピングー in ザ・シティ"
+    },
+    {
+      "type": "English",
+      "title": "Pingu in the City"
+    },
+    {
+      "type": "German",
+      "title": "Pingu in der Stadt"
+    },
+    {
+      "type": "Spanish",
+      "title": "Pingu en la Ciudad"
+    }
+  ],
   "title": "Pingu in the City",
   "title_english": "Pingu in the City",
   "title_japanese": "ピングー in ザ・シティ",
-  "image": "https://cdn.myanimelist.net/images/anime/1140/95174l.webp",
-  "score": 6.52,
-  "synopsis": "Pingu and his family move from their small village to the big city; in which there are many people with many different occupations. The ever-curious Pingu tries to join them at their jobs, but his mischievous side gets the better of him and he ends up messing things up.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -88,5 +130,101 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzL7m0QPNHo-G6Rm6JrrYhAv7BBfHtN6wpGEYQN02j68aSDZDLMScnju-UatrnH7-6TD6muvx5YoQG-3XXftly_V5-MCZ1Ma0cFsyuL5aKp9cGh1nNHV8WQqT5JNYU-af2mI-xr",
       "nome": "Mama's Birthday Surprise"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-10-07T00:00:00+00:00",
+    "to": "2018-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2017
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2018
+      }
+    },
+    "string": "Oct 7, 2017 to Mar 31, 2018"
+  },
+  "duration": "7 min per ep",
+  "rating": "G - All Ages",
+  "score": 6.52,
+  "scored_by": 23885,
+  "rank": 7245,
+  "popularity": 3840,
+  "members": 42811,
+  "favorites": 745,
+  "synopsis": "Pingu and his family move from their small village to the big city; in which there are many people with many different occupations. The ever-curious Pingu tries to join them at their jobs, but his mischievous side gets the better of him and he ends up messing things up.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "09:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 09:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1023,
+      "type": "anime",
+      "name": "Polygon Pictures",
+      "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    },
+    {
+      "mal_id": 1891,
+      "type": "anime",
+      "name": "Mattel Creations",
+      "url": "https://myanimelist.net/anime/producer/1891/Mattel_Creations"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1111,
+      "type": "anime",
+      "name": "DandeLion Animation Studio",
+      "url": "https://myanimelist.net/anime/producer/1111/DandeLion_Animation_Studio"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1140/95174l.webp",
+  "trailer_url": null,
+  "id": 36259,
+  "slug": "pingu-in-the-city"
 }

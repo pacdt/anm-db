@@ -1,20 +1,85 @@
 {
-  "id": 37277,
-  "slug": "beatless-intermission",
-  "type": "legendado",
+  "mal_id": 37277,
+  "url": "https://myanimelist.net/anime/37277/Beatless_Intermission",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1709/90468.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1709/90468t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1709/90468l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1709/90468.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1709/90468t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1709/90468l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Beatless Intermission"
+    },
+    {
+      "type": "Synonym",
+      "title": "Beatless Recap"
+    },
+    {
+      "type": "Synonym",
+      "title": "Beatless Episode 5.5"
+    },
+    {
+      "type": "Synonym",
+      "title": "Beatless Episode 9.5"
+    },
+    {
+      "type": "Synonym",
+      "title": "Beatless Episode 14.5"
+    },
+    {
+      "type": "Synonym",
+      "title": "Beatless Episode 16.5"
+    },
+    {
+      "type": "Japanese",
+      "title": "BEATLESS Intermission"
+    },
+    {
+      "type": "German",
+      "title": "Beatless: Pause 001 - Pause 004"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sin Latidos: Intermedio 001, intermedio 002, intermedio 003, intermedio 004"
+    },
+    {
+      "type": "French",
+      "title": "Beatless: Entracte 001 - Entracte 004"
+    }
+  ],
   "title": "Beatless Intermission",
   "title_english": "Beatless Intermission",
   "title_japanese": "BEATLESS Intermission",
-  "image": "https://cdn.myanimelist.net/images/anime/1709/90468l.webp",
-  "score": 5.67,
-  "synopsis": "Recap episodes of Beatless.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Drama",
-    "Romance",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Beatless Recap",
+    "Beatless Episode 5.5",
+    "Beatless Episode 9.5",
+    "Beatless Episode 14.5",
+    "Beatless Episode 16.5"
   ],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -36,5 +101,65 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz4PDHqzWJEhfX41yLHuzBDs7mO3u2s8lib5gyu_CDT3FlsRpl47EXio3_j5GXrTel3MD80g8i4lmph6qhm2JgdzXtvN0CFDQ19uYEQ2MxGLORmgOboB9RKdoVdEZv3iFfO9u4",
       "nome": "Intermission 04"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-02-17T00:00:00+00:00",
+    "to": "2018-06-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 2,
+        "year": 2018
+      },
+      "to": {
+        "day": 2,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Feb 17, 2018 to Jun 2, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.67,
+  "scored_by": 5043,
+  "rank": 12056,
+  "popularity": 6341,
+  "members": 13137,
+  "favorites": 18,
+  "synopsis": "Recap episodes of Beatless.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Diomedéa",
+      "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1709/90468l.webp",
+  "trailer_url": null,
+  "id": 37277,
+  "slug": "beatless-intermission"
 }

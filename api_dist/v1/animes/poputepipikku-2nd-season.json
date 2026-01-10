@@ -1,17 +1,51 @@
 {
-  "id": 50663,
-  "slug": "poputepipikku-2nd-season",
-  "type": "legendado",
+  "mal_id": 50663,
+  "url": "https://myanimelist.net/anime/50663/Poputepipikku_2nd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1237/128067.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1237/128067t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1237/128067l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1237/128067.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1237/128067t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1237/128067l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZPV_toAr1ZU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Poputepipikku 2nd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "ポプテピピック"
+    },
+    {
+      "type": "English",
+      "title": "Pop Team Epic Season 2"
+    }
+  ],
   "title": "Poputepipikku 2nd Season",
   "title_english": "Pop Team Epic Season 2",
   "title_japanese": "ポプテピピック",
-  "image": "https://cdn.myanimelist.net/images/anime/1237/128067l.webp",
-  "score": 7.53,
-  "synopsis": "High school girl duo Popuko and Pipimi are back and more unhinged than ever after their initial efforts to create a full-fledged anime production were met with a great reception. With no regard for their audience, they continue to live their reckless everyday lives consisting of comedy skits and parodies of epic proportions. No one is immune to the effects of their antics—including hapless live actor Shouta Aoi, who is on the run and stuck trying to be a hero in the wrong series.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/ZPV_toAr1ZU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +107,94 @@
       "url": "https://lightspeedst.net/s5/mp4/poputepipikku-2nd-season/hd/12.mp4",
       "nome": "Endless Love"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-02T00:00:00+00:00",
+    "to": "2022-12-11T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 11,
+        "month": 12,
+        "year": 2022
+      }
+    },
+    "string": "Oct 2, 2022 to Dec 11, 2022"
+  },
+  "duration": "11 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.53,
+  "scored_by": 17694,
+  "rank": 1949,
+  "popularity": 3535,
+  "members": 49237,
+  "favorites": 156,
+  "synopsis": "High school girl duo Popuko and Pipimi are back and more unhinged than ever after their initial efforts to create a full-fledged anime production were met with a great reception. With no regard for their audience, they continue to live their reckless everyday lives consisting of comedy skits and parodies of epic proportions. No one is immune to the effects of their antics—including hapless live actor Shouta Aoi, who is on the run and stuck trying to be a hero in the wrong series.\n\n[Written by MAL Rewrite]",
+  "background": "Poputepipikku 2nd Season was released on Blu-ray in three volumes from November 23, 2022 to January 25, 2023.",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 2272,
+      "type": "anime",
+      "name": "AC-Bu",
+      "url": "https://myanimelist.net/anime/producer/2272/AC-Bu"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 437,
+      "type": "anime",
+      "name": "Kamikaze Douga",
+      "url": "https://myanimelist.net/anime/producer/437/Kamikaze_Douga"
+    },
+    {
+      "mal_id": 1045,
+      "type": "anime",
+      "name": "Space Neko Company",
+      "url": "https://myanimelist.net/anime/producer/1045/Space_Neko_Company"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1237/128067l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/ZPV_toAr1ZU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50663,
+  "slug": "poputepipikku-2nd-season"
 }

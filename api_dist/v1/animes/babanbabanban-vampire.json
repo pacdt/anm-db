@@ -1,19 +1,53 @@
 {
-  "id": 58265,
-  "slug": "babanbabanban-vampire",
-  "type": "legendado",
+  "mal_id": 58265,
+  "url": "https://myanimelist.net/anime/58265/Babanbabanban_Vampire",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1221/146649.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1221/146649t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1221/146649l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1221/146649.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1221/146649t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1221/146649l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/nlqnmg6QELY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Babanbabanban Vampire"
+    },
+    {
+      "type": "Synonym",
+      "title": "Baban Baban Ban Vampire"
+    },
+    {
+      "type": "Japanese",
+      "title": "ババンババンバンバンパイア"
+    }
+  ],
   "title": "Babanbabanban Vampire",
   "title_english": "Babanbabanban Vampire",
   "title_japanese": "ババンババンバンバンパイア",
-  "image": "https://cdn.myanimelist.net/images/anime/1221/146649l.webp",
-  "score": 6.57,
-  "synopsis": "A decade ago, 450-year-old vampire Ranmaru Mori was saved from the brink of death by Rihito Tatsuno, a young and innocent boy. Ever since then, Ranmaru has been working at the Tatsuno family's bathhouse with a secret: he wants a taste of Rihito's virgin blood as soon as he turns 18. However, his plan is threatened when Rihito falls in love with a girl on his first day of high school.\n\nJealous and scared that Rihito's pureness will be ruined, Ranmaru begins to lurk in the shadows to protect him from any harm. During his operation, the vampire must keep his real identity hidden and make sure his target's virginity remains unsullied.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/nlqnmg6QELY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Boys Love",
-    "Comedy",
-    "Supernatural"
+  "title_synonyms": [
+    "Baban Baban Ban Vampire"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +97,139 @@
       "numero": 12,
       "url": "https://lightspeedst.net/s5/mp4/babanbabanban-vampire/hd/12.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-01-11T00:00:00+00:00",
+    "to": "2025-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2025
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2025
+      }
+    },
+    "string": "Jan 11, 2025 to Mar 29, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.57,
+  "scored_by": 6208,
+  "rank": 6924,
+  "popularity": 5421,
+  "members": 19808,
+  "favorites": 79,
+  "synopsis": "A decade ago, 450-year-old vampire Ranmaru Mori was saved from the brink of death by Rihito Tatsuno, a young and innocent boy. Ever since then, Ranmaru has been working at the Tatsuno family's bathhouse with a secret: he wants a taste of Rihito's virgin blood as soon as he turns 18. However, his plan is threatened when Rihito falls in love with a girl on his first day of high school.\n\nJealous and scared that Rihito's pureness will be ruined, Ranmaru begins to lurk in the shadows to protect him from any harm. During his operation, the vampire must keep his real identity hidden and make sure his target's virginity remains unsullied.\n\n[Written by MAL Rewrite]",
+  "background": "Babanbabanban Vampire aired on TV Asahi's IMAnimation block.",
+  "season": "winter",
+  "year": 2025,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 1373,
+      "type": "anime",
+      "name": "Akita Shoten",
+      "url": "https://myanimelist.net/anime/producer/1373/Akita_Shoten"
+    },
+    {
+      "mal_id": 1501,
+      "type": "anime",
+      "name": "JR East Marketing & Communications",
+      "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing___Communications"
+    },
+    {
+      "mal_id": 2031,
+      "type": "anime",
+      "name": "Lawson Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2031/Lawson_Entertainment"
+    },
+    {
+      "mal_id": 2074,
+      "type": "anime",
+      "name": "Bit grooove promotion",
+      "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    },
+    {
+      "mal_id": 2234,
+      "type": "anime",
+      "name": "TV Asahi Music",
+      "url": "https://myanimelist.net/anime/producer/2234/TV_Asahi_Music"
+    },
+    {
+      "mal_id": 3181,
+      "type": "anime",
+      "name": "LY Corporation",
+      "url": "https://myanimelist.net/anime/producer/3181/LY_Corporation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1314,
+      "type": "anime",
+      "name": "Gaina",
+      "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+    }
+  ],
+  "genres": [
+    "Boys Love",
+    "Comedy",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1221/146649l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/nlqnmg6QELY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 58265,
+  "slug": "babanbabanban-vampire"
 }

@@ -1,17 +1,51 @@
 {
-  "id": 54143,
-  "slug": "cardfight-vanguard-divinez-season-2",
-  "type": "legendado",
+  "mal_id": 54143,
+  "url": "https://myanimelist.net/anime/54143/Cardfight_Vanguard__Divinez_Season_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1235/143504.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/143504t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/143504l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1235/143504.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/143504t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/143504l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/-hwkLH8vNpI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cardfight!! Vanguard: Divinez Season 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "カードファイト!! ヴァンガード Divinez Season2"
+    },
+    {
+      "type": "English",
+      "title": "Cardfight!! Vanguard: Divinez Season 2"
+    }
+  ],
   "title": "Cardfight!! Vanguard: Divinez Season 2",
   "title_english": "Cardfight!! Vanguard: Divinez Season 2",
   "title_japanese": "カードファイト!! ヴァンガード Divinez Season2",
-  "image": "https://cdn.myanimelist.net/images/anime/1235/143504l.webp",
-  "score": 7.11,
-  "synopsis": "Through his victory with Vanguard at the Fated Clash, Akina has his wish for the health of his sister Hikari fulfilled.\nGabwelius, who assembled the owners of the Fated One cards, reveals the truth behind the Fated Clash.\n\nAnother plush toy Sybilt has appeared as well, gathering the 6 owners of Destined One cards, and announcing the start of the “Destined Showdown” where the winner can have their wish fulfilled.\n\nThus begins the fierce bout where motives and intentions cross, of Fate vs Destiny!\n\n(Source: cf-vanguard.com)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/-hwkLH8vNpI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +112,88 @@
       "url": "https://lightspeedst.net/s7/mp4/cardfight-vanguard-divinez-season-2/hd/13.mp4",
       "nome": "A Miracle Will Descend"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-07-06T00:00:00+00:00",
+    "to": "2024-10-12T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2024
+      },
+      "to": {
+        "day": 12,
+        "month": 10,
+        "year": 2024
+      }
+    },
+    "string": "Jul 6, 2024 to Oct 12, 2024"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.11,
+  "scored_by": 1082,
+  "rank": 4008,
+  "popularity": 10856,
+  "members": 3182,
+  "favorites": 12,
+  "synopsis": "Through his victory with Vanguard at the Fated Clash, Akina has his wish for the health of his sister Hikari fulfilled.\nGabwelius, who assembled the owners of the Fated One cards, reveals the truth behind the Fated Clash.\n\nAnother plush toy Sybilt has appeared as well, gathering the 6 owners of Destined One cards, and announcing the start of the “Destined Showdown” where the winner can have their wish fulfilled.\n\nThus begins the fierce bout where motives and intentions cross, of Fate vs Destiny!\n\n(Source: cf-vanguard.com)",
+  "background": "",
+  "season": "summer",
+  "year": 2024,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "08:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 08:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 775,
+      "type": "anime",
+      "name": "Bushiroad",
+      "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 290,
+      "type": "anime",
+      "name": "Kinema Citrus",
+      "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+    },
+    {
+      "mal_id": 2299,
+      "type": "anime",
+      "name": "Gift-o’-Animation",
+      "url": "https://myanimelist.net/anime/producer/2299/Gift-o%E2%80%99-Animation"
+    },
+    {
+      "mal_id": 2300,
+      "type": "anime",
+      "name": "Studio Jemi",
+      "url": "https://myanimelist.net/anime/producer/2300/Studio_Jemi"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1235/143504l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/-hwkLH8vNpI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54143,
+  "slug": "cardfight-vanguard-divinez-season-2"
 }

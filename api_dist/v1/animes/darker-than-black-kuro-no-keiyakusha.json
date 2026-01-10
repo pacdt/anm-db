@@ -1,18 +1,65 @@
 {
-  "id": 2025,
-  "slug": "darker-than-black-kuro-no-keiyakusha",
-  "type": "legendado",
+  "mal_id": 2025,
+  "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/19570t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/19570l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/19570t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/19570l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/_T6vamZhsYg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Darker than Black: Kuro no Keiyakusha"
+    },
+    {
+      "type": "Synonym",
+      "title": "DTB"
+    },
+    {
+      "type": "Japanese",
+      "title": "Darker than BLACK -黒の契約者-"
+    },
+    {
+      "type": "English",
+      "title": "Darker than Black"
+    },
+    {
+      "type": "German",
+      "title": "Darker Than Black"
+    },
+    {
+      "type": "French",
+      "title": "Darker than Black"
+    }
+  ],
   "title": "Darker than Black: Kuro no Keiyakusha",
   "title_english": "Darker than Black",
   "title_japanese": "Darker than BLACK -黒の契約者-",
-  "image": "https://cdn.myanimelist.net/images/anime/5/19570l.webp",
-  "score": 8.04,
-  "synopsis": "It has been 10 years since Heaven's Gate appeared in South America and Hell's Gate appeared in Japan, veiling the once familiar night sky with an oppressive skyscape. Their purposes unknown, these Gates are spaces in which the very laws of physics are ignored. With the appearance of the Gates emerged Contractors, who, in exchange for their humanity, are granted supernatural abilities.\n\nIn the Japanese city surrounding Hell's Gate, Section 4 Chief Misaki Kirihara finds herself at odds with an infamous Contractor codenamed Hei. Called \"Black Reaper\" in the underground world, Hei, like his associates, undertakes missions for the mysterious and ruthless Syndicate while slowly peeling back the dark layers covering a nefarious plot that threatens the very existence of Contractors.\n\nFrom the mind of Tensai Okamura comes a sci-fi thriller taking the form of a subtle exposé on a war in which political positions and justice have no sway—a war waged exclusively in the shadows.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/_T6vamZhsYg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Mystery"
+  "title_synonyms": [
+    "DTB"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +190,114 @@
       "numero": 26,
       "url": "https://lightspeedst.net/s3/mp4/darker-than-black-kuro-no-keiyakusha/sd/26.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-04-06T00:00:00+00:00",
+    "to": "2007-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2007
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2007
+      }
+    },
+    "string": "Apr 6, 2007 to Sep 28, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.04,
+  "scored_by": 451366,
+  "rank": 636,
+  "popularity": 185,
+  "members": 996822,
+  "favorites": 16929,
+  "synopsis": "It has been 10 years since Heaven's Gate appeared in South America and Hell's Gate appeared in Japan, veiling the once familiar night sky with an oppressive skyscape. Their purposes unknown, these Gates are spaces in which the very laws of physics are ignored. With the appearance of the Gates emerged Contractors, who, in exchange for their humanity, are granted supernatural abilities.\n\nIn the Japanese city surrounding Hell's Gate, Section 4 Chief Misaki Kirihara finds herself at odds with an infamous Contractor codenamed Hei. Called \"Black Reaper\" in the underground world, Hei, like his associates, undertakes missions for the mysterious and ruthless Syndicate while slowly peeling back the dark layers covering a nefarious plot that threatens the very existence of Contractors.\n\nFrom the mind of Tensai Okamura comes a sci-fi thriller taking the form of a subtle exposé on a war in which political positions and justice have no sway—a war waged exclusively in the shadows.\n\n[Written by MAL Rewrite]",
+  "background": "Darker than Black was awarded Best Original Anime of The Year by GoGoplex, a popular magazine for teens. In the 2007 Japan Media Arts Festival, it was one of the jury's recommendations from the category \"Animation Division/Long Animation.\" On January 21, 2016, it was announced that Funimation Entertainment, the North American distributor for the anime, no longer holds the license for this season.",
+  "season": "spring",
+  "year": 2007,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 2045,
+      "type": "anime",
+      "name": "Myrica Music",
+      "url": "https://myanimelist.net/anime/producer/2045/Myrica_Music"
+    },
+    {
+      "mal_id": 3024,
+      "type": "anime",
+      "name": "Fonishia",
+      "url": "https://myanimelist.net/anime/producer/3024/Fonishia"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Bones",
+      "url": "https://myanimelist.net/anime/producer/4/Bones"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/19570l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/_T6vamZhsYg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 2025,
+  "slug": "darker-than-black-kuro-no-keiyakusha"
 }

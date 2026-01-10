@@ -1,19 +1,51 @@
 {
-  "id": 3086,
-  "slug": "strait-jacket",
-  "type": "legendado",
+  "mal_id": 3086,
+  "url": "https://myanimelist.net/anime/3086/Strait_Jacket",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/5181.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/5181t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/5181l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/5181.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/5181t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/5181l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Strait Jacket"
+    },
+    {
+      "type": "Japanese",
+      "title": "ストレイト・ジャケット"
+    },
+    {
+      "type": "German",
+      "title": "Strait Jacket - Legend of the Demon Hunter"
+    }
+  ],
   "title": "Strait Jacket",
   "title_english": "Strait Jacket",
   "title_japanese": "ストレイト・ジャケット",
-  "image": "https://cdn.myanimelist.net/images/anime/2/5181l.webp",
-  "score": 6.8,
-  "synopsis": "It is the world where magic and science coexist. Rayotte Steinberg, a lone wolf \"tactical sorcerist\", fights against monsters. They used to be human beings, but they had overused forbidden power, \"magic\", to turn into monsters. What he wears is \"mold\", the straight jacket that keeps him being a human. What he holds on his hand is \"staff\", a magical wand that explodes everything. If he casts magic, he moves one step to be a monster. If he doesn't, he will be killed. Among the harsh battles, he will face a sin he had committed in the past. \n\n(Source: AnimeNfo)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -27,5 +59,78 @@
       "numero": 3,
       "url": "https://lightspeedst.net/s3/mp4/strait-jacket/sd/3.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-11-26T00:00:00+00:00",
+    "to": "2008-04-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 11,
+        "year": 2007
+      },
+      "to": {
+        "day": 28,
+        "month": 4,
+        "year": 2008
+      }
+    },
+    "string": "Nov 26, 2007 to Apr 28, 2008"
+  },
+  "duration": "26 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.8,
+  "scored_by": 13144,
+  "rank": 5539,
+  "popularity": 4733,
+  "members": 27486,
+  "favorites": 38,
+  "synopsis": "It is the world where magic and science coexist. Rayotte Steinberg, a lone wolf \"tactical sorcerist\", fights against monsters. They used to be human beings, but they had overused forbidden power, \"magic\", to turn into monsters. What he wears is \"mold\", the straight jacket that keeps him being a human. What he holds on his hand is \"staff\", a magical wand that explodes everything. If he casts magic, he moves one step to be a monster. If he doesn't, he will be killed. Among the harsh battles, he will face a sin he had committed in the past. \n\n(Source: AnimeNfo)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 947,
+      "type": "anime",
+      "name": "Manga Entertainment",
+      "url": "https://myanimelist.net/anime/producer/947/Manga_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 91,
+      "type": "anime",
+      "name": "feel.",
+      "url": "https://myanimelist.net/anime/producer/91/feel"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/2/5181l.webp",
+  "trailer_url": null,
+  "id": 3086,
+  "slug": "strait-jacket"
 }

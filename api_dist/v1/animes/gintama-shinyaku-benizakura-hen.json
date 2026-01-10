@@ -1,23 +1,157 @@
 {
-  "id": 9735,
-  "slug": "gintama-shinyaku-benizakura-hen",
-  "type": "legendado",
+  "mal_id": 9735,
+  "url": "https://myanimelist.net/anime/9735/Gintama__Shinyaku_Benizakura-hen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/26966.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/26966t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/26966.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/26966t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gintama: Shinyaku Benizakura-hen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gintama: Shinyaku Benizakura-hen OVA"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gintama: Benizakura Arc - A New Retelling Special"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gintama Movie: Crimson Sakura Chapter New Edition"
+    },
+    {
+      "type": "Synonym",
+      "title": "Gintama: Shin-yaku Benizakura-hen"
+    },
+    {
+      "type": "Japanese",
+      "title": "銀魂 新訳紅桜篇"
+    }
+  ],
   "title": "Gintama: Shinyaku Benizakura-hen",
   "title_english": "Gintama: Shinyaku Benizakura-hen",
   "title_japanese": "銀魂 新訳紅桜篇",
-  "image": "https://cdn.myanimelist.net/images/anime/12/26966l.webp",
-  "score": 8.27,
-  "synopsis": "It's the running gag of Ben Johnson episode where animation staff reuse the New Years footage; Yorozuya would sit around the kotatsu eating a bowl of tangerines. They discuss elaborate subjects, Shinpachi complains about reusing animation footage, and then Gin-chan always ending the gag with a pointless announcement.",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Gintama: Shinyaku Benizakura-hen OVA",
+    "Gintama: Benizakura Arc - A New Retelling Special",
+    "Gintama Movie: Crimson Sakura Chapter New Edition",
+    "Gintama: Shin-yaku Benizakura-hen"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/gintama-shinyaku-benizakura-hen/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-12-15T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 12,
+        "year": 2010
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 15, 2010"
+  },
+  "duration": "11 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.27,
+  "scored_by": 20831,
+  "rank": 335,
+  "popularity": 3625,
+  "members": 47205,
+  "favorites": 54,
+  "synopsis": "It's the running gag of Ben Johnson episode where animation staff reuse the New Years footage; Yorozuya would sit around the kotatsu eating a bowl of tangerines. They discuss elaborate subjects, Shinpachi complains about reusing animation footage, and then Gin-chan always ending the gag with a pointless announcement.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/12/26966l.webp",
+  "trailer_url": null,
+  "id": 9735,
+  "slug": "gintama-shinyaku-benizakura-hen"
 }

@@ -1,18 +1,51 @@
 {
-  "id": 32686,
-  "slug": "keijo",
-  "type": "legendado",
+  "mal_id": 32686,
+  "url": "https://myanimelist.net/anime/32686/Keijo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/81906.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/81906t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/81906l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/81906.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/81906t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/81906l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/9dfQVsgO16Y?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Keijo!!!!!!!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "競女!!!!!!!!"
+    },
+    {
+      "type": "English",
+      "title": "Keijo!!!!!!!!"
+    }
+  ],
   "title": "Keijo!!!!!!!!",
   "title_english": "Keijo!!!!!!!!",
   "title_japanese": "競女!!!!!!!!",
-  "image": "https://cdn.myanimelist.net/images/anime/10/81906l.webp",
-  "score": 6.9,
-  "synopsis": "Japan's latest competitive sport, keijo, is dictated by a simple set of rules: female-only participants must stand on circular platforms floating in a pool—referred to as \"lands\"—with the goal being to knocking off opponents using only their breasts and butts. Despite this outlandish premise, the sport attracts millions of viewers across the country and boasts a lavish prize pool. Many aspiring athletes take up the challenge in hopes of becoming the next national champion.\n\nAfter graduating from high school, the lively 18-year-old Nozomi Kaminashi enters the world of keijo, hoping to bring home a fortune to her poor family. As a gifted gymnast, Nozomi quickly proves herself a tough competitor after stealing the spotlight in her debut tournament. Meeting new friends and rivals as she climbs the ranks, Nozomi discovers that the path to stardom as a keijo player is filled with intense competition that will challenge not only her body, but also her soul.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/9dfQVsgO16Y?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +107,133 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyzta9i1YWeamZ4oe0m7AjyQKoYscS_mV0jXMFJh5oixti0QETvZXzrN5jYli3ERJ0u1fg-xjKYUfsFSIQXsGrDtSo_udItzyKxQup781MadG2qCwRd4iVje3JDNEp5JzzpUtY",
       "nome": "The Heated Battle's Rear-End!!!!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-06T00:00:00+00:00",
+    "to": "2016-12-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 22,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 6, 2016 to Dec 22, 2016"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.9,
+  "scored_by": 204492,
+  "rank": 5029,
+  "popularity": 616,
+  "members": 422913,
+  "favorites": 1462,
+  "synopsis": "Japan's latest competitive sport, keijo, is dictated by a simple set of rules: female-only participants must stand on circular platforms floating in a pool—referred to as \"lands\"—with the goal being to knocking off opponents using only their breasts and butts. Despite this outlandish premise, the sport attracts millions of viewers across the country and boasts a lavish prize pool. Many aspiring athletes take up the challenge in hopes of becoming the next national champion.\n\nAfter graduating from high school, the lively 18-year-old Nozomi Kaminashi enters the world of keijo, hoping to bring home a fortune to her poor family. As a gifted gymnast, Nozomi quickly proves herself a tough competitor after stealing the spotlight in her debut tournament. Meeting new friends and rivals as she climbs the ranks, Nozomi discovers that the path to stardom as a keijo player is filled with intense competition that will challenge not only her body, but also her soul.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1337,
+      "type": "anime",
+      "name": "Medicos Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1337/Medicos_Entertainment"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1589,
+      "type": "anime",
+      "name": "NichiNare",
+      "url": "https://myanimelist.net/anime/producer/1589/NichiNare"
+    },
+    {
+      "mal_id": 1631,
+      "type": "anime",
+      "name": "Radio Osaka",
+      "url": "https://myanimelist.net/anime/producer/1631/Radio_Osaka"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Xebec",
+      "url": "https://myanimelist.net/anime/producer/27/Xebec"
+    }
+  ],
+  "genres": [
+    "Sports",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/10/81906l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/9dfQVsgO16Y?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32686,
+  "slug": "keijo"
 }

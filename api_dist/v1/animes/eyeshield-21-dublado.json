@@ -1,17 +1,53 @@
 {
-  "id": 15,
-  "slug": "eyeshield-21-dublado",
-  "type": "dublado",
+  "mal_id": 15,
+  "url": "https://myanimelist.net/anime/15/Eyeshield_21",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/133529.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/133529t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/133529l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/133529.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/133529t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/133529l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Eyeshield 21"
+    },
+    {
+      "type": "Synonym",
+      "title": "Eyeshield21"
+    },
+    {
+      "type": "Japanese",
+      "title": "アイシールド21"
+    }
+  ],
   "title": "Eyeshield 21",
   "title_english": "Eyeshield 21",
   "title_japanese": "アイシールド21",
-  "image": "https://cdn.myanimelist.net/images/anime/1079/133529l.webp",
-  "score": 7.91,
-  "synopsis": "Shy, reserved, and small-statured, Deimon High School student Sena Kobayakawa is the perfect target for bullies. However, as a result of running errands throughout his life, Sena has become agile and developed a skill for avoiding crowds of people. After the cunning Youichi Hiruma—captain of the Deimon Devil Bats football team—witnesses Sena's rapid legs in motion, he coerces the timid boy into joining his squad.\n\nAs Hiruma wants to conceal Sena's identity from other clubs, Sena is forced to hide under the visored helmet of \"Eyeshield 21,\" a mysterious running back wearing the number 21 jersey. The legendary Eyeshield 21 can supposedly run at the speed of light and has achieved remarkable feats in the United States during his time at the Notre Dame College.\n\nAccustomed to avoiding his problems in the past, Sena's specialty might just help him become the new secret weapon of the Deimon Devil Bats. As he interacts with his teammates, Sena gradually gains more self-confidence and forges valuable bonds along the way.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Sports"
+  "title_synonyms": [
+    "Eyeshield21"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -208,5 +244,114 @@
       "url": "https://lightspeedst.net/s7/mp4/eyeshield-21-dublado/fhd/39.mp4",
       "nome": "The Road to the Christmas Bowl!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2005-04-06T00:00:00+00:00",
+    "to": "2008-03-19T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2005
+      },
+      "to": {
+        "day": 19,
+        "month": 3,
+        "year": 2008
+      }
+    },
+    "string": "Apr 6, 2005 to Mar 19, 2008"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.91,
+  "scored_by": 92850,
+  "rank": 848,
+  "popularity": 1397,
+  "members": 194217,
+  "favorites": 2106,
+  "synopsis": "Shy, reserved, and small-statured, Deimon High School student Sena Kobayakawa is the perfect target for bullies. However, as a result of running errands throughout his life, Sena has become agile and developed a skill for avoiding crowds of people. After the cunning Youichi Hiruma—captain of the Deimon Devil Bats football team—witnesses Sena's rapid legs in motion, he coerces the timid boy into joining his squad.\n\nAs Hiruma wants to conceal Sena's identity from other clubs, Sena is forced to hide under the visored helmet of \"Eyeshield 21,\" a mysterious running back wearing the number 21 jersey. The legendary Eyeshield 21 can supposedly run at the speed of light and has achieved remarkable feats in the United States during his time at the Notre Dame College.\n\nAccustomed to avoiding his problems in the past, Sena's specialty might just help him become the new secret weapon of the Deimon Devil Bats. As he interacts with his teammates, Sena gradually gains more self-confidence and forges valuable bonds along the way.\n\n[Written by MAL Rewrite]",
+  "background": "Eyeshield 21 was original scheduled to stream in North America on Toonami Jetstream and NFL Rush in collaboration with the National Football League, but the plan fell through and the anime made its debut only on Toonami Jetstream, which later dropped the series. It would then become available in its entirety on Crunchyroll. Sentai Filmworks later licensed and released the first 52 episodes on DVD from 2010 to 2011.",
+  "season": "spring",
+  "year": 2005,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 36,
+      "type": "anime",
+      "name": "Gallop",
+      "url": "https://myanimelist.net/anime/producer/36/Gallop"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1079/133529l.webp",
+  "trailer_url": null,
+  "id": 15,
+  "slug": "eyeshield-21-dublado"
 }

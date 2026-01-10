@@ -1,19 +1,51 @@
 {
-  "id": 30383,
-  "slug": "classroom-crisis",
-  "type": "legendado",
+  "mal_id": 30383,
+  "url": "https://myanimelist.net/anime/30383/Classroom☆Crisis",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/74397.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/74397t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/74397l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/74397.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/74397t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/74397l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mWe8qSOEB9U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Classroom☆Crisis"
+    },
+    {
+      "type": "Japanese",
+      "title": "クラスルーム☆クライシス"
+    },
+    {
+      "type": "English",
+      "title": "Classroom☆Crisis"
+    }
+  ],
   "title": "Classroom☆Crisis",
   "title_english": "Classroom☆Crisis",
   "title_japanese": "クラスルーム☆クライシス",
-  "image": "https://cdn.myanimelist.net/images/anime/12/74397l.webp",
-  "score": 6.95,
-  "synopsis": "In Martian colony Fourth Tokyo lies a classroom of Kirishina Corporation's brightest minds spearheading aerospace development: A-TEC, led by genius engineer Kaito Sera, eagerly anticipating the arrival of their newest member. It soon becomes clear, however, that the transfer student is hardly ordinary—Nagisa Kiryuu, newly appointed chief of A-TEC and the younger brother of the corporation's CEO, is sent to shut the program down. To keep the classroom alive, Kaito and his students desperately work to develop a successor to their most powerful rocket, the X-2; meanwhile, Nagisa climbs the corporate ladder in pursuit of his own mission. In spite of this, their separate battles soon reveal that much more is going on in Kirishina Corporation than meets the eye.\n \nClassroom☆Crisis follows Kaito and Nagisa, as well as Kaito's younger sister Mizuki and A-TEC's test pilot Iris Shirasaki, in a story of intrigue, political warfare, and, against all odds, romance. As Nagisa and A-TEC are dragged further and further into Kirishina Corporation's conspiracies, friendships grow and pasts are unveiled as they fight to avert their classroom crisis.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/mWe8qSOEB9U?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +112,121 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyskmJ-2ntWD90H-SqEu_6UkO3MhI076M41nlPL3Wjf4mCq9DJYitGs5FPyyjGW-NP1EHmz8PZTZx5rvTryUtF6EosrYmpGKWFmb8TvcBYwYAugAH8MWbuI0YDD-6beTIQPBPU",
       "nome": "The Greatest Presentation in History"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-07-04T00:00:00+00:00",
+    "to": "2015-09-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2015
+      },
+      "to": {
+        "day": 26,
+        "month": 9,
+        "year": 2015
+      }
+    },
+    "string": "Jul 4, 2015 to Sep 26, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.95,
+  "scored_by": 49764,
+  "rank": 4788,
+  "popularity": 1997,
+  "members": 125467,
+  "favorites": 202,
+  "synopsis": "In Martian colony Fourth Tokyo lies a classroom of Kirishina Corporation's brightest minds spearheading aerospace development: A-TEC, led by genius engineer Kaito Sera, eagerly anticipating the arrival of their newest member. It soon becomes clear, however, that the transfer student is hardly ordinary—Nagisa Kiryuu, newly appointed chief of A-TEC and the younger brother of the corporation's CEO, is sent to shut the program down. To keep the classroom alive, Kaito and his students desperately work to develop a successor to their most powerful rocket, the X-2; meanwhile, Nagisa climbs the corporate ladder in pursuit of his own mission. In spite of this, their separate battles soon reveal that much more is going on in Kirishina Corporation than meets the eye.\n \nClassroom☆Crisis follows Kaito and Nagisa, as well as Kaito's younger sister Mizuki and A-TEC's test pilot Iris Shirasaki, in a story of intrigue, political warfare, and, against all odds, romance. As Nagisa and A-TEC are dragged further and further into Kirishina Corporation's conspiracies, friendships grow and pasts are unveiled as they fight to avert their classroom crisis.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2015,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 1449,
+      "type": "anime",
+      "name": "Animatic",
+      "url": "https://myanimelist.net/anime/producer/1449/Animatic"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1087,
+      "type": "anime",
+      "name": "Lay-duce",
+      "url": "https://myanimelist.net/anime/producer/1087/Lay-duce"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/74397l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/mWe8qSOEB9U?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 30383,
+  "slug": "classroom-crisis"
 }

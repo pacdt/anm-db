@@ -1,18 +1,51 @@
 {
-  "id": 9834,
-  "slug": "level-e",
-  "type": "legendado",
+  "mal_id": 9834,
+  "url": "https://myanimelist.net/anime/9834/Level_E",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/29668.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/29668t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/29668l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/29668.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/29668t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/29668l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Level E"
+    },
+    {
+      "type": "Japanese",
+      "title": "レベルE"
+    },
+    {
+      "type": "English",
+      "title": "Level E"
+    }
+  ],
   "title": "Level E",
   "title_english": "Level E",
   "title_japanese": "レベルE",
-  "image": "https://cdn.myanimelist.net/images/anime/4/29668l.webp",
-  "score": 7.39,
-  "synopsis": "Tokyo-born schoolboy Yukitaka Tsutsui is moving to Yamagata Prefecture for high school on a baseball scholarship. Since he went to the top middle school in Japan for baseball, the townsfolk are very excited about his arrival. However, when he arrives in his apartment, he encounters a strange man nonchalantly reading and wearing his clothes! The stranger claims to be an alien who crash-landed on Earth and has nowhere to go. Revealing himself to be Baka Ki El Dogra, the crown prince of the planet Dogra, he is just one of the hundreds of aliens that have already made Earth their home.\n\nDespite his regal origins, the prince is an infamous intergalactic fool who thinks nothing of inconveniencing others for his own amusement. Whether he is running ridiculous tests on his subordinates, giving strange powers to random children, or just generally being a nuisance, nobody is safe from the idiot prince's antics!\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +112,115 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzy-lMMLD__KD53tIucIuj1bqBibPGPOzSAvH0StoaUurg_Apwpa5Q_iP5FWD5RB3N9B9ZbU4qnYTNGL4JuR40dy44wIwGrOfTNQw6uOIGiMR2Po1rldT2ptYbyTfxd4-RHCkel",
       "nome": "Full moon...!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-01-11T00:00:00+00:00",
+    "to": "2011-04-05T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2011
+      },
+      "to": {
+        "day": 5,
+        "month": 4,
+        "year": 2011
+      }
+    },
+    "string": "Jan 11, 2011 to Apr 5, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.39,
+  "scored_by": 41289,
+  "rank": 2509,
+  "popularity": 2352,
+  "members": 99255,
+  "favorites": 334,
+  "synopsis": "Tokyo-born schoolboy Yukitaka Tsutsui is moving to Yamagata Prefecture for high school on a baseball scholarship. Since he went to the top middle school in Japan for baseball, the townsfolk are very excited about his arrival. However, when he arrives in his apartment, he encounters a strange man nonchalantly reading and wearing his clothes! The stranger claims to be an alien who crash-landed on Earth and has nowhere to go. Revealing himself to be Baka Ki El Dogra, the crown prince of the planet Dogra, he is just one of the hundreds of aliens that have already made Earth their home.\n\nDespite his regal origins, the prince is an infamous intergalactic fool who thinks nothing of inconveniencing others for his own amusement. Whether he is running ridiculous tests on his subordinates, giving strange powers to random children, or just generally being a nuisance, nobody is safe from the idiot prince's antics!\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2011,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 717,
+      "type": "anime",
+      "name": "TV Tokyo Music",
+      "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 765,
+      "type": "anime",
+      "name": "Sakura Create",
+      "url": "https://myanimelist.net/anime/producer/765/Sakura_Create"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    },
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/29668l.webp",
+  "trailer_url": null,
+  "id": 9834,
+  "slug": "level-e"
 }

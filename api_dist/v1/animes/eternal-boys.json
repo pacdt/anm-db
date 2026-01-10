@@ -1,17 +1,57 @@
 {
-  "id": 51293,
-  "slug": "eternal-boys",
-  "type": "legendado",
+  "mal_id": 51293,
+  "url": "https://myanimelist.net/anime/51293/Eternal_Boys",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1665/127107.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1665/127107t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1665/127107l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1665/127107.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1665/127107t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1665/127107l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/95gAEoeF-Xs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Eternal Boys"
+    },
+    {
+      "type": "Synonym",
+      "title": "Eikyuu Shounen"
+    },
+    {
+      "type": "Japanese",
+      "title": "永久少年 Eternal Boys"
+    },
+    {
+      "type": "English",
+      "title": "Eternal Boys"
+    }
+  ],
   "title": "Eternal Boys",
   "title_english": "Eternal Boys",
   "title_japanese": "永久少年 Eternal Boys",
-  "image": "https://cdn.myanimelist.net/images/anime/1665/127107l.webp",
-  "score": 6.53,
-  "synopsis": "Washed-up salaryman Kentarou Sanada is at his wits end trying to find a job, applying anywhere and everywhere since his former company went bankrupt. After unknowingly showing up to an idol audition that he thinks is a regular job interview, Sanada is shocked when he gets a callback saying that he has been accepted. Along with five other men in their forties, he has been chosen as a member of Eternal Boys—a new idol group that strives to prove that people can debut at any age. However, as the Eternal Boys attempt to establish themselves in an industry saturated with much younger talent, they wonder whether their age will hold them back or their experience will be their key to success.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/95gAEoeF-Xs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Eikyuu Shounen"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -43,5 +83,137 @@
       "url": "https://lightspeedst.net/s6/mp4_temp/eternal-boys/6/720p.mp4",
       "nome": "Episode 6"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-10-11T00:00:00+00:00",
+    "to": "2023-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2022
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Oct 11, 2022 to Mar 28, 2023"
+  },
+  "duration": "13 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.53,
+  "scored_by": 2458,
+  "rank": 7224,
+  "popularity": 6014,
+  "members": 14984,
+  "favorites": 71,
+  "synopsis": "Washed-up salaryman Kentarou Sanada is at his wits end trying to find a job, applying anywhere and everywhere since his former company went bankrupt. After unknowingly showing up to an idol audition that he thinks is a regular job interview, Sanada is shocked when he gets a callback saying that he has been accepted. Along with five other men in their forties, he has been chosen as a member of Eternal Boys—a new idol group that strives to prove that people can debut at any age. However, as the Eternal Boys attempt to establish themselves in an industry saturated with much younger talent, they wonder whether their age will hold them back or their experience will be their key to success.\n\n[Written by MAL Rewrite]",
+  "background": "Eternal Boys was released on Blu-ray and DVD in two volumes from March 31, 2023, to May 26, 2023.",
+  "season": "fall",
+  "year": 2022,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "02:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 02:20 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    },
+    {
+      "mal_id": 1556,
+      "type": "anime",
+      "name": "Fuji Creative",
+      "url": "https://myanimelist.net/anime/producer/1556/Fuji_Creative"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1886,
+      "type": "anime",
+      "name": "Aeon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/1886/Aeon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1665/127107l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/95gAEoeF-Xs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51293,
+  "slug": "eternal-boys"
 }

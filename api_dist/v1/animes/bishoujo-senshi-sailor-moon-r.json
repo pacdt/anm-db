@@ -1,17 +1,65 @@
 {
-  "id": 740,
-  "slug": "bishoujo-senshi-sailor-moon-r",
-  "type": "legendado",
+  "mal_id": 740,
+  "url": "https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/740.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/740t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/740l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/740.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/740t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/740l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/mKV6I31WL6c?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bishoujo Senshi Sailor Moon R"
+    },
+    {
+      "type": "Synonym",
+      "title": "Pretty Soldier Sailor Moon R"
+    },
+    {
+      "type": "Japanese",
+      "title": "美少女戦士セーラームーン R"
+    },
+    {
+      "type": "English",
+      "title": "Sailor Moon R"
+    },
+    {
+      "type": "Spanish",
+      "title": "Sailor Moon R"
+    },
+    {
+      "type": "French",
+      "title": "Sailor Moon R"
+    }
+  ],
   "title": "Bishoujo Senshi Sailor Moon R",
   "title_english": "Sailor Moon R",
   "title_japanese": "美少女戦士セーラームーン R",
-  "image": "https://cdn.myanimelist.net/images/anime/1/740l.webp",
-  "score": 7.73,
-  "synopsis": "Usagi Tsukino and her friends have been living peacefully until they are called into action again as Sailor Guardians, planetary warriors fighting for the peace of the galaxy. Usagi, also known as Sailor Moon, leads their group into battle when a new threat from beyond the stars presents itself: two survivors of an alien race, An and Ail. In order to save the source of their life force, the Makai Tree, An and Ail begin harvesting energy from unsuspecting humans. The Sailor Guardians must stop their plot or face the annihilation of Earth.\n\nBut as one threat subsides, another follows—this time in the form of a little girl from the future who seeks the source of Sailor Moon's power to save her family. However, she is not the only one vying for it, as a group known as the Black Moon Clan also wishes to obtain the power and use it for nefarious purposes. In order to protect their destinies and the harmony of the universe, Sailor Moon and the rest of the Sailor Guardians must fight to stop these forces from succeeding.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/mKV6I31WL6c?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Romance"
+  "title_synonyms": [
+    "Pretty Soldier Sailor Moon R"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -228,5 +276,108 @@
       "url": "https://lightspeedst.net/s2/mp4/bishoujo-senshi-sailor-moon-r/sd/43.mp4",
       "nome": "Usagi and the Girls' Resolve! Prelude to a new Battle"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1993-03-06T00:00:00+00:00",
+    "to": "1994-03-12T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 3,
+        "year": 1993
+      },
+      "to": {
+        "day": 12,
+        "month": 3,
+        "year": 1994
+      }
+    },
+    "string": "Mar 6, 1993 to Mar 12, 1994"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.73,
+  "scored_by": 92176,
+  "rank": 1271,
+  "popularity": 1581,
+  "members": 169968,
+  "favorites": 912,
+  "synopsis": "Usagi Tsukino and her friends have been living peacefully until they are called into action again as Sailor Guardians, planetary warriors fighting for the peace of the galaxy. Usagi, also known as Sailor Moon, leads their group into battle when a new threat from beyond the stars presents itself: two survivors of an alien race, An and Ail. In order to save the source of their life force, the Makai Tree, An and Ail begin harvesting energy from unsuspecting humans. The Sailor Guardians must stop their plot or face the annihilation of Earth.\n\nBut as one threat subsides, another follows—this time in the form of a little girl from the future who seeks the source of Sailor Moon's power to save her family. However, she is not the only one vying for it, as a group known as the Black Moon Clan also wishes to obtain the power and use it for nefarious purposes. In order to protect their destinies and the harmony of the universe, Sailor Moon and the rest of the Sailor Guardians must fight to stop these forces from succeeding.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 1993,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 2292,
+      "type": "anime",
+      "name": "Toei Advertising",
+      "url": "https://myanimelist.net/anime/producer/2292/Toei_Advertising"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    },
+    {
+      "mal_id": 269,
+      "type": "anime",
+      "name": "DiC Entertainment",
+      "url": "https://myanimelist.net/anime/producer/269/DiC_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 66,
+      "type": "anime",
+      "name": "Mahou Shoujo",
+      "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1/740l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/mKV6I31WL6c?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 740,
+  "slug": "bishoujo-senshi-sailor-moon-r"
 }

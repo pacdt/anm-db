@@ -1,17 +1,69 @@
 {
-  "id": 37422,
-  "slug": "cinderella-girls-gekijou-3rd-season",
-  "type": "legendado",
+  "mal_id": 37422,
+  "url": "https://myanimelist.net/anime/37422/Cinderella_Girls_Gekijou_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1618/90871.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/90871t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/90871l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1618/90871.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/90871t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/90871l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cinderella Girls Gekijou 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Idolmaster Cinderella Girls Gekijou 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "シンデレラガールズ劇場 第3期"
+    },
+    {
+      "type": "English",
+      "title": "THE IDOLM@STER Cinderella Girls Theater 3rd Season"
+    },
+    {
+      "type": "German",
+      "title": "The Idolm@ster Cinderella Girls Theater Staffel 3"
+    },
+    {
+      "type": "Spanish",
+      "title": "The Idolm@ster Cinderella Girls Theater Temporada 3"
+    },
+    {
+      "type": "French",
+      "title": "The Idolm@ster Cinderella Girls Gekijô Saison 3"
+    }
+  ],
   "title": "Cinderella Girls Gekijou 3rd Season",
   "title_english": "THE IDOLM@STER Cinderella Girls Theater 3rd Season",
   "title_japanese": "シンデレラガールズ劇場 第3期",
-  "image": "https://cdn.myanimelist.net/images/anime/1618/90871l.webp",
-  "score": 6.54,
-  "synopsis": "The third season of Cinderella Girls Gekijou.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "The Idolmaster Cinderella Girls Gekijou 3rd Season"
   ],
+  "type": "legendado",
+  "source": "4-koma manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +130,82 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw0GyYlWrkS41bnD4Y7uwIbSeBV7fiHSX31ZM0cKJh-s3j1AEQx1snrbebVAkXWZ12Wx_6aQ2XyF2xf9XMvRqMBDOmHKXH0RRY-MP7pgv5088Gb2j42BcwzsdD3FJfpQDpMPZMF",
       "nome": "Flower Fairies Mage Floral Yumi"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-03T00:00:00+00:00",
+    "to": "2018-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2018
+      }
+    },
+    "string": "Jul 3, 2018 to Sep 25, 2018"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.54,
+  "scored_by": 2655,
+  "rank": 7106,
+  "popularity": 7921,
+  "members": 7623,
+  "favorites": 3,
+  "synopsis": "The third season of Cinderella Girls Gekijou.",
+  "background": "",
+  "season": "summer",
+  "year": 2018,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "21:54",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 21:54 (JST)"
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 400,
+      "type": "anime",
+      "name": "Gathering",
+      "url": "https://myanimelist.net/anime/producer/400/Gathering"
+    },
+    {
+      "mal_id": 1829,
+      "type": "anime",
+      "name": "Lesprit",
+      "url": "https://myanimelist.net/anime/producer/1829/Lesprit"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1618/90871l.webp",
+  "trailer_url": null,
+  "id": 37422,
+  "slug": "cinderella-girls-gekijou-3rd-season"
 }

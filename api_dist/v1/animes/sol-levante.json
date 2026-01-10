@@ -1,22 +1,112 @@
 {
-  "id": 40597,
-  "slug": "sol-levante",
-  "type": "legendado",
+  "mal_id": 40597,
+  "url": "https://myanimelist.net/anime/40597/Sol_Levante",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1980/108459.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/108459t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/108459l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1980/108459.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/108459t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/108459l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sol Levante"
+    }
+  ],
   "title": "Sol Levante",
   "title_english": "Sol Levante",
   "title_japanese": null,
-  "image": "https://cdn.myanimelist.net/images/anime/1980/108459l.webp",
-  "score": 4.92,
-  "synopsis": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/sol-levante/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-02T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 2, 2020"
+  },
+  "duration": "4 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 4.92,
+  "scored_by": 12961,
+  "rank": 13983,
+  "popularity": 5233,
+  "members": 21578,
+  "favorites": 10,
+  "synopsis": "A young warrior and her familiar search for the sacred place said to fulfill wishes. It's best not to anger the ancient guardians and spirits.\n\n(Source: Netflix)",
+  "background": "Sol Levante is the first hand-drawn anime with 4K HDR quality.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1980/108459l.webp",
+  "trailer_url": null,
+  "id": 40597,
+  "slug": "sol-levante"
 }

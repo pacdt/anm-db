@@ -1,18 +1,51 @@
 {
-  "id": 33026,
-  "slug": "time-bokan-24",
-  "type": "legendado",
+  "mal_id": 33026,
+  "url": "https://myanimelist.net/anime/33026/Time_Bokan_24",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1833/132968.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/132968t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/132968l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1833/132968.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/132968t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/132968l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Time Bokan 24"
+    },
+    {
+      "type": "Japanese",
+      "title": "タイムボカン24"
+    },
+    {
+      "type": "English",
+      "title": "Time Bokan 24"
+    }
+  ],
   "title": "Time Bokan 24",
   "title_english": "Time Bokan 24",
   "title_japanese": "タイムボカン24",
-  "image": "https://cdn.myanimelist.net/images/anime/1833/132968l.webp",
-  "score": 5.86,
-  "synopsis": "Tokio is a junior high student living in the present time who is recruited to be a member of the 24th century's Space-Time Administration Bureau. Together with his partner Calen, their mission is to uncover the \"True History\", the part of history that the textbooks doesn't tell. But in their way is the Akudama Trio that intends to prevent the True History from being revealed for their own personal gains.\n\n(Source: Wikipedia)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -134,5 +167,83 @@
       "url": "https://lightspeedst.net/s3/mp4/time-bokan-24/sd/24.mp4",
       "nome": "The Genius da Vinci Was the Final Episode!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-01T00:00:00+00:00",
+    "to": "2017-03-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 18,
+        "month": 3,
+        "year": 2017
+      }
+    },
+    "string": "Oct 1, 2016 to Mar 18, 2017"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.86,
+  "scored_by": 1404,
+  "rank": 11133,
+  "popularity": 9216,
+  "members": 5244,
+  "favorites": 2,
+  "synopsis": "Tokio is a junior high student living in the present time who is recruited to be a member of the 24th century's Space-Time Administration Bureau. Together with his partner Calen, their mission is to uncover the \"True History\", the part of history that the textbooks doesn't tell. But in their way is the Akudama Trio that intends to prevent the True History from being revealed for their own personal gains.\n\n(Source: Wikipedia)",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 1428,
+      "type": "anime",
+      "name": "Level-5",
+      "url": "https://myanimelist.net/anime/producer/1428/Level-5"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 103,
+      "type": "anime",
+      "name": "Tatsunoko Production",
+      "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1833/132968l.webp",
+  "trailer_url": null,
+  "id": 33026,
+  "slug": "time-bokan-24"
 }

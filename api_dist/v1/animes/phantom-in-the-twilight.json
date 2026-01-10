@@ -1,18 +1,55 @@
 {
-  "id": 37598,
-  "slug": "phantom-in-the-twilight",
-  "type": "legendado",
+  "mal_id": 37598,
+  "url": "https://myanimelist.net/anime/37598/Phantom_in_the_Twilight",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1156/93567.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/93567t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/93567l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1156/93567.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1156/93567t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1156/93567l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/F7MKqY0qJIc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Phantom in the Twilight"
+    },
+    {
+      "type": "Japanese",
+      "title": "ファントム イン ザ トワイライト"
+    },
+    {
+      "type": "Spanish",
+      "title": "Phantom in The Twilight"
+    },
+    {
+      "type": "French",
+      "title": "Phantom in The Twilight"
+    }
+  ],
   "title": "Phantom in the Twilight",
   "title_english": "Phantom in the Twilight",
   "title_japanese": "ファントム イン ザ トワイライト",
-  "image": "https://cdn.myanimelist.net/images/anime/1156/93567l.webp",
-  "score": 6.41,
-  "synopsis": "Set in modern day London, the story takes place in a world where \"Shadows\" are born from human fear and anxiety. A young girl arrives to study abroad, only to be caught in a bizarre incident as she enters university. In a city with no acquaintances, the helpless girl wanders into \"Café Forbidden,\" a mysterious café that exclusively opens at midnight. She meets an assortment of handsome men employed at the café, where guardians who protect the boundary between humans and shadow convene.\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/F7MKqY0qJIc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +111,77 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxMLKPfGQpvH0ClPVbgrWUXE9aeqsYPe6ke5kapO6Vn_wOYSD1xIcwmRpYVpMSAsfSkdZLq9RGthpFd8SnZZFWKwU5kJ4OY9BXm8aQugsrkNcupGpjBwsPXkP_LSHNj-vOFAx1n",
       "nome": "Shadows That Remain at Dawn"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-10T00:00:00+00:00",
+    "to": "2018-09-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": 25,
+        "month": 9,
+        "year": 2018
+      }
+    },
+    "string": "Jul 10, 2018 to Sep 25, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.41,
+  "scored_by": 16271,
+  "rank": 7998,
+  "popularity": 3428,
+  "members": 52248,
+  "favorites": 109,
+  "synopsis": "Set in modern day London, the story takes place in a world where \"Shadows\" are born from human fear and anxiety. A young girl arrives to study abroad, only to be caught in a bizarre incident as she enters university. In a city with no acquaintances, the helpless girl wanders into \"Café Forbidden,\" a mysterious café that exclusively opens at midnight. She meets an assortment of handsome men employed at the café, where guardians who protect the boundary between humans and shadow convene.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "summer",
+  "year": 2018,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1793,
+      "type": "anime",
+      "name": "Happy Elements",
+      "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 839,
+      "type": "anime",
+      "name": "LIDENFILMS",
+      "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1156/93567l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/F7MKqY0qJIc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37598,
+  "slug": "phantom-in-the-twilight"
 }

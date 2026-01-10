@@ -1,23 +1,127 @@
 {
-  "id": 53911,
-  "slug": "nanatsu-no-taizai-ensa-no-edinburgh-part-2",
-  "type": "legendado",
+  "mal_id": 53911,
+  "url": "https://myanimelist.net/anime/53911/Nanatsu_no_Taizai__Ensa_no_Edinburgh_Part_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1597/137276.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1597/137276t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1597/137276l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1597/137276.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1597/137276t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1597/137276l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/bIl-dJ-xyQM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nanatsu no Taizai: Ensa no Edinburgh Part 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "七つの大罪 怨嗟のエジンバラ 後編"
+    },
+    {
+      "type": "English",
+      "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 2"
+    }
+  ],
   "title": "Nanatsu no Taizai: Ensa no Edinburgh Part 2",
   "title_english": "The Seven Deadly Sins: Grudge of Edinburgh Part 2",
   "title_japanese": "七つの大罪 怨嗟のエジンバラ 後編",
-  "image": "https://cdn.myanimelist.net/images/anime/1597/137276l.webp",
-  "score": 6.56,
-  "synopsis": "The second part of Nanatsu no Taizai: Ensa no Edinburgh.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/bIl-dJ-xyQM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s6/mp4/nanatsu-no-taizai-ensa-no-edinburgh-part-2/fhd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-08-08T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 8,
+        "year": 2023
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 8, 2023"
+  },
+  "duration": "54 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.56,
+  "scored_by": 8755,
+  "rank": 7036,
+  "popularity": 5389,
+  "members": 20089,
+  "favorites": 14,
+  "synopsis": "The second part of Nanatsu no Taizai: Ensa no Edinburgh.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 553,
+      "type": "anime",
+      "name": "Marvy Jack",
+      "url": "https://myanimelist.net/anime/producer/553/Marvy_Jack"
+    },
+    {
+      "mal_id": 2355,
+      "type": "anime",
+      "name": "Alfred Imageworks",
+      "url": "https://myanimelist.net/anime/producer/2355/Alfred_Imageworks"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1597/137276l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/bIl-dJ-xyQM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 53911,
+  "slug": "nanatsu-no-taizai-ensa-no-edinburgh-part-2"
 }

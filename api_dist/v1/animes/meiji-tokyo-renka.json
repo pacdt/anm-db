@@ -1,18 +1,47 @@
 {
-  "id": 34209,
-  "slug": "meiji-tokyo-renka",
-  "type": "legendado",
+  "mal_id": 34209,
+  "url": "https://myanimelist.net/anime/34209/Meiji_Tokyo_Renka",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1280/145923.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1280/145923t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1280/145923l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1280/145923.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1280/145923t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1280/145923l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/UcrB_df_ZG8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Meiji Tokyo Renka"
+    },
+    {
+      "type": "Japanese",
+      "title": "明治東亰恋伽"
+    }
+  ],
   "title": "Meiji Tokyo Renka",
   "title_english": "Meiji Tokyo Renka",
   "title_japanese": "明治東亰恋伽",
-  "image": "https://cdn.myanimelist.net/images/anime/1280/145923l.webp",
-  "score": 7.05,
-  "synopsis": "Mei Ayazuki is just your ordinary, everyday high-school girl. That is until one night, when the moon is full and red, she’s transported through time to the Meiji Period by Charlie, a self-proclaimed magician.\n\nShe ends up in a strange, Meiji-era ‘Tokyo’ where the existence of ghosts is accepted. Led by Charlie, she finally arrives at the Rokumeikan. There, waiting for her to arrive, are the historical figures Ougai Mori, Shunsou Hishida, Otojirou Kawakami, Kyouka Izumi, Gorou Fujita, Yakumo Koizumi, and Tousuke Iwasaki.\n\nWhilst interacting with these men, she discovers she is a Tamayori - someone who can see ghosts - a skill that is highly valued in the Meiji Period. Due to these powers, her relationship with the men begins to change… As she gets to know these handsome men in a new era she just can’t get used to, a love begins to grow within her.\n\nWill Mei be able to return to her time? What will become of her love - a love that crosses the boundaries of time and space? \n\n(Source: Honey's Anime)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/UcrB_df_ZG8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Romance",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +103,121 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw7ol8LQGiapwpqweMj_b0_R7UtK2aOyHqYinM3Sho0b2GqZNf3tBsl9pHXtFxaUqg__TBXA6LfPeXW6MwmKgTO1Z_8i9JKa2t4oMQmREEMG7Y6AYHFEWpkL5aPWyJPl0c2S1k",
       "nome": "Embraced by the Strawberry Moon"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-01-09T00:00:00+00:00",
+    "to": "2019-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 1,
+        "year": 2019
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 2019
+      }
+    },
+    "string": "Jan 9, 2019 to Mar 27, 2019"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.05,
+  "scored_by": 23997,
+  "rank": 4329,
+  "popularity": 3091,
+  "members": 62903,
+  "favorites": 302,
+  "synopsis": "Mei Ayazuki is just your ordinary, everyday high-school girl. That is until one night, when the moon is full and red, she’s transported through time to the Meiji Period by Charlie, a self-proclaimed magician.\n\nShe ends up in a strange, Meiji-era ‘Tokyo’ where the existence of ghosts is accepted. Led by Charlie, she finally arrives at the Rokumeikan. There, waiting for her to arrive, are the historical figures Ougai Mori, Shunsou Hishida, Otojirou Kawakami, Kyouka Izumi, Gorou Fujita, Yakumo Koizumi, and Tousuke Iwasaki.\n\nWhilst interacting with these men, she discovers she is a Tamayori - someone who can see ghosts - a skill that is highly valued in the Meiji Period. Due to these powers, her relationship with the men begins to change… As she gets to know these handsome men in a new era she just can’t get used to, a love begins to grow within her.\n\nWill Mei be able to return to her time? What will become of her love - a love that crosses the boundaries of time and space? \n\n(Source: Honey's Anime)",
+  "background": "",
+  "season": "winter",
+  "year": 2019,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 963,
+      "type": "anime",
+      "name": "MAGES.",
+      "url": "https://myanimelist.net/anime/producer/963/MAGES"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1355,
+      "type": "anime",
+      "name": "TV Aichi",
+      "url": "https://myanimelist.net/anime/producer/1355/TV_Aichi"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    },
+    {
+      "mal_id": 78,
+      "type": "anime",
+      "name": "Time Travel",
+      "url": "https://myanimelist.net/anime/genre/78/Time_Travel"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1280/145923l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/UcrB_df_ZG8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34209,
+  "slug": "meiji-tokyo-renka"
 }

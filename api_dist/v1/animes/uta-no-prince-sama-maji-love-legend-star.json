@@ -1,18 +1,74 @@
 {
-  "id": 31178,
-  "slug": "uta-no-prince-sama-maji-love-legend-star",
-  "type": "legendado",
+  "mal_id": 31178,
+  "url": "https://myanimelist.net/anime/31178/Uta_no☆Prince-sama♪_Maji_Love_Legend_Star",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/79194.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/79194t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/79194l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/79194.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/79194t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/79194l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/DD6Uld3RSqE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Uta no☆Prince-sama♪ Maji Love Legend Star"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uta no☆Prince-sama♪ Maji Love Fourth Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "UtaPri 4"
+    },
+    {
+      "type": "Japanese",
+      "title": "うたの☆プリンスさまっ♪マジLOVE レジェンドスター"
+    },
+    {
+      "type": "English",
+      "title": "Uta no Prince Sama Legend Star"
+    },
+    {
+      "type": "German",
+      "title": "Uta no☆Prince-sama♪: Legend Star"
+    },
+    {
+      "type": "Spanish",
+      "title": "Uta no☆Prince-sama♪: Legend Star"
+    },
+    {
+      "type": "French",
+      "title": "Uta no☆Prince-sama♪: Legend Star"
+    }
+  ],
   "title": "Uta no☆Prince-sama♪ Maji Love Legend Star",
   "title_english": "Uta no Prince Sama Legend Star",
   "title_japanese": "うたの☆プリンスさまっ♪マジLOVE レジェンドスター",
-  "image": "https://cdn.myanimelist.net/images/anime/4/79194l.webp",
-  "score": 7.14,
-  "synopsis": "The anime's story will start where the third season left off, at the competition for who will open the Triple S international sporting event. Raging Entertainment's HE★VENS idol group had hijacked the competition between QUARTET NIGHT and ST☆RISH, causing chaos. However, after the QUARTET NIGHT members suggest a certain idea, the three groups aim toward a new stage, with HE★VENS swearing to get their revenge on the other two groups.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/DD6Uld3RSqE?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Uta no☆Prince-sama♪ Maji Love Fourth Season",
+    "UtaPri 4"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +130,127 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dw7pty4CDjRpObBjPkioZ4oZg1ZC7Qk41cJQzeKz4bf_r4jYlITbucN_9YbvFdHqZom9xoHx74IFIgENcfESaCeCp83Rceq1wFJPifhJzuwG_x9JwqamJo21uUaVZx9rj_5hQw",
       "nome": "Three shining stars"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-10-02T00:00:00+00:00",
+    "to": "2016-12-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2016
+      },
+      "to": {
+        "day": 25,
+        "month": 12,
+        "year": 2016
+      }
+    },
+    "string": "Oct 2, 2016 to Dec 25, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.14,
+  "scored_by": 16155,
+  "rank": 3882,
+  "popularity": 3758,
+  "members": 44345,
+  "favorites": 220,
+  "synopsis": "The anime's story will start where the third season left off, at the competition for who will open the Triple S international sporting event. Raging Entertainment's HE★VENS idol group had hijacked the competition between QUARTET NIGHT and ST☆RISH, causing chaos. However, after the QUARTET NIGHT members suggest a certain idea, the three groups aim toward a new stage, with HE★VENS swearing to get their revenge on the other two groups.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2016,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 116,
+      "type": "anime",
+      "name": "Broccoli",
+      "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 963,
+      "type": "anime",
+      "name": "MAGES.",
+      "url": "https://myanimelist.net/anime/producer/963/MAGES"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1344,
+      "type": "anime",
+      "name": "King Records",
+      "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/4/79194l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/DD6Uld3RSqE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31178,
+  "slug": "uta-no-prince-sama-maji-love-legend-star"
 }

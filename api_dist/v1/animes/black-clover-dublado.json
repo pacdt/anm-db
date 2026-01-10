@@ -1,18 +1,51 @@
 {
-  "id": 34572,
-  "slug": "black-clover-dublado",
-  "type": "dublado",
+  "mal_id": 34572,
+  "url": "https://myanimelist.net/anime/34572/Black_Clover",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88336t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/88336t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/vUjAxk1qYzQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Black Clover"
+    },
+    {
+      "type": "Japanese",
+      "title": "ブラッククローバー"
+    },
+    {
+      "type": "English",
+      "title": "Black Clover"
+    }
+  ],
   "title": "Black Clover",
   "title_english": "Black Clover",
   "title_japanese": "ブラッククローバー",
-  "image": "https://cdn.myanimelist.net/images/anime/2/88336l.webp",
-  "score": 8.14,
-  "synopsis": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the \"Wizard King\"—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.\n\nWhen they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a \"Black Clover\" giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King!\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/vUjAxk1qYzQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -864,5 +897,102 @@
       "url": "https://lightspeedst.net/s6/mp4/black-clover-dublado/fhd/170.mp4",
       "nome": "Faraway Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-10-03T00:00:00+00:00",
+    "to": "2021-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 10,
+        "year": 2017
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2021
+      }
+    },
+    "string": "Oct 3, 2017 to Mar 30, 2021"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.14,
+  "scored_by": 959260,
+  "rank": 498,
+  "popularity": 55,
+  "members": 1857559,
+  "favorites": 50252,
+  "synopsis": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the \"Wizard King\"—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.\n\nWhen they reach the age of 15, Yuno is bestowed a spectacular Grimoire with a four-leaf clover, while Asta receives nothing. However, soon after, Yuno is attacked by a person named Lebuty, whose main purpose is to obtain Yuno's Grimoire. Asta tries to fight Lebuty, but he is outmatched. Though without hope and on the brink of defeat, he finds the strength to continue when he hears Yuno's voice. Unleashing his inner emotions in a rage, Asta receives a five-leaf clover Grimoire, a \"Black Clover\" giving him enough power to defeat Lebuty. A few days later, the two friends head out into the world, both seeking the same goal—to become the Wizard King!\n\n[Written by MAL Rewrite]",
+  "background": "Black Clover adapts the first 27 volumes of the original manga.",
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "18:25",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 18:25 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/2/88336l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/vUjAxk1qYzQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 34572,
+  "slug": "black-clover-dublado"
 }

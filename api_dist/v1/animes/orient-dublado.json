@@ -1,19 +1,51 @@
 {
-  "id": 45560,
-  "slug": "orient-dublado",
-  "type": "dublado",
+  "mal_id": 45560,
+  "url": "https://myanimelist.net/anime/45560/Orient",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1576/119361.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1576/119361t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1576/119361l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1576/119361.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1576/119361t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1576/119361l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/O4wTuxahqj0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Orient"
+    },
+    {
+      "type": "Japanese",
+      "title": "オリエント"
+    },
+    {
+      "type": "English",
+      "title": "Orient"
+    }
+  ],
   "title": "Orient",
   "title_english": "Orient",
   "title_japanese": "オリエント",
-  "image": "https://cdn.myanimelist.net/images/anime/1576/119361l.webp",
-  "score": 6.61,
-  "synopsis": "Freed from the rule of samurai 150 years ago, the people of Hinomoto live peaceful lives and revere their liberators—demons whose true forms remain elusive—as gods. Fated to mine rocks for the demons to feast on, Musashi knows the grim truth: humanity is enslaved by these otherworldly beings and the samurai are the last bastion fighting for freedom. Hiding his true opinion from his peers and growing distant from his childhood friend Kojirou Kanemaki, Musashi lives in angst until the day of his graduation.\n\nWhen the fresh graduates arrive at the mine, they are horrified to see the inhumane treatment of miners and the uncanny physical appearance of their overseers. However, Musashi manages to endure thanks to Kojirou's help. As the demon leader wreaks havoc on the quarry, Musashi is saved once more from certain death by the Takeda samurai clan. Recovering from humiliation and yearning for adventure, Musashi embarks on a journey to become a samurai and form his own clan!\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/O4wTuxahqj0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +107,121 @@
       "url": "https://lightspeedst.net/s1/mp4/orient-dublado/fhd/12.mp4",
       "nome": "Where This Road Leads"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-01-06T00:00:00+00:00",
+    "to": "2022-03-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2022
+      },
+      "to": {
+        "day": 24,
+        "month": 3,
+        "year": 2022
+      }
+    },
+    "string": "Jan 6, 2022 to Mar 24, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.61,
+  "scored_by": 45357,
+  "rank": 6711,
+  "popularity": 1961,
+  "members": 128408,
+  "favorites": 527,
+  "synopsis": "Freed from the rule of samurai 150 years ago, the people of Hinomoto live peaceful lives and revere their liberators—demons whose true forms remain elusive—as gods. Fated to mine rocks for the demons to feast on, Musashi knows the grim truth: humanity is enslaved by these otherworldly beings and the samurai are the last bastion fighting for freedom. Hiding his true opinion from his peers and growing distant from his childhood friend Kojirou Kanemaki, Musashi lives in angst until the day of his graduation.\n\nWhen the fresh graduates arrive at the mine, they are horrified to see the inhumane treatment of miners and the uncanny physical appearance of their overseers. However, Musashi manages to endure thanks to Kojirou's help. As the demon leader wreaks havoc on the quarry, Musashi is saved once more from certain death by the Takeda samurai clan. Recovering from humiliation and yearning for adventure, Musashi embarks on a journey to become a samurai and form his own clan!\n\n[Written by MAL Rewrite]",
+  "background": "Orient was released on Blu-ray in Japan in three volumes from March 25, 2022 to May 27, 2022.",
+  "season": "winter",
+  "year": 2022,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 179,
+      "type": "anime",
+      "name": "A.C.G.T.",
+      "url": "https://myanimelist.net/anime/producer/179/ACGT"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 21,
+      "type": "anime",
+      "name": "Samurai",
+      "url": "https://myanimelist.net/anime/genre/21/Samurai"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1576/119361l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/O4wTuxahqj0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 45560,
+  "slug": "orient-dublado"
 }

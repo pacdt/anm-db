@@ -1,18 +1,79 @@
 {
-  "id": 29974,
-  "slug": "diabolik-lovers-more-blood",
-  "type": "legendado",
+  "mal_id": 29974,
+  "url": "https://myanimelist.net/anime/29974/Diabolik_Lovers_MoreBlood",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/73657.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/73657t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/73657l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/73657.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/73657t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/73657l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/k5QsnqwfClY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Diabolik Lovers More,Blood"
+    },
+    {
+      "type": "Synonym",
+      "title": "Diabolik Lovers 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Diabolik Lovers Second Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Diabolik Lovers: More Blood"
+    },
+    {
+      "type": "Japanese",
+      "title": "DIABOLIK LOVERS MORE,BLOOD"
+    },
+    {
+      "type": "English",
+      "title": "Diabolik Lovers II: More,Blood"
+    },
+    {
+      "type": "German",
+      "title": "Diabolik Lovers II: More,Blood"
+    },
+    {
+      "type": "Spanish",
+      "title": "Diabolik Lovers II: More,Blood"
+    },
+    {
+      "type": "French",
+      "title": "Diabolik Lovers II: More,Blood"
+    }
+  ],
   "title": "Diabolik Lovers More,Blood",
   "title_english": "Diabolik Lovers II: More,Blood",
   "title_japanese": "DIABOLIK LOVERS MORE,BLOOD",
-  "image": "https://cdn.myanimelist.net/images/anime/3/73657l.webp",
-  "score": 5.51,
-  "synopsis": "Yui Komori, still held captive by the Sakamaki brothers—pureblood vampires after her blood—experiences yet more bizarre twists to her life following her stay at their household. Though haunted by enigmatic dreams, Yui soon deciphers their meaning when caught in a car crash, which subsequently leads to meeting four new vampires: the Mukami brothers, Ruki, Azusa, Kou, and Yuuma, who themselves capture the bewildered girl.\n\nYui later awakens in the Mukami mansion, where the brothers reveal their plans for her: she is their \"Eve,\" and her blood will find the \"Adam\" among them; together, they will have the power to rule the world. However, with the Sakamaki brothers hot on their heels, things might not go quite as smoothly as they had imagined.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/k5QsnqwfClY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Supernatural"
+  "title_synonyms": [
+    "Diabolik Lovers 2nd Season",
+    "Diabolik Lovers Second Season",
+    "Diabolik Lovers: More Blood"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +135,103 @@
       "url": "https://lightspeedst.net/s3/mp4/diabolik-lovers-more-blood/sd/12.mp4",
       "nome": "Untitled"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-09-24T00:00:00+00:00",
+    "to": "2015-12-10T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 9,
+        "year": 2015
+      },
+      "to": {
+        "day": 10,
+        "month": 12,
+        "year": 2015
+      }
+    },
+    "string": "Sep 24, 2015 to Dec 10, 2015"
+  },
+  "duration": "12 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 5.51,
+  "scored_by": 90705,
+  "rank": 12693,
+  "popularity": 1570,
+  "members": 171546,
+  "favorites": 606,
+  "synopsis": "Yui Komori, still held captive by the Sakamaki brothers—pureblood vampires after her blood—experiences yet more bizarre twists to her life following her stay at their household. Though haunted by enigmatic dreams, Yui soon deciphers their meaning when caught in a car crash, which subsequently leads to meeting four new vampires: the Mukami brothers, Ruki, Azusa, Kou, and Yuuma, who themselves capture the bewildered girl.\n\nYui later awakens in the Mukami mansion, where the brothers reveal their plans for her: she is their \"Eve,\" and her blood will find the \"Adam\" among them; together, they will have the power to rule the world. However, with the Sakamaki brothers hot on their heels, things might not go quite as smoothly as they had imagined.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2015,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "Reverse Harem",
+      "url": "https://myanimelist.net/anime/genre/73/Reverse_Harem"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 32,
+      "type": "anime",
+      "name": "Vampire",
+      "url": "https://myanimelist.net/anime/genre/32/Vampire"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/3/73657l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/k5QsnqwfClY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 29974,
+  "slug": "diabolik-lovers-more-blood"
 }

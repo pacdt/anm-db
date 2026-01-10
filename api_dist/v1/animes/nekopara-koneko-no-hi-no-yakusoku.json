@@ -1,22 +1,128 @@
 {
-  "id": 37983,
-  "slug": "nekopara-koneko-no-hi-no-yakusoku",
-  "type": "legendado",
+  "mal_id": 37983,
+  "url": "https://myanimelist.net/anime/37983/Nekopara__Koneko_no_Hi_no_Yakusoku",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1102/103268.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/103268t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/103268l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1102/103268.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1102/103268t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1102/103268l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Nekopara: Koneko no Hi no Yakusoku"
+    },
+    {
+      "type": "Synonym",
+      "title": "Nekopara OVA Extra"
+    },
+    {
+      "type": "Japanese",
+      "title": "ネコぱら 仔ネコの日の約束"
+    }
+  ],
   "title": "Nekopara: Koneko no Hi no Yakusoku",
   "title_english": "Nekopara: Koneko no Hi no Yakusoku",
   "title_japanese": "ネコぱら 仔ネコの日の約束",
-  "image": "https://cdn.myanimelist.net/images/anime/1102/103268l.webp",
-  "score": 7,
-  "synopsis": "Six months before the opening of the patisserie La Soleil, Chocola and Vanilla are still kittens trying to fit into the Minazuki household. As the two youngest catgirls under Kashou and Shigure's care, the two learn from and mature alongside four other catgirls⁠—Azuki, Maple, Cinnamon, and Coconut⁠⁠. Soon, they approach their first Christmas together as a family.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "Nekopara OVA Extra"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s2/mp4/nekopara-koneko-no-hi-no-yakusoku/sd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-07-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 7,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 27, 2018"
+  },
+  "duration": "21 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7,
+  "scored_by": 15637,
+  "rank": 4568,
+  "popularity": 4219,
+  "members": 35310,
+  "favorites": 46,
+  "synopsis": "Six months before the opening of the patisserie La Soleil, Chocola and Vanilla are still kittens trying to fit into the Minazuki household. As the two youngest catgirls under Kashou and Shigure's care, the two learn from and mature alongside four other catgirls⁠—Azuki, Maple, Cinnamon, and Coconut⁠⁠. Soon, they approach their first Christmas together as a family.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1440,
+      "type": "anime",
+      "name": "Felix Film",
+      "url": "https://myanimelist.net/anime/producer/1440/Felix_Film"
+    },
+    {
+      "mal_id": 2460,
+      "type": "anime",
+      "name": "aNCHOR",
+      "url": "https://myanimelist.net/anime/producer/2460/aNCHOR"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1102/103268l.webp",
+  "trailer_url": null,
+  "id": 37983,
+  "slug": "nekopara-koneko-no-hi-no-yakusoku"
 }

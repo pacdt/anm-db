@@ -1,18 +1,62 @@
 {
-  "id": 54112,
-  "slug": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
-  "type": "legendado",
+  "mal_id": 54112,
+  "url": "https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1384/136408.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/136408t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/136408l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1384/136408.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/136408t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/136408l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/S1NzUyUD6Ks?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bucket List of The Dead"
+    },
+    {
+      "type": "Synonym",
+      "title": "Zombie 100: 100 Things I Want to do Before I Become a Zombie"
+    },
+    {
+      "type": "Japanese",
+      "title": "ゾン100～ゾンビになるまでにしたい100のこと～"
+    },
+    {
+      "type": "English",
+      "title": "Zom 100: Bucket List of the Dead"
+    }
+  ],
   "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
   "title_english": "Zom 100: Bucket List of the Dead",
   "title_japanese": "ゾン100～ゾンビになるまでにしたい100のこと～",
-  "image": "https://cdn.myanimelist.net/images/anime/1384/136408l.webp",
-  "score": 7.71,
-  "synopsis": "After graduating from a top university with an impressive extracurricular record in the rugby club, Akira Tendou has nailed every step of the way to securing his dream job. On top of that, a beautiful and kind co-worker always brightens his day in the office! Life seems to be going very well for Akira until he slowly realizes that sleepless nights and brutal work are his new reality.\n\nDue to three years of mind-numbing labor in an exploitative company, Akira is unable to recognize the tired, unaccomplished person he has become. On track to losing all passion in life like several of his overworked colleagues, Akira finds his saving grace in the most unexpected way possible—the breakout of a zombie apocalypse.\n\nWith the free time he finally has, Akira decides to complete a bucket list of a hundred things he wants to do before he eventually gets turned into a zombie. Although he is surrounded by the dead, Akira has never felt more alive!\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/S1NzUyUD6Ks?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Suspense"
+  "title_synonyms": [
+    "Bucket List of The Dead",
+    "Zombie 100: 100 Things I Want to do Before I Become a Zombie"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +118,115 @@
       "url": "https://lightspeedst.net/s6/mp4/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/fhd/12.mp4",
       "nome": "Hometown of the Dead III"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-07-09T00:00:00+00:00",
+    "to": "2023-12-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 7,
+        "year": 2023
+      },
+      "to": {
+        "day": 26,
+        "month": 12,
+        "year": 2023
+      }
+    },
+    "string": "Jul 9, 2023 to Dec 26, 2023"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.71,
+  "scored_by": 317309,
+  "rank": 1346,
+  "popularity": 365,
+  "members": 657204,
+  "favorites": 4219,
+  "synopsis": "After graduating from a top university with an impressive extracurricular record in the rugby club, Akira Tendou has nailed every step of the way to securing his dream job. On top of that, a beautiful and kind co-worker always brightens his day in the office! Life seems to be going very well for Akira until he slowly realizes that sleepless nights and brutal work are his new reality.\n\nDue to three years of mind-numbing labor in an exploitative company, Akira is unable to recognize the tired, unaccomplished person he has become. On track to losing all passion in life like several of his overworked colleagues, Akira finds his saving grace in the most unexpected way possible—the breakout of a zombie apocalypse.\n\nWith the free time he finally has, Akira decides to complete a bucket list of a hundred things he wants to do before he eventually gets turned into a zombie. Although he is surrounded by the dead, Akira has never felt more alive!\n\n[Written by MAL Rewrite]",
+  "background": "The anime is part of a production deal between VIZ Media, Shogakukan, and Shogakukan-Shueisha Productions.",
+  "season": "summer",
+  "year": 2023,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "17:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 17:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 1430,
+      "type": "anime",
+      "name": "Shogakukan",
+      "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+    },
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2674,
+      "type": "anime",
+      "name": "BUG FILMS",
+      "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Survival",
+      "url": "https://myanimelist.net/anime/genre/76/Survival"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1384/136408l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/S1NzUyUD6Ks?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54112,
+  "slug": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto"
 }

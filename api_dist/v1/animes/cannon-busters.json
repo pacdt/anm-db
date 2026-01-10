@@ -1,20 +1,51 @@
 {
-  "id": 40256,
-  "slug": "cannon-busters",
-  "type": "legendado",
+  "mal_id": 40256,
+  "url": "https://myanimelist.net/anime/40256/Cannon_Busters",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1452/102628.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1452/102628t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1452/102628l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1452/102628.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1452/102628t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1452/102628l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/QFb3lNBV8Qs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Cannon Busters"
+    },
+    {
+      "type": "Japanese",
+      "title": "Cannon Busters"
+    },
+    {
+      "type": "English",
+      "title": "Cannon Busters"
+    }
+  ],
   "title": "Cannon Busters",
   "title_english": "Cannon Busters",
   "title_japanese": "Cannon Busters",
-  "image": "https://cdn.myanimelist.net/images/anime/1452/102628l.webp",
-  "score": 6.42,
-  "synopsis": "Follow the adventures and exploits of S.A.M, a high-end, royal-class friendship droid who's joined by a quirky, discarded maintenance robot and a brash, deadly fugitive. Together, the unlikely trio embarks on an unforgettable journey in a fantastic and dangerous world in search of S.A.M's best friend, the heir to a powerful kingdom under siege.\n\n(Source: Official Website)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/QFb3lNBV8Qs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +107,85 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dziV5Hcbtoe1dfd4riqvWBN5c57L_sZfoF-dG2TNTOQLQw8nxJmQniPsdbAc6Gc4TpW8s53cw8HsLieMeZf6fiLRvGQzdA-G-iqblT0okaMxtZjVDnIrPuKVCyJwW2TDqPvUeVB",
       "nome": "Innocence Lost Pt.2"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-08-15T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 8,
+        "year": 2019
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 15, 2019"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.42,
+  "scored_by": 22568,
+  "rank": 7875,
+  "popularity": 3713,
+  "members": 45278,
+  "favorites": 116,
+  "synopsis": "Follow the adventures and exploits of S.A.M, a high-end, royal-class friendship droid who's joined by a quirky, discarded maintenance robot and a brash, deadly fugitive. Together, the unlikely trio embarks on an unforgettable journey in a fantastic and dangerous world in search of S.A.M's best friend, the heir to a powerful kingdom under siege.\n\n(Source: Official Website)",
+  "background": "Based on a fantasy comic book series by LeSean Thomas.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    },
+    {
+      "mal_id": 96,
+      "type": "anime",
+      "name": "Yumeta Company",
+      "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1452/102628l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/QFb3lNBV8Qs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40256,
+  "slug": "cannon-busters"
 }

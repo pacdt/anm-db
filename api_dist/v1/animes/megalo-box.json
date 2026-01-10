@@ -1,18 +1,59 @@
 {
-  "id": 36563,
-  "slug": "megalo-box",
-  "type": "legendado",
+  "mal_id": 36563,
+  "url": "https://myanimelist.net/anime/36563/Megalo_Box",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1958/93533.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/93533t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/93533l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1958/93533.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/93533t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/93533l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/Trs1rCoLKLc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Megalo Box"
+    },
+    {
+      "type": "Japanese",
+      "title": "メガロボクス"
+    },
+    {
+      "type": "English",
+      "title": "Megalobox"
+    },
+    {
+      "type": "German",
+      "title": "Megalobox"
+    },
+    {
+      "type": "Spanish",
+      "title": "Megalobox"
+    }
+  ],
   "title": "Megalo Box",
   "title_english": "Megalobox",
   "title_japanese": "メガロボクス",
-  "image": "https://cdn.myanimelist.net/images/anime/1958/93533l.webp",
-  "score": 7.87,
-  "synopsis": "\"To be quiet and do as you're told, that's the cowardly choice.\" These are the words of Junk Dog, an underground fighter of Megalo Box, an evolution of boxing that utilizes mechanical limbs known as Gear to enhance the speed and power of its users. Despite the young man's brimming potential as a boxer, the illegal nature of his participation forces him to make a living off of throwing matches as dictated by his boss Gansaku Nanbu. However, this all changes when the Megalo Box champion Yuuri enters his shabby ring under the guise of just another challenger. Taken out in a single round, Junk Dog is left with a challenge: \"If you're serious about fighting me again, then fight your way up to me and my ring.\"\n\nFilled with overwhelming excitement and backed by the criminal syndicate responsible for his thrown matches, Junk Dog enters Megalonia: a world-spanning tournament that will decide the strongest Megalo Boxer of them all. Having no name of his own, he takes on the moniker of \"Joe\" as he begins his climb from the very bottom of the ranked list of fighters. With only three months left to qualify, Joe must face off against opponents the likes of which he has never fought in order to meet the challenge of his rival.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/Trs1rCoLKLc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sci-Fi",
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -79,5 +120,108 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxZpQGoad3BOT6h2ZVvPgYY7wzAkVDo69j2-nLg_N0da198LYh1-yaemAbMRUMbwuVlExDtsXTqzNvYKs62N2oAPJvLbOxgd0f4edAS8_TCJZhlCsSq5sQibeFJgs-0rmPsLA-n",
       "nome": "Born to Die"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-06T00:00:00+00:00",
+    "to": "2018-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Apr 6, 2018 to Jun 29, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.87,
+  "scored_by": 285081,
+  "rank": 931,
+  "popularity": 458,
+  "members": 540564,
+  "favorites": 3734,
+  "synopsis": "\"To be quiet and do as you're told, that's the cowardly choice.\" These are the words of Junk Dog, an underground fighter of Megalo Box, an evolution of boxing that utilizes mechanical limbs known as Gear to enhance the speed and power of its users. Despite the young man's brimming potential as a boxer, the illegal nature of his participation forces him to make a living off of throwing matches as dictated by his boss Gansaku Nanbu. However, this all changes when the Megalo Box champion Yuuri enters his shabby ring under the guise of just another challenger. Taken out in a single round, Junk Dog is left with a challenge: \"If you're serious about fighting me again, then fight your way up to me and my ring.\"\n\nFilled with overwhelming excitement and backed by the criminal syndicate responsible for his thrown matches, Junk Dog enters Megalonia: a world-spanning tournament that will decide the strongest Megalo Boxer of them all. Having no name of his own, he takes on the moniker of \"Joe\" as he begins his climb from the very bottom of the ranked list of fighters. With only three months left to qualify, Joe must face off against opponents the likes of which he has never fought in order to meet the challenge of his rival.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:28",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:28 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1840,
+      "type": "anime",
+      "name": "Bandai Namco Arts",
+      "url": "https://myanimelist.net/anime/producer/1840/Bandai_Namco_Arts"
+    },
+    {
+      "mal_id": 2174,
+      "type": "anime",
+      "name": "TMS Music",
+      "url": "https://myanimelist.net/anime/producer/2174/TMS_Music"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Sci-Fi",
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 54,
+      "type": "anime",
+      "name": "Combat Sports",
+      "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1958/93533l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/Trs1rCoLKLc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36563,
+  "slug": "megalo-box"
 }

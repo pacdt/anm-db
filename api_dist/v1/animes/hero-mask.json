@@ -1,19 +1,47 @@
 {
-  "id": 38628,
-  "slug": "hero-mask",
-  "type": "legendado",
+  "mal_id": 38628,
+  "url": "https://myanimelist.net/anime/38628/Hero_Mask",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1934/96007.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1934/96007t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1934/96007l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1934/96007.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1934/96007t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1934/96007l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7FtgXtNPQGY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hero Mask"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヒーローマスク"
+    }
+  ],
   "title": "Hero Mask",
   "title_english": "Hero Mask",
   "title_japanese": "ヒーローマスク",
-  "image": "https://cdn.myanimelist.net/images/anime/1934/96007l.webp",
-  "score": 6.29,
-  "synopsis": "Now there's a mysterious Mask before James Blood, and the man behind it is one that shouldn't exist. What is the mystery surrounding this mask...? So begins an action-packed crime story set in a beautiful city!",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/7FtgXtNPQGY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Mystery",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +103,91 @@
       "numero": 15,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyWNkNseK-X2WN-e2zu5m6qcsC9u2J0N5iS4YY-C3FxFBO7KEo9ISmVoqusYdZGGu5ASJEqNLB96ZZjkfSivThKMNo86-N_3YSA70h9bBAdQPaISVsguoe49unIXhOFT35wePg"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-12-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 12,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Dec 3, 2018"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.29,
+  "scored_by": 12576,
+  "rank": 8714,
+  "popularity": 4241,
+  "members": 34986,
+  "favorites": 41,
+  "synopsis": "Now there's a mysterious Mask before James Blood, and the man behind it is one that shouldn't exist. What is the mystery surrounding this mask...? So begins an action-packed crime story set in a beautiful city!",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Sotsu",
+      "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+    },
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1934/96007l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/7FtgXtNPQGY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 38628,
+  "slug": "hero-mask"
 }

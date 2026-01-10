@@ -1,19 +1,65 @@
 {
-  "id": 18195,
-  "slug": "little-busters-refrain",
-  "type": "legendado",
+  "mal_id": 18195,
+  "url": "https://myanimelist.net/anime/18195/Little_Busters_Refrain",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/55049.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/55049t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/55049l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/55049.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/55049t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/55049l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xxMfedk54z0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Little Busters! Refrain"
+    },
+    {
+      "type": "Synonym",
+      "title": "LB!: Refrain"
+    },
+    {
+      "type": "Japanese",
+      "title": "リトルバスターズ！～Refrain～"
+    },
+    {
+      "type": "English",
+      "title": "Little Busters! ~Refrain~"
+    },
+    {
+      "type": "German",
+      "title": "Little Busters! Refrain"
+    },
+    {
+      "type": "French",
+      "title": "Little Busters! Refrain"
+    }
+  ],
   "title": "Little Busters! Refrain",
   "title_english": "Little Busters! ~Refrain~",
   "title_japanese": "リトルバスターズ！～Refrain～",
-  "image": "https://cdn.myanimelist.net/images/anime/10/55049l.webp",
-  "score": 8.17,
-  "synopsis": "Following the Little Busters after they lost their first baseball game, the team decides to have a pancake party. It has been almost one semester since the return of Kyousuke Natsume. As usual, Riki Naoe continues to help the Little Busters' members—both old and new—with confronting their inner struggles. However, strange happenings begin to occur, leading Rin Natsume and Riki closer to unraveling the truth behind the \"secret of this world.\"\n\nLittle do Rin and Rikki know, their discovery will end up changing the peaceful everyday lives created by the Little Busters once and for all. Little Busters!: Refrain brings a conclusion to the colorful stories of its ensemble cast—forged with the weight of emotions and strengthened with the bond of friendship—as they come to terms with their regrets and weaknesses.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xxMfedk54z0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "LB!: Refrain"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +126,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyjMgX2laipQ8ZuMpqceg7kwY1gpActSYyYg1ajc0_E59ZCDiqsLZoA5GXhQ3Tb0PnvsFeGbekc4Rag35lpnZt5tuNY6zomrX_XYKX6nvLihJ0soLft0VCjsG3BR0KAhU7dS1sx",
       "nome": "Little Busters"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-10-05T00:00:00+00:00",
+    "to": "2013-12-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2013
+      },
+      "to": {
+        "day": 28,
+        "month": 12,
+        "year": 2013
+      }
+    },
+    "string": "Oct 5, 2013 to Dec 28, 2013"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.17,
+  "scored_by": 80782,
+  "rank": 461,
+  "popularity": 1533,
+  "members": 175441,
+  "favorites": 2143,
+  "synopsis": "Following the Little Busters after they lost their first baseball game, the team decides to have a pancake party. It has been almost one semester since the return of Kyousuke Natsume. As usual, Riki Naoe continues to help the Little Busters' members—both old and new—with confronting their inner struggles. However, strange happenings begin to occur, leading Rin Natsume and Riki closer to unraveling the truth behind the \"secret of this world.\"\n\nLittle do Rin and Rikki know, their discovery will end up changing the peaceful everyday lives created by the Little Busters once and for all. Little Busters!: Refrain brings a conclusion to the colorful stories of its ensemble cast—forged with the weight of emotions and strengthened with the bond of friendship—as they come to terms with their regrets and weaknesses.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2013,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "20:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 20:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/55049l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xxMfedk54z0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 18195,
+  "slug": "little-busters-refrain"
 }

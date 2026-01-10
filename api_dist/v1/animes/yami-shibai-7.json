@@ -1,19 +1,79 @@
 {
-  "id": 39836,
-  "slug": "yami-shibai-7",
-  "type": "legendado",
+  "mal_id": 39836,
+  "url": "https://myanimelist.net/anime/39836/Yami_Shibai_7",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1154/101895.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1154/101895t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1154/101895l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1154/101895.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1154/101895t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1154/101895l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai 7"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories Seventh Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Theater of Darkness 7th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Japanese Ghost Stories 7"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居 7期"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai 7"
+    },
+    {
+      "type": "German",
+      "title": "Theatre of Darkness: Yamishibai 7"
+    },
+    {
+      "type": "Spanish",
+      "title": "Yamishibai: Historias Japonesas de Fantasmas 7"
+    },
+    {
+      "type": "French",
+      "title": "Theatre of Darkness: Yamishibai 7"
+    }
+  ],
   "title": "Yami Shibai 7",
   "title_english": "Theatre of Darkness: Yamishibai 7",
   "title_japanese": "闇芝居 7期",
-  "image": "https://cdn.myanimelist.net/images/anime/1154/101895l.webp",
-  "score": 6.04,
-  "synopsis": "A rusted door opens to a decrepit apartment filled with darkness. Inside, the masked Storyteller waits to spin more twisted tales of horror, inviting all to listen.\n\nIn one story, a woman is tormented by her past sins; in another, a man visits a chilling art exhibit, where things quickly go awry when he ignores the warnings regarding taking photographs. That is not all, though—an unsuspecting woman hears strange noises from her veranda, but when her boyfriend investigates, he receives the shock of his life; a lady receives a frantic call from her sister, who begs her to come to a phone booth, but when she arrives, she realizes that things are not as they appear; and a man looks for one of his belongings in his little sister's room, only to soon discover that a malevolent presence lives there. The Storyteller is all too eager to share these tales, which will no doubt shock and terrify his audience.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Avant Garde",
-    "Horror",
-    "Supernatural"
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories Seventh Season",
+    "Theater of Darkness 7th Season",
+    "Japanese Ghost Stories 7"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +140,83 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxqAGT1_vVz22qC-fAo13wmvc2lbXlh0o_OYNqDnnifFOyFmqpcFQ4K3Yjl0sZNhrHyX6udxc9m6qwPQ57OVYSJ1r9a00fxYL-oqT-tAg7XLVaRCXXBTzFtenNgdF59k17TRGw",
       "nome": "Refrigerator"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2019-07-08T00:00:00+00:00",
+    "to": "2019-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2019
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 2019
+      }
+    },
+    "string": "Jul 8, 2019 to Sep 30, 2019"
+  },
+  "duration": "4 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.04,
+  "scored_by": 9868,
+  "rank": 10167,
+  "popularity": 5121,
+  "members": 22643,
+  "favorites": 13,
+  "synopsis": "A rusted door opens to a decrepit apartment filled with darkness. Inside, the masked Storyteller waits to spin more twisted tales of horror, inviting all to listen.\n\nIn one story, a woman is tormented by her past sins; in another, a man visits a chilling art exhibit, where things quickly go awry when he ignores the warnings regarding taking photographs. That is not all, though—an unsuspecting woman hears strange noises from her veranda, but when her boyfriend investigates, he receives the shock of his life; a lady receives a frantic call from her sister, who begs her to come to a phone booth, but when she arrives, she realizes that things are not as they appear; and a man looks for one of his belongings in his little sister's room, only to soon discover that a malevolent presence lives there. The Storyteller is all too eager to share these tales, which will no doubt shock and terrify his audience.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2019,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "03:13",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 03:13 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 2056,
+      "type": "anime",
+      "name": "DRAWIZ",
+      "url": "https://myanimelist.net/anime/producer/2056/DRAWIZ"
+    },
+    {
+      "mal_id": 3085,
+      "type": "anime",
+      "name": "I&A",
+      "url": "https://myanimelist.net/anime/producer/3085/I_A"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    "Avant Garde",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1154/101895l.webp",
+  "trailer_url": null,
+  "id": 39836,
+  "slug": "yami-shibai-7"
 }

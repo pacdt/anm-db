@@ -1,17 +1,57 @@
 {
-  "id": 50060,
-  "slug": "shadowverse-flame",
-  "type": "legendado",
+  "mal_id": 50060,
+  "url": "https://myanimelist.net/anime/50060/Shadowverse_Flame",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1877/122972.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1877/122972t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1877/122972l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1877/122972.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1877/122972t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1877/122972l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zyjVtZGmoE4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shadowverse Flame"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shadowverse F"
+    },
+    {
+      "type": "Japanese",
+      "title": "シャドウバースF（フレイム）"
+    },
+    {
+      "type": "English",
+      "title": "Shadowverse Flame"
+    }
+  ],
   "title": "Shadowverse Flame",
   "title_english": "Shadowverse Flame",
   "title_japanese": "シャドウバースF（フレイム）",
-  "image": "https://cdn.myanimelist.net/images/anime/1877/122972l.webp",
-  "score": 6.74,
-  "synopsis": "Shadowverse Flame features a new protagonist Light Tenryu and its story is set in Shadowverse College, a facility that trains professional players of the Shadowverse game. Tenryu Light, a transfer student, decides to join \"Seventh Flame,\" one of the seven Shadowverse clubs. However, Seventh Flame is on the verge of closure due to a lack of members! In order to avoid the club's demise, Light decides to look for new members. But what awaits him are powerful rivals who control a wide variety of cards...\n\n(Source: Crunchyroll)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/zyjVtZGmoE4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Fantasy"
+  "title_synonyms": [
+    "Shadowverse F"
   ],
+  "type": "legendado",
+  "source": "Card game",
   "episodes": [
     {
       "numero": 1,
@@ -455,5 +495,76 @@
       "numero": 98,
       "url": "https://lightspeedst.net/s7/mp4_temp/shadowverse-flame/98/720p.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-04-02T00:00:00+00:00",
+    "to": "2023-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2022
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2023
+      }
+    },
+    "string": "Apr 2, 2022 to Mar 25, 2023"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.74,
+  "scored_by": 1686,
+  "rank": 5864,
+  "popularity": 8020,
+  "members": 7396,
+  "favorites": 39,
+  "synopsis": "Shadowverse Flame features a new protagonist Light Tenryu and its story is set in Shadowverse College, a facility that trains professional players of the Shadowverse game. Tenryu Light, a transfer student, decides to join \"Seventh Flame,\" one of the seven Shadowverse clubs. However, Seventh Flame is on the verge of closure due to a lack of members! In order to avoid the club's demise, Light decides to look for new members. But what awaits him are powerful rivals who control a wide variety of cards...\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "spring",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "09:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 09:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1858,
+      "type": "anime",
+      "name": "Sonilude",
+      "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 218,
+      "type": "anime",
+      "name": "Zexcs",
+      "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1877/122972l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/zyjVtZGmoE4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50060,
+  "slug": "shadowverse-flame"
 }

@@ -1,17 +1,63 @@
 {
-  "id": 36904,
-  "slug": "aggressive-retsuko-ona",
-  "type": "legendado",
+  "mal_id": 36904,
+  "url": "https://myanimelist.net/anime/36904/Aggressive_Retsuko_ONA",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1566/129181.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/129181t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/129181l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1566/129181.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/129181t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/129181l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/pvkriLuyFdw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Aggressive Retsuko (ONA)"
+    },
+    {
+      "type": "Japanese",
+      "title": "アグレッシブ烈子"
+    },
+    {
+      "type": "English",
+      "title": "Aggretsuko (ONA)"
+    },
+    {
+      "type": "German",
+      "title": "Aggretsuko"
+    },
+    {
+      "type": "Spanish",
+      "title": "Aggretsuko"
+    },
+    {
+      "type": "French",
+      "title": "Aggretsuko"
+    }
+  ],
   "title": "Aggressive Retsuko (ONA)",
   "title_english": "Aggretsuko (ONA)",
   "title_japanese": "アグレッシブ烈子",
-  "image": "https://cdn.myanimelist.net/images/anime/1566/129181l.webp",
-  "score": 7.63,
-  "synopsis": "Some offices have stereotypical dynamics: the chauvinistic pig of a boss who never does any real work; the employees whose goal is to suck up to the boss; the ones whose lives seem perfect; and the individuals who have all the actual work pushed onto them. Retsuko the red panda is in the last group, as she stays late most nights to make up the work her coworkers are too lazy to do themselves.\n\nHer relief from the stress of her everyday life comes in the form of singing death metal at a local karaoke club. Night after night, Retsuko channels her grief into a microphone and considers the place to be her own personal sanctuary. But as she moves further away from her comfort zone and the ideas people have of her, she discovers that letting others into her world of death metal may not be such a bad thing.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/pvkriLuyFdw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +109,88 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzbpLSKOvqqzQufMCVK4rELxY5cNdiFUFkpP7Ymkk1RRvjvSk70dvDb_qxHXSRzqr1fMxz6rKfjJhZ2xvyq9BVvGvukHwN4m6ih_L4ZKvoFguLsMbFNnDkmG50BH0a-i9b4fIs",
       "nome": "The Dream Ends"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-20T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 20,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 20, 2018"
+  },
+  "duration": "15 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.63,
+  "scored_by": 124173,
+  "rank": 1565,
+  "popularity": 1402,
+  "members": 193611,
+  "favorites": 1392,
+  "synopsis": "Some offices have stereotypical dynamics: the chauvinistic pig of a boss who never does any real work; the employees whose goal is to suck up to the boss; the ones whose lives seem perfect; and the individuals who have all the actual work pushed onto them. Retsuko the red panda is in the last group, as she stays late most nights to make up the work her coworkers are too lazy to do themselves.\n\nHer relief from the stress of her everyday life comes in the form of singing death metal at a local karaoke club. Night after night, Retsuko channels her grief into a microphone and considers the place to be her own personal sanctuary. But as she moves further away from her comfort zone and the ideas people have of her, she discovers that letting others into her world of death metal may not be such a bad thing.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 150,
+      "type": "anime",
+      "name": "Sanrio",
+      "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+    },
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 866,
+      "type": "anime",
+      "name": "Fanworks",
+      "url": "https://myanimelist.net/anime/producer/866/Fanworks"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "Workplace",
+      "url": "https://myanimelist.net/anime/genre/48/Workplace"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1566/129181l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/pvkriLuyFdw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36904,
+  "slug": "aggressive-retsuko-ona"
 }

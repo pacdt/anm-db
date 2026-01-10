@@ -1,19 +1,70 @@
 {
-  "id": 1087,
-  "slug": "kimagure-orange-road",
-  "type": "legendado",
+  "mal_id": 1087,
+  "url": "https://myanimelist.net/anime/1087/Kimagure_Orange☆Road",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1960/142715.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1960/142715t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1960/142715l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1960/142715.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1960/142715t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1960/142715l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kimagure Orange☆Road"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kimagure Orange Road TV"
+    },
+    {
+      "type": "Synonym",
+      "title": "Capricious Orange Road"
+    },
+    {
+      "type": "Japanese",
+      "title": "きまぐれオレンジ☆ロード"
+    },
+    {
+      "type": "English",
+      "title": "Kimagure Orange Road"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kimagure Orange Road"
+    },
+    {
+      "type": "French",
+      "title": "Kimagure Orange☆Road: Max et Compagnie"
+    }
+  ],
   "title": "Kimagure Orange☆Road",
   "title_english": "Kimagure Orange Road",
   "title_japanese": "きまぐれオレンジ☆ロード",
-  "image": "https://cdn.myanimelist.net/images/anime/1960/142715l.webp",
-  "score": 7.51,
-  "synopsis": "Kyousuke Kasuga is no stranger to being the new kid at school. Despite only being a third-year middle schooler, he has spent his entire childhood avoiding those who discover his family's paranormal powers, and he has had to change schools seven times as a result. Upon catching a beautiful girl's hat, he becomes optimistic and hopes that he and his family have finally moved for the last time.\n\nWhen Kyousuke gets to school, however, he learns a different story. The elegant girl he just met turns out to be none other than Madoka Ayukawa—also known as \"Madoka the Pick\"—a delinquent known to smoke, drink, and get into fights. Her best friend is first-year Hikaru Hiyama, a childish and energetic girl who quickly falls in love with Kyousuke. Enamored with both girls, Kyousuke tries to balance a delicate triangle of emotions, all while dealing with the antics brought about by a family with paranormal powers.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Kimagure Orange Road TV",
+    "Capricious Orange Road"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -255,5 +306,110 @@
       "url": "https://lightspeedst.net/s3/mp4/kimagure-orange-road/sd/48.mp4",
       "nome": "I Found Love – And, Repeat From Beginning"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1987-04-06T00:00:00+00:00",
+    "to": "1988-03-07T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 1987
+      },
+      "to": {
+        "day": 7,
+        "month": 3,
+        "year": 1988
+      }
+    },
+    "string": "Apr 6, 1987 to Mar 7, 1988"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.51,
+  "scored_by": 14144,
+  "rank": 2006,
+  "popularity": 3390,
+  "members": 53207,
+  "favorites": 660,
+  "synopsis": "Kyousuke Kasuga is no stranger to being the new kid at school. Despite only being a third-year middle schooler, he has spent his entire childhood avoiding those who discover his family's paranormal powers, and he has had to change schools seven times as a result. Upon catching a beautiful girl's hat, he becomes optimistic and hopes that he and his family have finally moved for the last time.\n\nWhen Kyousuke gets to school, however, he learns a different story. The elegant girl he just met turns out to be none other than Madoka Ayukawa—also known as \"Madoka the Pick\"—a delinquent known to smoke, drink, and get into fights. Her best friend is first-year Hikaru Hiyama, a childish and energetic girl who quickly falls in love with Kyousuke. Enamored with both girls, Kyousuke tries to balance a delicate triangle of emotions, all while dealing with the antics brought about by a family with paranormal powers.\n\n[Written by MAL Rewrite]",
+  "background": "Kimagure Orange☆Road has been dubbed in French by SOFI; in Italian by Coop. Eddy Cortese; and in Spanish by Jonu Media. The series was released on 12 individual DVDs and as a complete DVD box set by Animeigo. Kimagure Orange☆Road was later remastered and included in a Blu-ray set with extra features, which was released on March 26, 2019 by Discotek Media.",
+  "season": "spring",
+  "year": 1987,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "19:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 19:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 310,
+      "type": "anime",
+      "name": "AnimEigo",
+      "url": "https://myanimelist.net/anime/producer/310/AnimEigo"
+    },
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1960/142715l.webp",
+  "trailer_url": null,
+  "id": 1087,
+  "slug": "kimagure-orange-road"
 }

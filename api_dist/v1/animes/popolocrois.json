@@ -1,18 +1,53 @@
 {
-  "id": 592,
-  "slug": "popolocrois",
-  "type": "legendado",
+  "mal_id": 592,
+  "url": "https://myanimelist.net/anime/592/PopoloCrois",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/27541.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/27541t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/27541l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/27541.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/27541t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/27541l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "PopoloCrois"
+    },
+    {
+      "type": "Synonym",
+      "title": "Popolocrois Monogatari - Hajimari no Bouken"
+    },
+    {
+      "type": "Japanese",
+      "title": "ポポロクロイス"
+    }
+  ],
   "title": "PopoloCrois",
   "title_english": "PopoloCrois",
   "title_japanese": "ポポロクロイス",
-  "image": "https://cdn.myanimelist.net/images/anime/8/27541l.webp",
-  "score": 6.79,
-  "synopsis": "Pinon, the boy who flows within his body, the blood of the three races (the Dragons, the fairies and the humans), is actually the son of the Courageous One, Pietro. Pinon's encounter with a mysterious animal, Pap, opens up the door to an adventurous journey. He befriends Luna and Marco on the way. However, when he learns that his adventure will determine the fate of PoPoLoCrois, Pinon hardens his heart and leaves his friends. Unknown to him, this is an introductory chapter to a new adventure and Pinon will realise that he must resolve the bigger crisis present in PoPoLoCrois. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Popolocrois Monogatari - Hajimari no Bouken"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -144,5 +179,76 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxARmBkf3xvMiYwj6iIKzSzKlmosIeDktFjTas9OPPGpy0D-Y6SMxecC7y4e6K4gEAHhDUIMoVxJoR0iHQKu_gHHlk__f4gL1ErUHQtSxER4GnFLElERRUQnYaa4WaEyenueTs",
       "nome": "Law of the Moon"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-10-05T00:00:00+00:00",
+    "to": "2004-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2003
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2004
+      }
+    },
+    "string": "Oct 5, 2003 to Mar 28, 2004"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG - Children",
+  "score": 6.79,
+  "scored_by": 1039,
+  "rank": 5610,
+  "popularity": 11464,
+  "members": 2672,
+  "favorites": 2,
+  "synopsis": "Pinon, the boy who flows within his body, the blood of the three races (the Dragons, the fairies and the humans), is actually the son of the Courageous One, Pietro. Pinon's encounter with a mysterious animal, Pap, opens up the door to an adventurous journey. He befriends Luna and Marco on the way. However, when he learns that his adventure will determine the fate of PoPoLoCrois, Pinon hardens his heart and leaves his friends. Unknown to him, this is an introductory chapter to a new adventure and Pinon will realise that he must resolve the bigger crisis present in PoPoLoCrois. \n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2003,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": "Unknown"
+  },
+  "producers": [
+    {
+      "mal_id": 65,
+      "type": "anime",
+      "name": "Tokyo Movie Shinsha",
+      "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/8/27541l.webp",
+  "trailer_url": null,
+  "id": 592,
+  "slug": "popolocrois"
 }

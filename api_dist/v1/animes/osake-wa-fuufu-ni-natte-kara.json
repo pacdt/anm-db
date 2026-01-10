@@ -1,19 +1,63 @@
 {
-  "id": 35484,
-  "slug": "osake-wa-fuufu-ni-natte-kara",
-  "type": "legendado",
+  "mal_id": 35484,
+  "url": "https://myanimelist.net/anime/35484/Osake_wa_Fuufu_ni_Natte_kara",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1684/108627.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1684/108627t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1684/108627l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1684/108627.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1684/108627t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1684/108627l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/iJV0dZ56uLs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Osake wa Fuufu ni Natte kara"
+    },
+    {
+      "type": "Japanese",
+      "title": "お酒は夫婦になってから"
+    },
+    {
+      "type": "English",
+      "title": "Love is Like a Cocktail"
+    },
+    {
+      "type": "German",
+      "title": "ÖLove is Like a Cocktail"
+    },
+    {
+      "type": "Spanish",
+      "title": "Love is Like a Cocktail"
+    },
+    {
+      "type": "French",
+      "title": "Love is Like a Cocktail"
+    }
+  ],
   "title": "Osake wa Fuufu ni Natte kara",
   "title_english": "Love is Like a Cocktail",
   "title_japanese": "お酒は夫婦になってから",
-  "image": "https://cdn.myanimelist.net/images/anime/1684/108627l.webp",
-  "score": 6.96,
-  "synopsis": "Chisato Mizusawa is a calm and collected assistant office manager who apparently dislikes drinking alcohol. But she actually likes it and has a secret side to her that emerges only when drunk: her cute persona, which she only reveals to her husband, the bartender Sora. Each day when Chisato comes home, Sora takes care of his beloved wife, providing her with a good meal and a fresh drink. These drinks include Plum Splet, Irish Coffee, Orange Breeze, and many more tasty concoctions that she eagerly gulps down. But as much as she likes alcohol, she loves her kindhearted husband more. Together, they share a life that is filled with happiness—and the more-than-occasional cocktail.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/iJV0dZ56uLs?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Gourmet",
-    "Romance"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -80,5 +124,102 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwb2qw5c4r1jyKXrA4OMOrHYMz8SEcm4tPftp9miG4MusHuYlLB65QQcU4F9l3ktSmH2E-KM2bTXM4aOyx9ZPzyD25ugd7SvK2-xPhQFMrPgDl9HsbCNYfFg-iczMsdgsZqqAFA",
       "nome": "Thirteenth Glass: Frozen Mango Cocktail"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-10-04T00:00:00+00:00",
+    "to": "2017-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2017
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2017
+      }
+    },
+    "string": "Oct 4, 2017 to Dec 27, 2017"
+  },
+  "duration": "3 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.96,
+  "scored_by": 111268,
+  "rank": 4751,
+  "popularity": 1182,
+  "members": 233953,
+  "favorites": 439,
+  "synopsis": "Chisato Mizusawa is a calm and collected assistant office manager who apparently dislikes drinking alcohol. But she actually likes it and has a secret side to her that emerges only when drunk: her cute persona, which she only reveals to her husband, the bartender Sora. Each day when Chisato comes home, Sora takes care of his beloved wife, providing her with a good meal and a fresh drink. These drinks include Plum Splet, Irish Coffee, Orange Breeze, and many more tasty concoctions that she eagerly gulps down. But as much as she likes alcohol, she loves her kindhearted husband more. Together, they share a life that is filled with happiness—and the more-than-occasional cocktail.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2017,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "VAP",
+      "url": "https://myanimelist.net/anime/producer/29/VAP"
+    },
+    {
+      "mal_id": 127,
+      "type": "anime",
+      "name": "Yomiko Advertising",
+      "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+    },
+    {
+      "mal_id": 1211,
+      "type": "anime",
+      "name": "Tokyo MX",
+      "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    },
+    {
+      "mal_id": 1602,
+      "type": "anime",
+      "name": "GYAO!",
+      "url": "https://myanimelist.net/anime/producer/1602/GYAO"
+    },
+    {
+      "mal_id": 2088,
+      "type": "anime",
+      "name": "Cloud22",
+      "url": "https://myanimelist.net/anime/producer/2088/Cloud22"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1195,
+      "type": "anime",
+      "name": "Creators in Pack",
+      "url": "https://myanimelist.net/anime/producer/1195/Creators_in_Pack"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Gourmet",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1684/108627l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/iJV0dZ56uLs?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 35484,
+  "slug": "osake-wa-fuufu-ni-natte-kara"
 }

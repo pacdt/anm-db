@@ -1,19 +1,57 @@
 {
-  "id": 1607,
-  "slug": "venus-versus-virus",
-  "type": "legendado",
+  "mal_id": 1607,
+  "url": "https://myanimelist.net/anime/1607/Venus_Versus_Virus",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/18842.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/18842t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/18842l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/18842.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/18842t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/18842l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kEwW_65I5nQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Venus Versus Virus"
+    },
+    {
+      "type": "Synonym",
+      "title": "Venus vs. Virus"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヴィーナス ヴァーサス ヴァイアラス"
+    },
+    {
+      "type": "English",
+      "title": "Venus Versus Virus"
+    }
+  ],
   "title": "Venus Versus Virus",
   "title_english": "Venus Versus Virus",
   "title_japanese": "ヴィーナス ヴァーサス ヴァイアラス",
-  "image": "https://cdn.myanimelist.net/images/anime/4/18842l.webp",
-  "score": 6.31,
-  "synopsis": "Venus Versus Virus follows regular schoolgirl Sumire who's had the ability to see ghosts since a young age. She tells friends and family about this fact and they just dismiss it, thinking she's a liar. A chance encounter with a broach flying out of nowhere, a monster and gothloli clad monster killer named Lucia leaves her with a life changing decision to use her ability and fight against these \"viruses\" feeding upon the human race.\n\n(Source: AnimeNewsService)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/kEwW_65I5nQ?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Supernatural"
+  "title_synonyms": [
+    "Venus vs. Virus"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +113,102 @@
       "url": "https://lightspeedst.net/s3/mp4/venus-versus-virus/sd/12.mp4",
       "nome": "White Future"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2007-01-12T00:00:00+00:00",
+    "to": "2007-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2007
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2007
+      }
+    },
+    "string": "Jan 12, 2007 to Mar 30, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.31,
+  "scored_by": 12316,
+  "rank": 8559,
+  "popularity": 4423,
+  "members": 31752,
+  "favorites": 47,
+  "synopsis": "Venus Versus Virus follows regular schoolgirl Sumire who's had the ability to see ghosts since a young age. She tells friends and family about this fact and they just dismiss it, thinking she's a liar. A chance encounter with a broach flying out of nowhere, a monster and gothloli clad monster killer named Lucia leaves her with a life changing decision to use her ability and fight against these \"viruses\" feeding upon the human race.\n\n(Source: AnimeNewsService)",
+  "background": "",
+  "season": "winter",
+  "year": 2007,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 212,
+      "type": "anime",
+      "name": "Venus Vangard",
+      "url": "https://myanimelist.net/anime/producer/212/Venus_Vangard"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 214,
+      "type": "anime",
+      "name": "BS-i",
+      "url": "https://myanimelist.net/anime/producer/214/BS-i"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 101,
+      "type": "anime",
+      "name": "Studio Hibari",
+      "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/18842l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/kEwW_65I5nQ?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1607,
+  "slug": "venus-versus-virus"
 }

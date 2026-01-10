@@ -1,19 +1,96 @@
 {
-  "id": 1303,
-  "slug": "the-animatrix",
-  "type": "legendado",
+  "mal_id": 1303,
+  "url": "https://myanimelist.net/anime/1303/The_Animatrix",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/75870.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75870t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75870l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/75870.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/75870t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/75870l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/94fPVqJqBGA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "The Animatrix"
+    },
+    {
+      "type": "Synonym",
+      "title": "Beyond"
+    },
+    {
+      "type": "Synonym",
+      "title": "Detective Story"
+    },
+    {
+      "type": "Synonym",
+      "title": "Matriculated"
+    },
+    {
+      "type": "Synonym",
+      "title": "Program"
+    },
+    {
+      "type": "Synonym",
+      "title": "The Second Renaissance"
+    },
+    {
+      "type": "Synonym",
+      "title": "Final Flight of the Osiris"
+    },
+    {
+      "type": "Synonym",
+      "title": "World Record"
+    },
+    {
+      "type": "Synonym",
+      "title": "Kid's Story"
+    },
+    {
+      "type": "Japanese",
+      "title": "アニマトリックス"
+    },
+    {
+      "type": "English",
+      "title": "The Animatrix"
+    },
+    {
+      "type": "French",
+      "title": "Animatrix"
+    }
+  ],
   "title": "The Animatrix",
   "title_english": "The Animatrix",
   "title_japanese": "アニマトリックス",
-  "image": "https://cdn.myanimelist.net/images/anime/3/75870l.webp",
-  "score": 7.3,
-  "synopsis": "1. Final Flight of the Osiris\nThe crew of the Osiris discover an army preparing to invade Zion. While one crew member races inside the Matrix to get the message to Zion, the others try desperately to buy her enough time while fighting off an onslaught of Sentinels they can't possibly defeat.\n\n2-3. The Second Renaissance Part 1 and 2\nHumans have created the ultimate AI, which is just as smart as they are. But complications arise when these robots and the humans try to exist peacefully, and eventually all-out war breaks out. The humans ultimately lose the war, and become trapped in the Matrix as seen in the live-action films.\n\n4. Kid's Story\nA young man discovers that his world isn't real, that it's a computer-generated fantasy land created by robots using humans for energy. He escapes with the help of the hacker Neo. Based on the Matrix trilogy.\n\n5. Program\nCis and Duo engage in battle in a virtual recreation of Feudal Japan.\n\n6. World Record\nWhile running the fastest race in his life, a champion track star breaks free of his computer-generated world for a small period of time. When he goes back to the real world, he has no memories and is placed in a nursing home. Based on the Matrix trilogy.\n\n7. Beyond\nWhile looking for her lost pet, a young woman meets up with some kids in Tokyo to play in a \"haunted house,\" which is really a glitch in their computer world. Based on the Matrix trilogy.\n\n8. Detective Story\nA detective named Ash is called upon by a mysterious organization to hunt down the notorious hacker Trinity.\n\n9. Matriculated\nA group of scientists capture a robot and place it in a surreal fantasy world. When the robot's friends come in and kill most of the scientists; however, the robot and the last scientist remaining face isolation in the computer-generated world. Based on the Matrix trilogy.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/94fPVqJqBGA?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Drama",
-    "Sci-Fi"
+  "title_synonyms": [
+    "Beyond",
+    "Detective Story",
+    "Matriculated",
+    "Program",
+    "The Second Renaissance",
+    "Final Flight of the Osiris",
+    "World Record",
+    "Kid's Story"
   ],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -60,5 +137,83 @@
       "url": "https://lightspeedst.net/s3/mp4/the-animatrix/hd/9.mp4",
       "nome": "Matriculated"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2003-06-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 6,
+        "year": 2003
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 3, 2003"
+  },
+  "duration": "10 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.3,
+  "scored_by": 47459,
+  "rank": 2955,
+  "popularity": 2483,
+  "members": 91387,
+  "favorites": 293,
+  "synopsis": "1. Final Flight of the Osiris\nThe crew of the Osiris discover an army preparing to invade Zion. While one crew member races inside the Matrix to get the message to Zion, the others try desperately to buy her enough time while fighting off an onslaught of Sentinels they can't possibly defeat.\n\n2-3. The Second Renaissance Part 1 and 2\nHumans have created the ultimate AI, which is just as smart as they are. But complications arise when these robots and the humans try to exist peacefully, and eventually all-out war breaks out. The humans ultimately lose the war, and become trapped in the Matrix as seen in the live-action films.\n\n4. Kid's Story\nA young man discovers that his world isn't real, that it's a computer-generated fantasy land created by robots using humans for energy. He escapes with the help of the hacker Neo. Based on the Matrix trilogy.\n\n5. Program\nCis and Duo engage in battle in a virtual recreation of Feudal Japan.\n\n6. World Record\nWhile running the fastest race in his life, a champion track star breaks free of his computer-generated world for a small period of time. When he goes back to the real world, he has no memories and is placed in a nursing home. Based on the Matrix trilogy.\n\n7. Beyond\nWhile looking for her lost pet, a young woman meets up with some kids in Tokyo to play in a \"haunted house,\" which is really a glitch in their computer world. Based on the Matrix trilogy.\n\n8. Detective Story\nA detective named Ash is called upon by a mysterious organization to hunt down the notorious hacker Trinity.\n\n9. Matriculated\nA group of scientists capture a robot and place it in a surreal fantasy world. When the robot's friends come in and kill most of the scientists; however, the robot and the last scientist remaining face isolation in the computer-generated world. Based on the Matrix trilogy.\n\n(Source: ANN)",
+  "background": "The film won the 2003 Annie Award for Best Animated Home Entertainment Production.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 1889,
+      "type": "anime",
+      "name": "Warner Bros. Pictures",
+      "url": "https://myanimelist.net/anime/producer/1889/Warner_Bros_Pictures"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    },
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Studio 4°C",
+      "url": "https://myanimelist.net/anime/producer/13/Studio_4%C2%B0C"
+    },
+    {
+      "mal_id": 2625,
+      "type": "anime",
+      "name": "Square Pictures",
+      "url": "https://myanimelist.net/anime/producer/2625/Square_Pictures"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/3/75870l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/94fPVqJqBGA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 1303,
+  "slug": "the-animatrix"
 }

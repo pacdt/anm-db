@@ -1,19 +1,55 @@
 {
-  "id": 31798,
-  "slug": "kiznaiver",
-  "type": "legendado",
+  "mal_id": 31798,
+  "url": "https://myanimelist.net/anime/31798/Kiznaiver",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1085/147246.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/147246t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/147246l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1085/147246.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/147246t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/147246l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/x8M8LIcLtoo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kiznaiver"
+    },
+    {
+      "type": "Japanese",
+      "title": "キズナイーバー"
+    },
+    {
+      "type": "English",
+      "title": "Kiznaiver"
+    },
+    {
+      "type": "German",
+      "title": "Kizunaiver"
+    }
+  ],
   "title": "Kiznaiver",
   "title_english": "Kiznaiver",
   "title_japanese": "キズナイーバー",
-  "image": "https://cdn.myanimelist.net/images/anime/1085/147246l.webp",
-  "score": 7.36,
-  "synopsis": "Katsuhira Agata is a quiet and reserved teenage boy whose sense of pain has all but vanished. His friend, Chidori Takashiro, can only faintly remember the days before Katsuhira had undergone this profound change. Now, his muffled and complacent demeanor make Katsuhira a constant target for bullies, who exploit him for egregious sums of money. But their fists only just manage to make him blink, as even emotions are far from his grasp.\n\nHowever, one day Katsuhira, Chidori, and four other teenagers are abducted and forced to join the Kizuna System as official \"Kiznaivers.\" Those taking part are connected through pain: if one member is injured, the others will feel an equal amount of agony. These individuals must become the lab rats and scapegoats of an incomplete system designed with world peace in mind. With their fates literally intertwined, the Kiznaivers must expose their true selves to each other, or risk failing much more than just the Kizuna System.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/x8M8LIcLtoo?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +111,114 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dzgaK45n93c2wljK8QMyhEPe55vAt9sLAOYqfrkKVsqYgetSyHWvb5GdqOS7TY390NCZiGGnAApyKz7_-IEAkkMtbJIWh4qIoeNG6iiN8mNDTSyvySjxLv7AmL2ZPsy9Q7a3Yk",
       "nome": "If The Kizna System Spread Throughout The World"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-09T00:00:00+00:00",
+    "to": "2016-06-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 9,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 25,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 9, 2016 to Jun 25, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.36,
+  "scored_by": 377630,
+  "rank": 2629,
+  "popularity": 282,
+  "members": 789125,
+  "favorites": 5226,
+  "synopsis": "Katsuhira Agata is a quiet and reserved teenage boy whose sense of pain has all but vanished. His friend, Chidori Takashiro, can only faintly remember the days before Katsuhira had undergone this profound change. Now, his muffled and complacent demeanor make Katsuhira a constant target for bullies, who exploit him for egregious sums of money. But their fists only just manage to make him blink, as even emotions are far from his grasp.\n\nHowever, one day Katsuhira, Chidori, and four other teenagers are abducted and forced to join the Kizuna System as official \"Kiznaivers.\" Those taking part are connected through pain: if one member is injured, the others will feel an equal amount of agony. These individuals must become the lab rats and scapegoats of an incomplete system designed with world peace in mind. With their fates literally intertwined, the Kiznaivers must expose their true selves to each other, or risk failing much more than just the Kizuna System.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 1345,
+      "type": "anime",
+      "name": "Sammy",
+      "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+    },
+    {
+      "mal_id": 1415,
+      "type": "anime",
+      "name": "Asahi Broadcasting",
+      "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 803,
+      "type": "anime",
+      "name": "Trigger",
+      "url": "https://myanimelist.net/anime/producer/803/Trigger"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1085/147246l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/x8M8LIcLtoo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 31798,
+  "slug": "kiznaiver"
 }

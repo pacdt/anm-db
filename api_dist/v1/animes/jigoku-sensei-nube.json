@@ -1,19 +1,51 @@
 {
-  "id": 2012,
-  "slug": "jigoku-sensei-nube",
-  "type": "legendado",
+  "mal_id": 2012,
+  "url": "https://myanimelist.net/anime/2012/Jigoku_Sensei_Nube",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1068/99222.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/99222t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/99222l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1068/99222.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/99222t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/99222l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jigoku Sensei Nube"
+    },
+    {
+      "type": "Japanese",
+      "title": "地獄先生ぬ～べ～"
+    },
+    {
+      "type": "English",
+      "title": "Hell Teacher Nube"
+    }
+  ],
   "title": "Jigoku Sensei Nube",
   "title_english": "Hell Teacher Nube",
   "title_japanese": "地獄先生ぬ～べ～",
-  "image": "https://cdn.myanimelist.net/images/anime/1068/99222l.webp",
-  "score": 7.53,
-  "synopsis": "Nube is a clumsy, easygoing, and very kind teacher, but he has a secret under his glove on the left hand. He has a monster hand, and he also has the ability to sense ghosts and evil spirits. So he protects his dear students from these evil spirits with his monster hand, proving to be very powerful.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Horror",
-    "Supernatural"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -260,5 +292,91 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dymvgz8GD1A76QEvXAIYKsosEKRs1wbbf7O_iPpNYpf9IQNazmG9sNJCHkhJqq-WIdJ5nPMtb4vEGNUvlTV2x5VaJjBdiLp-zimUvAcuc7XrRswErTg2ifyZlbNY9U3ZkfJ6Q",
       "nome": "Perfect Edition!! The Jigoku Sensei Nube Ultimate Encyclopedia"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "1996-04-13T00:00:00+00:00",
+    "to": "1997-06-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 4,
+        "year": 1996
+      },
+      "to": {
+        "day": 21,
+        "month": 6,
+        "year": 1997
+      }
+    },
+    "string": "Apr 13, 1996 to Jun 21, 1997"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.53,
+  "scored_by": 7448,
+  "rank": 1936,
+  "popularity": 4943,
+  "members": 24803,
+  "favorites": 112,
+  "synopsis": "Nube is a clumsy, easygoing, and very kind teacher, but he has a secret under his glove on the left hand. He has a monster hand, and he also has the ability to sense ghosts and evil spirits. So he protects his dear students from these evil spirits with his monster hand, proving to be very powerful.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 1996,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1068/99222l.webp",
+  "trailer_url": null,
+  "id": 2012,
+  "slug": "jigoku-sensei-nube"
 }

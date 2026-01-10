@@ -1,19 +1,65 @@
 {
-  "id": 8861,
-  "slug": "yosuga-no-sora-in-solitude-where-we-are-least-alone",
-  "type": "legendado",
+  "mal_id": 8861,
+  "url": "https://myanimelist.net/anime/8861/Yosuga_no_Sora",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/76216.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/76216t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/76216l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/76216.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/76216t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/76216l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/GWASk2j2CAc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yosuga no Sora"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sky of Connection"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヨスガノソラ"
+    },
+    {
+      "type": "English",
+      "title": "Yosuga no Sora: In Solitude, Where We Are Least Alone"
+    },
+    {
+      "type": "German",
+      "title": "Yosuga No Sora"
+    },
+    {
+      "type": "French",
+      "title": "Yosuga No Sora: In Solitude Where We Are Least Alone"
+    }
+  ],
   "title": "Yosuga no Sora",
   "title_english": "Yosuga no Sora: In Solitude, Where We Are Least Alone",
   "title_japanese": "ヨスガノソラ",
-  "image": "https://cdn.myanimelist.net/images/anime/5/76216l.webp",
-  "score": 6,
-  "synopsis": "Due to a sudden accident, twins Haruka and Sora Kasugano have lost both of their parents. Starting their lives anew, they return to their childhood home—living once again in the rural, quaint town like they did four years ago. \n\nHowever, revisiting such a nostalgic place also means recalling all the memories the two of them made together, be it those that gave them blissful joy or those that made them suffer painful sorrow. Meeting both old acquaintances and new companions alike, the story of Haruka and Sora only gets more convoluted as their lives are slowly influenced by different acts of love, friendship, envy—and perhaps even lust.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/GWASk2j2CAc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance",
-    "Ecchi"
+  "title_synonyms": [
+    "Sky of Connection"
   ],
+  "type": "legendado",
+  "source": "Visual novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +121,97 @@
       "url": "https://lightspeedst.net/s3/mp4/yosuga-no-sora-in-solitude-where-we-are-least-alone/sd/12.mp4",
       "nome": "To the Distant Sky"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-10-04T00:00:00+00:00",
+    "to": "2010-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2010
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2010
+      }
+    },
+    "string": "Oct 4, 2010 to Dec 20, 2010"
+  },
+  "duration": "25 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6,
+  "scored_by": 282740,
+  "rank": 10394,
+  "popularity": 459,
+  "members": 538813,
+  "favorites": 2727,
+  "synopsis": "Due to a sudden accident, twins Haruka and Sora Kasugano have lost both of their parents. Starting their lives anew, they return to their childhood home—living once again in the rural, quaint town like they did four years ago. \n\nHowever, revisiting such a nostalgic place also means recalling all the memories the two of them made together, be it those that gave them blissful joy or those that made them suffer painful sorrow. Meeting both old acquaintances and new companions alike, the story of Haruka and Sora only gets more convoluted as their lives are slowly influenced by different acts of love, friendship, envy—and perhaps even lust.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2010,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 92,
+      "type": "anime",
+      "name": "Starchild Records",
+      "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 721,
+      "type": "anime",
+      "name": "GANSIS",
+      "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 91,
+      "type": "anime",
+      "name": "feel.",
+      "url": "https://myanimelist.net/anime/producer/91/feel"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/76216l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/GWASk2j2CAc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 8861,
+  "slug": "yosuga-no-sora-in-solitude-where-we-are-least-alone"
 }

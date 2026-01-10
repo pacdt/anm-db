@@ -1,22 +1,164 @@
 {
-  "id": 35823,
-  "slug": "demi-chan-wa-kataritai-demi-chan-no-natsuyasumi-dublado",
-  "type": "dublado",
+  "mal_id": 35823,
+  "url": "https://myanimelist.net/anime/35823/Demi-chan_wa_Kataritai__Demi-chan_no_Natsuyasumi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/88769.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88769t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88769l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/88769.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/88769t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/88769l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi"
+    },
+    {
+      "type": "Synonym",
+      "title": "Demi-chan wa Kataritai Episode 13"
+    },
+    {
+      "type": "Japanese",
+      "title": "亜人ちゃんは語りたい 亜人ちゃんの夏休み"
+    },
+    {
+      "type": "English",
+      "title": "Interviews With Monster Girls: The Demi-chans' Summer Break"
+    },
+    {
+      "type": "German",
+      "title": "Interviews with Monster Girls: Folge 13: Die Sommerferien der Werlinge"
+    },
+    {
+      "type": "Spanish",
+      "title": "Interviews With Monster Girls (Demi-chan wa Kataritai) Episodio 13: Las Vacaciones de Verano de las Demis"
+    },
+    {
+      "type": "French",
+      "title": "Freaky Girls Épisode 13: Les demi fêtent l'été"
+    }
+  ],
   "title": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
   "title_english": "Interviews With Monster Girls: The Demi-chans' Summer Break",
   "title_japanese": "亜人ちゃんは語りたい 亜人ちゃんの夏休み",
-  "image": "https://cdn.myanimelist.net/images/anime/6/88769l.webp",
-  "score": 7.47,
-  "synopsis": "During summer break, Tetsuo asks Sakie to join him on patrol duty for the local summer festival, which both the demis and Himari and her friends go to. As each group decides to check out a nearby shrine, they get spooked by some strange occurrences, which turn out to be each other. As the next term begins, Tetsuo converses with an invisible woman named Matsuri.\n\n(Source: Crunchyroll)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Fantasy"
+  "title_synonyms": [
+    "Demi-chan wa Kataritai Episode 13"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dza9Ie_NHIp1xQrdFs0O76x9fQNPLHr2slXHOzD78ovFl4kaLszZ2p5ZiJStgnU6AjRHjx6WgU5nTARPSu11bu4ZJndf0_Z_owvdr8yjNeQwIeq7aZ621OhyS1R3oxYZJw451U"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2017-06-29T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 29,
+        "month": 6,
+        "year": 2017
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 29, 2017"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.47,
+  "scored_by": 50744,
+  "rank": 2160,
+  "popularity": 2523,
+  "members": 88529,
+  "favorites": 42,
+  "synopsis": "During summer break, Tetsuo asks Sakie to join him on patrol duty for the local summer festival, which both the demis and Himari and her friends go to. As each group decides to check out a nearby shrine, they get spooked by some strange occurrences, which turn out to be each other. As the next term begins, Tetsuo converses with an invisible woman named Matsuri.\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 56,
+      "type": "anime",
+      "name": "A-1 Pictures",
+      "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Mythology",
+      "url": "https://myanimelist.net/anime/genre/6/Mythology"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/88769l.webp",
+  "trailer_url": null,
+  "id": 35823,
+  "slug": "demi-chan-wa-kataritai-demi-chan-no-natsuyasumi-dublado"
 }

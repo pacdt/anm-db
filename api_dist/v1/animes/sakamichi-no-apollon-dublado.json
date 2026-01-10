@@ -1,18 +1,74 @@
 {
-  "id": 12531,
-  "slug": "sakamichi-no-apollon-dublado",
-  "type": "dublado",
+  "mal_id": 12531,
+  "url": "https://myanimelist.net/anime/12531/Sakamichi_no_Apollon",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1604/98654.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/98654t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/98654l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1604/98654.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/98654t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/98654l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/fpJSOUCSWGI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Sakamichi no Apollon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sakamichi no Aporon"
+    },
+    {
+      "type": "Synonym",
+      "title": "Apollo on the Slope"
+    },
+    {
+      "type": "Japanese",
+      "title": "坂道のアポロン"
+    },
+    {
+      "type": "English",
+      "title": "Kids on the Slope"
+    },
+    {
+      "type": "German",
+      "title": "Kids on the Slope"
+    },
+    {
+      "type": "Spanish",
+      "title": "Kids on the Slope"
+    },
+    {
+      "type": "French",
+      "title": "Kids on the Slope"
+    }
+  ],
   "title": "Sakamichi no Apollon",
   "title_english": "Kids on the Slope",
   "title_japanese": "坂道のアポロン",
-  "image": "https://cdn.myanimelist.net/images/anime/1604/98654l.webp",
-  "score": 8.29,
-  "synopsis": "Introverted classical pianist and top student Kaoru Nishimi has just arrived in Kyushu for his first year of high school. Having constantly moved from place to place since his childhood, he abandons all hope of fitting in, preparing himself for another lonely, meaningless year. That is, until he encounters the notorious delinquent Sentarou Kawabuchi.\n\nSentarou's immeasurable love for jazz music inspires Kaoru to learn more about the genre, and as a result, he slowly starts to break out of his shell, making his very first friend. Kaoru begins playing the piano at after-school jazz sessions, located in the basement of fellow student Ritsuko Mukae's family-owned record shop. As he discovers the immense joy of using his musical talents to bring enjoyment to himself and others, Kaoru's summer might just crescendo into one that he will remember forever.\n\nSakamichi no Apollon is a heartwarming story of friendship, music, and love that follows three unique individuals brought together by their mutual appreciation for jazz.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/fpJSOUCSWGI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Sakamichi no Aporon",
+    "Apollo on the Slope"
   ],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +130,139 @@
       "url": "https://lightspeedst.net/s1/mp4/sakamichi-no-apollon-dublado/fhd/12.mp4",
       "nome": "All Blues"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-04-13T00:00:00+00:00",
+    "to": "2012-06-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 13,
+        "month": 4,
+        "year": 2012
+      },
+      "to": {
+        "day": 29,
+        "month": 6,
+        "year": 2012
+      }
+    },
+    "string": "Apr 13, 2012 to Jun 29, 2012"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.29,
+  "scored_by": 181036,
+  "rank": 316,
+  "popularity": 639,
+  "members": 411683,
+  "favorites": 7293,
+  "synopsis": "Introverted classical pianist and top student Kaoru Nishimi has just arrived in Kyushu for his first year of high school. Having constantly moved from place to place since his childhood, he abandons all hope of fitting in, preparing himself for another lonely, meaningless year. That is, until he encounters the notorious delinquent Sentarou Kawabuchi.\n\nSentarou's immeasurable love for jazz music inspires Kaoru to learn more about the genre, and as a result, he slowly starts to break out of his shell, making his very first friend. Kaoru begins playing the piano at after-school jazz sessions, located in the basement of fellow student Ritsuko Mukae's family-owned record shop. As he discovers the immense joy of using his musical talents to bring enjoyment to himself and others, Kaoru's summer might just crescendo into one that he will remember forever.\n\nSakamichi no Apollon is a heartwarming story of friendship, music, and love that follows three unique individuals brought together by their mutual appreciation for jazz.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 245,
+      "type": "anime",
+      "name": "TOHO",
+      "url": "https://myanimelist.net/anime/producer/245/TOHO"
+    },
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 200,
+      "type": "anime",
+      "name": "Tezuka Productions",
+      "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+    },
+    {
+      "mal_id": 569,
+      "type": "anime",
+      "name": "MAPPA",
+      "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+    }
+  ],
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 64,
+      "type": "anime",
+      "name": "Love Polygon",
+      "url": "https://myanimelist.net/anime/genre/64/Love_Polygon"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 43,
+      "type": "anime",
+      "name": "Josei",
+      "url": "https://myanimelist.net/anime/genre/43/Josei"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1604/98654l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/fpJSOUCSWGI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 12531,
+  "slug": "sakamichi-no-apollon-dublado"
 }

@@ -1,19 +1,57 @@
 {
-  "id": 14527,
-  "slug": "medaka-box-abnormal",
-  "type": "legendado",
+  "mal_id": 14527,
+  "url": "https://myanimelist.net/anime/14527/Medaka_Box_Abnormal",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/62919.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/62919t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/62919l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/62919.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/62919t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/62919l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/f_FfIGcsMF4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Medaka Box Abnormal"
+    },
+    {
+      "type": "Synonym",
+      "title": "Medaka Box 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "めだかボックス アブノーマル"
+    },
+    {
+      "type": "English",
+      "title": "Medaka Box Abnormal"
+    }
+  ],
   "title": "Medaka Box Abnormal",
   "title_english": "Medaka Box Abnormal",
   "title_japanese": "めだかボックス アブノーマル",
-  "image": "https://cdn.myanimelist.net/images/anime/11/62919l.webp",
-  "score": 7.38,
-  "synopsis": "After the defeat of Myouri Unzen at the hands of Medaka Kurokami and her Student Council, peace has returned to Hakoniwa Academy—at least, for a short while. Soon, Medaka, Zenkichi Hitoyoshi, Kouki  Akune, and Mogana Kikaijima find themselves wrapped up in another sinister scheme, known as the \"Flask Plan,\" led by the school's principal himself.\n\nHowever, the council's first problem is to deal with a whole new group of superhuman students calling themselves the \"Thirteen Party,\" led by the egotistical but powerful Oudo Miyakonojou. With the mysterious Flask Plan, Oudo's tyranny, and the resurfacing of an old enemy, the state of Hakoniwa Academy is far from tranquil, and Medaka and her companions have their hands full as things only get a lot more abnormal. \n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/f_FfIGcsMF4?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Comedy",
-    "Ecchi"
+  "title_synonyms": [
+    "Medaka Box 2"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +113,116 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwtPggm_va6Gh0gOROmbV0puTslZg6Ec0makXHUjRfIvt4bTGwIUO-U5_QIZ-7OwAHAsr7k50rkUDagGvSkjzEGrKfBwhIsYQI2KX1LRnG0Ns0noV5xgW4d2LIU-Dv60szL9lg",
       "nome": "Medaka Box Extra Volume: Good Loser Kumagawa"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-11T00:00:00+00:00",
+    "to": "2012-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2012
+      }
+    },
+    "string": "Oct 11, 2012 to Dec 27, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.38,
+  "scored_by": 75328,
+  "rank": 2563,
+  "popularity": 1710,
+  "members": 152073,
+  "favorites": 287,
+  "synopsis": "After the defeat of Myouri Unzen at the hands of Medaka Kurokami and her Student Council, peace has returned to Hakoniwa Academy—at least, for a short while. Soon, Medaka, Zenkichi Hitoyoshi, Kouki  Akune, and Mogana Kikaijima find themselves wrapped up in another sinister scheme, known as the \"Flask Plan,\" led by the school's principal himself.\n\nHowever, the council's first problem is to deal with a whole new group of superhuman students calling themselves the \"Thirteen Party,\" led by the egotistical but powerful Oudo Miyakonojou. With the mysterious Flask Plan, Oudo's tyranny, and the resurfacing of an old enemy, the state of Hakoniwa Academy is far from tranquil, and Medaka and her companions have their hands full as things only get a lot more abnormal. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 01:35 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 649,
+      "type": "anime",
+      "name": "Hakoniwa Academy Student Council",
+      "url": "https://myanimelist.net/anime/producer/649/Hakoniwa_Academy_Student_Council"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    },
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/62919l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/f_FfIGcsMF4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 14527,
+  "slug": "medaka-box-abnormal"
 }

@@ -1,18 +1,57 @@
 {
-  "id": 40834,
-  "slug": "ousama-ranking",
-  "type": "legendado",
+  "mal_id": 40834,
+  "url": "https://myanimelist.net/anime/40834/Ousama_Ranking",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1347/117616.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1347/117616t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1347/117616l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1347/117616.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1347/117616t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1347/117616l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/c1HHoucIxRg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ousama Ranking"
+    },
+    {
+      "type": "Synonym",
+      "title": "King Ranking"
+    },
+    {
+      "type": "Japanese",
+      "title": "王様ランキング"
+    },
+    {
+      "type": "English",
+      "title": "Ranking of Kings"
+    }
+  ],
   "title": "Ousama Ranking",
   "title_english": "Ranking of Kings",
   "title_japanese": "王様ランキング",
-  "image": "https://cdn.myanimelist.net/images/anime/1347/117616l.webp",
-  "score": 8.49,
-  "synopsis": "The people of the kingdom look down on the young Prince Bojji, who can neither hear nor speak. They call him \"The Useless Prince\" while jeering at his supposed foolishness.\n\nHowever, while Bojji may not be physically strong, he is certainly not weak of heart. When a chance encounter with a shadow creature should have left him traumatized, it instead makes him believe that he has found a friend amidst those who only choose to notice his shortcomings. He starts meeting with Kage, the shadow, regularly, to the point where even the otherwise abrasive creature begins to warm up to him.\n\nKage and Bojji's unlikely friendship lays the budding foundations of the prince's journey, one where he intends to conquer his fears and insecurities. Despite the constant ridicule he faces, Bojji resolves to fulfill his desire of becoming the best king he can be.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/c1HHoucIxRg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "King Ranking"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -129,5 +168,101 @@
       "url": "https://lightspeedst.net/s1/mp4/ousama-ranking/hd/23.mp4",
       "nome": "The King and the Sun"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2021-10-15T00:00:00+00:00",
+    "to": "2022-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 10,
+        "year": 2021
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2022
+      }
+    },
+    "string": "Oct 15, 2021 to Mar 25, 2022"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.49,
+  "scored_by": 389501,
+  "rank": 161,
+  "popularity": 306,
+  "members": 738140,
+  "favorites": 13648,
+  "synopsis": "The people of the kingdom look down on the young Prince Bojji, who can neither hear nor speak. They call him \"The Useless Prince\" while jeering at his supposed foolishness.\n\nHowever, while Bojji may not be physically strong, he is certainly not weak of heart. When a chance encounter with a shadow creature should have left him traumatized, it instead makes him believe that he has found a friend amidst those who only choose to notice his shortcomings. He starts meeting with Kage, the shadow, regularly, to the point where even the otherwise abrasive creature begins to warm up to him.\n\nKage and Bojji's unlikely friendship lays the budding foundations of the prince's journey, one where he intends to conquer his fears and insecurities. Despite the constant ridicule he faces, Bojji resolves to fulfill his desire of becoming the best king he can be.\n\n[Written by MAL Rewrite]",
+  "background": "The sign language depicted in Ousama Ranking is supervised by the Tokyo Foundation of the Deaf. The series was released on Blu-ray and DVD from January 12, 2022 to July 20, 2022.",
+  "season": "fall",
+  "year": 2021,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:55",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:55 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 169,
+      "type": "anime",
+      "name": "Fuji TV",
+      "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1992,
+      "type": "anime",
+      "name": "Bandai Spirits",
+      "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1347/117616l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/c1HHoucIxRg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40834,
+  "slug": "ousama-ranking"
 }

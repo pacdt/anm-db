@@ -1,15 +1,58 @@
 {
-  "id": 27737,
-  "slug": "battle-spirits-burning-soul",
-  "type": "legendado",
+  "mal_id": 27737,
+  "url": "https://myanimelist.net/anime/27737/Battle_Spirits__Burning_Soul",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1114/131733.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/131733t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/131733l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1114/131733.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1114/131733t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1114/131733l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/OgJ6MslEiuU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Battle Spirits: Burning Soul"
+    },
+    {
+      "type": "Synonym",
+      "title": "Battle Spirits 2015"
+    },
+    {
+      "type": "Synonym",
+      "title": "Battle Spirits Season 8"
+    },
+    {
+      "type": "Japanese",
+      "title": "バトルスピリッツ烈火魂〈バーニングソウル〉"
+    }
+  ],
   "title": "Battle Spirits: Burning Soul",
   "title_english": "Battle Spirits: Burning Soul",
   "title_japanese": "バトルスピリッツ烈火魂〈バーニングソウル〉",
-  "image": "https://cdn.myanimelist.net/images/anime/1114/131733l.webp",
-  "score": 6.7,
-  "synopsis": "In the near future, a battle card game called \"Battle Spirits\" has gained enormous popularity. Players of the game—known as \"Battlers\"—start duelings everywhere using their color-coded cards with different attributes, creating a \"Sengoku (Warring States) period\" for the game.\n\n(Source: ANN)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/OgJ6MslEiuU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [],
+  "title_synonyms": [
+    "Battle Spirits 2015",
+    "Battle Spirits Season 8"
+  ],
+  "type": "legendado",
+  "source": "Card game",
   "episodes": [
     {
       "numero": 1,
@@ -217,5 +260,67 @@
       "numero": 51,
       "url": "https://www.blogger.com/video.g?token=AD6v5dxVnXcfeOLbnDngQxlfoLRPWfwarfA2ZUIr9n09MzKa1Q1Xp8eTA8hlDfwVVZN1796mq6B2wmseU6rI-R-XSDzPCI8Sm5oTzlWssaeDK-la4ILT3Mb51suYITOkwE0tUdy7pQ"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-04-01T00:00:00+00:00",
+    "to": "2016-03-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2015
+      },
+      "to": {
+        "day": 30,
+        "month": 3,
+        "year": 2016
+      }
+    },
+    "string": "Apr 1, 2015 to Mar 30, 2016"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG - Children",
+  "score": 6.7,
+  "scored_by": 1798,
+  "rank": 6172,
+  "popularity": 9474,
+  "members": 4837,
+  "favorites": 20,
+  "synopsis": "In the near future, a battle card game called \"Battle Spirits\" has gained enormous popularity. Players of the game—known as \"Battlers\"—start duelings everywhere using their color-coded cards with different attributes, creating a \"Sengoku (Warring States) period\" for the game.\n\n(Source: ANN)",
+  "background": "",
+  "season": "spring",
+  "year": 2015,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:30 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1114/131733l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/OgJ6MslEiuU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 27737,
+  "slug": "battle-spirits-burning-soul"
 }

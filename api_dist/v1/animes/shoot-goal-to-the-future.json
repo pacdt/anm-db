@@ -1,17 +1,51 @@
 {
-  "id": 50379,
-  "slug": "shoot-goal-to-the-future",
-  "type": "legendado",
+  "mal_id": 50379,
+  "url": "https://myanimelist.net/anime/50379/Shoot_Goal_to_the_Future",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1587/124120.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1587/124120t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1587/124120l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1587/124120.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1587/124120t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1587/124120l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/vTCYrqTuoVU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shoot! Goal to the Future"
+    },
+    {
+      "type": "Japanese",
+      "title": "シュート! Goal to the Future"
+    },
+    {
+      "type": "English",
+      "title": "Shoot! Goal to the Future"
+    }
+  ],
   "title": "Shoot! Goal to the Future",
   "title_english": "Shoot! Goal to the Future",
   "title_japanese": "シュート! Goal to the Future",
-  "image": "https://cdn.myanimelist.net/images/anime/1587/124120l.webp",
-  "score": 5.3,
-  "synopsis": "Atsushi Kamiya is a former captain at Kakegawa High School and the world-renowned \"courageous captain\" for a famous Italian soccer team. Hideto Tsuji is a student at the same school, who seems uninterested in the now-weakened soccer team. Their meeting is the start of a new legend... \n\n(Source: Official Site, edited)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/vTCYrqTuoVU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -78,5 +112,149 @@
       "url": "https://lightspeedst.net/s4/mp4/shoot-goal-to-the-future/fhd/13.mp4",
       "nome": "Beginning"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-07-02T00:00:00+00:00",
+    "to": "2022-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2022
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2022
+      }
+    },
+    "string": "Jul 2, 2022 to Sep 24, 2022"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.3,
+  "scored_by": 6010,
+  "rank": 13311,
+  "popularity": 5562,
+  "members": 18452,
+  "favorites": 78,
+  "synopsis": "Atsushi Kamiya is a former captain at Kakegawa High School and the world-renowned \"courageous captain\" for a famous Italian soccer team. Hideto Tsuji is a student at the same school, who seems uninterested in the now-weakened soccer team. Their meeting is the start of a new legend... \n\n(Source: Official Site, edited)",
+  "background": "",
+  "season": "summer",
+  "year": 2022,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 843,
+      "type": "anime",
+      "name": "BS Fuji",
+      "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+    },
+    {
+      "mal_id": 1285,
+      "type": "anime",
+      "name": "Being",
+      "url": "https://myanimelist.net/anime/producer/1285/Being"
+    },
+    {
+      "mal_id": 1401,
+      "type": "anime",
+      "name": "Amusement Media Academy",
+      "url": "https://myanimelist.net/anime/producer/1401/Amusement_Media_Academy"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    },
+    {
+      "mal_id": 1614,
+      "type": "anime",
+      "name": "NTT Plala",
+      "url": "https://myanimelist.net/anime/producer/1614/NTT_Plala"
+    },
+    {
+      "mal_id": 1651,
+      "type": "anime",
+      "name": "Production Ace",
+      "url": "https://myanimelist.net/anime/producer/1651/Production_Ace"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 1996,
+      "type": "anime",
+      "name": "MAGNET",
+      "url": "https://myanimelist.net/anime/producer/1996/MAGNET"
+    },
+    {
+      "mal_id": 2015,
+      "type": "anime",
+      "name": "HoriPro International",
+      "url": "https://myanimelist.net/anime/producer/2015/HoriPro_International"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 207,
+      "type": "anime",
+      "name": "Magic Bus",
+      "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+    },
+    {
+      "mal_id": 1264,
+      "type": "anime",
+      "name": "EMT Squared",
+      "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1587/124120l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/vTCYrqTuoVU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50379,
+  "slug": "shoot-goal-to-the-future"
 }

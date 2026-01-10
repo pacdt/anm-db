@@ -1,17 +1,62 @@
 {
-  "id": 10497,
-  "slug": "hetalia-world-series-specials",
-  "type": "legendado",
+  "mal_id": 10497,
+  "url": "https://myanimelist.net/anime/10497/Hetalia_World_Series_Specials",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/28864.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/28864t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/28864l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/28864.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/28864t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/28864l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Hetalia World Series Specials"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hetalia World Series Extra Episodes"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hetalia=Fantasia"
+    },
+    {
+      "type": "Japanese",
+      "title": "ヘタリア World Series エクストラエピソード"
+    },
+    {
+      "type": "English",
+      "title": "Hetalia World Series Extra Episodes"
+    }
+  ],
   "title": "Hetalia World Series Specials",
   "title_english": "Hetalia World Series Extra Episodes",
   "title_japanese": "ヘタリア World Series エクストラエピソード",
-  "image": "https://cdn.myanimelist.net/images/anime/13/28864l.webp",
-  "score": 7.42,
-  "synopsis": "Extra episodes of Hetalia World Series. \n\nIncludes:\n- Hetalia Extra 1: Chatty Nordics\n- Hetalia Extra 2: Celebrating Halloween\n- Hetalia Extra 3: Previously in Hetalia\n- Hetalia Extra 4: Hetalia = Fantasia",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Hetalia World Series Extra Episodes",
+    "Hetalia=Fantasia"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -32,5 +77,89 @@
       "numero": 4,
       "url": "https://www.blogger.com/video.g?token=AD6v5dzOamxf3IftQFgHNIJLI8Oi0r4h6hRjOfw4Qp2YFJx9q5wDS0dRnaK4IySEsi71C-ZkOkOY0NTcpF5aI4_D-O3-L9CkbjQISHKZ-klNQRqWnWb1inM5CEYww5-gCM3ImKfSOw1o"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2011-03-25T00:00:00+00:00",
+    "to": "2012-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 25,
+        "month": 3,
+        "year": 2011
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2012
+      }
+    },
+    "string": "Mar 25, 2011 to Sep 24, 2012"
+  },
+  "duration": "5 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.42,
+  "scored_by": 11911,
+  "rank": 2405,
+  "popularity": 4902,
+  "members": 25244,
+  "favorites": 38,
+  "synopsis": "Extra episodes of Hetalia World Series. \n\nIncludes:\n- Hetalia Extra 1: Chatty Nordics\n- Hetalia Extra 2: Celebrating Halloween\n- Hetalia Extra 3: Previously in Hetalia\n- Hetalia Extra 4: Hetalia = Fantasia",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Frontier Works",
+      "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/13/28864l.webp",
+  "trailer_url": null,
+  "id": 10497,
+  "slug": "hetalia-world-series-specials"
 }

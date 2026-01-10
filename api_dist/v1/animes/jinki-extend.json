@@ -1,17 +1,62 @@
 {
-  "id": 848,
-  "slug": "jinki-extend",
-  "type": "legendado",
+  "mal_id": 848,
+  "url": "https://myanimelist.net/anime/848/Jinki_Extend_-_Sorekara",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/8506.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/8506t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/8506l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/8506.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/8506t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/8506l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Jinki:Extend - Sorekara"
+    },
+    {
+      "type": "Synonym",
+      "title": "Jinki:Extend Episode 13"
+    },
+    {
+      "type": "Synonym",
+      "title": "Jinki:Extend OVA"
+    },
+    {
+      "type": "Japanese",
+      "title": "ジンキ・エクステンド 第13話 「それから」"
+    },
+    {
+      "type": "English",
+      "title": "Jinki: Extend"
+    }
+  ],
   "title": "Jinki:Extend - Sorekara",
   "title_english": "Jinki: Extend",
   "title_japanese": "ジンキ・エクステンド 第13話 「それから」",
-  "image": "https://cdn.myanimelist.net/images/anime/9/8506l.webp",
-  "score": 6.07,
-  "synopsis": "Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets.",
-  "trailer_url": null,
-  "genres": [
-    "Sci-Fi"
+  "title_synonyms": [
+    "Jinki:Extend Episode 13",
+    "Jinki:Extend OVA"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -61,5 +106,102 @@
       "numero": 12,
       "url": "https://lightspeedst.net/s3/mp4/jinki-extend/sd/12.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-02-22T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 22,
+        "month": 2,
+        "year": 2006
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 22, 2006"
+  },
+  "duration": "23 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 6.07,
+  "scored_by": 1259,
+  "rank": 9973,
+  "popularity": 10679,
+  "members": 3334,
+  "favorites": 2,
+  "synopsis": "Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 721,
+      "type": "anime",
+      "name": "GANSIS",
+      "url": "https://myanimelist.net/anime/producer/721/GANSIS"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 91,
+      "type": "anime",
+      "name": "feel.",
+      "url": "https://myanimelist.net/anime/producer/91/feel"
+    }
+  ],
+  "genres": [
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/9/8506l.webp",
+  "trailer_url": null,
+  "id": 848,
+  "slug": "jinki-extend"
 }

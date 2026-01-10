@@ -1,21 +1,130 @@
 {
-  "id": 35118,
-  "slug": "bleach-colorful-gotei-juusan-yatai-daisakusen",
-  "type": "legendado",
+  "mal_id": 35118,
+  "url": "https://myanimelist.net/anime/35118/Bleach_KaraBuri__Gotei_Juusan_Yatai_Daisakusen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1826/137751.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1826/137751t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1826/137751l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1826/137751.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1826/137751t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1826/137751l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bleach KaraBuri!: Gotei Juusan Yatai Daisakusen!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bleach Jump Festa Anime Tour 2008"
+    },
+    {
+      "type": "Synonym",
+      "title": "Bleach Colorful!: Gotei Juusan Yatai Daisakusen!"
+    },
+    {
+      "type": "Japanese",
+      "title": "BLEACH カラブリ！護廷十三屋台大作戦！"
+    },
+    {
+      "type": "English",
+      "title": "Bleach: Karaburi! - Gotei 13, Food Stall Devotion!"
+    }
+  ],
   "title": "Bleach KaraBuri!: Gotei Juusan Yatai Daisakusen!",
   "title_english": "Bleach: Karaburi! - Gotei 13, Food Stall Devotion!",
   "title_japanese": "BLEACH カラブリ！護廷十三屋台大作戦！",
-  "image": "https://cdn.myanimelist.net/images/anime/1826/137751l.webp",
-  "score": 6.61,
-  "synopsis": "An animated adaptation of several chapters of Colourful Bleach. Release with the \"TV Animation BLEACH 5th Anniversary Box.\"",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
+  "title_synonyms": [
+    "Bleach Jump Festa Anime Tour 2008",
+    "Bleach Colorful!: Gotei Juusan Yatai Daisakusen!"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://www.blogger.com/video.g?token=AD6v5dy2T0Bn25zlh5w11wsvaiiLDrryyI2XVjl2ibOVelZFbbNNUL57m21QFOvBee6bUfwx_S_YHcwfq2mojJ2_1hXfjMlsCIT6DoIIJGQifRtbpSq_dnN6oIZA7tKKbsJuWHVXMOAK"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2008-09-21T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 9,
+        "year": 2008
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 21, 2008"
+  },
+  "duration": "12 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.61,
+  "scored_by": 7691,
+  "rank": 6741,
+  "popularity": 5284,
+  "members": 21162,
+  "favorites": 45,
+  "synopsis": "An animated adaptation of several chapters of Colourful Bleach. Release with the \"TV Animation BLEACH 5th Anniversary Box.\"",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Studio Pierrot",
+      "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1826/137751l.webp",
+  "trailer_url": null,
+  "id": 35118,
+  "slug": "bleach-colorful-gotei-juusan-yatai-daisakusen"
 }

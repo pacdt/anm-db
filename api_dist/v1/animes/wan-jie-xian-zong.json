@@ -1,20 +1,62 @@
 {
-  "id": 37937,
-  "slug": "wan-jie-xian-zong",
-  "type": "legendado",
+  "mal_id": 37937,
+  "url": "https://myanimelist.net/anime/37937/Wan_Jie_Xian_Zong",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1735/93070.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1735/93070t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1735/93070l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1735/93070.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1735/93070t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1735/93070l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Wan Jie Xian Zong"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wanjie Xianzong"
+    },
+    {
+      "type": "Synonym",
+      "title": "Wonderland"
+    },
+    {
+      "type": "Japanese",
+      "title": "万界仙踪"
+    },
+    {
+      "type": "English",
+      "title": "The Wonderland of Ten Thousands"
+    }
+  ],
   "title": "Wan Jie Xian Zong",
   "title_english": "The Wonderland of Ten Thousands",
   "title_japanese": "万界仙踪",
-  "image": "https://cdn.myanimelist.net/images/anime/1735/93070l.webp",
-  "score": 7.27,
-  "synopsis": "Ye Xingyu'’s master Yu Huanxian went and left a giant Tianyuan Shenzong. Ye Xingyun became the new leader of the Tianyuan Shenzong. At the same time, the civet cat exchanged Prince Edward’s method and became a child of a small family, hidden in it, waiting for revenge. Opportunity. Ye Xingyun embarked on a very dangerous road, but with his own strategy, and Tianyuan Shenzong masters of all the help of experts, vertical and horizontal tactics, strategizing, against the huge Grand Dynasty. \n\n(Sorce: Anilist)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Romance"
+  "title_synonyms": [
+    "Wanjie Xianzong",
+    "Wonderland"
   ],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
@@ -389,5 +431,85 @@
       "numero": 90,
       "url": "https://www.blogger.com/video.g?token=AD6v5dyqS43lYKy8FtW3EiotCD8a0ecdILFMJ1CjeCN8jb-m02Me9HKq43_mMQTwdqDWvVQuQy8YXQbcgB1PTGnwRmuINyOeKODj1A8OUS4yBmK0oJNe6iJKAcGRpuyCZTrRIco1ytRA"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-03-21T00:00:00+00:00",
+    "to": "2018-07-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 3,
+        "year": 2018
+      },
+      "to": {
+        "day": 28,
+        "month": 7,
+        "year": 2018
+      }
+    },
+    "string": "Mar 21, 2018 to Jul 28, 2018"
+  },
+  "duration": "7 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.27,
+  "scored_by": 2072,
+  "rank": 3116,
+  "popularity": 9127,
+  "members": 5362,
+  "favorites": 34,
+  "synopsis": "Ye Xingyu'’s master Yu Huanxian went and left a giant Tianyuan Shenzong. Ye Xingyun became the new leader of the Tianyuan Shenzong. At the same time, the civet cat exchanged Prince Edward’s method and became a child of a small family, hidden in it, waiting for revenge. Opportunity. Ye Xingyun embarked on a very dangerous road, but with his own strategy, and Tianyuan Shenzong masters of all the help of experts, vertical and horizontal tactics, strategizing, against the huge Grand Dynasty. \n\n(Sorce: Anilist)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2042,
+      "type": "anime",
+      "name": "Ruo Hong Culture",
+      "url": "https://myanimelist.net/anime/producer/2042/Ruo_Hong_Culture"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Martial Arts",
+      "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1735/93070l.webp",
+  "trailer_url": null,
+  "id": 37937,
+  "slug": "wan-jie-xian-zong"
 }

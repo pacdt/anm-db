@@ -1,20 +1,51 @@
 {
-  "id": 63,
-  "slug": "dears",
-  "type": "legendado",
+  "mal_id": 63,
+  "url": "https://myanimelist.net/anime/63/DearS",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1207/98872.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1207/98872t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1207/98872l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1207/98872.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1207/98872t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1207/98872l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "DearS"
+    },
+    {
+      "type": "Japanese",
+      "title": "ディアーズ"
+    },
+    {
+      "type": "English",
+      "title": "DearS"
+    }
+  ],
   "title": "DearS",
   "title_english": "DearS",
   "title_japanese": "ディアーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1207/98872l.webp",
-  "score": 6.54,
-  "synopsis": "One year ago, a UFO containing 150 aliens crash-landed off the shores of Kasai. Because no one could fix their ship, the Japanese Government decided to bestow upon them the designation \"DearS\" and make them into Japanese citizens, teaching them the language, customs, and culture of Japan. However, in order for them to become more familiar with human society, a home-stay program has been enacted to allow them to mingle with other humans.\n\nOne misty morning, a truck carrying a capsule that housed one of these aliens ends up dropping it into the riverbank, releasing her from her confinement. She is eventually found by a high school student named Takeya Ikuhara, who saves her from being hit by a truck and takes pity on her, despite being extremely distrustful of their race and wanting nothing to do with them. Upon being named Ren, she imprints upon him as her \"Master\" and serves as his personal \"Slave,\" leaving him with a \"DearS\" who wants to remain with him no matter what and bringing his ordinary, alien-free days to an end.",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Romance",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +107,117 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dwwLT_MopvXStM09sZXaZyS5SQg433-H4qDjgjepAg3ao-ZOZQCgk9jK-L5VM7nO1CBYVx8qQq6-OopR7dVRROkoA3XQBoH76MhYwx4J85rx2NMY6CsCF5XqX1pudTCq-1ELrlG",
       "nome": "...... Besides, It Was Hot"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-07-11T00:00:00+00:00",
+    "to": "2004-09-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 7,
+        "year": 2004
+      },
+      "to": {
+        "day": 26,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Jul 11, 2004 to Sep 26, 2004"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.54,
+  "scored_by": 82041,
+  "rank": 7112,
+  "popularity": 1684,
+  "members": 155711,
+  "favorites": 366,
+  "synopsis": "One year ago, a UFO containing 150 aliens crash-landed off the shores of Kasai. Because no one could fix their ship, the Japanese Government decided to bestow upon them the designation \"DearS\" and make them into Japanese citizens, teaching them the language, customs, and culture of Japan. However, in order for them to become more familiar with human society, a home-stay program has been enacted to allow them to mingle with other humans.\n\nOne misty morning, a truck carrying a capsule that housed one of these aliens ends up dropping it into the riverbank, releasing her from her confinement. She is eventually found by a high school student named Takeya Ikuhara, who saves her from being hit by a truck and takes pity on her, despite being extremely distrustful of their race and wanting nothing to do with them. Upon being named Ren, she imprints upon him as her \"Master\" and serves as his personal \"Slave,\" leaving him with a \"DearS\" who wants to remain with him no matter what and bringing his ordinary, alien-free days to an end.",
+  "background": "",
+  "season": "summer",
+  "year": 2004,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 34,
+      "type": "anime",
+      "name": "HAL Film Maker",
+      "url": "https://myanimelist.net/anime/producer/34/HAL_Film_Maker"
+    },
+    {
+      "mal_id": 79,
+      "type": "anime",
+      "name": "Genco",
+      "url": "https://myanimelist.net/anime/producer/79/Genco"
+    },
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 467,
+      "type": "anime",
+      "name": "Discotek Media",
+      "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+    },
+    {
+      "mal_id": 1459,
+      "type": "anime",
+      "name": "Geneon Entertainment USA",
+      "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Daume",
+      "url": "https://myanimelist.net/anime/producer/39/Daume"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1207/98872l.webp",
+  "trailer_url": null,
+  "id": 63,
+  "slug": "dears"
 }

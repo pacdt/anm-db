@@ -1,18 +1,62 @@
 {
-  "id": 47158,
-  "slug": "tomodachi-no-imouto-ga-ore-ni-dake-uzai",
-  "type": "legendado",
+  "mal_id": 47158,
+  "url": "https://myanimelist.net/anime/47158/Tomodachi_no_Imouto_ga_Ore_ni_dake_Uzai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1699/151694.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/151694t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/151694l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1699/151694.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/151694t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/151694l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/s8ihe-Mb1Po?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tomodachi no Imouto ga Ore ni dake Uzai"
+    },
+    {
+      "type": "Synonym",
+      "title": "My friend's sister annoying only me."
+    },
+    {
+      "type": "Synonym",
+      "title": "Imouza"
+    },
+    {
+      "type": "Japanese",
+      "title": "友達の妹が俺にだけウザい"
+    },
+    {
+      "type": "English",
+      "title": "My Friend's Little Sister Has It In for Me!"
+    }
+  ],
   "title": "Tomodachi no Imouto ga Ore ni dake Uzai",
   "title_english": "My Friend's Little Sister Has It In for Me!",
   "title_japanese": "友達の妹が俺にだけウザい",
-  "image": "https://cdn.myanimelist.net/images/anime/1699/151694l.webp",
-  "score": 6.52,
-  "synopsis": "If a girl teases you, that means she likes you!\n\nUnfortunately, Akiteru knows from experience that isn't the case. Because every girl he interacts with shows him nothing but scorn, and he's not scored a single date from it! Luckily, he's more concerned with securing a spot for him and his game-development buddies at his uncle's business.\n\nBut when his uncle throws him a condition that involves playing the part of his daughter's boyfriend, Akiteru has no choice but to take it. What will his best friend's sister Iroha, who bullies him relentlessly, think of the news? \n\n(Source: J-Novel Club)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/s8ihe-Mb1Po?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Romance"
+  "title_synonyms": [
+    "My friend's sister annoying only me.",
+    "Imouza"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -74,5 +118,131 @@
       "url": "https://lightspeedst.net/s2/mp4_temp/tomodachi-no-imouto-ga-ore-ni-dake-uzai/12/720p.mp4",
       "nome": "My Friend's Little Sister Really Does Have It in for Me"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2025-10-05T00:00:00+00:00",
+    "to": "2025-12-21T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2025
+      },
+      "to": {
+        "day": 21,
+        "month": 12,
+        "year": 2025
+      }
+    },
+    "string": "Oct 5, 2025 to Dec 21, 2025"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.52,
+  "scored_by": 19478,
+  "rank": 7261,
+  "popularity": 2383,
+  "members": 97140,
+  "favorites": 431,
+  "synopsis": "If a girl teases you, that means she likes you!\n\nUnfortunately, Akiteru knows from experience that isn't the case. Because every girl he interacts with shows him nothing but scorn, and he's not scored a single date from it! Luckily, he's more concerned with securing a spot for him and his game-development buddies at his uncle's business.\n\nBut when his uncle throws him a condition that involves playing the part of his daughter's boyfriend, Akiteru has no choice but to take it. What will his best friend's sister Iroha, who bullies him relentlessly, think of the news? \n\n(Source: J-Novel Club)",
+  "background": "Tomodachi no Imouto ga Ore ni dake Uzai aired on TV Asahi's NUMAnimation block.",
+  "season": "fall",
+  "year": 2025,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "01:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 01:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 517,
+      "type": "anime",
+      "name": "Asmik Ace",
+      "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    },
+    {
+      "mal_id": 1416,
+      "type": "anime",
+      "name": "BS11",
+      "url": "https://myanimelist.net/anime/producer/1416/BS11"
+    },
+    {
+      "mal_id": 1517,
+      "type": "anime",
+      "name": "Jinnan Studio",
+      "url": "https://myanimelist.net/anime/producer/1517/Jinnan_Studio"
+    },
+    {
+      "mal_id": 1585,
+      "type": "anime",
+      "name": "Nichion",
+      "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+    },
+    {
+      "mal_id": 2111,
+      "type": "anime",
+      "name": "Pia",
+      "url": "https://myanimelist.net/anime/producer/2111/Pia"
+    },
+    {
+      "mal_id": 2117,
+      "type": "anime",
+      "name": "SB Creative",
+      "url": "https://myanimelist.net/anime/producer/2117/SB_Creative"
+    },
+    {
+      "mal_id": 2234,
+      "type": "anime",
+      "name": "TV Asahi Music",
+      "url": "https://myanimelist.net/anime/producer/2234/TV_Asahi_Music"
+    },
+    {
+      "mal_id": 3106,
+      "type": "anime",
+      "name": "NK Animation",
+      "url": "https://myanimelist.net/anime/producer/3106/NK_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1547,
+      "type": "anime",
+      "name": "Blade",
+      "url": "https://myanimelist.net/anime/producer/1547/Blade"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1699/151694l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/s8ihe-Mb1Po?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 47158,
+  "slug": "tomodachi-no-imouto-ga-ore-ni-dake-uzai"
 }

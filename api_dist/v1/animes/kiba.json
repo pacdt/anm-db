@@ -1,19 +1,57 @@
 {
-  "id": 845,
-  "slug": "kiba",
-  "type": "legendado",
+  "mal_id": 845,
+  "url": "https://myanimelist.net/anime/845/Kiba",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1522/114250.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/114250t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/114250l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1522/114250.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/114250t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/114250l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kiba"
+    },
+    {
+      "type": "Synonym",
+      "title": "Fang"
+    },
+    {
+      "type": "Japanese",
+      "title": "牙-KIBA-"
+    },
+    {
+      "type": "English",
+      "title": "Kiba"
+    }
+  ],
   "title": "Kiba",
   "title_english": "Kiba",
   "title_japanese": "牙-KIBA-",
-  "image": "https://cdn.myanimelist.net/images/anime/1522/114250l.webp",
-  "score": 7.28,
-  "synopsis": "In a dystopian future, two friends dream of freedom... and gain more than they bargain for! Hothead Zed is on the run from the authorities, while his brainy pal Noah struggles with his own battered body. Both find a magical world that seems to offer escape and power undreamed of. Join Zed and his powerful, rebellious spirit Amir Gaul on their search for the ultimate power. It's a force that can save the world—or destroy life as we know it. This is the world of KIBA! Where you must harness the power within and fight with all you got!\n\n(Source: RightStuf)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Fang"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -270,5 +308,115 @@
       "url": "https://lightspeedst.net/s3/mp4/kiba/sd/51.mp4",
       "nome": "To Where the Wind Blows"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2006-04-02T00:00:00+00:00",
+    "to": "2007-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2006
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2007
+      }
+    },
+    "string": "Apr 2, 2006 to Mar 25, 2007"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.28,
+  "scored_by": 34267,
+  "rank": 3066,
+  "popularity": 2651,
+  "members": 82064,
+  "favorites": 461,
+  "synopsis": "In a dystopian future, two friends dream of freedom... and gain more than they bargain for! Hothead Zed is on the run from the authorities, while his brainy pal Noah struggles with his own battered body. Both find a magical world that seems to offer escape and power undreamed of. Join Zed and his powerful, rebellious spirit Amir Gaul on their search for the ultimate power. It's a force that can save the world—or destroy life as we know it. This is the world of KIBA! Where you must harness the power within and fight with all you got!\n\n(Source: RightStuf)",
+  "background": "",
+  "season": "spring",
+  "year": 2006,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "08:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 08:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    },
+    {
+      "mal_id": 3172,
+      "type": "anime",
+      "name": "Arts Pro",
+      "url": "https://myanimelist.net/anime/producer/3172/Arts_Pro"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    },
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1522/114250l.webp",
+  "trailer_url": null,
+  "id": 845,
+  "slug": "kiba"
 }

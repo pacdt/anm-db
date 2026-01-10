@@ -1,19 +1,61 @@
 {
-  "id": 7674,
-  "slug": "bakuman",
-  "type": "legendado",
+  "mal_id": 7674,
+  "url": "https://myanimelist.net/anime/7674/Bakuman",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/26138.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/26138t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/26138l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/26138.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/26138t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/26138l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KB7QDax8PtY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bakuman."
+    },
+    {
+      "type": "Synonym",
+      "title": "Bakuman Season 1"
+    },
+    {
+      "type": "Japanese",
+      "title": "バクマン。"
+    },
+    {
+      "type": "English",
+      "title": "Bakuman."
+    },
+    {
+      "type": "German",
+      "title": "Bakuman"
+    }
+  ],
   "title": "Bakuman.",
   "title_english": "Bakuman.",
   "title_japanese": "バクマン。",
-  "image": "https://cdn.myanimelist.net/images/anime/6/26138l.webp",
-  "score": 8.17,
-  "synopsis": "As a child, Moritaka Mashiro dreamt of becoming a mangaka, just like his childhood hero and uncle, Tarou Kawaguchi, creator of a popular gag manga. But when tragedy strikes, he gives up on his dream and spends his middle school days studying, aiming to become a salaryman instead.\n\nOne day, his classmate Akito Takagi, the school's top student and aspiring writer, notices the detailed drawings in Moritaka's notebook. Seeing the vast potential of his artistic talent, Akito approaches Moritaka, proposing that they become mangaka together. After much convincing, Moritaka realizes that if he is able to create a popular manga series, he may be able to get the girl he has a crush on, Miho Azuki, to take part in the anime adaptation as a voice actor. Thus the pair begins creating manga under the pen name Muto Ashirogi, hoping to become the greatest mangaka in Japan, the likes of which no one has ever seen.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/KB7QDax8PtY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
+  "title_synonyms": [
+    "Bakuman Season 1"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -140,5 +182,98 @@
       "url": "https://lightspeedst.net/s3/mp4/bakuman/sd/25.mp4",
       "nome": "Yay and Nay"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2010-10-02T00:00:00+00:00",
+    "to": "2011-04-02T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2010
+      },
+      "to": {
+        "day": 2,
+        "month": 4,
+        "year": 2011
+      }
+    },
+    "string": "Oct 2, 2010 to Apr 2, 2011"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.17,
+  "scored_by": 308698,
+  "rank": 467,
+  "popularity": 369,
+  "members": 651471,
+  "favorites": 9599,
+  "synopsis": "As a child, Moritaka Mashiro dreamt of becoming a mangaka, just like his childhood hero and uncle, Tarou Kawaguchi, creator of a popular gag manga. But when tragedy strikes, he gives up on his dream and spends his middle school days studying, aiming to become a salaryman instead.\n\nOne day, his classmate Akito Takagi, the school's top student and aspiring writer, notices the detailed drawings in Moritaka's notebook. Seeing the vast potential of his artistic talent, Akito approaches Moritaka, proposing that they become mangaka together. After much convincing, Moritaka realizes that if he is able to create a popular manga series, he may be able to get the girl he has a crush on, Miho Azuki, to take part in the anime adaptation as a voice actor. Thus the pair begins creating manga under the pen name Muto Ashirogi, hoping to become the greatest mangaka in Japan, the likes of which no one has ever seen.\n\n[Written by MAL Rewrite]",
+  "background": "Bakuman. was licensed by Media Blasters in North America, but only released one 2-disc DVD containing the first 7 episodes, the rest of the releases were cancelled.",
+  "season": "fall",
+  "year": 2010,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "18:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 18:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 250,
+      "type": "anime",
+      "name": "Media Blasters",
+      "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/6/26138l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/KB7QDax8PtY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 7674,
+  "slug": "bakuman"
 }

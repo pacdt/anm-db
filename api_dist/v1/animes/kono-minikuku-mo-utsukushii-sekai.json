@@ -1,21 +1,51 @@
 {
-  "id": 146,
-  "slug": "kono-minikuku-mo-utsukushii-sekai",
-  "type": "legendado",
+  "mal_id": 146,
+  "url": "https://myanimelist.net/anime/146/Kono_Minikuku_mo_Utsukushii_Sekai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/21035.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/21035t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/21035l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/21035.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/21035t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/21035l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kono Minikuku mo Utsukushii Sekai"
+    },
+    {
+      "type": "Japanese",
+      "title": "この醜くも美しい世界"
+    },
+    {
+      "type": "English",
+      "title": "This Ugly Yet Beautiful World"
+    }
+  ],
   "title": "Kono Minikuku mo Utsukushii Sekai",
   "title_english": "This Ugly Yet Beautiful World",
   "title_japanese": "この醜くも美しい世界",
-  "image": "https://cdn.myanimelist.net/images/anime/10/21035l.webp",
-  "score": 6.69,
-  "synopsis": "High school student Takeru Takemoto works part time as a (motor)bike courier. During one of his deliveries, he saw a mysterious light passing him and fell into a forest. What he had found was a beautiful girl coming out from a glowing cocoon, calling herself \"Hikari.\" While Takeru was quite embarrassed because of Hikari's nudity, a strange monster suddenly showed up and immediately attacked the two. Both Takeru and Hikari demonstrated the power of their other selves before Takeru had a clue of what's going on.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Comedy",
-    "Drama",
-    "Romance",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -77,5 +107,104 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dz6oaTes0ytJmJnssWiO23x1xUzAjx2GuV2fcG56DBGSXZ4XZVgc3jAJP94dW2NKroAcbpTVvYO56-2xJ3-Q8gNKCeFbfg7SkBUgfGb829xENSfrb6W0P0rOFfenr0wOke6FZwJ",
       "nome": "The Song of My Heart"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2004-04-02T00:00:00+00:00",
+    "to": "2004-06-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 18,
+        "month": 6,
+        "year": 2004
+      }
+    },
+    "string": "Apr 2, 2004 to Jun 18, 2004"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.69,
+  "scored_by": 29640,
+  "rank": 6217,
+  "popularity": 3054,
+  "members": 64179,
+  "favorites": 163,
+  "synopsis": "High school student Takeru Takemoto works part time as a (motor)bike courier. During one of his deliveries, he saw a mysterious light passing him and fell into a forest. What he had found was a beautiful girl coming out from a glowing cocoon, calling herself \"Hikari.\" While Takeru was quite embarrassed because of Hikari's nudity, a strange monster suddenly showed up and immediately attacked the two. Both Takeru and Hikari demonstrated the power of their other selves before Takeru had a clue of what's going on.\n\n(Source: ANN)",
+  "background": "This is Gainax's 20th anniversary work.",
+  "season": "spring",
+  "year": 2004,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 160,
+      "type": "anime",
+      "name": "Rondo Robe",
+      "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 2956,
+      "type": "anime",
+      "name": "Geneon Entertainment",
+      "url": "https://myanimelist.net/anime/producer/2956/Geneon_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 6,
+      "type": "anime",
+      "name": "Gainax",
+      "url": "https://myanimelist.net/anime/producer/6/Gainax"
+    },
+    {
+      "mal_id": 44,
+      "type": "anime",
+      "name": "Shaft",
+      "url": "https://myanimelist.net/anime/producer/44/Shaft"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/10/21035l.webp",
+  "trailer_url": null,
+  "id": 146,
+  "slug": "kono-minikuku-mo-utsukushii-sekai"
 }

@@ -1,19 +1,63 @@
 {
-  "id": 37232,
-  "slug": "merc-storia-mukiryoku-no-shounen-to-bin-no-naka-no-shoujo",
-  "type": "legendado",
+  "mal_id": 37232,
+  "url": "https://myanimelist.net/anime/37232/Merc_Storia__Mukiryoku_no_Shounen_to_Bin_no_Naka_no_Shoujo",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1394/95704.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1394/95704t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1394/95704l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1394/95704.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1394/95704t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1394/95704l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/sZos09X8c1o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Merc Storia: Mukiryoku no Shounen to Bin no Naka no Shoujo"
+    },
+    {
+      "type": "Japanese",
+      "title": "メルクストーリア -無気力少年と瓶の中の少女-"
+    },
+    {
+      "type": "English",
+      "title": "Merc Storia: The Apathetic Boy and the Girl in a Bottle"
+    },
+    {
+      "type": "German",
+      "title": "Merc StoriA: The Apathetic Boy and the Girl in a Bottle"
+    },
+    {
+      "type": "Spanish",
+      "title": "Merc Storia: The Apathetic Boy and the Girl in a Bottle"
+    },
+    {
+      "type": "French",
+      "title": "Merc StoriA: The Apathetic Boy and the Girl in a Bottle"
+    }
+  ],
   "title": "Merc Storia: Mukiryoku no Shounen to Bin no Naka no Shoujo",
   "title_english": "Merc Storia: The Apathetic Boy and the Girl in a Bottle",
   "title_japanese": "メルクストーリア -無気力少年と瓶の中の少女-",
-  "image": "https://cdn.myanimelist.net/images/anime/1394/95704l.webp",
-  "score": 6.5,
-  "synopsis": "Merc Storia takes places in a world where humans and monsters coexist. The protagonist, Yuu, is a healer apprentice and possesses the ability to tame monsters. In a quest to regain the memories of Merc, a girl confined in a bottle, the pair embarks on a journey.\n\n(Source: MAL News)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/sZos09X8c1o?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +119,71 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dyD946O5IWWtVNY93lJJgxRhoGVb8dqmNKS0brtk0nHws26aTYtXbZt17hOPOQeTZK8emyMTV7zmQmieD5fOA7-Gw5tHtaHfDypdCaHivISSbaHV1fdBFd4DP2GUUlavoqnuaM",
       "nome": "The Healer and the Friend in the Bottle"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-10-11T00:00:00+00:00",
+    "to": "2018-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 10,
+        "year": 2018
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2018
+      }
+    },
+    "string": "Oct 11, 2018 to Dec 27, 2018"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.5,
+  "scored_by": 9747,
+  "rank": 7407,
+  "popularity": 4354,
+  "members": 33019,
+  "favorites": 49,
+  "synopsis": "Merc Storia takes places in a world where humans and monsters coexist. The protagonist, Yuu, is a healer apprentice and possesses the ability to tame monsters. In a quest to regain the memories of Merc, a girl confined in a bottle, the pair embarks on a journey.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "fall",
+  "year": 2018,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1793,
+      "type": "anime",
+      "name": "Happy Elements",
+      "url": "https://myanimelist.net/anime/producer/1793/Happy_Elements"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 354,
+      "type": "anime",
+      "name": "Encourage Films",
+      "url": "https://myanimelist.net/anime/producer/354/Encourage_Films"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1394/95704l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/sZos09X8c1o?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 37232,
+  "slug": "merc-storia-mukiryoku-no-shounen-to-bin-no-naka-no-shoujo"
 }

@@ -1,20 +1,59 @@
 {
-  "id": 321,
-  "slug": "najica-dengeki-sakusen",
-  "type": "legendado",
+  "mal_id": 321,
+  "url": "https://myanimelist.net/anime/321/Najica_Dengeki_Sakusen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/22210.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/22210t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/22210l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/22210.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/22210t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/22210l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Najica Dengeki Sakusen"
+    },
+    {
+      "type": "Japanese",
+      "title": "ナジカ電撃作戦"
+    },
+    {
+      "type": "English",
+      "title": "Najica Blitz Tactics"
+    },
+    {
+      "type": "German",
+      "title": "Najica Blitz Tactics"
+    },
+    {
+      "type": "French",
+      "title": "Najica Blitz Tactics"
+    }
+  ],
   "title": "Najica Dengeki Sakusen",
   "title_english": "Najica Blitz Tactics",
   "title_japanese": "ナジカ電撃作戦",
-  "image": "https://cdn.myanimelist.net/images/anime/11/22210l.webp",
-  "score": 5.96,
-  "synopsis": "Najica Hiiragi, perfumer and secret agent, is sent out on a number of recovery missions to round up rogue humaritts, androids with combat abilities. Najica is assigned a humaritt partner, Lila, whom Najica is to groom as an agent and receive assistance from along the way. As Najica grows to accept Lila, each new mission they embark on reveals more and more about the capabilities and mysterious origins of the humaritts.\n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Action",
-    "Comedy",
-    "Sci-Fi",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -76,5 +115,97 @@
       "url": "https://lightspeedst.net/s3/mp4/najica-dengeki-sakusen/sd/12.mp4",
       "nome": "A Splendid Agent has the Rose of the Encounter in the Mind"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2001-10-05T00:00:00+00:00",
+    "to": "2001-12-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2001
+      },
+      "to": {
+        "day": 27,
+        "month": 12,
+        "year": 2001
+      }
+    },
+    "string": "Oct 5, 2001 to Dec 27, 2001"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.96,
+  "scored_by": 6798,
+  "rank": 10612,
+  "popularity": 5775,
+  "members": 16702,
+  "favorites": 17,
+  "synopsis": "Najica Hiiragi, perfumer and secret agent, is sent out on a number of recovery missions to round up rogue humaritts, androids with combat abilities. Najica is assigned a humaritt partner, Lila, whom Najica is to groom as an agent and receive assistance from along the way. As Najica grows to accept Lila, each new mission they embark on reveals more and more about the capabilities and mysterious origins of the humaritts.\n\n(Source: ANN)",
+  "background": "",
+  "season": "fall",
+  "year": 2001,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:40",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:40 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "GDH",
+      "url": "https://myanimelist.net/anime/producer/42/GDH"
+    },
+    {
+      "mal_id": 108,
+      "type": "anime",
+      "name": "Media Factory",
+      "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+    },
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 97,
+      "type": "anime",
+      "name": "ADV Films",
+      "url": "https://myanimelist.net/anime/producer/97/ADV_Films"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Studio Fantasia",
+      "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+    },
+    {
+      "mal_id": 827,
+      "type": "anime",
+      "name": "Amber Film Works",
+      "url": "https://myanimelist.net/anime/producer/827/Amber_Film_Works"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/11/22210l.webp",
+  "trailer_url": null,
+  "id": 321,
+  "slug": "najica-dengeki-sakusen"
 }

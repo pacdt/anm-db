@@ -1,24 +1,139 @@
 {
-  "id": 61983,
-  "slug": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
-  "type": "legendado",
+  "mal_id": 61983,
+  "url": "https://myanimelist.net/anime/61983/Yuusha_Party_ni_Kawaii_Ko_ga_Ita_node_Kokuhaku_shitemita",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1573/152828.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1573/152828t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1573/152828l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1573/152828.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1573/152828t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1573/152828l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/EIlO6O5W2Ag?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita."
+    },
+    {
+      "type": "Synonym",
+      "title": "Yuukawa"
+    },
+    {
+      "type": "Synonym",
+      "title": "There was a Cute Girl in the Hero's Party so I tried Confessing"
+    },
+    {
+      "type": "Japanese",
+      "title": "勇者パーティーにかわいい子がいたので、告白してみた。"
+    },
+    {
+      "type": "English",
+      "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her"
+    }
+  ],
   "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
   "title_english": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
   "title_japanese": "勇者パーティーにかわいい子がいたので、告白してみた。",
-  "image": "https://cdn.myanimelist.net/images/anime/1573/152828l.webp",
+  "title_synonyms": [
+    "Yuukawa",
+    "There was a Cute Girl in the Hero's Party so I tried Confessing"
+  ],
+  "type": "legendado",
+  "source": "Manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4_temp/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita/1/720p.mp4"
+    }
+  ],
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-06T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 6, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
   "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 5493,
+  "members": 19125,
+  "favorites": 72,
   "synopsis": "Youki died in a traffic accident and was reborn in a fantasy world! However, instead of being the hero of legends, he ended up reincarnating into an overpowered demon. Having no desires to become the Demon Lord, he sits around in the Demon Lord's castle as a random low rank guardian. One day, the Hero's party comes to attack and on a whim he knocks out the entire hero party. Healing up the Hero party and then preparing to send them back to town, he notices the female priest and falls in love at first sight!\n\n(Source: MU)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/EIlO6O5W2Ag?enablejsapi=1&wmode=opaque&autoplay=1",
+  "background": "",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2554,
+      "type": "anime",
+      "name": "Gekkou",
+      "url": "https://myanimelist.net/anime/producer/2554/Gekkou"
+    }
+  ],
   "genres": [
     "Adventure",
     "Comedy",
     "Fantasy",
     "Romance"
   ],
-  "episodes": [
+  "explicit_genres": [],
+  "themes": [
     {
-      "numero": 1,
-      "url": "https://lightspeedst.net/s2/mp4_temp/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita/1/720p.mp4"
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
     }
-  ]
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1573/152828l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/EIlO6O5W2Ag?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 61983,
+  "slug": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita"
 }

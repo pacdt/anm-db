@@ -1,18 +1,47 @@
 {
-  "id": 37963,
-  "slug": "caramel-honey",
-  "type": "legendado",
+  "mal_id": 37963,
+  "url": "https://myanimelist.net/anime/37963/Caramel_Honey",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1593/93166.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/93166t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/93166l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1593/93166.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1593/93166t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1593/93166l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Caramel Honey"
+    },
+    {
+      "type": "Japanese",
+      "title": "からめるハニー"
+    }
+  ],
   "title": "Caramel Honey",
   "title_english": "Caramel Honey",
   "title_japanese": "からめるハニー",
-  "image": "https://cdn.myanimelist.net/images/anime/1593/93166l.webp",
-  "score": 6.71,
-  "synopsis": "Ayato transfers into a new school hoping for a fresh start.\nSadly for him, the school turns up to be filled with delinquents, and the most feared of them all has his eye set on him.\nAnd it doesn't help, that whenever Ayato accidentally takes off his glasses, everyone around him suddenly becomes completely smitten by him.\n\n(Source: MU)",
-  "trailer_url": null,
-  "genres": [
-    "Boys Love",
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -26,5 +55,77 @@
       "numero": 3,
       "url": "https://www.blogger.com/video.g?token=AD6v5dwEU-5aExBUNjfQRuEN0PATfjUfYDcL5mMXMDQCg1uRBox_EhlIyPkNTclk4ene8HvE_liUNyFs-nkyfsAeVf6pHOZEPP5khG_4luCK2yQ3MMLehivZ3N7tWwgRG8FvJCeVzYY"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-06-08T00:00:00+00:00",
+    "to": "2018-08-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 6,
+        "year": 2018
+      },
+      "to": {
+        "day": 24,
+        "month": 8,
+        "year": 2018
+      }
+    },
+    "string": "Jun 8, 2018 to Aug 24, 2018"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.71,
+  "scored_by": 5433,
+  "rank": 6104,
+  "popularity": 5699,
+  "members": 17302,
+  "favorites": 54,
+  "synopsis": "Ayato transfers into a new school hoping for a fresh start.\nSadly for him, the school turns up to be filled with delinquents, and the most feared of them all has his eye set on him.\nAnd it doesn't help, that whenever Ayato accidentally takes off his glasses, everyone around him suddenly becomes completely smitten by him.\n\n(Source: MU)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1723,
+      "type": "anime",
+      "name": "Anime Beans",
+      "url": "https://myanimelist.net/anime/producer/1723/Anime_Beans"
+    }
+  ],
+  "genres": [
+    "Boys Love",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1593/93166l.webp",
+  "trailer_url": null,
+  "id": 37963,
+  "slug": "caramel-honey"
 }

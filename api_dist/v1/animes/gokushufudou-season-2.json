@@ -1,22 +1,139 @@
 {
-  "id": 53148,
-  "slug": "gokushufudou-season-2",
-  "type": "legendado",
+  "mal_id": 53148,
+  "url": "https://myanimelist.net/anime/53148/Gokushufudou_Season_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1985/132227.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1985/132227t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/132227l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1985/132227.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1985/132227t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/132227l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Gokushufudou Season 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "極主夫道"
+    },
+    {
+      "type": "English",
+      "title": "The Way of the Househusband Season 2"
+    }
+  ],
   "title": "Gokushufudou Season 2",
   "title_english": "The Way of the Househusband Season 2",
   "title_japanese": "極主夫道",
-  "image": "https://cdn.myanimelist.net/images/anime/1985/132227l.webp",
-  "score": 7.57,
-  "synopsis": "With a wicked scar on his face, a terrifying gaze, and an apron adorned with a teddy bear, ex-yakuza member Tatsu proudly assumes the role of a full-time househusband. Already familiar with the regular challenges of grocery shopping, Tatsu now takes it to the next level by joining a women's organization—but acceptance is not easily achieved without first mastering the elegance of flower arranging and housekeeping.\n\nApproaching homemaking ventures through the lens of his former occupation, Tatsu faces haiku battles, typhoon alerts, and cosplaying villains. For his dearest wife Miku, Tatsu will do anything, even if he is interrupted by his old acquaintances, whose former vigor has also yet to subside. Never faltering before a new challenge, Tatsu's tranquil days as a househusband are proving to be just as hectic as before.\n\n[Written by MAL Rewrite]",
-  "trailer_url": null,
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s5/mp4/gokushufudou-season-2/fhd/1.mp4",
       "nome": "Episode 1"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 1, 2023"
+  },
+  "duration": "17 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.57,
+  "scored_by": 47970,
+  "rank": 1760,
+  "popularity": 2416,
+  "members": 94653,
+  "favorites": 122,
+  "synopsis": "With a wicked scar on his face, a terrifying gaze, and an apron adorned with a teddy bear, ex-yakuza member Tatsu proudly assumes the role of a full-time househusband. Already familiar with the regular challenges of grocery shopping, Tatsu now takes it to the next level by joining a women's organization—but acceptance is not easily achieved without first mastering the elegance of flower arranging and housekeeping.\n\nApproaching homemaking ventures through the lens of his former occupation, Tatsu faces haiku battles, typhoon alerts, and cosplaying villains. For his dearest wife Miku, Tatsu will do anything, even if he is interrupted by his old acquaintances, whose former vigor has also yet to subside. Never faltering before a new challenge, Tatsu's tranquil days as a househusband are proving to be just as hectic as before.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1977,
+      "type": "anime",
+      "name": "Netflix",
+      "url": "https://myanimelist.net/anime/producer/1977/Netflix"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    },
+    {
+      "mal_id": 68,
+      "type": "anime",
+      "name": "Organized Crime",
+      "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1985/132227l.webp",
+  "trailer_url": null,
+  "id": 53148,
+  "slug": "gokushufudou-season-2"
 }

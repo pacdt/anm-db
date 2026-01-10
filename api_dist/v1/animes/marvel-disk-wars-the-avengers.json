@@ -1,17 +1,47 @@
 {
-  "id": 21013,
-  "slug": "marvel-disk-wars-the-avengers",
-  "type": "legendado",
+  "mal_id": 21013,
+  "url": "https://myanimelist.net/anime/21013/Marvel_Disk_Wars__The_Avengers",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1699/100476.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/100476t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/100476l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1699/100476.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1699/100476t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1699/100476l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Marvel Disk Wars: The Avengers"
+    },
+    {
+      "type": "Japanese",
+      "title": "ディスク・ウォーズ：アベンジャーズ"
+    }
+  ],
   "title": "Marvel Disk Wars: The Avengers",
   "title_english": "Marvel Disk Wars: The Avengers",
   "title_japanese": "ディスク・ウォーズ：アベンジャーズ",
-  "image": "https://cdn.myanimelist.net/images/anime/1699/100476l.webp",
-  "score": 5.83,
-  "synopsis": "The story will revolve around how the Avengers—Iron Man, Captain America, Thor, and the Hulk together with the help of Spider-Man and a group of teens—will harness their respective fighting skills and superhuman powers to foil Loki's scheme to take over the world. Marvel Disk Wars: The Avengers will target boys in the 6-12 age group.\n\n(Source: Marvel)",
-  "trailer_url": null,
-  "genres": [
-    "Action"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Other",
   "episodes": [
     {
       "numero": 1,
@@ -218,5 +248,90 @@
       "numero": 51,
       "url": "https://www.blogger.com/video.g?token=AD6v5dw9R8-aws1Y_pHa4gQmG0ddbMbj2UI84DbdmaOiQNkpkQPjbThtNqEKu0jGP3PYgE8ijXREabn8VXURTt8cmbN_UV51SSNVzMikCCWwg1Rl-NXiNMnsahpzHcrpX5tamusj40k"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-04-02T00:00:00+00:00",
+    "to": "2015-03-25T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2014
+      },
+      "to": {
+        "day": 25,
+        "month": 3,
+        "year": 2015
+      }
+    },
+    "string": "Apr 2, 2014 to Mar 25, 2015"
+  },
+  "duration": "22 min per ep",
+  "rating": "PG - Children",
+  "score": 5.83,
+  "scored_by": 2931,
+  "rank": 11293,
+  "popularity": 7317,
+  "members": 9334,
+  "favorites": 23,
+  "synopsis": "The story will revolve around how the Avengers—Iron Man, Captain America, Thor, and the Hulk together with the help of Spider-Man and a group of teens—will harness their respective fighting skills and superhuman powers to foil Loki's scheme to take over the world. Marvel Disk Wars: The Avengers will target boys in the 6-12 age group.\n\n(Source: Marvel)",
+  "background": "",
+  "season": "spring",
+  "year": 2014,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 483,
+      "type": "anime",
+      "name": "Marvel Entertainment",
+      "url": "https://myanimelist.net/anime/producer/483/Marvel_Entertainment"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Toei Animation",
+      "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+    }
+  ],
+  "genres": [
+    "Action"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 31,
+      "type": "anime",
+      "name": "Super Power",
+      "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 15,
+      "type": "anime",
+      "name": "Kids",
+      "url": "https://myanimelist.net/anime/genre/15/Kids"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1699/100476l.webp",
+  "trailer_url": null,
+  "id": 21013,
+  "slug": "marvel-disk-wars-the-avengers"
 }

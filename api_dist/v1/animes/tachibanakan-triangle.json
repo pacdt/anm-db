@@ -1,19 +1,69 @@
 {
-  "id": 36943,
-  "slug": "tachibanakan-triangle",
-  "type": "legendado",
+  "mal_id": 36943,
+  "url": "https://myanimelist.net/anime/36943/Tachibanakan_Triangle",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1594/108629.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1594/108629t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1594/108629l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1594/108629.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1594/108629t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1594/108629l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/z5NdoHTxPm8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tachibanakan Triangle"
+    },
+    {
+      "type": "Synonym",
+      "title": "Tachibanakan To Lie Angle"
+    },
+    {
+      "type": "Japanese",
+      "title": "立花館To Lieあんぐる"
+    },
+    {
+      "type": "English",
+      "title": "Love To-LIE-Angle"
+    },
+    {
+      "type": "German",
+      "title": "Love To-LIE-Angle"
+    },
+    {
+      "type": "Spanish",
+      "title": "Love To-LIE-Angle"
+    },
+    {
+      "type": "French",
+      "title": "Love To-LIE-Angle"
+    }
+  ],
   "title": "Tachibanakan Triangle",
   "title_english": "Love To-LIE-Angle",
   "title_japanese": "立花館To Lieあんぐる",
-  "image": "https://cdn.myanimelist.net/images/anime/1594/108629l.webp",
-  "score": 5.62,
-  "synopsis": "As Hanabi Natsuno returns home after six years in Tokyo, memories flood into her. As she prepares to start high school, she moves to Tachibanakan, the local dormitory for female students. Upon her arrival, Hanabi stumbles upon a bare naked beauty, and instantly falls head over heels for her. She also reencounters Konomi Fujiwara, her childhood friend who she barely remembers.\n\nHanabi is introduced to the other residents of the dorm and quickly becomes the center of attention. As the girls instantly take to the newcomer and begin shooting for her affection—subtly or obtrusively—Hanabi realizes that it is certainly going to be an interesting school year.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/z5NdoHTxPm8?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Girls Love",
-    "Ecchi"
+  "title_synonyms": [
+    "Tachibanakan To Lie Angle"
   ],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -63,5 +113,83 @@
       "numero": 12,
       "url": "https://www.blogger.com/video.g?token=AD6v5dw848JQnXYSXJ2Oasa8DkKxGBwJ0ajZd_xf1EVsg_kiKbsNHt0TatC71gtLvbbIHq4OvwYuJrzPVrCXi0mK3cWVaaVBUHZU6n1EBLRSlSdqe_BmviMRwBqPLOrPFJkUifVNepbf"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2018-04-04T00:00:00+00:00",
+    "to": "2018-06-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2018
+      },
+      "to": {
+        "day": 20,
+        "month": 6,
+        "year": 2018
+      }
+    },
+    "string": "Apr 4, 2018 to Jun 20, 2018"
+  },
+  "duration": "3 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 5.62,
+  "scored_by": 29096,
+  "rank": 12309,
+  "popularity": 2787,
+  "members": 75392,
+  "favorites": 95,
+  "synopsis": "As Hanabi Natsuno returns home after six years in Tokyo, memories flood into her. As she prepares to start high school, she moves to Tachibanakan, the local dormitory for female students. Upon her arrival, Hanabi stumbles upon a bare naked beauty, and instantly falls head over heels for her. She also reencounters Konomi Fujiwara, her childhood friend who she barely remembers.\n\nHanabi is introduced to the other residents of the dorm and quickly becomes the center of attention. As the girls instantly take to the newcomer and begin shooting for her affection—subtly or obtrusively—Hanabi realizes that it is certainly going to be an interesting school year.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2018,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1582,
+      "type": "anime",
+      "name": "Ichijinsha",
+      "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+    },
+    {
+      "mal_id": 2088,
+      "type": "anime",
+      "name": "Cloud22",
+      "url": "https://myanimelist.net/anime/producer/2088/Cloud22"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1195,
+      "type": "anime",
+      "name": "Creators in Pack",
+      "url": "https://myanimelist.net/anime/producer/1195/Creators_in_Pack"
+    },
+    {
+      "mal_id": 1813,
+      "type": "anime",
+      "name": "Studio Lings",
+      "url": "https://myanimelist.net/anime/producer/1813/Studio_Lings"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Girls Love",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1594/108629l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/z5NdoHTxPm8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 36943,
+  "slug": "tachibanakan-triangle"
 }

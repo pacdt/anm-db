@@ -1,15 +1,51 @@
 {
-  "id": 54624,
-  "slug": "bokurano",
-  "type": "legendado",
+  "mal_id": 54624,
+  "url": "https://myanimelist.net/anime/54624/Bokurano",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1729/133784.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1729/133784t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1729/133784l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1729/133784.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1729/133784t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1729/133784l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bokurano"
+    },
+    {
+      "type": "Japanese",
+      "title": "ぼくらの"
+    },
+    {
+      "type": "English",
+      "title": "Ours"
+    }
+  ],
   "title": "Bokurano",
   "title_english": "Ours",
   "title_japanese": "ぼくらの",
-  "image": "https://cdn.myanimelist.net/images/anime/1729/133784l.webp",
-  "score": 7.11,
-  "synopsis": "Official music video for Eve's song \"Bokurano.\"",
-  "trailer_url": null,
-  "genres": [],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -107,5 +143,67 @@
       "numero": 24,
       "url": "https://lightspeedst.net/s3/mp4/bokurano/sd/24.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-02-24T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 24,
+        "month": 2,
+        "year": 2023
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Feb 24, 2023"
+  },
+  "duration": "3 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.11,
+  "scored_by": 1811,
+  "rank": null,
+  "popularity": 10673,
+  "members": 3340,
+  "favorites": 9,
+  "synopsis": "Official music video for Eve's song \"Bokurano.\"",
+  "background": "The song debuted as the second opening song for Boku no Hero Academia's sixth season.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 3195,
+      "type": "anime",
+      "name": "Folium",
+      "url": "https://myanimelist.net/anime/producer/3195/Folium"
+    }
+  ],
+  "genres": [],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1729/133784l.webp",
+  "trailer_url": null,
+  "id": 54624,
+  "slug": "bokurano"
 }

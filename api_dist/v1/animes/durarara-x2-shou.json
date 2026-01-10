@@ -1,19 +1,79 @@
 {
-  "id": 23199,
-  "slug": "durarara-x2-shou",
-  "type": "legendado",
+  "mal_id": 23199,
+  "url": "https://myanimelist.net/anime/23199/Durararax2_Shou",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/67743.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67743t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67743l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/67743.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/67743t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/67743l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/f5yXNsIPw5U?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Durarara!!x2 Shou"
+    },
+    {
+      "type": "Synonym",
+      "title": "Durarara!! 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "DRRR!! 2nd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Durararax2 1st Arc"
+    },
+    {
+      "type": "Japanese",
+      "title": "デュラララ!!×２ 承"
+    },
+    {
+      "type": "English",
+      "title": "Durarara!! x2 Shou"
+    },
+    {
+      "type": "German",
+      "title": "Durarara!! x2"
+    },
+    {
+      "type": "Spanish",
+      "title": "Durarara!! x2 Shou"
+    },
+    {
+      "type": "French",
+      "title": "Durarara!! x2"
+    }
+  ],
   "title": "Durarara!!x2 Shou",
   "title_english": "Durarara!! x2 Shou",
   "title_japanese": "デュラララ!!×２ 承",
-  "image": "https://cdn.myanimelist.net/images/anime/12/67743l.webp",
-  "score": 7.97,
-  "synopsis": "Although peace has finally returned to Ikebukuro, many of the odd occurrences have become common sights around the city. One such case is the police's constant pursuit of Celty Sturluson, the Headless Rider. Moreover, someone has placed a large bounty on her, igniting the motivation of gang members all over to begin searching for the supernatural creature as well. Meanwhile, Mikado Ryuugamine is approached by Aoba Kuronuma, a mysterious underclassman with unknown intentions, who reveals that he knows Mikado's true identity.\n\nBut Ikebukuro's state of tranquility is short-lived, as a new threat appears in the form of a murderer who goes by the pseudonym \"Hollywood,\" known for wearing a different mask each time they commit a crime. As the various events taking place prove to be connected yet again, Ikebukuro is thrown into another conflict that threatens to engulf the entire city in chaos.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/f5yXNsIPw5U?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Mystery",
-    "Supernatural"
+  "title_synonyms": [
+    "Durarara!! 2nd Season",
+    "DRRR!! 2nd Season",
+    "Durararax2 1st Arc"
   ],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +135,102 @@
       "url": "https://lightspeedst.net/s3/mp4/durarara-x2-shou/sd/12.mp4",
       "nome": "Adversity Makes a Man Strong"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2015-01-10T00:00:00+00:00",
+    "to": "2015-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2015
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 2015
+      }
+    },
+    "string": "Jan 10, 2015 to Mar 28, 2015"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.97,
+  "scored_by": 260999,
+  "rank": 745,
+  "popularity": 492,
+  "members": 508887,
+  "favorites": 1014,
+  "synopsis": "Although peace has finally returned to Ikebukuro, many of the odd occurrences have become common sights around the city. One such case is the police's constant pursuit of Celty Sturluson, the Headless Rider. Moreover, someone has placed a large bounty on her, igniting the motivation of gang members all over to begin searching for the supernatural creature as well. Meanwhile, Mikado Ryuugamine is approached by Aoba Kuronuma, a mysterious underclassman with unknown intentions, who reveals that he knows Mikado's true identity.\n\nBut Ikebukuro's state of tranquility is short-lived, as a new threat appears in the form of a murderer who goes by the pseudonym \"Hollywood,\" known for wearing a different mask each time they commit a crime. As the various events taking place prove to be connected yet again, Ikebukuro is thrown into another conflict that threatens to engulf the entire city in chaos.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "winter",
+  "year": 2015,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 681,
+      "type": "anime",
+      "name": "ASCII Media Works",
+      "url": "https://myanimelist.net/anime/producer/681/ASCII_Media_Works"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1119,
+      "type": "anime",
+      "name": "Shuka",
+      "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Mystery",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/67743l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/f5yXNsIPw5U?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 23199,
+  "slug": "durarara-x2-shou"
 }

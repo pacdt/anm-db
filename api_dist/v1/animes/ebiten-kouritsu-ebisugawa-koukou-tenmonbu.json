@@ -1,18 +1,63 @@
 {
-  "id": 14073,
-  "slug": "ebiten-kouritsu-ebisugawa-koukou-tenmonbu",
-  "type": "legendado",
+  "mal_id": 14073,
+  "url": "https://myanimelist.net/anime/14073/Ebiten__Kouritsu_Ebisugawa_Koukou_Tenmonbu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/75842.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75842t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75842l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/75842.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/75842t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/75842l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/1wlX-qnX6Xc?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu"
+    },
+    {
+      "type": "Japanese",
+      "title": "えびてん 公立海老栖川高校天悶部"
+    },
+    {
+      "type": "English",
+      "title": "Ebiten"
+    },
+    {
+      "type": "German",
+      "title": "Ebiten"
+    },
+    {
+      "type": "Spanish",
+      "title": "Ebiten"
+    },
+    {
+      "type": "French",
+      "title": "Ebiten"
+    }
+  ],
   "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
   "title_english": "Ebiten",
   "title_japanese": "えびてん 公立海老栖川高校天悶部",
-  "image": "https://cdn.myanimelist.net/images/anime/11/75842l.webp",
-  "score": 6.17,
-  "synopsis": "Noya Itsuki just transferred to Ebisugawa High School. Since he has always had a fascination with space, he decides to join the Astronomy Club; however, he mistakenly walks into the Asstronomy Club—a club whose members are all female otaku. Itsuki notices that the members are really weird, but he has yet to realize that he joined the wrong club. His life becomes very strange very quickly.",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/1wlX-qnX6Xc?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy",
-    "Ecchi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -64,5 +109,109 @@
       "url": "https://lightspeedst.net/s3/mp4/ebiten-kouritsu-ebisugawa-koukou-tenmonbu/sd/10.mp4",
       "nome": "Beautiful Dreamers"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-07-14T00:00:00+00:00",
+    "to": "2012-09-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 7,
+        "year": 2012
+      },
+      "to": {
+        "day": 15,
+        "month": 9,
+        "year": 2012
+      }
+    },
+    "string": "Jul 14, 2012 to Sep 15, 2012"
+  },
+  "duration": "24 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.17,
+  "scored_by": 9576,
+  "rank": 9417,
+  "popularity": 4602,
+  "members": 29240,
+  "favorites": 29,
+  "synopsis": "Noya Itsuki just transferred to Ebisugawa High School. Since he has always had a fascination with space, he decides to join the Astronomy Club; however, he mistakenly walks into the Asstronomy Club—a club whose members are all female otaku. Itsuki notices that the members are really weird, but he has yet to realize that he joined the wrong club. His life becomes very strange very quickly.",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 48,
+      "type": "anime",
+      "name": "AIC",
+      "url": "https://myanimelist.net/anime/producer/48/AIC"
+    },
+    {
+      "mal_id": 113,
+      "type": "anime",
+      "name": "Kadokawa Shoten",
+      "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+    },
+    {
+      "mal_id": 779,
+      "type": "anime",
+      "name": "AMG MUSIC",
+      "url": "https://myanimelist.net/anime/producer/779/AMG_MUSIC"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1306,
+      "type": "anime",
+      "name": "AIC Classic",
+      "url": "https://myanimelist.net/anime/producer/1306/AIC_Classic"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/11/75842l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/1wlX-qnX6Xc?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 14073,
+  "slug": "ebiten-kouritsu-ebisugawa-koukou-tenmonbu"
 }

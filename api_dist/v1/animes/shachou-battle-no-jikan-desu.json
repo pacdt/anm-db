@@ -1,19 +1,57 @@
 {
-  "id": 40783,
-  "slug": "shachou-battle-no-jikan-desu",
-  "type": "legendado",
+  "mal_id": 40783,
+  "url": "https://myanimelist.net/anime/40783/Shachou_Battle_no_Jikan_desu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1044/106309.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1044/106309t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1044/106309l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1044/106309.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1044/106309t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1044/106309l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2CtjQmEcUJ0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Shachou, Battle no Jikan desu!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Shachibato The Animation"
+    },
+    {
+      "type": "Japanese",
+      "title": "社長, バトルの時間です!"
+    },
+    {
+      "type": "English",
+      "title": "Shachibato! President, It's Time for Battle!"
+    }
+  ],
   "title": "Shachou, Battle no Jikan desu!",
   "title_english": "Shachibato! President, It's Time for Battle!",
   "title_japanese": "社長, バトルの時間です!",
-  "image": "https://cdn.myanimelist.net/images/anime/1044/106309l.webp",
-  "score": 5.85,
-  "synopsis": "Long ago, a goddess descended from Heaven and blessed the desolate land of Gatepia. As a result, gigantic gates appeared, leading to dungeons abundant in \"kirakuri,\" crystals containing the energy needed for the foundation of the world. This led to the formation of various companies of adventurers who would harvest kirakuri from the dungeons.\n\nFollowing his father's disappearance inside one of the biggest gates in Gatepia, Minato is urged by his childhood friend Yutoria to become the president of his father's treasure-hunting company—the Kibou Company. He reluctantly agrees and meets with the other employees: the priest Makoto, the soldier Akari, and the accountant Guide.\n\nThus, Minato begins his tenure as president. As he and his comrades strive to fulfill various missions and other assorted tasks in order to keep their small company alive, they will uncover the mystery behind their former leader's sudden departure.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/2CtjQmEcUJ0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy"
+  "title_synonyms": [
+    "Shachibato The Animation"
   ],
+  "type": "legendado",
+  "source": "Game",
   "episodes": [
     {
       "numero": 1,
@@ -75,5 +113,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxlTpLWobQwEpo5n6nKchzJhJe_QT4-kQusbtWDNlRyCTHK4NiNiP-fFt44262uq-5ObGI7ILhmiYfqunNIUBhiI_ytIG8OYnthUt2qOK6y7O-pHPrR_z2sL4IbHld9KB1vuo0A",
       "nome": "Management Fad"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2020-04-05T00:00:00+00:00",
+    "to": "2020-06-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 4,
+        "year": 2020
+      },
+      "to": {
+        "day": 28,
+        "month": 6,
+        "year": 2020
+      }
+    },
+    "string": "Apr 5, 2020 to Jun 28, 2020"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.85,
+  "scored_by": 16164,
+  "rank": 11210,
+  "popularity": 3777,
+  "members": 44058,
+  "favorites": 28,
+  "synopsis": "Long ago, a goddess descended from Heaven and blessed the desolate land of Gatepia. As a result, gigantic gates appeared, leading to dungeons abundant in \"kirakuri,\" crystals containing the energy needed for the foundation of the world. This led to the formation of various companies of adventurers who would harvest kirakuri from the dungeons.\n\nFollowing his father's disappearance inside one of the biggest gates in Gatepia, Minato is urged by his childhood friend Yutoria to become the president of his father's treasure-hunting company—the Kibou Company. He reluctantly agrees and meets with the other employees: the priest Makoto, the soldier Akari, and the accountant Guide.\n\nThus, Minato begins his tenure as president. As he and his comrades strive to fulfill various missions and other assorted tasks in order to keep their small company alive, they will uncover the mystery behind their former leader's sudden departure.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2020,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 605,
+      "type": "anime",
+      "name": "C2C",
+      "url": "https://myanimelist.net/anime/producer/605/C2C"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1044/106309l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/2CtjQmEcUJ0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 40783,
+  "slug": "shachou-battle-no-jikan-desu"
 }

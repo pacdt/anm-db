@@ -1,17 +1,68 @@
 {
-  "id": 15061,
-  "slug": "aikatsu",
-  "type": "legendado",
+  "mal_id": 15061,
+  "url": "https://myanimelist.net/anime/15061/Aikatsu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/74783.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/74783t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/74783l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/74783.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/74783t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/74783l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/HoPITmefUMU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Aikatsu!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Aikatsu! Idol Katsudou! Idol ga Tsudou!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Aidoru ga Tsudou!"
+    },
+    {
+      "type": "Synonym",
+      "title": "Aikatsu! 2"
+    },
+    {
+      "type": "Synonym",
+      "title": "Idol ga Tsudou! 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "アイカツ！アイドルカツドウ！"
+    }
+  ],
   "title": "Aikatsu!",
   "title_english": "Aikatsu!",
   "title_japanese": "アイカツ！アイドルカツドウ！",
-  "image": "https://cdn.myanimelist.net/images/anime/6/74783l.webp",
-  "score": 7.49,
-  "synopsis": "An idol's brilliance illuminates the dreams of humanity. Starlight Academy, a holy ground for celebrities in training, seeks to realize this belief. Behind its rigorous entrance requirements lie not only the top young stars in the entertainment business, but some of the best memories these students will ever have.\n\nOr so Aoi Kiriya believes. Alongside her best friend Ichigo, Aoi decides to apply for the prestigious private school in hopes of living up to the praise of the biggest idol in the world: Mizuki Kanzaki. As they journey through the numerous laughs, friendships, and heartbreaks that await them, can the two girls light up the lives of others as Mizuki has done for them?\n\nWhether it be chopping down Christmas trees, traversing obstacle courses, or even rock climbing, there's always a playful new adventure to be found in the world of Aikatsu!.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/HoPITmefUMU?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
+  "title_synonyms": [
+    "Aikatsu! Idol Katsudou! Idol ga Tsudou!",
+    "Aidoru ga Tsudou!",
+    "Aikatsu! 2",
+    "Idol ga Tsudou! 2"
   ],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -143,5 +194,106 @@
       "url": "https://video.wixstatic.com/video/f3773b_4bb732e5b9334b9bab6a937f40dfa7ff/480p/mp4/file.mp4",
       "nome": "The Cherry Blossom Season"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-10-08T00:00:00+00:00",
+    "to": "2016-03-31T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 10,
+        "year": 2012
+      },
+      "to": {
+        "day": 31,
+        "month": 3,
+        "year": 2016
+      }
+    },
+    "string": "Oct 8, 2012 to Mar 31, 2016"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG - Children",
+  "score": 7.49,
+  "scored_by": 15741,
+  "rank": 2091,
+  "popularity": 3606,
+  "members": 47595,
+  "favorites": 945,
+  "synopsis": "An idol's brilliance illuminates the dreams of humanity. Starlight Academy, a holy ground for celebrities in training, seeks to realize this belief. Behind its rigorous entrance requirements lie not only the top young stars in the entertainment business, but some of the best memories these students will ever have.\n\nOr so Aoi Kiriya believes. Alongside her best friend Ichigo, Aoi decides to apply for the prestigious private school in hopes of living up to the praise of the biggest idol in the world: Mizuki Kanzaki. As they journey through the numerous laughs, friendships, and heartbreaks that await them, can the two girls light up the lives of others as Mizuki has done for them?\n\nWhether it be chopping down Christmas trees, traversing obstacle courses, or even rock climbing, there's always a playful new adventure to be found in the world of Aikatsu!.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "fall",
+  "year": 2012,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 18:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 16,
+      "type": "anime",
+      "name": "TV Tokyo",
+      "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 14,
+      "type": "anime",
+      "name": "Sunrise",
+      "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+    },
+    {
+      "mal_id": 1258,
+      "type": "anime",
+      "name": "Bandai Namco Pictures",
+      "url": "https://myanimelist.net/anime/producer/1258/Bandai_Namco_Pictures"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 60,
+      "type": "anime",
+      "name": "Idols (Female)",
+      "url": "https://myanimelist.net/anime/genre/60/Idols_Female"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/6/74783l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/HoPITmefUMU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 15061,
+  "slug": "aikatsu"
 }

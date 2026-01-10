@@ -1,22 +1,140 @@
 {
-  "id": 50612,
-  "slug": "dr-stone-ryuusui-dublado",
-  "type": "dublado",
+  "mal_id": 50612,
+  "url": "https://myanimelist.net/anime/50612/Dr_Stone__Ryuusui",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1071/124921.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1071/124921.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xR0mAOlclHg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Dr. Stone: Ryuusui"
+    },
+    {
+      "type": "Japanese",
+      "title": "Dr.STONE 龍水"
+    },
+    {
+      "type": "English",
+      "title": "Dr. Stone: Ryusui"
+    }
+  ],
   "title": "Dr. Stone: Ryuusui",
   "title_english": "Dr. Stone: Ryusui",
   "title_japanese": "Dr.STONE 龍水",
-  "image": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp",
-  "score": 8.12,
-  "synopsis": "Now that brains and brawns have united forces, the next step in Senkuu's plan to unravel the mystery behind the green light that once petrified humanity is to go to the other side of the Earth and investigate its origin. However, to achieve this, Senkuu must first build a ship.\n\nWith the help of Tsukasa Shishiou's former underlings, the base of the ship is rapidly assembled, but there is one missing piece: a skilled captain. During their search, Senkuu and his crew come across a petrified Ryuusui Nanami—the heir of the biggest maritime conglomerate, known for his vast knowledge of sailboats but unpleasant personality. Despite this, Senkuu takes the risk and revives Ryuusui.\n\nRyuusui, upon realizing there are no ownership rights in this new civilization, is excited at the prospect of claiming everything for himself. But before he agrees to play a crucial part in their upcoming journey and command the vessel through the restless seas, he and Senkuu must find the king of fuels to power the ship—oil.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xR0mAOlclHg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Adventure",
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "dublado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
       "url": "https://lightspeedst.net/s4/mp4/dr-stone-ryuusui-dublado/fhd/1.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2022-07-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 7,
+        "year": 2022
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 10, 2022"
+  },
+  "duration": "54 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.12,
+  "scored_by": 214096,
+  "rank": 524,
+  "popularity": 717,
+  "members": 371515,
+  "favorites": 932,
+  "synopsis": "Now that brains and brawns have united forces, the next step in Senkuu's plan to unravel the mystery behind the green light that once petrified humanity is to go to the other side of the Earth and investigate its origin. However, to achieve this, Senkuu must first build a ship.\n\nWith the help of Tsukasa Shishiou's former underlings, the base of the ship is rapidly assembled, but there is one missing piece: a skilled captain. During their search, Senkuu and his crew come across a petrified Ryuusui Nanami—the heir of the biggest maritime conglomerate, known for his vast knowledge of sailboats but unpleasant personality. Despite this, Senkuu takes the risk and revives Ryuusui.\n\nRyuusui, upon realizing there are no ownership rights in this new civilization, is excited at the prospect of claiming everything for himself. But before he agrees to play a crucial part in their upcoming journey and command the vessel through the restless seas, he and Senkuu must find the king of fuels to power the ship—oil.\n\n[Written by MAL Rewrite]",
+  "background": "Dr. Stone: Ryuusui adapts chapters 84-89 of the manga.",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1143,
+      "type": "anime",
+      "name": "TOHO animation",
+      "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 73,
+      "type": "anime",
+      "name": "TMS Entertainment",
+      "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xR0mAOlclHg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 50612,
+  "slug": "dr-stone-ryuusui-dublado"
 }

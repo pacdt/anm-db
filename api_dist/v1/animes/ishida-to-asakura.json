@@ -1,17 +1,51 @@
 {
-  "id": 16317,
-  "slug": "ishida-to-asakura",
-  "type": "legendado",
+  "mal_id": 16317,
+  "url": "https://myanimelist.net/anime/16317/Ishida_to_Asakura",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/44996.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/44996t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/44996l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/44996.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/44996t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/44996l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5wW5IL1U9SM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ishida to Asakura"
+    },
+    {
+      "type": "Japanese",
+      "title": "石田とあさくら"
+    },
+    {
+      "type": "English",
+      "title": "Ishida and Asakura"
+    }
+  ],
   "title": "Ishida to Asakura",
   "title_english": "Ishida and Asakura",
   "title_japanese": "石田とあさくら",
-  "image": "https://cdn.myanimelist.net/images/anime/5/44996l.webp",
-  "score": 5.85,
-  "synopsis": "High School isn't easy, especially for Asakura, who is struggling to graduate. Luckily for him, he has lots of friends who are willing to go the extra mile. Asakura is obsessed with female anatomy, which frustrates his other classmates! One classmate wants them to run a flower shop together, while another one wants to run a bookstore with him! With everyone vying for his complete attention, will Asakura ever graduate!?\n\n(Source: Ascendent Animation)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/5wW5IL1U9SM?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +107,90 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxZJcoL7ZbfggzyrGdpHmP89Iv-8uW4Z34V2DwLs6ZeReoWgjLyykL3Au7g5m99SyndwRO0DCnEHbAVxXIfMLC4rPs-IG0eqWNESsTVcv_xarHjwQEyDGFAk_kG2uURQmVSTnA",
       "nome": "Ishida and Asakura"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2013-01-06T00:00:00+00:00",
+    "to": "2013-03-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 1,
+        "year": 2013
+      },
+      "to": {
+        "day": 24,
+        "month": 3,
+        "year": 2013
+      }
+    },
+    "string": "Jan 6, 2013 to Mar 24, 2013"
+  },
+  "duration": "2 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 5.85,
+  "scored_by": 8375,
+  "rank": 11189,
+  "popularity": 6002,
+  "members": 15071,
+  "favorites": 22,
+  "synopsis": "High School isn't easy, especially for Asakura, who is struggling to graduate. Luckily for him, he has lots of friends who are willing to go the extra mile. Asakura is obsessed with female anatomy, which frustrates his other classmates! One classmate wants them to run a flower shop together, while another one wants to run a bookstore with him! With everyone vying for his complete attention, will Asakura ever graduate!?\n\n(Source: Ascendent Animation)",
+  "background": "",
+  "season": "winter",
+  "year": 2013,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:27",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:27 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 2506,
+      "type": "anime",
+      "name": "Ascendent Animation",
+      "url": "https://myanimelist.net/anime/producer/2506/Ascendent_Animation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 723,
+      "type": "anime",
+      "name": "Hotline",
+      "url": "https://myanimelist.net/anime/producer/723/Hotline"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/5/44996l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/5wW5IL1U9SM?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 16317,
+  "slug": "ishida-to-asakura"
 }

@@ -1,20 +1,63 @@
 {
-  "id": 32681,
-  "slug": "uchuu-patrol-luluco",
-  "type": "legendado",
+  "mal_id": 32681,
+  "url": "https://myanimelist.net/anime/32681/Uchuu_Patrol_Luluco",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/79073.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/79073t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/79073l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/79073.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/79073t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/79073l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/GQwGr3gfSHY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Uchuu Patrol Luluco"
+    },
+    {
+      "type": "Japanese",
+      "title": "宇宙パトロールルル子"
+    },
+    {
+      "type": "English",
+      "title": "Space Patrol Luluco"
+    },
+    {
+      "type": "German",
+      "title": "Space Patrol Luluco"
+    },
+    {
+      "type": "Spanish",
+      "title": "Patrullera Espacial Luluco"
+    },
+    {
+      "type": "French",
+      "title": "Space Patrol Luluco"
+    }
+  ],
   "title": "Uchuu Patrol Luluco",
   "title_english": "Space Patrol Luluco",
   "title_japanese": "宇宙パトロールルル子",
-  "image": "https://cdn.myanimelist.net/images/anime/4/79073l.webp",
-  "score": 7.52,
-  "synopsis": "Living an abnormal existence in Ogikubo, an intergalactic melting pot of humans and aliens as well as the only Space Immigration Zone on Earth, Luluco is a bubbly middle school girl who just wants to be normal. One morning, however, her father, who works at the Space Patrol, eats a volatile sleep capsule by mistake and is frozen solid! To make matters worse, Luluco accidentally breaks him, so she hurries off to his office for help. There, the chief of the Space Patrol, Over Justice, hires Luluco as a space temp worker for undercover investigations, so that the institution may crack down on crime within her school.\n\nMade to don the Space Patrol suit and sent on her way to mete out justice, Luluco attempts to maintain the image of a normal girl who does not stand out in any way. But she soon discovers that with the automatic systems and inherently zealous judiciousness of the Space Patrol suit, continuing to be normal will be more difficult than she thought.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/GQwGr3gfSHY?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Comedy",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -81,5 +124,128 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxNdOVfalVzzvPigYxAYOqk6HdM2armWlCuw3gqAsrVnFoX87AOx-I18CNei2hmabDa5PGGa1ncGENyWym5EZ1BdPghBUSGtUAxO3l1DWndXbP4syd3-GUewhyTYnPE4y9YNA",
       "nome": "I'll Give Chase to the Ends of the Universe"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2016-04-01T00:00:00+00:00",
+    "to": "2016-06-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "to": {
+        "day": 24,
+        "month": 6,
+        "year": 2016
+      }
+    },
+    "string": "Apr 1, 2016 to Jun 24, 2016"
+  },
+  "duration": "7 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.52,
+  "scored_by": 77694,
+  "rank": 1972,
+  "popularity": 1647,
+  "members": 159867,
+  "favorites": 1109,
+  "synopsis": "Living an abnormal existence in Ogikubo, an intergalactic melting pot of humans and aliens as well as the only Space Immigration Zone on Earth, Luluco is a bubbly middle school girl who just wants to be normal. One morning, however, her father, who works at the Space Patrol, eats a volatile sleep capsule by mistake and is frozen solid! To make matters worse, Luluco accidentally breaks him, so she hurries off to his office for help. There, the chief of the Space Patrol, Over Justice, hires Luluco as a space temp worker for undercover investigations, so that the institution may crack down on crime within her school.\n\nMade to don the Space Patrol suit and sent on her way to mete out justice, Luluco attempts to maintain the image of a normal girl who does not stand out in any way. But she soon discovers that with the automatic systems and inherently zealous judiciousness of the Space Patrol suit, continuing to be normal will be more difficult than she thought.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2016,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 539,
+      "type": "anime",
+      "name": "Ultra Super Pictures",
+      "url": "https://myanimelist.net/anime/producer/539/Ultra_Super_Pictures"
+    },
+    {
+      "mal_id": 1261,
+      "type": "anime",
+      "name": "Good Smile Company",
+      "url": "https://myanimelist.net/anime/producer/1261/Good_Smile_Company"
+    },
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 803,
+      "type": "anime",
+      "name": "Trigger",
+      "url": "https://myanimelist.net/anime/producer/803/Trigger"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 29,
+      "type": "anime",
+      "name": "Space",
+      "url": "https://myanimelist.net/anime/genre/29/Space"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/4/79073l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/GQwGr3gfSHY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 32681,
+  "slug": "uchuu-patrol-luluco"
 }

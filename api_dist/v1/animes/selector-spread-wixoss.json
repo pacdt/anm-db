@@ -1,17 +1,51 @@
 {
-  "id": 24037,
-  "slug": "selector-spread-wixoss",
-  "type": "legendado",
+  "mal_id": 24037,
+  "url": "https://myanimelist.net/anime/24037/Selector_Spread_WIXOSS",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75495.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75495t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75495l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/75495.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/75495t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/75495l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xpy8joNsPcg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Selector Spread WIXOSS"
+    },
+    {
+      "type": "Japanese",
+      "title": "selector spread WIXOSS"
+    },
+    {
+      "type": "English",
+      "title": "selector spread WIXOSS"
+    }
+  ],
   "title": "Selector Spread WIXOSS",
   "title_english": "selector spread WIXOSS",
   "title_japanese": "selector spread WIXOSS",
-  "image": "https://cdn.myanimelist.net/images/anime/5/75495l.webp",
-  "score": 7.34,
-  "synopsis": "The unforeseen outcome of Iona Urazoe's fan gathering continues to weigh heavily on Ruuko Kominato. Having uncovered the truth behind being a Selector, Ruuko and her friends Yuzuki Kurebayashi and Hitoe Uemura hesitate to partake in the battles that may ruin the lives they have come to cherish. The same cannot be said for Chiyori, a fellow Selector who remains oblivious to the consequences of losing despite all warnings. As she tries to convince Chiyori out of her cruel fate, Ruuko learns more about a WIXOSS novel—which may reveal the secrets of LRIGs and the Selector battles' very existence.\n\nMeanwhile, Akira Aoi and her model career have rebounded thanks to Iona, who is now possessed by Ulith. With her life back on track, Akira pledges to assist Ulith in any way she can. Unbeknownst to her, Ulith is scheming to utilize a familiar LRIG to not only torment Ruuko but also prevent the latter's wish from ever being fulfilled.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/xpy8joNsPcg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Suspense"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Card game",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +107,107 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dxL23VYlE0AU1RaHyIlDqYfgjamI0Y_TMdP9O86jbTyXWI6EshoKvmxkg26zngIn-8Hhy9FabY2t93tFJ5AWoqFV-jDlH0DBXQCFbcRz0TYmMnxx1oLtY2QbLsxPRtN0WOV-yIy",
       "nome": "This Selection..."
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2014-10-04T00:00:00+00:00",
+    "to": "2014-12-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 2014
+      },
+      "to": {
+        "day": 20,
+        "month": 12,
+        "year": 2014
+      }
+    },
+    "string": "Oct 4, 2014 to Dec 20, 2014"
+  },
+  "duration": "24 min per ep",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 7.34,
+  "scored_by": 41088,
+  "rank": 2734,
+  "popularity": 2660,
+  "members": 81471,
+  "favorites": 244,
+  "synopsis": "The unforeseen outcome of Iona Urazoe's fan gathering continues to weigh heavily on Ruuko Kominato. Having uncovered the truth behind being a Selector, Ruuko and her friends Yuzuki Kurebayashi and Hitoe Uemura hesitate to partake in the battles that may ruin the lives they have come to cherish. The same cannot be said for Chiyori, a fellow Selector who remains oblivious to the consequences of losing despite all warnings. As she tries to convince Chiyori out of her cruel fate, Ruuko learns more about a WIXOSS novel—which may reveal the secrets of LRIGs and the Selector battles' very existence.\n\nMeanwhile, Akira Aoi and her model career have rebounded thanks to Iona, who is now possessed by Ulith. With her life back on track, Akira pledges to assist Ulith in any way she can. Unbeknownst to her, Ulith is scheming to utilize a familiar LRIG to not only torment Ruuko but also prevent the latter's wish from ever being fulfilled.\n\n[Written by MAL Rewrite]",
+  "background": "Selector Spread WIXOSS was released on Blu-ray and DVD in Japan from February 25, 2015 to June 24, 2015, and in North America by Funimation Entertainment on June 28, 2016.",
+  "season": "fall",
+  "year": 2014,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:05 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 415,
+      "type": "anime",
+      "name": "Warner Bros. Japan",
+      "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+    },
+    {
+      "mal_id": 777,
+      "type": "anime",
+      "name": "Showgate",
+      "url": "https://myanimelist.net/anime/producer/777/Showgate"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 102,
+      "type": "anime",
+      "name": "Funimation",
+      "url": "https://myanimelist.net/anime/producer/102/Funimation"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "J.C.Staff",
+      "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+    }
+  ],
+  "genres": [
+    "Suspense"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 59,
+      "type": "anime",
+      "name": "High Stakes Game",
+      "url": "https://myanimelist.net/anime/genre/59/High_Stakes_Game"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    },
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Strategy Game",
+      "url": "https://myanimelist.net/anime/genre/11/Strategy_Game"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/5/75495l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xpy8joNsPcg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 24037,
+  "slug": "selector-spread-wixoss"
 }

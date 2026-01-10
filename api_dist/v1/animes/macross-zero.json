@@ -1,18 +1,51 @@
 {
-  "id": 194,
-  "slug": "macross-zero",
-  "type": "legendado",
+  "mal_id": 194,
+  "url": "https://myanimelist.net/anime/194/Macross_Zero",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/76289.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76289t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76289l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/76289.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76289t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76289l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Macross Zero"
+    },
+    {
+      "type": "Japanese",
+      "title": "マクロス ゼロ"
+    },
+    {
+      "type": "English",
+      "title": "Macross Zero"
+    }
+  ],
   "title": "Macross Zero",
   "title_english": "Macross Zero",
   "title_japanese": "マクロス ゼロ",
-  "image": "https://cdn.myanimelist.net/images/anime/12/76289l.webp",
-  "score": 7.47,
-  "synopsis": "Taking place one year before the Zentraedi arrive on Earth, Macross Zero chronicles the final days of the war between the U.N. Spacy and anti-U.N. factions. After being shot down by the anti-U.N.'s newest fighter plane, ace pilot Shin Kudo finds himself on the remote island of Mayan, where technology is almost non-existent. While Shin stays on the island to heal his wounds, the tranqulity of the island is shattered by a battle that involves the UN's newest fighter - the VF-0. \n\n(Source: ANN)",
-  "trailer_url": null,
-  "genres": [
-    "Adventure",
-    "Sci-Fi"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
   "episodes": [
     {
       "numero": 1,
@@ -29,5 +62,96 @@
       "url": "https://lightspeedst.net/s4/mp4/macross-zero/sd/3.mp4",
       "nome": "Blue and Desperate Battle"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2002-12-21T00:00:00+00:00",
+    "to": "2004-10-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 21,
+        "month": 12,
+        "year": 2002
+      },
+      "to": {
+        "day": 20,
+        "month": 10,
+        "year": 2004
+      }
+    },
+    "string": "Dec 21, 2002 to Oct 20, 2004"
+  },
+  "duration": "31 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 7.47,
+  "scored_by": 20720,
+  "rank": 2192,
+  "popularity": 3858,
+  "members": 42443,
+  "favorites": 127,
+  "synopsis": "Taking place one year before the Zentraedi arrive on Earth, Macross Zero chronicles the final days of the war between the U.N. Spacy and anti-U.N. factions. After being shot down by the anti-U.N.'s newest fighter plane, ace pilot Shin Kudo finds himself on the remote island of Mayan, where technology is almost non-existent. While Shin stays on the island to heal his wounds, the tranqulity of the island is shattered by a battle that involves the UN's newest fighter - the VF-0. \n\n(Source: ANN)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "Bandai Visual",
+      "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+    },
+    {
+      "mal_id": 351,
+      "type": "anime",
+      "name": "Big West",
+      "url": "https://myanimelist.net/anime/producer/351/Big_West"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 3051,
+      "type": "anime",
+      "name": "Anime Limited",
+      "url": "https://myanimelist.net/anime/producer/3051/Anime_Limited"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 18,
+      "type": "anime",
+      "name": "Mecha",
+      "url": "https://myanimelist.net/anime/genre/18/Mecha"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/12/76289l.webp",
+  "trailer_url": null,
+  "id": 194,
+  "slug": "macross-zero"
 }

@@ -1,17 +1,47 @@
 {
-  "id": 53132,
-  "slug": "uniteup",
-  "type": "legendado",
+  "mal_id": 53132,
+  "url": "https://myanimelist.net/anime/53132/UniteUp",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1308/130458.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1308/130458t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1308/130458l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1308/130458.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1308/130458t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1308/130458l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/YW6YRHlBjTg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "UniteUp!"
+    },
+    {
+      "type": "Japanese",
+      "title": "UniteUp!"
+    }
+  ],
   "title": "UniteUp!",
   "title_english": "UniteUp!",
   "title_japanese": "UniteUp!",
-  "image": "https://cdn.myanimelist.net/images/anime/1308/130458l.webp",
-  "score": 7.05,
-  "synopsis": "Akira Kiyose, a high schooler who loves to sing, gets recruited by a talent agency called sMiLea Production. Akira learns that the legendary idols \"Anela,\" who shocked the world with their sudden retirement, are behind the agency developing talent. Together with Banri Naoe and Chihiro Isuzugawa, also recruited by the agency, they form an idol group as they chase their dream towards super stardom alongside other idol groups \"LEGIT\" and \"JAXX/JAXX.\"\n\n(Source: Aniplex USA, edited)",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/YW6YRHlBjTg?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Slice of Life"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Music",
   "episodes": [
     {
       "numero": 1,
@@ -73,5 +103,95 @@
       "url": "https://lightspeedst.net/s5/mp4_temp/uniteup/12/720p.mp4",
       "nome": "Let's Connect & Unite Up!"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2023-01-07T00:00:00+00:00",
+    "to": "2023-04-15T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2023
+      },
+      "to": {
+        "day": 15,
+        "month": 4,
+        "year": 2023
+      }
+    },
+    "string": "Jan 7, 2023 to Apr 15, 2023"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.05,
+  "scored_by": 3654,
+  "rank": 4319,
+  "popularity": 6588,
+  "members": 12017,
+  "favorites": 98,
+  "synopsis": "Akira Kiyose, a high schooler who loves to sing, gets recruited by a talent agency called sMiLea Production. Akira learns that the legendary idols \"Anela,\" who shocked the world with their sudden retirement, are behind the agency developing talent. Together with Banri Naoe and Chihiro Isuzugawa, also recruited by the agency, they form an idol group as they chase their dream towards super stardom alongside other idol groups \"LEGIT\" and \"JAXX/JAXX.\"\n\n(Source: Aniplex USA, edited)",
+  "background": "",
+  "season": "winter",
+  "year": 2023,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 757,
+      "type": "anime",
+      "name": "Sony Music Entertainment",
+      "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 493,
+      "type": "anime",
+      "name": "Aniplex of America",
+      "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 1835,
+      "type": "anime",
+      "name": "CloverWorks",
+      "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+    }
+  ],
+  "genres": [
+    "Slice of Life"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 61,
+      "type": "anime",
+      "name": "Idols (Male)",
+      "url": "https://myanimelist.net/anime/genre/61/Idols_Male"
+    },
+    {
+      "mal_id": 19,
+      "type": "anime",
+      "name": "Music",
+      "url": "https://myanimelist.net/anime/genre/19/Music"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1308/130458l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/YW6YRHlBjTg?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 53132,
+  "slug": "uniteup"
 }

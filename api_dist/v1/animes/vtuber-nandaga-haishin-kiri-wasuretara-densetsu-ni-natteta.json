@@ -1,17 +1,51 @@
 {
-  "id": 54284,
-  "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-  "type": "legendado",
+  "mal_id": 54284,
+  "url": "https://myanimelist.net/anime/54284/VTuber_Nandaga_Haishin_Kiri_Wasuretara_Densetsu_ni_Natteta",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1606/144506.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1606/144506t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1606/144506l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1606/144506.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1606/144506t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1606/144506l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/gGTFRoDS-QI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta"
+    },
+    {
+      "type": "Japanese",
+      "title": "VTuberなんだが配信切り忘れたら伝説になってた"
+    },
+    {
+      "type": "English",
+      "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream"
+    }
+  ],
   "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
   "title_english": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
   "title_japanese": "VTuberなんだが配信切り忘れたら伝説になってた",
-  "image": "https://cdn.myanimelist.net/images/anime/1606/144506l.webp",
-  "score": 7.01,
-  "synopsis": "Third-generation VTuber Awayuki Kokorone's fans know her as a prim, proper, and graceful idol. Though she has considerably less fans compared to other VTubers in the Live-On agency, Awayuki's loyal following supports her every step of the way.\n\nOne night, Awayuki forgets to turn her livestream off—a blunder that changes the trajectory of her online career forever. Contrary to her usual angelic persona, her genuine brutish personality is exposed to more than ten thousand people who tuned in. Awayuki reveals that she is nothing more than a severe alcoholic who spouts profanities nonstop, constantly viewing her fellow VTubers with lustful admiration.\n\nHowever, instead of being reprimanded by her agency, Awayuki receives praise: her unhinged, disorderly conduct was Live-On's actual expectation of her. Now having her big break and permission to stream without holding anything back, the once-unpopular VTuber begins her rise to stardom.\n\n[Written by MAL Rewrite]",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/gGTFRoDS-QI?enablejsapi=1&wmode=opaque&autoplay=1",
-  "genres": [
-    "Comedy"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
   "episodes": [
     {
       "numero": 1,
@@ -64,5 +98,118 @@
       "numero": 12,
       "url": "https://lightspeedst.net/s7/mp4/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta/hd/12.mp4"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2024-07-07T00:00:00+00:00",
+    "to": "2024-09-22T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2024
+      },
+      "to": {
+        "day": 22,
+        "month": 9,
+        "year": 2024
+      }
+    },
+    "string": "Jul 7, 2024 to Sep 22, 2024"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.01,
+  "scored_by": 26003,
+  "rank": 4518,
+  "popularity": 2835,
+  "members": 73218,
+  "favorites": 240,
+  "synopsis": "Third-generation VTuber Awayuki Kokorone's fans know her as a prim, proper, and graceful idol. Though she has considerably less fans compared to other VTubers in the Live-On agency, Awayuki's loyal following supports her every step of the way.\n\nOne night, Awayuki forgets to turn her livestream off—a blunder that changes the trajectory of her online career forever. Contrary to her usual angelic persona, her genuine brutish personality is exposed to more than ten thousand people who tuned in. Awayuki reveals that she is nothing more than a severe alcoholic who spouts profanities nonstop, constantly viewing her fellow VTubers with lustful admiration.\n\nHowever, instead of being reprimanded by her agency, Awayuki receives praise: her unhinged, disorderly conduct was Live-On's actual expectation of her. Now having her big break and permission to stream without holding anything back, the once-unpopular VTuber begins her rise to stardom.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2024,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 23:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 719,
+      "type": "anime",
+      "name": "Studio Mausu",
+      "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+    },
+    {
+      "mal_id": 1680,
+      "type": "anime",
+      "name": "BS NTV",
+      "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 2545,
+      "type": "anime",
+      "name": "Kyoto Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/2545/Kyoto_Broadcasting_System"
+    },
+    {
+      "mal_id": 2927,
+      "type": "anime",
+      "name": "DAXEL",
+      "url": "https://myanimelist.net/anime/producer/2927/DAXEL"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 120,
+      "type": "anime",
+      "name": "TNK",
+      "url": "https://myanimelist.net/anime/producer/120/TNK"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 69,
+      "type": "anime",
+      "name": "Otaku Culture",
+      "url": "https://myanimelist.net/anime/genre/69/Otaku_Culture"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1606/144506l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/gGTFRoDS-QI?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 54284,
+  "slug": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
 }

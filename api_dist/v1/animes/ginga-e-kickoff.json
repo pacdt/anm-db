@@ -1,17 +1,55 @@
 {
-  "id": 12875,
-  "slug": "ginga-e-kickoff",
-  "type": "legendado",
+  "mal_id": 12875,
+  "url": "https://myanimelist.net/anime/12875/Ginga_e_Kickoff",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1525/120263.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1525/120263t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1525/120263l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1525/120263.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1525/120263t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1525/120263l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Ginga e Kickoff!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "銀河へキックオフ!!"
+    },
+    {
+      "type": "English",
+      "title": "Victory Kickoff!!"
+    },
+    {
+      "type": "French",
+      "title": "Victory Kickoff"
+    }
+  ],
   "title": "Ginga e Kickoff!!",
   "title_english": "Victory Kickoff!!",
   "title_japanese": "銀河へキックオフ!!",
-  "image": "https://cdn.myanimelist.net/images/anime/1525/120263l.webp",
-  "score": 7.2,
-  "synopsis": "The story follows a boy who was in a soccer team, but it was disbanded due to not enough players. However, after the boy meets a female professional soccer player, he aims to bring his soccer team back.\n\n(Source: AniDB)",
-  "trailer_url": null,
-  "genres": [
-    "Sports"
-  ],
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Novel",
   "episodes": [
     {
       "numero": 1,
@@ -208,5 +246,88 @@
       "url": "https://www.blogger.com/video.g?token=AD6v5dx8MJ4-o_zqLRbnBbnCbPxqAeS6uBKVkvaL1HNDzMV12RZzAev6ztx73xmpzdoFYzzJiIA-FbNaGEewdok50hflNvyu6THKOEKbdQMMLzwocvY3IO6W6glR73lS7GvFPbxYeYQ",
       "nome": "World Cup of Galaxy"
     }
-  ]
+  ],
+  "status": "Finished Airing",
+  "airing": false,
+  "aired": {
+    "from": "2012-03-26T00:00:00+00:00",
+    "to": "2013-02-26T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 26,
+        "month": 3,
+        "year": 2012
+      },
+      "to": {
+        "day": 26,
+        "month": 2,
+        "year": 2013
+      }
+    },
+    "string": "Mar 26, 2012 to Feb 26, 2013"
+  },
+  "duration": "25 min per ep",
+  "rating": "PG - Children",
+  "score": 7.2,
+  "scored_by": 13235,
+  "rank": 3502,
+  "popularity": 4601,
+  "members": 29255,
+  "favorites": 152,
+  "synopsis": "The story follows a boy who was in a soccer team, but it was disbanded due to not enough players. However, after the boy meets a female professional soccer player, he aims to bring his soccer team back.\n\n(Source: AniDB)",
+  "background": "",
+  "season": "spring",
+  "year": 2012,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "19:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 19:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 111,
+      "type": "anime",
+      "name": "NHK",
+      "url": "https://myanimelist.net/anime/producer/111/NHK"
+    },
+    {
+      "mal_id": 139,
+      "type": "anime",
+      "name": "Nihon Ad Systems",
+      "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+    },
+    {
+      "mal_id": 1797,
+      "type": "anime",
+      "name": "NHK Enterprises",
+      "url": "https://myanimelist.net/anime/producer/1797/NHK_Enterprises"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 333,
+      "type": "anime",
+      "name": "TYO Animations",
+      "url": "https://myanimelist.net/anime/producer/333/TYO_Animations"
+    }
+  ],
+  "genres": [
+    "Sports"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 77,
+      "type": "anime",
+      "name": "Team Sports",
+      "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1525/120263l.webp",
+  "trailer_url": null,
+  "id": 12875,
+  "slug": "ginga-e-kickoff"
 }
