@@ -1,0 +1,126 @@
+{
+  "mal_id": 63087,
+  "url": "https://myanimelist.net/anime/63087/Yami_Shibai_16",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1666/154215.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1666/154215t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1666/154215l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1666/154215.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1666/154215t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1666/154215l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": null,
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yami Shibai 16"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories Sixteenth Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Yamishibai: Japanese Ghost Stories 16"
+    },
+    {
+      "type": "Japanese",
+      "title": "闇芝居 十六期"
+    },
+    {
+      "type": "English",
+      "title": "Theatre of Darkness: Yamishibai 16"
+    }
+  ],
+  "title": "Yami Shibai 16",
+  "title_english": "Theatre of Darkness: Yamishibai 16",
+  "title_japanese": "闇芝居 十六期",
+  "title_synonyms": [
+    "Yamishibai: Japanese Ghost Stories Sixteenth Season",
+    "Yamishibai: Japanese Ghost Stories 16"
+  ],
+  "type": "legendado",
+  "source": "Original",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4_temp/yami-shibai-16/1/720p.mp4",
+      "nome": "Episódio 1"
+    }
+  ],
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-12T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 12,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 12, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 14621,
+  "members": 1099,
+  "favorites": 2,
+  "synopsis": "Sixteenth season of Yami Shibai.",
+  "background": "",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "02:20",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 02:20 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1169,
+      "type": "anime",
+      "name": "ILCA",
+      "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+    }
+  ],
+  "genres": [
+    "Avant Garde",
+    "Horror",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1666/154215l.webp",
+  "trailer_url": null,
+  "id": 63087,
+  "slug": "yami-shibai-16"
+}

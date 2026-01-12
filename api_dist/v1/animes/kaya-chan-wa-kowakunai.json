@@ -1,0 +1,133 @@
+{
+  "mal_id": 60223,
+  "url": "https://myanimelist.net/anime/60223/Kaya-chan_wa_Kowakunai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1194/153705.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1194/153705t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1194/153705l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1194/153705.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1194/153705t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1194/153705l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/un9g38-wbHw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kaya-chan wa Kowakunai"
+    },
+    {
+      "type": "Japanese",
+      "title": "カヤちゃんはコワくない"
+    },
+    {
+      "type": "English",
+      "title": "Kaya-chan Isn't Scary"
+    }
+  ],
+  "title": "Kaya-chan wa Kowakunai",
+  "title_english": "Kaya-chan Isn't Scary",
+  "title_japanese": "カヤちゃんはコワくない",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Web manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s2/mp4_temp/kaya-chan-wa-kowakunai/1/720p.mp4",
+      "nome": "Episódio 1"
+    }
+  ],
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-01-11T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 11, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 6529,
+  "members": 12283,
+  "favorites": 31,
+  "synopsis": "Kaya-chan is infamous at kindergarten for being a troublemaker. But Ms. Chie, who's been assigned to look after her, soon discovers Kaya's hidden abilities. Get ready for the ultimate horror-action adventure set in kindergarten!\n\n(Source: MAL News)",
+  "background": "",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2455,
+      "type": "anime",
+      "name": "East Fish Studio",
+      "url": "https://myanimelist.net/anime/producer/2455/East_Fish_Studio"
+    }
+  ],
+  "genres": [
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1194/153705l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/un9g38-wbHw?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 60223,
+  "slug": "kaya-chan-wa-kowakunai"
+}
