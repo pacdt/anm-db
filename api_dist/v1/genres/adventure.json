@@ -1,8 +1,22 @@
 {
   "name": "Adventure",
   "slug": "adventure",
-  "count": 1002,
+  "count": 1004,
   "animes": [
+    {
+      "title": "Golden Kamuy Final Season",
+      "slug": "golden-kamuy-saishuushou",
+      "image": "https://cdn.myanimelist.net/images/anime/1288/154763l.webp",
+      "score": 8.05,
+      "type": "legendado"
+    },
+    {
+      "title": "Hell's Paradise Season 2",
+      "slug": "jigokuraku-2nd-season",
+      "image": "https://cdn.myanimelist.net/images/anime/1772/154456l.webp",
+      "score": null,
+      "type": "legendado"
+    },
     {
       "title": "The Daily Life of the Immortal King 5",
       "slug": "xian-wang-de-richang-shenghuo-5",
