@@ -1,8 +1,22 @@
 {
   "name": "Comedy",
   "slug": "comedy",
-  "count": 1787,
+  "count": 1788,
   "animes": [
+    {
+      "title": "Tamon's B-Side",
+      "slug": "tamon-kun-ima-docchi",
+      "image": "https://cdn.myanimelist.net/images/anime/1474/153320l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "'Tis Time for \"Torture,\" Princess Season 2",
+      "slug": "himesama-goumon-no-jikan-desu-2nd-season",
+      "image": "https://cdn.myanimelist.net/images/anime/1272/153326l.webp",
+      "score": 7.56,
+      "type": "legendado"
+    },
     {
       "title": "The Demon King's Daughter Is Too Kind!!",
       "slug": "maou-no-musume-wa-yasashisugiru",
@@ -63,13 +77,6 @@
       "title": "The Daily Life of a Part-time Torturer",
       "slug": "goumon-baito-kun-no-nichijou",
       "image": "https://cdn.myanimelist.net/images/anime/1721/153380l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Tamon's B-Side",
-      "slug": "tamon-kun-ima-docchi",
-      "image": "https://cdn.myanimelist.net/images/anime/1474/153320l.webp",
       "score": null,
       "type": "legendado"
     },
