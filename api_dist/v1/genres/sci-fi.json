@@ -1,8 +1,22 @@
 {
   "name": "Sci-Fi",
   "slug": "sci-fi",
-  "count": 849,
+  "count": 851,
   "animes": [
+    {
+      "title": "The Darwin Incident",
+      "slug": "darwin-jihen",
+      "image": "https://cdn.myanimelist.net/images/anime/1341/152829l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "The Darwin Incident",
+      "slug": "darwin-jihen-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1341/152829l.webp",
+      "score": 6.75,
+      "type": "dublado"
+    },
     {
       "title": "Yoroi Shin Den Samurai Troopers",
       "slug": "yoroi-shin-den-samurai-troopers",

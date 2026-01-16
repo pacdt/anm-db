@@ -44,20 +44,9 @@
   "title_english": "My Hero Academia: Vigilantes Season 2",
   "title_japanese": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
   "title_synonyms": [],
-  "type": "legendado",
+  "type": "TV",
   "source": "Manga",
-  "episodes": [
-    {
-      "numero": 1,
-      "url": "https://lightspeedst.net/s2/mp4_temp/vigilante-boku-no-hero-academia-illegals-2nd-season/1/720p.mp4",
-      "nome": "Episódio 1"
-    },
-    {
-      "numero": 2,
-      "url": "https://lightspeedst.net/s2/mp4/vigilante-boku-no-hero-academia-illegals-2nd-season/hd/2.mp4",
-      "nome": "Episódio 2"
-    }
-  ],
+  "episodes": 13,
   "status": "Currently Airing",
   "airing": true,
   "aired": {
@@ -80,11 +69,11 @@
   "duration": "23 min per ep",
   "rating": "PG-13 - Teens 13 or older",
   "score": 7.44,
-  "scored_by": 3490,
-  "rank": 2317,
-  "popularity": 3174,
-  "members": 60041,
-  "favorites": 60,
+  "scored_by": 4117,
+  "rank": 2320,
+  "popularity": 3118,
+  "members": 62375,
+  "favorites": 67,
   "synopsis": "Second season of Vigilante: Boku no Hero Academia Illegals.",
   "background": "",
   "season": "winter",
@@ -155,7 +144,12 @@
     }
   ],
   "genres": [
-    "Action"
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    }
   ],
   "explicit_genres": [],
   "themes": [
@@ -173,9 +167,5 @@
       "name": "Shounen",
       "url": "https://myanimelist.net/anime/genre/27/Shounen"
     }
-  ],
-  "image": "https://cdn.myanimelist.net/images/anime/1592/154049l.webp",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/AIqqJy5xLUw?enablejsapi=1&wmode=opaque&autoplay=1",
-  "id": 61942,
-  "slug": "vigilante-boku-no-hero-academia-illegals-2nd-season"
+  ]
 }
