@@ -1,0 +1,177 @@
+{
+  "mal_id": 59229,
+  "url": "https://myanimelist.net/anime/59229/Enen_no_Shouboutai__San_no_Shou_Part_2",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1508/152472.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1508/152472t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1508/152472l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1508/152472.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1508/152472t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1508/152472l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/voLZJvdwUEE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Enen no Shouboutai: San no Shou Part 2"
+    },
+    {
+      "type": "Japanese",
+      "title": "炎炎ノ消防隊 参ノ章 第2クール"
+    },
+    {
+      "type": "English",
+      "title": "Fire Force Season 3 Part 2"
+    }
+  ],
+  "title": "Enen no Shouboutai: San no Shou Part 2",
+  "title_english": "Fire Force Season 3 Part 2",
+  "title_japanese": "炎炎ノ消防隊 参ノ章 第2クール",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-01-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 1,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jan 10, 2026 to ?"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.01,
+  "scored_by": 6133,
+  "rank": 697,
+  "popularity": 1993,
+  "members": 126390,
+  "favorites": 258,
+  "synopsis": "Second part of Enen no Shouboutai: San no Shou.",
+  "background": "Enen no Shouboutai: San no Shou Part 2 aired on MBS' Animeism block.",
+  "season": "winter",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "01:53",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 01:53 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    },
+    {
+      "mal_id": 1542,
+      "type": "anime",
+      "name": "DMM.com",
+      "url": "https://myanimelist.net/anime/producer/1542/DMMcom"
+    },
+    {
+      "mal_id": 2232,
+      "type": "anime",
+      "name": "ADK Marketing Solutions",
+      "url": "https://myanimelist.net/anime/producer/2232/ADK_Marketing_Solutions"
+    },
+    {
+      "mal_id": 2680,
+      "type": "anime",
+      "name": "Sankyo",
+      "url": "https://myanimelist.net/anime/producer/2680/Sankyo_"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 287,
+      "type": "anime",
+      "name": "David Production",
+      "url": "https://myanimelist.net/anime/producer/287/David_Production"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 82,
+      "type": "anime",
+      "name": "Urban Fantasy",
+      "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}
