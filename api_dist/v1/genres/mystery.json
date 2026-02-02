@@ -1,8 +1,15 @@
 {
   "name": "Mystery",
   "slug": "mystery",
-  "count": 452,
+  "count": 453,
   "animes": [
+    {
+      "title": "Star Detective Precure!",
+      "slug": "meitantei-precure",
+      "image": "https://cdn.myanimelist.net/images/anime/1706/154944l.webp",
+      "score": 7.06,
+      "type": "legendado"
+    },
     {
       "title": "The Holy Grail of Eris",
       "slug": "eris-no-seihai",
