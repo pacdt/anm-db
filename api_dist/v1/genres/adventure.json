@@ -1,104 +1,13 @@
 {
   "name": "Adventure",
   "slug": "adventure",
-  "count": 1008,
+  "count": 1010,
   "animes": [
-    {
-      "title": "Sentenced to Be a Hero",
-      "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
-      "image": "https://cdn.myanimelist.net/images/anime/1062/151911l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Champignon Witch",
-      "slug": "champignon-no-majo",
-      "image": "https://cdn.myanimelist.net/images/anime/1499/152613l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Roll Over and Die",
-      "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
-      "image": "https://cdn.myanimelist.net/images/anime/1360/153435l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "A Gentle Noble's Vacation Recommendation",
-      "slug": "odayaka-kizoku-no-kyuuka-no-susume",
-      "image": "https://cdn.myanimelist.net/images/anime/1968/152396l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "An Adventurer's Daily Grind at Age 29",
-      "slug": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
-      "image": "https://cdn.myanimelist.net/images/anime/1765/154087l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Jack-of-All-Trades, Party of None",
-      "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-      "image": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
-      "slug": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
-      "image": "https://cdn.myanimelist.net/images/anime/1573/152828l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Yoroi Shin Den Samurai Troopers",
-      "slug": "yoroi-shin-den-samurai-troopers",
-      "image": "https://cdn.myanimelist.net/images/anime/1289/153952l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Golden Kamuy Final Season",
-      "slug": "golden-kamuy-saishuushou",
-      "image": "https://cdn.myanimelist.net/images/anime/1288/154763l.webp",
-      "score": 8.05,
-      "type": "legendado"
-    },
     {
       "title": "Hell's Paradise Season 2",
       "slug": "jigokuraku-2nd-season",
       "image": "https://cdn.myanimelist.net/images/anime/1772/154456l.webp",
       "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
-      "slug": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
-      "image": "https://cdn.myanimelist.net/images/anime/1629/153722l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Reincarnated as a Dragon Hatchling",
-      "slug": "tensei-shitara-dragon-no-tamago-datta",
-      "image": "https://cdn.myanimelist.net/images/anime/1031/154235l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "To Your Eternity Season 3",
-      "slug": "fumetsu-no-anata-e-season-3",
-      "image": "https://cdn.myanimelist.net/images/anime/1140/152364l.webp",
-      "score": 7.78,
-      "type": "legendado"
-    },
-    {
-      "title": "Trigun Stargaze",
-      "slug": "trigun-stargaze",
-      "image": "https://cdn.myanimelist.net/images/anime/1219/154541l.webp",
-      "score": 7.4,
       "type": "legendado"
     },
     {
@@ -114,6 +23,111 @@
       "image": "https://cdn.myanimelist.net/images/anime/1151/152479l.webp",
       "score": null,
       "type": "legendado"
+    },
+    {
+      "title": "Golden Kamuy Final Season",
+      "slug": "golden-kamuy-saishuushou",
+      "image": "https://cdn.myanimelist.net/images/anime/1288/154763l.webp",
+      "score": 8.05,
+      "type": "legendado"
+    },
+    {
+      "title": "Trigun Stargaze",
+      "slug": "trigun-stargaze",
+      "image": "https://cdn.myanimelist.net/images/anime/1219/154541l.webp",
+      "score": 7.4,
+      "type": "legendado"
+    },
+    {
+      "title": "Reincarnated as a Dragon Hatchling",
+      "slug": "tensei-shitara-dragon-no-tamago-datta",
+      "image": "https://cdn.myanimelist.net/images/anime/1031/154235l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "slug": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
+      "image": "https://cdn.myanimelist.net/images/anime/1629/153722l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "To Your Eternity Season 3",
+      "slug": "fumetsu-no-anata-e-season-3",
+      "image": "https://cdn.myanimelist.net/images/anime/1140/152364l.webp",
+      "score": 7.78,
+      "type": "legendado"
+    },
+    {
+      "title": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+      "slug": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
+      "image": "https://cdn.myanimelist.net/images/anime/1573/152828l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Sentenced to Be a Hero",
+      "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
+      "image": "https://cdn.myanimelist.net/images/anime/1062/151911l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Jack-of-All-Trades, Party of None",
+      "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
+      "image": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Yoroi Shin Den Samurai Troopers",
+      "slug": "yoroi-shin-den-samurai-troopers",
+      "image": "https://cdn.myanimelist.net/images/anime/1289/153952l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "An Adventurer's Daily Grind at Age 29",
+      "slug": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
+      "image": "https://cdn.myanimelist.net/images/anime/1765/154087l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Roll Over and Die",
+      "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
+      "image": "https://cdn.myanimelist.net/images/anime/1360/153435l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Champignon Witch",
+      "slug": "champignon-no-majo",
+      "image": "https://cdn.myanimelist.net/images/anime/1499/152613l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "A Gentle Noble's Vacation Recommendation",
+      "slug": "odayaka-kizoku-no-kyuuka-no-susume",
+      "image": "https://cdn.myanimelist.net/images/anime/1968/152396l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Hell's Paradise Season 2",
+      "slug": "jigokuraku-2nd-season-dublado",
+      "image": "https://myanimelist.net/images/anime/1772/154456l.webp",
+      "score": 8.24,
+      "type": "dublado"
+    },
+    {
+      "title": "Frieren: Beyond Journey's End Season 2",
+      "slug": "sousou-no-frieren-2nd-season-dublado",
+      "image": "https://myanimelist.net/images/anime/1921/154528l.webp",
+      "score": 9.15,
+      "type": "dublado"
     },
     {
       "title": "The Daily Life of the Immortal King 5",

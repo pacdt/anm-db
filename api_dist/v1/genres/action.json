@@ -1,8 +1,127 @@
 {
   "name": "Action",
   "slug": "action",
-  "count": 1803,
+  "count": 1806,
   "animes": [
+    {
+      "title": "Dead Account",
+      "slug": "dead-account",
+      "image": "https://cdn.myanimelist.net/images/anime/1622/154192l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Hell's Paradise Season 2",
+      "slug": "jigokuraku-2nd-season",
+      "image": "https://cdn.myanimelist.net/images/anime/1772/154456l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "SI-VIS: The Sound of Heroes",
+      "slug": "si-vis-the-sound-of-heroes",
+      "image": "https://cdn.myanimelist.net/images/anime/1421/154342l.webp",
+      "score": 5.98,
+      "type": "legendado"
+    },
+    {
+      "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+      "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
+      "image": "https://cdn.myanimelist.net/images/anime/1151/152479l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Fire Force Season 3 Part 2",
+      "slug": "enen-no-shouboutai-san-no-shou-part-2",
+      "image": "https://cdn.myanimelist.net/images/anime/1508/152472l.webp",
+      "score": 8.01,
+      "type": "legendado"
+    },
+    {
+      "title": "My Hero Academia: Vigilantes Season 2",
+      "slug": "vigilante-boku-no-hero-academia-illegals-2nd-season",
+      "image": "https://cdn.myanimelist.net/images/anime/1592/154049l.webp",
+      "score": 7.44,
+      "type": "legendado"
+    },
+    {
+      "title": "Golden Kamuy Final Season",
+      "slug": "golden-kamuy-saishuushou",
+      "image": "https://cdn.myanimelist.net/images/anime/1288/154763l.webp",
+      "score": 8.05,
+      "type": "legendado"
+    },
+    {
+      "title": "Trigun Stargaze",
+      "slug": "trigun-stargaze",
+      "image": "https://cdn.myanimelist.net/images/anime/1219/154541l.webp",
+      "score": 7.4,
+      "type": "legendado"
+    },
+    {
+      "title": "Star Detective Precure!",
+      "slug": "meitantei-precure",
+      "image": "https://cdn.myanimelist.net/images/anime/1706/154944l.webp",
+      "score": 7.06,
+      "type": "legendado"
+    },
+    {
+      "title": "Fate/strange Fake",
+      "slug": "fate-strange-fake",
+      "image": "https://cdn.myanimelist.net/images/anime/1752/150192l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Scum of the Brave",
+      "slug": "yuusha-no-kuzu",
+      "image": "https://cdn.myanimelist.net/images/anime/1821/154043l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Reincarnated as a Dragon Hatchling",
+      "slug": "tensei-shitara-dragon-no-tamago-datta",
+      "image": "https://cdn.myanimelist.net/images/anime/1031/154235l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Blue Miburo Season 2",
+      "slug": "ao-no-miburo-serizawa-ansatsu-hen",
+      "image": "https://cdn.myanimelist.net/images/anime/1393/151603l.webp",
+      "score": 6.86,
+      "type": "legendado"
+    },
+    {
+      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "slug": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
+      "image": "https://cdn.myanimelist.net/images/anime/1629/153722l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Tojima Wants to Be a Kamen Rider",
+      "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
+      "image": "https://cdn.myanimelist.net/images/anime/1455/152139l.webp",
+      "score": 7.64,
+      "type": "legendado"
+    },
+    {
+      "title": "Digimon Beatbreak",
+      "slug": "digimon-beatbreak",
+      "image": "https://cdn.myanimelist.net/images/anime/1776/151242l.webp",
+      "score": 7.07,
+      "type": "legendado"
+    },
+    {
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "slug": "jujutsu-kaisen-shimetsu-kaiyuu---zenpen",
+      "image": "https://cdn.myanimelist.net/images/anime/1127/154488l.webp",
+      "score": null,
+      "type": "legendado"
+    },
     {
       "title": "Sentenced to Be a Hero",
       "slug": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
@@ -18,9 +137,9 @@
       "type": "legendado"
     },
     {
-      "title": "Roll Over and Die",
-      "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
-      "image": "https://cdn.myanimelist.net/images/anime/1360/153435l.webp",
+      "title": "Jack-of-All-Trades, Party of None",
+      "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
+      "image": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp",
       "score": null,
       "type": "legendado"
     },
@@ -32,13 +151,6 @@
       "type": "legendado"
     },
     {
-      "title": "Jujutsu Kaisen: The Culling Game Part 1",
-      "slug": "jujutsu-kaisen-shimetsu-kaiyuu---zenpen",
-      "image": "https://cdn.myanimelist.net/images/anime/1127/154488l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
       "title": "The Outcast Season 6",
       "slug": "yi-ren-zhi-xia-6",
       "image": "https://cdn.myanimelist.net/images/anime/1756/151431l.webp",
@@ -46,123 +158,39 @@
       "type": "legendado"
     },
     {
-      "title": "Jack-of-All-Trades, Party of None",
-      "slug": "yuusha-party-wo-oidasareta-kiyoubinbou",
-      "image": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp",
+      "title": "Rooster Fighter",
+      "slug": "niwatori-fighter",
+      "image": "https://myanimelist.net/images/anime/1666/150983l.webp",
+      "score": 6.78,
+      "type": "legendado"
+    },
+    {
+      "title": "Roll Over and Die",
+      "slug": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
+      "image": "https://cdn.myanimelist.net/images/anime/1360/153435l.webp",
       "score": null,
       "type": "legendado"
     },
     {
-      "title": "Golden Kamuy Final Season",
-      "slug": "golden-kamuy-saishuushou",
-      "image": "https://cdn.myanimelist.net/images/anime/1288/154763l.webp",
-      "score": 8.05,
-      "type": "legendado"
-    },
-    {
-      "title": "My Hero Academia: Vigilantes Season 2",
-      "slug": "vigilante-boku-no-hero-academia-illegals-2nd-season",
-      "image": "https://cdn.myanimelist.net/images/anime/1592/154049l.webp",
-      "score": 7.44,
-      "type": "legendado"
-    },
-    {
-      "title": "Fate/strange Fake",
-      "slug": "fate-strange-fake",
-      "image": "https://cdn.myanimelist.net/images/anime/1752/150192l.webp",
-      "score": null,
-      "type": "legendado"
+      "title": "Jujutsu Kaisen: The Culling Game Part 1",
+      "slug": "jujutsu-kaisen-shimetsu-kaiyuu---zenpen-dublado",
+      "image": "https://myanimelist.net/images/anime/1659/154920l.webp",
+      "score": 8.59,
+      "type": "dublado"
     },
     {
       "title": "Hell's Paradise Season 2",
-      "slug": "jigokuraku-2nd-season",
-      "image": "https://cdn.myanimelist.net/images/anime/1772/154456l.webp",
-      "score": null,
-      "type": "legendado"
+      "slug": "jigokuraku-2nd-season-dublado",
+      "image": "https://myanimelist.net/images/anime/1772/154456l.webp",
+      "score": 8.24,
+      "type": "dublado"
     },
     {
-      "title": "Tojima Wants to Be a Kamen Rider",
-      "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
-      "image": "https://cdn.myanimelist.net/images/anime/1455/152139l.webp",
-      "score": 7.64,
-      "type": "legendado"
-    },
-    {
-      "title": "Scum of the Brave",
-      "slug": "yuusha-no-kuzu",
-      "image": "https://cdn.myanimelist.net/images/anime/1821/154043l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
-      "slug": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
-      "image": "https://cdn.myanimelist.net/images/anime/1629/153722l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Dead Account",
-      "slug": "dead-account",
-      "image": "https://cdn.myanimelist.net/images/anime/1622/154192l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Reincarnated as a Dragon Hatchling",
-      "slug": "tensei-shitara-dragon-no-tamago-datta",
-      "image": "https://cdn.myanimelist.net/images/anime/1031/154235l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "slug": "digimon-beatbreak",
-      "image": "https://cdn.myanimelist.net/images/anime/1776/151242l.webp",
-      "score": 7.07,
-      "type": "legendado"
-    },
-    {
-      "title": "SI-VIS: The Sound of Heroes",
-      "slug": "si-vis-the-sound-of-heroes",
-      "image": "https://cdn.myanimelist.net/images/anime/1421/154342l.webp",
-      "score": 5.98,
-      "type": "legendado"
-    },
-    {
-      "title": "Star Detective Precure!",
-      "slug": "meitantei-precure",
-      "image": "https://cdn.myanimelist.net/images/anime/1706/154944l.webp",
-      "score": 7.06,
-      "type": "legendado"
-    },
-    {
-      "title": "Trigun Stargaze",
-      "slug": "trigun-stargaze",
-      "image": "https://cdn.myanimelist.net/images/anime/1219/154541l.webp",
-      "score": 7.4,
-      "type": "legendado"
-    },
-    {
-      "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
-      "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
-      "image": "https://cdn.myanimelist.net/images/anime/1151/152479l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Blue Miburo Season 2",
-      "slug": "ao-no-miburo-serizawa-ansatsu-hen",
-      "image": "https://cdn.myanimelist.net/images/anime/1393/151603l.webp",
-      "score": 6.86,
-      "type": "legendado"
-    },
-    {
-      "title": "Fire Force Season 3 Part 2",
-      "slug": "enen-no-shouboutai-san-no-shou-part-2",
-      "image": "https://cdn.myanimelist.net/images/anime/1508/152472l.webp",
-      "score": 8.01,
-      "type": "legendado"
+      "title": "One-Punch Man Season 3",
+      "slug": "one-punch-man-3-dublado",
+      "image": "https://cdn.myanimelist.net/images/anime/1168/148347l.webp",
+      "score": 4.71,
+      "type": "dublado"
     },
     {
       "title": "You and Idol Precure♪",
@@ -176,13 +204,6 @@
       "slug": "ninja-to-gokudou-dublado",
       "image": "https://cdn.myanimelist.net/images/anime/1296/152147l.webp",
       "score": 6.41,
-      "type": "dublado"
-    },
-    {
-      "title": "One-Punch Man Season 3",
-      "slug": "one-punch-man-3-dublado",
-      "image": "https://cdn.myanimelist.net/images/anime/1168/148347l.webp",
-      "score": 4.71,
       "type": "dublado"
     },
     {
