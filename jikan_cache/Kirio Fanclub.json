@@ -1,0 +1,159 @@
+{
+  "mal_id": 59835,
+  "url": "https://myanimelist.net/anime/59835/Kirio_Fanclub",
+  "images": {
+    "jpg": {
+      "image_url": "https://myanimelist.net/images/anime/1066/155831.jpg",
+      "small_image_url": "https://myanimelist.net/images/anime/1066/155831t.jpg",
+      "large_image_url": "https://myanimelist.net/images/anime/1066/155831l.jpg"
+    },
+    "webp": {
+      "image_url": "https://myanimelist.net/images/anime/1066/155831.webp",
+      "small_image_url": "https://myanimelist.net/images/anime/1066/155831t.webp",
+      "large_image_url": "https://myanimelist.net/images/anime/1066/155831l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/n3c6bAOhVUg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kirio Fanclub"
+    },
+    {
+      "type": "Japanese",
+      "title": "霧尾ファンクラブ"
+    },
+    {
+      "type": "English",
+      "title": "Kirio Fan Club"
+    }
+  ],
+  "title": "Kirio Fanclub",
+  "title_english": "Kirio Fan Club",
+  "title_japanese": "霧尾ファンクラブ",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 12,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-04-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 4,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 3, 2026 to ?"
+  },
+  "duration": "23 min per ep",
+  "rating": null,
+  "score": 6.24,
+  "scored_by": 533,
+  "rank": 9440,
+  "popularity": 7672,
+  "members": 8679,
+  "favorites": 12,
+  "synopsis": "Miyoshi Aimi and Nami Sometani are two high school girls who often find themselves talking about a boy in their class, Kirio. This lighthearted romantic comedy follows the daily lives of these two friends and rivals on a journey that, for now, seems to be heading everywhere but love.\n\n(Source: Comic Ruelle, translated)",
+  "background": "Kirio Fanclub aired on MBS and TBS' Super Animeism Turbo block.",
+  "season": "spring",
+  "year": 2026,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "00:26",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 00:26 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 144,
+      "type": "anime",
+      "name": "Pony Canyon",
+      "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    },
+    {
+      "mal_id": 1688,
+      "type": "anime",
+      "name": "Parco",
+      "url": "https://myanimelist.net/anime/producer/1688/Parco"
+    },
+    {
+      "mal_id": 2098,
+      "type": "anime",
+      "name": "Mixer",
+      "url": "https://myanimelist.net/anime/producer/2098/Mixer"
+    },
+    {
+      "mal_id": 3056,
+      "type": "anime",
+      "name": "Jitsugyo no Nihon Sha",
+      "url": "https://myanimelist.net/anime/producer/3056/Jitsugyo_no_Nihon_Sha"
+    },
+    {
+      "mal_id": 3239,
+      "type": "anime",
+      "name": "Studio Sound Bee",
+      "url": "https://myanimelist.net/anime/producer/3239/Studio_Sound_Bee"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Satelight",
+      "url": "https://myanimelist.net/anime/producer/41/Satelight"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

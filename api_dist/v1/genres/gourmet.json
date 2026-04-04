@@ -1,13 +1,20 @@
 {
   "name": "Gourmet",
   "slug": "gourmet",
-  "count": 67,
+  "count": 68,
   "animes": [
     {
       "title": "'Tis Time for \"Torture,\" Princess Season 2",
       "slug": "himesama-goumon-no-jikan-desu-2nd-season",
       "image": "https://cdn.myanimelist.net/images/anime/1272/153326l.webp",
       "score": 7.56,
+      "type": "legendado"
+    },
+    {
+      "title": "The Food Diary of Miss Maid",
+      "slug": "maid-san-wa-taberu-dake",
+      "image": "https://myanimelist.net/images/anime/1175/156007l.webp",
+      "score": 6.82,
       "type": "legendado"
     },
     {
