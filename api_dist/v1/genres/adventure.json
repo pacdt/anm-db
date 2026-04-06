@@ -1,8 +1,29 @@
 {
   "name": "Adventure",
   "slug": "adventure",
-  "count": 1015,
+  "count": 1016,
   "animes": [
+    {
+      "title": "Daemons of the Shadow Realm",
+      "slug": "yomi-no-tsugai",
+      "image": "https://myanimelist.net/images/anime/1171/156397l.webp",
+      "score": 8.03,
+      "type": "legendado"
+    },
+    {
+      "title": "One Piece: The Movie",
+      "slug": "one-piece",
+      "image": "https://cdn.myanimelist.net/images/anime/1770/97704l.webp",
+      "score": 7.09,
+      "type": "legendado"
+    },
+    {
+      "title": "The Strongest Job is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
+      "slug": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
+      "image": "https://myanimelist.net/images/anime/1632/155095l.webp",
+      "score": 6.38,
+      "type": "legendado"
+    },
     {
       "title": "A Gentle Noble's Vacation Recommendation",
       "slug": "odayaka-kizoku-no-kyuuka-no-susume",
@@ -36,13 +57,6 @@
       "slug": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
       "image": "https://cdn.myanimelist.net/images/anime/1573/152828l.webp",
       "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "The Strongest Job is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
-      "slug": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
-      "image": "https://myanimelist.net/images/anime/1632/155095l.webp",
-      "score": 6.38,
       "type": "legendado"
     },
     {
@@ -2269,13 +2283,6 @@
       "slug": "one-piece-taose-kaizoku-ganzack",
       "image": "https://cdn.myanimelist.net/images/anime/1848/96972l.webp",
       "score": 6.69,
-      "type": "legendado"
-    },
-    {
-      "title": "One Piece: The Movie",
-      "slug": "one-piece",
-      "image": "https://cdn.myanimelist.net/images/anime/1770/97704l.webp",
-      "score": 7.09,
       "type": "legendado"
     },
     {

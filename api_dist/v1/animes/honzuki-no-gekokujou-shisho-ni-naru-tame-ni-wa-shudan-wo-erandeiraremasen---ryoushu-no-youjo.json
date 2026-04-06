@@ -1,0 +1,180 @@
+{
+  "mal_id": 57466,
+  "url": "https://myanimelist.net/anime/57466/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_-_Ryoushu_no_Youjo",
+  "images": {
+    "jpg": {
+      "image_url": "https://myanimelist.net/images/anime/1371/155054.jpg",
+      "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.jpg",
+      "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.jpg"
+    },
+    "webp": {
+      "image_url": "https://myanimelist.net/images/anime/1371/155054.webp",
+      "small_image_url": "https://myanimelist.net/images/anime/1371/155054t.webp",
+      "large_image_url": "https://myanimelist.net/images/anime/1371/155054l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/rtPF6rjrdSU?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo"
+    },
+    {
+      "type": "Synonym",
+      "title": "Ascendance of a Bookworm 4th Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Honzuki no Gekokujou 4th Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女"
+    },
+    {
+      "type": "English",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
+    }
+  ],
+  "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+  "title_english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+  "title_japanese": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+  "title_synonyms": [
+    "Ascendance of a Bookworm 4th Season",
+    "Honzuki no Gekokujou 4th Season"
+  ],
+  "type": "legendado",
+  "source": "Light novel",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen---ryoushu-no-youjo/hd/1.mp4",
+      "nome": "Episódio 1"
+    }
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-04-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 4,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 4, 2026 to ?"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.05,
+  "scored_by": 2146,
+  "rank": 658,
+  "popularity": 3268,
+  "members": 58670,
+  "favorites": 232,
+  "synopsis": "Anime adaptation of part three of the Honzuki no Gekokujou light novel.",
+  "background": "",
+  "season": "spring",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 76,
+      "type": "anime",
+      "name": "Yomiuri Telecasting",
+      "url": "https://myanimelist.net/anime/producer/76/Yomiuri_Telecasting"
+    },
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 1492,
+      "type": "anime",
+      "name": "Yomiuri TV Enterprise",
+      "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+    },
+    {
+      "mal_id": 1988,
+      "type": "anime",
+      "name": "TO Books",
+      "url": "https://myanimelist.net/anime/producer/1988/TO_Books"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 858,
+      "type": "anime",
+      "name": "Wit Studio",
+      "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Isekai",
+      "url": "https://myanimelist.net/anime/genre/62/Isekai"
+    },
+    {
+      "mal_id": 72,
+      "type": "anime",
+      "name": "Reincarnation",
+      "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+    }
+  ],
+  "demographics": [],
+  "image": "https://myanimelist.net/images/anime/1371/155054l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/rtPF6rjrdSU?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 57466,
+  "slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen---ryoushu-no-youjo"
+}

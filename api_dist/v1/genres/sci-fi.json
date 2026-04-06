@@ -1,8 +1,22 @@
 {
   "name": "Sci-Fi",
   "slug": "sci-fi",
-  "count": 854,
+  "count": 855,
   "animes": [
+    {
+      "title": "Digimon Beatbreak",
+      "slug": "digimon-beatbreak",
+      "image": "https://cdn.myanimelist.net/images/anime/1776/151242l.webp",
+      "score": 7.07,
+      "type": "legendado"
+    },
+    {
+      "title": "Ghost Concert: Missing Songs",
+      "slug": "ghost-concert-missing-songs",
+      "image": "https://myanimelist.net/images/anime/1489/155658l.webp",
+      "score": 6.04,
+      "type": "legendado"
+    },
     {
       "title": "The Darwin Incident",
       "slug": "darwin-jihen",
@@ -15,13 +29,6 @@
       "slug": "enen-no-shouboutai-san-no-shou-part-2",
       "image": "https://cdn.myanimelist.net/images/anime/1508/152472l.webp",
       "score": 8.01,
-      "type": "legendado"
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "slug": "digimon-beatbreak",
-      "image": "https://cdn.myanimelist.net/images/anime/1776/151242l.webp",
-      "score": 7.07,
       "type": "legendado"
     },
     {
