@@ -1,8 +1,15 @@
 {
   "name": "Drama",
   "slug": "drama",
-  "count": 982,
+  "count": 983,
   "animes": [
+    {
+      "title": "Liar Game",
+      "slug": "liar-game",
+      "image": "https://myanimelist.net/images/anime/1607/156078l.webp",
+      "score": 7.06,
+      "type": "legendado"
+    },
     {
       "title": "A Misanthrope Teaches a Class for Demi-Humans",
       "slug": "jingai-kyoushitsu-no-ningengirai-kyoushi",

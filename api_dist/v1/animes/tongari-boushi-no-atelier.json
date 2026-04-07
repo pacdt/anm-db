@@ -1,0 +1,156 @@
+{
+  "mal_id": 51553,
+  "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
+  "images": {
+    "jpg": {
+      "image_url": "https://myanimelist.net/images/anime/1726/155542.jpg",
+      "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.jpg",
+      "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.jpg"
+    },
+    "webp": {
+      "image_url": "https://myanimelist.net/images/anime/1726/155542.webp",
+      "small_image_url": "https://myanimelist.net/images/anime/1726/155542t.webp",
+      "large_image_url": "https://myanimelist.net/images/anime/1726/155542l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tongari Boushi no Atelier"
+    },
+    {
+      "type": "Synonym",
+      "title": "Atelier of Witch Hat"
+    },
+    {
+      "type": "Japanese",
+      "title": "とんがり帽子のアトリエ"
+    },
+    {
+      "type": "English",
+      "title": "Witch Hat Atelier"
+    }
+  ],
+  "title": "Tongari Boushi no Atelier",
+  "title_english": "Witch Hat Atelier",
+  "title_japanese": "とんがり帽子のアトリエ",
+  "title_synonyms": [
+    "Atelier of Witch Hat"
+  ],
+  "type": "legendado",
+  "source": "Manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4_temp/tongari-boushi-no-atelier/1/720p.mp4",
+      "nome": "Episódio 1"
+    },
+    {
+      "numero": 2,
+      "url": "https://lightspeedst.net/s8/mp4/tongari-boushi-no-atelier/hd/2.mp4",
+      "nome": "Episódio 2"
+    }
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-04-06T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 6, 2026 to ?"
+  },
+  "duration": "23 min per ep",
+  "rating": null,
+  "score": 8.79,
+  "scored_by": 4265,
+  "rank": 40,
+  "popularity": 1977,
+  "members": 130043,
+  "favorites": 841,
+  "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "spring",
+  "year": 2026,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1747,
+      "type": "anime",
+      "name": "Twin Engine",
+      "url": "https://myanimelist.net/anime/producer/1747/Twin_Engine"
+    },
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2674,
+      "type": "anime",
+      "name": "BUG FILMS",
+      "url": "https://myanimelist.net/anime/producer/2674/BUG_FILMS"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://myanimelist.net/images/anime/1726/155542l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 51553,
+  "slug": "tongari-boushi-no-atelier"
+}
