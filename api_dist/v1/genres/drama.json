@@ -1,8 +1,15 @@
 {
   "name": "Drama",
   "slug": "drama",
-  "count": 986,
+  "count": 987,
   "animes": [
+    {
+      "title": "A Hundred Scenes of Awajima",
+      "slug": "awajima-hyakkei",
+      "image": "https://myanimelist.net/images/anime/1747/156361l.webp",
+      "score": null,
+      "type": "legendado"
+    },
     {
       "title": "Re:ZERO -Starting Life in Another World- Season 4",
       "slug": "re-zero-kara-hajimeru-isekai-seikatsu-4th-season",

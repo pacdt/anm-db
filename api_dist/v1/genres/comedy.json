@@ -1,8 +1,50 @@
 {
   "name": "Comedy",
   "slug": "comedy",
-  "count": 1810,
+  "count": 1812,
   "animes": [
+    {
+      "title": "Kirio Fan Club",
+      "slug": "kirio-fanclub",
+      "image": "https://myanimelist.net/images/anime/1066/155831l.webp",
+      "score": 6.24,
+      "type": "legendado"
+    },
+    {
+      "title": "The Ramparts of Ice",
+      "slug": "koori-no-jouheki",
+      "image": "https://myanimelist.net/images/anime/1565/154933l.webp",
+      "score": 7.63,
+      "type": "legendado"
+    },
+    {
+      "title": "Kujima: Why Sing, When You Can Warble?",
+      "slug": "kujima-utaeba-ie-hororo",
+      "image": "https://myanimelist.net/images/anime/1352/155195l.webp",
+      "score": 6.34,
+      "type": "legendado"
+    },
+    {
+      "title": "Haibara's Teenage New Game+",
+      "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
+      "image": "https://myanimelist.net/images/anime/1401/156048l.webp",
+      "score": 6.83,
+      "type": "legendado"
+    },
+    {
+      "title": "Dr. Stone: Science Future Part 3",
+      "slug": "dr-stone-science-future-part-3",
+      "image": "https://myanimelist.net/images/anime/1773/155779l.webp",
+      "score": 8.31,
+      "type": "legendado"
+    },
+    {
+      "title": "The Warrior Princess and the Barbaric King",
+      "slug": "himekishi-wa-barbaroi-no-yome",
+      "image": "https://myanimelist.net/images/anime/1229/155022l.webp",
+      "score": null,
+      "type": "legendado"
+    },
     {
       "title": "Gals Can't Be Kind to Otaku!?",
       "slug": "otaku-ni-yasashii-gal-wa-inai",
@@ -151,27 +193,6 @@
       "type": "legendado"
     },
     {
-      "title": "The Ramparts of Ice",
-      "slug": "koori-no-jouheki",
-      "image": "https://myanimelist.net/images/anime/1565/154933l.webp",
-      "score": 7.63,
-      "type": "legendado"
-    },
-    {
-      "title": "Haibara's Teenage New Game+",
-      "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
-      "image": "https://myanimelist.net/images/anime/1401/156048l.webp",
-      "score": 6.83,
-      "type": "legendado"
-    },
-    {
-      "title": "Kirio Fan Club",
-      "slug": "kirio-fanclub",
-      "image": "https://myanimelist.net/images/anime/1066/155831l.webp",
-      "score": 6.24,
-      "type": "legendado"
-    },
-    {
       "title": "You Can't Be In a Rom-Com with Your Childhood Friends!",
       "slug": "osananajimi-to-wa-love-comedy-ni-naranai",
       "image": "https://cdn.myanimelist.net/images/anime/1729/153502l.webp",
@@ -183,13 +204,6 @@
       "slug": "goumon-baito-kun-no-nichijou",
       "image": "https://cdn.myanimelist.net/images/anime/1721/153380l.webp",
       "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Dr. Stone: Science Future Part 3",
-      "slug": "dr-stone-science-future-part-3",
-      "image": "https://myanimelist.net/images/anime/1773/155779l.webp",
-      "score": 8.31,
       "type": "legendado"
     },
     {

@@ -1,0 +1,138 @@
+{
+  "mal_id": 58820,
+  "url": "https://myanimelist.net/anime/58820/Awajima_Hyakkei",
+  "images": {
+    "jpg": {
+      "image_url": "https://myanimelist.net/images/anime/1747/156361.jpg",
+      "small_image_url": "https://myanimelist.net/images/anime/1747/156361t.jpg",
+      "large_image_url": "https://myanimelist.net/images/anime/1747/156361l.jpg"
+    },
+    "webp": {
+      "image_url": "https://myanimelist.net/images/anime/1747/156361.webp",
+      "small_image_url": "https://myanimelist.net/images/anime/1747/156361t.webp",
+      "large_image_url": "https://myanimelist.net/images/anime/1747/156361l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/9OWMV9XrZ8k?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Awajima Hyakkei"
+    },
+    {
+      "type": "Synonym",
+      "title": "Awashima Hyakkei"
+    },
+    {
+      "type": "Synonym",
+      "title": "One Hundred Views of Awajima"
+    },
+    {
+      "type": "Japanese",
+      "title": "淡島百景"
+    },
+    {
+      "type": "English",
+      "title": "A Hundred Scenes of Awajima"
+    }
+  ],
+  "title": "Awajima Hyakkei",
+  "title_english": "A Hundred Scenes of Awajima",
+  "title_japanese": "淡島百景",
+  "title_synonyms": [
+    "Awashima Hyakkei",
+    "One Hundred Views of Awajima"
+  ],
+  "type": "legendado",
+  "source": "Web manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4/awajima-hyakkei/hd/1.mp4",
+      "nome": "Episódio 1"
+    }
+  ],
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-04-10T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 10,
+        "month": 4,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 10, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 6808,
+  "members": 11655,
+  "favorites": 12,
+  "synopsis": "This omnibus adolescent drama is about a group of young girls who all attend a \"girls-only musical school,\" recounting the formative years they shared, at times shifting between different characters' viewpoints and time.\n\nAwajima Musical School Training Camp, dubbed the \"boarding house,\" is where young girls gather from all over Japan to perform on stage. Tabata Wakana aspires to be a musical star; housemaster Takehara Kinue attends to carry on her best friend's wishes; beautiful Okabe Emi is a scholarship student who is always at the center of attention; and Ibuki Katsurako, who became a teacher at the school though originally from a family of actresses.\n\nThe unique environment of the musical school is simultaneously a respite space for these aspiring girls and also a harsh battleground that pits young students against each other. It is a place where perseverance can lead to blossoming talents, but also to a cruel reality at times. The clear depiction and psychological portrayal allow the subtle inner workings of each character to come through.\n\n(Source: Japan Media Arts Festival, edited)",
+  "background": "",
+  "season": "spring",
+  "year": 2026,
+  "broadcast": {
+    "day": "Fridays",
+    "time": "01:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Fridays at 01:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 11,
+      "type": "anime",
+      "name": "Madhouse",
+      "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "image": "https://myanimelist.net/images/anime/1747/156361l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/9OWMV9XrZ8k?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 58820,
+  "slug": "awajima-hyakkei"
+}
