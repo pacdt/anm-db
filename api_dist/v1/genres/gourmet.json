@@ -1,8 +1,22 @@
 {
   "name": "Gourmet",
   "slug": "gourmet",
-  "count": 68,
+  "count": 70,
   "animes": [
+    {
+      "title": "The Drops of God",
+      "slug": "kami-no-shizuku",
+      "image": "https://myanimelist.net/images/anime/1045/155698l.webp",
+      "score": 6.45,
+      "type": "legendado"
+    },
+    {
+      "title": "Botan Kamiina Fully Blossoms When Drunk",
+      "slug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
+      "image": "https://myanimelist.net/images/anime/1026/155965l.webp",
+      "score": 7.5,
+      "type": "legendado"
+    },
     {
       "title": "The Food Diary of Miss Maid",
       "slug": "maid-san-wa-taberu-dake",

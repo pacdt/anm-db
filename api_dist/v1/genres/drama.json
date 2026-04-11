@@ -1,8 +1,15 @@
 {
   "name": "Drama",
   "slug": "drama",
-  "count": 987,
+  "count": 988,
   "animes": [
+    {
+      "title": "The Drops of God",
+      "slug": "kami-no-shizuku",
+      "image": "https://myanimelist.net/images/anime/1045/155698l.webp",
+      "score": 6.45,
+      "type": "legendado"
+    },
     {
       "title": "A Hundred Scenes of Awajima",
       "slug": "awajima-hyakkei",
