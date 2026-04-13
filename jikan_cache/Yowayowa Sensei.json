@@ -1,0 +1,166 @@
+{
+  "mal_id": 60444,
+  "url": "https://myanimelist.net/anime/60444/Yowayowa_Sensei",
+  "images": {
+    "jpg": {
+      "image_url": "https://myanimelist.net/images/anime/1364/155774.jpg",
+      "small_image_url": "https://myanimelist.net/images/anime/1364/155774t.jpg",
+      "large_image_url": "https://myanimelist.net/images/anime/1364/155774l.jpg"
+    },
+    "webp": {
+      "image_url": "https://myanimelist.net/images/anime/1364/155774.webp",
+      "small_image_url": "https://myanimelist.net/images/anime/1364/155774t.webp",
+      "large_image_url": "https://myanimelist.net/images/anime/1364/155774l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/UfkutRs8RHM?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Yowayowa Sensei"
+    },
+    {
+      "type": "Japanese",
+      "title": "よわよわ先生"
+    },
+    {
+      "type": "English",
+      "title": "Yowayowa Teacher"
+    }
+  ],
+  "title": "Yowayowa Sensei",
+  "title_english": "Yowayowa Teacher",
+  "title_japanese": "よわよわ先生",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-04-11T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 11,
+        "month": 4,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 11, 2026 to ?"
+  },
+  "duration": "23 min per ep",
+  "rating": "R+ - Mild Nudity",
+  "score": 6.66,
+  "scored_by": 956,
+  "rank": 6999,
+  "popularity": 5144,
+  "members": 23699,
+  "favorites": 87,
+  "synopsis": "When the new term starts, second-year student Abikura discovers that his homeroom teacher is none other than Hiyori Hiwamura, infamously known as \"Scary-Scary Sensei,\" a woman rumored to curse anyone who crosses her.\n\nBut one day, Abikura accidentally witnesses a completely unexpected side of his fearsome teacher after school. The striking contrast between her fearsome image and her hidden personality is utterly irresistible!\n\nBrace yourself for Gap Moe overload in this tender romantic comedy that's sure to ignite your protective instincts!\n\n(Source: MAL News)",
+  "background": "",
+  "season": "spring",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 513,
+      "type": "anime",
+      "name": "Nikkatsu",
+      "url": "https://myanimelist.net/anime/producer/513/Nikkatsu"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 112,
+      "type": "anime",
+      "name": "Brain's Base",
+      "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    },
+    {
+      "mal_id": 9,
+      "type": "anime",
+      "name": "Ecchi",
+      "url": "https://myanimelist.net/anime/genre/9/Ecchi"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 74,
+      "type": "anime",
+      "name": "Love Status Quo",
+      "url": "https://myanimelist.net/anime/genre/74/Love_Status_Quo"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ]
+}
