@@ -1,8 +1,92 @@
 {
   "name": "Romance",
   "slug": "romance",
-  "count": 1048,
+  "count": 1049,
   "animes": [
+    {
+      "title": "I Want to End this Love Game",
+      "slug": "aishiteru-game-wo-owarasetai",
+      "image": "https://myanimelist.net/images/anime/1879/155958l.webp",
+      "score": 7.3,
+      "type": "legendado"
+    },
+    {
+      "title": "Even a Replica Can Fall in Love",
+      "slug": "replica-datte-koi-wo-suru",
+      "image": "https://myanimelist.net/images/anime/1148/155671l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Killed Again, Mr. Detective.",
+      "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
+      "image": "https://myanimelist.net/images/anime/1595/156152l.webp",
+      "score": 6.73,
+      "type": "legendado"
+    },
+    {
+      "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+      "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+      "image": "https://myanimelist.net/images/anime/1769/153376l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Haibara's Teenage New Game+",
+      "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
+      "image": "https://myanimelist.net/images/anime/1401/156048l.webp",
+      "score": 6.83,
+      "type": "legendado"
+    },
+    {
+      "title": "Always a Catch!",
+      "slug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
+      "image": "https://myanimelist.net/images/anime/1871/155068l.webp",
+      "score": 7.11,
+      "type": "legendado"
+    },
+    {
+      "title": "Gals Can't Be Kind to Otaku!?",
+      "slug": "otaku-ni-yasashii-gal-wa-inai",
+      "image": "https://myanimelist.net/images/anime/1956/155456l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Pardon the Intrusion, I'm Home!",
+      "slug": "tadaima-ojamasaremasu",
+      "image": "https://myanimelist.net/images/anime/1199/156106l.webp",
+      "score": 6.55,
+      "type": "legendado"
+    },
+    {
+      "title": "I Made Friends with the Second Prettiest Girl in My Class",
+      "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+      "image": "https://myanimelist.net/images/anime/1423/155713l.webp",
+      "score": 7.6,
+      "type": "legendado"
+    },
+    {
+      "title": "The Warrior Princess and the Barbaric King",
+      "slug": "himekishi-wa-barbaroi-no-yome",
+      "image": "https://myanimelist.net/images/anime/1229/155022l.webp",
+      "score": null,
+      "type": "legendado"
+    },
+    {
+      "title": "Rent-a-Girlfriend",
+      "slug": "kanojo-okarishimasu-5th-season",
+      "image": "https://myanimelist.net/images/anime/1902/128382l.webp",
+      "score": 6.84,
+      "type": "legendado"
+    },
+    {
+      "title": "The Angel Next Door Spoils Me Rotten 2",
+      "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
+      "image": "https://myanimelist.net/images/anime/1989/154843l.webp",
+      "score": 8.27,
+      "type": "legendado"
+    },
     {
       "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "slug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
@@ -32,87 +116,10 @@
       "type": "legendado"
     },
     {
-      "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-      "slug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-      "image": "https://myanimelist.net/images/anime/1769/153376l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "The Angel Next Door Spoils Me Rotten 2",
-      "slug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
-      "image": "https://myanimelist.net/images/anime/1989/154843l.webp",
-      "score": 8.27,
-      "type": "legendado"
-    },
-    {
       "title": "The Ramparts of Ice",
       "slug": "koori-no-jouheki",
       "image": "https://myanimelist.net/images/anime/1565/154933l.webp",
       "score": 7.63,
-      "type": "legendado"
-    },
-    {
-      "title": "Killed Again, Mr. Detective.",
-      "slug": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-      "image": "https://myanimelist.net/images/anime/1595/156152l.webp",
-      "score": 6.73,
-      "type": "legendado"
-    },
-    {
-      "title": "Haibara's Teenage New Game+",
-      "slug": "haibara-kun-no-tsuyokute-seishun-new-game",
-      "image": "https://myanimelist.net/images/anime/1401/156048l.webp",
-      "score": 6.83,
-      "type": "legendado"
-    },
-    {
-      "title": "The Warrior Princess and the Barbaric King",
-      "slug": "himekishi-wa-barbaroi-no-yome",
-      "image": "https://myanimelist.net/images/anime/1229/155022l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Gals Can't Be Kind to Otaku!?",
-      "slug": "otaku-ni-yasashii-gal-wa-inai",
-      "image": "https://myanimelist.net/images/anime/1956/155456l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Rent-a-Girlfriend",
-      "slug": "kanojo-okarishimasu-5th-season",
-      "image": "https://myanimelist.net/images/anime/1902/128382l.webp",
-      "score": 6.84,
-      "type": "legendado"
-    },
-    {
-      "title": "Always a Catch!",
-      "slug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
-      "image": "https://myanimelist.net/images/anime/1871/155068l.webp",
-      "score": 7.11,
-      "type": "legendado"
-    },
-    {
-      "title": "I Made Friends with the Second Prettiest Girl in My Class",
-      "slug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-      "image": "https://myanimelist.net/images/anime/1423/155713l.webp",
-      "score": 7.6,
-      "type": "legendado"
-    },
-    {
-      "title": "Pardon the Intrusion, I'm Home!",
-      "slug": "tadaima-ojamasaremasu",
-      "image": "https://myanimelist.net/images/anime/1199/156106l.webp",
-      "score": 6.55,
-      "type": "legendado"
-    },
-    {
-      "title": "Even a Replica Can Fall in Love",
-      "slug": "replica-datte-koi-wo-suru",
-      "image": "https://myanimelist.net/images/anime/1148/155671l.webp",
-      "score": null,
       "type": "legendado"
     },
     {
