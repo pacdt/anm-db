@@ -50,30 +50,9 @@
   "title_synonyms": [
     "Atelier of Witch Hat"
   ],
-  "type": "legendado",
+  "type": "TV",
   "source": "Manga",
-  "episodes": [
-    {
-      "numero": 1,
-      "url": "https://lightspeedst.net/s8/mp4_temp/tongari-boushi-no-atelier/1/720p.mp4",
-      "nome": "Episódio 1"
-    },
-    {
-      "numero": 2,
-      "url": "https://lightspeedst.net/s8/mp4/tongari-boushi-no-atelier/hd/2.mp4",
-      "nome": "Episódio 2"
-    },
-    {
-      "numero": 3,
-      "url": "https://lightspeedst.net/s8/mp4/tongari-boushi-no-atelier/hd/3.mp4",
-      "nome": "Episódio 3"
-    },
-    {
-      "numero": 4,
-      "url": "https://lightspeedst.net/s8/mp4/tongari-boushi-no-atelier/hd/4.mp4?token=h1rgblQZJCH90Q1WaRGS_Q&expires=1776869974",
-      "nome": "Episódio 4"
-    }
-  ],
+  "episodes": 13,
   "status": "Currently Airing",
   "airing": true,
   "aired": {
@@ -94,15 +73,15 @@
     "string": "Apr 6, 2026 to ?"
   },
   "duration": "23 min per ep",
-  "rating": null,
-  "score": 8.79,
-  "scored_by": 4265,
-  "rank": 40,
-  "popularity": 1977,
-  "members": 130043,
-  "favorites": 841,
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.71,
+  "scored_by": 25431,
+  "rank": 66,
+  "popularity": 1319,
+  "members": 210965,
+  "favorites": 1766,
   "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
-  "background": "",
+  "background": "Beginning with episode 2, each episode was streamed one week in advance of the TV broadcast starting on April 6, 2026, on Abema. Regular broadcasting began on April 6, 2026.",
   "season": "spring",
   "year": 2026,
   "broadcast": {
@@ -123,6 +102,12 @@
       "type": "anime",
       "name": "Avex Pictures",
       "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1468,
+      "type": "anime",
+      "name": "Crunchyroll",
+      "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
     },
     {
       "mal_id": 1747,
@@ -147,7 +132,12 @@
     }
   ],
   "genres": [
-    "Fantasy"
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
   ],
   "explicit_genres": [],
   "themes": [],
@@ -158,9 +148,5 @@
       "name": "Seinen",
       "url": "https://myanimelist.net/anime/genre/42/Seinen"
     }
-  ],
-  "image": "https://myanimelist.net/images/anime/1726/155542l.webp",
-  "trailer_url": "https://www.youtube-nocookie.com/embed/d1reryPOMX0?enablejsapi=1&wmode=opaque&autoplay=1",
-  "id": 51553,
-  "slug": "tongari-boushi-no-atelier"
+  ]
 }
