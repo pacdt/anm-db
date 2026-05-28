@@ -9,3 +9,21 @@ __pycache__/
 venv/
 .venv/
 logs_atualizacoes
+
+# Banco de dados
+anm.db
+data/
+
+# API estática (legado)
+api_dist/
+
+# Cache Jikan (legado)
+jikan_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
