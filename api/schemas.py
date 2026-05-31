@@ -24,7 +24,6 @@ class AnimeDetail(BaseModel):
     status: str | None = None
     genres: list[str] = []
     episodes: list[dict] = []
-    skip_times: dict = {}
 
 
 class EpisodeOut(BaseModel):
@@ -39,6 +38,7 @@ class EpisodeOut(BaseModel):
     anime_title: str | None = None
     anime_image: str | None = None
     tipo: str | None = None
+    skip_times: dict = {}
 
 
 class GenreOut(BaseModel):

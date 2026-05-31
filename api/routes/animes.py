@@ -43,7 +43,19 @@ async def get_anime(slug: str, db: DatabaseManager = Depends(get_db)):
 
     genres = await db.get_generos_by_slug(slug)
     eps = await db.get_episodios_paginados(slug, page=1, limit=10000)
-    skip_times = {}
+    skip_times_map = await db.get_skip_times_for_anime(anime["id"])
+
+    episodes = []
+    for e in eps:
+        ep_num = e["numero"]
+        episodes.append({
+            "numero": ep_num,
+            "titulo": e.get("titulo"),
+            "url_cdn": e.get("url_cdn"),
+            "url_af": e.get("url_af"),
+            "fonte_ativa": e.get("fonte_ativa"),
+            "skip_times": skip_times_map.get(ep_num, {}),
+        })
 
     return AnimeDetail(
         id=anime["id"],
@@ -59,15 +71,5 @@ async def get_anime(slug: str, db: DatabaseManager = Depends(get_db)):
         trailer_url=anime.get("trailer_url"),
         status=anime.get("status"),
         genres=genres,
-        episodes=[
-            {
-                "numero": e["numero"],
-                "titulo": e.get("titulo"),
-                "url_cdn": e.get("url_cdn"),
-                "url_af": e.get("url_af"),
-                "fonte_ativa": e.get("fonte_ativa"),
-            }
-            for e in eps
-        ],
-        skip_times=skip_times,
+        episodes=episodes,
     )

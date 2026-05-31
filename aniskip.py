@@ -7,9 +7,18 @@ ANISKIP_BASE = "https://api.aniskip.com/v2/skip-times"
 ANISKIP_TIMEOUT = 10
 
 
-async def fetch_skip_times(mal_id: int, ep_numero: int, session: aiohttp.ClientSession) -> dict:
+async def fetch_skip_times(mal_id: int, ep_numero: int, episode_length: int = 1440,
+                           session: aiohttp.ClientSession = None) -> dict:
     url = f"{ANISKIP_BASE}/{mal_id}/{ep_numero}"
-    params = {"types[]": ["op", "ed"]}
+    params = {
+        "types[]": ["op", "ed"],
+        "episodeLength": episode_length,
+    }
+
+    close_session = False
+    if session is None:
+        session = aiohttp.ClientSession()
+        close_session = True
 
     try:
         async with session.get(
@@ -25,9 +34,12 @@ async def fetch_skip_times(mal_id: int, ep_numero: int, session: aiohttp.ClientS
                 for item in results:
                     skip_type = item.get("skipType")
                     if skip_type in ("op", "ed"):
+                        interval = item.get("interval", {})
+                        start = interval.get("startTime", item.get("startTime", 0))
+                        end = interval.get("endTime", item.get("endTime", 0))
                         skip_times[skip_type] = {
-                            "start": item.get("startTime", 0),
-                            "end": item.get("endTime", 0),
+                            "start": start,
+                            "end": end,
                         }
                 return skip_times
 
@@ -41,24 +53,25 @@ async def fetch_skip_times(mal_id: int, ep_numero: int, session: aiohttp.ClientS
     except Exception as e:
         logger.debug(f"Aniskip erro para mal_id={mal_id} ep={ep_numero}: {e}")
         return {}
+    finally:
+        if close_session:
+            await session.close()
 
 
 async def fetch_and_save_skip_times(db, mal_id: int, ep_numero: int):
     if not mal_id:
         return
 
-    anime = None
     async with db._db.execute(
         "SELECT id FROM animes WHERE mal_id = ?", (mal_id,)
     ) as cur:
         row = await cur.fetchone()
-        if row:
-            anime_id = row[0]
-        else:
+        if not row:
             return
+        anime_id = row[0]
 
     async with aiohttp.ClientSession() as session:
-        skip_times = await fetch_skip_times(mal_id, ep_numero, session)
+        skip_times = await fetch_skip_times(mal_id, ep_numero, session=session)
 
     for skip_type, times in skip_times.items():
         await db.upsert_skip_time(

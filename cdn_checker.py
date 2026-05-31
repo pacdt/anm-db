@@ -6,7 +6,6 @@ logger = logging.getLogger("CDN")
 
 CDN_DOMAINS = [
     "cdn-s01.mywallpaper-4k-image.net",
-    "pixel-sus-4k-image.com",
 ]
 
 CDN_TIMEOUT = 8

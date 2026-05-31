@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, Query
+from fastapi import APIRouter, Depends, Query, HTTPException
 from api.schemas import AnimeSummary, GenreOut, PaginatedResponse
 from api.deps import get_db
 from db import DatabaseManager
@@ -9,7 +9,7 @@ router = APIRouter(prefix="/genres", tags=["genres"])
 @router.get("")
 async def list_genres(db: DatabaseManager = Depends(get_db)):
     genres = await db.list_generos()
-    return [GenreOut(**g).model_dump() for g in genres]
+    return [GenreOut(id=g["id"], nome=g["nome"], count=g["count"]).model_dump() for g in genres]
 
 
 @router.get("/{nome}", response_model=PaginatedResponse)
@@ -19,7 +19,11 @@ async def get_genre(
     limit: int = Query(30, ge=1, le=100),
     db: DatabaseManager = Depends(get_db),
 ):
-    animes = await db.get_animes_by_genero(nome, page, limit)
+    animes, total = await db.get_animes_by_genero(nome, page, limit)
+    if total == 0:
+        raise HTTPException(status_code=404, detail="Genre not found")
+
+    pages = (total + limit - 1) // limit
 
     items = [
         AnimeSummary(
@@ -33,5 +37,5 @@ async def get_genre(
     ]
 
     return PaginatedResponse(
-        items=items, total=len(items), page=page, limit=limit, pages=1
+        items=items, total=total, page=page, limit=limit, pages=pages
     )

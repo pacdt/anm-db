@@ -1,0 +1,31 @@
+=== Teste 5: GET /animes?status=ongoing (Filtro status) ===
+{
+    "items": [
+        {
+            "title": "You and Idol Precure\u266a",
+            "slug": "kimi-to-idol-precure",
+            "image": "https://animefire.io/img/animes/kimi-to-idol-precure.webp",
+            "score": 7.29,
+            "type": "legendado"
+        },
+        {
+            "title": "SI-VIS: The Sound of Heroes",
+            "slug": "si-vis-the-sound-of-heroes",
+            "image": "https://animefire.io/img/animes/si-vis-the-sound-of-heroes.webp",
+            "score": 5.98,
+            "type": "legendado"
+        },
+        {
+            "title": "Gnosia",
+            "slug": "gnosia",
+            "image": "https://animefire.io/img/animes/gnosia.webp",
+            "score": 7.46,
+            "type": "legendado"
+        }
+    ],
+    "total": 11,
+    "page": 1,
+    "limit": 3,
+    "pages": 4
+}
+

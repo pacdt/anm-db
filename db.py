@@ -1,7 +1,8 @@
 import os
+import asyncio
 import aiosqlite
 import logging
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 logger = logging.getLogger("DB")
 
@@ -85,10 +86,15 @@ CREATE TABLE IF NOT EXISTS schema_version (
 MIGRATIONS = []
 
 
+def _utcnow() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
 class DatabaseManager:
     def __init__(self, db_path: str = None):
         self.db_path = db_path or os.getenv("DB_PATH", "anm.db")
         self._db = None
+        self._write_sem = asyncio.Semaphore(1)
 
     async def connect(self):
         self._db = await aiosqlite.connect(self.db_path)
@@ -147,69 +153,73 @@ class DatabaseManager:
             logger.info(f"Migracao {i} aplicada: {sql[:60]}...")
 
     async def upsert_anime(self, data: dict) -> int:
-        now = datetime.utcnow().isoformat()
-        await self._db.execute("""
-            INSERT INTO animes (mal_id, slug, tipo, titulo, titulo_en, titulo_jp, imagem, score, sinopse, trailer_url, status, updated_at)
-            VALUES (:mal_id, :slug, :tipo, :titulo, :titulo_en, :titulo_jp, :imagem, :score, :sinopse, :trailer_url, :status, :updated_at)
-            ON CONFLICT(slug) DO UPDATE SET
-                mal_id = excluded.mal_id,
-                titulo = excluded.titulo,
-                titulo_en = excluded.titulo_en,
-                titulo_jp = excluded.titulo_jp,
-                imagem = COALESCE(excluded.imagem, animes.imagem),
-                score = excluded.score,
-                sinopse = excluded.sinopse,
-                trailer_url = excluded.trailer_url,
-                status = excluded.status,
-                updated_at = excluded.updated_at
-        """, {
-            "mal_id": data.get("mal_id"),
-            "slug": data["slug"],
-            "tipo": data["tipo"],
-            "titulo": data.get("titulo"),
-            "titulo_en": data.get("titulo_en"),
-            "titulo_jp": data.get("titulo_jp"),
-            "imagem": data.get("imagem"),
-            "score": data.get("score"),
-            "sinopse": data.get("sinopse"),
-            "trailer_url": data.get("trailer_url"),
-            "status": data.get("status"),
-            "updated_at": now,
-        })
-        await self._db.commit()
+        now = _utcnow()
+        async with self._write_sem:
+            await self._db.execute("""
+                INSERT INTO animes (mal_id, slug, tipo, titulo, titulo_en, titulo_jp, imagem, score, sinopse, trailer_url, status, updated_at)
+                VALUES (:mal_id, :slug, :tipo, :titulo, :titulo_en, :titulo_jp, :imagem, :score, :sinopse, :trailer_url, :status, :updated_at)
+                ON CONFLICT(slug) DO UPDATE SET
+                    mal_id = excluded.mal_id,
+                    titulo = excluded.titulo,
+                    titulo_en = excluded.titulo_en,
+                    titulo_jp = excluded.titulo_jp,
+                    imagem = COALESCE(excluded.imagem, animes.imagem),
+                    score = excluded.score,
+                    sinopse = excluded.sinopse,
+                    trailer_url = excluded.trailer_url,
+                    status = excluded.status,
+                    updated_at = excluded.updated_at
+            """, {
+                "mal_id": data.get("mal_id"),
+                "slug": data["slug"],
+                "tipo": data["tipo"],
+                "titulo": data.get("titulo"),
+                "titulo_en": data.get("titulo_en"),
+                "titulo_jp": data.get("titulo_jp"),
+                "imagem": data.get("imagem"),
+                "score": data.get("score"),
+                "sinopse": data.get("sinopse"),
+                "trailer_url": data.get("trailer_url"),
+                "status": data.get("status"),
+                "updated_at": now,
+            })
+            await self._db.commit()
 
-        async with self._db.execute("SELECT id FROM animes WHERE slug = ?", (data["slug"],)) as cur:
-            row = await cur.fetchone()
-            return row[0]
+            async with self._db.execute("SELECT id FROM animes WHERE slug = ?", (data["slug"],)) as cur:
+                row = await cur.fetchone()
+                return row[0]
 
     async def upsert_genero(self, nome: str) -> int:
-        await self._db.execute(
-            "INSERT OR IGNORE INTO generos (nome) VALUES (?)",
-            (nome,)
-        )
-        await self._db.commit()
-        async with self._db.execute("SELECT id FROM generos WHERE nome = ?", (nome,)) as cur:
-            row = await cur.fetchone()
-            return row[0]
+        async with self._write_sem:
+            await self._db.execute(
+                "INSERT OR IGNORE INTO generos (nome) VALUES (?)",
+                (nome,)
+            )
+            await self._db.commit()
+            async with self._db.execute("SELECT id FROM generos WHERE nome = ?", (nome,)) as cur:
+                row = await cur.fetchone()
+                return row[0]
 
     async def link_anime_genero(self, anime_id: int, genero_id: int):
-        await self._db.execute(
-            "INSERT OR IGNORE INTO anime_generos (anime_id, genero_id) VALUES (?, ?)",
-            (anime_id, genero_id)
-        )
+        async with self._write_sem:
+            await self._db.execute(
+                "INSERT OR IGNORE INTO anime_generos (anime_id, genero_id) VALUES (?, ?)",
+                (anime_id, genero_id)
+            )
 
     async def upsert_episodio(self, anime_id: int, numero: int, titulo: str = None,
                                url_cdn: str = None, url_af: str = None, fonte_ativa: str = "cdn"):
-        await self._db.execute("""
-            INSERT INTO episodios (anime_id, numero, titulo, url_cdn, url_af, fonte_ativa)
-            VALUES (?, ?, ?, ?, ?, ?)
-            ON CONFLICT(anime_id, numero) DO UPDATE SET
-                titulo = COALESCE(excluded.titulo, episodios.titulo),
-                url_cdn = COALESCE(excluded.url_cdn, episodios.url_cdn),
-                url_af = COALESCE(excluded.url_af, episodios.url_af),
-                fonte_ativa = excluded.fonte_ativa
-        """, (anime_id, numero, titulo, url_cdn, url_af, fonte_ativa))
-        await self._db.commit()
+        async with self._write_sem:
+            await self._db.execute("""
+                INSERT INTO episodios (anime_id, numero, titulo, url_cdn, url_af, fonte_ativa)
+                VALUES (?, ?, ?, ?, ?, ?)
+                ON CONFLICT(anime_id, numero) DO UPDATE SET
+                    titulo = COALESCE(excluded.titulo, episodios.titulo),
+                    url_cdn = COALESCE(excluded.url_cdn, episodios.url_cdn),
+                    url_af = COALESCE(excluded.url_af, episodios.url_af),
+                    fonte_ativa = excluded.fonte_ativa
+            """, (anime_id, numero, titulo, url_cdn, url_af, fonte_ativa))
+            await self._db.commit()
 
     async def get_anime_by_slug(self, slug: str) -> dict | None:
         async with self._db.execute(
@@ -230,7 +240,7 @@ class DatabaseManager:
             return dict(row)
 
     async def get_ongoing_due(self) -> list[dict]:
-        now = datetime.utcnow().isoformat()
+        now = _utcnow()
         async with self._db.execute(
             "SELECT * FROM animes WHERE next_check_at IS NOT NULL AND next_check_at <= ?",
             (now,)
@@ -244,13 +254,14 @@ class DatabaseManager:
             return [r[0] for r in rows]
 
     async def reschedule_next_check(self, anime_ids: list[int], hours: int = 24):
-        next_time = (datetime.utcnow() + timedelta(hours=hours)).isoformat()
+        next_time = (datetime.now(timezone.utc) + timedelta(hours=hours)).isoformat()
         placeholders = ",".join("?" * len(anime_ids))
-        await self._db.execute(
-            f"UPDATE animes SET next_check_at = ? WHERE id IN ({placeholders})",
-            [next_time] + anime_ids
-        )
-        await self._db.commit()
+        async with self._write_sem:
+            await self._db.execute(
+                f"UPDATE animes SET next_check_at = ? WHERE id IN ({placeholders})",
+                [next_time] + anime_ids
+            )
+            await self._db.commit()
 
     async def get_episodios_paginados(self, slug: str, page: int = 1, limit: int = 50) -> list[dict]:
         offset = (page - 1) * limit
@@ -337,8 +348,17 @@ class DatabaseManager:
             rows = await cur.fetchall()
             return [dict(r) for r in rows]
 
-    async def get_animes_by_genero(self, genero_slug: str, page: int = 1, limit: int = 30) -> list[dict]:
+    async def get_animes_by_genero(self, genero_slug: str, page: int = 1, limit: int = 30) -> tuple[list[dict], int]:
         offset = (page - 1) * limit
+        async with self._db.execute("""
+            SELECT COUNT(*) FROM animes a
+            JOIN anime_generos ag ON a.id = ag.anime_id
+            JOIN generos g ON ag.genero_id = g.id
+            WHERE g.nome = ?
+        """, (genero_slug,)) as cur:
+            row = await cur.fetchone()
+            total = row[0] if row else 0
+
         async with self._db.execute("""
             SELECT a.* FROM animes a
             JOIN anime_generos ag ON a.id = ag.anime_id
@@ -348,7 +368,7 @@ class DatabaseManager:
             LIMIT ? OFFSET ?
         """, (genero_slug, limit, offset)) as cur:
             rows = await cur.fetchall()
-            return [dict(r) for r in rows]
+            return [dict(r) for r in rows], total
 
     async def get_latest_episodes(self, limit: int = 50) -> list[dict]:
         async with self._db.execute("""
@@ -363,14 +383,15 @@ class DatabaseManager:
 
     async def upsert_skip_time(self, anime_id: int, ep_numero: int, tipo: str,
                                 start_time: float, end_time: float):
-        await self._db.execute("""
-            INSERT INTO skip_times (anime_id, ep_numero, tipo, start_time, end_time)
-            VALUES (?, ?, ?, ?, ?)
-            ON CONFLICT(anime_id, ep_numero, tipo) DO UPDATE SET
-                start_time = excluded.start_time,
-                end_time = excluded.end_time
-        """, (anime_id, ep_numero, tipo, start_time, end_time))
-        await self._db.commit()
+        async with self._write_sem:
+            await self._db.execute("""
+                INSERT INTO skip_times (anime_id, ep_numero, tipo, start_time, end_time)
+                VALUES (?, ?, ?, ?, ?)
+                ON CONFLICT(anime_id, ep_numero, tipo) DO UPDATE SET
+                    start_time = excluded.start_time,
+                    end_time = excluded.end_time
+            """, (anime_id, ep_numero, tipo, start_time, end_time))
+            await self._db.commit()
 
     async def get_skip_times(self, anime_id: int, ep_numero: int) -> dict:
         async with self._db.execute("""
@@ -383,31 +404,48 @@ class DatabaseManager:
                 result[r[0]] = {"start": r[1], "end": r[2]}
             return result
 
+    async def get_skip_times_for_anime(self, anime_id: int) -> dict:
+        async with self._db.execute("""
+            SELECT ep_numero, tipo, start_time, end_time FROM skip_times
+            WHERE anime_id = ?
+            ORDER BY ep_numero, tipo
+        """, (anime_id,)) as cur:
+            rows = await cur.fetchall()
+            result = {}
+            for r in rows:
+                ep = r[0]
+                if ep not in result:
+                    result[ep] = {}
+                result[ep][r[1]] = {"start": r[2], "end": r[3]}
+            return result
+
     async def log_job_start(self, job_id: str) -> int:
-        now = datetime.utcnow().isoformat()
-        cursor = await self._db.execute(
-            "INSERT INTO job_runs (job_id, started_at, status) VALUES (?, ?, 'running')",
-            (job_id, now)
-        )
-        await self._db.commit()
-        return cursor.lastrowid
+        now = _utcnow()
+        async with self._write_sem:
+            cursor = await self._db.execute(
+                "INSERT INTO job_runs (job_id, started_at, status) VALUES (?, ?, 'running')",
+                (job_id, now)
+            )
+            await self._db.commit()
+            return cursor.lastrowid
 
     async def log_job_end(self, run_id: int, status: str, animes_checked: int = 0,
                           eps_novos: int = 0, cdn_hits: int = 0, af_fallbacks: int = 0,
                           erro_msg: str = None):
-        now = datetime.utcnow().isoformat()
-        await self._db.execute("""
-            UPDATE job_runs SET
-                finished_at = ?,
-                status = ?,
-                animes_checked = ?,
-                eps_novos = ?,
-                cdn_hits = ?,
-                af_fallbacks = ?,
-                erro_msg = ?
-            WHERE id = ?
-        """, (now, status, animes_checked, eps_novos, cdn_hits, af_fallbacks, erro_msg, run_id))
-        await self._db.commit()
+        now = _utcnow()
+        async with self._write_sem:
+            await self._db.execute("""
+                UPDATE job_runs SET
+                    finished_at = ?,
+                    status = ?,
+                    animes_checked = ?,
+                    eps_novos = ?,
+                    cdn_hits = ?,
+                    af_fallbacks = ?,
+                    erro_msg = ?
+                WHERE id = ?
+            """, (now, status, animes_checked, eps_novos, cdn_hits, af_fallbacks, erro_msg, run_id))
+            await self._db.commit()
 
     async def __aenter__(self):
         await self.connect()

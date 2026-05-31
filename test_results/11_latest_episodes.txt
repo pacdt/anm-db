@@ -1,0 +1,69 @@
+=== Teste 11: GET /episodes/latest?limit=5 (Ultimos episodios) ===
+[
+    {
+        "id": 78378,
+        "anime_id": 5156,
+        "numero": 8,
+        "titulo": "Nigun's Shadow",
+        "url_cdn": null,
+        "url_af": "https://lightspeedst.net/s5/mp4_temp/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta/8/720p.mp4",
+        "fonte_ativa": "animefire",
+        "slug": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
+        "anime_title": "Nigun's Shadow",
+        "anime_image": "https://animefire.io/img/animes/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta.webp",
+        "tipo": "legendado"
+    },
+    {
+        "id": 78379,
+        "anime_id": 5156,
+        "numero": 9,
+        "titulo": "Rise to Action",
+        "url_cdn": null,
+        "url_af": "https://lightspeedst.net/s5/mp4_temp/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta/9/720p.mp4",
+        "fonte_ativa": "animefire",
+        "slug": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
+        "anime_title": "Rise to Action",
+        "anime_image": "https://animefire.io/img/animes/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta.webp",
+        "tipo": "legendado"
+    },
+    {
+        "id": 78380,
+        "anime_id": 5156,
+        "numero": 10,
+        "titulo": "Nigun's Darkness",
+        "url_cdn": null,
+        "url_af": "https://lightspeedst.net/s5/mp4_temp/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta/10/720p.mp4",
+        "fonte_ativa": "animefire",
+        "slug": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
+        "anime_title": "Nigun's Darkness",
+        "anime_image": "https://animefire.io/img/animes/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta.webp",
+        "tipo": "legendado"
+    },
+    {
+        "id": 78381,
+        "anime_id": 5156,
+        "numero": 11,
+        "titulo": "The Demon Ioana",
+        "url_cdn": null,
+        "url_af": "https://lightspeedst.net/s5/mp4_temp/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta/11/720p.mp4",
+        "fonte_ativa": "animefire",
+        "slug": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
+        "anime_title": "The Demon Ioana",
+        "anime_image": "https://animefire.io/img/animes/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta.webp",
+        "tipo": "legendado"
+    },
+    {
+        "id": 78382,
+        "anime_id": 5156,
+        "numero": 12,
+        "titulo": "Happiness, Forever",
+        "url_cdn": null,
+        "url_af": "https://lightspeedst.net/s5/mp4_temp/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta/12/720p.mp4",
+        "fonte_ativa": "animefire",
+        "slug": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
+        "anime_title": "Happiness, Forever",
+        "anime_image": "https://animefire.io/img/animes/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta.webp",
+        "tipo": "legendado"
+    }
+]
+

@@ -8,6 +8,7 @@ from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from db import DatabaseManager
 from cdn_checker import check_cdn_episode
+from aniskip import fetch_and_save_skip_times
 
 # --- CONFIGURACOES GERAIS ---
 BASE_URL_SITE = "https://animefire.plus"
@@ -253,20 +254,22 @@ class AnimeScraper:
     async def atualizar_anime(self, anime, tipo):
         slug = anime['slug']
 
-        # Validate slug exists in DB
         existing = await self.db.get_anime_by_slug(slug)
-        if not existing:
-            pass  # New anime, will be created below
+        if existing:
+            anime_id = existing["id"]
+            mal_id = existing.get("mal_id")
+        else:
+            mal_id = None
+            anime_id = await self.db.upsert_anime({
+                "slug": slug,
+                "tipo": tipo,
+                "titulo": anime['nome'],
+                "imagem": anime.get('imagem'),
+            })
 
-        # Upsert anime metadata
-        anime_id = await self.db.upsert_anime({
-            "slug": slug,
-            "tipo": tipo,
-            "titulo": anime['nome'],
-            "imagem": anime.get('imagem'),
-        })
+        # CDN uses base slug (without -dublado)
+        cdn_slug = slug.replace("-dublado", "") if slug.endswith("-dublado") else slug
 
-        # Get last saved episode to resume from
         ultimo_ep = await self.db.get_ultimo_episodio(slug)
         proximo_ep = ultimo_ep + 1
 
@@ -278,8 +281,7 @@ class AnimeScraper:
         max_tentativas = ultimo_ep + MAX_EPISODIOS_FRENTE if ultimo_ep > 0 else MAX_EPISODIOS_FRENTE
 
         while current_check <= max_tentativas and erros_consecutivos < ERROS_CONSECUTIVOS_LIMITE:
-            # Try CDN first
-            cdn_url = await check_cdn_episode(slug, current_check, self.session)
+            cdn_url = await check_cdn_episode(cdn_slug, current_check, self.session)
 
             if cdn_url:
                 await self.db.upsert_episodio(
@@ -293,8 +295,9 @@ class AnimeScraper:
                 cdn_hits += 1
                 erros_consecutivos = 0
                 current_check += 1
+                if mal_id:
+                    asyncio.create_task(fetch_and_save_skip_times(self.db, mal_id, current_check - 1))
             else:
-                # Fallback to Animefire
                 link = await self.obter_link_video(slug, current_check)
                 if link:
                     await self.db.upsert_episodio(
@@ -308,14 +311,15 @@ class AnimeScraper:
                     af_fallbacks += 1
                     erros_consecutivos = 0
                     current_check += 1
+                    if mal_id:
+                        asyncio.create_task(fetch_and_save_skip_times(self.db, mal_id, current_check - 1))
                 else:
                     erros_consecutivos += 1
                     current_check += 1
 
-        # For new anime, try from episode 1
         if ultimo_ep == 0 and not novos_eps:
             for ep_num in range(1, MAX_EPISODIOS_FRENTE + 1):
-                cdn_url = await check_cdn_episode(slug, ep_num, self.session)
+                cdn_url = await check_cdn_episode(cdn_slug, ep_num, self.session)
                 if cdn_url:
                     await self.db.upsert_episodio(
                         anime_id=anime_id,
@@ -326,6 +330,8 @@ class AnimeScraper:
                     )
                     novos_eps.append(ep_num)
                     cdn_hits += 1
+                    if mal_id:
+                        asyncio.create_task(fetch_and_save_skip_times(self.db, mal_id, ep_num))
                 else:
                     link = await self.obter_link_video(slug, ep_num)
                     if link:
@@ -338,6 +344,8 @@ class AnimeScraper:
                         )
                         novos_eps.append(ep_num)
                         af_fallbacks += 1
+                        if mal_id:
+                            asyncio.create_task(fetch_and_save_skip_times(self.db, mal_id, ep_num))
                     else:
                         if ep_num == 1:
                             break

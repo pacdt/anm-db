@@ -14,6 +14,13 @@ logs_atualizacoes
 anm.db
 data/
 
+# Legado (JSON)
+Episodios/
+animes_dublados.json
+animes_legendados.json
+api.py
+iniciar_bot.bat
+
 # API estática (legado)
 api_dist/
 

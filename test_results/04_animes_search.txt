@@ -1,0 +1,45 @@
+=== Teste 4: GET /animes?search=one-piece (Busca) ===
+{
+    "items": [
+        {
+            "title": "One Piece: Episode of Sorajima",
+            "slug": "one-piece-episode-of-sorajima",
+            "image": "https://animefire.io/img/animes/one-piece-episode-of-sorajima.webp",
+            "score": null,
+            "type": "legendado"
+        },
+        {
+            "title": "One Piece: Adventure of Nebulandia",
+            "slug": "one-piece-adventure-of-nebulandia",
+            "image": "https://animefire.io/img/animes/one-piece-adventure-of-nebulandia.webp",
+            "score": null,
+            "type": "legendado"
+        },
+        {
+            "title": "One Piece Log: Fish-Man Island Saga",
+            "slug": "one-piece-gyojin-tou-hen",
+            "image": "https://animefire.io/img/animes/one-piece-gyojin-tou-hen.webp",
+            "score": 7.9,
+            "type": "legendado"
+        },
+        {
+            "title": "Koisuru One Piece",
+            "slug": "koisuru-one-piece",
+            "image": "https://animefire.io/img/animes/koisuru-one-piece.webp",
+            "score": null,
+            "type": "legendado"
+        },
+        {
+            "title": "One Piece Film: Strong World Episode 0",
+            "slug": "one-piece-film-strong-world-episode-0",
+            "image": "https://animefire.io/img/animes/one-piece-film-strong-world-episode-0.webp",
+            "score": 7.91,
+            "type": "legendado"
+        }
+    ],
+    "total": 5166,
+    "page": 1,
+    "limit": 5,
+    "pages": 1034
+}
+

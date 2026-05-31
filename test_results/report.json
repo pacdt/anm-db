@@ -1,0 +1,141 @@
+{
+  "tests": [
+    {
+      "name": "Root endpoint",
+      "endpoint": "GET /",
+      "status": 200,
+      "passed": true,
+      "details": "Returns API name='anm-db API', version='2.0.0', docs='/docs'",
+      "issues": []
+    },
+    {
+      "name": "Health check",
+      "endpoint": "GET /health",
+      "status": 200,
+      "passed": true,
+      "details": "Returns {status: ok}",
+      "issues": []
+    },
+    {
+      "name": "Animes list (limit=2)",
+      "endpoint": "GET /animes?limit=2",
+      "status": 200,
+      "passed": true,
+      "details": "Returns paginated response with items[], total=5166, page=1, limit=2, pages=2583",
+      "issues": []
+    },
+    {
+      "name": "Animes search",
+      "endpoint": "GET /animes?search=naruto",
+      "status": 200,
+      "passed": true,
+      "details": "Returns 7 results including naruto-dublado, naruto-shippuuden-dublado, etc.",
+      "issues": []
+    },
+    {
+      "name": "Animes ongoing",
+      "endpoint": "GET /animes?status=ongoing",
+      "status": 200,
+      "passed": true,
+      "details": "Returns total=10 ongoing animes",
+      "issues": []
+    },
+    {
+      "name": "Anime detail (naruto-dublado)",
+      "endpoint": "GET /animes/naruto-dublado",
+      "status": 200,
+      "passed": true,
+      "details": "Returns full anime with titulo='Naruto (Dublado)', genres=['Action','Fantasy','Adventure'], 211 episodes",
+      "issues": [
+        "skip_times: ALL empty {} on all 211 episodes",
+        "url_cdn: ALL None on all episodes (fonte_ativa=animefire)",
+        "Field names differ from expected: uses 'titulo' not 'title', 'imagem' not 'image'"
+      ]
+    },
+    {
+      "name": "Genres list",
+      "endpoint": "GET /genres",
+      "status": 200,
+      "passed": true,
+      "details": "Returns flat array of 21 genres (Action, Adventure, Avant Garde, etc.)",
+      "issues": []
+    },
+    {
+      "name": "Genre detail (Action)",
+      "endpoint": "GET /genres/Action",
+      "status": 200,
+      "passed": true,
+      "details": "Returns paginated response with items[], total, page, limit, pages",
+      "issues": [
+        "Genre name field is missing (nome=None) in response",
+        "Returns paginated anime list for the genre"
+      ]
+    },
+    {
+      "name": "Episodes latest",
+      "endpoint": "GET /episodes/latest?limit=3",
+      "status": 200,
+      "passed": true,
+      "details": "Returns 3 episodes from zenshuu-dublado (eps 10-12)",
+      "issues": [
+        "skip_times: ALL empty {}",
+        "url_cdn: Present for all 3 episodes (cdn source)",
+        "fonte_ativa: 'cdn' for all 3 episodes"
+      ]
+    },
+    {
+      "name": "Episodes by slug (naruto-dublado)",
+      "endpoint": "GET /episodes/naruto-dublado",
+      "status": 200,
+      "passed": true,
+      "details": "Returns paginated response with 50 episodes per page",
+      "issues": [
+        "skip_times: ALL empty {}",
+        "url_cdn: ALL None (fonte_ativa=animefire)"
+      ]
+    },
+    {
+      "name": "Anime detail CDN (zenshuu-dublado)",
+      "endpoint": "GET /animes/zenshuu-dublado",
+      "status": 200,
+      "passed": true,
+      "details": "Returns anime with titulo='Zenshuu. (Dublado)', genres=['Action','Fantasy'], 11 episodes",
+      "issues": [
+        "skip_times: ALL empty {} even for CDN episodes",
+        "url_cdn: False on anime detail eps (despite episodes/latest showing cdn URLs)",
+        "Inconsistency: /episodes/latest shows url_cdn for same anime, but /animes/{slug} does not"
+      ]
+    },
+    {
+      "name": "Nonexistent anime",
+      "endpoint": "GET /animes/nonexistent-slug-12345",
+      "status": 404,
+      "passed": true,
+      "details": "Correctly returns 404",
+      "issues": []
+    },
+    {
+      "name": "Nonexistent episodes",
+      "endpoint": "GET /episodes/nonexistent-slug-12345",
+      "status": 404,
+      "passed": true,
+      "details": "Correctly returns 404",
+      "issues": []
+    },
+    {
+      "name": "Nonexistent genre",
+      "endpoint": "GET /genres/NonexistentGenre",
+      "status": 200,
+      "passed": false,
+      "details": "Returns 200 with empty items[] instead of 404",
+      "issues": [
+        "Should return 404 for non-existent genre, currently returns 200 with empty results"
+      ]
+    }
+  ],
+  "summary": {
+    "total": 14,
+    "passed": 13,
+    "failed": 1
+  }
+}

@@ -1,0 +1,109 @@
+=== Teste 9: GET /genres (Lista generos) ===
+[
+    {
+        "id": 5,
+        "nome": "Action",
+        "count": 1783
+    },
+    {
+        "id": 11,
+        "nome": "Adventure",
+        "count": 994
+    },
+    {
+        "id": 17,
+        "nome": "Avant Garde",
+        "count": 46
+    },
+    {
+        "id": 16,
+        "nome": "Award Winning",
+        "count": 71
+    },
+    {
+        "id": 18,
+        "nome": "Boys Love",
+        "count": 45
+    },
+    {
+        "id": 1,
+        "nome": "Comedy",
+        "count": 1778
+    },
+    {
+        "id": 3,
+        "nome": "Drama",
+        "count": 972
+    },
+    {
+        "id": 13,
+        "nome": "Ecchi",
+        "count": 421
+    },
+    {
+        "id": 21,
+        "nome": "Erotica",
+        "count": 16
+    },
+    {
+        "id": 10,
+        "nome": "Fantasy",
+        "count": 1412
+    },
+    {
+        "id": 19,
+        "nome": "Girls Love",
+        "count": 50
+    },
+    {
+        "id": 12,
+        "nome": "Gourmet",
+        "count": 66
+    },
+    {
+        "id": 20,
+        "nome": "Hentai",
+        "count": 6
+    },
+    {
+        "id": 8,
+        "nome": "Horror",
+        "count": 185
+    },
+    {
+        "id": 9,
+        "nome": "Mystery",
+        "count": 450
+    },
+    {
+        "id": 2,
+        "nome": "Romance",
+        "count": 1021
+    },
+    {
+        "id": 4,
+        "nome": "Sci-Fi",
+        "count": 847
+    },
+    {
+        "id": 14,
+        "nome": "Slice of Life",
+        "count": 244
+    },
+    {
+        "id": 15,
+        "nome": "Sports",
+        "count": 224
+    },
+    {
+        "id": 6,
+        "nome": "Supernatural",
+        "count": 597
+    },
+    {
+        "id": 7,
+        "nome": "Suspense",
+        "count": 265
+    }
+]
+

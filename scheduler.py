@@ -1,5 +1,6 @@
+import time
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from apscheduler.triggers.cron import CronTrigger
 from db import DatabaseManager
@@ -9,8 +10,10 @@ logger = logging.getLogger("Scheduler")
 
 
 async def sync_jikan_job():
-    logger.info("jikan_sync iniciado")
+    start = time.monotonic()
+    logger.info("[06:00:00] jikan_sync iniciado")
     run_id = None
+    db = None
     try:
         db = DatabaseManager()
         await db.init_db()
@@ -19,18 +22,28 @@ async def sync_jikan_job():
         syncer = JikanSync(db)
         await syncer.sync_jikan_catalog()
 
+        elapsed = time.monotonic() - start
+        mins = int(elapsed // 60)
+        secs = int(elapsed % 60)
         await db.log_job_end(run_id, "success")
-        logger.info("jikan_sync concluido com sucesso")
+        logger.info(
+            f"[06:00:00] jikan_sync concluido com sucesso — "
+            f"Tempo: {mins}m {secs}s"
+        )
         await db.close()
     except Exception as e:
-        logger.error(f"jikan_sync falhou: {e}")
+        elapsed = time.monotonic() - start
+        mins = int(elapsed // 60)
+        secs = int(elapsed % 60)
+        logger.error(f"[06:00:00] jikan_sync falhou: {e} — Tempo: {mins}m {secs}s")
         if run_id and db:
             await db.log_job_end(run_id, "error", erro_msg=str(e))
             await db.close()
 
 
 async def scan_ongoing_episodes():
-    logger.info("episode_scan iniciado")
+    start = time.monotonic()
+    logger.info("[07:00:00] episode_scan iniciado")
     run_id = None
     db = None
     try:
@@ -39,10 +52,11 @@ async def scan_ongoing_episodes():
         run_id = await db.log_job_start("episode_scan")
 
         animes = await db.get_ongoing_due()
-        logger.info(f"{len(animes)} animes na fila")
+        logger.info(f"[07:00:01] {len(animes)} animes na fila")
 
         if not animes:
             await db.log_job_end(run_id, "success", animes_checked=0)
+            logger.info("[07:00:01] episode_scan concluido — 0 animes na fila")
             await db.close()
             return
 
@@ -50,7 +64,6 @@ async def scan_ongoing_episodes():
         scraper = AnimeScraper(db)
         await scraper.start_session()
 
-        total_eps = 0
         total_cdn = 0
         total_af = 0
 
@@ -73,6 +86,14 @@ async def scan_ongoing_episodes():
         await db.reschedule_next_check([a["id"] for a in animes], hours=24)
 
         await scraper.close_session()
+
+        elapsed = time.monotonic() - start
+        mins = int(elapsed // 60)
+        secs = int(elapsed % 60)
+        total_all = total_cdn + total_af
+        cdn_pct = (total_cdn / total_all * 100) if total_all > 0 else 0
+        af_pct = (total_af / total_all * 100) if total_all > 0 else 0
+
         await db.log_job_end(
             run_id, "success",
             animes_checked=len(animes),
@@ -81,12 +102,19 @@ async def scan_ongoing_episodes():
             af_fallbacks=total_af,
         )
         logger.info(
-            f"episode_scan concluido: {len(animes)} animes, "
-            f"{total_eps} eps (CDN: {total_cdn}, AF: {total_af})"
+            f"[07:00:01] episode_scan concluido — "
+            f"Animes verificados: {len(animes)} | "
+            f"Episodios novos: {total_eps} | "
+            f"CDN hits: {total_cdn} ({cdn_pct:.0f}%) | "
+            f"AF fallbacks: {total_af} ({af_pct:.0f}%) | "
+            f"Tempo: {mins}m {secs}s"
         )
         await db.close()
     except Exception as e:
-        logger.error(f"episode_scan falhou: {e}")
+        elapsed = time.monotonic() - start
+        mins = int(elapsed // 60)
+        secs = int(elapsed % 60)
+        logger.error(f"[07:00:00] episode_scan falhou: {e} — Tempo: {mins}m {secs}s")
         if run_id and db:
             await db.log_job_end(run_id, "error", erro_msg=str(e))
             await db.close()
