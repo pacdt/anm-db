@@ -11,7 +11,7 @@ docker stop anm_nginx 2>/dev/null || true
 docker rm anm_nginx 2>/dev/null || true
 
 echo "[3/5] Atualizando repositorio..."
-git pull origin refactor/database-migration
+git pull --rebase origin refactor/database-migration
 
 echo "[4/5] Reconstruindo imagens..."
 docker compose build --no-cache
