@@ -1,7 +1,7 @@
 import logging
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
-from api.routes import animes, genres, episodes
+from api.routes import animes, genres, episodes, download
 from api.deps import init_db, close_db
 
 logger = logging.getLogger("API")
@@ -26,6 +26,7 @@ app = FastAPI(
 app.include_router(animes.router)
 app.include_router(genres.router)
 app.include_router(episodes.router)
+app.include_router(download.router)
 
 
 @app.get("/")
