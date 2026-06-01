@@ -1,11 +1,16 @@
 #!/bin/bash
 set -e
 
-echo "[entrypoint] 1/3 Jikan sync (metadados + titulos episodios)..."
-python main.py --mode=jikan-sync --skip-if-recent=24
+echo "[entrypoint] Iniciando API..."
+python main.py --mode=api &
+API_PID=$!
 
-echo "[entrypoint] 2/3 Scraper full (background)..."
-python main.py --mode=full &
+echo "[entrypoint] Iniciando jikan-sync + scraper full em background..."
+(
+    python main.py --mode=jikan-sync --skip-if-recent=24
+    python main.py --mode=full
+) &
+WORKER_PID=$!
 
-echo "[entrypoint] 3/3 Iniciando API..."
-python main.py --mode=api
+echo "[entrypoint] API rodando (PID=$API_PID), workers (PID=$WORKER_PID)"
+wait $API_PID
