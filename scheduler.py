@@ -1,4 +1,5 @@
 import time
+import asyncio
 import logging
 from datetime import datetime, timezone
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
@@ -120,6 +121,79 @@ async def scan_ongoing_episodes():
             await db.close()
 
 
+async def backfill_skip_times_job():
+    start = time.monotonic()
+    logger.info("[08:00:00] backfill_skip_times iniciado")
+    run_id = None
+    db = None
+    try:
+        db = DatabaseManager()
+        await db.init_db()
+        run_id = await db.log_job_start("backfill_skip_times")
+
+        from aniskip import fetch_skip_times
+        import aiohttp
+
+        async with db._db.execute("""
+            SELECT a.id, a.mal_id, a.slug, e.numero
+            FROM animes a
+            JOIN episodios e ON a.id = e.anime_id
+            WHERE a.mal_id IS NOT NULL
+            ORDER BY a.slug, e.numero
+        """) as cur:
+            rows = await cur.fetchall()
+
+        logger.info(f"[08:00:01] {len(rows)} episodios com mal_id para backfill")
+
+        skip_count = 0
+        processed = 0
+        async with aiohttp.ClientSession() as session:
+            for i, (anime_id, mal_id, slug, ep_numero) in enumerate(rows):
+                existing = await db.get_skip_times(anime_id, ep_numero)
+                if existing:
+                    continue
+
+                skip_times = await fetch_skip_times(mal_id, ep_numero, session=session)
+                for skip_type, times in skip_times.items():
+                    await db.upsert_skip_time(
+                        anime_id=anime_id,
+                        ep_numero=ep_numero,
+                        tipo=skip_type,
+                        start_time=times["start"],
+                        end_time=times["end"],
+                    )
+                    skip_count += 1
+
+                processed += 1
+                if processed % 50 == 0:
+                    logger.info(f"[08:00:01] Progresso: {processed}/{len(rows)} eps, {skip_count} skip times")
+
+                await asyncio.sleep(0.5)
+
+        elapsed = time.monotonic() - start
+        mins = int(elapsed // 60)
+        secs = int(elapsed % 60)
+        await db.log_job_end(
+            run_id, "success",
+            eps_novos=processed,
+        )
+        logger.info(
+            f"[08:00:00] backfill_skip_times concluido — "
+            f"Episodios processados: {processed} | "
+            f"Skip times salvos: {skip_count} | "
+            f"Tempo: {mins}m {secs}s"
+        )
+        await db.close()
+    except Exception as e:
+        elapsed = time.monotonic() - start
+        mins = int(elapsed // 60)
+        secs = int(elapsed % 60)
+        logger.error(f"[08:00:00] backfill_skip_times falhou: {e} — Tempo: {mins}m {secs}s")
+        if run_id and db:
+            await db.log_job_end(run_id, "error", erro_msg=str(e))
+            await db.close()
+
+
 def create_scheduler() -> AsyncIOScheduler:
     scheduler = AsyncIOScheduler()
 
@@ -135,6 +209,13 @@ def create_scheduler() -> AsyncIOScheduler:
         CronTrigger(hour=7, minute=0),
         id="episode_scan",
         name="Varredura de episodios",
+    )
+
+    scheduler.add_job(
+        backfill_skip_times_job,
+        CronTrigger(hour=8, minute=0),
+        id="backfill_skip_times",
+        name="Backfill skip times",
     )
 
     return scheduler
