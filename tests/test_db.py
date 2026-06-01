@@ -203,3 +203,22 @@ async def test_init_db_existing(db_path):
     anime = await db2.get_anime_by_slug("test")
     assert anime is not None
     await db2.close()
+
+
+async def test_get_last_successful_run(db):
+    run_id = await db.log_job_start("test_job")
+    await db.log_job_end(run_id, "success")
+    last = await db.get_last_successful_run("test_job")
+    assert last is not None
+
+
+async def test_get_last_successful_run_no_jobs(db):
+    last = await db.get_last_successful_run("nonexistent")
+    assert last is None
+
+
+async def test_get_last_successful_run_only_errors(db):
+    run_id = await db.log_job_start("test_job")
+    await db.log_job_end(run_id, "error", erro_msg="fail")
+    last = await db.get_last_successful_run("test_job")
+    assert last is None

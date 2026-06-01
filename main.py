@@ -2,6 +2,7 @@ import os
 import sys
 import asyncio
 import logging
+from datetime import datetime, timezone
 
 logging.basicConfig(
     level=logging.INFO,
@@ -21,6 +22,12 @@ def main():
                  "backfill-skip-times"],
         default="full",
         help="Modo de execucao",
+    )
+    parser.add_argument(
+        "--skip-if-recent",
+        type=int,
+        default=None,
+        help="Pular modo se último success < N horas atrás",
     )
     args = parser.parse_args()
 
@@ -46,6 +53,19 @@ def main():
         return
 
     if args.mode == "backfill-skip-times":
+        if args.skip_if_recent:
+            async def _check():
+                db = DatabaseManager()
+                await db.init_db()
+                last = await db.get_last_successful_run("backfill_skip_times")
+                await db.close()
+                return last
+            last = asyncio.run(_check())
+            if last:
+                elapsed = datetime.now(timezone.utc) - datetime.fromisoformat(last)
+                if elapsed.total_seconds() < args.skip_if_recent * 3600:
+                    logger.info(f"Pulando backfill_skip_times (rodou {elapsed.total_seconds()/3600:.1f}h atras)")
+                    return
         asyncio.run(_backfill_skip_times())
         return
 
@@ -57,6 +77,14 @@ def main():
         await db.init_db()
 
         if args.mode == "jikan-sync":
+            if args.skip_if_recent:
+                last = await db.get_last_successful_run("jikan_sync")
+                if last:
+                    elapsed = datetime.now(timezone.utc) - datetime.fromisoformat(last)
+                    if elapsed.total_seconds() < args.skip_if_recent * 3600:
+                        logger.info(f"Pulando jikan_sync (rodou {elapsed.total_seconds()/3600:.1f}h atras)")
+                        await db.close()
+                        return
             from jikan import JikanSync
             syncer = JikanSync(db)
             await syncer.sync_jikan_catalog()

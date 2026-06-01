@@ -2,7 +2,7 @@
 set -e
 
 echo "[entrypoint] 1/3 Jikan sync (metadados + titulos episodios)..."
-python main.py --mode=jikan-sync
+python main.py --mode=jikan-sync --skip-if-recent=24
 
 echo "[entrypoint] 2/3 Scraper full (background)..."
 python main.py --mode=full &

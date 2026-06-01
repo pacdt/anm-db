@@ -447,6 +447,16 @@ class DatabaseManager:
             """, (now, status, animes_checked, eps_novos, cdn_hits, af_fallbacks, erro_msg, run_id))
             await self._db.commit()
 
+    async def get_last_successful_run(self, job_id: str) -> str | None:
+        async with self._db.execute(
+            """SELECT finished_at FROM job_runs
+               WHERE job_id = ? AND status = 'success'
+               ORDER BY finished_at DESC LIMIT 1""",
+            (job_id,)
+        ) as cur:
+            row = await cur.fetchone()
+            return row[0] if row else None
+
     async def __aenter__(self):
         await self.connect()
         return self
