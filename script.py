@@ -282,73 +282,54 @@ class AnimeScraper:
 
         while current_check <= max_tentativas and erros_consecutivos < ERROS_CONSECUTIVOS_LIMITE:
             cdn_url = await check_cdn_episode(cdn_slug, current_check, self.session)
+            af_url = await self.obter_link_video(slug, current_check)
 
-            if cdn_url:
+            if cdn_url or af_url:
                 await self.db.upsert_episodio(
                     anime_id=anime_id,
                     numero=current_check,
                     titulo=f"Episodio {current_check}",
                     url_cdn=cdn_url,
-                    fonte_ativa="cdn",
+                    url_af=af_url,
+                    fonte_ativa="cdn" if cdn_url else "animefire",
                 )
                 novos_eps.append(current_check)
-                cdn_hits += 1
+                if cdn_url:
+                    cdn_hits += 1
+                else:
+                    af_fallbacks += 1
                 erros_consecutivos = 0
                 current_check += 1
                 if mal_id:
                     asyncio.create_task(fetch_and_save_skip_times(self.db, mal_id, current_check - 1))
             else:
-                link = await self.obter_link_video(slug, current_check)
-                if link:
-                    await self.db.upsert_episodio(
-                        anime_id=anime_id,
-                        numero=current_check,
-                        titulo=f"Episodio {current_check}",
-                        url_af=link,
-                        fonte_ativa="animefire",
-                    )
-                    novos_eps.append(current_check)
-                    af_fallbacks += 1
-                    erros_consecutivos = 0
-                    current_check += 1
-                    if mal_id:
-                        asyncio.create_task(fetch_and_save_skip_times(self.db, mal_id, current_check - 1))
-                else:
-                    erros_consecutivos += 1
-                    current_check += 1
+                erros_consecutivos += 1
+                current_check += 1
 
         if ultimo_ep == 0 and not novos_eps:
             for ep_num in range(1, MAX_EPISODIOS_FRENTE + 1):
                 cdn_url = await check_cdn_episode(cdn_slug, ep_num, self.session)
-                if cdn_url:
+                af_url = await self.obter_link_video(slug, ep_num)
+
+                if cdn_url or af_url:
                     await self.db.upsert_episodio(
                         anime_id=anime_id,
                         numero=ep_num,
                         titulo=f"Episodio {ep_num}",
                         url_cdn=cdn_url,
-                        fonte_ativa="cdn",
+                        url_af=af_url,
+                        fonte_ativa="cdn" if cdn_url else "animefire",
                     )
                     novos_eps.append(ep_num)
-                    cdn_hits += 1
+                    if cdn_url:
+                        cdn_hits += 1
+                    else:
+                        af_fallbacks += 1
                     if mal_id:
                         asyncio.create_task(fetch_and_save_skip_times(self.db, mal_id, ep_num))
                 else:
-                    link = await self.obter_link_video(slug, ep_num)
-                    if link:
-                        await self.db.upsert_episodio(
-                            anime_id=anime_id,
-                            numero=ep_num,
-                            titulo=f"Episodio {ep_num}",
-                            url_af=link,
-                            fonte_ativa="animefire",
-                        )
-                        novos_eps.append(ep_num)
-                        af_fallbacks += 1
-                        if mal_id:
-                            asyncio.create_task(fetch_and_save_skip_times(self.db, mal_id, ep_num))
-                    else:
-                        if ep_num == 1:
-                            break
+                    if ep_num == 1:
+                        break
 
         return len(novos_eps), bool(novos_eps), cdn_hits, af_fallbacks
 
