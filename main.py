@@ -3,6 +3,7 @@ import sys
 import asyncio
 import logging
 from datetime import datetime, timezone
+from db import DatabaseManager
 
 logging.basicConfig(
     level=logging.INFO,
@@ -70,7 +71,6 @@ def main():
         return
 
     # Full, ongoing, jikan-sync modes
-    from db import DatabaseManager
 
     async def run():
         db = DatabaseManager()
