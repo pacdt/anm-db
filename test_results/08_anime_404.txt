@@ -1,0 +1,4 @@
+=== Teste 8: GET /animes/nonexistent (404) ===
+{"detail":"Anime not found"}
+HTTP Status: 404
+

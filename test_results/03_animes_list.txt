@@ -1,0 +1,31 @@
+=== Teste 3: GET /animes?limit=3 (Lista paginada) ===
+{
+    "items": [
+        {
+            "title": "Yashahime: Princess Half-Demon: The Second Act",
+            "slug": "hanyou-no-yashahime-sengoku-otogizoushi---ni-no-shou",
+            "image": "https://animefire.io/img/animes/hanyou-no-yashahime-sengoku-otogizoushi---ni-no-shou.webp",
+            "score": 7.06,
+            "type": "legendado"
+        },
+        {
+            "title": "Aika Zero",
+            "slug": "aika-zero",
+            "image": "https://animefire.io/img/animes/aika-zero.webp",
+            "score": 5.86,
+            "type": "legendado"
+        },
+        {
+            "title": "Black Butler: Book of Circus",
+            "slug": "kuroshitsuji-book-of-circus",
+            "image": "https://animefire.io/img/animes/kuroshitsuji-book-of-circus.webp",
+            "score": 8.06,
+            "type": "legendado"
+        }
+    ],
+    "total": 5166,
+    "page": 1,
+    "limit": 3,
+    "pages": 1722
+}
+

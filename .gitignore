@@ -1,0 +1,41 @@
+# Scripts
+# *.py
+# *.bat
+*.vbs
+# Python caches
+__pycache__/
+*.pyc
+# Ambientes virtuais
+venv/
+.venv/
+logs_atualizacoes
+
+# Banco de dados
+anm.db
+data/
+
+# Ambiente / secrets
+.env
+.env.local
+.env.*.local
+
+# Legado (JSON)
+Episodios/
+animes_dublados.json
+animes_legendados.json
+api.py
+iniciar_bot.bat
+
+# API estática (legado)
+api_dist/
+
+# Cache Jikan (legado)
+jikan_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

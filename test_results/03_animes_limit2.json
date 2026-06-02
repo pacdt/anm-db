@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "body": {
+    "items": [
+      {
+        "title": "Test Anime",
+        "slug": "jigokuraku-2nd-season-dublado",
+        "image": "https://animefire.io/img/animes/jigokuraku-2nd-season.webp",
+        "score": null,
+        "type": "dublado"
+      },
+      {
+        "title": "Barom One (Dublado)",
+        "slug": "barom-one-dublado",
+        "image": "https://animefire.io/img/animes/barom-one.webp",
+        "score": null,
+        "type": "dublado"
+      }
+    ],
+    "total": 5166,
+    "page": 1,
+    "limit": 2,
+    "pages": 2583
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "passed": 13,
+  "failed": 1,
+  "warnings": [
+    "anime_detail(jigokuraku-2nd-season-dublado): 6/6 episodes have empty skip_times",
+    "anime_detail(jigokuraku-2nd-season-dublado): NO episodes have skip_times populated!",
+    "anime_detail(jigokuraku-2nd-season-dublado): NO episodes have url_cdn!",
+    "episodes_by_slug(jigokuraku-2nd-season-dublado): NO episodes have skip_times populated!",
+    "episodes_by_slug(jigokuraku-2nd-season-dublado): NO episodes have url_cdn!"
+  ],
+  "errors": [
+    "anime_detail(jigokuraku-2nd-season-dublado): Genres list is empty!"
+  ],
+  "results": {
+    "root": {
+      "status": 200
+    },
+    "health": {
+      "status": 200
+    },
+    "animes_limit2": {
+      "status": 200
+    },
+    "animes_search": {
+      "status": 200
+    },
+    "animes_ongoing": {
+      "status": 200
+    },
+    "anime_detail": {
+      "status": 200
+    },
+    "genres": {
+      "status": 200
+    },
+    "genre_detail": {
+      "status": 200
+    },
+    "genre_404": {
+      "status": 404
+    },
+    "episodes_latest": {
+      "status": 200
+    },
+    "episodes_by_slug": {
+      "status": 200
+    },
+    "anime_404": {
+      "status": 404
+    },
+    "episodes_404": {
+      "status": 404
+    },
+    "animes_empty_page": {
+      "status": 200
+    }
+  }
+}

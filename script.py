@@ -1,0 +1,41 @@
+"""Shim de retrocompatibilidade. O codigo real vive em `anm_db.scrapers.animefire`."""
+
+from anm_db.scrapers.animefire import (
+    BASE_URL_SITE,
+    BASE_URL_VIDEO,
+    CONCURRENCY_CATALOGO,
+    CONCURRENCY_EPISODIOS,
+    DELAY_APOS_429,
+    DELAY_ENTRE_BATCHES,
+    ERROS_CONSECUTIVOS_LIMITE,
+    MAX_EPISODIOS_FRENTE,
+    REQ_CATALOGO,
+    REQ_EPISODIOS,
+    TIMEOUT_GLOBAL,
+    USER_AGENTS,
+    AnimeScraper,
+    RateLimiter,
+    extrair_slug,
+    formatar_tempo,
+    get_header,
+)
+
+__all__ = [
+    "BASE_URL_SITE",
+    "BASE_URL_VIDEO",
+    "CONCURRENCY_CATALOGO",
+    "CONCURRENCY_EPISODIOS",
+    "DELAY_APOS_429",
+    "DELAY_ENTRE_BATCHES",
+    "ERROS_CONSECUTIVOS_LIMITE",
+    "MAX_EPISODIOS_FRENTE",
+    "REQ_CATALOGO",
+    "REQ_EPISODIOS",
+    "TIMEOUT_GLOBAL",
+    "USER_AGENTS",
+    "AnimeScraper",
+    "RateLimiter",
+    "extrair_slug",
+    "formatar_tempo",
+    "get_header",
+]

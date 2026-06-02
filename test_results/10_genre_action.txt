@@ -1,0 +1,31 @@
+=== Teste 10: GET /genres/Action (Genero especifico) ===
+{
+    "items": [
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "slug": "fullmetal-alchemist-brotherhood-dublado",
+            "image": "https://animefire.io/img/animes/fullmetal-alchemist-brotherhood.webp",
+            "score": 9.1,
+            "type": "dublado"
+        },
+        {
+            "title": "Attack on Titan Season 3 Part 2",
+            "slug": "shingeki-no-kyojin-season-3-part-2-dublado",
+            "image": "https://animefire.io/img/animes/shingeki-no-kyojin-season-3-part-2.webp",
+            "score": 9.05,
+            "type": "dublado"
+        },
+        {
+            "title": "Attack on Titan Season 3 Part 2",
+            "slug": "shingeki-no-kyojin-season-3-part-2",
+            "image": "https://animefire.io/img/animes/shingeki-no-kyojin-season-3-part-2.webp",
+            "score": 9.05,
+            "type": "legendado"
+        }
+    ],
+    "total": 3,
+    "page": 1,
+    "limit": 3,
+    "pages": 1
+}
+
