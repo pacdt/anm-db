@@ -7,7 +7,7 @@ import time
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from anm_db.repository.database import DatabaseManager
-from anm_db.scrapers.cdn import check_cdn_episode
+from anm_db.scrapers.cdn import check_all_cdn_episodes
 from anm_db.scrapers.aniskip import fetch_and_save_skip_times
 
 # --- CONFIGURACOES GERAIS ---
@@ -281,20 +281,24 @@ class AnimeScraper:
         max_tentativas = ultimo_ep + MAX_EPISODIOS_FRENTE if ultimo_ep > 0 else MAX_EPISODIOS_FRENTE
 
         while current_check <= max_tentativas and erros_consecutivos < ERROS_CONSECUTIVOS_LIMITE:
-            cdn_url = await check_cdn_episode(cdn_slug, current_check, self.session)
+            cdn_sources = await check_all_cdn_episodes(cdn_slug, current_check, self.session)
             af_url = await self.obter_link_video(slug, current_check)
 
-            if cdn_url or af_url:
+            cdn_url = cdn_sources.get("cdn-s01.mywallpaper-4k-image.net")
+            cdn2_url = cdn_sources.get("pixel-sus-4k-image.com")
+
+            if cdn_url or cdn2_url or af_url:
                 await self.db.upsert_episodio(
                     anime_id=anime_id,
                     numero=current_check,
                     titulo=f"Episodio {current_check}",
                     url_cdn=cdn_url,
+                    url_cdn2=cdn2_url,
                     url_af=af_url,
-                    fonte_ativa="cdn" if cdn_url else "animefire",
+                    fonte_ativa="cdn" if (cdn_url or cdn2_url) else "animefire",
                 )
                 novos_eps.append(current_check)
-                if cdn_url:
+                if cdn_url or cdn2_url:
                     cdn_hits += 1
                 else:
                     af_fallbacks += 1
@@ -308,20 +312,24 @@ class AnimeScraper:
 
         if ultimo_ep == 0 and not novos_eps:
             for ep_num in range(1, MAX_EPISODIOS_FRENTE + 1):
-                cdn_url = await check_cdn_episode(cdn_slug, ep_num, self.session)
+                cdn_sources = await check_all_cdn_episodes(cdn_slug, ep_num, self.session)
                 af_url = await self.obter_link_video(slug, ep_num)
 
-                if cdn_url or af_url:
+                cdn_url = cdn_sources.get("cdn-s01.mywallpaper-4k-image.net")
+                cdn2_url = cdn_sources.get("pixel-sus-4k-image.com")
+
+                if cdn_url or cdn2_url or af_url:
                     await self.db.upsert_episodio(
                         anime_id=anime_id,
                         numero=ep_num,
                         titulo=f"Episodio {ep_num}",
                         url_cdn=cdn_url,
+                        url_cdn2=cdn2_url,
                         url_af=af_url,
-                        fonte_ativa="cdn" if cdn_url else "animefire",
+                        fonte_ativa="cdn" if (cdn_url or cdn2_url) else "animefire",
                     )
                     novos_eps.append(ep_num)
-                    if cdn_url:
+                    if cdn_url or cdn2_url:
                         cdn_hits += 1
                     else:
                         af_fallbacks += 1

@@ -102,6 +102,7 @@ class EpisodeOut(BaseModel):
     titulo: str | None = None
     titulo_pt: str | None = None
     url_cdn: str | None = None
+    url_cdn2: str | None = None
     url_af: str | None = None
     fonte_ativa: str | None = None
     slug: str | None = None

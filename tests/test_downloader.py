@@ -40,6 +40,7 @@ def _ep(**overrides):
         "numero": 1,
         "titulo": "Ep 1",
         "url_cdn": "https://cdn-s01.mywallpaper-4k-image.net/o/one-piece/01.m3u8",
+        "url_cdn2": None,
         "url_af": "https://www.blogger.com/video.g?token=AD6v5d",
         "fonte_ativa": "cdn",
     }
@@ -91,8 +92,70 @@ async def test_resolve_returns_cdn_when_available(downloader, mock_db):
 
     result = await downloader.resolve("naruto", 1, source="auto")
     assert result is not None
-    assert result.source_used == "cdn"
+    assert result.source_used == "cdn1"
     assert result.transcoded is True  # e HLS
+
+
+@pytest.mark.asyncio
+async def test_resolve_returns_cdn2_when_cdn1_missing(downloader, mock_db):
+    """Quando cdn1 indisponivel mas cdn2 existe, deve usar cdn2."""
+    mock_db.get_anime_by_slug = AsyncMock(return_value={"id": 1, "slug": "naruto"})
+    mock_db.get_episodios_paginados = AsyncMock(
+        return_value=[_ep(url_cdn=None, url_cdn2="https://pixel-sus-4k-image.com/n/naruto/01.m3u8")]
+    )
+
+    result = await downloader.resolve("naruto", 1, source="auto")
+    assert result is not None
+    assert result.source_used == "cdn2"
+    assert "pixel-sus-4k-image.com" in result.url
+
+
+@pytest.mark.asyncio
+async def test_resolve_source_cdn2_explicit(downloader, mock_db):
+    """Quando source='cdn2' explicito, usa cdn2 mesmo que cdn1 exista."""
+    mock_db.get_anime_by_slug = AsyncMock(return_value={"id": 1, "slug": "naruto"})
+    mock_db.get_episodios_paginados = AsyncMock(
+        return_value=[_ep(url_cdn2="https://pixel-sus-4k-image.com/n/naruto/01.m3u8")]
+    )
+
+    result = await downloader.resolve("naruto", 1, source="cdn2")
+    assert result is not None
+    assert result.source_used == "cdn2"
+
+
+@pytest.mark.asyncio
+async def test_resolve_cdn1_requested_strict_returns_none_when_missing(downloader, mock_db):
+    """source='cdn1' explicito: se cdn1 ausente, retorna None (strict, sem fallback para cdn2)."""
+    mock_db.get_anime_by_slug = AsyncMock(return_value={"id": 1, "slug": "naruto"})
+    mock_db.get_episodios_paginados = AsyncMock(
+        return_value=[_ep(url_cdn=None, url_cdn2="https://pixel-sus-4k-image.com/n/naruto/01.m3u8")]
+    )
+
+    result = await downloader.resolve("naruto", 1, source="cdn1")
+    assert result is None
+
+
+@pytest.mark.asyncio
+async def test_resolve_cdn2_requested_strict_returns_none_when_missing(downloader, mock_db):
+    """source='cdn2' explicito: se cdn2 ausente, retorna None."""
+    mock_db.get_anime_by_slug = AsyncMock(return_value={"id": 1, "slug": "naruto"})
+    mock_db.get_episodios_paginados = AsyncMock(
+        return_value=[_ep(url_cdn="https://cdn-s01.mywallpaper-4k-image.net/n/naruto/01.m3u8", url_cdn2=None)]
+    )
+
+    result = await downloader.resolve("naruto", 1, source="cdn2")
+    assert result is None
+
+
+@pytest.mark.asyncio
+async def test_resolve_legacy_cdn_source_maps_to_cdn1(downloader, mock_db):
+    """Retrocompatibilidade: source='cdn' (legacy) deve mapear para cdn1."""
+    mock_db.get_anime_by_slug = AsyncMock(return_value={"id": 1, "slug": "naruto"})
+    mock_db.get_episodios_paginados = AsyncMock(return_value=[_ep()])
+
+    result = await downloader.resolve("naruto", 1, source="cdn")
+    assert result is not None
+    assert result.source_used == "cdn1"
 
 
 @pytest.mark.asyncio

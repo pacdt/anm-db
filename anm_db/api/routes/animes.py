@@ -6,6 +6,8 @@ Suporta i18n via query param `lang=pt-BR|en|ja|original` (padrao pt-BR).
 
 from __future__ import annotations
 
+from typing import Literal
+
 from fastapi import APIRouter, Depends, HTTPException, Query
 
 from anm_db.api.schemas import AnimeDetail, AnimeSummary, GeneroOut, PaginatedResponse, pick_lang
@@ -19,7 +21,7 @@ router = APIRouter(prefix="/animes", tags=["animes"])
 async def list_animes(
     page: int = Query(1, ge=1),
     limit: int = Query(30, ge=1, le=100),
-    status: str | None = Query(None),
+    status: Literal["ongoing", "finished"] | None = Query(None),
     search: str | None = Query(None),
     lang: str = Query("pt-BR", pattern="^(pt-BR|en|ja|original)$"),
     db: DatabaseManager = Depends(get_db),
@@ -80,7 +82,9 @@ async def get_anime(
             ep_titulo = e.get("titulo")
         available = []
         if e.get("url_cdn"):
-            available.append("cdn")
+            available.append("cdn1")
+        if e.get("url_cdn2"):
+            available.append("cdn2")
         if e.get("url_af"):
             available.append("animefire")
         episodes.append({
@@ -90,6 +94,7 @@ async def get_anime(
             "titulo": ep_titulo,
             "titulo_pt": e.get("titulo_pt"),
             "url_cdn": e.get("url_cdn"),
+            "url_cdn2": e.get("url_cdn2"),
             "url_af": e.get("url_af"),
             "fonte_ativa": e.get("fonte_ativa"),
             "skip_times": skip_times_map.get(ep_num, {}),

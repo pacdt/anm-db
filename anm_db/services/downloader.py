@@ -9,6 +9,11 @@ Comportamento por formato:
 - hls: stream do manifesto .m3u8 cru
 
 Em caso de erro ou ffmpeg indisponivel, faz fallback para hls cru.
+
+Suporta 3 fontes por episodio:
+- cdn1: cdn-s01.mywallpaper-4k-image.net  (CDN primaria)
+- cdn2: pixel-sus-4k-image.com           (CDN secundaria)
+- af:   AnimeFire/Blogger                (fallback)
 """
 
 from __future__ import annotations
@@ -30,7 +35,7 @@ from anm_db.scrapers.blogger import resolve_blogger_url
 logger = logging.getLogger("Downloader")
 
 
-Source = Literal["auto", "cdn", "af"]
+Source = Literal["auto", "cdn1", "cdn2", "cdn", "af"]
 Format = Literal["mp4", "ts", "hls"]
 
 
@@ -40,7 +45,7 @@ class DownloadResult:
     url: str
     content_type: str
     filename: str
-    source_used: Source
+    source_used: str
     transcoded: bool
 
 
@@ -51,7 +56,9 @@ class FFmpegNotAvailable(Exception):
 class VideoDownloader:
     """Orquestra download de episodios com ffmpeg pipe + fallback."""
 
-    CDN_DOMAINS = ("cdn-s01.mywallpaper-4k-image.net", "pixel-sus-4k-image.com")
+    CDN1_DOMAIN = "cdn-s01.mywallpaper-4k-image.net"
+    CDN2_DOMAIN = "pixel-sus-4k-image.com"
+    CDN_DOMAINS = (CDN1_DOMAIN, CDN2_DOMAIN)
 
     def __init__(self, db: DatabaseManager, ffmpeg_path: str | None = None):
         self.db = db
@@ -71,13 +78,27 @@ class VideoDownloader:
     def _is_cdn(self, url: str) -> bool:
         return any(d in url for d in self.CDN_DOMAINS)
 
+    def _cdn_source_label(self, url: str) -> str:
+        """Identifica qual CDN (cdn1 ou cdn2) pela URL."""
+        if self.CDN2_DOMAIN in url:
+            return "cdn2"
+        if self.CDN1_DOMAIN in url:
+            return "cdn1"
+        return "cdn"
+
     async def resolve(
         self,
         slug: str,
         numero: int,
         source: Source = "auto",
     ) -> DownloadResult | None:
-        """Resolve a URL final do episodio, escolhendo CDN ou AF."""
+        """Resolve a URL final do episodio.
+
+        Ordem de fallback (source='auto'):
+        1. CDN1 (cdn-s01.mywallpaper-4k-image.net)
+        2. CDN2 (pixel-sus-4k-image.com)
+        3. AF (AnimeFire/Blogger)
+        """
         anime = await self.db.get_anime_by_slug(slug)
         if not anime:
             return None
@@ -85,14 +106,27 @@ class VideoDownloader:
         if not episode:
             return None
 
-        # Tenta CDN primeiro
-        if source in ("auto", "cdn") and episode.get("url_cdn"):
+        # source='cdn' (legacy) = cdn1 para retrocompatibilidade
+        cdn_choice = "cdn1" if source == "cdn" else source
+
+        # CDN1
+        if cdn_choice in ("auto", "cdn1") and episode.get("url_cdn"):
             return DownloadResult(
                 url=episode["url_cdn"],
                 content_type="video/mp4",
                 filename=f"{slug}-ep{numero}.mp4",
-                source_used="cdn",
+                source_used="cdn1",
                 transcoded=self._is_hls(episode["url_cdn"]),
+            )
+
+        # CDN2
+        if cdn_choice in ("auto", "cdn2") and episode.get("url_cdn2"):
+            return DownloadResult(
+                url=episode["url_cdn2"],
+                content_type="video/mp4",
+                filename=f"{slug}-ep{numero}.mp4",
+                source_used="cdn2",
+                transcoded=self._is_hls(episode["url_cdn2"]),
             )
 
         # Fallback AF (Blogger)

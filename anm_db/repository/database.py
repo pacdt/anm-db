@@ -23,7 +23,7 @@ from anm_db.config import get_settings
 logger = logging.getLogger("DB")
 
 # Versao do schema. Bump + adicionar MIGRATIONS quando mudar.
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3
 
 SCHEMA_SQL = """
 CREATE TABLE IF NOT EXISTS animes (
@@ -69,6 +69,7 @@ CREATE TABLE IF NOT EXISTS episodios (
     titulo      TEXT,
     titulo_pt   TEXT,
     url_cdn     TEXT,
+    url_cdn2    TEXT,
     url_af      TEXT,
     fonte_ativa TEXT DEFAULT 'cdn',
     created_at  TEXT DEFAULT (datetime('now')),
@@ -187,6 +188,10 @@ MIGRATIONS: dict[int, list[str]] = {
         "  status TEXT NOT NULL,"
         "  started_at TEXT NOT NULL"
         ")",
+    ],
+    # v3: suporte a 2 fontes CDN (cdn-s01 + pixel-sus) por episodio
+    3: [
+        "ALTER TABLE episodios ADD COLUMN url_cdn2 TEXT",
     ],
 }
 
@@ -356,21 +361,23 @@ class DatabaseManager:
         numero: int,
         titulo: str = None,
         url_cdn: str = None,
+        url_cdn2: str = None,
         url_af: str = None,
         fonte_ativa: str = "cdn",
     ):
         async with self._write_sem:
             await self._db.execute(
                 """
-                INSERT INTO episodios (anime_id, numero, titulo, url_cdn, url_af, fonte_ativa)
-                VALUES (?, ?, ?, ?, ?, ?)
+                INSERT INTO episodios (anime_id, numero, titulo, url_cdn, url_cdn2, url_af, fonte_ativa)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(anime_id, numero) DO UPDATE SET
                     titulo = COALESCE(excluded.titulo, episodios.titulo),
                     url_cdn = COALESCE(excluded.url_cdn, episodios.url_cdn),
+                    url_cdn2 = COALESCE(excluded.url_cdn2, episodios.url_cdn2),
                     url_af = COALESCE(excluded.url_af, episodios.url_af),
                     fonte_ativa = excluded.fonte_ativa
             """,
-                (anime_id, numero, titulo, url_cdn, url_af, fonte_ativa),
+                (anime_id, numero, titulo, url_cdn, url_cdn2, url_af, fonte_ativa),
             )
             await self._db.commit()
 
@@ -539,13 +546,21 @@ class DatabaseManager:
             return [dict(r) for r in rows]
 
     async def get_genero_by_nome_pt(self, nome_pt: str) -> dict | None:
-        async with self._db.execute(
-            "SELECT * FROM generos WHERE nome_pt = ? OR nome = ?", (nome_pt, nome_pt)
-        ) as cur:
-            row = await cur.fetchone()
-            if not row:
-                return None
-            return dict(row)
+        """Lookup case-insensitive (Unicode-safe via Python).
+
+        SQLite LOWER() nao trata acentos/cedilha (ex: 'Ação' != 'AÇÃO'),
+        entao carregamos todos os generos (lista pequena) e comparamos em Python.
+        """
+        async with self._db.execute("SELECT * FROM generos") as cur:
+            rows = await cur.fetchall()
+        needle = nome_pt.casefold()
+        for r in rows:
+            row = dict(r)
+            if row.get("nome_pt") and row["nome_pt"].casefold() == needle:
+                return row
+            if row.get("nome") and row["nome"].casefold() == needle:
+                return row
+        return None
 
     async def get_animes_by_genero(
         self, genero_nome: str, page: int = 1, limit: int = 30

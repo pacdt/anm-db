@@ -12,7 +12,12 @@ logs_atualizacoes
 
 # Banco de dados
 anm.db
+anm.db-shm
+anm.db-wal
 data/
+
+# Arquivos temporarios
+_db_check.py
 
 # Ambiente / secrets
 .env
@@ -31,6 +36,13 @@ api_dist/
 
 # Cache Jikan (legado)
 jikan_cache/
+
+# Logs
+*.log
+api_stderr.log
+api_stderr2.log
+api_stdout.log
+api_stdout2.log
 
 # IDE
 .vscode/

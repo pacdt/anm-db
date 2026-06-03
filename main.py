@@ -249,7 +249,7 @@ async def _scraper_mode(args):
             await scraper.close_session()
             await db.close()
 
-    asyncio.run(run())
+    await run()
 
 
 if __name__ == "__main__":

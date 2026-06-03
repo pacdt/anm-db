@@ -14,6 +14,7 @@ class Episodio:
     titulo: str | None = None
     titulo_pt: str | None = None
     url_cdn: str | None = None
+    url_cdn2: str | None = None
     url_af: str | None = None
     fonte_ativa: str = "cdn"
     created_at: str | None = None
@@ -28,6 +29,7 @@ class Episodio:
             titulo=d.get("titulo"),
             titulo_pt=d.get("titulo_pt"),
             url_cdn=d.get("url_cdn"),
+            url_cdn2=d.get("url_cdn2"),
             url_af=d.get("url_af"),
             fonte_ativa=d.get("fonte_ativa") or "cdn",
             created_at=d.get("created_at"),
@@ -37,6 +39,8 @@ class Episodio:
         sources = []
         if self.url_cdn:
             sources.append("cdn")
+        if self.url_cdn2:
+            sources.append("cdn2")
         if self.url_af:
             sources.append("animefire")
         return sources

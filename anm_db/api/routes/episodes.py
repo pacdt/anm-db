@@ -30,7 +30,9 @@ async def latest_episodes(
             titulo = e.get("titulo")
         available = []
         if e.get("url_cdn"):
-            available.append("cdn")
+            available.append("cdn1")
+        if e.get("url_cdn2"):
+            available.append("cdn2")
         if e.get("url_af"):
             available.append("animefire")
         items.append(
@@ -41,6 +43,7 @@ async def latest_episodes(
                 titulo=titulo,
                 titulo_pt=e.get("titulo_pt"),
                 url_cdn=e.get("url_cdn"),
+                url_cdn2=e.get("url_cdn2"),
                 url_af=e.get("url_af"),
                 fonte_ativa=e.get("fonte_ativa"),
                 slug=e.get("slug"),
@@ -78,7 +81,9 @@ async def episodes_by_anime(
             titulo = e.get("titulo")
         available = []
         if e.get("url_cdn"):
-            available.append("cdn")
+            available.append("cdn1")
+        if e.get("url_cdn2"):
+            available.append("cdn2")
         if e.get("url_af"):
             available.append("animefire")
         items.append({
@@ -88,6 +93,7 @@ async def episodes_by_anime(
             "titulo": titulo,
             "titulo_pt": e.get("titulo_pt"),
             "url_cdn": e.get("url_cdn"),
+            "url_cdn2": e.get("url_cdn2"),
             "url_af": e.get("url_af"),
             "fonte_ativa": e.get("fonte_ativa"),
             "slug": slug,

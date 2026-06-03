@@ -29,7 +29,7 @@ logger = logging.getLogger("Download")
 
 router = APIRouter(prefix="/download", tags=["download"])
 
-Source = Literal["auto", "cdn", "af"]
+Source = Literal["auto", "cdn", "cdn1", "cdn2", "af"]
 Format = Literal["mp4", "ts", "hls"]
 
 
