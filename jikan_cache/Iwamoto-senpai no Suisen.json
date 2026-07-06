@@ -1,0 +1,153 @@
+{
+  "mal_id": 63324,
+  "url": "https://myanimelist.net/anime/63324/Iwamoto-senpai_no_Suisen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1112/158450.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1112/158450t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1112/158450l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1112/158450.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1112/158450t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1112/158450l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/5Q2OFIvOME0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Iwamoto-senpai no Suisen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Recommendation from Mr. Iwamoto"
+    },
+    {
+      "type": "Japanese",
+      "title": "岩元先輩ノ推薦"
+    },
+    {
+      "type": "English",
+      "title": "Recommendations from Iwamoto-Senpai"
+    }
+  ],
+  "title": "Iwamoto-senpai no Suisen",
+  "title_english": "Recommendations from Iwamoto-Senpai",
+  "title_japanese": "岩元先輩ノ推薦",
+  "title_synonyms": [
+    "Recommendation from Mr. Iwamoto"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 4, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": 6.17,
+  "scored_by": 487,
+  "rank": 9915,
+  "popularity": 8140,
+  "members": 7705,
+  "favorites": 13,
+  "synopsis": "The 1910s. Iwamoto Kodo, a student at Suho Junior High School under direct command of the army, is investigating paranormal phenomena across the country as per military instruction. In a village rumoured to have \"black snow,\" he meets a boy with special powers who believes them to be an illness; through Iwamoto's support, he realises they might have something in common and receives a recommendation to the school. Mysteries await Iwamoto at each place he visits–a romantic tale of this era begins to unravel!\n\n(Source: MAL News)",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    },
+    {
+      "mal_id": 1333,
+      "type": "anime",
+      "name": "Hakuhodo DY Music & Pictures",
+      "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music___Pictures"
+    },
+    {
+      "mal_id": 1899,
+      "type": "anime",
+      "name": "Good Smile Film",
+      "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Studio Deen",
+      "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

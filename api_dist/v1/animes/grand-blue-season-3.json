@@ -1,0 +1,139 @@
+{
+  "mal_id": 62542,
+  "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1615/158194.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1615/158194.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KJw6ZZaMOWA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Grand Blue Season 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "ぐらんぶる Season 3"
+    },
+    {
+      "type": "English",
+      "title": "Grand Blue Dreaming Season 3"
+    }
+  ],
+  "title": "Grand Blue Season 3",
+  "title_english": "Grand Blue Dreaming Season 3",
+  "title_japanese": "ぐらんぶる Season 3",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4_temp/grand-blue-season-3/1/720p.mp4?token=M6giWxEUlh-0HOPQDg-lvQ&expires=1783375909&ip=187.119.207.241",
+      "nome": "Episódio 1"
+    }
+  ],
+  "status": "Not yet aired",
+  "airing": false,
+  "aired": {
+    "from": "2026-07-07T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 7, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": null,
+  "scored_by": null,
+  "rank": null,
+  "popularity": 3010,
+  "members": 70229,
+  "favorites": 209,
+  "synopsis": "Third season of Grand Blue.",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 00:00 (JST)"
+  },
+  "producers": [],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1379,
+      "type": "anime",
+      "name": "Zero-G",
+      "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+    },
+    {
+      "mal_id": 2985,
+      "type": "anime",
+      "name": "Saber Works",
+      "url": "https://myanimelist.net/anime/producer/2985/Saber_Works"
+    }
+  ],
+  "genres": [
+    "Comedy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1615/158194l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/KJw6ZZaMOWA?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 62542,
+  "slug": "grand-blue-season-3"
+}

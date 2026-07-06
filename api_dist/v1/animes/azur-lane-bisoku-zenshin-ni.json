@@ -1,0 +1,146 @@
+{
+  "mal_id": 56613,
+  "url": "https://myanimelist.net/anime/56613/Azur_Lane__Bisoku_Zenshin_Ni",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1380/158715.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1380/158715t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/158715l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1380/158715.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1380/158715t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/158715l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/rPZZCDVGqF4?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Azur Lane: Bisoku Zenshin! Ni!!"
+    },
+    {
+      "type": "Japanese",
+      "title": "アズールレーン びそくぜんしんっ！にっ!!"
+    },
+    {
+      "type": "English",
+      "title": "Azur Lane: Slow Ahead! Season 2"
+    }
+  ],
+  "title": "Azur Lane: Bisoku Zenshin! Ni!!",
+  "title_english": "Azur Lane: Slow Ahead! Season 2",
+  "title_japanese": "アズールレーン びそくぜんしんっ！にっ!!",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "4-koma manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4/azur-lane-bisoku-zenshin-ni/hd/1.mp4?token=m7839eP1HM7eAHFVDtU3gg&expires=1783375575&ip=187.119.207.241",
+      "nome": "Episódio 1"
+    }
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-06T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 6, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.68,
+  "scored_by": 189,
+  "rank": 6706,
+  "popularity": 8792,
+  "members": 6340,
+  "favorites": 17,
+  "synopsis": "Second season of Azur Lane: Bisoku Zenshin!.",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Mondays",
+    "time": "01:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Mondays at 01:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 2634,
+      "type": "anime",
+      "name": "Yostar",
+      "url": "https://myanimelist.net/anime/producer/2634/Yostar"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2134,
+      "type": "anime",
+      "name": "Studio CANDY BOX",
+      "url": "https://myanimelist.net/anime/producer/2134/Studio_CANDY_BOX"
+    }
+  ],
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 51,
+      "type": "anime",
+      "name": "Anthropomorphic",
+      "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+    },
+    {
+      "mal_id": 52,
+      "type": "anime",
+      "name": "CGDCT",
+      "url": "https://myanimelist.net/anime/genre/52/CGDCT"
+    },
+    {
+      "mal_id": 38,
+      "type": "anime",
+      "name": "Military",
+      "url": "https://myanimelist.net/anime/genre/38/Military"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1380/158715l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/rPZZCDVGqF4?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 56613,
+  "slug": "azur-lane-bisoku-zenshin-ni"
+}

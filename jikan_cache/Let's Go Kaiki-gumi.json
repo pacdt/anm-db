@@ -1,0 +1,134 @@
+{
+  "mal_id": 62683,
+  "url": "https://myanimelist.net/anime/62683/Lets_Go_Kaiki-gumi",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1024/158581.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1024/158581t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1024/158581l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1024/158581.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1024/158581t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1024/158581l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/3DKfmW2aDhY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Let's Go Kaiki-gumi"
+    },
+    {
+      "type": "Japanese",
+      "title": "レッツゴー怪奇組"
+    },
+    {
+      "type": "English",
+      "title": "Let's Go Kaikigumi"
+    }
+  ],
+  "title": "Let's Go Kaiki-gumi",
+  "title_english": "Let's Go Kaikigumi",
+  "title_japanese": "レッツゴー怪奇組",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Web manga",
+  "episodes": 12,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 5, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": 6.15,
+  "scored_by": 402,
+  "rank": 9987,
+  "popularity": 9209,
+  "members": 5661,
+  "favorites": 11,
+  "synopsis": "The story of Let's Go Kaiki-gumi follows a nameless protagonist who is six times more vulnerable to spiritual phenomena than the average human being. One day, the protagonist encounters Mechako, a mysterious girl who runs the Kaiki-gumi, an organization that polices the behavior of the ghosts and monsters that threaten human beings, and he somehow gets roped into helping the Kaiki-gumi re-establish itself, resulting in all sorts of strange events and spooky shenanigans.\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "16:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 16:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 145,
+      "type": "anime",
+      "name": "TBS",
+      "url": "https://myanimelist.net/anime/producer/145/TBS"
+    },
+    {
+      "mal_id": 213,
+      "type": "anime",
+      "name": "Half H.P Studio",
+      "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1075,
+      "type": "anime",
+      "name": "C-Station",
+      "url": "https://myanimelist.net/anime/producer/1075/C-Station"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 37,
+      "type": "anime",
+      "name": "Supernatural",
+      "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": []
+}

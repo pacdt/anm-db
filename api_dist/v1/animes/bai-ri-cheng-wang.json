@@ -1,0 +1,134 @@
+{
+  "mal_id": 62957,
+  "url": "https://myanimelist.net/anime/62957/Bai_Ri_Cheng_Wang",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1697/158621.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1697/158621t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1697/158621l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1697/158621.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1697/158621t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1697/158621l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/IYcGvpXYfGE?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Bai Ri Cheng Wang"
+    },
+    {
+      "type": "Japanese",
+      "title": "百日成王"
+    },
+    {
+      "type": "English",
+      "title": "Crowned in a Hundred Days"
+    }
+  ],
+  "title": "Bai Ri Cheng Wang",
+  "title_english": "Crowned in a Hundred Days",
+  "title_japanese": "百日成王",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Original",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4/bai-ri-cheng-wang/hd/1.mp4?token=OYnwn_wS5tzFfjXCuCJzrw&expires=1783375591&ip=187.119.207.241",
+      "nome": "Episódio 1"
+    },
+    {
+      "numero": 2,
+      "url": "https://lightspeedst.net/s8/mp4/bai-ri-cheng-wang/hd/2.mp4?token=SU32HcVuwciEG0x6x9z0bA&expires=1783376534&ip=187.119.207.241",
+      "nome": "Episódio 2"
+    }
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 3, 2026 to ?"
+  },
+  "duration": "12 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 6.66,
+  "scored_by": 223,
+  "rank": 6851,
+  "popularity": 12925,
+  "members": 1903,
+  "favorites": 4,
+  "synopsis": "After a beloved king unleashes a brutal massacre, Ming loses everything and vows revenge. But as he sets out to kill the tyrant, he discovers the true King Lie has been forced from his own body. With only 100 days left to reclaim the throne, the king and his would-be assassin must join forces to expose an impostor before the kingdom falls into darkness.\n\n(Source: Crunchyroll)",
+  "background": "",
+  "season": null,
+  "year": null,
+  "broadcast": {
+    "day": null,
+    "time": null,
+    "timezone": null,
+    "string": null
+  },
+  "producers": [
+    {
+      "mal_id": 1414,
+      "type": "anime",
+      "name": "bilibili",
+      "url": "https://myanimelist.net/anime/producer/1414/bilibili"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1774,
+      "type": "anime",
+      "name": "LAN Studio",
+      "url": "https://myanimelist.net/anime/producer/1774/LAN_Studio"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Gore",
+      "url": "https://myanimelist.net/anime/genre/58/Gore"
+    }
+  ],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1697/158621l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/IYcGvpXYfGE?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 62957,
+  "slug": "bai-ri-cheng-wang"
+}

@@ -1,0 +1,145 @@
+{
+  "mal_id": 63061,
+  "url": "https://myanimelist.net/anime/63061/Uchi_no_Otouto-domo_ga_Sumimasen",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1902/156345.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/156345t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/156345l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1902/156345.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/156345t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/156345l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/d1as4Y7etI0?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Uchi no Otouto-domo ga Sumimasen"
+    },
+    {
+      "type": "Synonym",
+      "title": "Sorry About My Little Brothers"
+    },
+    {
+      "type": "Synonym",
+      "title": "Uchioto"
+    },
+    {
+      "type": "Japanese",
+      "title": "うちの弟どもがすみません"
+    },
+    {
+      "type": "English",
+      "title": "Please Excuse My Younger Brothers"
+    }
+  ],
+  "title": "Uchi no Otouto-domo ga Sumimasen",
+  "title_english": "Please Excuse My Younger Brothers",
+  "title_japanese": "うちの弟どもがすみません",
+  "title_synonyms": [
+    "Sorry About My Little Brothers",
+    "Uchioto"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 24,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 4, 2026 to ?"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7,
+  "scored_by": 748,
+  "rank": 4796,
+  "popularity": 7554,
+  "members": 9290,
+  "favorites": 9,
+  "synopsis": "During spring break at the end of her first year of high school, Ito learns she has to move because her mother is getting remarried. What she didn't expect is suddenly gaining four younger stepbrothers under the same roof.\n\nDetermined to get along with her new family, Ito does her best to adjust, but the eldest brother, Gen, is distant and hard to read. Yet as they spend more time together, she starts to see glimpses of kindness behind his cool exterior.\n\n(Source: MAL News)",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 17,
+      "type": "anime",
+      "name": "Aniplex",
+      "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+    },
+    {
+      "mal_id": 2640,
+      "type": "anime",
+      "name": "INSPION Edge",
+      "url": "https://myanimelist.net/anime/producer/2640/INSPION_Edge"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1087,
+      "type": "anime",
+      "name": "Lay-duce",
+      "url": "https://myanimelist.net/anime/producer/1087/Lay-duce"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 25,
+      "type": "anime",
+      "name": "Shoujo",
+      "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "mal_id": 61048,
+  "url": "https://myanimelist.net/anime/61048/Neko_to_Ryuu",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1878/157796.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1878/157796t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1878/157796l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1878/157796.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1878/157796t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1878/157796l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/xi4rGcyeYr8?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Neko to Ryuu"
+    },
+    {
+      "type": "Japanese",
+      "title": "猫と竜"
+    },
+    {
+      "type": "English",
+      "title": "The Cat and the Dragon"
+    }
+  ],
+  "title": "Neko to Ryuu",
+  "title_english": "The Cat and the Dragon",
+  "title_japanese": "猫と竜",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Light novel",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4/neko-to-ryuu/hd/1.mp4?token=D_gg-5pKa6uu0-Vh3_5M_g&expires=1783375641&ip=187.119.207.241",
+      "nome": "Episódio 1"
+    },
+    {
+      "numero": 2,
+      "url": "https://lightspeedst.net/s8/mp4/neko-to-ryuu/hd/2.mp4?token=mkO-kOmADWBREKs69Sd0Vw&expires=1783376585&ip=187.119.207.241",
+      "nome": "Episódio 2"
+    }
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-06-27T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 27,
+        "month": 6,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jun 27, 2026 to ?"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.6,
+  "scored_by": 2246,
+  "rank": 1776,
+  "popularity": 5287,
+  "members": 22772,
+  "favorites": 44,
+  "synopsis": "An orphan since hatched, a lone dragon named \"Uncle Wings\" is taken in by a family of magic-wielding cats and raised as one of their own. As Uncle Wings grows, he becomes the cats' protector, determined to keep them safe from humans. But as he watches the cats connect with humans using their magic, Uncle Wings slowly starts to warm up to humans in this heartfelt, bittersweet tale.\n\n(Source: Crunchyroll)",
+  "background": "Each episode was streamed seven days in advance of the TV broadcast starting on June 27, 2026, on Crunchyroll, d Anime Store and ABEMA. Regular broadcasting began on July 4, 2026.",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "21:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 21:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 315,
+      "type": "anime",
+      "name": "DAX Production",
+      "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+    },
+    {
+      "mal_id": 1418,
+      "type": "anime",
+      "name": "Nippon Television Music",
+      "url": "https://myanimelist.net/anime/producer/1418/Nippon_Television_Music"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 28,
+      "type": "anime",
+      "name": "OLM",
+      "url": "https://myanimelist.net/anime/producer/28/OLM"
+    }
+  ],
+  "genres": [
+    "Fantasy"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "image": "https://cdn.myanimelist.net/images/anime/1878/157796l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/xi4rGcyeYr8?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 61048,
+  "slug": "neko-to-ryuu"
+}

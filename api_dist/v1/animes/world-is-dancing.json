@@ -1,0 +1,170 @@
+{
+  "mal_id": 63347,
+  "url": "https://myanimelist.net/anime/63347/World_Is_Dancing",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1165/158709.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1165/158709t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1165/158709l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1165/158709.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1165/158709t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1165/158709l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/QQBCvRAIP6o?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "World Is Dancing"
+    },
+    {
+      "type": "Japanese",
+      "title": "ワールド イズ ダンシング"
+    },
+    {
+      "type": "English",
+      "title": "The World Is Dancing"
+    }
+  ],
+  "title": "World Is Dancing",
+  "title_english": "The World Is Dancing",
+  "title_japanese": "ワールド イズ ダンシング",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4_temp/world-is-dancing/1/720p.mp4?token=hfJG17WOffDD85pr76RT2Q&expires=1783375643&ip=187.119.207.241",
+      "nome": "Episódio 1"
+    },
+    {
+      "numero": 2,
+      "url": "https://lightspeedst.net/s8/mp4_temp/world-is-dancing/2/720p.mp4?token=iIbeAHE0QsSciytFGSsOSw&expires=1783376587&ip=187.119.207.241",
+      "nome": "Episódio 2"
+    }
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-02T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 2, 2026 to ?"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.37,
+  "scored_by": 1373,
+  "rank": 2764,
+  "popularity": 5252,
+  "members": 23105,
+  "favorites": 47,
+  "synopsis": "One does not need dance to live.\n\nIn 1374, during the turbulent age when the Northern and Southern Courts were locked in conflict, the Northern Court's shogun, Ashikaga Yoshimitsu, was becoming an increasingly dominant force.\n\nBorn the son of Kanami, head of the Kanze troupe of sarugaku performers, Oniyasha drifts through his days with a hazy question lodged in his heart: Why do people dance? His spirit remains clouded, until the day he encounters a dance that is truly \"good.\"\n\nCurious, sensitive, and strikingly beautiful, the boy meets people, laughs, cries, confronts his own weaknesses, and slowly begins to shape a new form of dance for a world steeped in impermanence.\n\n(Source: Shochiku)",
+  "background": "Each episode was streamed three days in advance of the TV broadcast starting on June 29, 2026, on Prime Video and HIDIVE. Regular broadcasting began on July 2, 2026.",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Thursdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Thursdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 109,
+      "type": "anime",
+      "name": "Shochiku",
+      "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+    },
+    {
+      "mal_id": 1422,
+      "type": "anime",
+      "name": "CyberAgent",
+      "url": "https://myanimelist.net/anime/producer/1422/CyberAgent"
+    },
+    {
+      "mal_id": 1626,
+      "type": "anime",
+      "name": "Shochiku Music Publishing",
+      "url": "https://myanimelist.net/anime/producer/1626/Shochiku_Music_Publishing"
+    },
+    {
+      "mal_id": 1856,
+      "type": "anime",
+      "name": "dugout",
+      "url": "https://myanimelist.net/anime/producer/1856/dugout"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 376,
+      "type": "anime",
+      "name": "Sentai Filmworks",
+      "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 3286,
+      "type": "anime",
+      "name": "Cypic",
+      "url": "https://myanimelist.net/anime/producer/3286/Cypic"
+    }
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 13,
+      "type": "anime",
+      "name": "Historical",
+      "url": "https://myanimelist.net/anime/genre/13/Historical"
+    },
+    {
+      "mal_id": 70,
+      "type": "anime",
+      "name": "Performing Arts",
+      "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1165/158709l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/QQBCvRAIP6o?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 63347,
+  "slug": "world-is-dancing"
+}

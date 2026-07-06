@@ -1,8 +1,22 @@
 {
   "name": "Sci-Fi",
   "slug": "sci-fi",
-  "count": 855,
+  "count": 856,
   "animes": [
+    {
+      "title": "Digimon Beatbreak",
+      "slug": "digimon-beatbreak",
+      "image": "https://cdn.myanimelist.net/images/anime/1776/151242l.webp",
+      "score": 7.07,
+      "type": "legendado"
+    },
+    {
+      "title": "Scum of the Brave",
+      "slug": "yuusha-no-kuzu",
+      "image": "https://cdn.myanimelist.net/images/anime/1821/154043l.webp",
+      "score": null,
+      "type": "legendado"
+    },
     {
       "title": "Snowball Earth",
       "slug": "snowball-earth",
@@ -18,17 +32,10 @@
       "type": "legendado"
     },
     {
-      "title": "Scum of the Brave",
-      "slug": "yuusha-no-kuzu",
-      "image": "https://cdn.myanimelist.net/images/anime/1821/154043l.webp",
-      "score": null,
-      "type": "legendado"
-    },
-    {
-      "title": "Digimon Beatbreak",
-      "slug": "digimon-beatbreak",
-      "image": "https://cdn.myanimelist.net/images/anime/1776/151242l.webp",
-      "score": 7.07,
+      "title": "Azur Lane: Slow Ahead! Season 2",
+      "slug": "azur-lane-bisoku-zenshin-ni",
+      "image": "https://cdn.myanimelist.net/images/anime/1380/158715l.webp",
+      "score": 6.68,
       "type": "legendado"
     },
     {

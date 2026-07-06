@@ -1,0 +1,135 @@
+{
+  "mal_id": 63100,
+  "url": "https://myanimelist.net/anime/63100/Tetsunabe_no_Jan",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1961/158686.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1961/158686t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1961/158686l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1961/158686.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1961/158686t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1961/158686l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/awvmDnz3URo?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Tetsunabe no Jan!"
+    },
+    {
+      "type": "Japanese",
+      "title": "鉄鍋のジャン！"
+    },
+    {
+      "type": "English",
+      "title": "Iron Wok Jan!"
+    }
+  ],
+  "title": "Tetsunabe no Jan!",
+  "title_english": "Iron Wok Jan!",
+  "title_japanese": "鉄鍋のジャン！",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4_temp/tetsunabe-no-jan/1/720p.mp4?token=HEDA6ok-p-TOXtSJi9HHlA&expires=1783375579&ip=187.119.207.241",
+      "nome": "Episódio 1"
+    }
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 5, 2026 to ?"
+  },
+  "duration": "23 min",
+  "rating": null,
+  "score": 6.93,
+  "scored_by": 537,
+  "rank": 5149,
+  "popularity": 8391,
+  "members": 7128,
+  "favorites": 6,
+  "synopsis": "The original Iron Wok Jan! manga centers on a brilliant young chef named Jan Akiyama, who works at a top class restaurant where he is constantly challenging Kiriko Gobanchou, the granddaughter of the restaurant's owner and a great chef in her own right. While Kiriko believes that food should be made with the customer in mind, Jan believes that cooking should be used for competition.\n\n(Source: ANN)",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "17:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 17:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1103,
+      "type": "anime",
+      "name": "TROYCA",
+      "url": "https://myanimelist.net/anime/producer/1103/TROYCA"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Gourmet"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1961/158686l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/awvmDnz3URo?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 63100,
+  "slug": "tetsunabe-no-jan"
+}

@@ -1,13 +1,20 @@
 {
   "name": "Adventure",
   "slug": "adventure",
-  "count": 1016,
+  "count": 1025,
   "animes": [
     {
-      "title": "Snowball Earth",
-      "slug": "snowball-earth",
-      "image": "https://myanimelist.net/images/anime/1786/156390l.webp",
-      "score": 6.57,
+      "title": "Daemons of the Shadow Realm",
+      "slug": "yomi-no-tsugai",
+      "image": "https://myanimelist.net/images/anime/1171/156397l.webp",
+      "score": 8.03,
+      "type": "legendado"
+    },
+    {
+      "title": "One Piece: The Movie",
+      "slug": "one-piece",
+      "image": "https://cdn.myanimelist.net/images/anime/1770/97704l.webp",
+      "score": 7.09,
       "type": "legendado"
     },
     {
@@ -18,6 +25,13 @@
       "type": "legendado"
     },
     {
+      "title": "Snowball Earth",
+      "slug": "snowball-earth",
+      "image": "https://myanimelist.net/images/anime/1786/156390l.webp",
+      "score": 6.57,
+      "type": "legendado"
+    },
+    {
       "title": "The Strongest Job is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
       "slug": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
       "image": "https://myanimelist.net/images/anime/1632/155095l.webp",
@@ -25,10 +39,24 @@
       "type": "legendado"
     },
     {
-      "title": "Daemons of the Shadow Realm",
-      "slug": "yomi-no-tsugai",
-      "image": "https://myanimelist.net/images/anime/1171/156397l.webp",
-      "score": 8.03,
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "slug": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+      "image": "https://cdn.myanimelist.net/images/anime/1527/158340l.webp",
+      "score": 9.03,
+      "type": "legendado"
+    },
+    {
+      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "slug": "rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku",
+      "image": "https://cdn.myanimelist.net/images/anime/1319/158376l.webp",
+      "score": 6.74,
+      "type": "legendado"
+    },
+    {
+      "title": "Crowned in a Hundred Days",
+      "slug": "bai-ri-cheng-wang",
+      "image": "https://cdn.myanimelist.net/images/anime/1697/158621l.webp",
+      "score": 6.66,
       "type": "legendado"
     },
     {
@@ -39,10 +67,45 @@
       "type": "legendado"
     },
     {
-      "title": "One Piece: The Movie",
-      "slug": "one-piece",
-      "image": "https://cdn.myanimelist.net/images/anime/1770/97704l.webp",
-      "score": 7.09,
+      "title": "Skeleton Knight in Another World II",
+      "slug": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+      "image": "https://cdn.myanimelist.net/images/anime/1544/157046l.webp",
+      "score": 7.15,
+      "type": "legendado"
+    },
+    {
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "slug": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
+      "image": "https://cdn.myanimelist.net/images/anime/1322/158711l.webp",
+      "score": 7.13,
+      "type": "legendado"
+    },
+    {
+      "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "slug": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
+      "image": "https://cdn.myanimelist.net/images/anime/1534/156314l.webp",
+      "score": 7.24,
+      "type": "legendado"
+    },
+    {
+      "title": "The Insipid Prince's Furtive Grab for The Throne",
+      "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+      "image": "https://cdn.myanimelist.net/images/anime/1529/158522l.webp",
+      "score": 6.57,
+      "type": "legendado"
+    },
+    {
+      "title": "I Became a Legend After My 10 Year-Long Last Stand.",
+      "slug": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+      "image": "https://cdn.myanimelist.net/images/anime/1371/154308l.webp",
+      "score": 6.88,
+      "type": "legendado"
+    },
+    {
+      "title": "The World's Strongest Rearguard",
+      "slug": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
+      "image": "https://cdn.myanimelist.net/images/anime/1380/157378l.webp",
+      "score": 6.16,
       "type": "legendado"
     },
     {

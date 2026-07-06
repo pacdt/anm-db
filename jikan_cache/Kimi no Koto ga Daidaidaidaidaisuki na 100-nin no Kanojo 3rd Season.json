@@ -1,0 +1,159 @@
+{
+  "mal_id": 62811,
+  "url": "https://myanimelist.net/anime/62811/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo_3rd_Season",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1106/157174.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1106/157174t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1106/157174l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1106/157174.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1106/157174t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1106/157174l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/kvbOPdDfPio?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season"
+    },
+    {
+      "type": "Synonym",
+      "title": "Hyakkano 3rd Season"
+    },
+    {
+      "type": "Japanese",
+      "title": "君のことが大大大大大好きな100人の彼女 3期"
+    },
+    {
+      "type": "English",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3"
+    }
+  ],
+  "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+  "title_english": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
+  "title_japanese": "君のことが大大大大大好きな100人の彼女 3期",
+  "title_synonyms": [
+    "Hyakkano 3rd Season"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-05T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 5, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.29,
+  "scored_by": 2318,
+  "rank": 337,
+  "popularity": 3552,
+  "members": 52316,
+  "favorites": 189,
+  "synopsis": "Third season of Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Sundays",
+    "time": "22:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Sundays at 22:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 104,
+      "type": "anime",
+      "name": "Lantis",
+      "url": "https://myanimelist.net/anime/producer/104/Lantis"
+    },
+    {
+      "mal_id": 2228,
+      "type": "anime",
+      "name": "Bushiroad Move",
+      "url": "https://myanimelist.net/anime/producer/2228/Bushiroad_Move"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1722,
+      "type": "anime",
+      "name": "Bibury Animation Studios",
+      "url": "https://myanimelist.net/anime/producer/1722/Bibury_Animation_Studios"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    },
+    {
+      "mal_id": 22,
+      "type": "anime",
+      "name": "Romance",
+      "url": "https://myanimelist.net/anime/genre/22/Romance"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 35,
+      "type": "anime",
+      "name": "Harem",
+      "url": "https://myanimelist.net/anime/genre/35/Harem"
+    },
+    {
+      "mal_id": 20,
+      "type": "anime",
+      "name": "Parody",
+      "url": "https://myanimelist.net/anime/genre/20/Parody"
+    },
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ]
+}

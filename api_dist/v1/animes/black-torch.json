@@ -1,0 +1,153 @@
+{
+  "mal_id": 61169,
+  "url": "https://myanimelist.net/anime/61169/Black_Torch",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1965/158363.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1965/158363t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1965/158363l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1965/158363.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1965/158363t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1965/158363l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/2clp09dITKY?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Black Torch"
+    },
+    {
+      "type": "Japanese",
+      "title": "BLACK TORCH"
+    },
+    {
+      "type": "English",
+      "title": "Black Torch"
+    }
+  ],
+  "title": "Black Torch",
+  "title_english": "Black Torch",
+  "title_japanese": "BLACK TORCH",
+  "title_synonyms": [],
+  "type": "legendado",
+  "source": "Manga",
+  "episodes": [
+    {
+      "numero": 1,
+      "url": "https://lightspeedst.net/s8/mp4_temp/black-torch/1/720p.mp4?token=JZgSuv6zUUWPWNI3TsL9XA&expires=1783375892&ip=187.119.207.241",
+      "nome": "Episódio 1"
+    }
+  ],
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-04T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 4, 2026 to ?"
+  },
+  "duration": "Unknown",
+  "rating": null,
+  "score": 7.38,
+  "scored_by": 2565,
+  "rank": 2649,
+  "popularity": 3684,
+  "members": 48892,
+  "favorites": 130,
+  "synopsis": "Seventeen-year-old Jirou Azuma lives a quiet life with his grandfather, utilizing his supernatural ability to speak with animals to befriend and protect them. Both Jirou and his grandfather are descendants of a long-standing shinobi clan, training in combat to keep the art of battle alive within their family. Jirou's life is thrown into upheaval after rescuing a seemingly normal black cat, Ragou, only to discover that the cat is actually a mononoke—a demonic spirit that has long been at war with mankind. When a hostile mononoke comes looking for Ragou, Jirou uses his shinobi training to jump to the cat's defense, but immediately suffers a mortal wound.\n\nFaced with the decision of whether or not to devour Jirou's fading energy and restore himself to full power, Ragou instead chooses to give his remaining energy to Jirou. Reviving the boy, the transfer also grants him great supernatural powers that complement his own shinobi fighting style. This act is witnessed by Ryousuke Shiba, an officer in the Bureau of Espionage whose job revolves around dispatching aggressive mononoke. Shiba extends Jirou and his grandfather an offer: to join the Bureau's new squad, Black Torch, and help them battle powerful mononoke who seek to devour innocent people.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Saturdays",
+    "time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Saturdays at 22:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 62,
+      "type": "anime",
+      "name": "Shogakukan-Shueisha Productions",
+      "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+    },
+    {
+      "mal_id": 711,
+      "type": "anime",
+      "name": "Delfi Sound",
+      "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+    },
+    {
+      "mal_id": 1365,
+      "type": "anime",
+      "name": "Shueisha",
+      "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+    },
+    {
+      "mal_id": 2999,
+      "type": "anime",
+      "name": "Hike",
+      "url": "https://myanimelist.net/anime/producer/2999/Hike"
+    }
+  ],
+  "licensors": [
+    {
+      "mal_id": 119,
+      "type": "anime",
+      "name": "VIZ Media",
+      "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+    }
+  ],
+  "studios": [
+    {
+      "mal_id": 2696,
+      "type": "anime",
+      "name": "100studio",
+      "url": "https://myanimelist.net/anime/producer/2696/100studio"
+    }
+  ],
+  "genres": [
+    "Action",
+    "Supernatural"
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [
+    {
+      "mal_id": 27,
+      "type": "anime",
+      "name": "Shounen",
+      "url": "https://myanimelist.net/anime/genre/27/Shounen"
+    }
+  ],
+  "image": "https://cdn.myanimelist.net/images/anime/1965/158363l.webp",
+  "trailer_url": "https://www.youtube-nocookie.com/embed/2clp09dITKY?enablejsapi=1&wmode=opaque&autoplay=1",
+  "id": 61169,
+  "slug": "black-torch"
+}
